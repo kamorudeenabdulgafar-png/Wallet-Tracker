@@ -1,0 +1,40 @@
+name: Wallet Tracker
+
+on:
+  schedule:
+    - cron: '*/10 * * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  track:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Run tracker (single pass)
+        env:
+          HELIUS_API_KEY: ${{ secrets.HELIUS_API_KEY }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          RUN_ONCE: "true"
+        run: python main.py
+
+      - name: Save "seen" memory back to the repo
+        run: |
+          git config user.name "wallet-tracker-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add seen_signatures.json
+          git diff --staged --quiet || git commit -m "update seen signatures"
+          git push
