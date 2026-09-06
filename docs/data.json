@@ -1,5 +1,5 @@
 {
-  "last_updated": 1788723802,
+  "last_updated": 1788724384,
   "wallets": [
     {
       "label": "Dev wallet 1",
@@ -9,7 +9,7 @@
   "wallet_stats": {
     "5CEbueQnq1Ym2uSSx2xXds3jQAqT1BDnkA59RZobSPAG": {
       "label": "Dev wallet 1",
-      "buy_count": 8,
+      "buy_count": 9,
       "sell_count": 3,
       "total_buy_usd": 152.43680223751002,
       "total_sell_usd": 0.0,
@@ -22,10 +22,30 @@
         "XsvNBAYkrDRNhA7wPHQfX3ZUXZyZLdnCQDfHZ56bzpg",
         "6UpQcMAb5xMzxc7ZfPaVMgx3KqsvKZdT5U718BzD5We2"
       ],
-      "last_active": 1788723801
+      "last_active": 1788724383
     }
   },
   "recent_alerts": [
+    {
+      "ts": 1788724384,
+      "type": "wallet",
+      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: NEAR -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/3oHAqfYHqjv57npKi2TaJ4ufQtW2sfQPojgsXRike6pcWDKedYXkRMZTN3erZLdHsNUfJNbdPLJRggfEefJXZ8CF"
+    },
+    {
+      "ts": 1788724383,
+      "type": "wallet",
+      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: JUP -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/4sSVzTpY8Z8HGRfviQDQtTWJWRWPicqretUQXj1j74vXTufTHu4cZApzd8ADVjsvQvV1Gov96cpXZrw1MG9oaAXi"
+    },
+    {
+      "ts": 1788724382,
+      "type": "wallet",
+      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: HOODx -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/c2d762D24jkH8JWYpzLTPin576vqwW78ey7t6Qc7kHWKxtLH8J2yN9EAbK9tyHmZ4HkPfmeBxmDy4xvoUPZmD5F"
+    },
+    {
+      "ts": 1788724381,
+      "type": "wallet",
+      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: USDC -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/2NThCXkAbcvjEQJf1ZLiu7PCxJ5ZV3yvijDpwtsh9oZNy3g39R4CxPYJPURM36RWUvDJZzb4LAofTgamSaSLUrnn"
+    },
     {
       "ts": 1788723802,
       "type": "wallet",
