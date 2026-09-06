@@ -1,0 +1,34 @@
+{
+  "last_updated": 1788694748,
+  "wallets": [
+    {
+      "label": "Dev wallet 1",
+      "address": "5CEbueQnq1Ym2uSSx2xXds3jQAqT1BDnkA59RZobSPAG"
+    }
+  ],
+  "wallet_stats": {
+    "5CEbueQnq1Ym2uSSx2xXds3jQAqT1BDnkA59RZobSPAG": {
+      "label": "Dev wallet 1",
+      "buy_count": 1,
+      "sell_count": 0,
+      "total_buy_usd": 12.062598687020001,
+      "total_sell_usd": 0.0,
+      "tokens_traded": [
+        "6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx"
+      ],
+      "last_active": 1788694748
+    }
+  },
+  "recent_alerts": [
+    {
+      "ts": 1788694748,
+      "type": "wallet",
+      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: JUP -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/3j8hxgcJAKov5vwtLvdAKQUc73ZEu3mF2AaZTo3EDTyEGqq3DJK1C6NSkUp9Y6NAG1DF1KrNxQJju4a2X1R4gAsf"
+    },
+    {
+      "ts": 1788694748,
+      "type": "wallet",
+      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: 0.1132 SOL (~$12.06) -> STONK\nTrade size: ~$12.06\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/51hJJVprUziknMHoU3m5gPaG5VBkGfmeVg5HrrouTdtFLZqM4DJyry6DsBNJWq3UkGgpBtJxnaVRYLUGwAyEFf2u"
+    }
+  ]
+}
