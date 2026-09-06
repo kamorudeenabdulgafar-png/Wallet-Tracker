@@ -8,6 +8,10 @@ on:
 permissions:
   contents: write   # needed so it can save its memory + dashboard data back to the repo
 
+concurrency:
+  group: wallet-tracker-single-run
+  cancel-in-progress: false   # if two runs overlap, queue the second instead of racing
+
 jobs:
   track:
     runs-on: ubuntu-latest
@@ -39,5 +43,8 @@ jobs:
               git add "$f"
             fi
           done
-          git diff --staged --quiet || git commit -m "update tracker state"
-          git push
+          if ! git diff --staged --quiet; then
+            git commit -m "update tracker state"
+            git pull --rebase origin main
+            git push
+          fi
