@@ -1,0 +1,263 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Signal — wallet &amp; coin tracker</title>
+<style>
+  :root{
+    --bg: #0b0e14;
+    --panel: #10141d;
+    --line: #1f2530;
+    --ink: #e7ebf3;
+    --ink-dim: #7c8698;
+    --teal: #4fd8c4;
+    --amber: #f2b84b;
+    --rose: #f2748c;
+  }
+  *{box-sizing:border-box;}
+  html,body{margin:0;padding:0;}
+  body{
+    background:
+      radial-gradient(1200px 600px at 15% -10%, #131a26 0%, transparent 60%),
+      var(--bg);
+    color:var(--ink);
+    font-family:"Inter",system-ui,-apple-system,Segoe UI,sans-serif;
+    min-height:100vh;
+  }
+  .mono{font-family:"IBM Plex Mono","SFMono-Regular",Consolas,monospace;}
+
+  header{
+    padding:36px 28px 20px;
+    display:flex;
+    align-items:baseline;
+    justify-content:space-between;
+    max-width:980px;
+    margin:0 auto;
+  }
+  header h1{
+    font-size:1.5rem;
+    font-weight:650;
+    margin:0;
+    letter-spacing:-0.01em;
+  }
+  header .updated{
+    color:var(--ink-dim);
+    font-size:0.85rem;
+  }
+
+  main{
+    max-width:980px;
+    margin:0 auto;
+    padding:0 28px 60px;
+    display:grid;
+    grid-template-columns: 260px 1fr;
+    gap:24px;
+  }
+  @media (max-width: 720px){
+    main{grid-template-columns:1fr;}
+  }
+
+  .panel{
+    background:var(--panel);
+    border:1px solid var(--line);
+    border-radius:10px;
+    padding:18px;
+  }
+  .panel h2{
+    font-size:0.78rem;
+    color:var(--ink-dim);
+    font-weight:600;
+    margin:0 0 14px;
+  }
+
+  .wallet-row{
+    padding:10px 0;
+    border-bottom:1px solid var(--line);
+  }
+  .wallet-row:last-child{border-bottom:none;}
+  .wallet-label{font-size:0.92rem; font-weight:560;}
+  .wallet-addr{
+    font-size:0.72rem;
+    color:var(--ink-dim);
+    word-break:break-all;
+    margin-top:3px;
+  }
+  .wallet-stats{
+    display:flex;
+    gap:12px;
+    margin-top:6px;
+    font-size:0.72rem;
+    color:var(--ink-dim);
+  }
+  .wallet-stats span b{color:var(--ink);}
+
+  .feed-item{
+    position:relative;
+    padding:16px 0 16px 22px;
+    border-bottom:1px solid var(--line);
+  }
+  .feed-item:last-child{border-bottom:none;}
+  .feed-item::before{
+    content:"";
+    position:absolute;
+    left:0; top:22px;
+    width:8px; height:8px;
+    border-radius:50%;
+    background:var(--ink-dim);
+  }
+  .feed-item.create::before{background:var(--teal);}
+  .feed-item.swap::before{background:var(--rose);}
+  .feed-item.scanner::before{background:var(--amber);}
+  .feed-item.outcome::before{background:#8b9bf2;}
+
+  .feed-tag{
+    font-size:0.68rem;
+    text-transform:uppercase;
+    letter-spacing:0.04em;
+    color:var(--ink-dim);
+    margin-bottom:6px;
+  }
+  .feed-item.create .feed-tag{color:var(--teal);}
+  .feed-item.swap .feed-tag{color:var(--rose);}
+  .feed-item.scanner .feed-tag{color:var(--amber);}
+  .feed-item.outcome .feed-tag{color:#8b9bf2;}
+
+  .feed-body{
+    white-space:pre-wrap;
+    font-size:0.86rem;
+    line-height:1.55;
+    color:var(--ink);
+  }
+  .feed-time{
+    font-size:0.72rem;
+    color:var(--ink-dim);
+    margin-top:6px;
+  }
+
+  .empty{
+    color:var(--ink-dim);
+    font-size:0.88rem;
+    padding:8px 0;
+  }
+
+  a{color:var(--teal);}
+</style>
+</head>
+<body>
+
+<header>
+  <h1>Signal</h1>
+  <div class="updated mono" id="updated">loading…</div>
+</header>
+
+<main>
+  <section class="panel">
+    <h2>Tracked wallets</h2>
+    <div id="wallets"><div class="empty">Loading…</div></div>
+  </section>
+
+  <section class="panel">
+    <h2>Live feed</h2>
+    <div id="feed"><div class="empty">Loading…</div></div>
+  </section>
+</main>
+
+<script>
+async function load() {
+  try {
+    const res = await fetch('data.json?t=' + Date.now());
+    const data = await res.json();
+    render(data);
+  } catch (e) {
+    document.getElementById('feed').innerHTML =
+      '<div class="empty">No data yet — the tracker hasn\'t run yet, or hasn\'t committed data.json.</div>';
+  }
+}
+
+function timeAgo(ts) {
+  const diff = Math.floor(Date.now() / 1000) - ts;
+  if (diff < 60) return diff + 's ago';
+  if (diff < 3600) return Math.floor(diff / 60) + 'm ago';
+[9/6/2026 12:53 AM] Clever: if (diff < 86400) return Math.floor(diff / 3600) + 'h ago';
+  return Math.floor(diff / 86400) + 'd ago';
+}
+
+function tagFor(message) {
+  if (message.startsWith('🆕')) return {cls: 'create', label: 'New coin'};
+  if (message.startsWith('💰')) return {cls: 'swap', label: 'Swap'};
+  if (message.startsWith('📈')) return {cls: 'scanner', label: 'Scanner hit'};
+  if (message.startsWith('📊')) return {cls: 'outcome', label: 'Signal review'};
+  return {cls: '', label: 'Activity'};
+}
+
+function render(data) {
+  document.getElementById('updated').textContent =
+    'updated ' + timeAgo(data.last_updated);
+
+  const walletsEl = document.getElementById('wallets');
+  if (!data.wallets || data.wallets.length === 0) {
+    walletsEl.innerHTML = '<div class="empty">No wallets tracked yet. Send /add to your bot.</div>';
+  } else {
+    const stats = data.wallet_stats || {};
+    walletsEl.innerHTML = data.wallets.map(w => {
+      const s = stats[w.address];
+      let statsLine = '';
+      if (s) {
+        const totalTrades = s.buy_count + s.sell_count;
+        const avgBuy = s.buy_count ? s.total_buy_usd / s.buy_count : 0;
+        const tag = totalTrades === 0 ? 'No activity yet'
+                  : totalTrades < 3 ? 'New activity'
+                  : totalTrades < 10 ? 'Active'
+                  : 'Frequent trader';
+        statsLine = `
+          <div class="wallet-stats">
+            <span><b>${s.buy_count}</b> buys</span>
+            <span><b>${s.sell_count}</b> sells</span>
+            <span><b>${(s.tokens_traded || []).length}</b> tokens</span>
+          </div>
+          <div class="wallet-stats">
+            <span>avg buy <b>$${avgBuy.toFixed(0)}</b></span>
+            <span>${tag}</span>
+            <span>last active ${s.last_active ? timeAgo(s.last_active) : '—'}</span>
+          </div>`;
+      }
+      return `
+        <div class="wallet-row">
+          <div class="wallet-label">${escapeHtml(w.label)}</div>
+          <div class="wallet-addr mono">${escapeHtml(w.address)}</div>
+          ${statsLine}
+        </div>
+      `;
+    }).join('');
+  }
+
+  const feedEl = document.getElementById('feed');
+  if (!data.recent_alerts || data.recent_alerts.length === 0) {
+    feedEl.innerHTML = '<div class="empty">No activity yet. This updates automatically as alerts come in.</div>';
+  } else {
+    feedEl.innerHTML = data.recent_alerts.map(a => {
+      const tag = tagFor(a.message);
+      return `
+        <div class="feed-item ${tag.cls}">
+          <div class="feed-tag">${tag.label}</div>
+          <div class="feed-body">${escapeHtml(a.message)}</div>
+          <div class="feed-time">${timeAgo(a.ts)}</div>
+        </div>
+      `;
+    }).join('');
+  }
+}
+
+function escapeHtml(str) {
+  const div = document.createElement('div');
+  div.textContent = str;
+  return div.innerHTML;
+}
+
+load();
+setInterval(load, 60000);
+</script>
+
+</body>
+</html>
