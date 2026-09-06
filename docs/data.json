@@ -1,5 +1,5 @@
 {
-  "last_updated": 1788717962,
+  "last_updated": 1788718909,
   "wallets": [
     {
       "label": "Dev wallet 1",
@@ -9,20 +9,31 @@
   "wallet_stats": {
     "5CEbueQnq1Ym2uSSx2xXds3jQAqT1BDnkA59RZobSPAG": {
       "label": "Dev wallet 1",
-      "buy_count": 5,
+      "buy_count": 6,
       "sell_count": 1,
-      "total_buy_usd": 12.062598687020001,
+      "total_buy_usd": 151.27470672185,
       "total_sell_usd": 0.0,
       "tokens_traded": [
         "6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx",
         "XsbEhLAtcf6HdfpFZ5xEMdqW8nfAvcsP5bdudRLJzJp",
         "XsqE9cRRpzxcGKDXj1BJ7Xmg4GRhZoyY1KpmGSxAWT2",
-        "MUxEsUKSMACyw5fZf68wxf5FLnZVhtU9CwH8uNNGay1"
+        "MUxEsUKSMACyw5fZf68wxf5FLnZVhtU9CwH8uNNGay1",
+        "DRAMjSWR7HRfJKjRkvQWYL2bcaejaVhuxEcjf4pAY4Cw"
       ],
-      "last_active": 1788717961
+      "last_active": 1788718908
     }
   },
   "recent_alerts": [
+    {
+      "ts": 1788718908,
+      "type": "wallet",
+      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: 1.3097 SOL (~$139.21) -> DRAM\nTrade size: ~$139.21\nBought token: Roundhill Memory ETF - Backpack Securities (DRAM)\nCA: DRAMjSWR7HRfJKjRkvQWYL2bcaejaVhuxEcjf4pAY4Cw\nhttps://solscan.io/tx/4a9yWTNDpkauptUoLhUfSXFgDZPTbjJXvpCrLcpGHAqKXgCLvCewBKQDEnCkVFSBxiEmbbUb2pC7HUMbgJ95Saiw"
+    },
+    {
+      "ts": 1788718908,
+      "type": "wallet",
+      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: DRAM -> DDR\nTrade size: unknown\nBought token: Dance Dance Ram (DDR)\nCA: ADi55iz2ZHk8TihyNv3z6VzrAzv27n7MooL6VxtAbvMa\nhttps://solscan.io/tx/4sCvBCaMVobhw2oyg6sXQYiiJiAQgdUFt1BrquSkJ7at371fojVkXjrii7PLy7Kuee2KwnjcJ5B1yTJrEdbGUtE1"
+    },
     {
       "ts": 1788717962,
       "type": "wallet",
