@@ -1,5 +1,5 @@
 {
-  "last_updated": 1788715661,
+  "last_updated": 1788716215,
   "wallets": [
     {
       "label": "Dev wallet 1",
@@ -9,19 +9,30 @@
   "wallet_stats": {
     "5CEbueQnq1Ym2uSSx2xXds3jQAqT1BDnkA59RZobSPAG": {
       "label": "Dev wallet 1",
-      "buy_count": 3,
+      "buy_count": 4,
       "sell_count": 1,
       "total_buy_usd": 12.062598687020001,
       "total_sell_usd": 0.0,
       "tokens_traded": [
         "6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx",
         "XsbEhLAtcf6HdfpFZ5xEMdqW8nfAvcsP5bdudRLJzJp",
-        "XsqE9cRRpzxcGKDXj1BJ7Xmg4GRhZoyY1KpmGSxAWT2"
+        "XsqE9cRRpzxcGKDXj1BJ7Xmg4GRhZoyY1KpmGSxAWT2",
+        "MUxEsUKSMACyw5fZf68wxf5FLnZVhtU9CwH8uNNGay1"
       ],
-      "last_active": 1788707111
+      "last_active": 1788716214
     }
   },
   "recent_alerts": [
+    {
+      "ts": 1788716215,
+      "type": "wallet",
+      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: USDC -> MU\nTrade size: unknown\nBought token: Micron Technology - Backpack Securities (MU)\nCA: MUxEsUKSMACyw5fZf68wxf5FLnZVhtU9CwH8uNNGay1\nhttps://solscan.io/tx/szqdRcyaBEqktSMzyEZnnWqUBGKcrvF7hJBgPUrbXdVzNvXsTHDcXPGFbSQPza5LtvoE8kTxnqf2QsPuZvxARMk"
+    },
+    {
+      "ts": 1788716214,
+      "type": "wallet",
+      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: MU -> MICROCAP\nTrade size: unknown\nBought token: microcap (MICROCAP)\nCA: GuoJyWAVLwjP9XNDVBpC5QmHRFAEgdrrGrngJuF1QNjv\nhttps://solscan.io/tx/3WzwxTHpMiK28n1cpitUn3fsPTeEpCKgP7MpPhWC64t92uFLiCugaAsisanT1Fs4yuGtKGV9xhRnzwgupFetBDR3"
+    },
     {
       "ts": 1788707112,
       "type": "wallet",
