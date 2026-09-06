@@ -1,5 +1,5 @@
 {
-  "last_updated": 1788732274,
+  "last_updated": 1788733155,
   "wallets": [
     {
       "label": "Dev wallet 1",
@@ -9,9 +9,9 @@
   "wallet_stats": {
     "5CEbueQnq1Ym2uSSx2xXds3jQAqT1BDnkA59RZobSPAG": {
       "label": "Dev wallet 1",
-      "buy_count": 11,
+      "buy_count": 13,
       "sell_count": 3,
-      "total_buy_usd": 153.83205544062002,
+      "total_buy_usd": 160.09893737058002,
       "total_sell_usd": 0.0,
       "tokens_traded": [
         "6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx",
@@ -20,12 +20,24 @@
         "MUxEsUKSMACyw5fZf68wxf5FLnZVhtU9CwH8uNNGay1",
         "DRAMjSWR7HRfJKjRkvQWYL2bcaejaVhuxEcjf4pAY4Cw",
         "XsvNBAYkrDRNhA7wPHQfX3ZUXZyZLdnCQDfHZ56bzpg",
-        "6UpQcMAb5xMzxc7ZfPaVMgx3KqsvKZdT5U718BzD5We2"
+        "6UpQcMAb5xMzxc7ZfPaVMgx3KqsvKZdT5U718BzD5We2",
+        "Xsv9hRk1z5ystj9MhnA7Lq4vjSsLwzL2nxrwmwtD3re",
+        "XsoCS1TfEyfFhfvj8EtZ528L3CaKBDBRqRapnBbDF2W"
       ],
-      "last_active": 1788730105
+      "last_active": 1788733154
     }
   },
   "recent_alerts": [
+    {
+      "ts": 1788733155,
+      "type": "wallet",
+      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: USDC -> SPYx\nTrade size: unknown\nBought token: SP500 xStock (SPYx)\nCA: XsoCS1TfEyfFhfvj8EtZ528L3CaKBDBRqRapnBbDF2W\nhttps://solscan.io/tx/52Z9yDVqGKE2725Htg4qLC7VwrFTC7xRJBrQ77z5wB1hTRVhh8ouoeASjHM7M1FuKnek4bsVZQnxoqSbWpYg42V4"
+    },
+    {
+      "ts": 1788733153,
+      "type": "wallet",
+      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: 0.0595 SOL (~$6.27) -> GLDx\nTrade size: ~$6.27\nBought token: Gold xStock (GLDx)\nCA: Xsv9hRk1z5ystj9MhnA7Lq4vjSsLwzL2nxrwmwtD3re\nhttps://solscan.io/tx/WDp6TKCoS1VVLThmVCUCAL2FDPzJGq6wiDWYCUgeKSTiDbfq1mfBkBDUh4hvt57o6QMSke6qrkJoJxUxJqqd97r"
+    },
     {
       "ts": 1788730105,
       "type": "wallet",
