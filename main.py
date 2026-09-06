@@ -229,7 +229,7 @@ def get_token_name(mint):
     if mint == SOL_MINT:
         return "SOL", "SOL"
     url = f"https://mainnet.helius-rpc.com/?api-key={HELIUS_API_KEY}"
-    payload = {"jsonrpc": "2.
+   payload = {"jsonrpc": "2.0", "id": "lookup", "method": "getAsset", "params": {"id": mint}}
  0", "id": "lookup", "method": "getAsset", "params": {"id": mint}}
     try:
         resp = requests.post(url, json=payload, timeout=15)
