@@ -2,11 +2,11 @@ name: Wallet Tracker
 
 on:
   schedule:
-    - cron: '*/10 * * * *'
-  workflow_dispatch:
+    - cron: '*/10 * * * *'   # every 10 minutes
+  workflow_dispatch:          # lets you also trigger it manually from the Actions tab
 
 permissions:
-  contents: write
+  contents: write   # needed so it can save its memory + dashboard data back to the repo
 
 jobs:
   track:
@@ -23,18 +23,17 @@ jobs:
       - name: Install dependencies
         run: pip install requests
 
-      - name: Run tracker (single pass)
+      - name: Run tracker
         env:
           HELIUS_API_KEY: ${{ secrets.HELIUS_API_KEY }}
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
-          RUN_ONCE: "true"
         run: python main.py
 
-      - name: Save "seen" memory back to the repo
+      - name: Save memory + dashboard data back to the repo
         run: |
           git config user.name "wallet-tracker-bot"
           git config user.email "actions@users.noreply.github.com"
-          git add seen_signatures.json
-          git diff --staged --quiet || git commit -m "update seen signatures"
+          git add wallets.json seen_signatures.json telegram_offset.json scanner_seen.json alerts_log.json wallet_stats.json signal_outcomes.json recent_buys.json docs/data.json
+          git diff --staged --quiet || git commit -m "update tracker state"
           git push
