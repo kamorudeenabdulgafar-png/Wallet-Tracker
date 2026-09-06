@@ -114,7 +114,7 @@ def is_plausible_solana_address(addr):
     if not addr or not (32 <= len(addr) <= 44):
         return False
     alphabet = "123456789ABCDEFGHJKLMNPQRSTUVWXYZabcdefghijkmnopqrstuvwxyz"
-return all(c in alphabet for c in addr)
+    return all(c in alphabet for c in addr)
 
 
 def process_telegram_commands(wallets):
@@ -229,8 +229,7 @@ def get_token_name(mint):
     if mint == SOL_MINT:
         return "SOL", "SOL"
     url = f"https://mainnet.helius-rpc.com/?api-key={HELIUS_API_KEY}"
-   payload = {"jsonrpc": "2.0", "id": "lookup", "method": "getAsset", "params": {"id": mint}}
- 0", "id": "lookup", "method": "getAsset", "params": {"id": mint}}
+    payload = {"jsonrpc": "2.0", "id": "lookup", "method": "getAsset", "params": {"id": mint}}
     try:
         resp = requests.post(url, json=payload, timeout=15)
         metadata = resp.json().get("result", {}).get("content", {}).get("metadata", {})
@@ -326,7 +325,7 @@ def classify_swap(details):
         return "buy", bought_mint
     if bought_is_base and not paid_is_base:
         return "sell", paid_mint
-return None, None  # token-for-token swap, or couldn't tell — skip stats for it
+    return None, None  # token-for-token swap, or couldn't tell — skip stats for it
 
 
 def update_wallet_stats(wallet_stats, address, label, details, paid_usd, bought_usd):
@@ -419,7 +418,7 @@ def get_token_risk(mint):
     elif risk_score <= 40:
         level = "Moderate"
     elif risk_score <= 60:
- level = "Elevated"
+        level = "Elevated"
     elif risk_score <= 80:
         level = "High"
     else:
@@ -524,7 +523,7 @@ def score_coin(coin, scanner_seen):
         prev_replies = prev.get("replies", 0)
         if prev_mc:
             mc_change_pct = (market_cap / prev_mc - 1) * 100
-reply_growth = replies - prev_replies
+        reply_growth = replies - prev_replies
 
         # Only re-alert if it's actually accelerating since last time —
         # otherwise we'd spam the same coin every 10 minutes forever.
@@ -621,7 +620,7 @@ def run_coin_scanner(scanner_seen, alerts_log, signal_outcomes, recent_buys):
             else:
                 risk_block = "• Risk data unavailable"
                 risk_header = "RISKS:"
- breakdown_block = "\n".join(f"{k:<12} {v}" for k, v in breakdown.items())
+            breakdown_block = "\n".join(f"{k:<12} {v}" for k, v in breakdown.items())
 
             msg = (f"📈 COIN WORTH LOOKING AT — {state}\n"
                    f"{name} ({symbol})\n"
@@ -713,7 +712,8 @@ def main():
     wallet_stats = load_json(WALLET_STATS_FILE, {})
     signal_outcomes = load_json(SIGNAL_OUTCOMES_FILE, {})
     recent_buys = load_json(RECENT_BUYS_FILE, {})
-wallets = process_telegram_commands(wallets)
+
+    wallets = process_telegram_commands(wallets)
     save_json(WALLETS_FILE, wallets)  # always persist, even if nothing changed this run
 
     print(f"Tracking {len(wallets)} wallet(s):")
@@ -739,5 +739,5 @@ wallets = process_telegram_commands(wallets)
     write_dashboard(wallets, alerts_log, wallet_stats)
 
 
-if name == "__main__":
+if __name__ == "__main__":
     main()
