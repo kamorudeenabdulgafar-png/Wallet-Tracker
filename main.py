@@ -125,7 +125,11 @@ def process_telegram_commands(wallets):
     url = f"https://api.telegram.org/bot{TELEGRAM_BOT_TOKEN}/getUpdates"
     try:
         resp = requests.get(url, params={"offset": offset, "timeout": 0}, timeout=15)
-        updates = resp.json().get("result", [])
+        result = resp.json()
+        updates = result.get("result", [])
+        print(f"[telegram] fetched {len(updates)} update(s) since offset {offset}")
+        if not result.get("ok"):
+            print(f"[telegram] getUpdates returned an error: {result}")
     except Exception as e:
         print(f"[error] telegram getUpdates failed: {e}")
         return wallets
@@ -135,6 +139,7 @@ def process_telegram_commands(wallets):
         offset = max(offset, update.get("update_id", 0) + 1)
         msg = update.get("message", {})
         text = (msg.get("text") or "").strip()
+        print(f"[telegram] saw message: {text!r}")
         if not text.startswith("/"):
             continue
 
@@ -480,20 +485,24 @@ def process_wallet(wallet, seen, alerts_log, wallet_stats, recent_buys):
 def fetch_new_pumpfun_coins():
     """
     Pulls recently created pump.fun coins. NOTE: this hits an unofficial,
-    undocumented pump.fun endpoint that could change without notice — if it
-    starts failing, this function will just log the error and the scanner
-    will skip that run (wallet tracking is unaffected).
+    undocumented pump.fun endpoint — there's no official free API for this
+    data, so this is genuinely the best free option available. If it starts
+    failing, this function retries once, then logs and skips (wallet
+    tracking is unaffected either way).
     """
     url = "https://frontend-api.pump.fun/coins"
     params = {"offset": 0, "limit": 50, "sort": "created_timestamp", "order": "DESC"}
-    try:
-        resp = requests.get(url, params=params, timeout=15,
-                             headers={"User-Agent": "Mozilla/5.0"})
-        resp.raise_for_status()
-        return resp.json()
-    except Exception as e:
-        print(f"[scanner] fetch failed (endpoint may have changed): {e}")
-        return []
+    headers = {"User-Agent": "Mozilla/5.0"}
+    for attempt in range(2):
+        try:
+            resp = requests.get(url, params=params, timeout=15, headers=headers)
+            resp.raise_for_status()
+            return resp.json()
+        except Exception as e:
+            print(f"[scanner] fetch attempt {attempt + 1} failed: {e}")
+            time.sleep(3)
+    print("[scanner] giving up for this run — will try again next run.")
+    return []
 
 
 def score_coin(coin, scanner_seen):
@@ -558,8 +567,8 @@ def compute_opportunity_score(momentum, risk, replies, smart_money_labels):
       - Safety: inverse of the risk score (holder concentration + authorities)
       - Attention: raw community engagement (replies)
       - Smart money: did any of YOUR tracked wallets buy this recently?
-    No liquidity/volume component yet — we don't have a free data source for
-    that wired in. Weights are rough and meant to be tuned once you've seen
+    No liquidity/volume component — no free, reliable source for that wired
+    in currently. Weights are rough and meant to be tuned once you've seen
     real output for a while.
     """
     mc_change_pct = (momentum or {}).get("mc_change_pct") or 0
