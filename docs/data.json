@@ -1,5 +1,5 @@
 {
-  "last_updated": 1788795503,
+  "last_updated": 1788796127,
   "wallets": [
     {
       "label": "Dev wallet 1",
@@ -9,9 +9,9 @@
   "wallet_stats": {
     "5CEbueQnq1Ym2uSSx2xXds3jQAqT1BDnkA59RZobSPAG": {
       "label": "Dev wallet 1",
-      "buy_count": 23,
+      "buy_count": 24,
       "sell_count": 19,
-      "total_buy_usd": 609.68261536885,
+      "total_buy_usd": 609.6829112432499,
       "total_sell_usd": 0.0,
       "tokens_traded": [
         "6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx",
@@ -29,10 +29,30 @@
         "Xs3oZwbHvqis4NYcf4YKWmEia2eC84wSiVrcYcTqpH8",
         "6p6xgHyF7AeE6TZkSmFsko444wqoP15icUSqi2jfGiPN"
       ],
-      "last_active": 1788795503
+      "last_active": 1788796126
     }
   },
   "recent_alerts": [
+    {
+      "ts": 1788796127,
+      "type": "wallet",
+      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: 0.0000 SOL (~$0.00) -> STONK\nTrade size: ~$0.00\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/4NZMeXbnGnpw5KPoSNmZSVS1k3Y92g7GKb8sz7QV1bA34qv5ZMHnyNDggLXAS5DjRbSjDKcKBtRBf1pGDwyQypSG"
+    },
+    {
+      "ts": 1788796126,
+      "type": "wallet",
+      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: USDC -> 0.2857 SOL (~$29.49)\nTrade size: ~$29.49\nBought token: SOL (SOL)\nCA: So11111111111111111111111111111111111111112\nhttps://solscan.io/tx/2KQZdc7SG91SqfedRtPTVJPpfbYJneziEm1WQTjwFjrpCYAZ7KgiDPb1k8yVHLfXYFWSfhNziTW9hEWJrELTc6Rm"
+    },
+    {
+      "ts": 1788796126,
+      "type": "wallet",
+      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: RAY -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/4tgd7ibWmsXZvHZvn9jGx1MdDnPvv3f6y1iRnrDRJF7vn6VH633zDqiqT9ZRZr1rxU4BAKjZYjdPrqFWk2oR3QVk"
+    },
+    {
+      "ts": 1788796125,
+      "type": "wallet",
+      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: AAPLx -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/3v1GcU6X45k4igSZfjDVvQKojk31Z2gxFCzqSkY4cj1n9mNwXdz8iMPFer162iWAAH72uwEz62pJeUX6An5jEYSZ"
+    },
     {
       "ts": 1788795503,
       "type": "wallet",
@@ -262,26 +282,6 @@
       "ts": 1788766713,
       "type": "wallet",
       "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: SPCXx -> USDC\nTrade size: unknown\nBought token: USD Coin (USDC)\nCA: EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v\nhttps://solscan.io/tx/5aokHECE6HCb2bE8qX1onsxgaHzng2udGri6Gk8nYnGTLeQGuMPg9w5Qv2eju5t8zPdNEbJphzsLGdRdM2G8mY8Y"
-    },
-    {
-      "ts": 1788766712,
-      "type": "wallet",
-      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: WBTC -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/5E1b7rU3ozS7baE76KquJCgpxYkpxwfH32Rz2sUokdwHVb67HEbcegNuwM6opf2k1D5Wz1MkjrSjZujB2g3mF236"
-    },
-    {
-      "ts": 1788766712,
-      "type": "wallet",
-      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: AMZNx -> USDC\nTrade size: unknown\nBought token: USD Coin (USDC)\nCA: EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v\nhttps://solscan.io/tx/3m5gtr8eb77rugwYV6BpEBmVhZhbZ45zjW43KR5CDPET2oDVNUsh4a1jp6ArDqL2AqTu7jBLBMojZDA16RXxRk7p"
-    },
-    {
-      "ts": 1788766711,
-      "type": "wallet",
-      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: ARB -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/47b5qYifpw6o2bLjvT9c45rqeU4DQAgagehjHnihFBoPxjGrHDJadsnTdYZYFdJqnhwmgRBbGnuy6HiPixrJcq9C"
-    },
-    {
-      "ts": 1788760126,
-      "type": "wallet",
-      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: USDC -> 0.0779 SOL (~$8.21)\nTrade size: ~$8.21\nBought token: SOL (SOL)\nCA: So11111111111111111111111111111111111111112\nhttps://solscan.io/tx/2KZq7qEsTaWcbtQuidwzM8XpTbm9QxdKQCYcvmEyZ57BS4SFbEQj32L8PEsSeb1ZeUrSeqnVEjkq63Y5BaxWXuRm"
     }
   ]
 }
