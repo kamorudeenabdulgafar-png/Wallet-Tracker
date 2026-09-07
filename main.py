@@ -57,8 +57,8 @@ OUTCOME_CHECKPOINTS_MIN = [60, 240, 1440]  # 1h, 4h, 24h
 SMART_MONEY_WINDOW_HOURS = 6  # how far back a tracked-wallet buy still counts as "smart money"
 
 # Coin scanner thresholds — tune these once we see real output
-SCANNER_MIN_MARKET_CAP_USD = 8000
-SCANNER_MIN_REPLIES = 20        # rough proxy for community engagement/narrative buzz
+SCANNER_MIN_LIQUIDITY_USD = 5000   # too little liquidity = can't exit without huge slippage
+SCANNER_MIN_1H_CHANGE_PCT = 15     # must be genuinely accelerating, not just sitting there
 SCANNER_MIN_AGE_MIN = 5         # skip brand-new coins with no track record yet
 SCANNER_MAX_AGE_MIN = 180        # skip old coins that likely already had their run
 MAX_ALERTS_LOGGED = 50
@@ -482,73 +482,72 @@ def process_wallet(wallet, seen, alerts_log, wallet_stats, recent_buys):
 
 # ---------------- coin potential scanner ----------------
 
-def fetch_new_pumpfun_coins():
+def fetch_new_pools():
     """
-    Pulls recently created pump.fun coins. NOTE: this hits an unofficial,
-    undocumented pump.fun endpoint — there's no official free API for this
-    data, so this is genuinely the best free option available. If it starts
-    failing, this function retries once, then logs and skips (wallet
-    tracking is unaffected either way).
+    Pulls recently created Solana liquidity pools via DexPaprika — genuinely
+    free, no signup, no API key, no card, ever (50K requests/month per IP).
+    Filtered to PumpSwap, since that's where pump.fun tokens land once they
+    graduate off the bonding curve. This means we only see tokens that have
+    already graduated (proven enough demand to migrate) — not the earliest
+    bonding-curve-stage coins.
     """
-    url = "https://frontend-api.pump.fun/coins"
-    params = {"offset": 0, "limit": 50, "sort": "created_timestamp", "order": "DESC"}
-    headers = {"User-Agent": "Mozilla/5.0"}
-    for attempt in range(2):
+    url = "https://api.dexpaprika.com/networks/solana/pools/search"
+    params = {
+        "order_by": "created_at",
+        "sort": "desc",
+        "limit": 50,
+        "liquidity_usd_min": SCANNER_MIN_LIQUIDITY_USD,
+    }
+    try:
+        resp = requests.get(url, params=params, timeout=15)
+        resp.raise_for_status()
+        results = resp.json().get("results", [])
+        return [p for p in results if p.get("dex_id") == "pumpswap"]
+    except Exception as e:
+        print(f"[scanner] fetch failed: {e}")
+        return []
+
+
+def extract_token_mint(pool):
+    """Pool has two sides (token + SOL) — return whichever isn't SOL."""
+    for t in pool.get("tokens", []) or []:
+        if t.get("id") != SOL_MINT:
+            return t.get("id")
+    return None
+
+
+def score_pool(pool):
+    """
+    Returns (passes, why_lines, liquidity, volume_24h, change_1h). DexPaprika
+    already computes price-change percentages for us, so no manual
+    snapshot-diffing needed — it's a real momentum reading straight from the
+    source.
+    """
+    liquidity = pool.get("liquidity_usd", 0) or 0
+    volume_24h = pool.get("volume_usd_24h", 0) or 0
+    change_1h = pool.get("price_change_percentage_1h", 0) or 0
+
+    created_at = pool.get("created_at")
+    age_min = None
+    if created_at:
         try:
-            resp = requests.get(url, params=params, timeout=15, headers=headers)
-            resp.raise_for_status()
-            return resp.json()
-        except Exception as e:
-            print(f"[scanner] fetch attempt {attempt + 1} failed: {e}")
-            time.sleep(3)
-    print("[scanner] giving up for this run — will try again next run.")
-    return []
-
-
-def score_coin(coin, scanner_seen):
-    """
-    Returns (passes, why_lines, momentum) — momentum is what makes this a
-    real signal instead of a one-off snapshot: growth *since we last checked*,
-    not just an absolute number.
-    """
-    mint = coin.get("mint")
-    created_ts = coin.get("created_timestamp", 0) / 1000
-    age_min = (time.time() - created_ts) / 60 if created_ts else None
-    market_cap = coin.get("usd_market_cap", 0) or 0
-    replies = coin.get("reply_count", 0) or 0
+            created_ts = time.mktime(time.strptime(created_at, "%Y-%m-%dT%H:%M:%SZ"))
+            age_min = (time.time() - created_ts) / 60
+        except Exception:
+            age_min = None
 
     if age_min is None or not (SCANNER_MIN_AGE_MIN <= age_min <= SCANNER_MAX_AGE_MIN):
-        return False, [], None
-    if market_cap < SCANNER_MIN_MARKET_CAP_USD:
-        return False, [], None
-    if replies < SCANNER_MIN_REPLIES:
-        return False, [], None
+        return False, [], liquidity, volume_24h, change_1h
+    if liquidity < SCANNER_MIN_LIQUIDITY_USD:
+        return False, [], liquidity, volume_24h, change_1h
+    if change_1h < SCANNER_MIN_1H_CHANGE_PCT:
+        return False, [], liquidity, volume_24h, change_1h
 
-    prev = scanner_seen.get(mint)
-    mc_change_pct = None
-    reply_growth = None
-    if prev:
-        prev_mc = prev.get("market_cap", 0)
-        prev_replies = prev.get("replies", 0)
-        if prev_mc:
-            mc_change_pct = (market_cap / prev_mc - 1) * 100
-        reply_growth = replies - prev_replies
-
-        # Only re-alert if it's actually accelerating since last time —
-        # otherwise we'd spam the same coin every 10 minutes forever.
-        if mc_change_pct is not None and mc_change_pct <= 20:
-            return False, [], None
-
-    why_lines = [f"Market cap ~${market_cap:,.0f}, {age_min:.0f} min old"]
-    if mc_change_pct is not None:
-        why_lines.append(f"Market cap up {mc_change_pct:+.0f}% since last check (~10 min ago)")
-    if reply_growth is not None and reply_growth > 0:
-        why_lines.append(f"Replies grew by {reply_growth} since last check ({replies} total)")
-    elif replies >= SCANNER_MIN_REPLIES:
-        why_lines.append(f"{replies} replies — active community discussion")
-
-    momentum = {"mc_change_pct": mc_change_pct, "reply_growth": reply_growth}
-    return True, why_lines, momentum
+    why_lines = [
+        f"Liquidity ~${liquidity:,.0f}, {age_min:.0f} min since pool creation",
+        f"Up {change_1h:+.0f}% in the last hour, ~${volume_24h:,.0f} in 24h volume",
+    ]
+    return True, why_lines, liquidity, volume_24h, change_1h
 
 
 def signal_state(score):
@@ -560,35 +559,29 @@ def signal_state(score):
     return "EXCEPTIONAL"
 
 
-def compute_opportunity_score(momentum, risk, replies, smart_money_labels):
+def compute_opportunity_score(change_1h, risk, liquidity, smart_money_labels):
     """
     Combines only signals we can actually back with real data:
-      - Momentum: is it accelerating since we last checked?
+      - Momentum: real 1h price change from DexPaprika
       - Safety: inverse of the risk score (holder concentration + authorities)
-      - Attention: raw community engagement (replies)
+      - Liquidity: can you actually get in/out without huge slippage?
       - Smart money: did any of YOUR tracked wallets buy this recently?
-    No liquidity/volume component — no free, reliable source for that wired
-    in currently. Weights are rough and meant to be tuned once you've seen
-    real output for a while.
+    Weights are rough and meant to be tuned once you've seen real output.
     """
-    mc_change_pct = (momentum or {}).get("mc_change_pct") or 0
-    momentum_score = max(0, min(100, mc_change_pct * 2))
-
+    momentum_score = max(0, min(100, change_1h * 1.5))
     safety_score = (100 - risk["score"]) if risk.get("score") is not None else 50
-
-    attention_score = max(0, min(100, replies / 50 * 100))
-
+    liquidity_score = max(0, min(100, liquidity / 20000 * 100))
     smart_money_score = 100 if smart_money_labels else 0
 
-    weights = {"momentum": 0.30, "safety": 0.30, "attention": 0.15, "smart_money": 0.25}
+    weights = {"momentum": 0.30, "safety": 0.30, "liquidity": 0.15, "smart_money": 0.25}
     total = (momentum_score * weights["momentum"] + safety_score * weights["safety"] +
-             attention_score * weights["attention"] + smart_money_score * weights["smart_money"])
+             liquidity_score * weights["liquidity"] + smart_money_score * weights["smart_money"])
     total = round(total)
 
     breakdown = {
         "MOMENTUM": round(momentum_score),
         "SAFETY": round(safety_score),
-        "ATTENTION": round(attention_score),
+        "LIQUIDITY": round(liquidity_score),
         "SMART MONEY": round(smart_money_score),
     }
     return total, breakdown
@@ -600,86 +593,95 @@ def check_smart_money(mint, recent_buys):
 
 
 def run_coin_scanner(scanner_seen, alerts_log, signal_outcomes, recent_buys):
-    coins = fetch_new_pumpfun_coins()
-    for coin in coins:
-        mint = coin.get("mint")
-        if not mint:
+    pools = fetch_new_pools()
+    for pool in pools:
+        mint = extract_token_mint(pool)
+        if not mint or mint in signal_outcomes:
+            continue  # no token found, or we've already flagged this one before
+
+        passes, why_lines, liquidity, volume_24h, change_1h = score_pool(pool)
+        if not passes:
             continue
-        passes, why_lines, momentum = score_coin(coin, scanner_seen)
-        market_cap = coin.get("usd_market_cap", 0) or 0
-        replies = coin.get("reply_count", 0) or 0
-        scanner_seen[mint] = {"market_cap": market_cap, "replies": replies, "last_seen": int(time.time())}
 
-        if passes:
-            name = coin.get("name", "Unknown")
-            symbol = coin.get("symbol", "?")
-            risk = get_token_risk(mint)
-            smart_money_labels = check_smart_money(mint, recent_buys)
+        name, symbol = get_token_name(mint)
+        risk = get_token_risk(mint)
+        smart_money_labels = check_smart_money(mint, recent_buys)
 
-            opp_score, breakdown = compute_opportunity_score(momentum, risk, replies, smart_money_labels)
-            state = signal_state(opp_score)
+        opp_score, breakdown = compute_opportunity_score(change_1h, risk, liquidity, smart_money_labels)
+        state = signal_state(opp_score)
 
-            if smart_money_labels:
-                why_lines.append(f"Bought recently by wallets you track: {', '.join(smart_money_labels)}")
+        if smart_money_labels:
+            why_lines.append(f"Bought recently by wallets you track: {', '.join(smart_money_labels)}")
 
-            why_block = "\n".join(f"• {line}" for line in why_lines)
-            if risk["score"] is not None:
-                risk_block = "\n".join(f"• {note}" for note in risk["notes"][:3])
-                risk_header = f"RISKS ({risk['level']}, {risk['score']}/100):"
-            else:
-                risk_block = "• Risk data unavailable"
-                risk_header = "RISKS:"
-            breakdown_block = "\n".join(f"{k:<12} {v}" for k, v in breakdown.items())
+        why_block = "\n".join(f"• {line}" for line in why_lines)
+        if risk["score"] is not None:
+            risk_block = "\n".join(f"• {note}" for note in risk["notes"][:3])
+            risk_header = f"RISKS ({risk['level']}, {risk['score']}/100):"
+        else:
+            risk_block = "• Risk data unavailable"
+            risk_header = "RISKS:"
+        breakdown_block = "\n".join(f"{k:<12} {v}" for k, v in breakdown.items())
 
-            msg = (f"📈 COIN WORTH LOOKING AT — {state}\n"
-                   f"{name} ({symbol})\n"
-                   f"Opportunity: {opp_score}/100\n\n"
-                   f"{breakdown_block}\n\n"
-                   f"WHY:\n{why_block}\n\n"
-                   f"{risk_header}\n{risk_block}\n\n"
-                   f"CA: {mint}\n"
-                   f"https://pump.fun/coin/{mint}\n"
-                   f"⚠️ Not financial advice — this only means it clears basic "
-                   f"traction filters. Do your own check before anything else.")
-            print("\n" + "=" * 60 + f"\n{msg}\n" + "=" * 60)
-            send_telegram(msg)
-            alerts_log.insert(0, {"ts": int(time.time()), "type": "scanner", "message": msg})
+        msg = (f"📈 COIN WORTH LOOKING AT — {state}\n"
+               f"{name} ({symbol})\n"
+               f"Opportunity: {opp_score}/100\n\n"
+               f"{breakdown_block}\n\n"
+               f"WHY:\n{why_block}\n\n"
+               f"{risk_header}\n{risk_block}\n\n"
+               f"CA: {mint}\n"
+               f"https://dexscreener.com/solana/{mint}\n"
+               f"⚠️ Not financial advice — this only means it clears basic "
+               f"traction filters. Do your own check before anything else.")
+        print("\n" + "=" * 60 + f"\n{msg}\n" + "=" * 60)
+        send_telegram(msg)
+        alerts_log.insert(0, {"ts": int(time.time()), "type": "scanner", "message": msg})
 
-            if mint not in signal_outcomes:
-                signal_outcomes[mint] = {
-                    "name": name, "symbol": symbol,
-                    "flagged_ts": int(time.time()),
-                    "market_cap_at_flag": market_cap,
-                    "checkpoints_done": [],
-                }
+        signal_outcomes[mint] = {
+            "name": name, "symbol": symbol,
+            "flagged_ts": int(time.time()),
+            "liquidity_at_flag": liquidity,
+            "checkpoints_done": [],
+        }
 
-    # trim scanner memory so the file doesn't grow forever
-    cutoff = time.time() - (SCANNER_MAX_AGE_MIN * 60 * 3)
-    scanner_seen = {m: d for m, d in scanner_seen.items() if d.get("last_seen", 0) > cutoff}
     return scanner_seen, alerts_log, signal_outcomes
 
 
-def check_signal_outcomes(signal_outcomes, scanner_seen, alerts_log):
+def fetch_current_liquidity(mint):
+    """Look up a token's current best-pool liquidity, for outcome check-backs."""
+    url = "https://api.dexpaprika.com/networks/solana/pools/search"
+    params = {"token_address": mint, "order_by": "liquidity_usd", "sort": "desc", "limit": 1}
+    try:
+        resp = requests.get(url, params=params, timeout=15)
+        resp.raise_for_status()
+        results = resp.json().get("results", [])
+        if results:
+            return results[0].get("liquidity_usd")
+    except Exception as e:
+        print(f"[scanner] outcome liquidity lookup failed for {mint}: {e}")
+    return None
+
+
+def check_signal_outcomes(signal_outcomes, alerts_log):
     """For coins we've flagged before, check back at fixed checkpoints
     (1h/4h/24h) and report whether it actually grew — this is what makes the
     scanner accountable instead of just firing alerts and never following up."""
     now = time.time()
     for mint, record in signal_outcomes.items():
         elapsed_min = (now - record["flagged_ts"]) / 60
-        current = scanner_seen.get(mint, {}).get("market_cap")
 
         for checkpoint in OUTCOME_CHECKPOINTS_MIN:
             label = f"{checkpoint}m"
             if elapsed_min >= checkpoint and label not in record["checkpoints_done"]:
                 record["checkpoints_done"].append(label)
-                if current and record["market_cap_at_flag"]:
-                    change_pct = (current / record["market_cap_at_flag"] - 1) * 100
+                current = fetch_current_liquidity(mint)
+                if current and record.get("liquidity_at_flag"):
+                    change_pct = (current / record["liquidity_at_flag"] - 1) * 100
                     hours = checkpoint / 60
                     outcome_msg = (
                         f"📊 SIGNAL REVIEW ({hours:.0f}h later)\n"
                         f"{record['name']} ({record['symbol']})\n"
-                        f"Market cap at flag: ~${record['market_cap_at_flag']:,.0f}\n"
-                        f"Market cap now: ~${current:,.0f}\n"
+                        f"Liquidity at flag: ~${record['liquidity_at_flag']:,.0f}\n"
+                        f"Liquidity now: ~${current:,.0f}\n"
                         f"Change: {change_pct:+.0f}%"
                     )
                     send_telegram(outcome_msg)
@@ -738,7 +740,7 @@ def main():
 
     scanner_seen, alerts_log, signal_outcomes = run_coin_scanner(
         scanner_seen, alerts_log, signal_outcomes, recent_buys)
-    signal_outcomes, alerts_log = check_signal_outcomes(signal_outcomes, scanner_seen, alerts_log)
+    signal_outcomes, alerts_log = check_signal_outcomes(signal_outcomes, alerts_log)
     save_json(SCANNER_SEEN_FILE, scanner_seen)
     save_json(SIGNAL_OUTCOMES_FILE, signal_outcomes)
 
