@@ -1,5 +1,5 @@
 {
-  "last_updated": 1788810066,
+  "last_updated": 1788810804,
   "wallets": [
     {
       "label": "Dev wallet 1",
@@ -9,9 +9,9 @@
   "wallet_stats": {
     "5CEbueQnq1Ym2uSSx2xXds3jQAqT1BDnkA59RZobSPAG": {
       "label": "Dev wallet 1",
-      "buy_count": 27,
+      "buy_count": 28,
       "sell_count": 19,
-      "total_buy_usd": 891.2129510546599,
+      "total_buy_usd": 894.31123197022,
       "total_sell_usd": 0.0,
       "tokens_traded": [
         "6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx",
@@ -28,12 +28,18 @@
         "A7bdiYdS5GjqGFtxf17ppRHtDKPkkRqbKtR27dxvQXaS",
         "Xs3oZwbHvqis4NYcf4YKWmEia2eC84wSiVrcYcTqpH8",
         "6p6xgHyF7AeE6TZkSmFsko444wqoP15icUSqi2jfGiPN",
-        "pumpCmXqMfrsAkQ5r49WcJnRayYRqmXz6ae8H7H9Dfn"
+        "pumpCmXqMfrsAkQ5r49WcJnRayYRqmXz6ae8H7H9Dfn",
+        "BwWnm5T9Cdy4skJairzJUxY4vd1L4jqFgnqniD7T2TXv"
       ],
-      "last_active": 1788810066
+      "last_active": 1788810804
     }
   },
   "recent_alerts": [
+    {
+      "ts": 1788810804,
+      "type": "wallet",
+      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: 0.0297 SOL (~$3.10) -> AMBCOM\nTrade size: ~$3.10\nBought token: Amber Comet (AMBCOM)\nCA: BwWnm5T9Cdy4skJairzJUxY4vd1L4jqFgnqniD7T2TXv\nhttps://solscan.io/tx/4bY2DBzN2zXnhp9UDMZCADJBGKPb8CoXDcH3Cm5HK1k6B52eptMFxa2bN4pYV3Ynox9hDRq4U8tLP1QHAcYfWYTz"
+    },
     {
       "ts": 1788810066,
       "type": "wallet",
@@ -278,11 +284,6 @@
       "ts": 1788778122,
       "type": "wallet",
       "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: xSOL -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/4bLX5eFtnNELMB8aFK3RTurHZ1R94JbEoc4qRrMM6HxJFzW5r721jqCnKSvY9egEmM1eXt9yNFrRh83JJtLK4SbH"
-    },
-    {
-      "ts": 1788778121,
-      "type": "wallet",
-      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: AMC -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/3tZXqjKGtkcK5ouZjjnPPEr8HmMC3nvFHsLvXi27Q2DXxxLoVyjRt66ENRjPDMKBrgquEB3dsxdgacTnt3ZfnCvB"
     }
   ]
 }
