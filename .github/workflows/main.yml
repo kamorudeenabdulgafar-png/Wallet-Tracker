@@ -45,6 +45,7 @@ jobs:
           done
           if ! git diff --staged --quiet; then
             git commit -m "update tracker state"
-            git pull --rebase origin main
+            git fetch origin main
+            git merge -X ours --no-edit origin/main || true
             git push
           fi
