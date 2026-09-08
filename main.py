@@ -7,17 +7,29 @@ wallets. Runs on a schedule via GitHub Actions.
 
 FEATURES
   1. Wallet tracking: alerts on new coin creations + buys/swaps from any
-     wallet you're tracking (dev wallets, trader wallets, whatever).
+     wallet you're tracking (dev wallets, trader wallets, whatever), plus
+     real realized profit/loss per wallet (only for positions we actually
+     saw opened — no guessing at cost basis we never observed).
   2. Telegram commands (checked every run):
        /add <address> <label>     -> start tracking a wallet
        /remove <address>          -> stop tracking a wallet
        /list                      -> see everything currently tracked
-  3. Coin scanner: scans new pump.fun launches for objective signs of
-     traction (community engagement, market cap growth, holder count) and
-     alerts on ones that clear a bar — NOT a guarantee, just a filter to
-     point your own research at fewer, better candidates.
-  4. Writes docs/data.json each run, which the dashboard (docs/index.html)
-     reads to show wallets + recent alerts + scanner hits.
+       /watch <CA>                -> check a coin right now + get rug alerts on it
+       /unwatch <CA>              -> stop watching a coin
+       /watchlist                 -> see everything currently watched
+       /setminliquidity <amount>  -> tune the scanner's liquidity floor
+       /setminchange <percent>    -> tune the scanner's momentum threshold
+  3. Coin scanner: scans newly graduated pump.fun/PumpSwap pools for
+     objective signs of traction and alerts on ones that clear a bar — NOT
+     a guarantee, just a filter to point your own research at fewer,
+     better candidates. Every flagged coin gets checked again at 1h/4h/24h
+     so the scanner's real track record (not just alerts fired) is visible.
+  4. Rug alerts: any /watch'd coin gets an urgent alert if its liquidity
+     suddenly drops a lot — a classic rug-pull warning sign.
+  5. Daily digest: one summary message a day covering wallet activity,
+     scanner accuracy, and your watchlist.
+  6. Writes docs/data.json each run, which the dashboard (docs/index.html)
+     reads to show wallets + recent alerts + scanner hits + watchlist.
 
 SECURITY: no keys are hardcoded. Everything comes from environment variables
 (set as GitHub Secrets): HELIUS_API_KEY, TELEGRAM_BOT_TOKEN, TELEGRAM_CHAT_ID
@@ -50,15 +62,20 @@ ALERTS_LOG_FILE = "alerts_log.json"
 WALLET_STATS_FILE = "wallet_stats.json"
 SIGNAL_OUTCOMES_FILE = "signal_outcomes.json"
 RECENT_BUYS_FILE = "recent_buys.json"
+WATCHED_COINS_FILE = "watched_coins.json"
+SETTINGS_FILE = "settings.json"
+OUTCOME_HISTORY_FILE = "outcome_history.json"
 DASHBOARD_FILE = "docs/data.json"
 
 # How long after a flagged coin do we check back on it ("did it pan out?")
 OUTCOME_CHECKPOINTS_MIN = [60, 240, 1440]  # 1h, 4h, 24h
 SMART_MONEY_WINDOW_HOURS = 6  # how far back a tracked-wallet buy still counts as "smart money"
+RUG_ALERT_DROP_PCT = 50  # liquidity drop (%) since last check that triggers an urgent alert
 
-# Coin scanner thresholds — tune these once we see real output
-SCANNER_MIN_LIQUIDITY_USD = 5000   # too little liquidity = can't exit without huge slippage
-SCANNER_MIN_1H_CHANGE_PCT = 15     # must be genuinely accelerating, not just sitting there
+# Coin scanner thresholds — tune these once we see real output, or override via
+# Telegram (/setminliquidity, /setminchange), which take priority when set.
+DEFAULT_MIN_LIQUIDITY_USD = 5000   # too little liquidity = can't exit without huge slippage
+DEFAULT_MIN_1H_CHANGE_PCT = 15     # must be genuinely accelerating, not just sitting there
 SCANNER_MIN_AGE_MIN = 5         # skip brand-new coins with no track record yet
 SCANNER_MAX_AGE_MIN = 180        # skip old coins that likely already had their run
 MAX_ALERTS_LOGGED = 50
@@ -117,8 +134,13 @@ def is_plausible_solana_address(addr):
     return all(c in alphabet for c in addr)
 
 
-def process_telegram_commands(wallets):
-    """Check for new /add /remove /list commands since the last run."""
+def get_scanner_setting(settings, key, default):
+    return settings.get(key, default)
+
+
+def process_telegram_commands(wallets, watched_coins, settings):
+    """Check for new commands since the last run: wallet add/remove/list,
+    coin watch/unwatch/watchlist, and scanner threshold overrides."""
     offset_data = load_json(TG_OFFSET_FILE, {"offset": 0})
     offset = offset_data.get("offset", 0)
 
@@ -132,9 +154,12 @@ def process_telegram_commands(wallets):
             print(f"[telegram] getUpdates returned an error: {result}")
     except Exception as e:
         print(f"[error] telegram getUpdates failed: {e}")
-        return wallets
+        return wallets, watched_coins, settings
 
-    changed = False
+    wallets_changed = False
+    watched_changed = False
+    settings_changed = False
+
     for update in updates:
         offset = max(offset, update.get("update_id", 0) + 1)
         msg = update.get("message", {})
@@ -156,7 +181,7 @@ def process_telegram_commands(wallets):
                 send_telegram(f"Already tracking that wallet ({label}).")
                 continue
             wallets.append({"label": label, "address": address})
-            changed = True
+            wallets_changed = True
             send_telegram(f"✅ Now tracking: {label}\n{address}")
 
         elif cmd == "/remove" and len(parts) >= 2:
@@ -164,7 +189,7 @@ def process_telegram_commands(wallets):
             before = len(wallets)
             wallets = [w for w in wallets if w["address"] != address]
             if len(wallets) < before:
-                changed = True
+                wallets_changed = True
                 send_telegram(f"🗑️ Stopped tracking:\n{address}")
             else:
                 send_telegram(f"Couldn't find that address in your tracked list.")
@@ -176,18 +201,90 @@ def process_telegram_commands(wallets):
                 lines = [f"- {w['label']}: {w['address']}" for w in wallets]
                 send_telegram("📋 Tracked wallets:\n" + "\n".join(lines))
 
+        elif cmd == "/watch" and len(parts) >= 2:
+            ca = parts[1].strip()
+            if not is_plausible_solana_address(ca):
+                send_telegram(f"⚠️ That doesn't look like a valid token address:\n{ca}")
+                continue
+            send_telegram(f"🔍 Checking {ca}...")
+            name, symbol = get_token_name(ca)
+            risk = get_token_risk(ca)
+            liquidity = fetch_current_liquidity(ca)
+
+            risk_line = (f"Risk: {risk['level']} ({risk['score']}/100)\n" + "\n".join(f"• {n}" for n in risk["notes"][:3])
+                         if risk["score"] is not None else "Risk: unavailable")
+            liq_line = f"Liquidity: ~${liquidity:,.0f}" if liquidity else "Liquidity: unavailable"
+
+            send_telegram(
+                f"🪙 {name} ({symbol})\nCA: {ca}\n{liq_line}\n{risk_line}\n\n"
+                f"👁️ Now watching — you'll get an urgent alert if liquidity drops "
+                f"{RUG_ALERT_DROP_PCT}%+ (a rug-pull warning sign).\n"
+                f"⚠️ Not financial advice."
+            )
+            watched_coins[ca] = {
+                "name": name, "symbol": symbol,
+                "liquidity_at_watch": liquidity, "last_liquidity": liquidity,
+                "added_ts": int(time.time()), "rugged": False,
+            }
+            watched_changed = True
+
+        elif cmd == "/unwatch" and len(parts) >= 2:
+            ca = parts[1].strip()
+            if ca in watched_coins:
+                del watched_coins[ca]
+                watched_changed = True
+                send_telegram(f"Stopped watching:\n{ca}")
+            else:
+                send_telegram("Not currently watching that address.")
+
+        elif cmd == "/watchlist":
+            if not watched_coins:
+                send_telegram("Not watching any coins yet. Use /watch <CA> to start.")
+            else:
+                lines = [f"- {c['name']} ({c['symbol']}): {ca}" for ca, c in watched_coins.items()]
+                send_telegram("👁️ Watched coins:\n" + "\n".join(lines))
+
+        elif cmd == "/setminliquidity" and len(parts) >= 2:
+            try:
+                value = float(parts[1].strip())
+                settings["min_liquidity_usd"] = value
+                settings_changed = True
+                send_telegram(f"✅ Scanner minimum liquidity set to ${value:,.0f}")
+            except ValueError:
+                send_telegram("⚠️ Send a number, e.g. /setminliquidity 8000")
+
+        elif cmd == "/setminchange" and len(parts) >= 2:
+            try:
+                value = float(parts[1].strip())
+                settings["min_1h_change_pct"] = value
+                settings_changed = True
+                send_telegram(f"✅ Scanner minimum 1h change set to {value:+.0f}%")
+            except ValueError:
+                send_telegram("⚠️ Send a number, e.g. /setminchange 20")
+
         elif cmd == "/help":
             send_telegram(
-                "Commands:\n"
+                "Wallets:\n"
                 "/add <address> <label> — start tracking a wallet\n"
                 "/remove <address> — stop tracking a wallet\n"
-                "/list — show tracked wallets"
+                "/list — show tracked wallets\n\n"
+                "Coins:\n"
+                "/watch <CA> — check a coin now + get rug alerts on it\n"
+                "/unwatch <CA> — stop watching a coin\n"
+                "/watchlist — show watched coins\n\n"
+                "Scanner tuning:\n"
+                "/setminliquidity <amount> — minimum liquidity to alert on\n"
+                "/setminchange <percent> — minimum 1h price change to alert on"
             )
 
     save_json(TG_OFFSET_FILE, {"offset": offset})
-    if changed:
+    if wallets_changed:
         save_json(WALLETS_FILE, wallets)
-    return wallets
+    if watched_changed:
+        save_json(WATCHED_COINS_FILE, watched_coins)
+    if settings_changed:
+        save_json(SETTINGS_FILE, settings)
+    return wallets, watched_coins, settings
 
 
 # ---------------- pricing ----------------
@@ -338,19 +435,43 @@ def update_wallet_stats(wallet_stats, address, label, details, paid_usd, bought_
         "label": label, "buy_count": 0, "sell_count": 0,
         "total_buy_usd": 0.0, "total_sell_usd": 0.0,
         "tokens_traded": [], "last_active": 0,
+        "positions": {}, "realized_pnl_usd": 0.0,
     })
+    stats.setdefault("positions", {})
+    stats.setdefault("realized_pnl_usd", 0.0)
     stats["label"] = label  # keep label fresh in case it was renamed
     stats["last_active"] = int(time.time())
 
     direction, token_mint = classify_swap(details)
+
     if direction == "buy":
         stats["buy_count"] += 1
         if paid_usd:
             stats["total_buy_usd"] += paid_usd
+        bought_amount = details.get("bought_amount")
+        # Build a real cost basis for this position, so a later sell can
+        # compute actual realized profit/loss — not just "they traded".
+        if token_mint and bought_amount and paid_usd:
+            pos = stats["positions"].setdefault(token_mint, {"qty": 0.0, "cost_usd": 0.0})
+            pos["qty"] += bought_amount
+            pos["cost_usd"] += paid_usd
+
     elif direction == "sell":
         stats["sell_count"] += 1
         if bought_usd:
             stats["total_sell_usd"] += bought_usd
+        sold_amount = details.get("paid_amount")
+        pos = stats["positions"].get(token_mint) if token_mint else None
+        # Only compute PnL if we actually saw the buy that opened this
+        # position — if the position predates our tracking, we honestly
+        # don't know the cost basis, so we skip rather than guess.
+        if pos and pos.get("qty", 0) > 0 and sold_amount and bought_usd:
+            avg_cost = pos["cost_usd"] / pos["qty"]
+            qty_sold = min(sold_amount, pos["qty"])
+            cost_of_sold = avg_cost * qty_sold
+            stats["realized_pnl_usd"] += bought_usd - cost_of_sold
+            pos["qty"] -= qty_sold
+            pos["cost_usd"] -= cost_of_sold
 
     if token_mint and token_mint not in stats["tokens_traded"]:
         stats["tokens_traded"].append(token_mint)
@@ -482,7 +603,7 @@ def process_wallet(wallet, seen, alerts_log, wallet_stats, recent_buys):
 
 # ---------------- coin potential scanner ----------------
 
-def fetch_new_pools():
+def fetch_new_pools(settings):
     """
     Pulls recently created Solana liquidity pools via DexPaprika — genuinely
     free, no signup, no API key, no card, ever (50K requests/month per IP).
@@ -491,12 +612,13 @@ def fetch_new_pools():
     already graduated (proven enough demand to migrate) — not the earliest
     bonding-curve-stage coins.
     """
+    min_liquidity = get_scanner_setting(settings, "min_liquidity_usd", DEFAULT_MIN_LIQUIDITY_USD)
     url = "https://api.dexpaprika.com/networks/solana/pools/search"
     params = {
         "order_by": "created_at",
         "sort": "desc",
         "limit": 50,
-        "liquidity_usd_min": SCANNER_MIN_LIQUIDITY_USD,
+        "liquidity_usd_min": min_liquidity,
     }
     try:
         resp = requests.get(url, params=params, timeout=15)
@@ -516,13 +638,16 @@ def extract_token_mint(pool):
     return None
 
 
-def score_pool(pool):
+def score_pool(pool, settings):
     """
     Returns (passes, why_lines, liquidity, volume_24h, change_1h). DexPaprika
     already computes price-change percentages for us, so no manual
     snapshot-diffing needed — it's a real momentum reading straight from the
     source.
     """
+    min_liquidity = get_scanner_setting(settings, "min_liquidity_usd", DEFAULT_MIN_LIQUIDITY_USD)
+    min_change = get_scanner_setting(settings, "min_1h_change_pct", DEFAULT_MIN_1H_CHANGE_PCT)
+
     liquidity = pool.get("liquidity_usd", 0) or 0
     volume_24h = pool.get("volume_usd_24h", 0) or 0
     change_1h = pool.get("price_change_percentage_1h", 0) or 0
@@ -538,9 +663,9 @@ def score_pool(pool):
 
     if age_min is None or not (SCANNER_MIN_AGE_MIN <= age_min <= SCANNER_MAX_AGE_MIN):
         return False, [], liquidity, volume_24h, change_1h
-    if liquidity < SCANNER_MIN_LIQUIDITY_USD:
+    if liquidity < min_liquidity:
         return False, [], liquidity, volume_24h, change_1h
-    if change_1h < SCANNER_MIN_1H_CHANGE_PCT:
+    if change_1h < min_change:
         return False, [], liquidity, volume_24h, change_1h
 
     why_lines = [
@@ -592,14 +717,41 @@ def check_smart_money(mint, recent_buys):
     return [e["label"] for e in entries]
 
 
-def run_coin_scanner(scanner_seen, alerts_log, signal_outcomes, recent_buys):
-    pools = fetch_new_pools()
+def check_watched_coins_for_rugs(watched_coins, alerts_log):
+    """For every coin someone /watch'd, check its current liquidity against
+    the last known value — a sudden large drop is a classic rug-pull sign."""
+    for ca, coin in watched_coins.items():
+        if coin.get("rugged"):
+            continue  # already alerted on this one, don't spam
+        current = fetch_current_liquidity(ca)
+        if current is None:
+            continue
+        last = coin.get("last_liquidity") or coin.get("liquidity_at_watch")
+        if last and last > 0:
+            drop_pct = (1 - current / last) * 100
+            if drop_pct >= RUG_ALERT_DROP_PCT:
+                msg = (
+                    f"🚨 POSSIBLE RUG — {coin['name']} ({coin['symbol']})\n"
+                    f"Liquidity dropped {drop_pct:.0f}% (${last:,.0f} -> ${current:,.0f})\n"
+                    f"CA: {ca}\n"
+                    f"Sudden, large liquidity removal is a classic rug-pull sign — "
+                    f"treat this as a serious warning, not a certainty."
+                )
+                send_telegram(msg)
+                alerts_log.insert(0, {"ts": int(time.time()), "type": "rug", "message": msg})
+                coin["rugged"] = True
+        coin["last_liquidity"] = current
+    return watched_coins, alerts_log
+
+
+def run_coin_scanner(scanner_seen, alerts_log, signal_outcomes, recent_buys, settings):
+    pools = fetch_new_pools(settings)
     for pool in pools:
         mint = extract_token_mint(pool)
         if not mint or mint in signal_outcomes:
             continue  # no token found, or we've already flagged this one before
 
-        passes, why_lines, liquidity, volume_24h, change_1h = score_pool(pool)
+        passes, why_lines, liquidity, volume_24h, change_1h = score_pool(pool, settings)
         if not passes:
             continue
 
@@ -661,7 +813,30 @@ def fetch_current_liquidity(mint):
     return None
 
 
-def check_signal_outcomes(signal_outcomes, alerts_log):
+def update_outcome_history(outcome_history, checkpoint_label, change_pct):
+    """Tally results per checkpoint so we can report the scanner's real
+    track record, not just fire alerts and never look back."""
+    bucket = outcome_history.setdefault(checkpoint_label, {"count": 0, "up_count": 0, "total_change_pct": 0.0})
+    bucket["count"] += 1
+    if change_pct > 0:
+        bucket["up_count"] += 1
+    bucket["total_change_pct"] += change_pct
+    return outcome_history
+
+
+def summarize_outcome_history(outcome_history):
+    summary = {}
+    for label, bucket in outcome_history.items():
+        if bucket["count"] > 0:
+            summary[label] = {
+                "count": bucket["count"],
+                "up_pct": round(bucket["up_count"] / bucket["count"] * 100),
+                "avg_change_pct": round(bucket["total_change_pct"] / bucket["count"], 1),
+            }
+    return summary
+
+
+def check_signal_outcomes(signal_outcomes, alerts_log, outcome_history):
     """For coins we've flagged before, check back at fixed checkpoints
     (1h/4h/24h) and report whether it actually grew — this is what makes the
     scanner accountable instead of just firing alerts and never following up."""
@@ -686,6 +861,7 @@ def check_signal_outcomes(signal_outcomes, alerts_log):
                     )
                     send_telegram(outcome_msg)
                     alerts_log.insert(0, {"ts": int(time.time()), "type": "outcome", "message": outcome_msg})
+                    outcome_history = update_outcome_history(outcome_history, label, change_pct)
 
     # drop records once fully checked and old, so the file doesn't grow forever
     signal_outcomes = {
@@ -693,16 +869,51 @@ def check_signal_outcomes(signal_outcomes, alerts_log):
         if len(r["checkpoints_done"]) < len(OUTCOME_CHECKPOINTS_MIN)
         or (now - r["flagged_ts"]) < 7 * 86400
     }
-    return signal_outcomes, alerts_log
+    return signal_outcomes, alerts_log, outcome_history
+
+
+# ---------------- daily digest ----------------
+
+def maybe_send_daily_digest(wallet_stats, outcome_history, watched_coins, digest_state):
+    """Sends one summary message per day (around 08:00 UTC) instead of only
+    reactive alerts — a single glance at how things are going."""
+    today = time.strftime("%Y-%m-%d", time.gmtime())
+    current_hour = int(time.strftime("%H", time.gmtime()))
+    if digest_state.get("last_sent_date") == today or current_hour != 8:
+        return digest_state
+
+    lines = ["🗞️ DAILY DIGEST"]
+    cutoff = time.time() - 86400
+    active = [s for s in wallet_stats.values() if s.get("last_active", 0) > cutoff]
+    lines.append(f"\nWallets active in last 24h: {len(active)}")
+    for s in active:
+        pnl = s.get("realized_pnl_usd", 0.0)
+        lines.append(f"- {s['label']}: {s['buy_count']} buys, {s['sell_count']} sells, realized PnL ~${pnl:,.2f}")
+
+    summary = summarize_outcome_history(outcome_history)
+    if summary:
+        lines.append("\nScanner accuracy so far:")
+        for label, s in summary.items():
+            lines.append(f"- {label}: {s['count']} flagged, {s['up_pct']}% were up, avg change {s['avg_change_pct']:+.1f}%")
+
+    if watched_coins:
+        lines.append(f"\nWatching {len(watched_coins)} coin(s) for rug alerts.")
+
+    send_telegram("\n".join(lines))
+    digest_state["last_sent_date"] = today
+    return digest_state
 
 
 # ---------------- dashboard export ----------------
 
-def write_dashboard(wallets, alerts_log, wallet_stats):
+def write_dashboard(wallets, alerts_log, wallet_stats, watched_coins, outcome_history, settings):
     data = {
         "last_updated": int(time.time()),
         "wallets": wallets,
         "wallet_stats": wallet_stats,
+        "watched_coins": watched_coins,
+        "scanner_accuracy": summarize_outcome_history(outcome_history),
+        "settings": settings,
         "recent_alerts": alerts_log[:MAX_ALERTS_LOGGED],
     }
     save_json(DASHBOARD_FILE, data)
@@ -723,11 +934,17 @@ def main():
     wallet_stats = load_json(WALLET_STATS_FILE, {})
     signal_outcomes = load_json(SIGNAL_OUTCOMES_FILE, {})
     recent_buys = load_json(RECENT_BUYS_FILE, {})
+    watched_coins = load_json(WATCHED_COINS_FILE, {})
+    settings = load_json(SETTINGS_FILE, {})
+    outcome_history = load_json(OUTCOME_HISTORY_FILE, {})
+    digest_state = load_json("digest_state.json", {})
 
-    wallets = process_telegram_commands(wallets)
+    wallets, watched_coins, settings = process_telegram_commands(wallets, watched_coins, settings)
     save_json(WALLETS_FILE, wallets)  # always persist, even if nothing changed this run
+    save_json(WATCHED_COINS_FILE, watched_coins)
+    save_json(SETTINGS_FILE, settings)
 
-    print(f"Tracking {len(wallets)} wallet(s):")
+    print(f"Tracking {len(wallets)} wallet(s), watching {len(watched_coins)} coin(s):")
     for w in wallets:
         print(f"  - {w['label']}: {w['address']}")
 
@@ -738,16 +955,24 @@ def main():
     save_json(WALLET_STATS_FILE, wallet_stats)
     save_json(RECENT_BUYS_FILE, recent_buys)
 
+    watched_coins, alerts_log = check_watched_coins_for_rugs(watched_coins, alerts_log)
+    save_json(WATCHED_COINS_FILE, watched_coins)
+
     scanner_seen, alerts_log, signal_outcomes = run_coin_scanner(
-        scanner_seen, alerts_log, signal_outcomes, recent_buys)
-    signal_outcomes, alerts_log = check_signal_outcomes(signal_outcomes, alerts_log)
+        scanner_seen, alerts_log, signal_outcomes, recent_buys, settings)
+    signal_outcomes, alerts_log, outcome_history = check_signal_outcomes(
+        signal_outcomes, alerts_log, outcome_history)
     save_json(SCANNER_SEEN_FILE, scanner_seen)
     save_json(SIGNAL_OUTCOMES_FILE, signal_outcomes)
+    save_json(OUTCOME_HISTORY_FILE, outcome_history)
+
+    digest_state = maybe_send_daily_digest(wallet_stats, outcome_history, watched_coins, digest_state)
+    save_json("digest_state.json", digest_state)
 
     alerts_log = alerts_log[:MAX_ALERTS_LOGGED]
     save_json(ALERTS_LOG_FILE, alerts_log)
 
-    write_dashboard(wallets, alerts_log, wallet_stats)
+    write_dashboard(wallets, alerts_log, wallet_stats, watched_coins, outcome_history, settings)
 
 
 if __name__ == "__main__":
