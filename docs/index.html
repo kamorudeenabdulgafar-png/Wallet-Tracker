@@ -110,6 +110,7 @@
   .feed-item.swap::before{background:var(--rose);}
   .feed-item.scanner::before{background:var(--amber);}
   .feed-item.outcome::before{background:#8b9bf2;}
+  .feed-item.rug::before{background:var(--rose);}
 
   .feed-tag{
     font-size:0.68rem;
@@ -122,6 +123,20 @@
   .feed-item.swap .feed-tag{color:var(--rose);}
   .feed-item.scanner .feed-tag{color:var(--amber);}
   .feed-item.outcome .feed-tag{color:#8b9bf2;}
+  .feed-item.rug .feed-tag{color:var(--rose);}
+
+  .stat-row{
+    display:flex;
+    justify-content:space-between;
+    padding:8px 0;
+    border-bottom:1px solid var(--line);
+    font-size:0.82rem;
+  }
+  .stat-row:last-child{border-bottom:none;}
+  .stat-row .name{color:var(--ink);}
+  .stat-row .value{color:var(--ink-dim);}
+  .pnl-pos{color:var(--teal);}
+  .pnl-neg{color:var(--rose);}
 
   .feed-body{
     white-space:pre-wrap;
@@ -161,6 +176,16 @@
     <h2>Live feed</h2>
     <div id="feed"><div class="empty">Loading…</div></div>
   </section>
+
+  <section class="panel">
+    <h2>Watchlist (rug alerts on)</h2>
+    <div id="watchlist"><div class="empty">Loading…</div></div>
+  </section>
+
+  <section class="panel">
+    <h2>Scanner accuracy</h2>
+    <div id="accuracy"><div class="empty">Loading…</div></div>
+  </section>
 </main>
 
 <script>
@@ -179,7 +204,7 @@ function timeAgo(ts) {
   const diff = Math.floor(Date.now() / 1000) - ts;
   if (diff < 60) return diff + 's ago';
   if (diff < 3600) return Math.floor(diff / 60) + 'm ago';
-[9/6/2026 12:53 AM] Clever: if (diff < 86400) return Math.floor(diff / 3600) + 'h ago';
+  if (diff < 86400) return Math.floor(diff / 3600) + 'h ago';
   return Math.floor(diff / 86400) + 'd ago';
 }
 
@@ -188,12 +213,16 @@ function tagFor(message) {
   if (message.startsWith('💰')) return {cls: 'swap', label: 'Swap'};
   if (message.startsWith('📈')) return {cls: 'scanner', label: 'Scanner hit'};
   if (message.startsWith('📊')) return {cls: 'outcome', label: 'Signal review'};
+  if (message.startsWith('🚨')) return {cls: 'rug', label: 'Rug alert'};
   return {cls: '', label: 'Activity'};
 }
 
 function render(data) {
   document.getElementById('updated').textContent =
     'updated ' + timeAgo(data.last_updated);
+
+  renderWatchlist(data);
+  renderAccuracy(data);
 
   const walletsEl = document.getElementById('wallets');
   if (!data.wallets || data.wallets.length === 0) {
@@ -220,6 +249,9 @@ function render(data) {
             <span>avg buy <b>$${avgBuy.toFixed(0)}</b></span>
             <span>${tag}</span>
             <span>last active ${s.last_active ? timeAgo(s.last_active) : '—'}</span>
+          </div>
+          <div class="wallet-stats">
+            <span>realized PnL <b class="${(s.realized_pnl_usd || 0) >= 0 ? 'pnl-pos' : 'pnl-neg'}">$${(s.realized_pnl_usd || 0).toFixed(2)}</b> (only positions we saw opened)</span>
           </div>`;
       }
       return `
@@ -253,6 +285,42 @@ function escapeHtml(str) {
   const div = document.createElement('div');
   div.textContent = str;
   return div.innerHTML;
+}
+
+function renderWatchlist(data) {
+  const el = document.getElementById('watchlist');
+  const coins = data.watched_coins || {};
+  const entries = Object.entries(coins);
+  if (entries.length === 0) {
+    el.innerHTML = '<div class="empty">Not watching any coins. Send /watch &lt;CA&gt; to your bot.</div>';
+    return;
+  }
+  el.innerHTML = entries.map(([ca, c]) => `
+    <div class="stat-row">
+      <span class="name">${escapeHtml(c.name)} (${escapeHtml(c.symbol)}) ${c.rugged ? '🚨' : ''}</span>
+      <span class="value mono">$${(c.last_liquidity || 0).toLocaleString(undefined, {maximumFractionDigits: 0})}</span>
+    </div>
+  `).join('');
+}
+
+function renderAccuracy(data) {
+  const el = document.getElementById('accuracy');
+  const acc = data.scanner_accuracy || {};
+  const labels = Object.keys(acc);
+  if (labels.length === 0) {
+    el.innerHTML = '<div class="empty">No scanner hits have reached a check-back point yet (1h/4h/24h after flagging).</div>';
+    return;
+  }
+  const nice = {"60m": "1 hour", "240m": "4 hours", "1440m": "24 hours"};
+  el.innerHTML = labels.map(label => {
+    const s = acc[label];
+    return `
+      <div class="stat-row">
+        <span class="name">${nice[label] || label} later</span>
+        <span class="value">${s.count} flagged · ${s.up_pct}% up · avg ${s.avg_change_pct > 0 ? '+' : ''}${s.avg_change_pct}%</span>
+      </div>
+    `;
+  }).join('');
 }
 
 load();
