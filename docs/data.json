@@ -1,5 +1,5 @@
 {
-  "last_updated": 1788836786,
+  "last_updated": 1788837708,
   "wallets": [
     {
       "label": "Dev wallet 1",
@@ -36,6 +36,16 @@
     }
   },
   "recent_alerts": [
+    {
+      "ts": 1788837706,
+      "type": "outcome",
+      "message": "\ud83d\udcca SIGNAL REVIEW (1h later)\nPiggy Bank (PIGGY)\nLiquidity at flag: ~$36,354\nLiquidity now: ~$38,334\nChange: +5%"
+    },
+    {
+      "ts": 1788837705,
+      "type": "outcome",
+      "message": "\ud83d\udcca SIGNAL REVIEW (1h later)\n605577 (\u9f99\u7248\u4f20\u5a92)\nLiquidity at flag: ~$26,233\nLiquidity now: ~$26,233\nChange: +0%"
+    },
     {
       "ts": 1788836785,
       "type": "outcome",
@@ -275,16 +285,6 @@
       "ts": 1788836132,
       "type": "scanner",
       "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 AVOID\nBitfart (Bitfart)\nOpportunity: 36/100\n\nMOMENTUM     35\nSAFETY       60\nLIQUIDITY    51\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$10,135, 6 min since pool creation\n\u2022 Up +23% in the last hour, ~$8,568 in 24h volume\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 98% of supply (very concentrated)\n\nCA: 7U9fpPpGCGtcRUZTfaShVjcTriDqwpbSozJ7uL7jgrvN\nhttps://dexscreener.com/solana/7U9fpPpGCGtcRUZTfaShVjcTriDqwpbSozJ7uL7jgrvN\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
-    },
-    {
-      "ts": 1788836131,
-      "type": "scanner",
-      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 WEAK\nUSWR (USWR)\nOpportunity: 46/100\n\nMOMENTUM     43\nSAFETY       60\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$29,022, 6 min since pool creation\n\u2022 Up +28% in the last hour, ~$14,661 in 24h volume\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 91% of supply (very concentrated)\n\nCA: 9NX2JQtXRbDi4XeUEAS8FPJrc7PGqCMXDxKYfCMAvSUS\nhttps://dexscreener.com/solana/9NX2JQtXRbDi4XeUEAS8FPJrc7PGqCMXDxKYfCMAvSUS\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
-    },
-    {
-      "ts": 1788835398,
-      "type": "outcome",
-      "message": "\ud83d\udcca SIGNAL REVIEW (1h later)\nChinese Pepe (BIGDAN)\nLiquidity at flag: ~$33,139\nLiquidity now: ~$33,290\nChange: +0%"
     }
   ]
 }
