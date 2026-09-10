@@ -1,5 +1,5 @@
 {
-  "last_updated": 1789039736,
+  "last_updated": 1789040470,
   "wallets": [
     {
       "label": "Dev wallet 1",
@@ -64,14 +64,14 @@
   },
   "scanner_accuracy": {
     "60m": {
-      "count": 500,
+      "count": 506,
       "up_pct": 33,
-      "avg_change_pct": 73368059.2
+      "avg_change_pct": 72498082.0
     },
     "240m": {
-      "count": 1213,
+      "count": 1215,
       "up_pct": 26,
-      "avg_change_pct": 30242372.7
+      "avg_change_pct": 30192590.9
     },
     "1440m": {
       "count": 977,
@@ -81,6 +81,46 @@
   },
   "settings": {},
   "recent_alerts": [
+    {
+      "ts": 1789040470,
+      "type": "outcome",
+      "message": "\ud83d\udcca SIGNAL REVIEW (1h later)\nBepi Orbiter (BEPORB)\nLiquidity at flag: ~$112,499\nLiquidity now: ~$112,499\nChange: +0%"
+    },
+    {
+      "ts": 1789040469,
+      "type": "outcome",
+      "message": "\ud83d\udcca SIGNAL REVIEW (1h later)\nCADENCE (CADENCE)\nLiquidity at flag: ~$37,883\nLiquidity now: ~$45,077\nChange: +19%"
+    },
+    {
+      "ts": 1789040468,
+      "type": "outcome",
+      "message": "\ud83d\udcca SIGNAL REVIEW (1h later)\nThe Cocaine Hippo (Pepe)\nLiquidity at flag: ~$30,859\nLiquidity now: ~$31,236\nChange: +1%"
+    },
+    {
+      "ts": 1789040467,
+      "type": "outcome",
+      "message": "\ud83d\udcca SIGNAL REVIEW (1h later)\nAnonymous Frog (ZFROG)\nLiquidity at flag: ~$17,466\nLiquidity now: ~$2,165\nChange: -88%"
+    },
+    {
+      "ts": 1789040466,
+      "type": "outcome",
+      "message": "\ud83d\udcca SIGNAL REVIEW (1h later)\nbaton bull (batull)\nLiquidity at flag: ~$16,085\nLiquidity now: ~$16,248\nChange: +1%"
+    },
+    {
+      "ts": 1789040465,
+      "type": "outcome",
+      "message": "\ud83d\udcca SIGNAL REVIEW (1h later)\nUnicoin (Unicoin)\nLiquidity at flag: ~$28,984\nLiquidity now: ~$27,296\nChange: -6%"
+    },
+    {
+      "ts": 1789040464,
+      "type": "outcome",
+      "message": "\ud83d\udcca SIGNAL REVIEW (4h later)\nAnonymous Cat (ZCAT)\nLiquidity at flag: ~$29,633\nLiquidity now: ~$0\nChange: -100%"
+    },
+    {
+      "ts": 1789040462,
+      "type": "outcome",
+      "message": "\ud83d\udcca SIGNAL REVIEW (4h later)\nAntFun (ANTFUN)\nLiquidity at flag: ~$23,683\nLiquidity now: ~$19,934\nChange: -16%"
+    },
     {
       "ts": 1789039730,
       "type": "outcome",
@@ -290,46 +330,6 @@
       "ts": 1789038673,
       "type": "outcome",
       "message": "\ud83d\udcca SIGNAL REVIEW (24h later)\nLAPTOP (LAPTOP)\nLiquidity at flag: ~$9,868\nLiquidity now: ~$0\nChange: -100%"
-    },
-    {
-      "ts": 1789038673,
-      "type": "outcome",
-      "message": "\ud83d\udcca SIGNAL REVIEW (24h later)\nCARDCAT COIN (CARDCAT)\nLiquidity at flag: ~$37,178\nLiquidity now: ~$2,664\nChange: -93%"
-    },
-    {
-      "ts": 1789038672,
-      "type": "outcome",
-      "message": "\ud83d\udcca SIGNAL REVIEW (24h later)\nContraband Markets (CONTRABAND)\nLiquidity at flag: ~$23,836\nLiquidity now: ~$1\nChange: -100%"
-    },
-    {
-      "ts": 1789038670,
-      "type": "outcome",
-      "message": "\ud83d\udcca SIGNAL REVIEW (24h later)\nLaptop (LAPTOP)\nLiquidity at flag: ~$62,874\nLiquidity now: ~$17\nChange: -100%"
-    },
-    {
-      "ts": 1789038669,
-      "type": "outcome",
-      "message": "\ud83d\udcca SIGNAL REVIEW (24h later)\nCZ(\u8584\u808c\u7248) (CZ(\u8584\u808c\u7248))\nLiquidity at flag: ~$38,547\nLiquidity now: ~$2\nChange: -100%"
-    },
-    {
-      "ts": 1789038668,
-      "type": "outcome",
-      "message": "\ud83d\udcca SIGNAL REVIEW (24h later)\n\u8584\u808c\u7406\u8bba (\u8584\u808c\u7406\u8bba)\nLiquidity at flag: ~$28,942\nLiquidity now: ~$0\nChange: -100%"
-    },
-    {
-      "ts": 1789038667,
-      "type": "outcome",
-      "message": "\ud83d\udcca SIGNAL REVIEW (24h later)\nContraband Markets (CONTRABAND)\nLiquidity at flag: ~$20,531\nLiquidity now: ~$64,021\nChange: +212%"
-    },
-    {
-      "ts": 1789038667,
-      "type": "outcome",
-      "message": "\ud83d\udcca SIGNAL REVIEW (24h later)\nFartcat (FARTCAT)\nLiquidity at flag: ~$20,527\nLiquidity now: ~$21,349\nChange: +4%"
-    },
-    {
-      "ts": 1789038666,
-      "type": "scanner",
-      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 WATCH\niPhone Duo (Duo)\nOpportunity: 68/100\n\nMOMENTUM     100\nSAFETY       75\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$35,746, 18 min since pool creation\n\u2022 Up +365% in the last hour, ~$32,155 in 24h volume\n\nRISKS (Moderate, 25/100):\n\u2022 top 10 holders own 55% of supply (concentrated)\n\nCA: HqkpkzfT3w2s7FBiqD5Tia2FixDxYD1dctgU2171C1Ea\nhttps://dexscreener.com/solana/HqkpkzfT3w2s7FBiqD5Tia2FixDxYD1dctgU2171C1Ea\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
     }
   ]
 }
