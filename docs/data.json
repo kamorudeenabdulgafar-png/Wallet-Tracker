@@ -1,5 +1,5 @@
 {
-  "last_updated": 1789027803,
+  "last_updated": 1789028795,
   "wallets": [
     {
       "label": "Dev wallet 1",
@@ -64,23 +64,53 @@
   },
   "scanner_accuracy": {
     "60m": {
-      "count": 482,
+      "count": 484,
       "up_pct": 33,
-      "avg_change_pct": 76107946.8
+      "avg_change_pct": 75793451.1
     },
     "240m": {
-      "count": 1167,
+      "count": 1169,
       "up_pct": 26,
-      "avg_change_pct": 31434447.4
+      "avg_change_pct": 31380667.2
     },
     "1440m": {
-      "count": 876,
-      "up_pct": 25,
-      "avg_change_pct": -52.1
+      "count": 878,
+      "up_pct": 24,
+      "avg_change_pct": -52.2
     }
   },
   "settings": {},
   "recent_alerts": [
+    {
+      "ts": 1789028795,
+      "type": "outcome",
+      "message": "\ud83d\udcca SIGNAL REVIEW (1h later)\nSpaceX (SPCX)\nLiquidity at flag: ~$262,711\nLiquidity now: ~$263,593\nChange: +0%"
+    },
+    {
+      "ts": 1789028791,
+      "type": "outcome",
+      "message": "\ud83d\udcca SIGNAL REVIEW (1h later)\nPeniscoin (PENIS)\nLiquidity at flag: ~$24,508\nLiquidity now: ~$24,507\nChange: -0%"
+    },
+    {
+      "ts": 1789028786,
+      "type": "outcome",
+      "message": "\ud83d\udcca SIGNAL REVIEW (4h later)\nsnoofi (SNOOFI)\nLiquidity at flag: ~$32,367\nLiquidity now: ~$0\nChange: -100%"
+    },
+    {
+      "ts": 1789028784,
+      "type": "outcome",
+      "message": "\ud83d\udcca SIGNAL REVIEW (4h later)\nHOLD (HOLD)\nLiquidity at flag: ~$23,329\nLiquidity now: ~$24,519\nChange: +5%"
+    },
+    {
+      "ts": 1789028780,
+      "type": "outcome",
+      "message": "\ud83d\udcca SIGNAL REVIEW (24h later)\nCLAWDHOOD (CLAWDHOOD)\nLiquidity at flag: ~$46,040\nLiquidity now: ~$25,238\nChange: -45%"
+    },
+    {
+      "ts": 1789028778,
+      "type": "outcome",
+      "message": "\ud83d\udcca SIGNAL REVIEW (24h later)\nBe like Jacob (Jacob)\nLiquidity at flag: ~$33,242\nLiquidity now: ~$30\nChange: -100%"
+    },
     {
       "ts": 1789027802,
       "type": "outcome",
@@ -300,36 +330,6 @@
       "ts": 1789026490,
       "type": "outcome",
       "message": "\ud83d\udcca SIGNAL REVIEW (1h later)\n4Stock (4Stock)\nLiquidity at flag: ~$11,448\nLiquidity now: ~$0\nChange: -100%"
-    },
-    {
-      "ts": 1789026488,
-      "type": "outcome",
-      "message": "\ud83d\udcca SIGNAL REVIEW (1h later)\n\u9ec4\u91d1\u624b (\u9ec4\u91d1\u624b)\nLiquidity at flag: ~$27,713\nLiquidity now: ~$0\nChange: -100%"
-    },
-    {
-      "ts": 1789026487,
-      "type": "outcome",
-      "message": "\ud83d\udcca SIGNAL REVIEW (4h later)\n\u53cc\u4f11 (\u53cc\u4f11)\nLiquidity at flag: ~$64,902\nLiquidity now: ~$56,344\nChange: -13%"
-    },
-    {
-      "ts": 1789026486,
-      "type": "outcome",
-      "message": "\ud83d\udcca SIGNAL REVIEW (4h later)\nbaton (baton)\nLiquidity at flag: ~$231,479\nLiquidity now: ~$386,235\nChange: +67%"
-    },
-    {
-      "ts": 1789026485,
-      "type": "outcome",
-      "message": "\ud83d\udcca SIGNAL REVIEW (4h later)\nFLYCOIN (FLY)\nLiquidity at flag: ~$11,384\nLiquidity now: ~$0\nChange: -100%"
-    },
-    {
-      "ts": 1789026484,
-      "type": "outcome",
-      "message": "\ud83d\udcca SIGNAL REVIEW (4h later)\nZZZ (ZZZ)\nLiquidity at flag: ~$115,074\nLiquidity now: ~$8,661\nChange: -92%"
-    },
-    {
-      "ts": 1789026483,
-      "type": "outcome",
-      "message": "\ud83d\udcca SIGNAL REVIEW (4h later)\nbasket (basket)\nLiquidity at flag: ~$74,567\nLiquidity now: ~$0\nChange: -100%"
     }
   ]
 }
