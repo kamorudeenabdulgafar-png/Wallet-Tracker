@@ -76,6 +76,7 @@ RUG_ALERT_DROP_PCT = 50  # liquidity drop (%) since last check that triggers an 
 # Telegram (/setminliquidity, /setminchange), which take priority when set.
 DEFAULT_MIN_LIQUIDITY_USD = 5000   # too little liquidity = can't exit without huge slippage
 DEFAULT_MIN_1H_CHANGE_PCT = 15     # must be genuinely accelerating, not just sitting there
+DEFAULT_MIN_VOLUME_RATIO = 0.4     # 24h volume must be at least this fraction of liquidity — filters out thin, noisy "moves" with barely any real trading behind them
 SCANNER_MIN_AGE_MIN = 5         # skip brand-new coins with no track record yet
 SCANNER_MAX_AGE_MIN = 180        # skip old coins that likely already had their run
 MAX_ALERTS_LOGGED = 50
@@ -262,6 +263,16 @@ def process_telegram_commands(wallets, watched_coins, settings):
             except ValueError:
                 send_telegram("⚠️ Send a number, e.g. /setminchange 20")
 
+        elif cmd == "/setminvolume" and len(parts) >= 2:
+            try:
+                value = float(parts[1].strip())
+                settings["min_volume_ratio"] = value
+                settings_changed = True
+                send_telegram(f"✅ Scanner minimum volume/liquidity ratio set to {value:.2f}x "
+                               f"(higher = requires more real trading activity, fewer false alerts)")
+            except ValueError:
+                send_telegram("⚠️ Send a number, e.g. /setminvolume 0.5")
+
         elif cmd == "/help":
             send_telegram(
                 "Wallets:\n"
@@ -274,7 +285,8 @@ def process_telegram_commands(wallets, watched_coins, settings):
                 "/watchlist — show watched coins\n\n"
                 "Scanner tuning:\n"
                 "/setminliquidity <amount> — minimum liquidity to alert on\n"
-                "/setminchange <percent> — minimum 1h price change to alert on"
+                "/setminchange <percent> — minimum 1h price change to alert on\n"
+                "/setminvolume <ratio> — minimum 24h volume vs liquidity (higher = stricter)"
             )
 
     save_json(TG_OFFSET_FILE, {"offset": offset})
@@ -647,10 +659,12 @@ def score_pool(pool, settings):
     """
     min_liquidity = get_scanner_setting(settings, "min_liquidity_usd", DEFAULT_MIN_LIQUIDITY_USD)
     min_change = get_scanner_setting(settings, "min_1h_change_pct", DEFAULT_MIN_1H_CHANGE_PCT)
+    min_volume_ratio = get_scanner_setting(settings, "min_volume_ratio", DEFAULT_MIN_VOLUME_RATIO)
 
     liquidity = pool.get("liquidity_usd", 0) or 0
     volume_24h = pool.get("volume_usd_24h", 0) or 0
     change_1h = pool.get("price_change_percentage_1h", 0) or 0
+    volume_ratio = (volume_24h / liquidity) if liquidity else 0
 
     created_at = pool.get("created_at")
     age_min = None
@@ -667,10 +681,15 @@ def score_pool(pool, settings):
         return False, [], liquidity, volume_24h, change_1h
     if change_1h < min_change:
         return False, [], liquidity, volume_24h, change_1h
+    if volume_ratio < min_volume_ratio:
+        # Price moved, but barely any real trading behind it — likely noise
+        # or a thin wick, not a genuine move.
+        return False, [], liquidity, volume_24h, change_1h
 
     why_lines = [
         f"Liquidity ~${liquidity:,.0f}, {age_min:.0f} min since pool creation",
-        f"Up {change_1h:+.0f}% in the last hour, ~${volume_24h:,.0f} in 24h volume",
+        f"Up {change_1h:+.0f}% in the last hour, ~${volume_24h:,.0f} in 24h volume "
+        f"({volume_ratio:.1f}x liquidity — real trading, not just noise)",
     ]
     return True, why_lines, liquidity, volume_24h, change_1h
 
@@ -744,6 +763,40 @@ def check_watched_coins_for_rugs(watched_coins, alerts_log):
     return watched_coins, alerts_log
 
 
+def get_token_creator(mint):
+    """Look up who created this token, via Metaplex creator metadata."""
+    url = f"https://mainnet.helius-rpc.com/?api-key={HELIUS_API_KEY}"
+    payload = {"jsonrpc": "2.0", "id": "creator", "method": "getAsset", "params": {"id": mint}}
+    try:
+        resp = requests.post(url, json=payload, timeout=15)
+        creators = resp.json().get("result", {}).get("creators", []) or []
+        if creators:
+            return creators[0].get("address")
+    except Exception as e:
+        print(f"[scanner] creator lookup failed for {mint}: {e}")
+    return None
+
+
+def dev_has_sold(dev_address, mint):
+    """
+    Check if the token's own creator has sold any of it — the single
+    strongest bearish signal for a pump.fun coin. If the dev is dumping,
+    nothing else about the setup matters.
+    """
+    try:
+        txs = fetch_transactions(dev_address)
+    except Exception:
+        return False  # unknown — don't block a candidate on a fetch failure
+    for tx in txs:
+        tx_type = (tx.get("type") or "").upper()
+        if tx_type not in ("SWAP", "TOKEN_SWAP"):
+            continue
+        details = extract_swap_details(tx)
+        if details and details.get("paid_mint") == mint:
+            return True
+    return False
+
+
 def run_coin_scanner(scanner_seen, alerts_log, signal_outcomes, recent_buys, settings):
     pools = fetch_new_pools(settings)
     for pool in pools:
@@ -755,6 +808,14 @@ def run_coin_scanner(scanner_seen, alerts_log, signal_outcomes, recent_buys, set
         if not passes:
             continue
 
+        # Two expensive checks, only run on candidates that already cleared
+        # the cheap filters above — this is what should cut a pile of mediocre
+        # alerts down to a small number of genuinely stronger ones.
+        dev = get_token_creator(mint)
+        if dev and dev_has_sold(dev, mint):
+            print(f"[scanner] skipping {mint}: creator has been selling this token")
+            continue
+
         name, symbol = get_token_name(mint)
         risk = get_token_risk(mint)
         smart_money_labels = check_smart_money(mint, recent_buys)
@@ -764,6 +825,7 @@ def run_coin_scanner(scanner_seen, alerts_log, signal_outcomes, recent_buys, set
 
         if smart_money_labels:
             why_lines.append(f"Bought recently by wallets you track: {', '.join(smart_money_labels)}")
+        why_lines.append("Creator has not been selling this token")
 
         why_block = "\n".join(f"• {line}" for line in why_lines)
         if risk["score"] is not None:
