@@ -1,5 +1,5 @@
 {
-  "last_updated": 1789159658,
+  "last_updated": 1789160172,
   "wallets": [
     {
       "label": "Dev wallet 1",
@@ -71,23 +71,58 @@
   },
   "scanner_accuracy": {
     "60m": {
-      "count": 750,
+      "count": 751,
       "up_pct": 35,
-      "avg_change_pct": 48912033.9
+      "avg_change_pct": 48846904.6
     },
     "240m": {
-      "count": 1785,
+      "count": 1788,
       "up_pct": 26,
-      "avg_change_pct": 20551247.6
+      "avg_change_pct": 20516765.6
     },
     "1440m": {
-      "count": 1913,
+      "count": 1916,
       "up_pct": 24,
-      "avg_change_pct": -52.1
+      "avg_change_pct": -52.2
     }
   },
   "settings": {},
   "recent_alerts": [
+    {
+      "ts": 1789160171,
+      "type": "outcome",
+      "message": "\ud83d\udcca SIGNAL REVIEW (1h later)\nDancing Dog (DOGGO)\nLiquidity at flag: ~$51,235\nLiquidity now: ~$25,541\nChange: -50%"
+    },
+    {
+      "ts": 1789160169,
+      "type": "outcome",
+      "message": "\ud83d\udcca SIGNAL REVIEW (4h later)\nembercurve (EMBER)\nLiquidity at flag: ~$266,413\nLiquidity now: ~$0\nChange: -100%"
+    },
+    {
+      "ts": 1789160168,
+      "type": "outcome",
+      "message": "\ud83d\udcca SIGNAL REVIEW (4h later)\nSTONK (STONK)\nLiquidity at flag: ~$24,740\nLiquidity now: ~$30,028\nChange: +21%"
+    },
+    {
+      "ts": 1789160167,
+      "type": "outcome",
+      "message": "\ud83d\udcca SIGNAL REVIEW (4h later)\nEuler (EULER)\nLiquidity at flag: ~$20,495\nLiquidity now: ~$20,495\nChange: +0%"
+    },
+    {
+      "ts": 1789160164,
+      "type": "outcome",
+      "message": "\ud83d\udcca SIGNAL REVIEW (24h later)\nKrispy Kreme (DNUT)\nLiquidity at flag: ~$25,948\nLiquidity now: ~$0\nChange: -100%"
+    },
+    {
+      "ts": 1789160162,
+      "type": "outcome",
+      "message": "\ud83d\udcca SIGNAL REVIEW (24h later)\nLoot (LOOT)\nLiquidity at flag: ~$22,791\nLiquidity now: ~$0\nChange: -100%"
+    },
+    {
+      "ts": 1789160161,
+      "type": "outcome",
+      "message": "\ud83d\udcca SIGNAL REVIEW (24h later)\nAnthropic (Claude)\nLiquidity at flag: ~$217,585\nLiquidity now: ~$270,971\nChange: +25%"
+    },
     {
       "ts": 1789159655,
       "type": "outcome",
@@ -302,41 +337,6 @@
       "ts": 1789158039,
       "type": "scanner",
       "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 WEAK\nRobinhood (HOOD)\nOpportunity: 55/100\n\nMOMENTUM     72\nSAFETY       60\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$198,187, 14 min since pool creation\n\u2022 Up +48% in the last hour, ~$1,057,702 in 24h volume (5.3x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 97% of supply (very concentrated)\n\nCA: HFEmhGymAgmmgoVt3TYfLVzP7GzqkN4soWSewuGZYbok\nhttps://dexscreener.com/solana/HFEmhGymAgmmgoVt3TYfLVzP7GzqkN4soWSewuGZYbok\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
-    },
-    {
-      "ts": 1789158038,
-      "type": "scanner",
-      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 WEAK\nDancing Dog (DOGGO)\nOpportunity: 49/100\n\nMOMENTUM     53\nSAFETY       60\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$26,266, 14 min since pool creation\n\u2022 Up +35% in the last hour, ~$301,374 in 24h volume (11.5x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 86% of supply (very concentrated)\n\nCA: HZLya7ZmEH32PTtZmq9fgC3WjGPiruD1nh9sMAFHhuFV\nhttps://dexscreener.com/solana/HZLya7ZmEH32PTtZmq9fgC3WjGPiruD1nh9sMAFHhuFV\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
-    },
-    {
-      "ts": 1789158038,
-      "type": "scanner",
-      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 AVOID\ndonkey kong (DKNG)\nOpportunity: 37/100\n\nMOMENTUM     31\nSAFETY       60\nLIQUIDITY    62\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$12,441, 8 min since pool creation\n\u2022 Up +21% in the last hour, ~$118,623 in 24h volume (9.5x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 85% of supply (very concentrated)\n\nCA: 32biLRBv6Pcaeh3zyHZUzkm1SbSEpQ1773fmPvG5fnqf\nhttps://dexscreener.com/solana/32biLRBv6Pcaeh3zyHZUzkm1SbSEpQ1773fmPvG5fnqf\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
-    },
-    {
-      "ts": 1789158037,
-      "type": "scanner",
-      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 WEAK\nDancing Dog (DOGGO)\nOpportunity: 45/100\n\nMOMENTUM     41\nSAFETY       60\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$33,150, 7 min since pool creation\n\u2022 Up +28% in the last hour, ~$241,149 in 24h volume (7.3x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 96% of supply (very concentrated)\n\nCA: HCPNPHe5UMEtbZW7H4objFAZP9azmEuiVzX6Wakk1n4C\nhttps://dexscreener.com/solana/HCPNPHe5UMEtbZW7H4objFAZP9azmEuiVzX6Wakk1n4C\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
-    },
-    {
-      "ts": 1789158036,
-      "type": "scanner",
-      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 WATCH\ndonkey kong (DKNG)\nOpportunity: 63/100\n\nMOMENTUM     100\nSAFETY       60\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$34,833, 6 min since pool creation\n\u2022 Up +101% in the last hour, ~$376,535 in 24h volume (10.8x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 99% of supply (very concentrated)\n\nCA: HJATDSu82r74grqqk7iH9WxctCff9LEwW7vAvb4Xa41e\nhttps://dexscreener.com/solana/HJATDSu82r74grqqk7iH9WxctCff9LEwW7vAvb4Xa41e\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
-    },
-    {
-      "ts": 1789157147,
-      "type": "outcome",
-      "message": "\ud83d\udcca SIGNAL REVIEW (1h later)\nEmber Coin (EMBR)\nLiquidity at flag: ~$25,645\nLiquidity now: ~$2,191\nChange: -91%"
-    },
-    {
-      "ts": 1789157146,
-      "type": "outcome",
-      "message": "\ud83d\udcca SIGNAL REVIEW (4h later)\nThe Falling Man (FALLING)\nLiquidity at flag: ~$25,749\nLiquidity now: ~$0\nChange: -100%"
-    },
-    {
-      "ts": 1789157145,
-      "type": "outcome",
-      "message": "\ud83d\udcca SIGNAL REVIEW (4h later)\nJust Buy It (NIKE)\nLiquidity at flag: ~$268,309\nLiquidity now: ~$0\nChange: -100%"
     }
   ]
 }
