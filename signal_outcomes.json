@@ -28881,7 +28881,8 @@
     "liquidity_at_flag": 27816.740657376904,
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "2cMsrYjxGFUymo3UahmFwt6bALET3SexSiSTzMrrHSZw": {
@@ -28891,7 +28892,8 @@
     "liquidity_at_flag": 25091.246394162787,
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "6wzQsoht2ri7Gwq5grG4CDXysFCAP7SZ5YS5qvxS3ar5": {
@@ -28901,7 +28903,8 @@
     "liquidity_at_flag": 46468.617676967224,
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "ArKUVR6GsL7i9b9BDX6qVfN5GMEuEZH9WTjHVo3pCutk": {
@@ -28911,7 +28914,8 @@
     "liquidity_at_flag": 21251.979843146575,
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "Gnac3RwkDqrY3QEUjmr7xgGrxuN7DYi93qLo51u7cR7y": {
@@ -28921,7 +28925,8 @@
     "liquidity_at_flag": 40693.49177219803,
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "BwiPHxTgSSe7uyBnaRXVdADQakGY3s9p5AEue9SKBAGS": {
@@ -28931,7 +28936,8 @@
     "liquidity_at_flag": 110921.84673372189,
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "6KKdyXHQg2LC5pLeXv6kwjVaenqHkyegVFbpMnQ32Cu7": {
@@ -37411,35 +37417,45 @@
     "symbol": "NASPONS",
     "flagged_ts": 1789124076,
     "liquidity_at_flag": 25732.626553926602,
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "BnSUChKuRh3J9nsPLPGSsupyHgpR34vNCu2Z4VFEY4uU": {
     "name": "FLETCH",
     "symbol": "FLETCH",
     "flagged_ts": 1789124076,
     "liquidity_at_flag": 10529.371480096643,
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "BmtivVYG9m32mSP9ydHxMhAWwCYxNw5rrZ2jfk6vGUxQ": {
     "name": "Rackcoin",
     "symbol": "Rack",
     "flagged_ts": 1789124077,
     "liquidity_at_flag": 15442.457371702285,
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "EBg1urhkCFemaoK8QBUKu7aoSugBu7abTyAoP55wE2tT": {
     "name": "BREW",
     "symbol": "BREW",
     "flagged_ts": 1789124077,
     "liquidity_at_flag": 97619.73472852173,
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "7rgL7wAWdWpJSX6pR5osN5L3bhz63N2oMMyxBD2uJ4VQ": {
     "name": "Rackcoin",
     "symbol": "Rack",
     "flagged_ts": 1789124078,
     "liquidity_at_flag": 22116.892430459964,
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "7pgDVXcujNs9DfiYTDBMEsdMUCMgaMftRHqzwXAfRGBE": {
     "name": "BinanceTown",
@@ -37551,6 +37567,48 @@
     "symbol": "EMBER",
     "flagged_ts": 1789127172,
     "liquidity_at_flag": 225246.1864355371,
+    "checkpoints_done": []
+  },
+  "DoR41xGmARf8wM2gzA3G1u1DbbAWHJxGgzGrhhmBeapL": {
+    "name": "Amazon",
+    "symbol": "AMZN",
+    "flagged_ts": 1789127674,
+    "liquidity_at_flag": 283694.9574088214,
+    "checkpoints_done": []
+  },
+  "7CYxXdGhW8vi2AsC8mYK5HSv5hVhcGx9ZbJ5v6AVxsUB": {
+    "name": "embercurve",
+    "symbol": "EMBER",
+    "flagged_ts": 1789127675,
+    "liquidity_at_flag": 43689.0983108687,
+    "checkpoints_done": []
+  },
+  "nNZM8T4SHN4qRLVa5NdRNCcn1cneL5fCqMr9uNWpump": {
+    "name": "Robin TripleT",
+    "symbol": "TRIPLET",
+    "flagged_ts": 1789127676,
+    "liquidity_at_flag": 19745.82994000837,
+    "checkpoints_done": []
+  },
+  "Hc4sM4pwwFtkeBmMS1RSzUWqztE4d4xxepb8fYP96P2D": {
+    "name": "Flame",
+    "symbol": "FLAME",
+    "flagged_ts": 1789127677,
+    "liquidity_at_flag": 9931.230571523702,
+    "checkpoints_done": []
+  },
+  "A2PUwRhBaDiVKfmjA1QWqcqf1SG9ny17JTGwctGvPydk": {
+    "name": "PayAI",
+    "symbol": "PAYAI",
+    "flagged_ts": 1789127677,
+    "liquidity_at_flag": 56967.68771424121,
+    "checkpoints_done": []
+  },
+  "2zsHhuLpSH5zLxXBDqUbPsT18BC3Gm2cfQx3GNNjrtJ3": {
+    "name": "iPhone 18",
+    "symbol": "iPhone18",
+    "flagged_ts": 1789127678,
+    "liquidity_at_flag": 24747.024377181602,
     "checkpoints_done": []
   }
 }
