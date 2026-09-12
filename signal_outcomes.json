@@ -38561,7 +38561,8 @@
     "liquidity_at_flag": 30018.98029315465,
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "6fpeN3tBn3rxzQRuCj1wXLB6WkYcC377oU7tYk4nTkK8": {
@@ -43580,7 +43581,8 @@
     "flagged_ts": 1789198128,
     "liquidity_at_flag": 64026.834619512534,
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "2A3fabZB6szrck3HQPJGnBQPEqjb2aZQLwjkA9E9ScWM": {
@@ -43589,7 +43591,8 @@
     "flagged_ts": 1789198129,
     "liquidity_at_flag": 36683.21957599149,
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "F1VhbDisP91xbfK7D2x8mj9F3brtKTJUFi5BDdBJMbuC": {
@@ -43598,7 +43601,8 @@
     "flagged_ts": 1789198130,
     "liquidity_at_flag": 210212.42265519022,
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "D9cfdHW6W3PWdzBzGAzktF6dw2tpwfmeVB7fRHZHvP4v": {
@@ -44398,49 +44402,63 @@
     "symbol": "\u96f7\u5b87\u626c",
     "flagged_ts": 1789209000,
     "liquidity_at_flag": 30025.481998559015,
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "BtJwrUwruY5yWvMHuYhTmatYPQWdwNKJ1ng3NjiRCVWN": {
     "name": "Binance BANK",
     "symbol": "BNBANK",
     "flagged_ts": 1789209001,
     "liquidity_at_flag": 26706.05492588917,
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "Aa8WMpkJjveEKD58SedsrYFXQWL7tZccoooT5xDhgsWx": {
     "name": "Doguecoin",
     "symbol": "DOGUE",
     "flagged_ts": 1789209002,
     "liquidity_at_flag": 28173.757512428405,
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "AXKsAnmSaAN7iqXftB2SCf2vve1btr4scJfDU7vuaKnX": {
     "name": "Salary Man",
     "symbol": "SALARY",
     "flagged_ts": 1789209003,
     "liquidity_at_flag": 32403.1498481272,
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "CD5H5TNsU317UhiZarGKGBXHCCdJbnpjFwJg8M4LZn2o": {
     "name": "SHIBA INU",
     "symbol": "SHIB",
     "flagged_ts": 1789209004,
     "liquidity_at_flag": 97225.81741324563,
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "bwXbaRD5xHTh3eUUxfEi2g43HvGaJBL1h6knJ72eYSG": {
     "name": "Maple",
     "symbol": "Maple",
     "flagged_ts": 1789209005,
     "liquidity_at_flag": 24624.12584366923,
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "7cVDvfWc1xitymF1RkzQYfVAZxXtZRsaZxoxJdUY4rJn": {
     "name": "HORIZON",
     "symbol": "Horizon",
     "flagged_ts": 1789209006,
     "liquidity_at_flag": 47495.33145983338,
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "CMFrbtK6Q6jsetAKSFVhBgX9Njhgcy532dJ3Gg7yc8Y": {
     "name": "Tick",
@@ -44727,6 +44745,34 @@
     "symbol": "9/11 WTC",
     "flagged_ts": 1789212522,
     "liquidity_at_flag": 53208.220159248136,
+    "checkpoints_done": []
+  },
+  "DcieagWdeuKs1mqqw7Y5YMGBPaDAMMVg6qUmGrzR91mA": {
+    "name": "BabyMoney",
+    "symbol": "BAMO",
+    "flagged_ts": 1789213104,
+    "liquidity_at_flag": 17087.852223641486,
+    "checkpoints_done": []
+  },
+  "EnfJBTuFuabQKrxzXAyRP9BEFsawqghkx3zdjGpPgHBz": {
+    "name": "DGrid AI",
+    "symbol": "DGAI",
+    "flagged_ts": 1789213105,
+    "liquidity_at_flag": 163717.0553742851,
+    "checkpoints_done": []
+  },
+  "J4qLsbjmiNhsbByg8d8xxjzA46ie6pkCXC5n4wP2pBbJ": {
+    "name": "Morty",
+    "symbol": "Morty",
+    "flagged_ts": 1789213105,
+    "liquidity_at_flag": 16117.351529197722,
+    "checkpoints_done": []
+  },
+  "78KaYpUjZ5yVTVEukkWQDBTQ1rvWCXQr7dGVhzwvQ5G8": {
+    "name": "ANT-1",
+    "symbol": "ANT-1",
+    "flagged_ts": 1789213106,
+    "liquidity_at_flag": 27716.202767281142,
     "checkpoints_done": []
   }
 }
