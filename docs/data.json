@@ -1,5 +1,5 @@
 {
-  "last_updated": 1789236352,
+  "last_updated": 1789237286,
   "wallets": [
     {
       "label": "Dev wallet 1",
@@ -72,14 +72,14 @@
   },
   "scanner_accuracy": {
     "60m": {
-      "count": 1026,
+      "count": 1027,
       "up_pct": 35,
-      "avg_change_pct": 35754407.3
+      "avg_change_pct": 35719593.0
     },
     "240m": {
-      "count": 2232,
+      "count": 2233,
       "up_pct": 26,
-      "avg_change_pct": 16435466.5
+      "avg_change_pct": 16428106.2
     },
     "1440m": {
       "count": 2409,
@@ -89,6 +89,16 @@
   },
   "settings": {},
   "recent_alerts": [
+    {
+      "ts": 1789237286,
+      "type": "outcome",
+      "message": "\ud83d\udcca SIGNAL REVIEW (1h later)\nDoomed Rocket (DOOROC)\nLiquidity at flag: ~$39,685\nLiquidity now: ~$79,160\nChange: +99%"
+    },
+    {
+      "ts": 1789237283,
+      "type": "outcome",
+      "message": "\ud83d\udcca SIGNAL REVIEW (4h later)\nWe Must Pace the Frontier (FRONTIER)\nLiquidity at flag: ~$42,882\nLiquidity now: ~$0\nChange: -100%"
+    },
     {
       "ts": 1789236348,
       "type": "outcome",
@@ -328,16 +338,6 @@
       "ts": 1789235154,
       "type": "scanner",
       "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 WEAK\nSTONK (STONK)\nOpportunity: 53/100\n\nMOMENTUM     66\nSAFETY       60\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$23,616, 9 min since pool creation\n\u2022 Up +44% in the last hour, ~$105,325 in 24h volume (4.5x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 94% of supply (very concentrated)\n\nCA: 9PurVzfXBzjrJxbPnGPyj78mtMDcgW2xU8M4dqJwmC55\nhttps://dexscreener.com/solana/9PurVzfXBzjrJxbPnGPyj78mtMDcgW2xU8M4dqJwmC55\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
-    },
-    {
-      "ts": 1789235153,
-      "type": "scanner",
-      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\nMysterious Source of Income (INCOME)\nOpportunity: 72/100\n\nMOMENTUM     100\nSAFETY       90\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$32,898, 5 min since pool creation\n\u2022 Up +78% in the last hour, ~$55,115 in 24h volume (1.7x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Low, 10/100):\n\u2022 top 10 holders own 35% of supply\n\nCA: E7mRvAbgZdA6dF7cgXZevkbjd9Yfy5q11XEFnWZfpump\nhttps://dexscreener.com/solana/E7mRvAbgZdA6dF7cgXZevkbjd9Yfy5q11XEFnWZfpump\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
-    },
-    {
-      "ts": 1789234683,
-      "type": "outcome",
-      "message": "\ud83d\udcca SIGNAL REVIEW (1h later)\nlife (life)\nLiquidity at flag: ~$37,516\nLiquidity now: ~$0\nChange: -100%"
     }
   ]
 }
