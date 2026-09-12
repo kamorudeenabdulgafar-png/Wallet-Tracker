@@ -39804,7 +39804,8 @@
     "liquidity_at_flag": 132728.25278205457,
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "EUCveGyZxszKe6YBywnTj9ZwcXujZ6J8mMSWoBMZXUKX": {
@@ -39814,7 +39815,8 @@
     "liquidity_at_flag": 278523.5257044132,
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "2CA95Uo8bQkCbceUn9Z3zxp59hJYhhuYDCAw96tRqT5k": {
@@ -39824,7 +39826,8 @@
     "liquidity_at_flag": 268309.23790967744,
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "3cY7Hd28cxLbpb7F1vD2Thrn8Rbpqtax9J29YC5cVLEB": {
@@ -39834,7 +39837,8 @@
     "liquidity_at_flag": 25748.560459772616,
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "BfQo4gkLMiVwaRNqhZ7T5XjRfrW45gT5CmxLY3ZqG8we": {
@@ -46019,28 +46023,36 @@
     "symbol": "I",
     "flagged_ts": 1789225478,
     "liquidity_at_flag": 19704.07271204098,
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "541HEob4A6czjn8z2C7EiguG84QSt2xPRHTD4CYNXfDN": {
     "name": "THIS IS FINE",
     "symbol": "fine",
     "flagged_ts": 1789225479,
     "liquidity_at_flag": 12137.981690673558,
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "9qrf4WK8tABrmAdiagx1rPntf4gTPLpFEvUWW7FdTp83": {
     "name": "Cheerful Crab",
     "symbol": "BINGo",
     "flagged_ts": 1789225480,
     "liquidity_at_flag": 21938.395697497435,
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "2i3Pw3ibzbLdScsk8gZP1my19vbDhciJh9e1zDrfVcxA": {
     "name": "Cheerful Crab",
     "symbol": "bingo",
     "flagged_ts": 1789225481,
     "liquidity_at_flag": 23156.646168557607,
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "5yyPDjGv4MND2VC7d5gFihEz8kRKY77wpaxnGo9SYVoW": {
     "name": "INU",
@@ -46236,6 +46248,41 @@
     "symbol": "faucat",
     "flagged_ts": 1789228496,
     "liquidity_at_flag": 22693.225852198484,
+    "checkpoints_done": []
+  },
+  "GuKi5rGHkDKUa9sNuy5igungCjGiPGNDYs6LeB2Lruy9": {
+    "name": "Faucat",
+    "symbol": "faucat",
+    "flagged_ts": 1789229113,
+    "liquidity_at_flag": 11950.826960426808,
+    "checkpoints_done": []
+  },
+  "BSksyERn1MDyDjEjaaTak6ZNxE7at9EjhQqv4LmRZgx": {
+    "name": "zervision",
+    "symbol": "ZER",
+    "flagged_ts": 1789229114,
+    "liquidity_at_flag": 19279.854377158088,
+    "checkpoints_done": []
+  },
+  "FSoxqr8wKB1mPXJuVLVActrLfxNr8BZ98j6jjmh9Uwfo": {
+    "name": "Human",
+    "symbol": "Human",
+    "flagged_ts": 1789229115,
+    "liquidity_at_flag": 25417.45923828755,
+    "checkpoints_done": []
+  },
+  "6ETsbM7oEKb8J9fwTE2f7coxMjDNF8PjHqQo5BDEvUok": {
+    "name": "faucat",
+    "symbol": "faucat",
+    "flagged_ts": 1789229116,
+    "liquidity_at_flag": 43700.60591321951,
+    "checkpoints_done": []
+  },
+  "DqgN8S7ZHnSxfSMSQmqNtgyPQrrGiqFx4vmfb6KdW8H9": {
+    "name": "Tesla",
+    "symbol": "TSLA",
+    "flagged_ts": 1789229117,
+    "liquidity_at_flag": 108799.45074123782,
     "checkpoints_done": []
   }
 }
