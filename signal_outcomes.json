@@ -38814,7 +38814,8 @@
     "liquidity_at_flag": 33353.05740403973,
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "9UJygcUZfL6CJV4JzXeTNfXnDoyzruzbzxvZ9kpmC3ZN": {
@@ -38824,7 +38825,8 @@
     "liquidity_at_flag": 18832.27817542146,
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "55efTVQ8ZK6JXqqcZY6AcLnBC3R2Xd237F5zUZ3KRhwF": {
@@ -38834,7 +38836,8 @@
     "liquidity_at_flag": 35063.89571407293,
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "9ZLz8h6eodZ1zESfvuqz9P3gj99D2K953yWk1VNxjhhz": {
@@ -38844,7 +38847,8 @@
     "liquidity_at_flag": 37738.88796185008,
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "4XXAEDAZwbzDb69CjRCLKrQC2RFV2YKb45WwseCb88aC": {
@@ -38854,7 +38858,8 @@
     "liquidity_at_flag": 23043.812614873445,
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "6q2fUZXRba7xFoyUCKMWujFtnKh9u1tQuPVohaLKeBYz": {
@@ -38864,7 +38869,8 @@
     "liquidity_at_flag": 41425.912371127415,
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "EuMMwAnZmjXLszUs9HhpPtjGysebEheGdo9GLb7YSH2U": {
@@ -38874,7 +38880,8 @@
     "liquidity_at_flag": 28715.679313966702,
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "4Ub1SR967aXPsmSYAaMLkyibQcHT9Yg7Z1wq4TnUKf19": {
@@ -38884,7 +38891,8 @@
     "liquidity_at_flag": 22041.01086016755,
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "GrpQmKSF64pRDbuW4gTfPGVRrcMFjKeLhRr5SDreJ1sF": {
@@ -44926,21 +44934,27 @@
     "symbol": "SPCX",
     "flagged_ts": 1789213571,
     "liquidity_at_flag": 239079.90392746494,
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "4FSivehWt73ubtmx3vq6kpkCd9RcSYQpCsXhUbP9wcnH": {
     "name": "Whirlpool",
     "symbol": "POOL",
     "flagged_ts": 1789213572,
     "liquidity_at_flag": 30038.75151133636,
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "ChELZGaK5hbbo71QrPo4VQrSeW9BqeJ4WcEyXSw4pump": {
     "name": "ONE BATON DOLLAR",
     "symbol": "BATONUSD",
     "flagged_ts": 1789213573,
     "liquidity_at_flag": 23773.489431766786,
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "4j6DgQFFkC4SW5526YsXmDbcKfNGinHiPBSZasMGkoy3": {
     "name": "TikTok US",
@@ -45122,6 +45136,55 @@
     "symbol": "Solara",
     "flagged_ts": 1789216774,
     "liquidity_at_flag": 43011.22811598485,
+    "checkpoints_done": []
+  },
+  "D1UtMha7BcT1gZcLWvVddpdaE1yYpFhnUot6oqbiRLt9": {
+    "name": "LongCat",
+    "symbol": "LONGCAT",
+    "flagged_ts": 1789217470,
+    "liquidity_at_flag": 21848.484685540367,
+    "checkpoints_done": []
+  },
+  "8gDUShZ5Bwa6y9VE9KXsKQWMjiuM5ABHU7tPtnHcPykN": {
+    "name": "Rob In Hood",
+    "symbol": "ROB",
+    "flagged_ts": 1789217471,
+    "liquidity_at_flag": 23683.24375909751,
+    "checkpoints_done": []
+  },
+  "47bcCzQNavcKfriVWoiR62QyLqKfFPSZaXGFwjyBpump": {
+    "name": "Dancing Shiba",
+    "symbol": "SHIBAGO",
+    "flagged_ts": 1789217472,
+    "liquidity_at_flag": 25564.778013869152,
+    "checkpoints_done": []
+  },
+  "AgkwSifpLc2aBfLzdNieq5AbQGSkDyzbQVXbGQr8VEUA": {
+    "name": "FoMo",
+    "symbol": "FoMo",
+    "flagged_ts": 1789217473,
+    "liquidity_at_flag": 34899.804471333526,
+    "checkpoints_done": []
+  },
+  "y6CP6XCxNMzQuFw6M7zeDktDDWwcuxVHuEs8nVkd1eV": {
+    "name": "FUJIFILM",
+    "symbol": "FUJIFILM",
+    "flagged_ts": 1789217474,
+    "liquidity_at_flag": 23755.657625893837,
+    "checkpoints_done": []
+  },
+  "13eX8veneRSw1WdsP5VshG8hYXHabqoGMHUJqDxd3xE": {
+    "name": "Maple",
+    "symbol": "Maple",
+    "flagged_ts": 1789217475,
+    "liquidity_at_flag": 22959.940585834498,
+    "checkpoints_done": []
+  },
+  "FgibmCQLt7BT4j97cnn3JRSNbnJQbGhjtnGeFxcsYFUN": {
+    "name": "Maple",
+    "symbol": "Maple",
+    "flagged_ts": 1789217476,
+    "liquidity_at_flag": 45230.67804834657,
     "checkpoints_done": []
   }
 }
