@@ -41157,7 +41157,8 @@
     "liquidity_at_flag": 17104.094675898217,
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "EDtEjhmAmjZTi3ybMvpVQ6Y15MjqtxLovyuarWv9MqU5": {
@@ -41167,7 +41168,8 @@
     "liquidity_at_flag": 51235.27124438611,
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "DjXVviJxsTdbPaY5oDnT2ZJTDb8HfgG5bCNYzCqWV2J6": {
@@ -41177,7 +41179,8 @@
     "liquidity_at_flag": 40948.72920298585,
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "7ef9v8YWyUrm8vFo2Je24EuR1NpZKMjtHMBni4W95u1e": {
@@ -46466,7 +46469,8 @@
     "flagged_ts": 1789228045,
     "liquidity_at_flag": 46361.133651136166,
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "D77b7khLVHbYABitGaXWP9sZWU55wHtFF4Qe7A8akGtx": {
@@ -46475,7 +46479,8 @@
     "flagged_ts": 1789228046,
     "liquidity_at_flag": 213742.31312287028,
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "FG11GCppcDsLKMDHqxDfXFv9kSqK6zEg7SUicS3os2b6": {
@@ -46484,7 +46489,8 @@
     "flagged_ts": 1789228047,
     "liquidity_at_flag": 21787.631767168907,
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "25RJCenFdryR7qfLj1QXrYu8QgcuZxnWTfMM4cQypump": {
@@ -46493,7 +46499,8 @@
     "flagged_ts": 1789228048,
     "liquidity_at_flag": 24332.463617487014,
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "9ggAfmx7J74EejLi9wXN9UnVhUDPztCYb7VvK2PHruFK": {
@@ -47212,28 +47219,36 @@
     "symbol": "Offchain",
     "flagged_ts": 1789238750,
     "liquidity_at_flag": 21507.290805796227,
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "CyYCtXGEoLgxCrPjHBwafKbEtDgnuiEmUCeAxmuMpump": {
     "name": "AntroGpt",
     "symbol": "ANTROGPT",
     "flagged_ts": 1789238751,
     "liquidity_at_flag": 11794.19021592765,
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "EGx4Q7rKgUPWXCAH2u6jhopzWaHEFc1Q6CGBMVsbpump": {
     "name": "Anonymous Gang",
     "symbol": "ZGANG",
     "flagged_ts": 1789238752,
     "liquidity_at_flag": 25340.658717156723,
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "AK2HaeZZatRVfLcK4WNqJpr18w14PW6K2pKqfJrVMcvo": {
     "name": "TACZ",
     "symbol": "TACz",
     "flagged_ts": 1789238753,
     "liquidity_at_flag": 24308.084028511767,
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "DS7uDUar75qfixAMML32HQqYGYauPkc6ivg1udU243Dh": {
     "name": "Buy and never work again",
@@ -47387,6 +47402,20 @@
     "symbol": "Claude",
     "flagged_ts": 1789241731,
     "liquidity_at_flag": 239024.54816731205,
+    "checkpoints_done": []
+  },
+  "BqsbPWSmz9kJQ4yqjjgARh1TV4JxAaBnnXZWrFyNLxNF": {
+    "name": "Tulip Coin",
+    "symbol": "TULIP",
+    "flagged_ts": 1789242780,
+    "liquidity_at_flag": 21381.225967409482,
+    "checkpoints_done": []
+  },
+  "Dj44qretpt1vpniuPd1vQn6kJrbnQEpaSur2BinFGCXU": {
+    "name": "TWINE",
+    "symbol": "TWINE",
+    "flagged_ts": 1789242781,
+    "liquidity_at_flag": 28556.063611606933,
     "checkpoints_done": []
   }
 }
