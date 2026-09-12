@@ -1,5 +1,5 @@
 {
-  "last_updated": 1789232686,
+  "last_updated": 1789233504,
   "wallets": [
     {
       "label": "Dev wallet 1",
@@ -77,18 +77,113 @@
       "avg_change_pct": 36356810.6
     },
     "240m": {
-      "count": 2208,
+      "count": 2214,
       "up_pct": 26,
-      "avg_change_pct": 16614113.4
+      "avg_change_pct": 16569088.5
     },
     "1440m": {
-      "count": 2377,
+      "count": 2384,
       "up_pct": 24,
       "avg_change_pct": -51.1
     }
   },
   "settings": {},
   "recent_alerts": [
+    {
+      "ts": 1789233502,
+      "type": "outcome",
+      "message": "\ud83d\udcca SIGNAL REVIEW (4h later)\nTEST (TEST)\nLiquidity at flag: ~$27,630\nLiquidity now: ~$27,630\nChange: +0%"
+    },
+    {
+      "ts": 1789233501,
+      "type": "outcome",
+      "message": "\ud83d\udcca SIGNAL REVIEW (4h later)\nLightTech (LITE)\nLiquidity at flag: ~$16,321\nLiquidity now: ~$0\nChange: -100%"
+    },
+    {
+      "ts": 1789233501,
+      "type": "outcome",
+      "message": "\ud83d\udcca SIGNAL REVIEW (4h later)\nMaple (Maple)\nLiquidity at flag: ~$150,844\nLiquidity now: ~$0\nChange: -100%"
+    },
+    {
+      "ts": 1789233500,
+      "type": "outcome",
+      "message": "\ud83d\udcca SIGNAL REVIEW (4h later)\nAnonymous Cat (ZCAT)\nLiquidity at flag: ~$22,138\nLiquidity now: ~$0\nChange: -100%"
+    },
+    {
+      "ts": 1789233499,
+      "type": "outcome",
+      "message": "\ud83d\udcca SIGNAL REVIEW (4h later)\nVagina coin (VAGINA)\nLiquidity at flag: ~$27,870\nLiquidity now: ~$5,019\nChange: -82%"
+    },
+    {
+      "ts": 1789233498,
+      "type": "outcome",
+      "message": "\ud83d\udcca SIGNAL REVIEW (4h later)\nVagina coin (VAGINA)\nLiquidity at flag: ~$22,155\nLiquidity now: ~$0\nChange: -100%"
+    },
+    {
+      "ts": 1789233498,
+      "type": "outcome",
+      "message": "\ud83d\udcca SIGNAL REVIEW (24h later)\nBREW (BREW)\nLiquidity at flag: ~$169,162\nLiquidity now: ~$245,917\nChange: +45%"
+    },
+    {
+      "ts": 1789233496,
+      "type": "outcome",
+      "message": "\ud83d\udcca SIGNAL REVIEW (24h later)\nflybrain (FLYBRAIN)\nLiquidity at flag: ~$31,374\nLiquidity now: ~$0\nChange: -100%"
+    },
+    {
+      "ts": 1789233496,
+      "type": "outcome",
+      "message": "\ud83d\udcca SIGNAL REVIEW (24h later)\nflybrain (FLYBRAIN)\nLiquidity at flag: ~$38,480\nLiquidity now: ~$1\nChange: -100%"
+    },
+    {
+      "ts": 1789233495,
+      "type": "outcome",
+      "message": "\ud83d\udcca SIGNAL REVIEW (24h later)\nAgentic Variation Operators (AVO)\nLiquidity at flag: ~$28,498\nLiquidity now: ~$1\nChange: -100%"
+    },
+    {
+      "ts": 1789233494,
+      "type": "outcome",
+      "message": "\ud83d\udcca SIGNAL REVIEW (24h later)\nStonks Cat (STONKCAT)\nLiquidity at flag: ~$45,498\nLiquidity now: ~$2,003\nChange: -96%"
+    },
+    {
+      "ts": 1789233494,
+      "type": "outcome",
+      "message": "\ud83d\udcca SIGNAL REVIEW (24h later)\nNeil The Hedgehog (NEIL)\nLiquidity at flag: ~$19,520\nLiquidity now: ~$2,312\nChange: -88%"
+    },
+    {
+      "ts": 1789233493,
+      "type": "outcome",
+      "message": "\ud83d\udcca SIGNAL REVIEW (24h later)\nNever Forget (9/11)\nLiquidity at flag: ~$41,058\nLiquidity now: ~$48,195\nChange: +17%"
+    },
+    {
+      "ts": 1789233492,
+      "type": "scanner",
+      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\nHODL (HODL)\nOpportunity: 75/100\n\nMOMENTUM     100\nSAFETY       100\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$97,723, 18 min since pool creation\n\u2022 Up +3648% in the last hour, ~$1,732,612 in 24h volume (17.7x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Low, 0/100):\n\u2022 No major red flags found\n\nCA: 3o9FX3rc2VbcHugk8MjFxLn3fgHMLiFkDA3QWoUSpump\nhttps://dexscreener.com/solana/3o9FX3rc2VbcHugk8MjFxLn3fgHMLiFkDA3QWoUSpump\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
+    },
+    {
+      "ts": 1789233491,
+      "type": "scanner",
+      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 WEAK\nDoomed Rocket (DOOROC)\nOpportunity: 55/100\n\nMOMENTUM     75\nSAFETY       60\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$39,685, 17 min since pool creation\n\u2022 Up +50% in the last hour, ~$47,076 in 24h volume (1.2x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 88% of supply (very concentrated)\n\nCA: BS7AFTuriy3c3robYpgL6x2SU94fKHNsKxcC28VjY2Fb\nhttps://dexscreener.com/solana/BS7AFTuriy3c3robYpgL6x2SU94fKHNsKxcC28VjY2Fb\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
+    },
+    {
+      "ts": 1789233491,
+      "type": "scanner",
+      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 WEAK\nVida Global CTO (CTO)\nOpportunity: 55/100\n\nMOMENTUM     73\nSAFETY       60\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$43,182, 17 min since pool creation\n\u2022 Up +49% in the last hour, ~$66,946 in 24h volume (1.6x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 84% of supply (very concentrated)\n\nCA: AQH1c6wamDRAC6ynJf8YozV1DhsEw4LKjJ3BPTfjh3tY\nhttps://dexscreener.com/solana/AQH1c6wamDRAC6ynJf8YozV1DhsEw4LKjJ3BPTfjh3tY\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
+    },
+    {
+      "ts": 1789233490,
+      "type": "scanner",
+      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\nHODL (HODL)\nOpportunity: 75/100\n\nMOMENTUM     100\nSAFETY       100\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$37,739, 14 min since pool creation\n\u2022 Up +350% in the last hour, ~$502,617 in 24h volume (13.3x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Low, 0/100):\n\u2022 No major red flags found\n\nCA: FoPLdnfeEvCMnfZhZjn3JHzqXPAYFXkQvyHjzSwBpump\nhttps://dexscreener.com/solana/FoPLdnfeEvCMnfZhZjn3JHzqXPAYFXkQvyHjzSwBpump\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
+    },
+    {
+      "ts": 1789233489,
+      "type": "scanner",
+      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 WATCH\nHODL (HODL)\nOpportunity: 63/100\n\nMOMENTUM     100\nSAFETY       60\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$30,185, 14 min since pool creation\n\u2022 Up +127% in the last hour, ~$137,813 in 24h volume (4.6x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 70% of supply (very concentrated)\n\nCA: 2qnA34wnBV1wjJw4mKavPpZdyaek132gTiC1eB6CFGVg\nhttps://dexscreener.com/solana/2qnA34wnBV1wjJw4mKavPpZdyaek132gTiC1eB6CFGVg\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
+    },
+    {
+      "ts": 1789233488,
+      "type": "scanner",
+      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 WATCH\nbe delusional (delusional)\nOpportunity: 63/100\n\nMOMENTUM     100\nSAFETY       60\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$35,477, 12 min since pool creation\n\u2022 Up +127% in the last hour, ~$167,641 in 24h volume (4.7x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 75% of supply (very concentrated)\n\nCA: 6hLSm7DpSTULjE6zDWaJqcfp5T2r6z6vVaAw4sBMf2et\nhttps://dexscreener.com/solana/6hLSm7DpSTULjE6zDWaJqcfp5T2r6z6vVaAw4sBMf2et\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
+    },
     {
       "ts": 1789232686,
       "type": "outcome",
@@ -243,101 +338,6 @@
       "ts": 1789231957,
       "type": "scanner",
       "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 WEAK\nMONA (MONA)\nOpportunity: 42/100\n\nMOMENTUM     29\nSAFETY       60\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$392,322, 5 min since pool creation\n\u2022 Up +19% in the last hour, ~$1,188,248 in 24h volume (3.0x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 100% of supply (very concentrated)\n\nCA: CWaGAVj6AjKMMSiUyMhB2JgsYzw97qQB1qrzHWxzxyC7\nhttps://dexscreener.com/solana/CWaGAVj6AjKMMSiUyMhB2JgsYzw97qQB1qrzHWxzxyC7\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
-    },
-    {
-      "ts": 1789231477,
-      "type": "outcome",
-      "message": "\ud83d\udcca SIGNAL REVIEW (4h later)\nFoMo (FoMo)\nLiquidity at flag: ~$22,704\nLiquidity now: ~$22,704\nChange: +0%"
-    },
-    {
-      "ts": 1789231476,
-      "type": "outcome",
-      "message": "\ud83d\udcca SIGNAL REVIEW (4h later)\nOnlyCats (OnlyCats)\nLiquidity at flag: ~$34,033\nLiquidity now: ~$2,379\nChange: -93%"
-    },
-    {
-      "ts": 1789231475,
-      "type": "outcome",
-      "message": "\ud83d\udcca SIGNAL REVIEW (4h later)\nembercurve (EMBER)\nLiquidity at flag: ~$81,140\nLiquidity now: ~$1\nChange: -100%"
-    },
-    {
-      "ts": 1789231475,
-      "type": "outcome",
-      "message": "\ud83d\udcca SIGNAL REVIEW (4h later)\nThe Juggernaut Solana (JUGGSOL)\nLiquidity at flag: ~$27,361\nLiquidity now: ~$2,975\nChange: -89%"
-    },
-    {
-      "ts": 1789231474,
-      "type": "outcome",
-      "message": "\ud83d\udcca SIGNAL REVIEW (4h later)\nLongCat (LONGCAT)\nLiquidity at flag: ~$11,149\nLiquidity now: ~$11,149\nChange: +0%"
-    },
-    {
-      "ts": 1789231473,
-      "type": "outcome",
-      "message": "\ud83d\udcca SIGNAL REVIEW (4h later)\n\u8bcd\u5143 (\u8bcd\u5143)\nLiquidity at flag: ~$21,145\nLiquidity now: ~$23,246\nChange: +10%"
-    },
-    {
-      "ts": 1789231472,
-      "type": "outcome",
-      "message": "\ud83d\udcca SIGNAL REVIEW (4h later)\nNatImmigrationCustomsEnforcement (NICE)\nLiquidity at flag: ~$59,687\nLiquidity now: ~$1\nChange: -100%"
-    },
-    {
-      "ts": 1789231471,
-      "type": "outcome",
-      "message": "\ud83d\udcca SIGNAL REVIEW (24h later)\nbaton (baton)\nLiquidity at flag: ~$33,488\nLiquidity now: ~$1\nChange: -100%"
-    },
-    {
-      "ts": 1789231470,
-      "type": "outcome",
-      "message": "\ud83d\udcca SIGNAL REVIEW (24h later)\nbaton (baton)\nLiquidity at flag: ~$30,685\nLiquidity now: ~$0\nChange: -100%"
-    },
-    {
-      "ts": 1789231469,
-      "type": "outcome",
-      "message": "\ud83d\udcca SIGNAL REVIEW (24h later)\nMPUP (MPUP)\nLiquidity at flag: ~$8,898\nLiquidity now: ~$3,269\nChange: -63%"
-    },
-    {
-      "ts": 1789231469,
-      "type": "outcome",
-      "message": "\ud83d\udcca SIGNAL REVIEW (24h later)\nInsilico Medicine (INSILICO)\nLiquidity at flag: ~$38,949\nLiquidity now: ~$3,951\nChange: -90%"
-    },
-    {
-      "ts": 1789231468,
-      "type": "outcome",
-      "message": "\ud83d\udcca SIGNAL REVIEW (24h later)\nThe Holder (HOLDER)\nLiquidity at flag: ~$19,058\nLiquidity now: ~$1,969\nChange: -90%"
-    },
-    {
-      "ts": 1789231467,
-      "type": "outcome",
-      "message": "\ud83d\udcca SIGNAL REVIEW (24h later)\nND4 (ND4)\nLiquidity at flag: ~$21,875\nLiquidity now: ~$0\nChange: -100%"
-    },
-    {
-      "ts": 1789231466,
-      "type": "scanner",
-      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 WEAK\nfaucat (faucat)\nOpportunity: 53/100\n\nMOMENTUM     38\nSAFETY       90\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$32,094, 10 min since pool creation\n\u2022 Up +25% in the last hour, ~$77,390 in 24h volume (2.4x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Low, 10/100):\n\u2022 top 10 holders own 45% of supply\n\nCA: 84uuSMjPYDEAcsr8FXoBvCK2HwZS94c6BA8kk4jNpump\nhttps://dexscreener.com/solana/84uuSMjPYDEAcsr8FXoBvCK2HwZS94c6BA8kk4jNpump\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
-    },
-    {
-      "ts": 1789231465,
-      "type": "scanner",
-      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 WEAK\nembercurve (EMBER)\nOpportunity: 52/100\n\nMOMENTUM     100\nSAFETY       60\nLIQUIDITY    26\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$5,151, 9 min since pool creation\n\u2022 Up +68% in the last hour, ~$83,766 in 24h volume (16.3x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 98% of supply (very concentrated)\n\nCA: 7rTgQyvFA52o4YYXZS5amGWgBTGp5Vy3cm3X8g5brdvp\nhttps://dexscreener.com/solana/7rTgQyvFA52o4YYXZS5amGWgBTGp5Vy3cm3X8g5brdvp\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
-    },
-    {
-      "ts": 1789231464,
-      "type": "scanner",
-      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 WEAK\n\u4eba\u751f\u56de\u5fc6\u5f55 (\u4eba\u751f\u56de\u5fc6\u5f55)\nOpportunity: 51/100\n\nMOMENTUM     81\nSAFETY       60\nLIQUIDITY    60\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$12,053, 9 min since pool creation\n\u2022 Up +54% in the last hour, ~$36,255 in 24h volume (3.0x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 72% of supply (very concentrated)\n\nCA: H7LXbWNKJAo15K6EsL3gw6n63B1aRcUGb8r2JdFQVivF\nhttps://dexscreener.com/solana/H7LXbWNKJAo15K6EsL3gw6n63B1aRcUGb8r2JdFQVivF\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
-    },
-    {
-      "ts": 1789231463,
-      "type": "scanner",
-      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 WEAK\nzVeil Yield Router (ZVEIL)\nOpportunity: 43/100\n\nMOMENTUM     34\nSAFETY       60\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$21,739, 8 min since pool creation\n\u2022 Up +23% in the last hour, ~$77,914 in 24h volume (3.6x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 90% of supply (very concentrated)\n\nCA: Gc9sp7b3Dcs2Ja2o1fqGWkanMLS7JRVcFZn2svJ7wuky\nhttps://dexscreener.com/solana/Gc9sp7b3Dcs2Ja2o1fqGWkanMLS7JRVcFZn2svJ7wuky\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
-    },
-    {
-      "ts": 1789231462,
-      "type": "scanner",
-      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 WEAK\nSuica Rabbit (\u3046\u3055\u304e)\nOpportunity: 47/100\n\nMOMENTUM     47\nSAFETY       60\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$21,759, 6 min since pool creation\n\u2022 Up +31% in the last hour, ~$13,165 in 24h volume (0.6x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 89% of supply (very concentrated)\n\nCA: 2zkcPQFNnVTVJoWoS7tEaEv4pND5PQ9WgDhc8kSvNUwy\nhttps://dexscreener.com/solana/2zkcPQFNnVTVJoWoS7tEaEv4pND5PQ9WgDhc8kSvNUwy\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
-    },
-    {
-      "ts": 1789231461,
-      "type": "scanner",
-      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 WEAK\nDihfih (DIHFIH)\nOpportunity: 44/100\n\nMOMENTUM     37\nSAFETY       60\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$20,926, 6 min since pool creation\n\u2022 Up +25% in the last hour, ~$85,363 in 24h volume (4.1x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 95% of supply (very concentrated)\n\nCA: Cjs2beeo3ZasMHLM35xGPBZmeVt6M7WbG6wrai3E9LV9\nhttps://dexscreener.com/solana/Cjs2beeo3ZasMHLM35xGPBZmeVt6M7WbG6wrai3E9LV9\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
     }
   ]
 }
