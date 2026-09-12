@@ -38385,7 +38385,8 @@
     "liquidity_at_flag": 25732.626553926602,
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "BnSUChKuRh3J9nsPLPGSsupyHgpR34vNCu2Z4VFEY4uU": {
@@ -38395,7 +38396,8 @@
     "liquidity_at_flag": 10529.371480096643,
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "BmtivVYG9m32mSP9ydHxMhAWwCYxNw5rrZ2jfk6vGUxQ": {
@@ -38405,7 +38407,8 @@
     "liquidity_at_flag": 15442.457371702285,
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "EBg1urhkCFemaoK8QBUKu7aoSugBu7abTyAoP55wE2tT": {
@@ -38415,7 +38418,8 @@
     "liquidity_at_flag": 97619.73472852173,
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "7rgL7wAWdWpJSX6pR5osN5L3bhz63N2oMMyxBD2uJ4VQ": {
@@ -38425,7 +38429,8 @@
     "liquidity_at_flag": 22116.892430459964,
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "7pgDVXcujNs9DfiYTDBMEsdMUCMgaMftRHqzwXAfRGBE": {
@@ -38435,7 +38440,8 @@
     "liquidity_at_flag": 46055.305371697934,
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "Hx55JtGtUeYGQ3MnFqYGMU8Wp1ygoCH5o4SMpzPxaxL8": {
@@ -44219,21 +44225,27 @@
     "symbol": "Maple",
     "flagged_ts": 1789206796,
     "liquidity_at_flag": 18543.17905441225,
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "EYKoQw3YQsBycGUNd4ds41xPceQoWzREN3hSb3er3AZp": {
     "name": "Anonymous Cat",
     "symbol": "ZCAT",
     "flagged_ts": 1789206797,
     "liquidity_at_flag": 22919.014667305422,
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "6NpxiXYebGLseefFmYd6CAhkot5ktnQLpDDN4bNfTCoS": {
     "name": "Kamzio Pay",
     "symbol": "KAMZIO",
     "flagged_ts": 1789206798,
     "liquidity_at_flag": 30706.421671068336,
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "5JN6b5DKcYhheF9Bq2u7Q2bzQbnxp9rLPD5153brCjpT": {
     "name": "\u5bcc\u58eb",
@@ -44506,6 +44518,76 @@
     "symbol": "PAD",
     "flagged_ts": 1789210386,
     "liquidity_at_flag": 29889.17515207531,
+    "checkpoints_done": []
+  },
+  "9PnNjDfyvaLWPaQwAmirjDGXH6m4JCN2rTt4LLjnpdoB": {
+    "name": "The Nietzschean Boy",
+    "symbol": "Parker",
+    "flagged_ts": 1789211068,
+    "liquidity_at_flag": 13845.893779313436,
+    "checkpoints_done": []
+  },
+  "3KDC26GjLX2mfT4DPr6rhBGbL34cHVMriAJe5JAFv812": {
+    "name": "\u5929\u610f\u96be\u8fdd",
+    "symbol": "\u5929+\u610f",
+    "flagged_ts": 1789211069,
+    "liquidity_at_flag": 32180.18142705979,
+    "checkpoints_done": []
+  },
+  "2f4ZqjKhPBrkN2yMAWtpJyqwwsmWqeet7aBVCp6Epump": {
+    "name": "WOJAKGPT",
+    "symbol": "WOJAKGPT",
+    "flagged_ts": 1789211069,
+    "liquidity_at_flag": 9541.119398667175,
+    "checkpoints_done": []
+  },
+  "FJV7kP9EuaiPxoG2jhpFAQx15uajFfTTEKR1GRTU1o2w": {
+    "name": "The Padoor",
+    "symbol": "PADOOR",
+    "flagged_ts": 1789211070,
+    "liquidity_at_flag": 30907.500395375908,
+    "checkpoints_done": []
+  },
+  "FuzYqXfqFnmQbWEsf2XBtoNKKvFwN4daznLqGh52Ak6k": {
+    "name": "Sherwood",
+    "symbol": "Sherwood",
+    "flagged_ts": 1789211071,
+    "liquidity_at_flag": 24274.167152500275,
+    "checkpoints_done": []
+  },
+  "4L9RncfQKoG75JmPp1C7YcWsg36x6RJWwxds4WKUZFmB": {
+    "name": "PAD",
+    "symbol": "PAD",
+    "flagged_ts": 1789211071,
+    "liquidity_at_flag": 13515.422564852335,
+    "checkpoints_done": []
+  },
+  "5cB57KQMdShKcVqxQwt7dKFN5C8aW4iysg9Xf36t9uKZ": {
+    "name": "Sol4EX",
+    "symbol": "SOL4EX",
+    "flagged_ts": 1789211072,
+    "liquidity_at_flag": 24469.41825617629,
+    "checkpoints_done": []
+  },
+  "C4QXbpMB1TwArTfdVidSoRYmwxe1EYMwHZwkfiTXtYZj": {
+    "name": "GoogleAI coin",
+    "symbol": "Google AI",
+    "flagged_ts": 1789211072,
+    "liquidity_at_flag": 30583.88369711475,
+    "checkpoints_done": []
+  },
+  "7eDy1bYu8zouZXPWMMUWweQHrbHBpCX6GDBvmvz8jv1t": {
+    "name": "Anonymous Cat",
+    "symbol": "ZCAT",
+    "flagged_ts": 1789211073,
+    "liquidity_at_flag": 26620.37892058887,
+    "checkpoints_done": []
+  },
+  "HfTUuMsaCnboV6yst7PrjoagmaiQAMae6mgDW4eN8pJN": {
+    "name": "PAD",
+    "symbol": "PAD",
+    "flagged_ts": 1789211074,
+    "liquidity_at_flag": 23009.074780604817,
     "checkpoints_done": []
   }
 }
