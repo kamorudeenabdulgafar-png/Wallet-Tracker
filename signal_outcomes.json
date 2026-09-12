@@ -36526,7 +36526,8 @@
     "liquidity_at_flag": 22667.014994981553,
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "C7euvmZC2UJ5x8VrDjdBa5a4VH1GMFraBkCVZW7cosv1": {
@@ -36536,7 +36537,8 @@
     "liquidity_at_flag": 14606.00982810179,
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "9hwsP1RSQH1pR4fKzC5hVYAxBWYoNNXzXsUwy2QkihQL": {
@@ -36546,7 +36548,8 @@
     "liquidity_at_flag": 290464.43192757136,
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "AQMH9TQAmtrK8WkNp4zDdVoxQS6HBMPNa9m8n15S4wjz": {
@@ -41785,7 +41788,8 @@
     "flagged_ts": 1789176540,
     "liquidity_at_flag": 29816.753636834423,
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "AxnFnpvvU7JQEaNMU5kcai7E8YDFfuY561vmJRfKyDw4": {
@@ -41794,7 +41798,8 @@
     "flagged_ts": 1789176541,
     "liquidity_at_flag": 12242.123210972992,
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "6cTVcSP9JFhZykd3GrRwLmhRC26EKSB6C7ePBhPwpump": {
@@ -41803,7 +41808,8 @@
     "flagged_ts": 1789176542,
     "liquidity_at_flag": 5820.538973796995,
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "FfiipPWNuosZsBYZZY2cFzpAUztPyPjDMT3ENEk9ihvZ": {
@@ -42423,35 +42429,45 @@
     "symbol": "CATSOLANA",
     "flagged_ts": 1789186812,
     "liquidity_at_flag": 25533.753204971566,
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "3FygjDhKxsntQBpVvNTZkrMMeVwmhEGV31mB98FhaXWj": {
     "name": "Chinese Meme Coin",
     "symbol": "CMC",
     "flagged_ts": 1789186813,
     "liquidity_at_flag": 24146.497904863587,
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "GBPRc1o11adayNPjiHqJxvujc6YvA2TG3okFMYnTNSPS": {
     "name": "Amazon",
     "symbol": "AMZN",
     "flagged_ts": 1789186814,
     "liquidity_at_flag": 231693.8495148826,
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "B6hx213qE6R8YEsyYq8BY7FDcHgZz4PMiSrm169DihYQ": {
     "name": "Peniscoin",
     "symbol": "PENIS",
     "flagged_ts": 1789186815,
     "liquidity_at_flag": 26567.251956496104,
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "GAppoYao5vER1mi3wENZZHbLsNqz958YoqAB78gVn3wk": {
     "name": "Anonymous Dog",
     "symbol": "ZDOG",
     "flagged_ts": 1789186816,
     "liquidity_at_flag": 27288.98089583773,
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "BfHGU2oa8bNKzUTTjkd6hu5AdUsgfXKMyybXdnQ8gSqy": {
     "name": "Titcoin",
@@ -42717,6 +42733,41 @@
     "symbol": "Buttcoin",
     "flagged_ts": 1789190335,
     "liquidity_at_flag": 22026.21616182431,
+    "checkpoints_done": []
+  },
+  "CXK8EYbEUVADHXarSxqQPLiUAPucC9dngxSASwjn2yjG": {
+    "name": "WeWorm",
+    "symbol": "WeWorm",
+    "flagged_ts": 1789190998,
+    "liquidity_at_flag": 7783.497380409074,
+    "checkpoints_done": []
+  },
+  "HvmBfvPWpU2o8Y6Hkhh7nWV6SsH3xQaMdtPoWHVSQqQH": {
+    "name": "FATCOIN",
+    "symbol": "FATCOIN",
+    "flagged_ts": 1789190998,
+    "liquidity_at_flag": 26795.12339586216,
+    "checkpoints_done": []
+  },
+  "9zUiA83CjaRd54xJcwUGCe9uFpiNqbmXSs9ZmJuEpump": {
+    "name": "black cat gpt",
+    "symbol": "bcg",
+    "flagged_ts": 1789190999,
+    "liquidity_at_flag": 27676.291890953846,
+    "checkpoints_done": []
+  },
+  "DETHLtsvfUfQdrUA95f4Nxu3N86BMZWJJxtqKZhV9862": {
+    "name": "Gropper",
+    "symbol": "Gropper",
+    "flagged_ts": 1789190999,
+    "liquidity_at_flag": 24879.47154922786,
+    "checkpoints_done": []
+  },
+  "2H6k3jnuohJrsmTdQK22C4rhg4S8aEiqXVet9TQ8pWwW": {
+    "name": "1",
+    "symbol": "1",
+    "flagged_ts": 1789191000,
+    "liquidity_at_flag": 30340.759587485183,
     "checkpoints_done": []
   }
 }
