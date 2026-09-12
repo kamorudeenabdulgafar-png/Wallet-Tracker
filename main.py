@@ -69,6 +69,8 @@ DASHBOARD_FILE = "docs/data.json"
 
 # How long after a flagged coin do we check back on it ("did it pan out?")
 OUTCOME_CHECKPOINTS_MIN = [60, 240, 1440]  # 1h, 4h, 24h
+MIN_VALID_LIQUIDITY_AT_FLAG = 500  # below this, treat the "flag" reading itself as corrupted/unreliable
+OUTCOME_SANITY_CAP_PCT = 100000    # 1000x — beyond this, it's almost certainly a data glitch, not a real move
 SMART_MONEY_WINDOW_HOURS = 6  # how far back a tracked-wallet buy still counts as "smart money"
 RUG_ALERT_DROP_PCT = 50  # liquidity drop (%) since last check that triggers an urgent alert
 
@@ -77,6 +79,7 @@ RUG_ALERT_DROP_PCT = 50  # liquidity drop (%) since last check that triggers an 
 DEFAULT_MIN_LIQUIDITY_USD = 5000   # too little liquidity = can't exit without huge slippage
 DEFAULT_MIN_1H_CHANGE_PCT = 15     # must be genuinely accelerating, not just sitting there
 DEFAULT_MIN_VOLUME_RATIO = 0.4     # 24h volume must be at least this fraction of liquidity — filters out thin, noisy "moves" with barely any real trading behind them
+DEFAULT_MIN_OPPORTUNITY_SCORE = 80  # the real gate — only STRONG/EXCEPTIONAL signals actually get sent, not just anything clearing the loose filters above
 SCANNER_MIN_AGE_MIN = 5         # skip brand-new coins with no track record yet
 SCANNER_MAX_AGE_MIN = 180        # skip old coins that likely already had their run
 MAX_ALERTS_LOGGED = 50
@@ -273,6 +276,16 @@ def process_telegram_commands(wallets, watched_coins, settings):
             except ValueError:
                 send_telegram("⚠️ Send a number, e.g. /setminvolume 0.5")
 
+        elif cmd == "/setminscore" and len(parts) >= 2:
+            try:
+                value = float(parts[1].strip())
+                settings["min_opportunity_score"] = value
+                settings_changed = True
+                send_telegram(f"✅ Minimum opportunity score to actually alert set to {value:.0f}/100 "
+                               f"(higher = far fewer, higher-conviction alerts)")
+            except ValueError:
+                send_telegram("⚠️ Send a number, e.g. /setminscore 80")
+
         elif cmd == "/help":
             send_telegram(
                 "Wallets:\n"
@@ -284,9 +297,10 @@ def process_telegram_commands(wallets, watched_coins, settings):
                 "/unwatch <CA> — stop watching a coin\n"
                 "/watchlist — show watched coins\n\n"
                 "Scanner tuning:\n"
-                "/setminliquidity <amount> — minimum liquidity to alert on\n"
-                "/setminchange <percent> — minimum 1h price change to alert on\n"
-                "/setminvolume <ratio> — minimum 24h volume vs liquidity (higher = stricter)"
+                "/setminliquidity <amount> — minimum liquidity to consider a coin\n"
+                "/setminchange <percent> — minimum 1h price change to consider a coin\n"
+                "/setminvolume <ratio> — minimum 24h volume vs liquidity (higher = stricter)\n"
+                "/setminscore <0-100> — the real gate: minimum combined score to actually alert you"
             )
 
     save_json(TG_OFFSET_FILE, {"offset": offset})
@@ -798,6 +812,7 @@ def dev_has_sold(dev_address, mint):
 
 
 def run_coin_scanner(scanner_seen, alerts_log, signal_outcomes, recent_buys, settings):
+    min_score = get_scanner_setting(settings, "min_opportunity_score", DEFAULT_MIN_OPPORTUNITY_SCORE)
     pools = fetch_new_pools(settings)
     for pool in pools:
         mint = extract_token_mint(pool)
@@ -821,6 +836,15 @@ def run_coin_scanner(scanner_seen, alerts_log, signal_outcomes, recent_buys, set
         smart_money_labels = check_smart_money(mint, recent_buys)
 
         opp_score, breakdown = compute_opportunity_score(change_1h, risk, liquidity, smart_money_labels)
+
+        # THE REAL GATE: clearing the loose filters above just means "not
+        # obviously garbage" — actually sending an alert requires a genuinely
+        # high combined score. This is what keeps volume down to a handful a
+        # day instead of everything that merely isn't disqualified.
+        if opp_score < min_score:
+            print(f"[scanner] {name} ({symbol}) scored {opp_score}/100 — below the {min_score} bar, not sending")
+            continue
+
         state = signal_state(opp_score)
 
         if smart_money_labels:
@@ -911,13 +935,29 @@ def check_signal_outcomes(signal_outcomes, alerts_log, outcome_history):
             if elapsed_min >= checkpoint and label not in record["checkpoints_done"]:
                 record["checkpoints_done"].append(label)
                 current = fetch_current_liquidity(mint)
-                if current and record.get("liquidity_at_flag"):
-                    change_pct = (current / record["liquidity_at_flag"] - 1) * 100
+                flag_liquidity = record.get("liquidity_at_flag")
+
+                # Guard against corrupted/unreliable readings — a coin that
+                # cleared our scanner's own minimum liquidity floor to be
+                # flagged in the first place should never have a tiny
+                # liquidity_at_flag; if we see one anyway, or the resulting
+                # change is an impossible outlier, treat it as bad data and
+                # skip it rather than let it wreck the whole average.
+                valid = (
+                    current is not None and flag_liquidity and flag_liquidity >= MIN_VALID_LIQUIDITY_AT_FLAG
+                )
+                if valid:
+                    change_pct = (current / flag_liquidity - 1) * 100
+                    if abs(change_pct) > OUTCOME_SANITY_CAP_PCT:
+                        valid = False
+                        print(f"[scanner] discarding implausible outcome for {mint}: {change_pct:+.0f}%")
+
+                if valid:
                     hours = checkpoint / 60
                     outcome_msg = (
                         f"📊 SIGNAL REVIEW ({hours:.0f}h later)\n"
                         f"{record['name']} ({record['symbol']})\n"
-                        f"Liquidity at flag: ~${record['liquidity_at_flag']:,.0f}\n"
+                        f"Liquidity at flag: ~${flag_liquidity:,.0f}\n"
                         f"Liquidity now: ~${current:,.0f}\n"
                         f"Change: {change_pct:+.0f}%"
                     )
@@ -947,10 +987,11 @@ def maybe_send_daily_digest(wallet_stats, outcome_history, watched_coins, digest
     lines = ["🗞️ DAILY DIGEST"]
     cutoff = time.time() - 86400
     active = [s for s in wallet_stats.values() if s.get("last_active", 0) > cutoff]
-    lines.append(f"\nWallets active in last 24h: {len(active)}")
+    lines.append(f"\nWallets with activity in the last 24h: {len(active)}")
     for s in active:
         pnl = s.get("realized_pnl_usd", 0.0)
-        lines.append(f"- {s['label']}: {s['buy_count']} buys, {s['sell_count']} sells, realized PnL ~${pnl:,.2f}")
+        lines.append(f"- {s['label']}: {s['buy_count']} buys, {s['sell_count']} sells all-time, "
+                      f"realized PnL ~${pnl:,.2f} (only for positions we saw opened)")
 
     summary = summarize_outcome_history(outcome_history)
     if summary:
