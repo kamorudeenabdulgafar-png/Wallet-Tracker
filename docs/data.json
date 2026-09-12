@@ -1,5 +1,5 @@
 {
-  "last_updated": 1789222807,
+  "last_updated": 1789223580,
   "wallets": [
     {
       "label": "Dev wallet 1",
@@ -72,23 +72,98 @@
   },
   "scanner_accuracy": {
     "60m": {
-      "count": 975,
+      "count": 977,
       "up_pct": 36,
-      "avg_change_pct": 37624638.9
+      "avg_change_pct": 37547618.1
     },
     "240m": {
-      "count": 2142,
+      "count": 2149,
       "up_pct": 26,
-      "avg_change_pct": 17126033.7
+      "avg_change_pct": 17070248.5
     },
     "1440m": {
-      "count": 2323,
+      "count": 2325,
       "up_pct": 24,
       "avg_change_pct": -50.8
     }
   },
   "settings": {},
   "recent_alerts": [
+    {
+      "ts": 1789223579,
+      "type": "outcome",
+      "message": "\ud83d\udcca SIGNAL REVIEW (1h later)\nLongCat (LONGCAT)\nLiquidity at flag: ~$27,731\nLiquidity now: ~$27,731\nChange: +0%"
+    },
+    {
+      "ts": 1789223578,
+      "type": "outcome",
+      "message": "\ud83d\udcca SIGNAL REVIEW (1h later)\nMiddly (MIDDLY)\nLiquidity at flag: ~$20,196\nLiquidity now: ~$20,196\nChange: +0%"
+    },
+    {
+      "ts": 1789223577,
+      "type": "outcome",
+      "message": "\ud83d\udcca SIGNAL REVIEW (4h later)\nHORIZON (Horizon)\nLiquidity at flag: ~$47,495\nLiquidity now: ~$0\nChange: -100%"
+    },
+    {
+      "ts": 1789223576,
+      "type": "outcome",
+      "message": "\ud83d\udcca SIGNAL REVIEW (4h later)\nMaple (Maple)\nLiquidity at flag: ~$24,624\nLiquidity now: ~$51,892\nChange: +111%"
+    },
+    {
+      "ts": 1789223575,
+      "type": "outcome",
+      "message": "\ud83d\udcca SIGNAL REVIEW (4h later)\nSHIBA INU (SHIB)\nLiquidity at flag: ~$97,226\nLiquidity now: ~$96,550\nChange: -1%"
+    },
+    {
+      "ts": 1789223574,
+      "type": "outcome",
+      "message": "\ud83d\udcca SIGNAL REVIEW (4h later)\nSalary Man (SALARY)\nLiquidity at flag: ~$32,403\nLiquidity now: ~$35,722\nChange: +10%"
+    },
+    {
+      "ts": 1789223572,
+      "type": "outcome",
+      "message": "\ud83d\udcca SIGNAL REVIEW (4h later)\nDoguecoin (DOGUE)\nLiquidity at flag: ~$28,174\nLiquidity now: ~$1\nChange: -100%"
+    },
+    {
+      "ts": 1789223571,
+      "type": "outcome",
+      "message": "\ud83d\udcca SIGNAL REVIEW (4h later)\nBinance BANK (BNBANK)\nLiquidity at flag: ~$26,706\nLiquidity now: ~$0\nChange: -100%"
+    },
+    {
+      "ts": 1789223570,
+      "type": "outcome",
+      "message": "\ud83d\udcca SIGNAL REVIEW (4h later)\n\u96f7\u5b87\u626c (\u96f7\u5b87\u626c)\nLiquidity at flag: ~$30,025\nLiquidity now: ~$0\nChange: -100%"
+    },
+    {
+      "ts": 1789223568,
+      "type": "outcome",
+      "message": "\ud83d\udcca SIGNAL REVIEW (24h later)\n\u725b\u6765 (\u725b\u6765)\nLiquidity at flag: ~$32,633\nLiquidity now: ~$0\nChange: -100%"
+    },
+    {
+      "ts": 1789223567,
+      "type": "outcome",
+      "message": "\ud83d\udcca SIGNAL REVIEW (24h later)\nNVIDIA (NVIDIA)\nLiquidity at flag: ~$123,220\nLiquidity now: ~$1\nChange: -100%"
+    },
+    {
+      "ts": 1789223565,
+      "type": "scanner",
+      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 WATCH\nWe Must Pace the Frontier (FRONTIER)\nOpportunity: 68/100\n\nMOMENTUM     100\nSAFETY       75\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$63,835, 16 min since pool creation\n\u2022 Up +444% in the last hour, ~$414,468 in 24h volume (6.5x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 25/100):\n\u2022 top 10 holders own 60% of supply (concentrated)\n\nCA: EkQ4NLWNijQf9YPRPPnf7VKZ7cxwRrZX1tKKsrNMH1ih\nhttps://dexscreener.com/solana/EkQ4NLWNijQf9YPRPPnf7VKZ7cxwRrZX1tKKsrNMH1ih\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
+    },
+    {
+      "ts": 1789223564,
+      "type": "scanner",
+      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 WEAK\nWe Must Pace the Frontier (Frontier)\nOpportunity: 41/100\n\nMOMENTUM     28\nSAFETY       60\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$21,237, 12 min since pool creation\n\u2022 Up +19% in the last hour, ~$48,974 in 24h volume (2.3x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 89% of supply (very concentrated)\n\nCA: FHxitt3B4jgUZcnE3tJK4Z61M8f7LEG8nfKAPnYKgTau\nhttps://dexscreener.com/solana/FHxitt3B4jgUZcnE3tJK4Z61M8f7LEG8nfKAPnYKgTau\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
+    },
+    {
+      "ts": 1789223563,
+      "type": "scanner",
+      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 WEAK\nDegenerates (DEgenerAtE)\nOpportunity: 59/100\n\nMOMENTUM     86\nSAFETY       60\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$22,882, 8 min since pool creation\n\u2022 Up +57% in the last hour, ~$52,202 in 24h volume (2.3x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 86% of supply (very concentrated)\n\nCA: 28YRYrCpLNCPmfxGLPpnK12sgBw76B5uu6pfzDgHdoQ9\nhttps://dexscreener.com/solana/28YRYrCpLNCPmfxGLPpnK12sgBw76B5uu6pfzDgHdoQ9\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
+    },
+    {
+      "ts": 1789223562,
+      "type": "scanner",
+      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 WATCH\nDegenerates (Degenerat)\nOpportunity: 61/100\n\nMOMENTUM     93\nSAFETY       60\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$22,656, 7 min since pool creation\n\u2022 Up +62% in the last hour, ~$49,111 in 24h volume (2.2x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 84% of supply (very concentrated)\n\nCA: 2odhN9bGJ9ANe578ZRhTKk877YqZEG7mC3To34uJXwhW\nhttps://dexscreener.com/solana/2odhN9bGJ9ANe578ZRhTKk877YqZEG7mC3To34uJXwhW\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
+    },
     {
       "ts": 1789222805,
       "type": "outcome",
@@ -263,81 +338,6 @@
       "ts": 1789221884,
       "type": "scanner",
       "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 WATCH\nSalary Cat (\u6708\u85aa\u55b5)\nOpportunity: 63/100\n\nMOMENTUM     100\nSAFETY       60\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$28,826, 5 min since pool creation\n\u2022 Up +123% in the last hour, ~$110,709 in 24h volume (3.8x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 76% of supply (very concentrated)\n\nCA: F9RBZFmZ1vBd3i3V5rTk9qWv4unCXsTYui96iPRskyZK\nhttps://dexscreener.com/solana/F9RBZFmZ1vBd3i3V5rTk9qWv4unCXsTYui96iPRskyZK\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
-    },
-    {
-      "ts": 1789221295,
-      "type": "outcome",
-      "message": "\ud83d\udcca SIGNAL REVIEW (1h later)\nMaple (Maple)\nLiquidity at flag: ~$45,231\nLiquidity now: ~$83,422\nChange: +84%"
-    },
-    {
-      "ts": 1789221294,
-      "type": "outcome",
-      "message": "\ud83d\udcca SIGNAL REVIEW (1h later)\nMaple (Maple)\nLiquidity at flag: ~$22,960\nLiquidity now: ~$22,960\nChange: +0%"
-    },
-    {
-      "ts": 1789221293,
-      "type": "outcome",
-      "message": "\ud83d\udcca SIGNAL REVIEW (1h later)\nFUJIFILM (FUJIFILM)\nLiquidity at flag: ~$23,756\nLiquidity now: ~$58,083\nChange: +145%"
-    },
-    {
-      "ts": 1789221292,
-      "type": "outcome",
-      "message": "\ud83d\udcca SIGNAL REVIEW (1h later)\nFoMo (FoMo)\nLiquidity at flag: ~$34,900\nLiquidity now: ~$1\nChange: -100%"
-    },
-    {
-      "ts": 1789221291,
-      "type": "outcome",
-      "message": "\ud83d\udcca SIGNAL REVIEW (1h later)\nDancing Shiba (SHIBAGO)\nLiquidity at flag: ~$25,565\nLiquidity now: ~$2,046\nChange: -92%"
-    },
-    {
-      "ts": 1789221290,
-      "type": "outcome",
-      "message": "\ud83d\udcca SIGNAL REVIEW (1h later)\nRob In Hood (ROB)\nLiquidity at flag: ~$23,683\nLiquidity now: ~$27,553\nChange: +16%"
-    },
-    {
-      "ts": 1789221289,
-      "type": "outcome",
-      "message": "\ud83d\udcca SIGNAL REVIEW (1h later)\nLongCat (LONGCAT)\nLiquidity at flag: ~$21,848\nLiquidity now: ~$0\nChange: -100%"
-    },
-    {
-      "ts": 1789221288,
-      "type": "outcome",
-      "message": "\ud83d\udcca SIGNAL REVIEW (4h later)\nKamzio Pay (KAMZIO)\nLiquidity at flag: ~$30,706\nLiquidity now: ~$0\nChange: -100%"
-    },
-    {
-      "ts": 1789221287,
-      "type": "outcome",
-      "message": "\ud83d\udcca SIGNAL REVIEW (4h later)\nAnonymous Cat (ZCAT)\nLiquidity at flag: ~$22,919\nLiquidity now: ~$0\nChange: -100%"
-    },
-    {
-      "ts": 1789221286,
-      "type": "outcome",
-      "message": "\ud83d\udcca SIGNAL REVIEW (4h later)\nMaple (Maple)\nLiquidity at flag: ~$18,543\nLiquidity now: ~$0\nChange: -100%"
-    },
-    {
-      "ts": 1789221285,
-      "type": "scanner",
-      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 WEAK\nMaple (Maple)\nOpportunity: 40/100\n\nMOMENTUM     48\nSAFETY       60\nLIQUIDITY    52\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$10,459, 11 min since pool creation\n\u2022 Up +32% in the last hour, ~$49,251 in 24h volume (4.7x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 98% of supply (very concentrated)\n\nCA: 8YqSwLQ4R1vkA3z2zUkPTatAHUUbP8JFuAzGVfdVxfgy\nhttps://dexscreener.com/solana/8YqSwLQ4R1vkA3z2zUkPTatAHUUbP8JFuAzGVfdVxfgy\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
-    },
-    {
-      "ts": 1789221284,
-      "type": "scanner",
-      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 WATCH\nA MEME DOG (AMD)\nOpportunity: 63/100\n\nMOMENTUM     100\nSAFETY       60\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$25,143, 9 min since pool creation\n\u2022 Up +114% in the last hour, ~$142,829 in 24h volume (5.7x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 80% of supply (very concentrated)\n\nCA: 6S3MWwYsvKmt31RnLR2ocs52eo8uv29uKe8gsvyt44hX\nhttps://dexscreener.com/solana/6S3MWwYsvKmt31RnLR2ocs52eo8uv29uKe8gsvyt44hX\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
-    },
-    {
-      "ts": 1789221283,
-      "type": "scanner",
-      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 WEAK\nThe Final Nut (Pnut2)\nOpportunity: 44/100\n\nMOMENTUM     35\nSAFETY       60\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$24,174, 9 min since pool creation\n\u2022 Up +24% in the last hour, ~$109,020 in 24h volume (4.5x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 99% of supply (very concentrated)\n\nCA: CQGN2vcLmYwo5URpKDG4LNCAcV2dWQr5YGfckHp4Y2iX\nhttps://dexscreener.com/solana/CQGN2vcLmYwo5URpKDG4LNCAcV2dWQr5YGfckHp4Y2iX\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
-    },
-    {
-      "ts": 1789221282,
-      "type": "scanner",
-      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 WEAK\nFlap Flay Brain (Flaybrain)\nOpportunity: 41/100\n\nMOMENTUM     26\nSAFETY       60\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$22,803, 9 min since pool creation\n\u2022 Up +17% in the last hour, ~$51,378 in 24h volume (2.3x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 84% of supply (very concentrated)\n\nCA: BYGapVZw2sFjL6x44bfSCo444GCcxNX7XaXxpchiQJJT\nhttps://dexscreener.com/solana/BYGapVZw2sFjL6x44bfSCo444GCcxNX7XaXxpchiQJJT\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
-    },
-    {
-      "ts": 1789221281,
-      "type": "scanner",
-      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 WEAK\nLongCat (LONGCAT)\nOpportunity: 41/100\n\nMOMENTUM     45\nSAFETY       60\nLIQUIDITY    65\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$13,032, 8 min since pool creation\n\u2022 Up +30% in the last hour, ~$196,209 in 24h volume (15.1x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 99% of supply (very concentrated)\n\nCA: 7ecP7iw5EBj23aANNERYYV4FTQj67zCbwMaiiabnecip\nhttps://dexscreener.com/solana/7ecP7iw5EBj23aANNERYYV4FTQj67zCbwMaiiabnecip\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
     }
   ]
 }
