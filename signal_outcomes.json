@@ -35855,7 +35855,8 @@
     "liquidity_at_flag": 25355.232434443897,
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "7zPttFhtLqzomKFnQ2zmjFayuRJtnqtfisa8AGWgp1tu": {
@@ -35865,7 +35866,8 @@
     "liquidity_at_flag": 26497.99016596312,
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "9ZsgyaoGLp5ENqDBu4rY7j9yaexqh7EuJSGDPQfxoieM": {
@@ -41384,7 +41386,8 @@
     "flagged_ts": 1789168669,
     "liquidity_at_flag": 30605.375647436962,
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "Dq6i26z9SSSS2LsPiKaApV6sFAdUL8LTvrbYh8rCcB3s": {
@@ -41393,7 +41396,8 @@
     "flagged_ts": 1789168670,
     "liquidity_at_flag": 29717.108147526083,
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "BuzBmzhX9YFVLwBZWcS8LjMy7P2PpH9gifB3BQj9rD39": {
@@ -41402,7 +41406,8 @@
     "flagged_ts": 1789168670,
     "liquidity_at_flag": 46826.36148183636,
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "Cv3rK8u4ZcZGAw7oyaT55Rm4FS7qW2Lei9V4ePmSgYbG": {
@@ -41824,42 +41829,54 @@
     "symbol": "YouTube",
     "flagged_ts": 1789178894,
     "liquidity_at_flag": 271405.29772935214,
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "AvsKyYSDMrGKK6VqntDYLMZSqnEf71qiNXQDRkh7vi4C": {
     "name": "WeWorm",
     "symbol": "WeWorm",
     "flagged_ts": 1789178895,
     "liquidity_at_flag": 26844.537045039368,
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "BcGn1wNkqEZWXh5dihPqjpcF1PX2diykMVang1tiyzSz": {
     "name": "WeWorm",
     "symbol": "WeWorm",
     "flagged_ts": 1789178896,
     "liquidity_at_flag": 27450.646213806605,
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "H1UDj2PiwbyWhEFFwJti3Etc3Qihy4Q8ran7jwZp6PpJ": {
     "name": "claudeai",
     "symbol": "Claude",
     "flagged_ts": 1789178897,
     "liquidity_at_flag": 239266.92250643467,
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "DqMtyQcCggVc5oV1QYujxfDDYW3UMyqhQEwo48ziLZHq": {
     "name": "Microsoft",
     "symbol": "MSFT",
     "flagged_ts": 1789178899,
     "liquidity_at_flag": 277741.60650740727,
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "DDP1mgvoFgMNCT7aLj33HNoNx9rh5jfZtSeCiMZ6pump": {
     "name": "John Ternus",
     "symbol": "JOHN",
     "flagged_ts": 1789178900,
     "liquidity_at_flag": 28012.72759131474,
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "HdBUK5VyKE2zQu2kcEbk9QbTAde7ncLfrxLFMkRhgEnb": {
     "name": "STABLE",
@@ -42027,6 +42044,34 @@
     "symbol": "CATGPT",
     "flagged_ts": 1789182299,
     "liquidity_at_flag": 24573.887626683027,
+    "checkpoints_done": []
+  },
+  "3fMZefcSHa4yhE1PN3Erad87MWcyVEnqwosN4UqgvULB": {
+    "name": "Cash Printing Unit",
+    "symbol": "CPU",
+    "flagged_ts": 1789183195,
+    "liquidity_at_flag": 21289.53416896121,
+    "checkpoints_done": []
+  },
+  "6paRbyEDLYNi8NKxQEF6WVyRhMQrFyLbr6Y2nNYWiRZe": {
+    "name": "Absolute Cinema",
+    "symbol": "Cinema",
+    "flagged_ts": 1789183196,
+    "liquidity_at_flag": 19118.094669436257,
+    "checkpoints_done": []
+  },
+  "7TKP5s7JGbxwMx8MxQcEXZcJWhqK1EuXRgQNuGNoBXjD": {
+    "name": "Cash Printing Unit",
+    "symbol": "CPU",
+    "flagged_ts": 1789183197,
+    "liquidity_at_flag": 25438.69516860856,
+    "checkpoints_done": []
+  },
+  "p3unkDrbShreeH3m7ToKcYX98JSVbihtRS7pyW1RnMt": {
+    "name": "LAMA Pay",
+    "symbol": "LAMA",
+    "flagged_ts": 1789183198,
+    "liquidity_at_flag": 28178.047983020653,
     "checkpoints_done": []
   }
 }
