@@ -1,5 +1,5 @@
 {
-  "last_updated": 1789336370,
+  "last_updated": 1789337102,
   "wallets": [
     {
       "label": "Dev wallet 1",
@@ -9,9 +9,9 @@
   "wallet_stats": {
     "5CEbueQnq1Ym2uSSx2xXds3jQAqT1BDnkA59RZobSPAG": {
       "label": "Dev wallet 1",
-      "buy_count": 118,
+      "buy_count": 119,
       "sell_count": 70,
-      "total_buy_usd": 13596.708082720477,
+      "total_buy_usd": 14100.658082720478,
       "total_sell_usd": 0.0,
       "tokens_traded": [
         "6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx",
@@ -56,7 +56,7 @@
         "BbdQy2LwWWj3eRLmBDXTqoEDaTAWRZuQJXMypKQrjFjY",
         "DC6HP2A7SUy49WeazfeWgbwxVpzKdEPuB46mtb7XBzWx"
       ],
-      "last_active": 1789336367,
+      "last_active": 1789337096,
       "positions": {},
       "realized_pnl_usd": 0.0
     }
@@ -90,6 +90,16 @@
   },
   "settings": {},
   "recent_alerts": [
+    {
+      "ts": 1789337097,
+      "type": "wallet",
+      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: 5.0000 SOL (~$503.95) -> MSTRx\nTrade size: ~$503.95\nBought token: MicroStrategy xStock (MSTRx)\nCA: XsP7xzNPvEHS1m6qfanPUGjNmdnmsLKEoNAnHjdxxyZ\nhttps://solscan.io/tx/2FfqXmz2NFg5tYdbyTNQwDzZPmoTt1mfCwjFXsgh32fQbwD6dFx9NxqepAYxNyE45Jq4krrn443cCChAddRQJTnW"
+    },
+    {
+      "ts": 1789337096,
+      "type": "wallet",
+      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: MSTRx -> SAYLORMOON\nTrade size: unknown\nBought token: SAYLORMOON (SAYLORMOON)\nCA: DvS2LM832tZLtbbSqp3j8htA8xMMTJT1ZYGhF6FUk3ra\nhttps://solscan.io/tx/4c8LNTheNEF72KzD4Egd6xDh5GaU9rp6zNxBwPEXJWwBLzwiNYogfs2JkAacCdDk48LS8mnLQRWxmgU3uASsJ1iF"
+    },
     {
       "ts": 1789336367,
       "type": "wallet",
@@ -329,16 +339,6 @@
       "ts": 1789246600,
       "type": "outcome",
       "message": "\ud83d\udcca SIGNAL REVIEW (24h later)\nALLINU (ALLINU)\nLiquidity at flag: ~$37,955\nLiquidity now: ~$48\nChange: -100%"
-    },
-    {
-      "ts": 1789246599,
-      "type": "scanner",
-      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 WATCH\nTWINE (TWINE)\nOpportunity: 68/100\n\nMOMENTUM     100\nSAFETY       75\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$37,174, 18 min since pool creation\n\u2022 Up +120% in the last hour, ~$130,668 in 24h volume (3.5x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 25/100):\n\u2022 top 10 holders own 64% of supply (concentrated)\n\nCA: EJ8FaJK4yLi6W7K6jSveJZXiVbEjV1MPyufbfGrzjNDC\nhttps://dexscreener.com/solana/EJ8FaJK4yLi6W7K6jSveJZXiVbEjV1MPyufbfGrzjNDC\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
-    },
-    {
-      "ts": 1789246598,
-      "type": "scanner",
-      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 WEAK\nTWINE (TWINE)\nOpportunity: 42/100\n\nMOMENTUM     31\nSAFETY       60\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$160,051, 13 min since pool creation\n\u2022 Up +21% in the last hour, ~$713,343 in 24h volume (4.5x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 94% of supply (very concentrated)\n\nCA: FFDNAboFW9BmuT9dsVCPNQA9sg1xsd8kyaqeyeJycr3D\nhttps://dexscreener.com/solana/FFDNAboFW9BmuT9dsVCPNQA9sg1xsd8kyaqeyeJycr3D\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
     }
   ]
 }
