@@ -1,5 +1,5 @@
 {
-  "last_updated": 1789247254,
+  "last_updated": 1789334589,
   "wallets": [
     {
       "label": "Dev wallet 1",
@@ -73,23 +73,88 @@
   },
   "scanner_accuracy": {
     "60m": {
-      "count": 1069,
+      "count": 1071,
       "up_pct": 35,
-      "avg_change_pct": 34316203.1
+      "avg_change_pct": 34252120.9
     },
     "240m": {
-      "count": 2308,
+      "count": 2312,
       "up_pct": 26,
-      "avg_change_pct": 15894263.1
+      "avg_change_pct": 15866764.2
     },
     "1440m": {
-      "count": 2472,
+      "count": 2479,
       "up_pct": 24,
-      "avg_change_pct": -50.6
+      "avg_change_pct": -50.5
     }
   },
   "settings": {},
   "recent_alerts": [
+    {
+      "ts": 1789334586,
+      "type": "outcome",
+      "message": "\ud83d\udcca SIGNAL REVIEW (24h later)\nTWINE (TWINE)\nLiquidity at flag: ~$37,174\nLiquidity now: ~$41,986\nChange: +13%"
+    },
+    {
+      "ts": 1789334583,
+      "type": "outcome",
+      "message": "\ud83d\udcca SIGNAL REVIEW (24h later)\nTWINE (TWINE)\nLiquidity at flag: ~$49,807\nLiquidity now: ~$38\nChange: -100%"
+    },
+    {
+      "ts": 1789334583,
+      "type": "outcome",
+      "message": "\ud83d\udcca SIGNAL REVIEW (4h later)\nTWINE (TWINE)\nLiquidity at flag: ~$49,807\nLiquidity now: ~$38\nChange: -100%"
+    },
+    {
+      "ts": 1789334582,
+      "type": "outcome",
+      "message": "\ud83d\udcca SIGNAL REVIEW (1h later)\nTWINE (TWINE)\nLiquidity at flag: ~$49,807\nLiquidity now: ~$38\nChange: -100%"
+    },
+    {
+      "ts": 1789334581,
+      "type": "outcome",
+      "message": "\ud83d\udcca SIGNAL REVIEW (24h later)\nTWINE (TWINE)\nLiquidity at flag: ~$20,159\nLiquidity now: ~$122,488\nChange: +508%"
+    },
+    {
+      "ts": 1789334580,
+      "type": "outcome",
+      "message": "\ud83d\udcca SIGNAL REVIEW (1h later)\nTWINE (TWINE)\nLiquidity at flag: ~$20,159\nLiquidity now: ~$122,488\nChange: +508%"
+    },
+    {
+      "ts": 1789334569,
+      "type": "outcome",
+      "message": "\ud83d\udcca SIGNAL REVIEW (24h later)\nTWINE (TWINE)\nLiquidity at flag: ~$81,539\nLiquidity now: ~$1\nChange: -100%"
+    },
+    {
+      "ts": 1789334568,
+      "type": "outcome",
+      "message": "\ud83d\udcca SIGNAL REVIEW (4h later)\nTWINE (TWINE)\nLiquidity at flag: ~$81,539\nLiquidity now: ~$1\nChange: -100%"
+    },
+    {
+      "ts": 1789334564,
+      "type": "outcome",
+      "message": "\ud83d\udcca SIGNAL REVIEW (24h later)\nbatonmichi (batonmichi)\nLiquidity at flag: ~$13,724\nLiquidity now: ~$2,048\nChange: -85%"
+    },
+    {
+      "ts": 1789334564,
+      "type": "outcome",
+      "message": "\ud83d\udcca SIGNAL REVIEW (4h later)\nbatonmichi (batonmichi)\nLiquidity at flag: ~$13,724\nLiquidity now: ~$2,048\nChange: -85%"
+    },
+    {
+      "ts": 1789334545,
+      "type": "outcome",
+      "message": "\ud83d\udcca SIGNAL REVIEW (24h later)\nHODL (HODL)\nLiquidity at flag: ~$97,575\nLiquidity now: ~$1\nChange: -100%"
+    },
+    {
+      "ts": 1789334544,
+      "type": "outcome",
+      "message": "\ud83d\udcca SIGNAL REVIEW (4h later)\nHODL (HODL)\nLiquidity at flag: ~$97,575\nLiquidity now: ~$1\nChange: -100%"
+    },
+    {
+      "ts": 1789334521,
+      "type": "outcome",
+      "message": "\ud83d\udcca SIGNAL REVIEW (24h later)\nLongCat (LONGCAT)\nLiquidity at flag: ~$13,032\nLiquidity now: ~$0\nChange: -100%"
+    },
     {
       "ts": 1789247253,
       "type": "outcome",
@@ -274,71 +339,6 @@
       "ts": 1789246042,
       "type": "outcome",
       "message": "\ud83d\udcca SIGNAL REVIEW (4h later)\nSuica Rabbit (\u3046\u3055\u304e)\nLiquidity at flag: ~$21,759\nLiquidity now: ~$32,610\nChange: +50%"
-    },
-    {
-      "ts": 1789246041,
-      "type": "outcome",
-      "message": "\ud83d\udcca SIGNAL REVIEW (4h later)\nDihfih (DIHFIH)\nLiquidity at flag: ~$20,926\nLiquidity now: ~$0\nChange: -100%"
-    },
-    {
-      "ts": 1789246040,
-      "type": "outcome",
-      "message": "\ud83d\udcca SIGNAL REVIEW (4h later)\nPumpFun Strategy (pstr)\nLiquidity at flag: ~$21,099\nLiquidity now: ~$0\nChange: -100%"
-    },
-    {
-      "ts": 1789246039,
-      "type": "outcome",
-      "message": "\ud83d\udcca SIGNAL REVIEW (4h later)\nPumpFun Strategy (PSTR)\nLiquidity at flag: ~$23,229\nLiquidity now: ~$0\nChange: -100%"
-    },
-    {
-      "ts": 1789246038,
-      "type": "outcome",
-      "message": "\ud83d\udcca SIGNAL REVIEW (4h later)\nlife (life)\nLiquidity at flag: ~$37,516\nLiquidity now: ~$0\nChange: -100%"
-    },
-    {
-      "ts": 1789246037,
-      "type": "outcome",
-      "message": "\ud83d\udcca SIGNAL REVIEW (4h later)\ncatonskr (SKR)\nLiquidity at flag: ~$25,457\nLiquidity now: ~$25,457\nChange: +0%"
-    },
-    {
-      "ts": 1789246036,
-      "type": "outcome",
-      "message": "\ud83d\udcca SIGNAL REVIEW (4h later)\nPopcat (POPCAT)\nLiquidity at flag: ~$7,398\nLiquidity now: ~$9,877\nChange: +34%"
-    },
-    {
-      "ts": 1789246035,
-      "type": "outcome",
-      "message": "\ud83d\udcca SIGNAL REVIEW (4h later)\nDiamond Hands (\ud83d\ude4c\ud83d\udc8e)\nLiquidity at flag: ~$26,622\nLiquidity now: ~$0\nChange: -100%"
-    },
-    {
-      "ts": 1789246034,
-      "type": "outcome",
-      "message": "\ud83d\udcca SIGNAL REVIEW (4h later)\nDiamond Hands (\ud83d\udc8e\ud83d\ude4c)\nLiquidity at flag: ~$25,801\nLiquidity now: ~$25,801\nChange: +0%"
-    },
-    {
-      "ts": 1789246033,
-      "type": "outcome",
-      "message": "\ud83d\udcca SIGNAL REVIEW (4h later)\nPumpFun Strategy (PTSR)\nLiquidity at flag: ~$22,836\nLiquidity now: ~$27,268\nChange: +19%"
-    },
-    {
-      "ts": 1789246032,
-      "type": "outcome",
-      "message": "\ud83d\udcca SIGNAL REVIEW (4h later)\nMosiAI (MosiAi)\nLiquidity at flag: ~$24,460\nLiquidity now: ~$0\nChange: -100%"
-    },
-    {
-      "ts": 1789246031,
-      "type": "outcome",
-      "message": "\ud83d\udcca SIGNAL REVIEW (24h later)\nDuplicate (Duplicate)\nLiquidity at flag: ~$52,023\nLiquidity now: ~$4,737\nChange: -91%"
-    },
-    {
-      "ts": 1789246030,
-      "type": "outcome",
-      "message": "\ud83d\udcca SIGNAL REVIEW (24h later)\nALLINU (ALLINU)\nLiquidity at flag: ~$41,132\nLiquidity now: ~$2\nChange: -100%"
-    },
-    {
-      "ts": 1789246029,
-      "type": "scanner",
-      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 WEAK\nAnthropic (Claude)\nOpportunity: 42/100\n\nMOMENTUM     29\nSAFETY       60\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$281,893, 19 min since pool creation\n\u2022 Up +19% in the last hour, ~$6,567,754 in 24h volume (23.3x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 99% of supply (very concentrated)\n\nCA: 7FtrBYQLPDo25SEPLrMb3kyaQyjWP71gPpNzU5oYsB6V\nhttps://dexscreener.com/solana/7FtrBYQLPDo25SEPLrMb3kyaQyjWP71gPpNzU5oYsB6V\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
     }
   ]
 }
