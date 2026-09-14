@@ -1,5 +1,10 @@
 [
   {
+    "ts": 1789388928,
+    "type": "wallet",
+    "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: SPCXx -> USDC\nTrade size: unknown\nBought token: USD Coin (USDC)\nCA: EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v\nhttps://solscan.io/tx/5hBjwqVk5ZjUwZnN8u52TYLq4S8qJGwP5w2DKXxEXbGi9riwk2NWjWLS2ZhuDVjVNa3ehW9Xze4L9FtvVYV1zk4n"
+  },
+  {
     "ts": 1789382290,
     "type": "wallet",
     "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: GOOGLx -> USDC\nTrade size: unknown\nBought token: USD Coin (USDC)\nCA: EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v\nhttps://solscan.io/tx/ax8cL6AVasCGDr5MhT6eVrPj2V4qo1WQDV4ew72hpXcVwaoNJve62RhuZK1zYHfT4CMjwZ3KcVq869FSS7PpY2t"
@@ -243,10 +248,5 @@
     "ts": 1789334583,
     "type": "outcome",
     "message": "\ud83d\udcca SIGNAL REVIEW (24h later)\nTWINE (TWINE)\nLiquidity at flag: ~$49,807\nLiquidity now: ~$38\nChange: -100%"
-  },
-  {
-    "ts": 1789334583,
-    "type": "outcome",
-    "message": "\ud83d\udcca SIGNAL REVIEW (4h later)\nTWINE (TWINE)\nLiquidity at flag: ~$49,807\nLiquidity now: ~$38\nChange: -100%"
   }
 ]

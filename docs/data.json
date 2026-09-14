@@ -1,5 +1,5 @@
 {
-  "last_updated": 1789387642,
+  "last_updated": 1789388932,
   "wallets": [
     {
       "label": "Dev wallet 1",
@@ -10,7 +10,7 @@
     "5CEbueQnq1Ym2uSSx2xXds3jQAqT1BDnkA59RZobSPAG": {
       "label": "Dev wallet 1",
       "buy_count": 131,
-      "sell_count": 73,
+      "sell_count": 74,
       "total_buy_usd": 14598.181309465357,
       "total_sell_usd": 0.0,
       "tokens_traded": [
@@ -58,7 +58,7 @@
         "DmM4JUcbodP18VXb6kWx1ojav8Wsj1VMb9mPexMKBnnp",
         "SNDKbwMUQvZhnLnxLduradgLHG5KrPuKwpnrkkGRhfH"
       ],
-      "last_active": 1789382289,
+      "last_active": 1789388928,
       "positions": {},
       "realized_pnl_usd": 0.0
     }
@@ -92,6 +92,11 @@
   },
   "settings": {},
   "recent_alerts": [
+    {
+      "ts": 1789388928,
+      "type": "wallet",
+      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: SPCXx -> USDC\nTrade size: unknown\nBought token: USD Coin (USDC)\nCA: EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v\nhttps://solscan.io/tx/5hBjwqVk5ZjUwZnN8u52TYLq4S8qJGwP5w2DKXxEXbGi9riwk2NWjWLS2ZhuDVjVNa3ehW9Xze4L9FtvVYV1zk4n"
+    },
     {
       "ts": 1789382290,
       "type": "wallet",
@@ -336,11 +341,6 @@
       "ts": 1789334583,
       "type": "outcome",
       "message": "\ud83d\udcca SIGNAL REVIEW (24h later)\nTWINE (TWINE)\nLiquidity at flag: ~$49,807\nLiquidity now: ~$38\nChange: -100%"
-    },
-    {
-      "ts": 1789334583,
-      "type": "outcome",
-      "message": "\ud83d\udcca SIGNAL REVIEW (4h later)\nTWINE (TWINE)\nLiquidity at flag: ~$49,807\nLiquidity now: ~$38\nChange: -100%"
     }
   ]
 }
