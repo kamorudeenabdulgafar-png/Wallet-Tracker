@@ -1,5 +1,5 @@
 {
-  "last_updated": 1789405616,
+  "last_updated": 1789406432,
   "wallets": [
     {
       "label": "Dev wallet 1",
@@ -10,7 +10,7 @@
     "5CEbueQnq1Ym2uSSx2xXds3jQAqT1BDnkA59RZobSPAG": {
       "label": "Dev wallet 1",
       "buy_count": 136,
-      "sell_count": 75,
+      "sell_count": 76,
       "total_buy_usd": 14598.694106593677,
       "total_sell_usd": 0.0,
       "tokens_traded": [
@@ -59,7 +59,7 @@
         "SNDKbwMUQvZhnLnxLduradgLHG5KrPuKwpnrkkGRhfH",
         "J99ntLccP7gDMy8WGsJDCu48J5ULXwK8VaH4HzjByJ5o"
       ],
-      "last_active": 1789405615,
+      "last_active": 1789406428,
       "positions": {},
       "realized_pnl_usd": 0.0
     }
@@ -93,6 +93,11 @@
   },
   "settings": {},
   "recent_alerts": [
+    {
+      "ts": 1789406428,
+      "type": "wallet",
+      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: ZEC -> USDC\nTrade size: unknown\nBought token: USD Coin (USDC)\nCA: EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v\nhttps://solscan.io/tx/5JEiUp5vywYAcHycb2sRtTSkBV4jBbni6MEa47AGzTJec7WUxREU2Sb5mYEt5eEevYi2QnrNtVba3HpLi7UAKPti"
+    },
     {
       "ts": 1789405615,
       "type": "wallet",
@@ -337,11 +342,6 @@
       "ts": 1789337097,
       "type": "wallet",
       "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: 5.0000 SOL (~$503.95) -> MSTRx\nTrade size: ~$503.95\nBought token: MicroStrategy xStock (MSTRx)\nCA: XsP7xzNPvEHS1m6qfanPUGjNmdnmsLKEoNAnHjdxxyZ\nhttps://solscan.io/tx/2FfqXmz2NFg5tYdbyTNQwDzZPmoTt1mfCwjFXsgh32fQbwD6dFx9NxqepAYxNyE45Jq4krrn443cCChAddRQJTnW"
-    },
-    {
-      "ts": 1789337096,
-      "type": "wallet",
-      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: MSTRx -> SAYLORMOON\nTrade size: unknown\nBought token: SAYLORMOON (SAYLORMOON)\nCA: DvS2LM832tZLtbbSqp3j8htA8xMMTJT1ZYGhF6FUk3ra\nhttps://solscan.io/tx/4c8LNTheNEF72KzD4Egd6xDh5GaU9rp6zNxBwPEXJWwBLzwiNYogfs2JkAacCdDk48LS8mnLQRWxmgU3uASsJ1iF"
     }
   ]
 }
