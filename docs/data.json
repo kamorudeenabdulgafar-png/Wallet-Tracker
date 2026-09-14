@@ -1,5 +1,5 @@
 {
-  "last_updated": 1789367834,
+  "last_updated": 1789368805,
   "wallets": [
     {
       "label": "Dev wallet 1",
@@ -9,7 +9,7 @@
   "wallet_stats": {
     "5CEbueQnq1Ym2uSSx2xXds3jQAqT1BDnkA59RZobSPAG": {
       "label": "Dev wallet 1",
-      "buy_count": 128,
+      "buy_count": 130,
       "sell_count": 70,
       "total_buy_usd": 14598.181309465357,
       "total_sell_usd": 0.0,
@@ -57,7 +57,7 @@
         "DC6HP2A7SUy49WeazfeWgbwxVpzKdEPuB46mtb7XBzWx",
         "DmM4JUcbodP18VXb6kWx1ojav8Wsj1VMb9mPexMKBnnp"
       ],
-      "last_active": 1789352638,
+      "last_active": 1789368802,
       "positions": {},
       "realized_pnl_usd": 0.0
     }
@@ -91,6 +91,36 @@
   },
   "settings": {},
   "recent_alerts": [
+    {
+      "ts": 1789368803,
+      "type": "wallet",
+      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: PONS -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/4csCsWwCBdHoieb54L3BndEGQpLTMfbtPA6EU4bLgMsEhGobMcYQEyWiUtuWfJVxAxwTHMgsVsntG3XLiNPQA5r6"
+    },
+    {
+      "ts": 1789368802,
+      "type": "wallet",
+      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: USDC -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/kc3hm7cGgow7BhDnAGXmAXiZnCigzKTqMga4eY8YeYfNh2m17NQ57RzhiTDoXJj1soorkyHTMtt2GXiTj97h89c"
+    },
+    {
+      "ts": 1789368802,
+      "type": "wallet",
+      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: neet -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/HqfF5qEqreSmCPhS2sLZMcX4fjxSMWZcGmjCVoRoZVkgYo9NLDFFaZKWLvnMomEYCP2Uz5FYqRd5UUcmKPeJ1Sf"
+    },
+    {
+      "ts": 1789368801,
+      "type": "wallet",
+      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: KOx -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/qkKNbYmHNgDbzdh5ojmMuyR58o4wfkVgX26woDD5a9UF1itDw4prqLyCvXdi4KGiGbvauKQL3jodusN4UGqNRHd"
+    },
+    {
+      "ts": 1789368801,
+      "type": "wallet",
+      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: Bonk -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/3HU2qKYYujTLJjcuEfcm1zoFNe7xESYhNAQ173DLktsqzjeZFL7p2uPs9my8BR9s2LhPvaY49qJPWDo1ZUk9zeNH"
+    },
+    {
+      "ts": 1789368800,
+      "type": "wallet",
+      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: USDC -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/3gLX8xGAvjiqex2GcdiwpRgaooiT2SDVbHbMY3mLeFcbLZA11xoCCq4LaTa2ukmj47ctLrJJkoeFpFyVtGAcTZsE"
+    },
     {
       "ts": 1789352639,
       "type": "wallet",
@@ -310,36 +340,6 @@
       "ts": 1789247249,
       "type": "outcome",
       "message": "\ud83d\udcca SIGNAL REVIEW (4h later)\nbe delusional (delusional)\nLiquidity at flag: ~$30,266\nLiquidity now: ~$15,461\nChange: -49%"
-    },
-    {
-      "ts": 1789247248,
-      "type": "outcome",
-      "message": "\ud83d\udcca SIGNAL REVIEW (4h later)\nAnonymous Cat (ZCAT)\nLiquidity at flag: ~$27,417\nLiquidity now: ~$0\nChange: -100%"
-    },
-    {
-      "ts": 1789247248,
-      "type": "outcome",
-      "message": "\ud83d\udcca SIGNAL REVIEW (4h later)\nbe delusional (delusional)\nLiquidity at flag: ~$24,661\nLiquidity now: ~$40,558\nChange: +64%"
-    },
-    {
-      "ts": 1789247247,
-      "type": "outcome",
-      "message": "\ud83d\udcca SIGNAL REVIEW (24h later)\nallcat (ALLCAT)\nLiquidity at flag: ~$31,457\nLiquidity now: ~$21,472\nChange: -32%"
-    },
-    {
-      "ts": 1789247246,
-      "type": "outcome",
-      "message": "\ud83d\udcca SIGNAL REVIEW (24h later)\nChinese time in my life (Chinese)\nLiquidity at flag: ~$16,304\nLiquidity now: ~$11,589\nChange: -29%"
-    },
-    {
-      "ts": 1789247245,
-      "type": "outcome",
-      "message": "\ud83d\udcca SIGNAL REVIEW (24h later)\nallcat (ALLCAT)\nLiquidity at flag: ~$18,158\nLiquidity now: ~$14,820\nChange: -18%"
-    },
-    {
-      "ts": 1789247245,
-      "type": "outcome",
-      "message": "\ud83d\udcca SIGNAL REVIEW (24h later)\nArtificial Cat INU (CATAI)\nLiquidity at flag: ~$20,701\nLiquidity now: ~$2\nChange: -100%"
     }
   ]
 }
