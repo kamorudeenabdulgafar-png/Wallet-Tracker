@@ -1,5 +1,5 @@
 {
-  "last_updated": 1789373146,
+  "last_updated": 1789374238,
   "wallets": [
     {
       "label": "Dev wallet 1",
@@ -58,7 +58,7 @@
         "DmM4JUcbodP18VXb6kWx1ojav8Wsj1VMb9mPexMKBnnp",
         "SNDKbwMUQvZhnLnxLduradgLHG5KrPuKwpnrkkGRhfH"
       ],
-      "last_active": 1789370612,
+      "last_active": 1789374236,
       "positions": {},
       "realized_pnl_usd": 0.0
     }
@@ -92,6 +92,11 @@
   },
   "settings": {},
   "recent_alerts": [
+    {
+      "ts": 1789374236,
+      "type": "wallet",
+      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: WBNB -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/2pmNxQz588DNujYLXSBwuMNSAaQSHy7ictahZA6NP39ibU34gprr5xQb6odpEafVKJnXGbTHbVbgEsw37HsBZ6RC"
+    },
     {
       "ts": 1789370612,
       "type": "wallet",
@@ -336,11 +341,6 @@
       "ts": 1789334544,
       "type": "outcome",
       "message": "\ud83d\udcca SIGNAL REVIEW (4h later)\nHODL (HODL)\nLiquidity at flag: ~$97,575\nLiquidity now: ~$1\nChange: -100%"
-    },
-    {
-      "ts": 1789334521,
-      "type": "outcome",
-      "message": "\ud83d\udcca SIGNAL REVIEW (24h later)\nLongCat (LONGCAT)\nLiquidity at flag: ~$13,032\nLiquidity now: ~$0\nChange: -100%"
     }
   ]
 }

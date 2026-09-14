@@ -1,5 +1,10 @@
 [
   {
+    "ts": 1789374236,
+    "type": "wallet",
+    "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: WBNB -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/2pmNxQz588DNujYLXSBwuMNSAaQSHy7ictahZA6NP39ibU34gprr5xQb6odpEafVKJnXGbTHbVbgEsw37HsBZ6RC"
+  },
+  {
     "ts": 1789370612,
     "type": "wallet",
     "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: LINK -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/3Fu8qBrdRFc7yekgQWQGARujh3n2qp3nMUGCFYj41MsaiiCWp3Fg81378nivQXMLSGdCrzWjPriF4QbL6ZeHjkkB"
@@ -243,10 +248,5 @@
     "ts": 1789334544,
     "type": "outcome",
     "message": "\ud83d\udcca SIGNAL REVIEW (4h later)\nHODL (HODL)\nLiquidity at flag: ~$97,575\nLiquidity now: ~$1\nChange: -100%"
-  },
-  {
-    "ts": 1789334521,
-    "type": "outcome",
-    "message": "\ud83d\udcca SIGNAL REVIEW (24h later)\nLongCat (LONGCAT)\nLiquidity at flag: ~$13,032\nLiquidity now: ~$0\nChange: -100%"
   }
 ]
