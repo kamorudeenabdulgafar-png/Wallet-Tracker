@@ -1,5 +1,5 @@
 {
-  "last_updated": 1789493437,
+  "last_updated": 1789494070,
   "wallets": [
     {
       "label": "Dev wallet 1",
@@ -9,9 +9,9 @@
   "wallet_stats": {
     "5CEbueQnq1Ym2uSSx2xXds3jQAqT1BDnkA59RZobSPAG": {
       "label": "Dev wallet 1",
-      "buy_count": 150,
+      "buy_count": 151,
       "sell_count": 85,
-      "total_buy_usd": 14728.333537629076,
+      "total_buy_usd": 14840.337774822876,
       "total_sell_usd": 0.0,
       "tokens_traded": [
         "6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx",
@@ -60,7 +60,7 @@
         "J99ntLccP7gDMy8WGsJDCu48J5ULXwK8VaH4HzjByJ5o",
         "7TRk8xVyE2gg6nf9osbct8g6uVsHdc1mYzzhwdPzo6da"
       ],
-      "last_active": 1789482553,
+      "last_active": 1789494067,
       "positions": {},
       "realized_pnl_usd": 0.0
     }
@@ -94,6 +94,16 @@
   },
   "settings": {},
   "recent_alerts": [
+    {
+      "ts": 1789494068,
+      "type": "wallet",
+      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: 1.1197 SOL (~$112.00) -> DNUT\nTrade size: ~$112.00\nBought token: Krispy Kreme, Inc. Common Stock - Backpack Securities (DNUT)\nCA: DNUTsCvKbKwu2RM72cUuW3TD9YpzArzACcqYQssjPLSk\nhttps://solscan.io/tx/5Bd7xL1Wor7n5zjHBGFQDv5JAF9Htpjyagv2osHsQzC8qVmmAQRYBDD6ndbfMVARffJUMebgyp2BwA5jFLuZBmET"
+    },
+    {
+      "ts": 1789494067,
+      "type": "wallet",
+      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: DNUT -> DNUT\nTrade size: unknown\nBought token: NUT (DNUT)\nCA: 9c14nKiaZQqVo2SFvPu57cXtmVrUCXuYBtjLHn7efqa\nhttps://solscan.io/tx/4xQPb1GUV55swRVjWLZW2LhP4EspAJqVjFpwXruriwyt1GJnE5nBb3f1n7y2BYKkyzNERJW6cufvyvfjNtz7yF5i"
+    },
     {
       "ts": 1789482553,
       "type": "wallet",
@@ -333,16 +343,6 @@
       "ts": 1789411835,
       "type": "wallet",
       "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: KALSHI -> PREDICK\nTrade size: unknown\nBought token: PREDICKTION MARKETS (PREDICK)\nCA: EZpFRK8jXTnq26bLef9nwB1cxCGpd58H1PEtJad2q4ub\nhttps://solscan.io/tx/4i5n5CcEiQDdYH6iqYBGu9T7xdaeyydCuM1BcWaKQR5S7WV6B7zWhLH4yRSZM2vzorp4y85N7vW3aUEkCSZRBKWb"
-    },
-    {
-      "ts": 1789410800,
-      "type": "wallet",
-      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: USDC -> 0.1610 SOL (~$16.66)\nTrade size: ~$16.66\nBought token: SOL (SOL)\nCA: So11111111111111111111111111111111111111112\nhttps://solscan.io/tx/5B5eusmXKFKuRPpazGxWA7W5zg6a779TFcJ28c8w9fXZQNn8yoJvfQssFfQeMJTNuT2XHfq4DgC9S32p5C4rEB9Y"
-    },
-    {
-      "ts": 1789410800,
-      "type": "wallet",
-      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: neet -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/3KLw4ysesQjg9XfCzuK3XPAjAgwTKsNFC1NiPck2Gh95ywQDqfCk9Pogb85jTf7hxDEbhFeQGHQS7ue2S88M3LYi"
     }
   ]
 }
