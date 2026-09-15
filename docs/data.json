@@ -1,5 +1,5 @@
 {
-  "last_updated": 1789508666,
+  "last_updated": 1789509210,
   "wallets": [
     {
       "label": "Dev wallet 1",
@@ -9,9 +9,9 @@
   "wallet_stats": {
     "5CEbueQnq1Ym2uSSx2xXds3jQAqT1BDnkA59RZobSPAG": {
       "label": "Dev wallet 1",
-      "buy_count": 156,
+      "buy_count": 157,
       "sell_count": 88,
-      "total_buy_usd": 14996.183432293927,
+      "total_buy_usd": 15125.670962659207,
       "total_sell_usd": 0.0,
       "tokens_traded": [
         "6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx",
@@ -59,9 +59,10 @@
         "SNDKbwMUQvZhnLnxLduradgLHG5KrPuKwpnrkkGRhfH",
         "J99ntLccP7gDMy8WGsJDCu48J5ULXwK8VaH4HzjByJ5o",
         "7TRk8xVyE2gg6nf9osbct8g6uVsHdc1mYzzhwdPzo6da",
-        "BRVaZKg6J9iF2BEsdpsxJ9NyvN9PPxPZuoQUX2v8qqkk"
+        "BRVaZKg6J9iF2BEsdpsxJ9NyvN9PPxPZuoQUX2v8qqkk",
+        "A1cr4bSAWKeSSmTXLrNuZmqL2Qk4waDWyNYzDfZkLz1s"
       ],
-      "last_active": 1789508665,
+      "last_active": 1789509206,
       "positions": {},
       "realized_pnl_usd": 0.0
     }
@@ -95,6 +96,11 @@
   },
   "settings": {},
   "recent_alerts": [
+    {
+      "ts": 1789509206,
+      "type": "wallet",
+      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: 1.3389 SOL (~$129.49) -> ONLYUP\nTrade size: ~$129.49\nBought token: ONLYUP (ONLYUP)\nCA: A1cr4bSAWKeSSmTXLrNuZmqL2Qk4waDWyNYzDfZkLz1s\nhttps://solscan.io/tx/4zqfFbN9xKytRLaxjy97cqUGB2q2M2NK4NMYHrGkPQYMM8WbpNj25fXkFSnuvmoBkxEH25Ueg5mezUj9bHVxciXB"
+    },
     {
       "ts": 1789508665,
       "type": "wallet",
@@ -339,11 +345,6 @@
       "ts": 1789446194,
       "type": "wallet",
       "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: 0.0952 SOL (~$9.67) -> USDC\nTrade size: ~$9.67\nBought token: USD Coin (USDC)\nCA: EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v\nhttps://solscan.io/tx/FYqqXpxmRnsDwgBtZ1piCXL4o7h7JwbzDseXfmLkQBzWs8UB8uysrt9uZMjbqo89pwi334cnv9Ubaq25FbJdnnS"
-    },
-    {
-      "ts": 1789446194,
-      "type": "wallet",
-      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: KNOTS -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/2XBCdijSm2pbPdMf9JpNjk95jgH5zBrCpEke5iHw4nAouapvEXmnKrvnduyT3UjQp6EmoXTuW3YC52GmJAGSZ3A4"
     }
   ]
 }
