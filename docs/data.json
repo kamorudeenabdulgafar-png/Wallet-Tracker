@@ -1,5 +1,5 @@
 {
-  "last_updated": 1789499974,
+  "last_updated": 1789500652,
   "wallets": [
     {
       "label": "Dev wallet 1",
@@ -9,9 +9,9 @@
   "wallet_stats": {
     "5CEbueQnq1Ym2uSSx2xXds3jQAqT1BDnkA59RZobSPAG": {
       "label": "Dev wallet 1",
-      "buy_count": 152,
+      "buy_count": 153,
       "sell_count": 86,
-      "total_buy_usd": 14840.340753827177,
+      "total_buy_usd": 14850.137753827177,
       "total_sell_usd": 0.0,
       "tokens_traded": [
         "6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx",
@@ -60,7 +60,7 @@
         "J99ntLccP7gDMy8WGsJDCu48J5ULXwK8VaH4HzjByJ5o",
         "7TRk8xVyE2gg6nf9osbct8g6uVsHdc1mYzzhwdPzo6da"
       ],
-      "last_active": 1789499066,
+      "last_active": 1789500648,
       "positions": {},
       "realized_pnl_usd": 0.0
     }
@@ -94,6 +94,11 @@
   },
   "settings": {},
   "recent_alerts": [
+    {
+      "ts": 1789500649,
+      "type": "wallet",
+      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: 0.1000 SOL (~$9.80) -> STONK\nTrade size: ~$9.80\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/4ChNQSpQYddq9dWC5gDtDG4WGSZFKTgyMvqymqUXxhTopnyQH5PqG8ZU1ZTjXUbzmdQADwi5QTrfdMvG4p3LGrr5"
+    },
     {
       "ts": 1789499066,
       "type": "wallet",
@@ -338,11 +343,6 @@
       "ts": 1789427918,
       "type": "wallet",
       "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: PYTH -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/2QbZUCcoZS9FCNKG1HuuY5yCLrDRp8ereC9ekBoQppQt9joR1nHbUigKpvUkwgtVJExDZ3W42MyPF137oWNSrFii"
-    },
-    {
-      "ts": 1789427917,
-      "type": "wallet",
-      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: LIT -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/3BGbiNahAxG7ZYd3czTHnv4YHiok6F2StZ8UwcudesyJPwfFaqnvEZKd2aYYRCb667RRoDYxvjtwuzTMNtLcRgBs"
     }
   ]
 }
