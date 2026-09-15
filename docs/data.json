@@ -1,5 +1,5 @@
 {
-  "last_updated": 1789481462,
+  "last_updated": 1789482556,
   "wallets": [
     {
       "label": "Dev wallet 1",
@@ -9,9 +9,9 @@
   "wallet_stats": {
     "5CEbueQnq1Ym2uSSx2xXds3jQAqT1BDnkA59RZobSPAG": {
       "label": "Dev wallet 1",
-      "buy_count": 149,
+      "buy_count": 150,
       "sell_count": 85,
-      "total_buy_usd": 14728.208592244997,
+      "total_buy_usd": 14728.333537629076,
       "total_sell_usd": 0.0,
       "tokens_traded": [
         "6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx",
@@ -60,7 +60,7 @@
         "J99ntLccP7gDMy8WGsJDCu48J5ULXwK8VaH4HzjByJ5o",
         "7TRk8xVyE2gg6nf9osbct8g6uVsHdc1mYzzhwdPzo6da"
       ],
-      "last_active": 1789480116,
+      "last_active": 1789482553,
       "positions": {},
       "realized_pnl_usd": 0.0
     }
@@ -94,6 +94,11 @@
   },
   "settings": {},
   "recent_alerts": [
+    {
+      "ts": 1789482553,
+      "type": "wallet",
+      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: 0.0012 SOL (~$0.12) -> STONK\nTrade size: ~$0.12\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/2uTKhJ95KH3VTujp42UDHrA2aScjDNMCyzBMLiT5HymiJDPjRJisEpPqLxQdYpg1om5KYhZzQZLdwTvH3prEbsed"
+    },
     {
       "ts": 1789480117,
       "type": "wallet",
@@ -338,11 +343,6 @@
       "ts": 1789410800,
       "type": "wallet",
       "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: neet -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/3KLw4ysesQjg9XfCzuK3XPAjAgwTKsNFC1NiPck2Gh95ywQDqfCk9Pogb85jTf7hxDEbhFeQGHQS7ue2S88M3LYi"
-    },
-    {
-      "ts": 1789410799,
-      "type": "wallet",
-      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: LMT -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/2E1qq6q7vsqdd2YWrxLeTa33hFZ5TCzJZQeLKLBUpVjpucHDJvouuYwmcrTEQpnPHHm6znqC9TZc7ihk8DVWz7eR"
     }
   ]
 }
