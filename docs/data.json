@@ -1,5 +1,5 @@
 {
-  "last_updated": 1789457015,
+  "last_updated": 1789457959,
   "wallets": [
     {
       "label": "Dev wallet 1",
@@ -9,9 +9,9 @@
   "wallet_stats": {
     "5CEbueQnq1Ym2uSSx2xXds3jQAqT1BDnkA59RZobSPAG": {
       "label": "Dev wallet 1",
-      "buy_count": 144,
+      "buy_count": 145,
       "sell_count": 81,
-      "total_buy_usd": 14728.208077469757,
+      "total_buy_usd": 14728.208592244997,
       "total_sell_usd": 0.0,
       "tokens_traded": [
         "6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx",
@@ -60,7 +60,7 @@
         "J99ntLccP7gDMy8WGsJDCu48J5ULXwK8VaH4HzjByJ5o",
         "7TRk8xVyE2gg6nf9osbct8g6uVsHdc1mYzzhwdPzo6da"
       ],
-      "last_active": 1789457011,
+      "last_active": 1789457955,
       "positions": {},
       "realized_pnl_usd": 0.0
     }
@@ -94,6 +94,11 @@
   },
   "settings": {},
   "recent_alerts": [
+    {
+      "ts": 1789457956,
+      "type": "wallet",
+      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: 0.0000 SOL (~$0.00) -> STONK\nTrade size: ~$0.00\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/wteUDjNcFYf4mLh8k9Ddkv3jWXw8MK7iBxyn77D8Z8AVTXwMjpti3ShCuP9FWbrbQ6uMJsdeDzDLNmXaruvJDr2"
+    },
     {
       "ts": 1789457011,
       "type": "wallet",
@@ -338,11 +343,6 @@
       "ts": 1789382289,
       "type": "wallet",
       "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: KOx -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/3h9xDwvjVFPuupzrUE86nWnYhs8WvKQ85Lk1JHXzV9RhtmASufs7h6PQgraTQjYAA3foEodwJXmmup1TuBxFgNUa"
-    },
-    {
-      "ts": 1789382288,
-      "type": "wallet",
-      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: HEEBOO -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/xa8UDuSw4BiYj1HF261v3WMVnFHkAzs66BRE4NDpM7ptwiLdk1BYg6opbBGrr8MHcba7S2mxiMXYfvFvKhEYVLh"
     }
   ]
 }
