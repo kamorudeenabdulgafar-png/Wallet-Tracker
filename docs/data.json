@@ -1,5 +1,5 @@
 {
-  "last_updated": 1789595722,
+  "last_updated": 1789596320,
   "wallets": [
     {
       "label": "Dev wallet 1",
@@ -80,9 +80,9 @@
   },
   "scanner_accuracy": {
     "60m": {
-      "count": 1071,
+      "count": 1073,
       "up_pct": 35,
-      "avg_change_pct": 34252120.9
+      "avg_change_pct": 34188277.2
     },
     "240m": {
       "count": 2312,
@@ -97,6 +97,26 @@
   },
   "settings": {},
   "recent_alerts": [
+    {
+      "ts": 1789596320,
+      "type": "outcome",
+      "message": "\ud83d\udcca SIGNAL REVIEW (1h later)\nthere is no meme, ily (ILY)\nLiquidity at flag: ~$31,850\nLiquidity now: ~$42,491\nChange: +33%"
+    },
+    {
+      "ts": 1789596319,
+      "type": "outcome",
+      "message": "\ud83d\udcca SIGNAL REVIEW (1h later)\nretard (trader)\nLiquidity at flag: ~$21,301\nLiquidity now: ~$1\nChange: -100%"
+    },
+    {
+      "ts": 1789596318,
+      "type": "scanner",
+      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\ndono (DONO)\nOpportunity: 76/100\n\nMOMENTUM     100\nSAFETY       60\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$46,735, 15 min since pool creation\n\u2022 Up +715% in the last hour, ~$383,215 in 24h volume (8.2x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 93% of supply (very concentrated)\n\nCA: feAYAXPqRwq1C2b3qJ2mZQqz3yq4naeqR9rcwkYruSb\nhttps://dexscreener.com/solana/feAYAXPqRwq1C2b3qJ2mZQqz3yq4naeqR9rcwkYruSb\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
+    },
+    {
+      "ts": 1789596317,
+      "type": "scanner",
+      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 STRONG\nPrivate Room (ROOM)\nOpportunity: 81/100\n\nMOMENTUM     100\nSAFETY       75\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$25,344, 11 min since pool creation\n\u2022 Up +117% in the last hour, ~$127,477 in 24h volume (5.0x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 25/100):\n\u2022 top 10 holders own 69% of supply (concentrated)\n\nCA: CgJRGmnxmHa5xVdCqiPhxL1P5n1EAJ4vuU24cY2xapSV\nhttps://dexscreener.com/solana/CgJRGmnxmHa5xVdCqiPhxL1P5n1EAJ4vuU24cY2xapSV\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
+    },
     {
       "ts": 1789595722,
       "type": "scanner",
@@ -326,26 +346,6 @@
       "ts": 1789550529,
       "type": "wallet",
       "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: 0.0812 SOL (~$7.89) -> USDC\nTrade size: ~$7.89\nBought token: USD Coin (USDC)\nCA: EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v\nhttps://solscan.io/tx/5WshFVmMu7uZUkzGHungHNqpTpey4FW1set4dUAiaappiN6sN14ZyaotezB97PYQJktTSvFaeh4w5CTHwH88H8Wb"
-    },
-    {
-      "ts": 1789550529,
-      "type": "wallet",
-      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: 0.1560 SOL (~$15.15) -> USDC\nTrade size: ~$15.15\nBought token: USD Coin (USDC)\nCA: EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v\nhttps://solscan.io/tx/3bZw7tvGLg9xxjbsZRbie7dXaMDtLv1cvuWEZeVntKtE2isdX8xwzbDiC2c2rshauz9uM7S3xh2Qz5f4FYuggmvF"
-    },
-    {
-      "ts": 1789550528,
-      "type": "wallet",
-      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: DKNG -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/Mc9DyMTFDcg8c6qYUWWgHMxej2E6NRs1RhVuAsKm1wHcN4FsmeUNB539VcBgzqKhFQiNB92q4qbkiqUrj3Xvewh"
-    },
-    {
-      "ts": 1789547011,
-      "type": "wallet",
-      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: STRCx -> USDC\nTrade size: unknown\nBought token: USD Coin (USDC)\nCA: EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v\nhttps://solscan.io/tx/51zvsdAgR7xanB8fKDQ6e4D3iBHHq6LW4wj55hfyfFxwBrLGMGmoo6P2JMpe8h8PSZMi1U879jJYVtkkd3DuBAJT"
-    },
-    {
-      "ts": 1789542793,
-      "type": "wallet",
-      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: 0.0666 SOL (~$6.46) -> USDC\nTrade size: ~$6.46\nBought token: USD Coin (USDC)\nCA: EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v\nhttps://solscan.io/tx/3WVsii7r41drkWycoht1Sp9L2SQcpnibB11gCMQ2fR5rHZoDMQDuLmifuNXT83A2c5Xp2KZhAcudAJx4kamHntom"
     }
   ]
 }
