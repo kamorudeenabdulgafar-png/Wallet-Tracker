@@ -79,7 +79,7 @@ RUG_ALERT_DROP_PCT = 50  # liquidity drop (%) since last check that triggers an 
 DEFAULT_MIN_LIQUIDITY_USD = 5000   # too little liquidity = can't exit without huge slippage
 DEFAULT_MIN_1H_CHANGE_PCT = 15     # must be genuinely accelerating, not just sitting there
 DEFAULT_MIN_VOLUME_RATIO = 0.4     # 24h volume must be at least this fraction of liquidity — filters out thin, noisy "moves" with barely any real trading behind them
-DEFAULT_MIN_OPPORTUNITY_SCORE = 80  # the real gate — only STRONG/EXCEPTIONAL signals actually get sent, not just anything clearing the loose filters above
+DEFAULT_MIN_OPPORTUNITY_SCORE = 70  # recalibrated from real observed scores — 80 was mathematically almost unreachable
 SCANNER_MIN_AGE_MIN = 5         # skip brand-new coins with no track record yet
 SCANNER_MAX_AGE_MIN = 180        # skip old coins that likely already had their run
 MAX_ALERTS_LOGGED = 50
@@ -723,7 +723,9 @@ def compute_opportunity_score(change_1h, risk, liquidity, smart_money_labels):
       - Momentum: real 1h price change from DexPaprika
       - Safety: inverse of the risk score (holder concentration + authorities)
       - Liquidity: can you actually get in/out without huge slippage?
-      - Smart money: did any of YOUR tracked wallets buy this recently?
+      - Smart money: did any of YOUR tracked wallets buy this recently? (bonus,
+        not required — with only a few wallets tracked, this hits rarely, so
+        it shouldn't gate the ceiling a coin can reach on its own merits)
     Weights are rough and meant to be tuned once you've seen real output.
     """
     momentum_score = max(0, min(100, change_1h * 1.5))
@@ -731,7 +733,7 @@ def compute_opportunity_score(change_1h, risk, liquidity, smart_money_labels):
     liquidity_score = max(0, min(100, liquidity / 20000 * 100))
     smart_money_score = 100 if smart_money_labels else 0
 
-    weights = {"momentum": 0.30, "safety": 0.30, "liquidity": 0.15, "smart_money": 0.25}
+    weights = {"momentum": 0.35, "safety": 0.35, "liquidity": 0.20, "smart_money": 0.10}
     total = (momentum_score * weights["momentum"] + safety_score * weights["safety"] +
              liquidity_score * weights["liquidity"] + smart_money_score * weights["smart_money"])
     total = round(total)
