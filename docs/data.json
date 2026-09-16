@@ -1,5 +1,5 @@
 {
-  "last_updated": 1789564005,
+  "last_updated": 1789565022,
   "wallets": [
     {
       "label": "Dev wallet 1",
@@ -63,7 +63,7 @@
         "A1cr4bSAWKeSSmTXLrNuZmqL2Qk4waDWyNYzDfZkLz1s",
         "Dz9mQ9NzkBcCsuGPFJ3r1bS4wgqKMHBPiVuniW8Mbonk"
       ],
-      "last_active": 1789560845,
+      "last_active": 1789565017,
       "positions": {},
       "realized_pnl_usd": 0.0
     }
@@ -97,6 +97,11 @@
   },
   "settings": {},
   "recent_alerts": [
+    {
+      "ts": 1789565017,
+      "type": "wallet",
+      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: USDT -> USDC\nTrade size: unknown\nBought token: USD Coin (USDC)\nCA: EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v\nhttps://solscan.io/tx/2V5TscgnUUFC8RaqqMR2cwmQw2fhKq23oqQRUxC3hC3pHbQYTAo8JV1uV681HoZDVVRabCuetQ5ZY7BbZZ6vdEme"
+    },
     {
       "ts": 1789560845,
       "type": "wallet",
@@ -341,11 +346,6 @@
       "ts": 1789480115,
       "type": "wallet",
       "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: SPCXx -> USDC\nTrade size: unknown\nBought token: USD Coin (USDC)\nCA: EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v\nhttps://solscan.io/tx/5fidT3kaMtFTX64fyWmnq8utPmzAt7nsRzZEEpD5pbTYesc4doCK1WhNX8AAENzpLtUBe4xFsNe5GP3szzUNYKCw"
-    },
-    {
-      "ts": 1789477116,
-      "type": "wallet",
-      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: COINx -> USDC\nTrade size: unknown\nBought token: USD Coin (USDC)\nCA: EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v\nhttps://solscan.io/tx/3wBzaFdUKeNG8WgFdHFy5u4ueiMbW1TwoH3P73toSj3Bu9ApbKRSWDzyr2s2uW7NF2tz9zNhLGP51TMkVpPfWUfu"
     }
   ]
 }
