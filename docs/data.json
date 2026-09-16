@@ -1,5 +1,5 @@
 {
-  "last_updated": 1789581226,
+  "last_updated": 1789581982,
   "wallets": [
     {
       "label": "Dev wallet 1",
@@ -10,7 +10,7 @@
     "5CEbueQnq1Ym2uSSx2xXds3jQAqT1BDnkA59RZobSPAG": {
       "label": "Dev wallet 1",
       "buy_count": 161,
-      "sell_count": 96,
+      "sell_count": 97,
       "total_buy_usd": 15125.670962659207,
       "total_sell_usd": 0.0,
       "tokens_traded": [
@@ -63,7 +63,7 @@
         "A1cr4bSAWKeSSmTXLrNuZmqL2Qk4waDWyNYzDfZkLz1s",
         "Dz9mQ9NzkBcCsuGPFJ3r1bS4wgqKMHBPiVuniW8Mbonk"
       ],
-      "last_active": 1789577710,
+      "last_active": 1789581979,
       "positions": {},
       "realized_pnl_usd": 0.0
     }
@@ -97,6 +97,16 @@
   },
   "settings": {},
   "recent_alerts": [
+    {
+      "ts": 1789581979,
+      "type": "wallet",
+      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: SKR -> USDC\nTrade size: unknown\nBought token: USD Coin (USDC)\nCA: EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v\nhttps://solscan.io/tx/4qvwLxmAwdrzJojPyrE4yny3zeqPEX99DPEUeCRtWLejuLXMHJUMFF4z5W9t3YgPdKaCBRCmDXsrziVdN1AkKDb5"
+    },
+    {
+      "ts": 1789581979,
+      "type": "wallet",
+      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: xBTC -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/4oSkB2ptB8R611sRH9SrVbAnem6mAMBBbP6GnVj2NuNdjcGhRP4e3jsWAWCUjJiRiVTat9BPYNVwmQXUcF81YRZh"
+    },
     {
       "ts": 1789577710,
       "type": "wallet",
@@ -336,16 +346,6 @@
       "ts": 1789502748,
       "type": "wallet",
       "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: 1.4941 SOL (~$146.05) -> BROS\nTrade size: ~$146.05\nBought token: Dutch Bros - Backpack Securities (BROS)\nCA: BRVaZKg6J9iF2BEsdpsxJ9NyvN9PPxPZuoQUX2v8qqkk\nhttps://solscan.io/tx/3mpEAkQDfQRmb7mcUFhmpGoMzG2RPme62szbwnjdJjwkFQAQHMNPiNZeVk3wPTvDCkkozBNSwubDXdrvubN47CHc"
-    },
-    {
-      "ts": 1789502747,
-      "type": "wallet",
-      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: BROS -> BROSS\nTrade size: unknown\nBought token: MARIO (BROSS)\nCA: 9VmopbA1ojMYTfLramEs2aZwsorcdM3fcyJB8nTHS4LA\nhttps://solscan.io/tx/3PWH619SRjVSMgVD2T9mBrGV6zneJxb2DxSwefyinJ4WWsKWPL6HjFBb9hJnNj81Ta3oquPDGUhhoZ6BmFgyQUnP"
-    },
-    {
-      "ts": 1789502051,
-      "type": "wallet",
-      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: CARDS -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/hePHjPBCrysaJ2RcLpqoUARNqFGUeCAsYQqGYbkMeeoFem9x2xX2HmhyQNkGqUmTeT9pefEzF8D14a1tsEBedLV"
     }
   ]
 }
