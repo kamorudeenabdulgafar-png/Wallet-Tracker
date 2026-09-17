@@ -1,70 +1,4 @@
 {
-  "DK1mQXojdSo7sUjoUnWB3Ks9jCXF4beiREQ2gG2DZJmJ": {
-    "name": "Anthropic",
-    "symbol": "Claude",
-    "flagged_ts": 1789083424,
-    "liquidity_at_flag": 348153.48199436744,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "3Ze1iRGb2R44eVwYZV8YsScERGMUAx9KVaftw9skhExM": {
-    "name": "\u672c\u8272\u56de\u5f52",
-    "symbol": "\ud55c\uad6d\ubc29\uc1a1\uacf5\uc0ac",
-    "flagged_ts": 1789083424,
-    "liquidity_at_flag": 24855.31870830691,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "8YL1YhgEgLxzdKC6S3FECwQvxK4fKvDrVQBCDZbFBAGS": {
-    "name": "Openai Ghost",
-    "symbol": "OPGHOST",
-    "flagged_ts": 1789083425,
-    "liquidity_at_flag": 109671.57381799194,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "HeWFSqpKoPX2vidmSo3MF4BDwt92Eap9u2B3ddzJ2PSB": {
-    "name": "Cat Processing Unit",
-    "symbol": "CPU",
-    "flagged_ts": 1789083426,
-    "liquidity_at_flag": 23931.76385569923,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "Cpg8HrruhobRpiDRqRdSXktkKx6pDvt7Ej27UDd552DA": {
-    "name": "Sat Rush",
-    "symbol": "RUSH",
-    "flagged_ts": 1789083426,
-    "liquidity_at_flag": 30428.203023479247,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "D9bUMXCuf2sBbhC1QiJkjs47gTZvSAKu4pyr6z4bSScZ": {
-    "name": "UPONLY",
-    "symbol": "UPONLY",
-    "flagged_ts": 1789083427,
-    "liquidity_at_flag": 33971.347378187595,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
   "3ycC2ConBR1mkBsTdQRejpYZeCkdXcXf5Rc3GN6mmoon": {
     "name": "China Deepseek Penguin",
     "symbol": "DSKPENG",
@@ -17389,7 +17323,8 @@
     "flagged_ts": 1789673727,
     "liquidity_at_flag": 16793.299835888312,
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "4P1SttUXtRUxngd33zoYCgRX2ici96p7kLoALQxDJ4CY": {
@@ -17398,7 +17333,8 @@
     "flagged_ts": 1789673728,
     "liquidity_at_flag": 27383.053462929063,
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "FNfzNmKKRrAjDEiUUa2CwAmGcKQ4rDejHnwBVGraby36": {
@@ -17649,7 +17585,9 @@
     "symbol": "RIM",
     "flagged_ts": 1789684702,
     "liquidity_at_flag": 47658.12846352819,
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "8BBNS7hURKU4whJ9L7BpjnAR8n9bKFiPA4ZKcYs76qHu": {
     "name": "Phantom Cat",
@@ -17740,6 +17678,20 @@
     "symbol": "\u725b\u6765",
     "flagged_ts": 1789688054,
     "liquidity_at_flag": 32392.273017155094,
+    "checkpoints_done": []
+  },
+  "BTTHo8zA7QvHUsmmwcECV8jDEPu3WnqpvCJzWkLVvWSm": {
+    "name": "Titcoin",
+    "symbol": "Titcoin",
+    "flagged_ts": 1789688570,
+    "liquidity_at_flag": 52041.395910982246,
+    "checkpoints_done": []
+  },
+  "2RPJrWF1QjcyK7DB3vw11hx6voZ8uL1N3n38ESLuFdVw": {
+    "name": "Dogecoin DOGE",
+    "symbol": "DOGE",
+    "flagged_ts": 1789688571,
+    "liquidity_at_flag": 43403.4784610285,
     "checkpoints_done": []
   }
 }

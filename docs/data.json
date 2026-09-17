@@ -1,5 +1,5 @@
 {
-  "last_updated": 1789688061,
+  "last_updated": 1789688574,
   "wallets": [
     {
       "label": "Dev wallet 1",
@@ -80,14 +80,14 @@
   },
   "scanner_accuracy": {
     "60m": {
-      "count": 1374,
+      "count": 1375,
       "up_pct": 32,
-      "avg_change_pct": 26698694.2
+      "avg_change_pct": 26679276.9
     },
     "240m": {
-      "count": 2593,
+      "count": 2595,
       "up_pct": 24,
-      "avg_change_pct": 14147296.7
+      "avg_change_pct": 14136393.2
     },
     "1440m": {
       "count": 2507,
@@ -97,6 +97,31 @@
   },
   "settings": {},
   "recent_alerts": [
+    {
+      "ts": 1789688574,
+      "type": "outcome",
+      "message": "\ud83d\udcca SIGNAL REVIEW (1h later)\nreal internet money (RIM)\nLiquidity at flag: ~$47,658\nLiquidity now: ~$2\nChange: -100%"
+    },
+    {
+      "ts": 1789688573,
+      "type": "outcome",
+      "message": "\ud83d\udcca SIGNAL REVIEW (4h later)\nSolana Cat (SOLCAT)\nLiquidity at flag: ~$27,383\nLiquidity now: ~$0\nChange: -100%"
+    },
+    {
+      "ts": 1789688572,
+      "type": "outcome",
+      "message": "\ud83d\udcca SIGNAL REVIEW (4h later)\nSolana Cat (SOLCAT)\nLiquidity at flag: ~$16,793\nLiquidity now: ~$1\nChange: -100%"
+    },
+    {
+      "ts": 1789688571,
+      "type": "scanner",
+      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\nDogecoin DOGE (DOGE)\nOpportunity: 76/100\n\nMOMENTUM     100\nSAFETY       60\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$43,403, 22 min since pool creation\n\u2022 Up +115% in the last hour, ~$50,789 in 24h volume (1.2x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 95% of supply (very concentrated)\n\nCA: 2RPJrWF1QjcyK7DB3vw11hx6voZ8uL1N3n38ESLuFdVw\nhttps://dexscreener.com/solana/2RPJrWF1QjcyK7DB3vw11hx6voZ8uL1N3n38ESLuFdVw\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
+    },
+    {
+      "ts": 1789688570,
+      "type": "scanner",
+      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\nTitcoin (Titcoin)\nOpportunity: 76/100\n\nMOMENTUM     100\nSAFETY       60\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$52,041, 19 min since pool creation\n\u2022 Up +242% in the last hour, ~$845,633 in 24h volume (16.2x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 91% of supply (very concentrated)\n\nCA: BTTHo8zA7QvHUsmmwcECV8jDEPu3WnqpvCJzWkLVvWSm\nhttps://dexscreener.com/solana/BTTHo8zA7QvHUsmmwcECV8jDEPu3WnqpvCJzWkLVvWSm\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
+    },
     {
       "ts": 1789688061,
       "type": "outcome",
@@ -321,31 +346,6 @@
       "ts": 1789684703,
       "type": "outcome",
       "message": "\ud83d\udcca SIGNAL REVIEW (24h later)\nPill Rick (PILLRICK)\nLiquidity at flag: ~$22,568\nLiquidity now: ~$2,035\nChange: -91%"
-    },
-    {
-      "ts": 1789684702,
-      "type": "scanner",
-      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\nreal internet money (RIM)\nOpportunity: 76/100\n\nMOMENTUM     100\nSAFETY       60\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$47,658, 13 min since pool creation\n\u2022 Up +226% in the last hour, ~$651,774 in 24h volume (13.7x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 95% of supply (very concentrated)\n\nCA: 5NGSBuq7KYkJULwz7HZbn4QbYDW6snzfRTWvdfycW2DS\nhttps://dexscreener.com/solana/5NGSBuq7KYkJULwz7HZbn4QbYDW6snzfRTWvdfycW2DS\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
-    },
-    {
-      "ts": 1789684165,
-      "type": "outcome",
-      "message": "\ud83d\udcca SIGNAL REVIEW (1h later)\nZillions (ZILLIONS)\nLiquidity at flag: ~$44,064\nLiquidity now: ~$0\nChange: -100%"
-    },
-    {
-      "ts": 1789684164,
-      "type": "outcome",
-      "message": "\ud83d\udcca SIGNAL REVIEW (1h later)\nDividend Hounds (HOUND)\nLiquidity at flag: ~$29,018\nLiquidity now: ~$0\nChange: -100%"
-    },
-    {
-      "ts": 1789684163,
-      "type": "outcome",
-      "message": "\ud83d\udcca SIGNAL REVIEW (4h later)\nSUUB (SUUB)\nLiquidity at flag: ~$234,901\nLiquidity now: ~$0\nChange: -100%"
-    },
-    {
-      "ts": 1789684162,
-      "type": "outcome",
-      "message": "\ud83d\udcca SIGNAL REVIEW (4h later)\nOpenAI (OpenAI)\nLiquidity at flag: ~$96,984\nLiquidity now: ~$0\nChange: -100%"
     }
   ]
 }
