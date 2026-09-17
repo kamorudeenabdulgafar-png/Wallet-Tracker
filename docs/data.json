@@ -1,5 +1,5 @@
 {
-  "last_updated": 1789610762,
+  "last_updated": 1789611693,
   "wallets": [
     {
       "label": "Dev wallet 1",
@@ -80,9 +80,9 @@
   },
   "scanner_accuracy": {
     "60m": {
-      "count": 1119,
+      "count": 1120,
       "up_pct": 35,
-      "avg_change_pct": 32782859.0
+      "avg_change_pct": 32753588.6
     },
     "240m": {
       "count": 2326,
@@ -97,6 +97,16 @@
   },
   "settings": {},
   "recent_alerts": [
+    {
+      "ts": 1789611693,
+      "type": "outcome",
+      "message": "\ud83d\udcca SIGNAL REVIEW (1h later)\nDragon Ball (KAKAROT)\nLiquidity at flag: ~$37,428\nLiquidity now: ~$56,748\nChange: +52%"
+    },
+    {
+      "ts": 1789611690,
+      "type": "scanner",
+      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\nQuality Coin (QUALITY)\nOpportunity: 76/100\n\nMOMENTUM     100\nSAFETY       60\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$29,780, 17 min since pool creation\n\u2022 Up +292% in the last hour, ~$476,668 in 24h volume (16.0x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 96% of supply (very concentrated)\n\nCA: 9LaHiExwbwGDGnrmVHKFi83cZEsMkJbCrmoEcqfaPAJ2\nhttps://dexscreener.com/solana/9LaHiExwbwGDGnrmVHKFi83cZEsMkJbCrmoEcqfaPAJ2\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
+    },
     {
       "ts": 1789610762,
       "type": "outcome",
@@ -336,16 +346,6 @@
       "ts": 1789605874,
       "type": "outcome",
       "message": "\ud83d\udcca SIGNAL REVIEW (1h later)\n\u4e03\u9f99\u73e0 (\u5b59\u609f\u7a7a)\nLiquidity at flag: ~$29,292\nLiquidity now: ~$38,927\nChange: +33%"
-    },
-    {
-      "ts": 1789605873,
-      "type": "outcome",
-      "message": "\ud83d\udcca SIGNAL REVIEW (1h later)\nALLINU (ALLINU)\nLiquidity at flag: ~$34,410\nLiquidity now: ~$44,621\nChange: +30%"
-    },
-    {
-      "ts": 1789605872,
-      "type": "outcome",
-      "message": "\ud83d\udcca SIGNAL REVIEW (1h later)\nCrowBrain (CrowBrain)\nLiquidity at flag: ~$38,412\nLiquidity now: ~$42,118\nChange: +10%"
     }
   ]
 }
