@@ -1,5 +1,5 @@
 {
-  "last_updated": 1789667186,
+  "last_updated": 1789667709,
   "wallets": [
     {
       "label": "Dev wallet 1",
@@ -80,9 +80,9 @@
   },
   "scanner_accuracy": {
     "60m": {
-      "count": 1325,
+      "count": 1326,
       "up_pct": 33,
-      "avg_change_pct": 27686044.8
+      "avg_change_pct": 27665165.4
     },
     "240m": {
       "count": 2541,
@@ -97,6 +97,21 @@
   },
   "settings": {},
   "recent_alerts": [
+    {
+      "ts": 1789667709,
+      "type": "outcome",
+      "message": "\ud83d\udcca SIGNAL REVIEW (1h later)\nSUUB (SUUB)\nLiquidity at flag: ~$31,632\nLiquidity now: ~$0\nChange: -100%"
+    },
+    {
+      "ts": 1789667708,
+      "type": "scanner",
+      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 STRONG\nPAIDCAT (PAIDCAT)\nOpportunity: 81/100\n\nMOMENTUM     75\nSAFETY       100\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$33,677, 15 min since pool creation\n\u2022 Up +50% in the last hour, ~$194,231 in 24h volume (5.8x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Low, 0/100):\n\u2022 No major red flags found\n\nCA: 9n8rBV1L917EUSVDa9KTX2uMxvPfKZxLLtwKnYs8pump\nhttps://dexscreener.com/solana/9n8rBV1L917EUSVDa9KTX2uMxvPfKZxLLtwKnYs8pump\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
+    },
+    {
+      "ts": 1789667707,
+      "type": "scanner",
+      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\nThursday Arena (THURSDAY)\nOpportunity: 76/100\n\nMOMENTUM     100\nSAFETY       60\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$38,382, 13 min since pool creation\n\u2022 Up +76% in the last hour, ~$354,959 in 24h volume (9.2x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 93% of supply (very concentrated)\n\nCA: AnJ8uaRKGA4iGq9r8usz5yRveXYoD96UXPk53pd2Cdqa\nhttps://dexscreener.com/solana/AnJ8uaRKGA4iGq9r8usz5yRveXYoD96UXPk53pd2Cdqa\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
+    },
     {
       "ts": 1789667186,
       "type": "outcome",
@@ -331,21 +346,6 @@
       "ts": 1789662144,
       "type": "outcome",
       "message": "\ud83d\udcca SIGNAL REVIEW (1h later)\nhey.lol (HEY)\nLiquidity at flag: ~$42,328\nLiquidity now: ~$1\nChange: -100%"
-    },
-    {
-      "ts": 1789662143,
-      "type": "outcome",
-      "message": "\ud83d\udcca SIGNAL REVIEW (1h later)\njust a chip (CHIP)\nLiquidity at flag: ~$22,928\nLiquidity now: ~$0\nChange: -100%"
-    },
-    {
-      "ts": 1789662143,
-      "type": "outcome",
-      "message": "\ud83d\udcca SIGNAL REVIEW (4h later)\nMeme (Meme)\nLiquidity at flag: ~$27,153\nLiquidity now: ~$0\nChange: -100%"
-    },
-    {
-      "ts": 1789662142,
-      "type": "outcome",
-      "message": "\ud83d\udcca SIGNAL REVIEW (4h later)\nSOLO HUNTER (SOLHUNT)\nLiquidity at flag: ~$23,217\nLiquidity now: ~$2,150\nChange: -91%"
     }
   ]
 }
