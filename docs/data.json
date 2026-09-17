@@ -1,5 +1,5 @@
 {
-  "last_updated": 1789638607,
+  "last_updated": 1789639097,
   "wallets": [
     {
       "label": "Dev wallet 1",
@@ -80,14 +80,14 @@
   },
   "scanner_accuracy": {
     "60m": {
-      "count": 1231,
+      "count": 1234,
       "up_pct": 34,
-      "avg_change_pct": 29800175.6
+      "avg_change_pct": 29727727.6
     },
     "240m": {
-      "count": 2434,
-      "up_pct": 26,
-      "avg_change_pct": 15071467.8
+      "count": 2440,
+      "up_pct": 25,
+      "avg_change_pct": 15034406.7
     },
     "1440m": {
       "count": 2479,
@@ -97,6 +97,56 @@
   },
   "settings": {},
   "recent_alerts": [
+    {
+      "ts": 1789639097,
+      "type": "outcome",
+      "message": "\ud83d\udcca SIGNAL REVIEW (1h later)\nArgus (ARGUS)\nLiquidity at flag: ~$77,400\nLiquidity now: ~$0\nChange: -100%"
+    },
+    {
+      "ts": 1789639096,
+      "type": "outcome",
+      "message": "\ud83d\udcca SIGNAL REVIEW (1h later)\nVYBE (VYBE)\nLiquidity at flag: ~$24,358\nLiquidity now: ~$8,517\nChange: -65%"
+    },
+    {
+      "ts": 1789639095,
+      "type": "outcome",
+      "message": "\ud83d\udcca SIGNAL REVIEW (1h later)\nJustice For Lilly (Lilly)\nLiquidity at flag: ~$46,051\nLiquidity now: ~$0\nChange: -100%"
+    },
+    {
+      "ts": 1789639095,
+      "type": "outcome",
+      "message": "\ud83d\udcca SIGNAL REVIEW (4h later)\nMake A Wish (WISH)\nLiquidity at flag: ~$28,268\nLiquidity now: ~$0\nChange: -100%"
+    },
+    {
+      "ts": 1789639094,
+      "type": "outcome",
+      "message": "\ud83d\udcca SIGNAL REVIEW (4h later)\nKevin Startup Fund (KEVIN)\nLiquidity at flag: ~$87,948\nLiquidity now: ~$4\nChange: -100%"
+    },
+    {
+      "ts": 1789639093,
+      "type": "outcome",
+      "message": "\ud83d\udcca SIGNAL REVIEW (4h later)\nBlender Exchange (BLEND)\nLiquidity at flag: ~$57,105\nLiquidity now: ~$56,454\nChange: -1%"
+    },
+    {
+      "ts": 1789639092,
+      "type": "outcome",
+      "message": "\ud83d\udcca SIGNAL REVIEW (4h later)\nREAD READ (TCAT)\nLiquidity at flag: ~$49,958\nLiquidity now: ~$0\nChange: -100%"
+    },
+    {
+      "ts": 1789639091,
+      "type": "outcome",
+      "message": "\ud83d\udcca SIGNAL REVIEW (4h later)\nmusegram (musegram)\nLiquidity at flag: ~$37,728\nLiquidity now: ~$31,400\nChange: -17%"
+    },
+    {
+      "ts": 1789639091,
+      "type": "outcome",
+      "message": "\ud83d\udcca SIGNAL REVIEW (4h later)\nPalestine Children Relief Fund (PCRF)\nLiquidity at flag: ~$12,138\nLiquidity now: ~$15,411\nChange: +27%"
+    },
+    {
+      "ts": 1789639089,
+      "type": "scanner",
+      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\nMouseMind (MOUSE)\nOpportunity: 76/100\n\nMOMENTUM     100\nSAFETY       60\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$44,102, 14 min since pool creation\n\u2022 Up +471% in the last hour, ~$351,020 in 24h volume (8.0x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 94% of supply (very concentrated)\n\nCA: 5aavAAbCf7AtCyCc8hac5GQu6KBAg1vBJDz4XME6ecRd\nhttps://dexscreener.com/solana/5aavAAbCf7AtCyCc8hac5GQu6KBAg1vBJDz4XME6ecRd\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
+    },
     {
       "ts": 1789638607,
       "type": "outcome",
@@ -296,56 +346,6 @@
       "ts": 1789634919,
       "type": "outcome",
       "message": "\ud83d\udcca SIGNAL REVIEW (1h later)\nWANG (WANG)\nLiquidity at flag: ~$58,265\nLiquidity now: ~$0\nChange: -100%"
-    },
-    {
-      "ts": 1789634918,
-      "type": "outcome",
-      "message": "\ud83d\udcca SIGNAL REVIEW (1h later)\nJustice For Lilly (Lilly)\nLiquidity at flag: ~$31,197\nLiquidity now: ~$29,606\nChange: -5%"
-    },
-    {
-      "ts": 1789634917,
-      "type": "outcome",
-      "message": "\ud83d\udcca SIGNAL REVIEW (1h later)\n\u725b\u67652:\u8d77\u822a (\u725b\u67652:\u8d77\u822a)\nLiquidity at flag: ~$29,694\nLiquidity now: ~$0\nChange: -100%"
-    },
-    {
-      "ts": 1789634916,
-      "type": "outcome",
-      "message": "\ud83d\udcca SIGNAL REVIEW (1h later)\nJustice For Lilly (Lilly)\nLiquidity at flag: ~$26,727\nLiquidity now: ~$2\nChange: -100%"
-    },
-    {
-      "ts": 1789634915,
-      "type": "outcome",
-      "message": "\ud83d\udcca SIGNAL REVIEW (1h later)\nMILKERS (MILKERS)\nLiquidity at flag: ~$20,197\nLiquidity now: ~$10,827\nChange: -46%"
-    },
-    {
-      "ts": 1789634914,
-      "type": "outcome",
-      "message": "\ud83d\udcca SIGNAL REVIEW (4h later)\nCZCOIN (CZCOIN)\nLiquidity at flag: ~$52,763\nLiquidity now: ~$45,819\nChange: -13%"
-    },
-    {
-      "ts": 1789634913,
-      "type": "outcome",
-      "message": "\ud83d\udcca SIGNAL REVIEW (4h later)\nCZCOIN (CZCOIN)\nLiquidity at flag: ~$28,371\nLiquidity now: ~$36,866\nChange: +30%"
-    },
-    {
-      "ts": 1789634912,
-      "type": "outcome",
-      "message": "\ud83d\udcca SIGNAL REVIEW (4h later)\nArtificial Inu (AI)\nLiquidity at flag: ~$55,693\nLiquidity now: ~$57,165\nChange: +3%"
-    },
-    {
-      "ts": 1789634910,
-      "type": "scanner",
-      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\nPudgy Penguins (PENGU)\nOpportunity: 76/100\n\nMOMENTUM     100\nSAFETY       60\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$57,292, 16 min since pool creation\n\u2022 Up +158% in the last hour, ~$41,081 in 24h volume (0.7x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 89% of supply (very concentrated)\n\nCA: CUBPsKoP199nJF3TdBCYcn2bNVMCcYTqwAWPY6A9XQrs\nhttps://dexscreener.com/solana/CUBPsKoP199nJF3TdBCYcn2bNVMCcYTqwAWPY6A9XQrs\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
-    },
-    {
-      "ts": 1789634908,
-      "type": "scanner",
-      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 STRONG\ntit (tit)\nOpportunity: 81/100\n\nMOMENTUM     100\nSAFETY       75\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$38,041, 14 min since pool creation\n\u2022 Up +422% in the last hour, ~$194,546 in 24h volume (5.1x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 25/100):\n\u2022 top 10 holders own 66% of supply (concentrated)\n\nCA: 4CBu7RZ9kUH3np1xgXN18o7BzqiqZ2HqiEFCrHew44aj\nhttps://dexscreener.com/solana/4CBu7RZ9kUH3np1xgXN18o7BzqiqZ2HqiEFCrHew44aj\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
-    },
-    {
-      "ts": 1789634907,
-      "type": "scanner",
-      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\nBike Durov (BikeDurov)\nOpportunity: 75/100\n\nMOMENTUM     58\nSAFETY       100\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$24,282, 8 min since pool creation\n\u2022 Up +39% in the last hour, ~$171,232 in 24h volume (7.1x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Low, 0/100):\n\u2022 No major red flags found\n\nCA: 5adELLZPf2EH3CcBXhsrXLmrxGV5TDmfozTgGXhapump\nhttps://dexscreener.com/solana/5adELLZPf2EH3CcBXhsrXLmrxGV5TDmfozTgGXhapump\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
     }
   ]
 }
