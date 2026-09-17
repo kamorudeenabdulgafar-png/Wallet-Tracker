@@ -1,5 +1,5 @@
 {
-  "last_updated": 1789609239,
+  "last_updated": 1789610142,
   "wallets": [
     {
       "label": "Dev wallet 1",
@@ -80,14 +80,14 @@
   },
   "scanner_accuracy": {
     "60m": {
-      "count": 1114,
+      "count": 1117,
       "up_pct": 35,
-      "avg_change_pct": 32929999.6
+      "avg_change_pct": 32841557.2
     },
     "240m": {
-      "count": 2320,
+      "count": 2324,
       "up_pct": 26,
-      "avg_change_pct": 15812051.0
+      "avg_change_pct": 15784835.6
     },
     "1440m": {
       "count": 2479,
@@ -97,6 +97,41 @@
   },
   "settings": {},
   "recent_alerts": [
+    {
+      "ts": 1789610142,
+      "type": "outcome",
+      "message": "\ud83d\udcca SIGNAL REVIEW (1h later)\nVillain (IAmNotA)\nLiquidity at flag: ~$28,068\nLiquidity now: ~$0\nChange: -100%"
+    },
+    {
+      "ts": 1789610141,
+      "type": "outcome",
+      "message": "\ud83d\udcca SIGNAL REVIEW (1h later)\nNikita Boar (BOAR)\nLiquidity at flag: ~$49,313\nLiquidity now: ~$0\nChange: -100%"
+    },
+    {
+      "ts": 1789610140,
+      "type": "outcome",
+      "message": "\ud83d\udcca SIGNAL REVIEW (1h later)\nTag (TAG)\nLiquidity at flag: ~$31,392\nLiquidity now: ~$38,965\nChange: +24%"
+    },
+    {
+      "ts": 1789610139,
+      "type": "outcome",
+      "message": "\ud83d\udcca SIGNAL REVIEW (4h later)\nNUVEX (NUVEX)\nLiquidity at flag: ~$35,094\nLiquidity now: ~$2\nChange: -100%"
+    },
+    {
+      "ts": 1789610138,
+      "type": "outcome",
+      "message": "\ud83d\udcca SIGNAL REVIEW (4h later)\nDigital Investment & Crypto Keep (DICK)\nLiquidity at flag: ~$14,703\nLiquidity now: ~$2\nChange: -100%"
+    },
+    {
+      "ts": 1789610137,
+      "type": "outcome",
+      "message": "\ud83d\udcca SIGNAL REVIEW (4h later)\nDIVI (DIVI)\nLiquidity at flag: ~$49,336\nLiquidity now: ~$0\nChange: -100%"
+    },
+    {
+      "ts": 1789610136,
+      "type": "outcome",
+      "message": "\ud83d\udcca SIGNAL REVIEW (4h later)\nAmerican Reserve (AR)\nLiquidity at flag: ~$47,346\nLiquidity now: ~$30,072\nChange: -36%"
+    },
     {
       "ts": 1789609239,
       "type": "outcome",
@@ -311,41 +346,6 @@
       "ts": 1789604881,
       "type": "scanner",
       "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\n\u4e03\u9f99\u73e0 (\u5b59\u609f\u7a7a)\nOpportunity: 76/100\n\nMOMENTUM     100\nSAFETY       60\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$29,629, 12 min since pool creation\n\u2022 Up +97% in the last hour, ~$31,069 in 24h volume (1.0x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 94% of supply (very concentrated)\n\nCA: C52ksV8mxZCCWBTAy6zxSngpbS3XaS1gVv7MppTSUbsU\nhttps://dexscreener.com/solana/C52ksV8mxZCCWBTAy6zxSngpbS3XaS1gVv7MppTSUbsU\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
-    },
-    {
-      "ts": 1789604880,
-      "type": "scanner",
-      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\nCrowBrain (CrowBrain)\nOpportunity: 76/100\n\nMOMENTUM     100\nSAFETY       60\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$25,037, 11 min since pool creation\n\u2022 Up +68% in the last hour, ~$222,364 in 24h volume (8.9x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 89% of supply (very concentrated)\n\nCA: f9kGiVCoXJsHFw3NrUbk3CoF33g9nrSYQzuhN8rvVZd\nhttps://dexscreener.com/solana/f9kGiVCoXJsHFw3NrUbk3CoF33g9nrSYQzuhN8rvVZd\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
-    },
-    {
-      "ts": 1789604879,
-      "type": "scanner",
-      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 STRONG\nQuality Coin (QUALITY)\nOpportunity: 86/100\n\nMOMENTUM     100\nSAFETY       90\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$31,616, 10 min since pool creation\n\u2022 Up +98% in the last hour, ~$105,588 in 24h volume (3.3x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Low, 10/100):\n\u2022 top 10 holders own 35% of supply\n\nCA: Gwf3HKCCZfdNjcL6Q4ewcBRmHcD3KLtegc1uVZsNEaUa\nhttps://dexscreener.com/solana/Gwf3HKCCZfdNjcL6Q4ewcBRmHcD3KLtegc1uVZsNEaUa\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
-    },
-    {
-      "ts": 1789603614,
-      "type": "outcome",
-      "message": "\ud83d\udcca SIGNAL REVIEW (1h later)\n\u8df3\u86db (\u8df3\u86db)\nLiquidity at flag: ~$26,439\nLiquidity now: ~$24,556\nChange: -7%"
-    },
-    {
-      "ts": 1789603613,
-      "type": "outcome",
-      "message": "\ud83d\udcca SIGNAL REVIEW (1h later)\nPaid (PAID)\nLiquidity at flag: ~$41,997\nLiquidity now: ~$45,344\nChange: +8%"
-    },
-    {
-      "ts": 1789603612,
-      "type": "outcome",
-      "message": "\ud83d\udcca SIGNAL REVIEW (1h later)\nA Meme Coin (MEME)\nLiquidity at flag: ~$39,174\nLiquidity now: ~$4\nChange: -100%"
-    },
-    {
-      "ts": 1789603611,
-      "type": "outcome",
-      "message": "\ud83d\udcca SIGNAL REVIEW (1h later)\nPaid House (PAIDHOUSE)\nLiquidity at flag: ~$21,611\nLiquidity now: ~$2,331\nChange: -89%"
-    },
-    {
-      "ts": 1789603609,
-      "type": "outcome",
-      "message": "\ud83d\udcca SIGNAL REVIEW (1h later)\nSpiderbrain \u3002 (SPIDERBRAI)\nLiquidity at flag: ~$32,760\nLiquidity now: ~$32,760\nChange: +0%"
     }
   ]
 }
