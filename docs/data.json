@@ -1,5 +1,5 @@
 {
-  "last_updated": 1789662145,
+  "last_updated": 1789663066,
   "wallets": [
     {
       "label": "Dev wallet 1",
@@ -80,14 +80,14 @@
   },
   "scanner_accuracy": {
     "60m": {
-      "count": 1311,
+      "count": 1313,
       "up_pct": 33,
-      "avg_change_pct": 27981701.2
+      "avg_change_pct": 27939078.6
     },
     "240m": {
-      "count": 2522,
+      "count": 2526,
       "up_pct": 25,
-      "avg_change_pct": 14545577.4
+      "avg_change_pct": 14522543.9
     },
     "1440m": {
       "count": 2479,
@@ -97,6 +97,41 @@
   },
   "settings": {},
   "recent_alerts": [
+    {
+      "ts": 1789663066,
+      "type": "outcome",
+      "message": "\ud83d\udcca SIGNAL REVIEW (1h later)\nLeopardus tilcayo (Tilcayo)\nLiquidity at flag: ~$54,841\nLiquidity now: ~$32,769\nChange: -40%"
+    },
+    {
+      "ts": 1789663065,
+      "type": "outcome",
+      "message": "\ud83d\udcca SIGNAL REVIEW (1h later)\nPons ALL INU (PONSALLINU)\nLiquidity at flag: ~$23,570\nLiquidity now: ~$0\nChange: -100%"
+    },
+    {
+      "ts": 1789663065,
+      "type": "outcome",
+      "message": "\ud83d\udcca SIGNAL REVIEW (4h later)\nPaid (PAID)\nLiquidity at flag: ~$36,142\nLiquidity now: ~$1\nChange: -100%"
+    },
+    {
+      "ts": 1789663064,
+      "type": "outcome",
+      "message": "\ud83d\udcca SIGNAL REVIEW (4h later)\nGrokbook (GROKBOOK)\nLiquidity at flag: ~$29,617\nLiquidity now: ~$0\nChange: -100%"
+    },
+    {
+      "ts": 1789663063,
+      "type": "outcome",
+      "message": "\ud83d\udcca SIGNAL REVIEW (4h later)\nThe Duke of Arc (DUKE)\nLiquidity at flag: ~$15,247\nLiquidity now: ~$0\nChange: -100%"
+    },
+    {
+      "ts": 1789663062,
+      "type": "outcome",
+      "message": "\ud83d\udcca SIGNAL REVIEW (4h later)\nGrokbook (GROKBOOK)\nLiquidity at flag: ~$28,015\nLiquidity now: ~$0\nChange: -100%"
+    },
+    {
+      "ts": 1789663061,
+      "type": "scanner",
+      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 EXCEPTIONAL\nSven (SVEN)\nOpportunity: 90/100\n\nMOMENTUM     100\nSAFETY       100\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$31,844, 17 min since pool creation\n\u2022 Up +181% in the last hour, ~$74,044 in 24h volume (2.3x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Low, 0/100):\n\u2022 No major red flags found\n\nCA: DdWMWacKQKkfBZsXsbBnha6LxBfPdJeoBdsn5NYSpump\nhttps://dexscreener.com/solana/DdWMWacKQKkfBZsXsbBnha6LxBfPdJeoBdsn5NYSpump\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
+    },
     {
       "ts": 1789662145,
       "type": "outcome",
@@ -311,41 +346,6 @@
       "ts": 1789657949,
       "type": "scanner",
       "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\njust a chip (CHIP)\nOpportunity: 76/100\n\nMOMENTUM     100\nSAFETY       60\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$30,046, 14 min since pool creation\n\u2022 Up +134% in the last hour, ~$200,387 in 24h volume (6.7x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 83% of supply (very concentrated)\n\nCA: A7zBSFdsuhZgY4Q9qFMAt4CsaGUbRdb3274gBXBF3uRS\nhttps://dexscreener.com/solana/A7zBSFdsuhZgY4Q9qFMAt4CsaGUbRdb3274gBXBF3uRS\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
-    },
-    {
-      "ts": 1789657948,
-      "type": "scanner",
-      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\nhey.lol (HEY)\nOpportunity: 76/100\n\nMOMENTUM     100\nSAFETY       60\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$42,328, 14 min since pool creation\n\u2022 Up +315% in the last hour, ~$333,259 in 24h volume (7.9x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 91% of supply (very concentrated)\n\nCA: 3VCXQj6uCtrT4oQV3yRKVZjpDhz6JC9BAbstrUX8XyRL\nhttps://dexscreener.com/solana/3VCXQj6uCtrT4oQV3yRKVZjpDhz6JC9BAbstrUX8XyRL\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
-    },
-    {
-      "ts": 1789657945,
-      "type": "scanner",
-      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\njust a chip (CHIP)\nOpportunity: 74/100\n\nMOMENTUM     94\nSAFETY       60\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$22,928, 10 min since pool creation\n\u2022 Up +63% in the last hour, ~$127,965 in 24h volume (5.6x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 86% of supply (very concentrated)\n\nCA: 4HqMTQbkCypzg3Zy6pMNUD3B9KybJS6kwtBbaoHb1kX5\nhttps://dexscreener.com/solana/4HqMTQbkCypzg3Zy6pMNUD3B9KybJS6kwtBbaoHb1kX5\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
-    },
-    {
-      "ts": 1789657113,
-      "type": "outcome",
-      "message": "\ud83d\udcca SIGNAL REVIEW (1h later)\nGoogle (Google)\nLiquidity at flag: ~$30,490\nLiquidity now: ~$32,423\nChange: +6%"
-    },
-    {
-      "ts": 1789657112,
-      "type": "outcome",
-      "message": "\ud83d\udcca SIGNAL REVIEW (1h later)\nMemefighter (MEMEFIGHTER)\nLiquidity at flag: ~$29,641\nLiquidity now: ~$14,180\nChange: -52%"
-    },
-    {
-      "ts": 1789657111,
-      "type": "outcome",
-      "message": "\ud83d\udcca SIGNAL REVIEW (1h later)\nXPay (XPAY)\nLiquidity at flag: ~$31,387\nLiquidity now: ~$2,169\nChange: -93%"
-    },
-    {
-      "ts": 1789657110,
-      "type": "outcome",
-      "message": "\ud83d\udcca SIGNAL REVIEW (4h later)\naura (aura)\nLiquidity at flag: ~$47,719\nLiquidity now: ~$0\nChange: -100%"
-    },
-    {
-      "ts": 1789657109,
-      "type": "outcome",
-      "message": "\ud83d\udcca SIGNAL REVIEW (4h later)\nThe Duke of Arc (DUKE)\nLiquidity at flag: ~$64,961\nLiquidity now: ~$0\nChange: -100%"
     }
   ]
 }
