@@ -1,5 +1,5 @@
 {
-  "last_updated": 1789674782,
+  "last_updated": 1789675545,
   "wallets": [
     {
       "label": "Dev wallet 1",
@@ -9,7 +9,7 @@
   "wallet_stats": {
     "5CEbueQnq1Ym2uSSx2xXds3jQAqT1BDnkA59RZobSPAG": {
       "label": "Dev wallet 1",
-      "buy_count": 166,
+      "buy_count": 168,
       "sell_count": 100,
       "total_buy_usd": 15240.407820521046,
       "total_sell_usd": 0.0,
@@ -63,7 +63,7 @@
         "A1cr4bSAWKeSSmTXLrNuZmqL2Qk4waDWyNYzDfZkLz1s",
         "Dz9mQ9NzkBcCsuGPFJ3r1bS4wgqKMHBPiVuniW8Mbonk"
       ],
-      "last_active": 1789673724,
+      "last_active": 1789675531,
       "positions": {},
       "realized_pnl_usd": 0.0
     }
@@ -80,14 +80,14 @@
   },
   "scanner_accuracy": {
     "60m": {
-      "count": 1343,
+      "count": 1347,
       "up_pct": 33,
-      "avg_change_pct": 27314972.8
+      "avg_change_pct": 27233859.0
     },
     "240m": {
-      "count": 2561,
+      "count": 2563,
       "up_pct": 25,
-      "avg_change_pct": 14324069.9
+      "avg_change_pct": 14312892.3
     },
     "1440m": {
       "count": 2479,
@@ -97,6 +97,56 @@
   },
   "settings": {},
   "recent_alerts": [
+    {
+      "ts": 1789675545,
+      "type": "outcome",
+      "message": "\ud83d\udcca SIGNAL REVIEW (1h later)\naDogymous (ADOG)\nLiquidity at flag: ~$40,330\nLiquidity now: ~$0\nChange: -100%"
+    },
+    {
+      "ts": 1789675544,
+      "type": "outcome",
+      "message": "\ud83d\udcca SIGNAL REVIEW (1h later)\nChipPurr Jones (ChipPurr)\nLiquidity at flag: ~$25,447\nLiquidity now: ~$0\nChange: -100%"
+    },
+    {
+      "ts": 1789675543,
+      "type": "outcome",
+      "message": "\ud83d\udcca SIGNAL REVIEW (1h later)\nFINANCIAL PTSD (FPTSD)\nLiquidity at flag: ~$25,031\nLiquidity now: ~$2,241\nChange: -91%"
+    },
+    {
+      "ts": 1789675541,
+      "type": "outcome",
+      "message": "\ud83d\udcca SIGNAL REVIEW (1h later)\nFred (Fred)\nLiquidity at flag: ~$25,055\nLiquidity now: ~$0\nChange: -100%"
+    },
+    {
+      "ts": 1789675540,
+      "type": "outcome",
+      "message": "\ud83d\udcca SIGNAL REVIEW (4h later)\nRogecoin (ROGE)\nLiquidity at flag: ~$47,753\nLiquidity now: ~$0\nChange: -100%"
+    },
+    {
+      "ts": 1789675539,
+      "type": "outcome",
+      "message": "\ud83d\udcca SIGNAL REVIEW (4h later)\nXSEND (XSEND)\nLiquidity at flag: ~$32,126\nLiquidity now: ~$2,574\nChange: -92%"
+    },
+    {
+      "ts": 1789675538,
+      "type": "scanner",
+      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\nmusebook (musebook)\nOpportunity: 76/100\n\nMOMENTUM     100\nSAFETY       60\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$51,515, 18 min since pool creation\n\u2022 Up +72% in the last hour, ~$45,102 in 24h volume (0.9x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 85% of supply (very concentrated)\n\nCA: J9YnSZgvVQ1wkv2dcKnySoi39amPVSEyRv4xgM67Boj8\nhttps://dexscreener.com/solana/J9YnSZgvVQ1wkv2dcKnySoi39amPVSEyRv4xgM67Boj8\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
+    },
+    {
+      "ts": 1789675531,
+      "type": "wallet",
+      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: USDC -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/2S4BB9zdi2cZv8LgYDQ4frowCoV81myBjrqjPzyeyXcZDxrBa888HsoQJMNSoek7KiPbmaEGSNFQQpHEgAEJtU2Z"
+    },
+    {
+      "ts": 1789675531,
+      "type": "wallet",
+      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: USDC -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/2m26EStB5kYPz5kUfFU1aZ83dRWjnbLR6yZCidN6Jeo9nNEWacHsYPxsoNvHmTVuyBM2CxLuiao7uzyoCvxtiZXB"
+    },
+    {
+      "ts": 1789675530,
+      "type": "wallet",
+      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: xBTC -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/3XjP3Y3kVgNEZGrYZEwYK6dDiNtT29JSoFrqDq57XQTSo7QiAZRYP46dpkLpK9AAmXh8k3ve4SBhFqCyRGGWaoZz"
+    },
     {
       "ts": 1789674775,
       "type": "scanner",
@@ -296,56 +346,6 @@
       "ts": 1789670421,
       "type": "outcome",
       "message": "\ud83d\udcca SIGNAL REVIEW (4h later)\nxp (xp)\nLiquidity at flag: ~$42,354\nLiquidity now: ~$0\nChange: -100%"
-    },
-    {
-      "ts": 1789670420,
-      "type": "outcome",
-      "message": "\ud83d\udcca SIGNAL REVIEW (4h later)\nGungun (Gungun)\nLiquidity at flag: ~$38,239\nLiquidity now: ~$0\nChange: -100%"
-    },
-    {
-      "ts": 1789670419,
-      "type": "outcome",
-      "message": "\ud83d\udcca SIGNAL REVIEW (4h later)\nGungun (\u6eda\u6eda)\nLiquidity at flag: ~$40,255\nLiquidity now: ~$2\nChange: -100%"
-    },
-    {
-      "ts": 1789670418,
-      "type": "outcome",
-      "message": "\ud83d\udcca SIGNAL REVIEW (4h later)\nFly Trader (Fly)\nLiquidity at flag: ~$22,551\nLiquidity now: ~$0\nChange: -100%"
-    },
-    {
-      "ts": 1789669521,
-      "type": "outcome",
-      "message": "\ud83d\udcca SIGNAL REVIEW (1h later)\nGenius (Genius)\nLiquidity at flag: ~$52,707\nLiquidity now: ~$5\nChange: -100%"
-    },
-    {
-      "ts": 1789669519,
-      "type": "outcome",
-      "message": "\ud83d\udcca SIGNAL REVIEW (1h later)\nP(Doom) Perp (P(DOOM))\nLiquidity at flag: ~$26,694\nLiquidity now: ~$0\nChange: -100%"
-    },
-    {
-      "ts": 1789669518,
-      "type": "outcome",
-      "message": "\ud83d\udcca SIGNAL REVIEW (1h later)\nTrade (TRADE)\nLiquidity at flag: ~$24,600\nLiquidity now: ~$2,294\nChange: -91%"
-    },
-    {
-      "ts": 1789669517,
-      "type": "outcome",
-      "message": "\ud83d\udcca SIGNAL REVIEW (1h later)\nthe unexpected runner (PRECUM)\nLiquidity at flag: ~$17,694\nLiquidity now: ~$8,596\nChange: -51%"
-    },
-    {
-      "ts": 1789669516,
-      "type": "outcome",
-      "message": "\ud83d\udcca SIGNAL REVIEW (1h later)\nPairCountry (PC)\nLiquidity at flag: ~$23,166\nLiquidity now: ~$0\nChange: -100%"
-    },
-    {
-      "ts": 1789669515,
-      "type": "outcome",
-      "message": "\ud83d\udcca SIGNAL REVIEW (4h later)\nNinja (NInja)\nLiquidity at flag: ~$48,138\nLiquidity now: ~$0\nChange: -100%"
-    },
-    {
-      "ts": 1789669514,
-      "type": "outcome",
-      "message": "\ud83d\udcca SIGNAL REVIEW (4h later)\nFly Trader (Fly)\nLiquidity at flag: ~$25,957\nLiquidity now: ~$0\nChange: -100%"
     }
   ]
 }
