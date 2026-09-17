@@ -1,5 +1,5 @@
 {
-  "last_updated": 1789657113,
+  "last_updated": 1789657951,
   "wallets": [
     {
       "label": "Dev wallet 1",
@@ -80,14 +80,14 @@
   },
   "scanner_accuracy": {
     "60m": {
-      "count": 1298,
+      "count": 1299,
       "up_pct": 33,
-      "avg_change_pct": 28261950.2
+      "avg_change_pct": 28240193.5
     },
     "240m": {
-      "count": 2508,
+      "count": 2510,
       "up_pct": 25,
-      "avg_change_pct": 14626773.4
+      "avg_change_pct": 14615118.5
     },
     "1440m": {
       "count": 2479,
@@ -97,6 +97,36 @@
   },
   "settings": {},
   "recent_alerts": [
+    {
+      "ts": 1789657951,
+      "type": "outcome",
+      "message": "\ud83d\udcca SIGNAL REVIEW (1h later)\nINUmanoid (INUMANOID)\nLiquidity at flag: ~$26,683\nLiquidity now: ~$0\nChange: -100%"
+    },
+    {
+      "ts": 1789657951,
+      "type": "outcome",
+      "message": "\ud83d\udcca SIGNAL REVIEW (4h later)\nMona Lisa (Mona Lisa)\nLiquidity at flag: ~$40,174\nLiquidity now: ~$0\nChange: -100%"
+    },
+    {
+      "ts": 1789657950,
+      "type": "outcome",
+      "message": "\ud83d\udcca SIGNAL REVIEW (4h later)\nWinnie (WINNIE)\nLiquidity at flag: ~$26,967\nLiquidity now: ~$0\nChange: -100%"
+    },
+    {
+      "ts": 1789657949,
+      "type": "scanner",
+      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\njust a chip (CHIP)\nOpportunity: 76/100\n\nMOMENTUM     100\nSAFETY       60\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$30,046, 14 min since pool creation\n\u2022 Up +134% in the last hour, ~$200,387 in 24h volume (6.7x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 83% of supply (very concentrated)\n\nCA: A7zBSFdsuhZgY4Q9qFMAt4CsaGUbRdb3274gBXBF3uRS\nhttps://dexscreener.com/solana/A7zBSFdsuhZgY4Q9qFMAt4CsaGUbRdb3274gBXBF3uRS\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
+    },
+    {
+      "ts": 1789657948,
+      "type": "scanner",
+      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\nhey.lol (HEY)\nOpportunity: 76/100\n\nMOMENTUM     100\nSAFETY       60\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$42,328, 14 min since pool creation\n\u2022 Up +315% in the last hour, ~$333,259 in 24h volume (7.9x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 91% of supply (very concentrated)\n\nCA: 3VCXQj6uCtrT4oQV3yRKVZjpDhz6JC9BAbstrUX8XyRL\nhttps://dexscreener.com/solana/3VCXQj6uCtrT4oQV3yRKVZjpDhz6JC9BAbstrUX8XyRL\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
+    },
+    {
+      "ts": 1789657945,
+      "type": "scanner",
+      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\njust a chip (CHIP)\nOpportunity: 74/100\n\nMOMENTUM     94\nSAFETY       60\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$22,928, 10 min since pool creation\n\u2022 Up +63% in the last hour, ~$127,965 in 24h volume (5.6x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 86% of supply (very concentrated)\n\nCA: 4HqMTQbkCypzg3Zy6pMNUD3B9KybJS6kwtBbaoHb1kX5\nhttps://dexscreener.com/solana/4HqMTQbkCypzg3Zy6pMNUD3B9KybJS6kwtBbaoHb1kX5\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
+    },
     {
       "ts": 1789657113,
       "type": "outcome",
@@ -316,36 +346,6 @@
       "ts": 1789653342,
       "type": "outcome",
       "message": "\ud83d\udcca SIGNAL REVIEW (1h later)\nxp (xp)\nLiquidity at flag: ~$39,416\nLiquidity now: ~$46,531\nChange: +18%"
-    },
-    {
-      "ts": 1789653341,
-      "type": "outcome",
-      "message": "\ud83d\udcca SIGNAL REVIEW (1h later)\nArgus on Arc (ARGUS)\nLiquidity at flag: ~$67,839\nLiquidity now: ~$100,073\nChange: +48%"
-    },
-    {
-      "ts": 1789653340,
-      "type": "outcome",
-      "message": "\ud83d\udcca SIGNAL REVIEW (1h later)\nKojo The Squirrel (KOJO)\nLiquidity at flag: ~$26,698\nLiquidity now: ~$8,594\nChange: -68%"
-    },
-    {
-      "ts": 1789653339,
-      "type": "outcome",
-      "message": "\ud83d\udcca SIGNAL REVIEW (4h later)\nMILKERS (MILKERS)\nLiquidity at flag: ~$53,222\nLiquidity now: ~$0\nChange: -100%"
-    },
-    {
-      "ts": 1789653337,
-      "type": "outcome",
-      "message": "\ud83d\udcca SIGNAL REVIEW (4h later)\nTRUMP (TRUMP)\nLiquidity at flag: ~$26,536\nLiquidity now: ~$2,904\nChange: -89%"
-    },
-    {
-      "ts": 1789653336,
-      "type": "outcome",
-      "message": "\ud83d\udcca SIGNAL REVIEW (4h later)\nThe UnderDog (UNDERDOG)\nLiquidity at flag: ~$25,380\nLiquidity now: ~$0\nChange: -100%"
-    },
-    {
-      "ts": 1789653335,
-      "type": "scanner",
-      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\nGoogle (Google)\nOpportunity: 76/100\n\nMOMENTUM     100\nSAFETY       60\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$30,490, 22 min since pool creation\n\u2022 Up +69% in the last hour, ~$52,506 in 24h volume (1.7x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 89% of supply (very concentrated)\n\nCA: 4fG5Y6rQgtUjpoo6uc9cVjhvZv2jWfwkR33UYR2wBbFA\nhttps://dexscreener.com/solana/4fG5Y6rQgtUjpoo6uc9cVjhvZv2jWfwkR33UYR2wBbFA\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
     }
   ]
 }
