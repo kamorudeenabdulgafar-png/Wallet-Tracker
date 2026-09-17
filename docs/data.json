@@ -1,5 +1,5 @@
 {
-  "last_updated": 1789645006,
+  "last_updated": 1789645662,
   "wallets": [
     {
       "label": "Dev wallet 1",
@@ -9,7 +9,7 @@
   "wallet_stats": {
     "5CEbueQnq1Ym2uSSx2xXds3jQAqT1BDnkA59RZobSPAG": {
       "label": "Dev wallet 1",
-      "buy_count": 163,
+      "buy_count": 164,
       "sell_count": 99,
       "total_buy_usd": 15240.407820521046,
       "total_sell_usd": 0.0,
@@ -63,7 +63,7 @@
         "A1cr4bSAWKeSSmTXLrNuZmqL2Qk4waDWyNYzDfZkLz1s",
         "Dz9mQ9NzkBcCsuGPFJ3r1bS4wgqKMHBPiVuniW8Mbonk"
       ],
-      "last_active": 1789640933,
+      "last_active": 1789645656,
       "positions": {},
       "realized_pnl_usd": 0.0
     }
@@ -80,9 +80,9 @@
   },
   "scanner_accuracy": {
     "60m": {
-      "count": 1255,
+      "count": 1258,
       "up_pct": 34,
-      "avg_change_pct": 29230290.5
+      "avg_change_pct": 29160583.7
     },
     "240m": {
       "count": 2461,
@@ -97,6 +97,26 @@
   },
   "settings": {},
   "recent_alerts": [
+    {
+      "ts": 1789645662,
+      "type": "outcome",
+      "message": "\ud83d\udcca SIGNAL REVIEW (1h later)\n\u565c\u565c (\u565c\u565c)\nLiquidity at flag: ~$29,984\nLiquidity now: ~$0\nChange: -100%"
+    },
+    {
+      "ts": 1789645660,
+      "type": "outcome",
+      "message": "\ud83d\udcca SIGNAL REVIEW (1h later)\n\u565c\u565c (\u565c\u565c)\nLiquidity at flag: ~$40,710\nLiquidity now: ~$1\nChange: -100%"
+    },
+    {
+      "ts": 1789645659,
+      "type": "outcome",
+      "message": "\ud83d\udcca SIGNAL REVIEW (1h later)\nWinnie (WINNIE)\nLiquidity at flag: ~$21,926\nLiquidity now: ~$8,482\nChange: -61%"
+    },
+    {
+      "ts": 1789645656,
+      "type": "wallet",
+      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: USDC -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/4qFkAd9ZmQBkmGV2cJQMMCCzhVKKxXrTLoHBy9yTfABzBpvX2jaSnEMUk9ukjED4QBTPcSarfasjimKp2yvEZcWS"
+    },
     {
       "ts": 1789645006,
       "type": "outcome",
@@ -326,26 +346,6 @@
       "ts": 1789640944,
       "type": "outcome",
       "message": "\ud83d\udcca SIGNAL REVIEW (1h later)\nJustice For Lilly (Lilly)\nLiquidity at flag: ~$25,150\nLiquidity now: ~$35,129\nChange: +40%"
-    },
-    {
-      "ts": 1789640943,
-      "type": "outcome",
-      "message": "\ud83d\udcca SIGNAL REVIEW (1h later)\nxp (xp)\nLiquidity at flag: ~$48,605\nLiquidity now: ~$0\nChange: -100%"
-    },
-    {
-      "ts": 1789640942,
-      "type": "outcome",
-      "message": "\ud83d\udcca SIGNAL REVIEW (1h later)\nMEME (MEME)\nLiquidity at flag: ~$27,869\nLiquidity now: ~$0\nChange: -100%"
-    },
-    {
-      "ts": 1789640941,
-      "type": "outcome",
-      "message": "\ud83d\udcca SIGNAL REVIEW (4h later)\n\u5fb7\u5f17\u6d1b\u514b (\u5fb7\u5f17\u6d1b\u514b)\nLiquidity at flag: ~$28,575\nLiquidity now: ~$28,575\nChange: +0%"
-    },
-    {
-      "ts": 1789640941,
-      "type": "outcome",
-      "message": "\ud83d\udcca SIGNAL REVIEW (4h later)\nmusegram (musegram)\nLiquidity at flag: ~$26,150\nLiquidity now: ~$26,150\nChange: +0%"
     }
   ]
 }
