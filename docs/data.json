@@ -1,5 +1,5 @@
 {
-  "last_updated": 1789605874,
+  "last_updated": 1789606694,
   "wallets": [
     {
       "label": "Dev wallet 1",
@@ -9,9 +9,9 @@
   "wallet_stats": {
     "5CEbueQnq1Ym2uSSx2xXds3jQAqT1BDnkA59RZobSPAG": {
       "label": "Dev wallet 1",
-      "buy_count": 161,
+      "buy_count": 162,
       "sell_count": 98,
-      "total_buy_usd": 15125.670962659207,
+      "total_buy_usd": 15233.573690254807,
       "total_sell_usd": 0.0,
       "tokens_traded": [
         "6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx",
@@ -63,7 +63,7 @@
         "A1cr4bSAWKeSSmTXLrNuZmqL2Qk4waDWyNYzDfZkLz1s",
         "Dz9mQ9NzkBcCsuGPFJ3r1bS4wgqKMHBPiVuniW8Mbonk"
       ],
-      "last_active": 1789592985,
+      "last_active": 1789606690,
       "positions": {},
       "realized_pnl_usd": 0.0
     }
@@ -97,6 +97,26 @@
   },
   "settings": {},
   "recent_alerts": [
+    {
+      "ts": 1789606693,
+      "type": "scanner",
+      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 STRONG\nx17z (X17Z)\nOpportunity: 81/100\n\nMOMENTUM     100\nSAFETY       75\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$31,999, 12 min since pool creation\n\u2022 Up +82% in the last hour, ~$200,201 in 24h volume (6.3x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 25/100):\n\u2022 top 10 holders own 66% of supply (concentrated)\n\nCA: 9XmLQxCwFW6XMobDFpXo7ZwBH54RN9djJuD9L7RASAJK\nhttps://dexscreener.com/solana/9XmLQxCwFW6XMobDFpXo7ZwBH54RN9djJuD9L7RASAJK\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
+    },
+    {
+      "ts": 1789606692,
+      "type": "scanner",
+      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\nTIMELESS (TIMELESS)\nOpportunity: 76/100\n\nMOMENTUM     100\nSAFETY       60\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$21,627, 7 min since pool creation\n\u2022 Up +150% in the last hour, ~$701,494 in 24h volume (32.4x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 99% of supply (very concentrated)\n\nCA: 2Bhk4HKcgCTDXRaRsu2dq4tKgJbYCDn3hBjPCMPPFDza\nhttps://dexscreener.com/solana/2Bhk4HKcgCTDXRaRsu2dq4tKgJbYCDn3hBjPCMPPFDza\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
+    },
+    {
+      "ts": 1789606690,
+      "type": "wallet",
+      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: 1.0932 SOL (~$107.90) -> STONK\nTrade size: ~$107.90\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/2BP7HLLZa5HPgcguitDcb1DgKZpk6yTnB7yYU8tSuuoXPvQyAbB8GbYHMxcigv6L244SjyVVphyLnXAxE3EDF6Z7"
+    },
+    {
+      "ts": 1789606689,
+      "type": "wallet",
+      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: USELESS -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/3zPk8eue9mMA5qVjDf7aMQYjwmUAEjSpY39oMC5A1dLy8kJG4TdoAe9ejVjQzoWVyMcsSje22A9Zquszy5jVa4La"
+    },
     {
       "ts": 1789605874,
       "type": "outcome",
@@ -326,26 +346,6 @@
       "ts": 1789599918,
       "type": "scanner",
       "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\n\u8df3\u86db (\u8df3\u86db)\nOpportunity: 76/100\n\nMOMENTUM     100\nSAFETY       60\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$26,439, 10 min since pool creation\n\u2022 Up +91% in the last hour, ~$125,597 in 24h volume (4.8x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 95% of supply (very concentrated)\n\nCA: PpE6JcNj1RxK5Zntpy8zQdXViuAW4PESPSWWD6jk3uB\nhttps://dexscreener.com/solana/PpE6JcNj1RxK5Zntpy8zQdXViuAW4PESPSWWD6jk3uB\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
-    },
-    {
-      "ts": 1789599917,
-      "type": "scanner",
-      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 STRONG\nPaid (PAID)\nOpportunity: 81/100\n\nMOMENTUM     100\nSAFETY       75\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$41,997, 9 min since pool creation\n\u2022 Up +453% in the last hour, ~$60,863 in 24h volume (1.4x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 25/100):\n\u2022 top 10 holders own 53% of supply (concentrated)\n\nCA: 5gufFvC7sbrvVHmGGQD7aPKfzy69fUNa52X2Pk4vjEn1\nhttps://dexscreener.com/solana/5gufFvC7sbrvVHmGGQD7aPKfzy69fUNa52X2Pk4vjEn1\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
-    },
-    {
-      "ts": 1789599916,
-      "type": "scanner",
-      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\nA Meme Coin (MEME)\nOpportunity: 76/100\n\nMOMENTUM     100\nSAFETY       60\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$39,174, 7 min since pool creation\n\u2022 Up +183% in the last hour, ~$292,291 in 24h volume (7.5x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 92% of supply (very concentrated)\n\nCA: CNTyuwHDxmGGfZa8rqM3VZvteD8xgPKtMZ9dkBKW1GXV\nhttps://dexscreener.com/solana/CNTyuwHDxmGGfZa8rqM3VZvteD8xgPKtMZ9dkBKW1GXV\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
-    },
-    {
-      "ts": 1789599217,
-      "type": "outcome",
-      "message": "\ud83d\udcca SIGNAL REVIEW (1h later)\nDIVI (DIVI)\nLiquidity at flag: ~$49,336\nLiquidity now: ~$0\nChange: -100%"
-    },
-    {
-      "ts": 1789599216,
-      "type": "outcome",
-      "message": "\ud83d\udcca SIGNAL REVIEW (1h later)\nAmerican Reserve (AR)\nLiquidity at flag: ~$47,346\nLiquidity now: ~$30,072\nChange: -36%"
     }
   ]
 }
