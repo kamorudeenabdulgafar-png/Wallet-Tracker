@@ -15208,7 +15208,8 @@
     "liquidity_at_flag": 47345.96277939497,
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "3dHpr6p61q9jFgjp1aodkR7io52YhWuL6ig6Bn8kqwgp": {
@@ -15218,7 +15219,8 @@
     "liquidity_at_flag": 49336.061685974055,
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "G16Qpr5tqyDndSgNMXcUWLpV1t258RJMtzEtqi9ssvHb": {
@@ -18152,7 +18154,9 @@
     "symbol": "SWOGE",
     "flagged_ts": 1789677914,
     "liquidity_at_flag": 29321.472988324123,
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "E7AymCqqQBuhqmL2HekUE6NNsgQnMc4R2zseG1RYkTrq": {
     "name": "Mooncat",
@@ -18215,6 +18219,20 @@
     "symbol": "GIB",
     "flagged_ts": 1789681405,
     "liquidity_at_flag": 20686.259955245314,
+    "checkpoints_done": []
+  },
+  "4YvXRPuqr2tifmMYSJvrqs6qwZHyWnqAcAGAVCFWTWG5": {
+    "name": "Mooncat",
+    "symbol": "MCAT",
+    "flagged_ts": 1789681983,
+    "liquidity_at_flag": 23204.22701522957,
+    "checkpoints_done": []
+  },
+  "Cf5crwAiacJL5v8Vadd5XQqLaVQPVkBEaWr1BbuViF4B": {
+    "name": "Solana Dog",
+    "symbol": "SOLDOG",
+    "flagged_ts": 1789681983,
+    "liquidity_at_flag": 24207.480527095417,
     "checkpoints_done": []
   }
 }
