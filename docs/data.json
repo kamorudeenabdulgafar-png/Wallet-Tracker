@@ -1,5 +1,5 @@
 {
-  "last_updated": 1789653991,
+  "last_updated": 1789655067,
   "wallets": [
     {
       "label": "Dev wallet 1",
@@ -80,14 +80,14 @@
   },
   "scanner_accuracy": {
     "60m": {
-      "count": 1286,
-      "up_pct": 34,
-      "avg_change_pct": 28525670.5
+      "count": 1288,
+      "up_pct": 33,
+      "avg_change_pct": 28481375.9
     },
     "240m": {
-      "count": 2492,
+      "count": 2498,
       "up_pct": 25,
-      "avg_change_pct": 14720685.8
+      "avg_change_pct": 14685327.7
     },
     "1440m": {
       "count": 2479,
@@ -97,6 +97,56 @@
   },
   "settings": {},
   "recent_alerts": [
+    {
+      "ts": 1789655067,
+      "type": "outcome",
+      "message": "\ud83d\udcca SIGNAL REVIEW (1h later)\nCYBER SHIB (CYBERSHIB)\nLiquidity at flag: ~$22,022\nLiquidity now: ~$2,381\nChange: -89%"
+    },
+    {
+      "ts": 1789655066,
+      "type": "outcome",
+      "message": "\ud83d\udcca SIGNAL REVIEW (1h later)\nKojo The Squirrel (KOJO)\nLiquidity at flag: ~$15,066\nLiquidity now: ~$1\nChange: -100%"
+    },
+    {
+      "ts": 1789655065,
+      "type": "outcome",
+      "message": "\ud83d\udcca SIGNAL REVIEW (4h later)\nTRUMP (TRUMP)\nLiquidity at flag: ~$24,849\nLiquidity now: ~$0\nChange: -100%"
+    },
+    {
+      "ts": 1789655064,
+      "type": "outcome",
+      "message": "\ud83d\udcca SIGNAL REVIEW (4h later)\nmusebook (MUSEBOOK)\nLiquidity at flag: ~$61,772\nLiquidity now: ~$107,179\nChange: +74%"
+    },
+    {
+      "ts": 1789655062,
+      "type": "outcome",
+      "message": "\ud83d\udcca SIGNAL REVIEW (4h later)\nCube (CUBE)\nLiquidity at flag: ~$19,813\nLiquidity now: ~$8,523\nChange: -57%"
+    },
+    {
+      "ts": 1789655061,
+      "type": "outcome",
+      "message": "\ud83d\udcca SIGNAL REVIEW (4h later)\nArgus (ARGUS)\nLiquidity at flag: ~$64,342\nLiquidity now: ~$0\nChange: -100%"
+    },
+    {
+      "ts": 1789655060,
+      "type": "outcome",
+      "message": "\ud83d\udcca SIGNAL REVIEW (4h later)\nCube (CUBE)\nLiquidity at flag: ~$31,742\nLiquidity now: ~$0\nChange: -100%"
+    },
+    {
+      "ts": 1789655059,
+      "type": "outcome",
+      "message": "\ud83d\udcca SIGNAL REVIEW (4h later)\nCube (CUBE)\nLiquidity at flag: ~$24,281\nLiquidity now: ~$1\nChange: -100%"
+    },
+    {
+      "ts": 1789655058,
+      "type": "scanner",
+      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 STRONG\nNinja (NInja)\nOpportunity: 81/100\n\nMOMENTUM     100\nSAFETY       75\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$48,138, 14 min since pool creation\n\u2022 Up +592% in the last hour, ~$219,614 in 24h volume (4.6x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 25/100):\n\u2022 top 10 holders own 52% of supply (concentrated)\n\nCA: 5fsmd2SyouDMZiKyDcKnZkw2LT6aH3dZESzJzqD5aUS1\nhttps://dexscreener.com/solana/5fsmd2SyouDMZiKyDcKnZkw2LT6aH3dZESzJzqD5aUS1\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
+    },
+    {
+      "ts": 1789655056,
+      "type": "scanner",
+      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\nFly Trader (Fly)\nOpportunity: 76/100\n\nMOMENTUM     100\nSAFETY       60\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$25,957, 6 min since pool creation\n\u2022 Up +94% in the last hour, ~$60,879 in 24h volume (2.3x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 71% of supply (very concentrated)\n\nCA: 3cXm9cFoPrc12BKaEnmADEHxGA2hNtKYuQryjpZW96jT\nhttps://dexscreener.com/solana/3cXm9cFoPrc12BKaEnmADEHxGA2hNtKYuQryjpZW96jT\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
+    },
     {
       "ts": 1789653991,
       "type": "outcome",
@@ -296,56 +346,6 @@
       "ts": 1789650803,
       "type": "outcome",
       "message": "\ud83d\udcca SIGNAL REVIEW (4h later)\nVYBE (VYBE)\nLiquidity at flag: ~$23,362\nLiquidity now: ~$0\nChange: -100%"
-    },
-    {
-      "ts": 1789650802,
-      "type": "scanner",
-      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 STRONG\nCYBER SHIB (CYBERSHIB)\nOpportunity: 86/100\n\nMOMENTUM     100\nSAFETY       90\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$22,022, 16 min since pool creation\n\u2022 Up +105% in the last hour, ~$371,720 in 24h volume (16.9x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Low, 10/100):\n\u2022 top 10 holders own 31% of supply\n\nCA: DNFovt37uRHFuo9KDrKM2xLDD3zS36Jtu2TuBiD6pump\nhttps://dexscreener.com/solana/DNFovt37uRHFuo9KDrKM2xLDD3zS36Jtu2TuBiD6pump\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
-    },
-    {
-      "ts": 1789650801,
-      "type": "scanner",
-      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\nKojo The Squirrel (KOJO)\nOpportunity: 71/100\n\nMOMENTUM     100\nSAFETY       60\nLIQUIDITY    75\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$15,066, 9 min since pool creation\n\u2022 Up +76% in the last hour, ~$198,060 in 24h volume (13.1x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 94% of supply (very concentrated)\n\nCA: 2GBAtvtJYmmeSBeAESsUMfBFspXnAo6RPAdgHLgFHDNT\nhttps://dexscreener.com/solana/2GBAtvtJYmmeSBeAESsUMfBFspXnAo6RPAdgHLgFHDNT\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
-    },
-    {
-      "ts": 1789649916,
-      "type": "outcome",
-      "message": "\ud83d\udcca SIGNAL REVIEW (1h later)\nThe Duke of Arc (DUKE)\nLiquidity at flag: ~$104,741\nLiquidity now: ~$0\nChange: -100%"
-    },
-    {
-      "ts": 1789649915,
-      "type": "outcome",
-      "message": "\ud83d\udcca SIGNAL REVIEW (1h later)\nSAD DONK (SADD)\nLiquidity at flag: ~$25,574\nLiquidity now: ~$4,270\nChange: -83%"
-    },
-    {
-      "ts": 1789649914,
-      "type": "outcome",
-      "message": "\ud83d\udcca SIGNAL REVIEW (4h later)\nArgus (ARGUS)\nLiquidity at flag: ~$77,400\nLiquidity now: ~$0\nChange: -100%"
-    },
-    {
-      "ts": 1789649913,
-      "type": "outcome",
-      "message": "\ud83d\udcca SIGNAL REVIEW (4h later)\nVYBE (VYBE)\nLiquidity at flag: ~$24,358\nLiquidity now: ~$8,517\nChange: -65%"
-    },
-    {
-      "ts": 1789649912,
-      "type": "outcome",
-      "message": "\ud83d\udcca SIGNAL REVIEW (4h later)\nJustice For Lilly (Lilly)\nLiquidity at flag: ~$46,051\nLiquidity now: ~$0\nChange: -100%"
-    },
-    {
-      "ts": 1789649911,
-      "type": "outcome",
-      "message": "\ud83d\udcca SIGNAL REVIEW (4h later)\nPudgy Penguins (PENGU)\nLiquidity at flag: ~$57,292\nLiquidity now: ~$0\nChange: -100%"
-    },
-    {
-      "ts": 1789649910,
-      "type": "outcome",
-      "message": "\ud83d\udcca SIGNAL REVIEW (4h later)\ntit (tit)\nLiquidity at flag: ~$38,041\nLiquidity now: ~$0\nChange: -100%"
-    },
-    {
-      "ts": 1789649909,
-      "type": "outcome",
-      "message": "\ud83d\udcca SIGNAL REVIEW (4h later)\nBike Durov (BikeDurov)\nLiquidity at flag: ~$24,282\nLiquidity now: ~$2,394\nChange: -90%"
     }
   ]
 }
