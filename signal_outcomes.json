@@ -15032,7 +15032,8 @@
     "liquidity_at_flag": 21185.119629698078,
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "PyLMFBFbjcHsreQRh886YRv1v1kNdJ9UvbMBoSCRSvJ": {
@@ -15042,7 +15043,8 @@
     "liquidity_at_flag": 41196.140157434944,
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "6unf4HeFkU2wPkd4aq5vuy7sSkU74J36bHJREyt2iLzq": {
@@ -17741,7 +17743,8 @@
     "flagged_ts": 1789669503,
     "liquidity_at_flag": 24760.73365596432,
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "F8qgDj6LqA6fPAoMzD4Yj2z3DP5ftTAwxyrb8zg7Q6BF": {
@@ -17750,7 +17753,8 @@
     "flagged_ts": 1789669510,
     "liquidity_at_flag": 47429.251619251954,
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "5K5vmQQXuce8H3wpTNP3ecwsBoMiztpBv72vkgEm3WQz": {
@@ -17759,7 +17763,8 @@
     "flagged_ts": 1789669511,
     "liquidity_at_flag": 96984.21263924336,
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "6psjFQUc21f7akpgAiZZSmTz8mY3BiwnE376P59x8jA": {
@@ -17768,7 +17773,8 @@
     "flagged_ts": 1789669513,
     "liquidity_at_flag": 234900.8969475092,
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "4BLPvgH1YsDRMYSwyBXk1DbH5SSnwNrXw7HBVDNpqMjh": {
@@ -17965,14 +17971,18 @@
     "symbol": "HOUND",
     "flagged_ts": 1789680008,
     "liquidity_at_flag": 29017.877965389795,
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "EZCkquQFJUBjNEibUhs43aQuR5kRf9tHqi87p2V64fpJ": {
     "name": "Zillions",
     "symbol": "ZILLIONS",
     "flagged_ts": 1789680010,
     "liquidity_at_flag": 44063.56171926294,
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "7rgySLWihMEQ8zk5kYZTBQj4w8RthwxzYnSzsBqcGiwB": {
     "name": "Mooncat",
@@ -18042,6 +18052,27 @@
     "symbol": "MCAT",
     "flagged_ts": 1789683562,
     "liquidity_at_flag": 31989.72155233325,
+    "checkpoints_done": []
+  },
+  "FJFXTLThAr3N8k7BtMjs2gjJsXZXZubCqTC9nzL8nrH9": {
+    "name": "Ronnie",
+    "symbol": "Ronnie",
+    "flagged_ts": 1789684155,
+    "liquidity_at_flag": 22270.464417809453,
+    "checkpoints_done": []
+  },
+  "8FVQBBRvt6fZ4UF85FXjEq21J9vpw2WXc7pHri3kKeLD": {
+    "name": "allow.fun",
+    "symbol": "ALLOW",
+    "flagged_ts": 1789684157,
+    "liquidity_at_flag": 41460.728146817,
+    "checkpoints_done": []
+  },
+  "EtvRpRc9WT5WbJVdRozm5uD2hyYDAxKn2F5datZWpump": {
+    "name": "Clong",
+    "symbol": "CLONG",
+    "flagged_ts": 1789684158,
+    "liquidity_at_flag": 27182.063182358812,
     "checkpoints_done": []
   }
 }
