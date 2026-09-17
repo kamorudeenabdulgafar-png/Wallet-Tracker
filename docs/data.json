@@ -1,5 +1,5 @@
 {
-  "last_updated": 1789607496,
+  "last_updated": 1789608510,
   "wallets": [
     {
       "label": "Dev wallet 1",
@@ -80,14 +80,14 @@
   },
   "scanner_accuracy": {
     "60m": {
-      "count": 1110,
+      "count": 1114,
       "up_pct": 35,
-      "avg_change_pct": 33048666.4
+      "avg_change_pct": 32929999.6
     },
     "240m": {
-      "count": 2316,
+      "count": 2318,
       "up_pct": 26,
-      "avg_change_pct": 15839360.4
+      "avg_change_pct": 15825693.9
     },
     "1440m": {
       "count": 2479,
@@ -97,6 +97,51 @@
   },
   "settings": {},
   "recent_alerts": [
+    {
+      "ts": 1789608510,
+      "type": "outcome",
+      "message": "\ud83d\udcca SIGNAL REVIEW (1h later)\nPaid Cate (PAIDCATE)\nLiquidity at flag: ~$23,825\nLiquidity now: ~$8,402\nChange: -65%"
+    },
+    {
+      "ts": 1789608509,
+      "type": "outcome",
+      "message": "\ud83d\udcca SIGNAL REVIEW (1h later)\n\u4e03\u9f99\u73e0 (\u5b59\u609f\u7a7a)\nLiquidity at flag: ~$29,629\nLiquidity now: ~$0\nChange: -100%"
+    },
+    {
+      "ts": 1789608508,
+      "type": "outcome",
+      "message": "\ud83d\udcca SIGNAL REVIEW (1h later)\nCrowBrain (CrowBrain)\nLiquidity at flag: ~$25,037\nLiquidity now: ~$25,037\nChange: +0%"
+    },
+    {
+      "ts": 1789608507,
+      "type": "outcome",
+      "message": "\ud83d\udcca SIGNAL REVIEW (1h later)\nQuality Coin (QUALITY)\nLiquidity at flag: ~$31,616\nLiquidity now: ~$32,411\nChange: +3%"
+    },
+    {
+      "ts": 1789608506,
+      "type": "outcome",
+      "message": "\ud83d\udcca SIGNAL REVIEW (4h later)\nClashy (CLASHY)\nLiquidity at flag: ~$38,710\nLiquidity now: ~$3,878\nChange: -90%"
+    },
+    {
+      "ts": 1789608505,
+      "type": "outcome",
+      "message": "\ud83d\udcca SIGNAL REVIEW (4h later)\nClashy (CLASHY)\nLiquidity at flag: ~$23,129\nLiquidity now: ~$0\nChange: -100%"
+    },
+    {
+      "ts": 1789608504,
+      "type": "scanner",
+      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 STRONG\nMempool Moth (Moth)\nOpportunity: 81/100\n\nMOMENTUM     100\nSAFETY       75\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$37,286, 13 min since pool creation\n\u2022 Up +224% in the last hour, ~$251,749 in 24h volume (6.8x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 25/100):\n\u2022 top 10 holders own 52% of supply (concentrated)\n\nCA: 7YFjBsHiX1jWqhdds8j72TFqwjL4FnmfZLbPCh4t1zes\nhttps://dexscreener.com/solana/7YFjBsHiX1jWqhdds8j72TFqwjL4FnmfZLbPCh4t1zes\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
+    },
+    {
+      "ts": 1789608503,
+      "type": "scanner",
+      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\nMempool Moth (MOTH)\nOpportunity: 76/100\n\nMOMENTUM     100\nSAFETY       60\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$27,668, 13 min since pool creation\n\u2022 Up +112% in the last hour, ~$254,071 in 24h volume (9.2x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 79% of supply (very concentrated)\n\nCA: EhfAJ9kzHRJvwxeEvM26fkvFeoYs7QLyWjM6Gqd7PJDt\nhttps://dexscreener.com/solana/EhfAJ9kzHRJvwxeEvM26fkvFeoYs7QLyWjM6Gqd7PJDt\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
+    },
+    {
+      "ts": 1789608498,
+      "type": "scanner",
+      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 STRONG\nKevin Startup Fund (KEVIN)\nOpportunity: 86/100\n\nMOMENTUM     100\nSAFETY       90\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$23,086, 8 min since pool creation\n\u2022 Up +84% in the last hour, ~$57,360 in 24h volume (2.5x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Low, 10/100):\n\u2022 top 10 holders own 32% of supply\n\nCA: GZik7vJSnDAao9tbbcLrMGKfxLu7VCjoAtkDhsv8A3iE\nhttps://dexscreener.com/solana/GZik7vJSnDAao9tbbcLrMGKfxLu7VCjoAtkDhsv8A3iE\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
+    },
     {
       "ts": 1789607496,
       "type": "outcome",
@@ -301,51 +346,6 @@
       "ts": 1789602770,
       "type": "outcome",
       "message": "\ud83d\udcca SIGNAL REVIEW (1h later)\nAbsolutely Retarded Chain (ARC)\nLiquidity at flag: ~$30,931\nLiquidity now: ~$0\nChange: -100%"
-    },
-    {
-      "ts": 1789602769,
-      "type": "outcome",
-      "message": "\ud83d\udcca SIGNAL REVIEW (1h later)\nSPIDERBRAIN (SPIDBRAIN)\nLiquidity at flag: ~$25,541\nLiquidity now: ~$0\nChange: -100%"
-    },
-    {
-      "ts": 1789602768,
-      "type": "outcome",
-      "message": "\ud83d\udcca SIGNAL REVIEW (1h later)\nAbsolutely Retarded Chain (ARC)\nLiquidity at flag: ~$29,454\nLiquidity now: ~$0\nChange: -100%"
-    },
-    {
-      "ts": 1789602767,
-      "type": "outcome",
-      "message": "\ud83d\udcca SIGNAL REVIEW (1h later)\nSpiderbrain (SPIDERBRAI)\nLiquidity at flag: ~$42,005\nLiquidity now: ~$45,836\nChange: +9%"
-    },
-    {
-      "ts": 1789602767,
-      "type": "outcome",
-      "message": "\ud83d\udcca SIGNAL REVIEW (1h later)\nPAIDMASK (PAIDMASK)\nLiquidity at flag: ~$26,799\nLiquidity now: ~$2,651\nChange: -90%"
-    },
-    {
-      "ts": 1789602766,
-      "type": "outcome",
-      "message": "\ud83d\udcca SIGNAL REVIEW (1h later)\nSolana (Solana)\nLiquidity at flag: ~$17,826\nLiquidity now: ~$2,006\nChange: -89%"
-    },
-    {
-      "ts": 1789602257,
-      "type": "outcome",
-      "message": "\ud83d\udcca SIGNAL REVIEW (1h later)\nmaps (maps)\nLiquidity at flag: ~$35,619\nLiquidity now: ~$35,619\nChange: +0%"
-    },
-    {
-      "ts": 1789602257,
-      "type": "outcome",
-      "message": "\ud83d\udcca SIGNAL REVIEW (1h later)\nPill Rick (PILLRICK)\nLiquidity at flag: ~$22,568\nLiquidity now: ~$8,334\nChange: -63%"
-    },
-    {
-      "ts": 1789602256,
-      "type": "outcome",
-      "message": "\ud83d\udcca SIGNAL REVIEW (1h later)\nAbsolutely Retarded Chain (ARC)\nLiquidity at flag: ~$15,512\nLiquidity now: ~$15,857\nChange: +2%"
-    },
-    {
-      "ts": 1789602255,
-      "type": "scanner",
-      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\n\u4e03\u9f99\u73e0 (\u5b59\u609f\u7a7a)\nOpportunity: 76/100\n\nMOMENTUM     99\nSAFETY       60\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$29,292, 15 min since pool creation\n\u2022 Up +66% in the last hour, ~$36,700 in 24h volume (1.3x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 95% of supply (very concentrated)\n\nCA: 639rT6TkpuReUPaP6Xyc8fNeeB9uqi9ugPJc9z96zEv6\nhttps://dexscreener.com/solana/639rT6TkpuReUPaP6Xyc8fNeeB9uqi9ugPJc9z96zEv6\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
     }
   ]
 }
