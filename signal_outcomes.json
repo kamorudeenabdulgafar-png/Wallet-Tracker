@@ -1,15 +1,4 @@
 {
-  "Aqyv5TmGekN6N1QXzE31hhApQSKnJMPxoydc2Y3psyvR": {
-    "name": "Anonymous Cat",
-    "symbol": "ZCAT",
-    "flagged_ts": 1789126589,
-    "liquidity_at_flag": 30018.98029315465,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
   "6fpeN3tBn3rxzQRuCj1wXLB6WkYcC377oU7tYk4nTkK8": {
     "name": "Flybook",
     "symbol": "Flybook",
@@ -12392,7 +12381,8 @@
     "liquidity_at_flag": 43728.15046617969,
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "HywbjMyRvWKmFtbyXowJw6s5u1KXaoXP8v24SZdLpump": {
@@ -12402,7 +12392,8 @@
     "liquidity_at_flag": 17577.819573411936,
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "9HHi8UsBb72e6xaoXwpsZDJ2jiC2h1oG8zE5ZQ5Spump": {
@@ -14721,7 +14712,8 @@
     "flagged_ts": 1789717012,
     "liquidity_at_flag": 19872.25132868529,
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "Gf7LdEycj2bVJj9dvYtVg24vfx1m3FJH4QbgtbPqPHrT": {
@@ -14730,7 +14722,8 @@
     "flagged_ts": 1789717013,
     "liquidity_at_flag": 27904.607820685516,
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "S9mUKMhbmTq1pRd8BdDrrbdY8ebqwAuN39himKRnWAg": {
@@ -14739,7 +14732,8 @@
     "flagged_ts": 1789717016,
     "liquidity_at_flag": 126039.77188028135,
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "2XnNRE6K5bW7t6VYXt3KMDiJz8Ygf5GqBC2iAgWxu3SP": {
@@ -14748,7 +14742,8 @@
     "flagged_ts": 1789717017,
     "liquidity_at_flag": 237701.1627099235,
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "42232UL3xGa4UACbr74RcEmHgPPViUDLTe3p4oZepump": {
@@ -15089,14 +15084,18 @@
     "symbol": "PI",
     "flagged_ts": 1789727820,
     "liquidity_at_flag": 26998.23132493769,
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "EhyryoRbdGxpypeszwSM7nb6iuNkhbCSZy2q8J2kCNNt": {
     "name": "\u8d75\u5bb6\u9a79",
     "symbol": "\u8d75\u5bb6\u9a79",
     "flagged_ts": 1789727823,
     "liquidity_at_flag": 74214.20409269247,
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "HLrySRwgP7ZbBhGB2FBm7TKjYQEhZV3g4XFJaX7fUEEY": {
     "name": "Neko",
@@ -15229,6 +15228,20 @@
     "symbol": "HCAT",
     "flagged_ts": 1789731083,
     "liquidity_at_flag": 30194.418862191604,
+    "checkpoints_done": []
+  },
+  "9A22ZkCdSpzxrACY57kk4sa9fbQfZU8LLghuzRw2m2qk": {
+    "name": "TikTokus",
+    "symbol": "TIKTOKus",
+    "flagged_ts": 1789731925,
+    "liquidity_at_flag": 89747.28799701601,
+    "checkpoints_done": []
+  },
+  "4PYVWqC358kpvKYDrwbniVAeUXUq6dULa27Z2TCVpump": {
+    "name": "Norman Cat",
+    "symbol": "Norman",
+    "flagged_ts": 1789731927,
+    "liquidity_at_flag": 36193.914619636125,
     "checkpoints_done": []
   }
 }
