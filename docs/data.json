@@ -1,5 +1,5 @@
 {
-  "last_updated": 1789764312,
+  "last_updated": 1789764784,
   "wallets": [
     {
       "label": "Dev wallet 1",
@@ -80,14 +80,14 @@
   },
   "scanner_accuracy": {
     "60m": {
-      "count": 1629,
-      "up_pct": 30,
-      "avg_change_pct": 22519329.6
+      "count": 1632,
+      "up_pct": 29,
+      "avg_change_pct": 22477933.6
     },
     "240m": {
-      "count": 2840,
+      "count": 2843,
       "up_pct": 23,
-      "avg_change_pct": 12916872.6
+      "avg_change_pct": 12903242.3
     },
     "1440m": {
       "count": 2696,
@@ -97,6 +97,51 @@
   },
   "settings": {},
   "recent_alerts": [
+    {
+      "ts": 1789764784,
+      "type": "outcome",
+      "message": "\ud83d\udcca SIGNAL REVIEW (1h later)\nJustice For Bubble (BUBBLE)\nLiquidity at flag: ~$33,666\nLiquidity now: ~$1\nChange: -100%"
+    },
+    {
+      "ts": 1789764783,
+      "type": "outcome",
+      "message": "\ud83d\udcca SIGNAL REVIEW (1h later)\nJustice For Bubble (BUBBLE)\nLiquidity at flag: ~$40,029\nLiquidity now: ~$2\nChange: -100%"
+    },
+    {
+      "ts": 1789764782,
+      "type": "outcome",
+      "message": "\ud83d\udcca SIGNAL REVIEW (1h later)\nmicrosoft (microsoft)\nLiquidity at flag: ~$17,020\nLiquidity now: ~$1\nChange: -100%"
+    },
+    {
+      "ts": 1789764781,
+      "type": "outcome",
+      "message": "\ud83d\udcca SIGNAL REVIEW (4h later)\nEINSTEIN (EINSTEIN)\nLiquidity at flag: ~$18,453\nLiquidity now: ~$1\nChange: -100%"
+    },
+    {
+      "ts": 1789764780,
+      "type": "outcome",
+      "message": "\ud83d\udcca SIGNAL REVIEW (4h later)\nNASDOG (NASDOG)\nLiquidity at flag: ~$39,619\nLiquidity now: ~$2\nChange: -100%"
+    },
+    {
+      "ts": 1789764779,
+      "type": "outcome",
+      "message": "\ud83d\udcca SIGNAL REVIEW (4h later)\nnarrahood (NARRA)\nLiquidity at flag: ~$31,983\nLiquidity now: ~$2\nChange: -100%"
+    },
+    {
+      "ts": 1789764777,
+      "type": "scanner",
+      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\nChurro (CHURRO)\nOpportunity: 76/100\n\nMOMENTUM     100\nSAFETY       60\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$35,782, 11 min since pool creation\n\u2022 Up +106% in the last hour, ~$432,923 in 24h volume (12.1x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 93% of supply (very concentrated)\n\nCA: HPemt9DaQ2XE8EmNJRDtLG9c1Yx5rmpA9RpuLWomsfeZ\nhttps://dexscreener.com/solana/HPemt9DaQ2XE8EmNJRDtLG9c1Yx5rmpA9RpuLWomsfeZ\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
+    },
+    {
+      "ts": 1789764776,
+      "type": "scanner",
+      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\nChurro (CHURRO)\nOpportunity: 76/100\n\nMOMENTUM     100\nSAFETY       60\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$46,420, 10 min since pool creation\n\u2022 Up +644% in the last hour, ~$378,583 in 24h volume (8.2x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 92% of supply (very concentrated)\n\nCA: EbbQg6H4hNpCJDMsKYKxEJ7x7euajzNzEw3HPRHTEWSS\nhttps://dexscreener.com/solana/EbbQg6H4hNpCJDMsKYKxEJ7x7euajzNzEw3HPRHTEWSS\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
+    },
+    {
+      "ts": 1789764774,
+      "type": "scanner",
+      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 EXCEPTIONAL\nROLLCALL.SO (ROLLCALL)\nOpportunity: 90/100\n\nMOMENTUM     100\nSAFETY       100\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$20,073, 6 min since pool creation\n\u2022 Up +89% in the last hour, ~$28,369 in 24h volume (1.4x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Low, 0/100):\n\u2022 No major red flags found\n\nCA: DCj5KbtSMoA76wa4GSCWrMPBNazHrxS5Dr1dMJuEroLL\nhttps://dexscreener.com/solana/DCj5KbtSMoA76wa4GSCWrMPBNazHrxS5Dr1dMJuEroLL\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
+    },
     {
       "ts": 1789764312,
       "type": "outcome",
@@ -301,51 +346,6 @@
       "ts": 1789761922,
       "type": "outcome",
       "message": "\ud83d\udcca SIGNAL REVIEW (1h later)\nNASCAT (NASCAT)\nLiquidity at flag: ~$31,709\nLiquidity now: ~$2,244\nChange: -93%"
-    },
-    {
-      "ts": 1789761921,
-      "type": "outcome",
-      "message": "\ud83d\udcca SIGNAL REVIEW (1h later)\nBoard (BOARD)\nLiquidity at flag: ~$26,271\nLiquidity now: ~$2\nChange: -100%"
-    },
-    {
-      "ts": 1789761920,
-      "type": "outcome",
-      "message": "\ud83d\udcca SIGNAL REVIEW (1h later)\nMochi (Mochi)\nLiquidity at flag: ~$11,909\nLiquidity now: ~$9,560\nChange: -20%"
-    },
-    {
-      "ts": 1789761917,
-      "type": "scanner",
-      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\nmicrosoft (microsoft)\nOpportunity: 76/100\n\nMOMENTUM     100\nSAFETY       60\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$59,103, 15 min since pool creation\n\u2022 Up +591% in the last hour, ~$488,585 in 24h volume (8.3x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 90% of supply (very concentrated)\n\nCA: 8vKVH77BUc13BajJjSvVHGEie8xBsC9oHNoqrXPhcJcr\nhttps://dexscreener.com/solana/8vKVH77BUc13BajJjSvVHGEie8xBsC9oHNoqrXPhcJcr\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
-    },
-    {
-      "ts": 1789761916,
-      "type": "scanner",
-      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\nFAITH (FAITH)\nOpportunity: 72/100\n\nMOMENTUM     100\nSAFETY       50\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$42,795, 14 min since pool creation\n\u2022 Up +88% in the last hour, ~$594,713 in 24h volume (13.9x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS:\n\u2022 Risk data unavailable\n\nCA: CLfsrkR1uLWAY6Aj2UMt6dBv8pgapRZ3GrjyMDoKRv5o\nhttps://dexscreener.com/solana/CLfsrkR1uLWAY6Aj2UMt6dBv8pgapRZ3GrjyMDoKRv5o\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
-    },
-    {
-      "ts": 1789761908,
-      "type": "scanner",
-      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\nLooma (LOOMA)\nOpportunity: 70/100\n\nMOMENTUM     99\nSAFETY       60\nLIQUIDITY    73\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$14,646, 8 min since pool creation\n\u2022 Up +66% in the last hour, ~$130,065 in 24h volume (8.9x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 97% of supply (very concentrated)\n\nCA: 9uYSBSUivJKWqEZ2jnPBZPUSzFvLPgduQdWcaEnqJRbZ\nhttps://dexscreener.com/solana/9uYSBSUivJKWqEZ2jnPBZPUSzFvLPgduQdWcaEnqJRbZ\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
-    },
-    {
-      "ts": 1789761907,
-      "type": "scanner",
-      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\n\u0425\u0443\u0430\u043d (\u0425\u0443\u0430\u043d)\nOpportunity: 73/100\n\nMOMENTUM     100\nSAFETY       60\nLIQUIDITY    87\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$17,306, 7 min since pool creation\n\u2022 Up +111% in the last hour, ~$138,142 in 24h volume (8.0x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 73% of supply (very concentrated)\n\nCA: GPfFNtKPZH2d97TB2Qs17wURCYLoXqmXUbfpR64HXiBt\nhttps://dexscreener.com/solana/GPfFNtKPZH2d97TB2Qs17wURCYLoXqmXUbfpR64HXiBt\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
-    },
-    {
-      "ts": 1789761906,
-      "type": "scanner",
-      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\n\u30a2\u30cb\u30e1 (\u30a2\u30cb\u30e1)\nOpportunity: 70/100\n\nMOMENTUM     82\nSAFETY       60\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$25,655, 6 min since pool creation\n\u2022 Up +54% in the last hour, ~$30,699 in 24h volume (1.2x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 84% of supply (very concentrated)\n\nCA: GCtyyoad6JM2QzoTEq4SdLEpeZexX1PAiuPU3H4uYFyB\nhttps://dexscreener.com/solana/GCtyyoad6JM2QzoTEq4SdLEpeZexX1PAiuPU3H4uYFyB\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
-    },
-    {
-      "ts": 1789761204,
-      "type": "outcome",
-      "message": "\ud83d\udcca SIGNAL REVIEW (1h later)\nheyaskr (ASKR)\nLiquidity at flag: ~$17,337\nLiquidity now: ~$3\nChange: -100%"
-    },
-    {
-      "ts": 1789761203,
-      "type": "outcome",
-      "message": "\ud83d\udcca SIGNAL REVIEW (1h later)\naGRIPPA (AGRIPPA)\nLiquidity at flag: ~$34,039\nLiquidity now: ~$1\nChange: -100%"
     }
   ]
 }
