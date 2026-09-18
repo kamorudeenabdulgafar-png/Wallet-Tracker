@@ -1,5 +1,5 @@
 {
-  "last_updated": 1789689178,
+  "last_updated": 1789689988,
   "wallets": [
     {
       "label": "Dev wallet 1",
@@ -10,7 +10,7 @@
     "5CEbueQnq1Ym2uSSx2xXds3jQAqT1BDnkA59RZobSPAG": {
       "label": "Dev wallet 1",
       "buy_count": 168,
-      "sell_count": 100,
+      "sell_count": 101,
       "total_buy_usd": 15240.407820521046,
       "total_sell_usd": 0.0,
       "tokens_traded": [
@@ -63,7 +63,7 @@
         "A1cr4bSAWKeSSmTXLrNuZmqL2Qk4waDWyNYzDfZkLz1s",
         "Dz9mQ9NzkBcCsuGPFJ3r1bS4wgqKMHBPiVuniW8Mbonk"
       ],
-      "last_active": 1789688049,
+      "last_active": 1789689978,
       "positions": {},
       "realized_pnl_usd": 0.0
     }
@@ -80,14 +80,14 @@
   },
   "scanner_accuracy": {
     "60m": {
-      "count": 1375,
+      "count": 1381,
       "up_pct": 32,
-      "avg_change_pct": 26679276.9
+      "avg_change_pct": 26563363.9
     },
     "240m": {
-      "count": 2597,
+      "count": 2598,
       "up_pct": 24,
-      "avg_change_pct": 14125506.4
+      "avg_change_pct": 14120069.3
     },
     "1440m": {
       "count": 2509,
@@ -97,6 +97,46 @@
   },
   "settings": {},
   "recent_alerts": [
+    {
+      "ts": 1789689988,
+      "type": "outcome",
+      "message": "\ud83d\udcca SIGNAL REVIEW (1h later)\nMOONSHOT (MOONSHOT)\nLiquidity at flag: ~$33,960\nLiquidity now: ~$97,315\nChange: +187%"
+    },
+    {
+      "ts": 1789689987,
+      "type": "outcome",
+      "message": "\ud83d\udcca SIGNAL REVIEW (1h later)\nPhantom Cat (PCAT)\nLiquidity at flag: ~$25,749\nLiquidity now: ~$0\nChange: -100%"
+    },
+    {
+      "ts": 1789689986,
+      "type": "outcome",
+      "message": "\ud83d\udcca SIGNAL REVIEW (1h later)\nSolana Pepe (SOLPEPE)\nLiquidity at flag: ~$21,829\nLiquidity now: ~$2,263\nChange: -90%"
+    },
+    {
+      "ts": 1789689985,
+      "type": "outcome",
+      "message": "\ud83d\udcca SIGNAL REVIEW (1h later)\nreal internet money (RIM)\nLiquidity at flag: ~$15,180\nLiquidity now: ~$1\nChange: -100%"
+    },
+    {
+      "ts": 1789689984,
+      "type": "outcome",
+      "message": "\ud83d\udcca SIGNAL REVIEW (1h later)\n\u4e5d\u4e00\u516b\u4e8b\u8b8a (9.18)\nLiquidity at flag: ~$34,606\nLiquidity now: ~$0\nChange: -100%"
+    },
+    {
+      "ts": 1789689983,
+      "type": "outcome",
+      "message": "\ud83d\udcca SIGNAL REVIEW (1h later)\nFLORK (FLORK)\nLiquidity at flag: ~$44,219\nLiquidity now: ~$2\nChange: -100%"
+    },
+    {
+      "ts": 1789689981,
+      "type": "outcome",
+      "message": "\ud83d\udcca SIGNAL REVIEW (4h later)\nFlyPaid (FlyP)\nLiquidity at flag: ~$20,995\nLiquidity now: ~$2,987\nChange: -86%"
+    },
+    {
+      "ts": 1789689979,
+      "type": "wallet",
+      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: NEAR -> USDC\nTrade size: unknown\nBought token: USD Coin (USDC)\nCA: EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v\nhttps://solscan.io/tx/2akrKQVfdmX9NQU9p6WDvTa5XzBYWqKRPwmexAiV5KPCRxWhoRcw3Q33EspT4YUERNMxs7k8uqwnuZgLRR8iEHbS"
+    },
     {
       "ts": 1789689178,
       "type": "outcome",
@@ -306,46 +346,6 @@
       "ts": 1789685637,
       "type": "outcome",
       "message": "\ud83d\udcca SIGNAL REVIEW (1h later)\nMooncat (MCAT)\nLiquidity at flag: ~$23,204\nLiquidity now: ~$0\nChange: -100%"
-    },
-    {
-      "ts": 1789685637,
-      "type": "outcome",
-      "message": "\ud83d\udcca SIGNAL REVIEW (24h later)\nPaid House (PAIDHOUSE)\nLiquidity at flag: ~$21,611\nLiquidity now: ~$2,290\nChange: -89%"
-    },
-    {
-      "ts": 1789685636,
-      "type": "outcome",
-      "message": "\ud83d\udcca SIGNAL REVIEW (24h later)\nSPIDERBRAIN (SPIDERBRAI)\nLiquidity at flag: ~$13,908\nLiquidity now: ~$13,055\nChange: -6%"
-    },
-    {
-      "ts": 1789685635,
-      "type": "scanner",
-      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\n\u4e5d\u4e00\u516b\u4e8b\u8b8a (9.18)\nOpportunity: 76/100\n\nMOMENTUM     100\nSAFETY       60\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$34,606, 15 min since pool creation\n\u2022 Up +74% in the last hour, ~$31,349 in 24h volume (0.9x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 97% of supply (very concentrated)\n\nCA: Emi1EeT5Tn3ypAc2wRguMQDYVgyGWByCmtehiFDT1cdy\nhttps://dexscreener.com/solana/Emi1EeT5Tn3ypAc2wRguMQDYVgyGWByCmtehiFDT1cdy\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
-    },
-    {
-      "ts": 1789685633,
-      "type": "scanner",
-      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\nFLORK (FLORK)\nOpportunity: 76/100\n\nMOMENTUM     100\nSAFETY       60\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$44,219, 9 min since pool creation\n\u2022 Up +185% in the last hour, ~$357,028 in 24h volume (8.1x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 95% of supply (very concentrated)\n\nCA: 8o4SYxxtnXZQPZeRuH9b4sTykBRAbv2rNTCtpJ49gw1z\nhttps://dexscreener.com/solana/8o4SYxxtnXZQPZeRuH9b4sTykBRAbv2rNTCtpJ49gw1z\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
-    },
-    {
-      "ts": 1789685632,
-      "type": "scanner",
-      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\nPhantom Cat (PCAT)\nOpportunity: 75/100\n\nMOMENTUM     58\nSAFETY       100\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$23,271, 8 min since pool creation\n\u2022 Up +38% in the last hour, ~$69,866 in 24h volume (3.0x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Low, 0/100):\n\u2022 No major red flags found\n\nCA: 8BBNS7hURKU4whJ9L7BpjnAR8n9bKFiPA4ZKcYs76qHu\nhttps://dexscreener.com/solana/8BBNS7hURKU4whJ9L7BpjnAR8n9bKFiPA4ZKcYs76qHu\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
-    },
-    {
-      "ts": 1789685175,
-      "type": "outcome",
-      "message": "\ud83d\udcca SIGNAL REVIEW (1h later)\nGrok in Blender (GIB)\nLiquidity at flag: ~$20,686\nLiquidity now: ~$8,608\nChange: -58%"
-    },
-    {
-      "ts": 1789685175,
-      "type": "outcome",
-      "message": "\ud83d\udcca SIGNAL REVIEW (1h later)\nJupCat (JupCat)\nLiquidity at flag: ~$38,492\nLiquidity now: ~$0\nChange: -100%"
-    },
-    {
-      "ts": 1789685174,
-      "type": "outcome",
-      "message": "\ud83d\udcca SIGNAL REVIEW (24h later)\nAbsolutely Retarded Chain (ARC)\nLiquidity at flag: ~$30,931\nLiquidity now: ~$0\nChange: -100%"
     }
   ]
 }
