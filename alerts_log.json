@@ -1,5 +1,25 @@
 [
   {
+    "ts": 1789728888,
+    "type": "outcome",
+    "message": "\ud83d\udcca SIGNAL REVIEW (1h later)\nLeopardus tilcayo (Tilcayo)\nLiquidity at flag: ~$44,761\nLiquidity now: ~$0\nChange: -100%"
+  },
+  {
+    "ts": 1789728886,
+    "type": "outcome",
+    "message": "\ud83d\udcca SIGNAL REVIEW (1h later)\n\u65e5\u672c\u6295\u964d\u7b7e\u5b57\u4eea\u5f0f\u7ed3\u675f\u65f6\u95f49\u65f618\u5206 (918)\nLiquidity at flag: ~$33,414\nLiquidity now: ~$0\nChange: -100%"
+  },
+  {
+    "ts": 1789728884,
+    "type": "scanner",
+    "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 STRONG\nTokenz (TOKENZ)\nOpportunity: 86/100\n\nMOMENTUM     100\nSAFETY       90\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$23,006, 11 min since pool creation\n\u2022 Up +129% in the last hour, ~$59,956 in 24h volume (2.6x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Low, 10/100):\n\u2022 top 10 holders own 39% of supply\n\nCA: 2PHj8aGThPd546tE4xQYeXdbWMHu4dExfM5dVVbzpump\nhttps://dexscreener.com/solana/2PHj8aGThPd546tE4xQYeXdbWMHu4dExfM5dVVbzpump\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
+  },
+  {
+    "ts": 1789728882,
+    "type": "scanner",
+    "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\nCoby The Cat (Coby)\nOpportunity: 76/100\n\nMOMENTUM     100\nSAFETY       60\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$27,859, 8 min since pool creation\n\u2022 Up +85% in the last hour, ~$138,003 in 24h volume (5.0x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 77% of supply (very concentrated)\n\nCA: GZ4s4rwLwb6qjwJVEFMtJBLDDhadz6Reery9boXsYSGP\nhttps://dexscreener.com/solana/GZ4s4rwLwb6qjwJVEFMtJBLDDhadz6Reery9boXsYSGP\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
+  },
+  {
     "ts": 1789728433,
     "type": "outcome",
     "message": "\ud83d\udcca SIGNAL REVIEW (1h later)\nZatoshi (Zatoshi)\nLiquidity at flag: ~$46,673\nLiquidity now: ~$0\nChange: -100%"
@@ -228,25 +248,5 @@
     "ts": 1789726859,
     "type": "wallet",
     "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: USDC -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/4KQzsUM5XkwH6PRE2F146NLAjGpCKFiyxtq7yHCkt3YVZd6GuimiEeRzXnairyispkyCPehLQJe3bJiHM4yWYwzR"
-  },
-  {
-    "ts": 1789726858,
-    "type": "wallet",
-    "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: USDT -> USDC\nTrade size: unknown\nBought token: USD Coin (USDC)\nCA: EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v\nhttps://solscan.io/tx/5Z1QXzPmZ44ZQ7KRxj5DxsrbXTjV4ubJfJHcs7ycyQ2ZhsL3PEpodx1Bqioavaw7B3LaLDMcu1BCrFeQ6GqpLMTe"
-  },
-  {
-    "ts": 1789725947,
-    "type": "wallet",
-    "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: GPRO -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/4onSdHPtqtxN8eKgSwWijqDcUMHHQy2iB9SxUSe84aCAG8M7MwKQewXJ5uEaZdppPw5sn4sTV5FNZjK5ASQtrY3z"
-  },
-  {
-    "ts": 1789725947,
-    "type": "wallet",
-    "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: LIT -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/t4cKh6HLmQXwJNZXbSDmReVxJh97eEa6n1Ryon1hRpaLrt8aqS2NGHwKnoZaw5yaR4aBNHs8G9cRcxuQzYCF9bv"
-  },
-  {
-    "ts": 1789725946,
-    "type": "wallet",
-    "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: ARB -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/4MPVPv7yQA2X5DJR6ZvfT1e8bU4PMtGnnDagqH3NfMMyGM5cUcTZuraLpFZdwBjt3EHpMCSZAMfWx6duKf6k17g5"
   }
 ]
