@@ -13360,7 +13360,8 @@
     "liquidity_at_flag": 20253.63452518326,
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "2D3J88haV2tLGEzPhxZMcg3oRnvSqxc433YT6P58pump": {
@@ -13370,7 +13371,8 @@
     "liquidity_at_flag": 22834.970989021233,
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "N76kP9zeMsWEPndMH1U9sCCSXUi1V3DyFrSqzjXYvAh": {
@@ -15669,7 +15671,8 @@
     "flagged_ts": 1789698025,
     "liquidity_at_flag": 21021.997148765833,
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "BxaAyFzoqyeMNyuJvcSrqrGdC4sm7Fi8TPqNzkURq2xj": {
@@ -15678,7 +15681,8 @@
     "flagged_ts": 1789698028,
     "liquidity_at_flag": 68915.20471071078,
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "HYRN1sE1cLQ2McnD3F3jnZVM21aNYhKMfNS72x4rBbey": {
@@ -15687,7 +15691,8 @@
     "flagged_ts": 1789698030,
     "liquidity_at_flag": 46736.32891778847,
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "2eXQm5B2V9a8BPTGCjNyRkf6myPjY6VqxKnZWpu8jDwB": {
@@ -15974,28 +15979,36 @@
     "symbol": "AUTISM",
     "flagged_ts": 1789708763,
     "liquidity_at_flag": 34186.00717020093,
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "6RSThJZhb63q2ZtmZx2h1y9uuGWZ9bTE9F9ZmjaxcH1A": {
     "name": "\u4f60\u76f8\u4fe1\u4ec0\u4e48\u4f60\u7684\u4eba\u751f\u5c31\u4f1a\u53d1\u751f\u4ec0\u4e48",
     "symbol": "\u76f8\u4fe1",
     "flagged_ts": 1789708764,
     "liquidity_at_flag": 32383.621300603078,
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "H9rCpDcQ98pNuvX49fckrDdbwsg9LWXYtjpA6CWtxpuF": {
     "name": "ATOM",
     "symbol": "ATOM",
     "flagged_ts": 1789708765,
     "liquidity_at_flag": 37800.92549441944,
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "52kPDtwbktpxHzD6GRkN9bFEoM2aYsLCW1UxnsLGbPSc": {
     "name": "Dancing Dog",
     "symbol": "Doggo",
     "flagged_ts": 1789708766,
     "liquidity_at_flag": 120374.78939558854,
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "Cg6tHuBnyv8UfuKa7fpCYswUTVztPRRxqkuJ2PBURUEs": {
     "name": "\u8d75\u5bb6\u9a79",
@@ -16128,6 +16141,48 @@
     "symbol": "Arc",
     "flagged_ts": 1789711605,
     "liquidity_at_flag": 277977.32979727467,
+    "checkpoints_done": []
+  },
+  "A2QAnjBRXnttJtmyn6qrRXPWVKSUQV1VRTTwRt5zXUkb": {
+    "name": "Invisible, Nameless, Untraceable",
+    "symbol": "INU",
+    "flagged_ts": 1789712770,
+    "liquidity_at_flag": 21078.96194016706,
+    "checkpoints_done": []
+  },
+  "B4MWGWCgWTpZTYAb2DQe68duKhiWUM6xgFNGBXHL2MFZ": {
+    "name": "Wojak",
+    "symbol": "Wojak",
+    "flagged_ts": 1789712771,
+    "liquidity_at_flag": 24216.95913749301,
+    "checkpoints_done": []
+  },
+  "7s5KLTsXsh6nEwi8ES9WFRwJAma8mGGLnkmphJSJDcYx": {
+    "name": "Invisible, Nameless, Untraceable",
+    "symbol": "INU",
+    "flagged_ts": 1789712772,
+    "liquidity_at_flag": 15206.161532362383,
+    "checkpoints_done": []
+  },
+  "7tPvAJhbr13tSFZXkLSPWmT3iRZjG42B49kRYo4Rpump": {
+    "name": "MusePepe",
+    "symbol": "MusePepe",
+    "flagged_ts": 1789712773,
+    "liquidity_at_flag": 25892.59437819074,
+    "checkpoints_done": []
+  },
+  "Fq3WnLKzpeLbzZzdwQxHGKkJCdo5Xn1nWhTgpDf2wD93": {
+    "name": "Jerry",
+    "symbol": "JERRY",
+    "flagged_ts": 1789712774,
+    "liquidity_at_flag": 38498.80213677529,
+    "checkpoints_done": []
+  },
+  "474NeuiGgstUtnWFD6VBTrGdasGnQRj2SLimt5XuMWa2": {
+    "name": "Mooncat",
+    "symbol": "MCAT",
+    "flagged_ts": 1789712776,
+    "liquidity_at_flag": 34367.690748997964,
     "checkpoints_done": []
   }
 }
