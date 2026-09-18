@@ -1,5 +1,50 @@
 [
   {
+    "ts": 1789746948,
+    "type": "outcome",
+    "message": "\ud83d\udcca SIGNAL REVIEW (1h later)\nthe messenger (MSGR)\nLiquidity at flag: ~$21,536\nLiquidity now: ~$0\nChange: -100%"
+  },
+  {
+    "ts": 1789746947,
+    "type": "outcome",
+    "message": "\ud83d\udcca SIGNAL REVIEW (4h later)\n\u6211\u7684\u5973\u53cb\u666f\u751c (\u6211\u7684\u5973\u53cb\u666f\u751c)\nLiquidity at flag: ~$33,915\nLiquidity now: ~$0\nChange: -100%"
+  },
+  {
+    "ts": 1789746946,
+    "type": "outcome",
+    "message": "\ud83d\udcca SIGNAL REVIEW (4h later)\nWorker (\ud83d\udcb2WORKER)\nLiquidity at flag: ~$56,816\nLiquidity now: ~$0\nChange: -100%"
+  },
+  {
+    "ts": 1789746945,
+    "type": "outcome",
+    "message": "\ud83d\udcca SIGNAL REVIEW (4h later)\nKnob (KNOB)\nLiquidity at flag: ~$28,731\nLiquidity now: ~$0\nChange: -100%"
+  },
+  {
+    "ts": 1789746943,
+    "type": "outcome",
+    "message": "\ud83d\udcca SIGNAL REVIEW (4h later)\nKnob (KNOB)\nLiquidity at flag: ~$28,429\nLiquidity now: ~$0\nChange: -100%"
+  },
+  {
+    "ts": 1789746942,
+    "type": "outcome",
+    "message": "\ud83d\udcca SIGNAL REVIEW (24h later)\nRogecoin (ROGE)\nLiquidity at flag: ~$47,753\nLiquidity now: ~$0\nChange: -100%"
+  },
+  {
+    "ts": 1789746941,
+    "type": "outcome",
+    "message": "\ud83d\udcca SIGNAL REVIEW (24h later)\nXSEND (XSEND)\nLiquidity at flag: ~$32,126\nLiquidity now: ~$2,876\nChange: -91%"
+  },
+  {
+    "ts": 1789746938,
+    "type": "wallet",
+    "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: USDC -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/2BgP5opZ4c7AAP2CboEnR3FD9WagXTYG5RCicnQKWBcD1vBqyRhbcsoFwi7tqtMdgA2rv9qGWsc9v4FhHqKwU9Tp"
+  },
+  {
+    "ts": 1789746937,
+    "type": "wallet",
+    "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: WBNB -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/41fMPQieCEVsiRVW7vfHqGgfQ8nCoZJjfseKL6pmQb3VqrPebXrqMr9iKt2SBAzc17t9EPLJyumE2AGMAnDpr3uf"
+  },
+  {
     "ts": 1789746457,
     "type": "outcome",
     "message": "\ud83d\udcca SIGNAL REVIEW (1h later)\nMermaid Cat (MermaidCat)\nLiquidity at flag: ~$42,465\nLiquidity now: ~$0\nChange: -100%"
@@ -203,50 +248,5 @@
     "ts": 1789744117,
     "type": "scanner",
     "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\npat0 (pat0)\nOpportunity: 76/100\n\nMOMENTUM     100\nSAFETY       60\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$43,057, 12 min since pool creation\n\u2022 Up +219% in the last hour, ~$169,186 in 24h volume (3.9x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 91% of supply (very concentrated)\n\nCA: CoGPaMudTJaihnAjDEo8N8DMyDC5U5J5TQ9Aow3DQG1E\nhttps://dexscreener.com/solana/CoGPaMudTJaihnAjDEo8N8DMyDC5U5J5TQ9Aow3DQG1E\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
-  },
-  {
-    "ts": 1789744115,
-    "type": "scanner",
-    "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 EXCEPTIONAL\nPaidtard (Paidtard)\nOpportunity: 90/100\n\nMOMENTUM     100\nSAFETY       100\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$30,754, 9 min since pool creation\n\u2022 Up +163% in the last hour, ~$222,608 in 24h volume (7.2x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Low, 0/100):\n\u2022 No major red flags found\n\nCA: HBrCLqeJsp13ouAVE9HEUmv1MHEij4ZXtUsAsReGpump\nhttps://dexscreener.com/solana/HBrCLqeJsp13ouAVE9HEUmv1MHEij4ZXtUsAsReGpump\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
-  },
-  {
-    "ts": 1789744114,
-    "type": "scanner",
-    "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\nscam coin (SCAM)\nOpportunity: 72/100\n\nMOMENTUM     60\nSAFETY       90\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$26,591, 6 min since pool creation\n\u2022 Up +40% in the last hour, ~$63,848 in 24h volume (2.4x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Low, 10/100):\n\u2022 top 10 holders own 42% of supply\n\nCA: EeXkDTLRDu6E6KmSLbPiRDE2mR9gNLrFLRw9VtN39ogh\nhttps://dexscreener.com/solana/EeXkDTLRDu6E6KmSLbPiRDE2mR9gNLrFLRw9VtN39ogh\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
-  },
-  {
-    "ts": 1789743419,
-    "type": "outcome",
-    "message": "\ud83d\udcca SIGNAL REVIEW (4h later)\nTokenz (TOKENZ)\nLiquidity at flag: ~$23,006\nLiquidity now: ~$9,055\nChange: -61%"
-  },
-  {
-    "ts": 1789743418,
-    "type": "outcome",
-    "message": "\ud83d\udcca SIGNAL REVIEW (4h later)\nCoby The Cat (Coby)\nLiquidity at flag: ~$27,859\nLiquidity now: ~$0\nChange: -100%"
-  },
-  {
-    "ts": 1789743417,
-    "type": "outcome",
-    "message": "\ud83d\udcca SIGNAL REVIEW (24h later)\nWikiLeaks (WIKILEAKS)\nLiquidity at flag: ~$28,824\nLiquidity now: ~$9,653\nChange: -67%"
-  },
-  {
-    "ts": 1789743416,
-    "type": "outcome",
-    "message": "\ud83d\udcca SIGNAL REVIEW (24h later)\njust a chip (CHIP)\nLiquidity at flag: ~$22,071\nLiquidity now: ~$0\nChange: -100%"
-  },
-  {
-    "ts": 1789742885,
-    "type": "outcome",
-    "message": "\ud83d\udcca SIGNAL REVIEW (1h later)\nCalicoin (Cali)\nLiquidity at flag: ~$34,134\nLiquidity now: ~$1\nChange: -100%"
-  },
-  {
-    "ts": 1789742883,
-    "type": "outcome",
-    "message": "\ud83d\udcca SIGNAL REVIEW (4h later)\nNeko (Neko)\nLiquidity at flag: ~$21,032\nLiquidity now: ~$0\nChange: -100%"
-  },
-  {
-    "ts": 1789742882,
-    "type": "outcome",
-    "message": "\ud83d\udcca SIGNAL REVIEW (24h later)\nxp (xp)\nLiquidity at flag: ~$42,354\nLiquidity now: ~$0\nChange: -100%"
   }
 ]
