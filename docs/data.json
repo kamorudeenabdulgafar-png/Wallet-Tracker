@@ -1,5 +1,5 @@
 {
-  "last_updated": 1789771998,
+  "last_updated": 1789772697,
   "wallets": [
     {
       "label": "Dev wallet 1",
@@ -86,18 +86,78 @@
       "avg_change_pct": 22005989.8
     },
     "240m": {
-      "count": 2870,
+      "count": 2873,
       "up_pct": 22,
-      "avg_change_pct": 12781852.2
+      "avg_change_pct": 12768505.2
     },
     "1440m": {
-      "count": 2715,
-      "up_pct": 23,
-      "avg_change_pct": -53.1
+      "count": 2722,
+      "up_pct": 22,
+      "avg_change_pct": -53.2
     }
   },
   "settings": {},
   "recent_alerts": [
+    {
+      "ts": 1789772697,
+      "type": "outcome",
+      "message": "\ud83d\udcca SIGNAL REVIEW (4h later)\nNASCAT (NASCAT)\nLiquidity at flag: ~$31,709\nLiquidity now: ~$2,234\nChange: -93%"
+    },
+    {
+      "ts": 1789772696,
+      "type": "outcome",
+      "message": "\ud83d\udcca SIGNAL REVIEW (4h later)\nBoard (BOARD)\nLiquidity at flag: ~$26,271\nLiquidity now: ~$1\nChange: -100%"
+    },
+    {
+      "ts": 1789772695,
+      "type": "outcome",
+      "message": "\ud83d\udcca SIGNAL REVIEW (4h later)\nMochi (Mochi)\nLiquidity at flag: ~$11,909\nLiquidity now: ~$9,560\nChange: -20%"
+    },
+    {
+      "ts": 1789772694,
+      "type": "outcome",
+      "message": "\ud83d\udcca SIGNAL REVIEW (24h later)\nMOONSHOT (MOONSHOT)\nLiquidity at flag: ~$33,960\nLiquidity now: ~$2,831\nChange: -92%"
+    },
+    {
+      "ts": 1789772693,
+      "type": "outcome",
+      "message": "\ud83d\udcca SIGNAL REVIEW (24h later)\nPhantom Cat (PCAT)\nLiquidity at flag: ~$25,749\nLiquidity now: ~$0\nChange: -100%"
+    },
+    {
+      "ts": 1789772692,
+      "type": "outcome",
+      "message": "\ud83d\udcca SIGNAL REVIEW (24h later)\nSolana Pepe (SOLPEPE)\nLiquidity at flag: ~$21,829\nLiquidity now: ~$2,468\nChange: -89%"
+    },
+    {
+      "ts": 1789772691,
+      "type": "outcome",
+      "message": "\ud83d\udcca SIGNAL REVIEW (24h later)\nreal internet money (RIM)\nLiquidity at flag: ~$15,180\nLiquidity now: ~$1\nChange: -100%"
+    },
+    {
+      "ts": 1789772690,
+      "type": "outcome",
+      "message": "\ud83d\udcca SIGNAL REVIEW (24h later)\n\u4e5d\u4e00\u516b\u4e8b\u8b8a (9.18)\nLiquidity at flag: ~$34,606\nLiquidity now: ~$0\nChange: -100%"
+    },
+    {
+      "ts": 1789772689,
+      "type": "outcome",
+      "message": "\ud83d\udcca SIGNAL REVIEW (24h later)\nFLORK (FLORK)\nLiquidity at flag: ~$44,219\nLiquidity now: ~$3\nChange: -100%"
+    },
+    {
+      "ts": 1789772688,
+      "type": "outcome",
+      "message": "\ud83d\udcca SIGNAL REVIEW (24h later)\nPhantom Cat (PCAT)\nLiquidity at flag: ~$23,271\nLiquidity now: ~$4,594\nChange: -80%"
+    },
+    {
+      "ts": 1789772687,
+      "type": "scanner",
+      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\nReserve Currency of Socialcom (RCSC)\nOpportunity: 70/100\n\nMOMENTUM     82\nSAFETY       60\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$183,833, 16 min since pool creation\n\u2022 Up +55% in the last hour, ~$2,026,907 in 24h volume (11.0x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 94% of supply (very concentrated)\n\nCA: 74Dw9PwrvAtjqMv83s4kE9BrQjryhxQ8Mn36VZdeyzpM\nhttps://dexscreener.com/solana/74Dw9PwrvAtjqMv83s4kE9BrQjryhxQ8Mn36VZdeyzpM\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
+    },
+    {
+      "ts": 1789772685,
+      "type": "scanner",
+      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\nPepe (PEPE)\nOpportunity: 76/100\n\nMOMENTUM     100\nSAFETY       60\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$42,981, 14 min since pool creation\n\u2022 Up +123% in the last hour, ~$1,903,417 in 24h volume (44.3x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 99% of supply (very concentrated)\n\nCA: 9226dziAf1iaNsZ6ACCnTWAxvbbrMcmPDEUuLUUoU2xQ\nhttps://dexscreener.com/solana/9226dziAf1iaNsZ6ACCnTWAxvbbrMcmPDEUuLUUoU2xQ\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
+    },
     {
       "ts": 1789771998,
       "type": "outcome",
@@ -287,66 +347,6 @@
       "ts": 1789769963,
       "type": "wallet",
       "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: USDC -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/KkMiPfEkU5dFNeoqZsKJoUXnb89g9HSK3XM6reP1nszfEXDPcWMPbu82cQm58iwsfpLu9NQ9An9QZaAxL5iKAMN"
-    },
-    {
-      "ts": 1789769962,
-      "type": "wallet",
-      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: GOOGLx -> USDC\nTrade size: unknown\nBought token: USD Coin (USDC)\nCA: EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v\nhttps://solscan.io/tx/5SccuRKPvpgJc8R4EToWo1RNwDnzkVKeq8HvV2Rd3J8EzgiRfNvYgauWxfV39zNdgpN9BzRvedvx1pEjg4ePa1r3"
-    },
-    {
-      "ts": 1789769962,
-      "type": "wallet",
-      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: neet -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/5jCtP2HXcgyubPqb6BcAoEvWbRBaZcKAVZhBNPrAcSY58AYdAkBHcTa5L9TwBQCYHjxLTxYp2S7wZhP26RGjrqKA"
-    },
-    {
-      "ts": 1789769961,
-      "type": "wallet",
-      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: LINK -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/3fm8jgEVCjFfY1GfFMVe63F8PJAZq2CS4KUab3r19NZPriHEjPeQZtB6N8W51AmVpa4eLUbBqrANJ6EUFWgtVuaC"
-    },
-    {
-      "ts": 1789769961,
-      "type": "wallet",
-      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: xBTC -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/2exiQh3tffnGKhBnJ1krp8koNHepBVayg3H9g2r7BxNe4AnfV3UhRHspWWmtkQ2ZGh2zxwTHkxdYVs3irCjZys8m"
-    },
-    {
-      "ts": 1789769960,
-      "type": "wallet",
-      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: RAY -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/2dxdzHdF9JFbW7tyFKV8aEBhBsSdxxMbs23txdTEXzfpNn6PjbmzhmeZ2K8kKNWhRqmrqqcFD8tnYmnPPhQcEA6C"
-    },
-    {
-      "ts": 1789769169,
-      "type": "outcome",
-      "message": "\ud83d\udcca SIGNAL REVIEW (1h later)\nkms (KMS)\nLiquidity at flag: ~$29,604\nLiquidity now: ~$0\nChange: -100%"
-    },
-    {
-      "ts": 1789769168,
-      "type": "outcome",
-      "message": "\ud83d\udcca SIGNAL REVIEW (1h later)\nkms (KMS)\nLiquidity at flag: ~$32,276\nLiquidity now: ~$0\nChange: -100%"
-    },
-    {
-      "ts": 1789769167,
-      "type": "outcome",
-      "message": "\ud83d\udcca SIGNAL REVIEW (1h later)\nkms (KMS)\nLiquidity at flag: ~$173,099\nLiquidity now: ~$0\nChange: -100%"
-    },
-    {
-      "ts": 1789769167,
-      "type": "outcome",
-      "message": "\ud83d\udcca SIGNAL REVIEW (1h later)\nChurro (CHURRO)\nLiquidity at flag: ~$35,782\nLiquidity now: ~$1\nChange: -100%"
-    },
-    {
-      "ts": 1789769166,
-      "type": "outcome",
-      "message": "\ud83d\udcca SIGNAL REVIEW (1h later)\nChurro (CHURRO)\nLiquidity at flag: ~$46,420\nLiquidity now: ~$2\nChange: -100%"
-    },
-    {
-      "ts": 1789769165,
-      "type": "outcome",
-      "message": "\ud83d\udcca SIGNAL REVIEW (1h later)\nROLLCALL.SO (ROLLCALL)\nLiquidity at flag: ~$20,073\nLiquidity now: ~$9,670\nChange: -52%"
-    },
-    {
-      "ts": 1789769164,
-      "type": "outcome",
-      "message": "\ud83d\udcca SIGNAL REVIEW (4h later)\n\u30a2\u30cb\u30e1 (\u30a2\u30cb\u30e1)\nLiquidity at flag: ~$31,839\nLiquidity now: ~$0\nChange: -100%"
     }
   ]
 }
