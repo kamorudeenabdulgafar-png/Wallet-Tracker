@@ -1,5 +1,5 @@
 {
-  "last_updated": 1789742239,
+  "last_updated": 1789742885,
   "wallets": [
     {
       "label": "Dev wallet 1",
@@ -80,23 +80,53 @@
   },
   "scanner_accuracy": {
     "60m": {
-      "count": 1557,
+      "count": 1558,
       "up_pct": 30,
-      "avg_change_pct": 23560688.9
+      "avg_change_pct": 23545566.4
     },
     "240m": {
-      "count": 2762,
+      "count": 2763,
       "up_pct": 23,
-      "avg_change_pct": 13281652.8
+      "avg_change_pct": 13276845.8
     },
     "1440m": {
-      "count": 2645,
+      "count": 2648,
       "up_pct": 23,
-      "avg_change_pct": -52.1
+      "avg_change_pct": -52.2
     }
   },
   "settings": {},
   "recent_alerts": [
+    {
+      "ts": 1789742885,
+      "type": "outcome",
+      "message": "\ud83d\udcca SIGNAL REVIEW (1h later)\nCalicoin (Cali)\nLiquidity at flag: ~$34,134\nLiquidity now: ~$1\nChange: -100%"
+    },
+    {
+      "ts": 1789742883,
+      "type": "outcome",
+      "message": "\ud83d\udcca SIGNAL REVIEW (4h later)\nNeko (Neko)\nLiquidity at flag: ~$21,032\nLiquidity now: ~$0\nChange: -100%"
+    },
+    {
+      "ts": 1789742882,
+      "type": "outcome",
+      "message": "\ud83d\udcca SIGNAL REVIEW (24h later)\nxp (xp)\nLiquidity at flag: ~$42,354\nLiquidity now: ~$0\nChange: -100%"
+    },
+    {
+      "ts": 1789742881,
+      "type": "outcome",
+      "message": "\ud83d\udcca SIGNAL REVIEW (24h later)\nGungun (\u6eda\u6eda)\nLiquidity at flag: ~$40,255\nLiquidity now: ~$2\nChange: -100%"
+    },
+    {
+      "ts": 1789742879,
+      "type": "outcome",
+      "message": "\ud83d\udcca SIGNAL REVIEW (24h later)\nFly Trader (Fly)\nLiquidity at flag: ~$22,551\nLiquidity now: ~$0\nChange: -100%"
+    },
+    {
+      "ts": 1789742878,
+      "type": "scanner",
+      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\nthe messenger (MSGR)\nOpportunity: 70/100\n\nMOMENTUM     82\nSAFETY       60\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$21,536, 16 min since pool creation\n\u2022 Up +54% in the last hour, ~$45,388 in 24h volume (2.1x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 82% of supply (very concentrated)\n\nCA: Gtdyt6M7RKSQRBtL47tUamWYUadzd6EUtrKUBqLk4EF9\nhttps://dexscreener.com/solana/Gtdyt6M7RKSQRBtL47tUamWYUadzd6EUtrKUBqLk4EF9\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
+    },
     {
       "ts": 1789742239,
       "type": "outcome",
@@ -316,36 +346,6 @@
       "ts": 1789739242,
       "type": "scanner",
       "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\nCalicoin (Cali)\nOpportunity: 76/100\n\nMOMENTUM     100\nSAFETY       60\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$34,134, 12 min since pool creation\n\u2022 Up +82% in the last hour, ~$265,873 in 24h volume (7.8x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 94% of supply (very concentrated)\n\nCA: 7NtPfN7HDXr2aRZzsxHo9MLMgRv5zp7YQdXwiH4xLv7D\nhttps://dexscreener.com/solana/7NtPfN7HDXr2aRZzsxHo9MLMgRv5zp7YQdXwiH4xLv7D\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
-    },
-    {
-      "ts": 1789738604,
-      "type": "outcome",
-      "message": "\ud83d\udcca SIGNAL REVIEW (1h later)\nbBALL (bBALL)\nLiquidity at flag: ~$30,578\nLiquidity now: ~$0\nChange: -100%"
-    },
-    {
-      "ts": 1789738603,
-      "type": "outcome",
-      "message": "\ud83d\udcca SIGNAL REVIEW (1h later)\nbBALL (bBALL)\nLiquidity at flag: ~$33,279\nLiquidity now: ~$0\nChange: -100%"
-    },
-    {
-      "ts": 1789738601,
-      "type": "outcome",
-      "message": "\ud83d\udcca SIGNAL REVIEW (1h later)\nBonkers (BONKERS)\nLiquidity at flag: ~$30,047\nLiquidity now: ~$0\nChange: -100%"
-    },
-    {
-      "ts": 1789738600,
-      "type": "outcome",
-      "message": "\ud83d\udcca SIGNAL REVIEW (1h later)\nlisa paid (lisapaid)\nLiquidity at flag: ~$30,524\nLiquidity now: ~$2,448\nChange: -92%"
-    },
-    {
-      "ts": 1789738599,
-      "type": "outcome",
-      "message": "\ud83d\udcca SIGNAL REVIEW (4h later)\nMaya The Samoyed (MAYA)\nLiquidity at flag: ~$32,656\nLiquidity now: ~$2,344\nChange: -93%"
-    },
-    {
-      "ts": 1789738598,
-      "type": "outcome",
-      "message": "\ud83d\udcca SIGNAL REVIEW (4h later)\nGoblin Bags (GBAGS)\nLiquidity at flag: ~$27,099\nLiquidity now: ~$2,819\nChange: -90%"
     }
   ]
 }
