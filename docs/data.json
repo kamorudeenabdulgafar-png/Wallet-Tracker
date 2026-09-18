@@ -1,5 +1,5 @@
 {
-  "last_updated": 1789767808,
+  "last_updated": 1789768385,
   "wallets": [
     {
       "label": "Dev wallet 1",
@@ -81,23 +81,83 @@
   },
   "scanner_accuracy": {
     "60m": {
-      "count": 1647,
+      "count": 1652,
       "up_pct": 29,
-      "avg_change_pct": 22273215.8
+      "avg_change_pct": 22205802.7
     },
     "240m": {
-      "count": 2855,
+      "count": 2860,
       "up_pct": 22,
-      "avg_change_pct": 12849007.7
+      "avg_change_pct": 12826544.2
     },
     "1440m": {
-      "count": 2702,
+      "count": 2704,
       "up_pct": 23,
       "avg_change_pct": -52.9
     }
   },
   "settings": {},
   "recent_alerts": [
+    {
+      "ts": 1789768385,
+      "type": "outcome",
+      "message": "\ud83d\udcca SIGNAL REVIEW (1h later)\nFinn Bags (FINN)\nLiquidity at flag: ~$41,111\nLiquidity now: ~$1\nChange: -100%"
+    },
+    {
+      "ts": 1789768384,
+      "type": "outcome",
+      "message": "\ud83d\udcca SIGNAL REVIEW (1h later)\nAAPL (AAPL)\nLiquidity at flag: ~$404,852\nLiquidity now: ~$0\nChange: -100%"
+    },
+    {
+      "ts": 1789768383,
+      "type": "outcome",
+      "message": "\ud83d\udcca SIGNAL REVIEW (1h later)\nFinn Bags (FINN)\nLiquidity at flag: ~$25,245\nLiquidity now: ~$21,564\nChange: -15%"
+    },
+    {
+      "ts": 1789768382,
+      "type": "outcome",
+      "message": "\ud83d\udcca SIGNAL REVIEW (1h later)\nrattery experiment (RATTERY)\nLiquidity at flag: ~$52,257\nLiquidity now: ~$0\nChange: -100%"
+    },
+    {
+      "ts": 1789768380,
+      "type": "outcome",
+      "message": "\ud83d\udcca SIGNAL REVIEW (1h later)\nFred (Fred)\nLiquidity at flag: ~$17,454\nLiquidity now: ~$1\nChange: -100%"
+    },
+    {
+      "ts": 1789768379,
+      "type": "outcome",
+      "message": "\ud83d\udcca SIGNAL REVIEW (4h later)\nGithub Cat (GITCAT)\nLiquidity at flag: ~$28,068\nLiquidity now: ~$0\nChange: -100%"
+    },
+    {
+      "ts": 1789768378,
+      "type": "outcome",
+      "message": "\ud83d\udcca SIGNAL REVIEW (4h later)\nGithub Cat (GITCAT)\nLiquidity at flag: ~$29,129\nLiquidity now: ~$1\nChange: -100%"
+    },
+    {
+      "ts": 1789768377,
+      "type": "outcome",
+      "message": "\ud83d\udcca SIGNAL REVIEW (4h later)\nNASDOG (NASDOG)\nLiquidity at flag: ~$36,156\nLiquidity now: ~$0\nChange: -100%"
+    },
+    {
+      "ts": 1789768376,
+      "type": "outcome",
+      "message": "\ud83d\udcca SIGNAL REVIEW (4h later)\nNASDOG (NASDOG)\nLiquidity at flag: ~$202,926\nLiquidity now: ~$0\nChange: -100%"
+    },
+    {
+      "ts": 1789768375,
+      "type": "outcome",
+      "message": "\ud83d\udcca SIGNAL REVIEW (4h later)\nGithub Cat (GITCAT)\nLiquidity at flag: ~$27,622\nLiquidity now: ~$2\nChange: -100%"
+    },
+    {
+      "ts": 1789768374,
+      "type": "outcome",
+      "message": "\ud83d\udcca SIGNAL REVIEW (24h later)\nGrok in Blender (GIB)\nLiquidity at flag: ~$20,686\nLiquidity now: ~$2,339\nChange: -89%"
+    },
+    {
+      "ts": 1789768373,
+      "type": "outcome",
+      "message": "\ud83d\udcca SIGNAL REVIEW (24h later)\nJupCat (JupCat)\nLiquidity at flag: ~$38,492\nLiquidity now: ~$0\nChange: -100%"
+    },
     {
       "ts": 1789767808,
       "type": "outcome",
@@ -287,66 +347,6 @@
       "ts": 1789765493,
       "type": "outcome",
       "message": "\ud83d\udcca SIGNAL REVIEW (1h later)\nCatcoin (CAT)\nLiquidity at flag: ~$36,805\nLiquidity now: ~$0\nChange: -100%"
-    },
-    {
-      "ts": 1789765492,
-      "type": "outcome",
-      "message": "\ud83d\udcca SIGNAL REVIEW (1h later)\nRizzmas (Rizzmas)\nLiquidity at flag: ~$23,521\nLiquidity now: ~$9,660\nChange: -59%"
-    },
-    {
-      "ts": 1789765491,
-      "type": "outcome",
-      "message": "\ud83d\udcca SIGNAL REVIEW (1h later)\n\u8482\u5c14\u5361\u7ea6\u864e\u732b (\u864e\u732b)\nLiquidity at flag: ~$41,349\nLiquidity now: ~$2\nChange: -100%"
-    },
-    {
-      "ts": 1789765490,
-      "type": "outcome",
-      "message": "\ud83d\udcca SIGNAL REVIEW (1h later)\nPikachInu (PIKACHINU)\nLiquidity at flag: ~$26,377\nLiquidity now: ~$0\nChange: -100%"
-    },
-    {
-      "ts": 1789765490,
-      "type": "outcome",
-      "message": "\ud83d\udcca SIGNAL REVIEW (1h later)\nCestus Network (CEST)\nLiquidity at flag: ~$90,406\nLiquidity now: ~$0\nChange: -100%"
-    },
-    {
-      "ts": 1789765489,
-      "type": "outcome",
-      "message": "\ud83d\udcca SIGNAL REVIEW (1h later)\nclown news network (CNN)\nLiquidity at flag: ~$23,841\nLiquidity now: ~$0\nChange: -100%"
-    },
-    {
-      "ts": 1789765488,
-      "type": "scanner",
-      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\nkms (KMS)\nOpportunity: 76/100\n\nMOMENTUM     100\nSAFETY       60\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$29,604, 16 min since pool creation\n\u2022 Up +86% in the last hour, ~$103,474 in 24h volume (3.5x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 82% of supply (very concentrated)\n\nCA: E97TbWaXUvS2JRwL21ALwdR1pBSegYuHhqAxFxZFZofM\nhttps://dexscreener.com/solana/E97TbWaXUvS2JRwL21ALwdR1pBSegYuHhqAxFxZFZofM\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
-    },
-    {
-      "ts": 1789765487,
-      "type": "scanner",
-      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\nkms (KMS)\nOpportunity: 76/100\n\nMOMENTUM     100\nSAFETY       60\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$32,276, 10 min since pool creation\n\u2022 Up +125% in the last hour, ~$108,883 in 24h volume (3.4x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 78% of supply (very concentrated)\n\nCA: 5Lf5PKtpo3wkTfqgexZJFiQfbWrwEKCbR8tMXrbyEcsn\nhttps://dexscreener.com/solana/5Lf5PKtpo3wkTfqgexZJFiQfbWrwEKCbR8tMXrbyEcsn\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
-    },
-    {
-      "ts": 1789765487,
-      "type": "scanner",
-      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\nkms (KMS)\nOpportunity: 70/100\n\nMOMENTUM     83\nSAFETY       60\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$173,099, 9 min since pool creation\n\u2022 Up +55% in the last hour, ~$1,044,920 in 24h volume (6.0x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 96% of supply (very concentrated)\n\nCA: 4NSaxtuMSMcWUnuu1AQ28U3pXGooVS3Wa32Xy8AvraKx\nhttps://dexscreener.com/solana/4NSaxtuMSMcWUnuu1AQ28U3pXGooVS3Wa32Xy8AvraKx\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
-    },
-    {
-      "ts": 1789764784,
-      "type": "outcome",
-      "message": "\ud83d\udcca SIGNAL REVIEW (1h later)\nJustice For Bubble (BUBBLE)\nLiquidity at flag: ~$33,666\nLiquidity now: ~$1\nChange: -100%"
-    },
-    {
-      "ts": 1789764783,
-      "type": "outcome",
-      "message": "\ud83d\udcca SIGNAL REVIEW (1h later)\nJustice For Bubble (BUBBLE)\nLiquidity at flag: ~$40,029\nLiquidity now: ~$2\nChange: -100%"
-    },
-    {
-      "ts": 1789764782,
-      "type": "outcome",
-      "message": "\ud83d\udcca SIGNAL REVIEW (1h later)\nmicrosoft (microsoft)\nLiquidity at flag: ~$17,020\nLiquidity now: ~$1\nChange: -100%"
-    },
-    {
-      "ts": 1789764781,
-      "type": "outcome",
-      "message": "\ud83d\udcca SIGNAL REVIEW (4h later)\nEINSTEIN (EINSTEIN)\nLiquidity at flag: ~$18,453\nLiquidity now: ~$1\nChange: -100%"
     }
   ]
 }
