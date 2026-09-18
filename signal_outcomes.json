@@ -11083,7 +11083,8 @@
     "liquidity_at_flag": 30875.527066995342,
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "EsVaD5Y6s9exURgcyUM4WWDb6hvrjd3XroDHmemVL3o5": {
@@ -11093,7 +11094,8 @@
     "liquidity_at_flag": 26670.094349385094,
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "EDSbodwSAwNMxAeiMixahG5rcTjjjfdfVMqbQvfNpump": {
@@ -13602,7 +13604,8 @@
     "flagged_ts": 1789740394,
     "liquidity_at_flag": 28157.243463902436,
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "7KMNPoBDdXiwsttyV7W9SsBUWR2RFm74gugmR4JfdqYD": {
@@ -13611,7 +13614,8 @@
     "flagged_ts": 1789740396,
     "liquidity_at_flag": 66612.30031591331,
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "4dZENDXq4BbKwgk8No3QchUGfanXku1ZpGjVaQsa9i3d": {
@@ -13620,7 +13624,8 @@
     "flagged_ts": 1789740397,
     "liquidity_at_flag": 40506.35636242379,
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "AVToNi32taxYrBVsErH4RvNFQsX5VKgw1esTtWcwxP4n": {
@@ -13629,7 +13634,8 @@
     "flagged_ts": 1789740398,
     "liquidity_at_flag": 163422.58215389922,
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "5VWKjf4UeiEvQLmkgwV5HApYP3ispyse4QxMYK6K4nHs": {
@@ -13638,7 +13644,8 @@
     "flagged_ts": 1789741276,
     "liquidity_at_flag": 17419.782804136168,
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "6jUqDqQidkYepiqeD4qRHGKdKK1zXd7myprYgcXqpump": {
@@ -13647,7 +13654,8 @@
     "flagged_ts": 1789741279,
     "liquidity_at_flag": 32485.465738217274,
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "Ay2HvLZGL3Zvdsw4KMA96rWDkfdh6eiuRs9JxNMVpump": {
@@ -13925,21 +13933,27 @@
     "symbol": "NASDOG",
     "flagged_ts": 1789751878,
     "liquidity_at_flag": 25456.45804429384,
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "6GeLFqPKerrKR6mYeDsF68TN9g5j9Ruj93rmnQVQ3h3w": {
     "name": "NASDOG",
     "symbol": "NASDOG",
     "flagged_ts": 1789751880,
     "liquidity_at_flag": 58135.09760755888,
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "Epw5BPBweoSXdMAsZYnx3Szmfv5oNvtb5tn4cULTYpMo": {
     "name": "NASDOG",
     "symbol": "NASDOG",
     "flagged_ts": 1789751886,
     "liquidity_at_flag": 54190.25116046567,
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "6i3Xj7fRaPkR6kLsokepEGGuRyYDLt4q5SXAtx74jTUS": {
     "name": "NASDOG",
@@ -14030,6 +14044,41 @@
     "symbol": "\u30a2\u30cb\u30e1",
     "flagged_ts": 1789754749,
     "liquidity_at_flag": 31839.37619718698,
+    "checkpoints_done": []
+  },
+  "D8BNpRy9FSNXjXRMxX2qV5KJcdg9rVsirHj2bfUyPGoq": {
+    "name": "donut fade",
+    "symbol": "DNUT",
+    "flagged_ts": 1789755761,
+    "liquidity_at_flag": 26384.86294433821,
+    "checkpoints_done": []
+  },
+  "ZR3PxkevtBzrAvvcjqokt7ENyb7AVaQjMhD12uopump": {
+    "name": "GitHub Coin",
+    "symbol": "GitHub",
+    "flagged_ts": 1789755762,
+    "liquidity_at_flag": 186209.11195782333,
+    "checkpoints_done": []
+  },
+  "7msWdgy8yqMm9Ra5LdhJioLxDNiPCDgbzyscyhwNzonM": {
+    "name": "Neuralink Cat",
+    "symbol": "LUCY",
+    "flagged_ts": 1789755766,
+    "liquidity_at_flag": 30676.3817731574,
+    "checkpoints_done": []
+  },
+  "5CDxPgLR5wtH94B4Cr1kqnoj4mTj9S5ZgLReKdRk15Sy": {
+    "name": "Neuralink Cat",
+    "symbol": "LUCY",
+    "flagged_ts": 1789755768,
+    "liquidity_at_flag": 22549.85933090174,
+    "checkpoints_done": []
+  },
+  "KfVtdu8LGeqguhtzT6kjYEw5K2GnCi57FE9Q66BZEK2": {
+    "name": "Cestus Network",
+    "symbol": "CEST",
+    "flagged_ts": 1789755769,
+    "liquidity_at_flag": 194463.5635700152,
     "checkpoints_done": []
   }
 }
