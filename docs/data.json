@@ -1,5 +1,5 @@
 {
-  "last_updated": 1789706249,
+  "last_updated": 1789706872,
   "wallets": [
     {
       "label": "Dev wallet 1",
@@ -80,23 +80,73 @@
   },
   "scanner_accuracy": {
     "60m": {
-      "count": 1422,
+      "count": 1424,
       "up_pct": 31,
-      "avg_change_pct": 25797469.9
+      "avg_change_pct": 25761237.4
     },
     "240m": {
-      "count": 2633,
+      "count": 2636,
       "up_pct": 24,
-      "avg_change_pct": 13932372.5
+      "avg_change_pct": 13916516.1
     },
     "1440m": {
-      "count": 2555,
+      "count": 2557,
       "up_pct": 24,
-      "avg_change_pct": -51.0
+      "avg_change_pct": -50.9
     }
   },
   "settings": {},
   "recent_alerts": [
+    {
+      "ts": 1789706872,
+      "type": "outcome",
+      "message": "\ud83d\udcca SIGNAL REVIEW (1h later)\nGrok Pot (POT)\nLiquidity at flag: ~$278,513\nLiquidity now: ~$0\nChange: -100%"
+    },
+    {
+      "ts": 1789706871,
+      "type": "outcome",
+      "message": "\ud83d\udcca SIGNAL REVIEW (1h later)\nThe War of Resistance Against JP (918)\nLiquidity at flag: ~$27,841\nLiquidity now: ~$0\nChange: -100%"
+    },
+    {
+      "ts": 1789706870,
+      "type": "outcome",
+      "message": "\ud83d\udcca SIGNAL REVIEW (4h later)\nRegain Your Humanity (STOPAI)\nLiquidity at flag: ~$45,735\nLiquidity now: ~$0\nChange: -100%"
+    },
+    {
+      "ts": 1789706869,
+      "type": "outcome",
+      "message": "\ud83d\udcca SIGNAL REVIEW (4h later)\nALLINU (ALLINU)\nLiquidity at flag: ~$34,779\nLiquidity now: ~$0\nChange: -100%"
+    },
+    {
+      "ts": 1789706869,
+      "type": "outcome",
+      "message": "\ud83d\udcca SIGNAL REVIEW (4h later)\nPublic Cat (PCAT)\nLiquidity at flag: ~$28,265\nLiquidity now: ~$0\nChange: -100%"
+    },
+    {
+      "ts": 1789706868,
+      "type": "outcome",
+      "message": "\ud83d\udcca SIGNAL REVIEW (24h later)\nCZCOIN (CZCOIN)\nLiquidity at flag: ~$52,763\nLiquidity now: ~$45,819\nChange: -13%"
+    },
+    {
+      "ts": 1789706867,
+      "type": "outcome",
+      "message": "\ud83d\udcca SIGNAL REVIEW (24h later)\nCZCOIN (CZCOIN)\nLiquidity at flag: ~$28,371\nLiquidity now: ~$36,866\nChange: +30%"
+    },
+    {
+      "ts": 1789706866,
+      "type": "scanner",
+      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 EXCEPTIONAL\nATOM (ATOM)\nOpportunity: 90/100\n\nMOMENTUM     100\nSAFETY       100\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$32,136, 14 min since pool creation\n\u2022 Up +75% in the last hour, ~$31,399 in 24h volume (1.0x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Low, 0/100):\n\u2022 No major red flags found\n\nCA: 8KSFDqxRZdVXaBMNjQJ3gyV1pe8kRg9Tqv57XyXExgcu\nhttps://dexscreener.com/solana/8KSFDqxRZdVXaBMNjQJ3gyV1pe8kRg9Tqv57XyXExgcu\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
+    },
+    {
+      "ts": 1789706866,
+      "type": "scanner",
+      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\nDEX (DEX)\nOpportunity: 76/100\n\nMOMENTUM     100\nSAFETY       60\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$42,846, 12 min since pool creation\n\u2022 Up +92% in the last hour, ~$571,508 in 24h volume (13.3x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 93% of supply (very concentrated)\n\nCA: AQ9E2waGjk1iatoGf5TRRCU8tP43CXQ6Kxw2wni85tjY\nhttps://dexscreener.com/solana/AQ9E2waGjk1iatoGf5TRRCU8tP43CXQ6Kxw2wni85tjY\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
+    },
+    {
+      "ts": 1789706860,
+      "type": "scanner",
+      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\nThe Original Pumpfun (HELIOS)\nOpportunity: 76/100\n\nMOMENTUM     85\nSAFETY       75\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$37,941, 11 min since pool creation\n\u2022 Up +57% in the last hour, ~$204,283 in 24h volume (5.4x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 25/100):\n\u2022 top 10 holders own 68% of supply (concentrated)\n\nCA: Bw5v9hLhSUQJXRFf4fmzvTZd8K726utEDta55tn1FGfZ\nhttps://dexscreener.com/solana/Bw5v9hLhSUQJXRFf4fmzvTZd8K726utEDta55tn1FGfZ\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
+    },
     {
       "ts": 1789706249,
       "type": "outcome",
@@ -296,56 +346,6 @@
       "ts": 1789702628,
       "type": "outcome",
       "message": "\ud83d\udcca SIGNAL REVIEW (24h later)\nMomoCoin (MOMO)\nLiquidity at flag: ~$24,166\nLiquidity now: ~$0\nChange: -100%"
-    },
-    {
-      "ts": 1789702627,
-      "type": "outcome",
-      "message": "\ud83d\udcca SIGNAL REVIEW (24h later)\nblackpill (bp)\nLiquidity at flag: ~$10,560\nLiquidity now: ~$2,649\nChange: -75%"
-    },
-    {
-      "ts": 1789702625,
-      "type": "scanner",
-      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\n\u8774\u8776\u4eba\u751f (\u8774\u8776\u4eba\u751f)\nOpportunity: 78/100\n\nMOMENTUM     66\nSAFETY       100\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$28,662, 12 min since pool creation\n\u2022 Up +44% in the last hour, ~$20,526 in 24h volume (0.7x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Low, 0/100):\n\u2022 No major red flags found\n\nCA: J1BGvzcKdY3HVZpgHK9QB76Q7BLgN1rHcofVdnFcTx7K\nhttps://dexscreener.com/solana/J1BGvzcKdY3HVZpgHK9QB76Q7BLgN1rHcofVdnFcTx7K\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
-    },
-    {
-      "ts": 1789701674,
-      "type": "outcome",
-      "message": "\ud83d\udcca SIGNAL REVIEW (1h later)\nwrappedcat (wCat)\nLiquidity at flag: ~$46,736\nLiquidity now: ~$0\nChange: -100%"
-    },
-    {
-      "ts": 1789701673,
-      "type": "outcome",
-      "message": "\ud83d\udcca SIGNAL REVIEW (1h later)\nCover (Cover)\nLiquidity at flag: ~$68,915\nLiquidity now: ~$1\nChange: -100%"
-    },
-    {
-      "ts": 1789701672,
-      "type": "outcome",
-      "message": "\ud83d\udcca SIGNAL REVIEW (1h later)\nzpool.fun (ZPOOL)\nLiquidity at flag: ~$21,022\nLiquidity now: ~$0\nChange: -100%"
-    },
-    {
-      "ts": 1789701671,
-      "type": "outcome",
-      "message": "\ud83d\udcca SIGNAL REVIEW (4h later)\nclaudeai (Claude)\nLiquidity at flag: ~$301,337\nLiquidity now: ~$0\nChange: -100%"
-    },
-    {
-      "ts": 1789701670,
-      "type": "outcome",
-      "message": "\ud83d\udcca SIGNAL REVIEW (4h later)\nreal internet money (RIM)\nLiquidity at flag: ~$44,449\nLiquidity now: ~$4\nChange: -100%"
-    },
-    {
-      "ts": 1789701669,
-      "type": "outcome",
-      "message": "\ud83d\udcca SIGNAL REVIEW (4h later)\nJupCat (MEOW)\nLiquidity at flag: ~$28,985\nLiquidity now: ~$0\nChange: -100%"
-    },
-    {
-      "ts": 1789701668,
-      "type": "outcome",
-      "message": "\ud83d\udcca SIGNAL REVIEW (24h later)\nKevin Startup Fund. (KEVIN)\nLiquidity at flag: ~$187,779\nLiquidity now: ~$255,822\nChange: +36%"
-    },
-    {
-      "ts": 1789701666,
-      "type": "outcome",
-      "message": "\ud83d\udcca SIGNAL REVIEW (24h later)\nComnexx AI (Comnexx)\nLiquidity at flag: ~$21,698\nLiquidity now: ~$2,270\nChange: -90%"
     }
   ]
 }
