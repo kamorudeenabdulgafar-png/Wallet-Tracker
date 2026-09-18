@@ -1,5 +1,5 @@
 {
-  "last_updated": 1789698042,
+  "last_updated": 1789699061,
   "wallets": [
     {
       "label": "Dev wallet 1",
@@ -80,14 +80,14 @@
   },
   "scanner_accuracy": {
     "60m": {
-      "count": 1401,
+      "count": 1404,
       "up_pct": 32,
-      "avg_change_pct": 26184156.9
+      "avg_change_pct": 26128207.7
     },
     "240m": {
-      "count": 2617,
+      "count": 2620,
       "up_pct": 24,
-      "avg_change_pct": 14017553.7
+      "avg_change_pct": 14001503.0
     },
     "1440m": {
       "count": 2529,
@@ -97,6 +97,36 @@
   },
   "settings": {},
   "recent_alerts": [
+    {
+      "ts": 1789699061,
+      "type": "outcome",
+      "message": "\ud83d\udcca SIGNAL REVIEW (1h later)\nwrappedcat (wCat)\nLiquidity at flag: ~$26,271\nLiquidity now: ~$0\nChange: -100%"
+    },
+    {
+      "ts": 1789699061,
+      "type": "outcome",
+      "message": "\ud83d\udcca SIGNAL REVIEW (1h later)\nRaydium (RAY)\nLiquidity at flag: ~$30,553\nLiquidity now: ~$0\nChange: -100%"
+    },
+    {
+      "ts": 1789699060,
+      "type": "outcome",
+      "message": "\ud83d\udcca SIGNAL REVIEW (1h later)\nZach Warunek (Zach)\nLiquidity at flag: ~$36,725\nLiquidity now: ~$15,308\nChange: -58%"
+    },
+    {
+      "ts": 1789699059,
+      "type": "outcome",
+      "message": "\ud83d\udcca SIGNAL REVIEW (4h later)\nClong (CLONG)\nLiquidity at flag: ~$27,182\nLiquidity now: ~$7,580\nChange: -72%"
+    },
+    {
+      "ts": 1789699058,
+      "type": "outcome",
+      "message": "\ud83d\udcca SIGNAL REVIEW (4h later)\nallow.fun (ALLOW)\nLiquidity at flag: ~$41,461\nLiquidity now: ~$2\nChange: -100%"
+    },
+    {
+      "ts": 1789699058,
+      "type": "outcome",
+      "message": "\ud83d\udcca SIGNAL REVIEW (4h later)\nRonnie (Ronnie)\nLiquidity at flag: ~$22,270\nLiquidity now: ~$0\nChange: -100%"
+    },
     {
       "ts": 1789698042,
       "type": "outcome",
@@ -316,36 +346,6 @@
       "ts": 1789695301,
       "type": "wallet",
       "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: USDC -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/3ZZYJANRMapQGN4QSWSjPq61sq1oGyyESn8H5PrYSptSoGYSjYNzzaVVGuYwDdVMTiAuNCN9LWmm6bTfMjLZQ8YE"
-    },
-    {
-      "ts": 1789694437,
-      "type": "outcome",
-      "message": "\ud83d\udcca SIGNAL REVIEW (4h later)\nZillions (ZILLIONS)\nLiquidity at flag: ~$44,064\nLiquidity now: ~$0\nChange: -100%"
-    },
-    {
-      "ts": 1789694437,
-      "type": "outcome",
-      "message": "\ud83d\udcca SIGNAL REVIEW (4h later)\nDividend Hounds (HOUND)\nLiquidity at flag: ~$29,018\nLiquidity now: ~$0\nChange: -100%"
-    },
-    {
-      "ts": 1789694436,
-      "type": "outcome",
-      "message": "\ud83d\udcca SIGNAL REVIEW (24h later)\n\u58a8\u5b50 (\u58a8\u5b50)\nLiquidity at flag: ~$24,160\nLiquidity now: ~$0\nChange: -100%"
-    },
-    {
-      "ts": 1789694435,
-      "type": "outcome",
-      "message": "\ud83d\udcca SIGNAL REVIEW (24h later)\nTIMELESS (TIMELESS)\nLiquidity at flag: ~$41,906\nLiquidity now: ~$2,774\nChange: -93%"
-    },
-    {
-      "ts": 1789694434,
-      "type": "outcome",
-      "message": "\ud83d\udcca SIGNAL REVIEW (24h later)\nDragon Ball (KAKAROT)\nLiquidity at flag: ~$37,428\nLiquidity now: ~$0\nChange: -100%"
-    },
-    {
-      "ts": 1789694433,
-      "type": "outcome",
-      "message": "\ud83d\udcca SIGNAL REVIEW (24h later)\nQuality CoinQUALITY (?)\nLiquidity at flag: ~$19,328\nLiquidity now: ~$3\nChange: -100%"
     }
   ]
 }
