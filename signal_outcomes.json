@@ -13118,7 +13118,8 @@
     "liquidity_at_flag": 17140.28846211086,
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "Ar9c4SGBxf53WA7ANGFdxgRoh7qm3LAXu1EqEA5PwHsj": {
@@ -13128,7 +13129,8 @@
     "liquidity_at_flag": 26377.964150469874,
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "AGcHhhcPhC6dXiWaSRoTN2qwD92yC3djHLz1ZYcppump": {
@@ -15347,7 +15349,8 @@
     "flagged_ts": 1789704378,
     "liquidity_at_flag": 29759.22182343464,
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "DgEtMcxjjBLyscyXQoy3wq2PbL2cef33h2YWgWertMgP": {
@@ -15805,21 +15808,27 @@
     "symbol": "MEMEBANK",
     "flagged_ts": 1789715345,
     "liquidity_at_flag": 30364.542240051902,
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "9d5SDQZVALzjJCwkhnKWm9Xo5K8bHSB9LU1YGUiEZADs": {
     "name": "\u65e5\u672c\u6295\u964d\u7b7e\u5b57\u4eea\u5f0f\u7ed3\u675f\u65f6\u95f49\u65f618\u5206",
     "symbol": "918",
     "flagged_ts": 1789715346,
     "liquidity_at_flag": 39814.39878839858,
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "HWjR27n3Sg9RY7MWpfLaB3ZSYkcC2tfMnim2rB6Cpump": {
     "name": "Artifical HUHCAT",
     "symbol": "AIHUHCAT",
     "flagged_ts": 1789715348,
     "liquidity_at_flag": 32684.0523164122,
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "8geTzQgnw7GYTxqRr2Wq3MfvNTqWq7wMih53QsZUwPeQ": {
     "name": "MEMEBANK",
@@ -15917,6 +15926,41 @@
     "symbol": "Neko",
     "flagged_ts": 1789718736,
     "liquidity_at_flag": 20022.70286908572,
+    "checkpoints_done": []
+  },
+  "2UYFf4eJjaw8pFwRf8AftBgC1Y1rheFnD9unMorgpump": {
+    "name": "Privacy Cat",
+    "symbol": "PCAT",
+    "flagged_ts": 1789719708,
+    "liquidity_at_flag": 22205.76684468115,
+    "checkpoints_done": []
+  },
+  "5hmWwRNw66m1YtQKbnFvfSerhkgD3pdmuQ4JZywepump": {
+    "name": "SPONK",
+    "symbol": "SPONK",
+    "flagged_ts": 1789719709,
+    "liquidity_at_flag": 21121.78697309739,
+    "checkpoints_done": []
+  },
+  "FqSh33bSC8FtacMEFmNUMhQUtrqZGUJqbDH35BUBuSCb": {
+    "name": "UiPath",
+    "symbol": "PATH",
+    "flagged_ts": 1789719709,
+    "liquidity_at_flag": 71937.14030178076,
+    "checkpoints_done": []
+  },
+  "Cp4TnX6VTcReXpiyV8veadrzPPcVrYtXwzRBDv2DRGV": {
+    "name": "Bytecoin",
+    "symbol": "BCN",
+    "flagged_ts": 1789719710,
+    "liquidity_at_flag": 43392.710389509615,
+    "checkpoints_done": []
+  },
+  "B1Bs29e7mhZ3iEdorUfWdfFyN757zGgLnpMAQ5ac4BTp": {
+    "name": "PAID",
+    "symbol": "Paid",
+    "flagged_ts": 1789719711,
+    "liquidity_at_flag": 30824.440967151077,
     "checkpoints_done": []
   }
 }
