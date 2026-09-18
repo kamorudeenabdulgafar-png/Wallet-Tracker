@@ -1,5 +1,5 @@
 {
-  "last_updated": 1789773565,
+  "last_updated": 1789774196,
   "wallets": [
     {
       "label": "Dev wallet 1",
@@ -81,14 +81,14 @@
   },
   "scanner_accuracy": {
     "60m": {
-      "count": 1669,
+      "count": 1671,
       "up_pct": 29,
-      "avg_change_pct": 21979619.4
+      "avg_change_pct": 21953312.3
     },
     "240m": {
-      "count": 2877,
+      "count": 2885,
       "up_pct": 22,
-      "avg_change_pct": 12750752.6
+      "avg_change_pct": 12715394.9
     },
     "1440m": {
       "count": 2724,
@@ -98,6 +98,71 @@
   },
   "settings": {},
   "recent_alerts": [
+    {
+      "ts": 1789774196,
+      "type": "outcome",
+      "message": "\ud83d\udcca SIGNAL REVIEW (1h later)\nCrossr (CROSSR)\nLiquidity at flag: ~$30,509\nLiquidity now: ~$39,752\nChange: +30%"
+    },
+    {
+      "ts": 1789774195,
+      "type": "outcome",
+      "message": "\ud83d\udcca SIGNAL REVIEW (1h later)\nCrossr (CROSSR)\nLiquidity at flag: ~$16,672\nLiquidity now: ~$36,834\nChange: +121%"
+    },
+    {
+      "ts": 1789774194,
+      "type": "outcome",
+      "message": "\ud83d\udcca SIGNAL REVIEW (4h later)\nPumpdog (PDOG)\nLiquidity at flag: ~$51,827\nLiquidity now: ~$3\nChange: -100%"
+    },
+    {
+      "ts": 1789774193,
+      "type": "outcome",
+      "message": "\ud83d\udcca SIGNAL REVIEW (4h later)\nThe One In A Million (ONE)\nLiquidity at flag: ~$31,104\nLiquidity now: ~$7\nChange: -100%"
+    },
+    {
+      "ts": 1789774192,
+      "type": "outcome",
+      "message": "\ud83d\udcca SIGNAL REVIEW (4h later)\nLeopardus Tilcayo (TIGRINO)\nLiquidity at flag: ~$58,567\nLiquidity now: ~$14\nChange: -100%"
+    },
+    {
+      "ts": 1789774191,
+      "type": "outcome",
+      "message": "\ud83d\udcca SIGNAL REVIEW (4h later)\nCrates (CRATES)\nLiquidity at flag: ~$37,512\nLiquidity now: ~$1\nChange: -100%"
+    },
+    {
+      "ts": 1789774190,
+      "type": "outcome",
+      "message": "\ud83d\udcca SIGNAL REVIEW (4h later)\nNASDOG (NASDOG)\nLiquidity at flag: ~$36,061\nLiquidity now: ~$0\nChange: -100%"
+    },
+    {
+      "ts": 1789774189,
+      "type": "outcome",
+      "message": "\ud83d\udcca SIGNAL REVIEW (4h later)\nThe One In A Million (ONE)\nLiquidity at flag: ~$25,218\nLiquidity now: ~$0\nChange: -100%"
+    },
+    {
+      "ts": 1789774187,
+      "type": "outcome",
+      "message": "\ud83d\udcca SIGNAL REVIEW (4h later)\nPumpdog (PDOG)\nLiquidity at flag: ~$27,248\nLiquidity now: ~$0\nChange: -100%"
+    },
+    {
+      "ts": 1789774186,
+      "type": "outcome",
+      "message": "\ud83d\udcca SIGNAL REVIEW (4h later)\nPumpdog (PDOG)\nLiquidity at flag: ~$33,127\nLiquidity now: ~$0\nChange: -100%"
+    },
+    {
+      "ts": 1789774185,
+      "type": "scanner",
+      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 EXCEPTIONAL\nPaid Chips (PAIDCHIPS)\nOpportunity: 90/100\n\nMOMENTUM     100\nSAFETY       100\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$26,423, 13 min since pool creation\n\u2022 Up +96% in the last hour, ~$458,699 in 24h volume (17.4x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Low, 0/100):\n\u2022 No major red flags found\n\nCA: yWp5jYJevDi1bWAZxq1aKaDFpMytHZaN7hVJXAypump\nhttps://dexscreener.com/solana/yWp5jYJevDi1bWAZxq1aKaDFpMytHZaN7hVJXAypump\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
+    },
+    {
+      "ts": 1789774184,
+      "type": "scanner",
+      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\nOptimus Prime (Prime)\nOpportunity: 76/100\n\nMOMENTUM     100\nSAFETY       60\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$34,068, 13 min since pool creation\n\u2022 Up +95% in the last hour, ~$40,842 in 24h volume (1.2x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 81% of supply (very concentrated)\n\nCA: 88af3ZpeEYVYt1YSysWL5fayy3FtgWhXYHmAhT4qUy7W\nhttps://dexscreener.com/solana/88af3ZpeEYVYt1YSysWL5fayy3FtgWhXYHmAhT4qUy7W\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
+    },
+    {
+      "ts": 1789774183,
+      "type": "scanner",
+      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\nLeopardus Tilcayo (TIGRINO)\nOpportunity: 76/100\n\nMOMENTUM     100\nSAFETY       60\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$33,612, 9 min since pool creation\n\u2022 Up +122% in the last hour, ~$45,411 in 24h volume (1.4x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 71% of supply (very concentrated)\n\nCA: E8mALE1zhRFgpWsaRaenQMnasUaLrAVJKynEiRQVZvuN\nhttps://dexscreener.com/solana/E8mALE1zhRFgpWsaRaenQMnasUaLrAVJKynEiRQVZvuN\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
+    },
     {
       "ts": 1789773565,
       "type": "outcome",
@@ -282,71 +347,6 @@
       "ts": 1789771448,
       "type": "wallet",
       "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: xBTC -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/4c8k3rjwCC4YC73HKKiFkYZ2xvj2pHwYmUrwL8PSaQraupRoRqCiQg1fmaggAoBH8R85kbbVokUe12hPSBgkb7SX"
-    },
-    {
-      "ts": 1789771447,
-      "type": "wallet",
-      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: PSG -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/3qqKCCKsNXtTgUdKL6ypQ4R4Ht1hirNxUEHbiAtspBSbyfBhbsjnSsas9NHw4fyzYHBSDfbUKvH2r3T2rjhCPjq"
-    },
-    {
-      "ts": 1789770653,
-      "type": "outcome",
-      "message": "\ud83d\udcca SIGNAL REVIEW (1h later)\nFightCat (FIGHTCAT)\nLiquidity at flag: ~$15,825\nLiquidity now: ~$1\nChange: -100%"
-    },
-    {
-      "ts": 1789770652,
-      "type": "outcome",
-      "message": "\ud83d\udcca SIGNAL REVIEW (1h later)\nApu (APU)\nLiquidity at flag: ~$32,514\nLiquidity now: ~$1\nChange: -100%"
-    },
-    {
-      "ts": 1789770651,
-      "type": "outcome",
-      "message": "\ud83d\udcca SIGNAL REVIEW (1h later)\nApu (APU)\nLiquidity at flag: ~$27,749\nLiquidity now: ~$1\nChange: -100%"
-    },
-    {
-      "ts": 1789770649,
-      "type": "outcome",
-      "message": "\ud83d\udcca SIGNAL REVIEW (4h later)\nCestus Network (CEST)\nLiquidity at flag: ~$194,464\nLiquidity now: ~$0\nChange: -100%"
-    },
-    {
-      "ts": 1789770649,
-      "type": "outcome",
-      "message": "\ud83d\udcca SIGNAL REVIEW (4h later)\nNeuralink Cat (LUCY)\nLiquidity at flag: ~$22,550\nLiquidity now: ~$4\nChange: -100%"
-    },
-    {
-      "ts": 1789770647,
-      "type": "outcome",
-      "message": "\ud83d\udcca SIGNAL REVIEW (4h later)\nNeuralink Cat (LUCY)\nLiquidity at flag: ~$30,676\nLiquidity now: ~$0\nChange: -100%"
-    },
-    {
-      "ts": 1789770646,
-      "type": "outcome",
-      "message": "\ud83d\udcca SIGNAL REVIEW (4h later)\nGitHub Coin (GitHub)\nLiquidity at flag: ~$186,209\nLiquidity now: ~$212,824\nChange: +14%"
-    },
-    {
-      "ts": 1789770645,
-      "type": "outcome",
-      "message": "\ud83d\udcca SIGNAL REVIEW (4h later)\ndonut fade (DNUT)\nLiquidity at flag: ~$26,385\nLiquidity now: ~$27,403\nChange: +4%"
-    },
-    {
-      "ts": 1789770644,
-      "type": "outcome",
-      "message": "\ud83d\udcca SIGNAL REVIEW (24h later)\nClong (CLONG)\nLiquidity at flag: ~$27,182\nLiquidity now: ~$7,893\nChange: -71%"
-    },
-    {
-      "ts": 1789770643,
-      "type": "outcome",
-      "message": "\ud83d\udcca SIGNAL REVIEW (24h later)\nallow.fun (ALLOW)\nLiquidity at flag: ~$41,461\nLiquidity now: ~$2\nChange: -100%"
-    },
-    {
-      "ts": 1789770642,
-      "type": "outcome",
-      "message": "\ud83d\udcca SIGNAL REVIEW (24h later)\nRonnie (Ronnie)\nLiquidity at flag: ~$22,270\nLiquidity now: ~$0\nChange: -100%"
-    },
-    {
-      "ts": 1789770639,
-      "type": "wallet",
-      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: GOOGLx -> USDC\nTrade size: unknown\nBought token: USD Coin (USDC)\nCA: EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v\nhttps://solscan.io/tx/4e8cuN2KzypoKdewwfjQYZSDMJAxr6KSLYPoRhjxKEbaRVMWTvvVP4NLSn3TDEv6YFxyL4f8X1mNw3zcW5bPRtgb"
     }
   ]
 }
