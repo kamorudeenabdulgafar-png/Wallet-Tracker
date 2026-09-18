@@ -1,5 +1,5 @@
 {
-  "last_updated": 1789689988,
+  "last_updated": 1789691242,
   "wallets": [
     {
       "label": "Dev wallet 1",
@@ -80,9 +80,9 @@
   },
   "scanner_accuracy": {
     "60m": {
-      "count": 1381,
+      "count": 1384,
       "up_pct": 32,
-      "avg_change_pct": 26563363.9
+      "avg_change_pct": 26505784.2
     },
     "240m": {
       "count": 2598,
@@ -90,13 +90,48 @@
       "avg_change_pct": 14120069.3
     },
     "1440m": {
-      "count": 2509,
+      "count": 2512,
       "up_pct": 24,
-      "avg_change_pct": -50.6
+      "avg_change_pct": -50.7
     }
   },
   "settings": {},
   "recent_alerts": [
+    {
+      "ts": 1789691242,
+      "type": "outcome",
+      "message": "\ud83d\udcca SIGNAL REVIEW (1h later)\nclaudeai (Claude)\nLiquidity at flag: ~$301,337\nLiquidity now: ~$349,093\nChange: +16%"
+    },
+    {
+      "ts": 1789691241,
+      "type": "outcome",
+      "message": "\ud83d\udcca SIGNAL REVIEW (1h later)\nreal internet money (RIM)\nLiquidity at flag: ~$44,449\nLiquidity now: ~$4\nChange: -100%"
+    },
+    {
+      "ts": 1789691239,
+      "type": "outcome",
+      "message": "\ud83d\udcca SIGNAL REVIEW (1h later)\nJupCat (MEOW)\nLiquidity at flag: ~$28,985\nLiquidity now: ~$0\nChange: -100%"
+    },
+    {
+      "ts": 1789691238,
+      "type": "outcome",
+      "message": "\ud83d\udcca SIGNAL REVIEW (24h later)\nCrowBrain (CrowBrain)\nLiquidity at flag: ~$24,713\nLiquidity now: ~$0\nChange: -100%"
+    },
+    {
+      "ts": 1789691237,
+      "type": "outcome",
+      "message": "\ud83d\udcca SIGNAL REVIEW (24h later)\nPumpBall (PUMPBALL)\nLiquidity at flag: ~$60,687\nLiquidity now: ~$1\nChange: -100%"
+    },
+    {
+      "ts": 1789691236,
+      "type": "outcome",
+      "message": "\ud83d\udcca SIGNAL REVIEW (24h later)\nPaid the Robin (PAIDROBIN)\nLiquidity at flag: ~$20,802\nLiquidity now: ~$2,028\nChange: -90%"
+    },
+    {
+      "ts": 1789691235,
+      "type": "scanner",
+      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\nRegain Your Humanity (WYND)\nOpportunity: 76/100\n\nMOMENTUM     60\nSAFETY       100\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$23,215, 12 min since pool creation\n\u2022 Up +40% in the last hour, ~$311,582 in 24h volume (13.4x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Low, 0/100):\n\u2022 No major red flags found\n\nCA: 2ubhzKPouTyA3yrzo7DfptPvDHsr1NBUcYPvDkR3FNut\nhttps://dexscreener.com/solana/2ubhzKPouTyA3yrzo7DfptPvDHsr1NBUcYPvDkR3FNut\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
+    },
     {
       "ts": 1789689988,
       "type": "outcome",
@@ -311,41 +346,6 @@
       "ts": 1789686262,
       "type": "outcome",
       "message": "\ud83d\udcca SIGNAL REVIEW (4h later)\nFINANCIAL PTSD (FPTSD)\nLiquidity at flag: ~$25,031\nLiquidity now: ~$2,192\nChange: -91%"
-    },
-    {
-      "ts": 1789686261,
-      "type": "outcome",
-      "message": "\ud83d\udcca SIGNAL REVIEW (4h later)\nFred (Fred)\nLiquidity at flag: ~$25,055\nLiquidity now: ~$0\nChange: -100%"
-    },
-    {
-      "ts": 1789686260,
-      "type": "scanner",
-      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 EXCEPTIONAL\nMOONSHOT (MOONSHOT)\nOpportunity: 90/100\n\nMOMENTUM     100\nSAFETY       100\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$33,960, 16 min since pool creation\n\u2022 Up +105% in the last hour, ~$135,746 in 24h volume (4.0x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Low, 0/100):\n\u2022 No major red flags found\n\nCA: 73nBoTeEAJAWaNP8ayTDUZbx6ag3JcHm4CPxGi8Tpump\nhttps://dexscreener.com/solana/73nBoTeEAJAWaNP8ayTDUZbx6ag3JcHm4CPxGi8Tpump\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
-    },
-    {
-      "ts": 1789686259,
-      "type": "scanner",
-      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\nPhantom Cat (PCAT)\nOpportunity: 76/100\n\nMOMENTUM     100\nSAFETY       60\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$25,749, 15 min since pool creation\n\u2022 Up +103% in the last hour, ~$135,714 in 24h volume (5.3x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 85% of supply (very concentrated)\n\nCA: 2k8RPPsjgsZeYr7hpaT7XxTJ3NFYsyZv7W2TRSEgVjNx\nhttps://dexscreener.com/solana/2k8RPPsjgsZeYr7hpaT7XxTJ3NFYsyZv7W2TRSEgVjNx\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
-    },
-    {
-      "ts": 1789686257,
-      "type": "scanner",
-      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\nSolana Pepe (SOLPEPE)\nOpportunity: 78/100\n\nMOMENTUM     64\nSAFETY       100\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$21,829, 7 min since pool creation\n\u2022 Up +43% in the last hour, ~$198,547 in 24h volume (9.1x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Low, 0/100):\n\u2022 No major red flags found\n\nCA: 2FGnCG48aSBpAgTBdrAZ3URnWF2dg4XMWM6wRLYLpump\nhttps://dexscreener.com/solana/2FGnCG48aSBpAgTBdrAZ3URnWF2dg4XMWM6wRLYLpump\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
-    },
-    {
-      "ts": 1789686256,
-      "type": "scanner",
-      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\nreal internet money (RIM)\nOpportunity: 71/100\n\nMOMENTUM     100\nSAFETY       60\nLIQUIDITY    76\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$15,180, 6 min since pool creation\n\u2022 Up +84% in the last hour, ~$165,108 in 24h volume (10.9x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 95% of supply (very concentrated)\n\nCA: 5mYMFpZyWtfA3fuQRp2JUEdHNV8tcgDnK7oxS9vYep1e\nhttps://dexscreener.com/solana/5mYMFpZyWtfA3fuQRp2JUEdHNV8tcgDnK7oxS9vYep1e\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
-    },
-    {
-      "ts": 1789685638,
-      "type": "outcome",
-      "message": "\ud83d\udcca SIGNAL REVIEW (1h later)\nSolana Dog (SOLDOG)\nLiquidity at flag: ~$24,207\nLiquidity now: ~$39,022\nChange: +61%"
-    },
-    {
-      "ts": 1789685637,
-      "type": "outcome",
-      "message": "\ud83d\udcca SIGNAL REVIEW (1h later)\nMooncat (MCAT)\nLiquidity at flag: ~$23,204\nLiquidity now: ~$0\nChange: -100%"
     }
   ]
 }
