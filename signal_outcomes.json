@@ -11655,7 +11655,8 @@
     "liquidity_at_flag": 16632.974501962017,
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "78MC723LRRcerG1UqQPw8g96saHjmiUV5hUsSuL6n3GC": {
@@ -11665,7 +11666,8 @@
     "liquidity_at_flag": 29655.646058885854,
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "Dxzim4zbsVTxYxgB4dLgQK9xCPvSMWreNhBD2sEUgYLv": {
@@ -11675,7 +11677,8 @@
     "liquidity_at_flag": 29390.624296078342,
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "BkUsXH3k3NVKRFKugDhjj2QnP6t1mY2MkwAg1jZdgMvu": {
@@ -11685,7 +11688,8 @@
     "liquidity_at_flag": 61284.53654855708,
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "99wkUqrEX5jQsoidGPzeinXctDwMvJiLrei596bNpump": {
@@ -14144,7 +14148,8 @@
     "flagged_ts": 1789731925,
     "liquidity_at_flag": 89747.28799701601,
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "4PYVWqC358kpvKYDrwbniVAeUXUq6dULa27Z2TCVpump": {
@@ -14153,7 +14158,8 @@
     "flagged_ts": 1789731927,
     "liquidity_at_flag": 36193.914619636125,
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "JEFU4dxJydTSj7vpn6u1npTiNpso8dnrdvdVxAPpCCVj": {
@@ -14458,35 +14464,45 @@
     "symbol": "WIFPAID",
     "flagged_ts": 1789742225,
     "liquidity_at_flag": 17473.33162762443,
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "9skDWvy6mTcJDzdwEfvCLV7JpPAuiq4RCa5EUpXLpump": {
     "name": "Sell the Highs",
     "symbol": "SELLHIGHS",
     "flagged_ts": 1789742226,
     "liquidity_at_flag": 21644.659331961804,
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "2YRH2zYPSQZKFvg87UEXkqVDuRjnNru8mPRkhbCNpump": {
     "name": "The Paid of Gambling",
     "symbol": "TokabuPaid",
     "flagged_ts": 1789742227,
     "liquidity_at_flag": 13875.916787882077,
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "CfHddSDgUbNrXJH844S6RxovgW9B6Bhvm6ZizhKYuSKg": {
     "name": "Shuttle Labs Inc.",
     "symbol": "LORE",
     "flagged_ts": 1789742234,
     "liquidity_at_flag": 27995.053678606084,
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "54NY8RruVh1n2qLH9SpAMerpvgV3A8kJijqXTtzKGq4n": {
     "name": "Mermaid Cat",
     "symbol": "MermaidCat",
     "flagged_ts": 1789742234,
     "liquidity_at_flag": 42465.2148694395,
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "Gtdyt6M7RKSQRBtL47tUamWYUadzd6EUtrKUBqLk4EF9": {
     "name": "the messenger",
@@ -14535,6 +14551,13 @@
     "symbol": "bBALL",
     "flagged_ts": 1789744935,
     "liquidity_at_flag": 36540.76529216497,
+    "checkpoints_done": []
+  },
+  "XWAGcvvGn945HoNpYdcUUjkMyU3D9oW9bDdJHcDL79H": {
+    "name": "Elon Musk",
+    "symbol": "DOGE",
+    "flagged_ts": 1789746446,
+    "liquidity_at_flag": 29762.1407356353,
     "checkpoints_done": []
   }
 }
