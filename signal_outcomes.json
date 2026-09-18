@@ -14207,7 +14207,8 @@
     "liquidity_at_flag": 23086.358706064457,
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "EhfAJ9kzHRJvwxeEvM26fkvFeoYs7QLyWjM6Gqd7PJDt": {
@@ -14217,7 +14218,8 @@
     "liquidity_at_flag": 27668.483601284344,
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "7YFjBsHiX1jWqhdds8j72TFqwjL4FnmfZLbPCh4t1zes": {
@@ -14227,7 +14229,8 @@
     "liquidity_at_flag": 37286.02691066831,
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "Bh8LRRbq7GUJZGyzFRr9gjMN9n8SK7nGEo8VnPaHFaUR": {
@@ -16766,7 +16769,8 @@
     "flagged_ts": 1789680653,
     "liquidity_at_flag": 32686.5729899705,
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "DvVxzdyB5Q3Zp6Kk5gAEKxnKCroxdJCY7MM52hcogLuJ": {
@@ -17053,7 +17057,9 @@
     "symbol": "WYND",
     "flagged_ts": 1789691235,
     "liquidity_at_flag": 23214.93349648658,
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "6h8tQb5tYq5Dp3NQcxeq1b5Riosy79hnjrs4DKqVL5YA": {
     "name": "Public Cat",
@@ -17130,6 +17136,27 @@
     "symbol": "SOLCAT",
     "flagged_ts": 1789693642,
     "liquidity_at_flag": 29162.15346391836,
+    "checkpoints_done": []
+  },
+  "A2oMu6cYg6kJpiJ8kSLvRWoDL9SdEQmGj2tFpBsiXBni": {
+    "name": "Zach Warunek",
+    "symbol": "Zach",
+    "flagged_ts": 1789695309,
+    "liquidity_at_flag": 36725.34594701322,
+    "checkpoints_done": []
+  },
+  "9BWmSyQijQ6MLSELQsZo8mjdHtR6XsWMWFQmxwdmHKGi": {
+    "name": "Raydium",
+    "symbol": "RAY",
+    "flagged_ts": 1789695311,
+    "liquidity_at_flag": 30552.916126593624,
+    "checkpoints_done": []
+  },
+  "D19NokXdzsaVGDehfyS1U7WxwwnnfXWF4uEmjBKoo4b8": {
+    "name": "wrappedcat",
+    "symbol": "wCat",
+    "flagged_ts": 1789695313,
+    "liquidity_at_flag": 26271.203381635987,
     "checkpoints_done": []
   }
 }
