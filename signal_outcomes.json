@@ -13437,7 +13437,8 @@
     "liquidity_at_flag": 48080.17295327843,
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "LMYJ6T1MxeojgW4imqKGcuMYraLhqsWV2uFG4MSVmX6": {
@@ -13447,7 +13448,8 @@
     "liquidity_at_flag": 113640.17216239878,
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "CYJqEaUrQ2TAhgkZzNpBM1f6tyuxoDLoikdGvfPmpump": {
@@ -15756,7 +15758,8 @@
     "flagged_ts": 1789693641,
     "liquidity_at_flag": 27855.989706218337,
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "4CH5Vqxx2t1vW9UpGKN29XsagtDHUB35zrcaU4YABAGS": {
@@ -15765,7 +15768,8 @@
     "flagged_ts": 1789693642,
     "liquidity_at_flag": 54006.89236691766,
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "8xmAWtChid9UibqpTXf9KExCxQP5r4yfx5He1QKFVnAL": {
@@ -15774,7 +15778,8 @@
     "flagged_ts": 1789693642,
     "liquidity_at_flag": 29162.15346391836,
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "A2oMu6cYg6kJpiJ8kSLvRWoDL9SdEQmGj2tFpBsiXBni": {
@@ -16061,7 +16066,9 @@
     "symbol": "CIG",
     "flagged_ts": 1789704378,
     "liquidity_at_flag": 29759.22182343464,
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "DgEtMcxjjBLyscyXQoy3wq2PbL2cef33h2YWgWertMgP": {
     "name": "DEX",
@@ -16138,6 +16145,34 @@
     "symbol": "NEVER",
     "flagged_ts": 1789707951,
     "liquidity_at_flag": 27161.1803268546,
+    "checkpoints_done": []
+  },
+  "2YT3tP9YviGSm9dERkaUykjkvZNyzHB29k2pRR4DF3c4": {
+    "name": "Autism Coin",
+    "symbol": "AUTISM",
+    "flagged_ts": 1789708763,
+    "liquidity_at_flag": 34186.00717020093,
+    "checkpoints_done": []
+  },
+  "6RSThJZhb63q2ZtmZx2h1y9uuGWZ9bTE9F9ZmjaxcH1A": {
+    "name": "\u4f60\u76f8\u4fe1\u4ec0\u4e48\u4f60\u7684\u4eba\u751f\u5c31\u4f1a\u53d1\u751f\u4ec0\u4e48",
+    "symbol": "\u76f8\u4fe1",
+    "flagged_ts": 1789708764,
+    "liquidity_at_flag": 32383.621300603078,
+    "checkpoints_done": []
+  },
+  "H9rCpDcQ98pNuvX49fckrDdbwsg9LWXYtjpA6CWtxpuF": {
+    "name": "ATOM",
+    "symbol": "ATOM",
+    "flagged_ts": 1789708765,
+    "liquidity_at_flag": 37800.92549441944,
+    "checkpoints_done": []
+  },
+  "52kPDtwbktpxHzD6GRkN9bFEoM2aYsLCW1UxnsLGbPSc": {
+    "name": "Dancing Dog",
+    "symbol": "Doggo",
+    "flagged_ts": 1789708766,
+    "liquidity_at_flag": 120374.78939558854,
     "checkpoints_done": []
   }
 }
