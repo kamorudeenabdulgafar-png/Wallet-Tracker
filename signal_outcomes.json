@@ -1,48 +1,4 @@
 {
-  "4deQQ2VdGZD8uNg2i2zN4J9J6vCy4xeGxmqJpsZPshZC": {
-    "name": "Tesla",
-    "symbol": "TSLA",
-    "flagged_ts": 1789162755,
-    "liquidity_at_flag": 106863.4208815915,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "J8akYfHrR2BntHSrrL3ZzrtsjA2Nrjm4mMxrVQihpump": {
-    "name": "Mumbai Shield",
-    "symbol": "MUMSHD",
-    "flagged_ts": 1789162758,
-    "liquidity_at_flag": 101396.24884992071,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "3mCt5UqSPvc6h5NNJs7FhtQKNXhcU7ewmjq8A2GtPfWE": {
-    "name": "REVINU",
-    "symbol": "REVINU",
-    "flagged_ts": 1789162760,
-    "liquidity_at_flag": 22648.787181458356,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "FGiZanoG4tMdwVNjrsgeDDtBv53vKiNDZVcD5wpb27fb": {
-    "name": "allcat",
-    "symbol": "ALLCAT",
-    "flagged_ts": 1789162761,
-    "liquidity_at_flag": 43919.824144541315,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
   "3M4hzZs8NYvxkpFXxCsgFBiheg5CiDRvcQMi4APaojSe": {
     "name": "The Spirit of Gambling",
     "symbol": "TOKABU",
@@ -10544,7 +10500,8 @@
     "liquidity_at_flag": 32686.5729899705,
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "DvVxzdyB5Q3Zp6Kk5gAEKxnKCroxdJCY7MM52hcogLuJ": {
@@ -13173,7 +13130,8 @@
     "flagged_ts": 1789753000,
     "liquidity_at_flag": 60285.845982703264,
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "BoRYHAvjc4UszHa5tp7Hxg1RRGSZqLrvV4r5gFquuPAj": {
@@ -13182,7 +13140,8 @@
     "flagged_ts": 1789753007,
     "liquidity_at_flag": 27171.270523535313,
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "A9Md99bzpuz18M75magp1hae43phe1zSMJLVSZHpurTU": {
@@ -13191,7 +13150,8 @@
     "flagged_ts": 1789753008,
     "liquidity_at_flag": 17486.422120415482,
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "9mj5xkBtXCXUxXd8nzZuMgHtmSUjqUMbHBLdoMrAKx1p": {
@@ -13200,7 +13160,8 @@
     "flagged_ts": 1789753009,
     "liquidity_at_flag": 30573.219232381118,
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "2C2wv2QGoMq5FKWpqHzpRA29af9qFBh3CCUbVdpU6arK": {
@@ -13209,7 +13170,8 @@
     "flagged_ts": 1789753010,
     "liquidity_at_flag": 37595.63812659591,
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "4a2N7K6VNg3M4ToVLboRbu4eQLHRAcSwwRCr1dXrogyv": {
@@ -13649,14 +13611,18 @@
     "symbol": "FINN",
     "flagged_ts": 1789763487,
     "liquidity_at_flag": 36482.1688025599,
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "G4m9kmVn4BBV1LEwxDdi2ZKFXr9R3vzNUVyr9K8JZYMk": {
     "name": "Leopardus Tilcayo",
     "symbol": "TIGRINO",
     "flagged_ts": 1789763487,
     "liquidity_at_flag": 62142.14047148879,
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "Cca52zFK9RY9wFstk6eLxhq5R2BeBkqdKB8r8mHAvp9Z": {
     "name": "Fred",
@@ -13782,6 +13748,20 @@
     "symbol": "\u9f8d\u4eba",
     "flagged_ts": 1789767043,
     "liquidity_at_flag": 31371.409623881686,
+    "checkpoints_done": []
+  },
+  "8TZeE6sud8NUWmRYtRAotgTii5bXMb9Bog7wpHcfpump": {
+    "name": "The Reply Coin",
+    "symbol": "REPLY",
+    "flagged_ts": 1789767801,
+    "liquidity_at_flag": 22773.881943885786,
+    "checkpoints_done": []
+  },
+  "Ea9TZ2XC7AkgfKrFV5MnTKig5YWJoZH7xt4d4BnYpump": {
+    "name": "Crossr",
+    "symbol": "CROSSR",
+    "flagged_ts": 1789767802,
+    "liquidity_at_flag": 51421.09922096455,
     "checkpoints_done": []
   }
 }
