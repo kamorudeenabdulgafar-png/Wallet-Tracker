@@ -13382,7 +13382,8 @@
     "liquidity_at_flag": 15015.184463053682,
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "9v4iJjiSCDaxf1JRoc6kuFmDXjE2iCXK7HvLSSEAt94s": {
@@ -13392,7 +13393,8 @@
     "liquidity_at_flag": 41801.82289830038,
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "3RPqKaAxnNDk6PGCHJ3K9kQTTfcFMKQeJ5J13VtyC2VV": {
@@ -13402,7 +13404,8 @@
     "liquidity_at_flag": 64355.740232323165,
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "Hukf5L6VfXcdKz6nzkUuP2zcuZ39wnssu5aSkCjByTTa": {
@@ -13412,7 +13415,8 @@
     "liquidity_at_flag": 37565.87068913097,
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "BZVxueqTUbXiTYUfkefWvWeuFNJfGiFmsHckadYDCf4p": {
@@ -13422,7 +13426,8 @@
     "liquidity_at_flag": 44586.47883299073,
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "2AUT2qtGtfE3MDunTCxjjpQadoXVvKDmrudUi6FwNJTj": {
@@ -13432,7 +13437,8 @@
     "liquidity_at_flag": 26150.264780151785,
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "9vNBZRn6hSHnf3CBqDYmzeFpgWFVbqQXB2xTsH5Kr7Do": {
@@ -13442,7 +13448,8 @@
     "liquidity_at_flag": 28575.489113312797,
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "4qEUfQ6qwjqPTLQsxohbfxCV3xR5dKKh3pCThrVEpump": {
@@ -16015,35 +16022,45 @@
     "symbol": "\u8d75\u5bb6\u9a79",
     "flagged_ts": 1789709449,
     "liquidity_at_flag": 32901.38864258741,
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "Gr2C9YGL7Qh9oDj2xsdnwRL2Kr9NoYkPt8PQtneYpump": {
     "name": "FARTWALLET",
     "symbol": "FARTWALLET",
     "flagged_ts": 1789709450,
     "liquidity_at_flag": 30695.760849361697,
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "9eZDU6gVGQxaTukWf3rHtxhioCQkxWDgQ6DjMgAFgudK": {
     "name": "DEX",
     "symbol": "DEX",
     "flagged_ts": 1789709451,
     "liquidity_at_flag": 59723.0642148795,
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "8usYn7DoVpdkNv7Zh8wjUQSwAGyRC28dRbm72w3688Up": {
     "name": "s1r1us",
     "symbol": "s1r1us",
     "flagged_ts": 1789709452,
     "liquidity_at_flag": 28428.235174339577,
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "AZGfHfKXZ4sPjbswcaAxVZyuKzw3suNuRYmFXByKB8aA": {
     "name": "THICC",
     "symbol": "THICC",
     "flagged_ts": 1789709453,
     "liquidity_at_flag": 26176.317380430126,
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "FJYMNfX3tRm3gndktvcg2nNkxhaebZpmhTpJkECkKGod": {
     "name": "\u8d75\u5bb6\u9a79",
@@ -16183,6 +16200,48 @@
     "symbol": "MCAT",
     "flagged_ts": 1789712776,
     "liquidity_at_flag": 34367.690748997964,
+    "checkpoints_done": []
+  },
+  "2AwXq7L9cadT9SNwJkCe4o6ChKx1fn6Q7zpwT89Zpump": {
+    "name": "3 Inu",
+    "symbol": "FREEINU",
+    "flagged_ts": 1789713709,
+    "liquidity_at_flag": 23284.723656844202,
+    "checkpoints_done": []
+  },
+  "B9sMMVBPXHysxo7K6sMF3F5cNM3JeSJqAhXfYU1qNaQb": {
+    "name": "Quantum Pepe",
+    "symbol": "QEPE",
+    "flagged_ts": 1789713710,
+    "liquidity_at_flag": 28716.451345775415,
+    "checkpoints_done": []
+  },
+  "14J6BJSRRHuvKthvfCTQd6J6KnwAfEbBJ8A9SM9YGLYk": {
+    "name": "BNB Standard",
+    "symbol": "BNBS",
+    "flagged_ts": 1789713713,
+    "liquidity_at_flag": 287311.1493322776,
+    "checkpoints_done": []
+  },
+  "8xukr8EnnxMKq7CoSiBGD3BYsL3BZuo6yqjY7CTepump": {
+    "name": "buggy",
+    "symbol": "buggy",
+    "flagged_ts": 1789713716,
+    "liquidity_at_flag": 17955.859143939753,
+    "checkpoints_done": []
+  },
+  "79WhPpDdT3dGHRrrG5ZPca1sacH2R4EVY3st1izNsNoV": {
+    "name": "claudelives.com",
+    "symbol": "CLAUDE",
+    "flagged_ts": 1789713717,
+    "liquidity_at_flag": 33243.4155124018,
+    "checkpoints_done": []
+  },
+  "GB1mRSjoaEhxtJt1cn9ofJep76pPAZWGRLXrYkJJ4EYu": {
+    "name": "Mooncat",
+    "symbol": "MCAT",
+    "flagged_ts": 1789713717,
+    "liquidity_at_flag": 79748.62610521607,
     "checkpoints_done": []
   }
 }
