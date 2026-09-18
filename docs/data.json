@@ -1,5 +1,5 @@
 {
-  "last_updated": 1789742885,
+  "last_updated": 1789743419,
   "wallets": [
     {
       "label": "Dev wallet 1",
@@ -85,18 +85,38 @@
       "avg_change_pct": 23545566.4
     },
     "240m": {
-      "count": 2763,
+      "count": 2765,
       "up_pct": 23,
-      "avg_change_pct": 13276845.8
+      "avg_change_pct": 13267242.3
     },
     "1440m": {
-      "count": 2648,
+      "count": 2650,
       "up_pct": 23,
       "avg_change_pct": -52.2
     }
   },
   "settings": {},
   "recent_alerts": [
+    {
+      "ts": 1789743419,
+      "type": "outcome",
+      "message": "\ud83d\udcca SIGNAL REVIEW (4h later)\nTokenz (TOKENZ)\nLiquidity at flag: ~$23,006\nLiquidity now: ~$9,055\nChange: -61%"
+    },
+    {
+      "ts": 1789743418,
+      "type": "outcome",
+      "message": "\ud83d\udcca SIGNAL REVIEW (4h later)\nCoby The Cat (Coby)\nLiquidity at flag: ~$27,859\nLiquidity now: ~$0\nChange: -100%"
+    },
+    {
+      "ts": 1789743417,
+      "type": "outcome",
+      "message": "\ud83d\udcca SIGNAL REVIEW (24h later)\nWikiLeaks (WIKILEAKS)\nLiquidity at flag: ~$28,824\nLiquidity now: ~$9,653\nChange: -67%"
+    },
+    {
+      "ts": 1789743416,
+      "type": "outcome",
+      "message": "\ud83d\udcca SIGNAL REVIEW (24h later)\njust a chip (CHIP)\nLiquidity at flag: ~$22,071\nLiquidity now: ~$0\nChange: -100%"
+    },
     {
       "ts": 1789742885,
       "type": "outcome",
@@ -326,26 +346,6 @@
       "ts": 1789739250,
       "type": "outcome",
       "message": "\ud83d\udcca SIGNAL REVIEW (4h later)\nPostpaid (PPAID)\nLiquidity at flag: ~$36,329\nLiquidity now: ~$0\nChange: -100%"
-    },
-    {
-      "ts": 1789739249,
-      "type": "outcome",
-      "message": "\ud83d\udcca SIGNAL REVIEW (4h later)\nunstable argus (unstargus)\nLiquidity at flag: ~$17,457\nLiquidity now: ~$9,020\nChange: -48%"
-    },
-    {
-      "ts": 1789739248,
-      "type": "outcome",
-      "message": "\ud83d\udcca SIGNAL REVIEW (24h later)\nInuvation (INUVATION)\nLiquidity at flag: ~$60,450\nLiquidity now: ~$0\nChange: -100%"
-    },
-    {
-      "ts": 1789739248,
-      "type": "outcome",
-      "message": "\ud83d\udcca SIGNAL REVIEW (24h later)\nNasWhale (NasWhale)\nLiquidity at flag: ~$21,943\nLiquidity now: ~$3,649\nChange: -83%"
-    },
-    {
-      "ts": 1789739242,
-      "type": "scanner",
-      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\nCalicoin (Cali)\nOpportunity: 76/100\n\nMOMENTUM     100\nSAFETY       60\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$34,134, 12 min since pool creation\n\u2022 Up +82% in the last hour, ~$265,873 in 24h volume (7.8x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 94% of supply (very concentrated)\n\nCA: 7NtPfN7HDXr2aRZzsxHo9MLMgRv5zp7YQdXwiH4xLv7D\nhttps://dexscreener.com/solana/7NtPfN7HDXr2aRZzsxHo9MLMgRv5zp7YQdXwiH4xLv7D\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
     }
   ]
 }
