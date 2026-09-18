@@ -1,5 +1,5 @@
 {
-  "last_updated": 1789695944,
+  "last_updated": 1789696451,
   "wallets": [
     {
       "label": "Dev wallet 1",
@@ -85,9 +85,9 @@
       "avg_change_pct": 26334533.1
     },
     "240m": {
-      "count": 2610,
+      "count": 2612,
       "up_pct": 24,
-      "avg_change_pct": 14055149.0
+      "avg_change_pct": 14044386.9
     },
     "1440m": {
       "count": 2527,
@@ -97,6 +97,16 @@
   },
   "settings": {},
   "recent_alerts": [
+    {
+      "ts": 1789696451,
+      "type": "outcome",
+      "message": "\ud83d\udcca SIGNAL REVIEW (4h later)\nSolana Dog (SOLDOG)\nLiquidity at flag: ~$24,207\nLiquidity now: ~$0\nChange: -100%"
+    },
+    {
+      "ts": 1789696450,
+      "type": "outcome",
+      "message": "\ud83d\udcca SIGNAL REVIEW (4h later)\nMooncat (MCAT)\nLiquidity at flag: ~$23,204\nLiquidity now: ~$0\nChange: -100%"
+    },
     {
       "ts": 1789695944,
       "type": "outcome",
@@ -336,16 +346,6 @@
       "ts": 1789692153,
       "type": "outcome",
       "message": "\ud83d\udcca SIGNAL REVIEW (1h later)\nThe Day Trader (Aiden)\nLiquidity at flag: ~$27,908\nLiquidity now: ~$31,585\nChange: +13%"
-    },
-    {
-      "ts": 1789692152,
-      "type": "outcome",
-      "message": "\ud83d\udcca SIGNAL REVIEW (1h later)\nWANKCOIN (WKC)\nLiquidity at flag: ~$26,367\nLiquidity now: ~$0\nChange: -100%"
-    },
-    {
-      "ts": 1789692151,
-      "type": "outcome",
-      "message": "\ud83d\udcca SIGNAL REVIEW (4h later)\nSolana Cat (SOLCAT)\nLiquidity at flag: ~$64,558\nLiquidity now: ~$4\nChange: -100%"
     }
   ]
 }
