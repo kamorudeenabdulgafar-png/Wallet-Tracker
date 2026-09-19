@@ -11321,7 +11321,8 @@
     "flagged_ts": 1789805137,
     "liquidity_at_flag": 26486.02717154741,
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "BM68KGsnB2GLVdoDbUMYmAtEJNBXHAzGp67tab9snPqJ": {
@@ -11330,7 +11331,8 @@
     "flagged_ts": 1789805138,
     "liquidity_at_flag": 34139.021474578345,
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "14BAp5j7Xfin8fiFzBgojffGwWEc7JuNKELFUFPExqpR": {
@@ -11339,7 +11341,8 @@
     "flagged_ts": 1789805139,
     "liquidity_at_flag": 260989.26377339353,
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "GYMhefhbnaduqaXQ4F9JRKgmUApJXGzctrUoNV45BC9H": {
@@ -11348,7 +11351,8 @@
     "flagged_ts": 1789805141,
     "liquidity_at_flag": 60358.818713281435,
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "8AtvLBuEAk7oxwL7GSkGCQPcEeSor4BP3GEM2C2YXvAb": {
@@ -11866,7 +11870,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "HsDLvvqof1zzo2zW2V5HpQpvGtJtvbcxtbWNwRLPaiEC": {
     "name": "PSA10 Coin",
@@ -11879,7 +11885,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "2Yiyxt2aAMzL4pqjbWXRLVrepqxHhzSbrjayYJ9tjmPM": {
     "name": "\u5b59\u5c0f\u5723",
@@ -11892,7 +11900,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "G6a5tEJncFPAzjW6tL5FMRcE7cnu76shHwaH7VXn5S24": {
     "name": "Uranus",
@@ -11905,7 +11915,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "DSeXx3UDbJ597tgDXvERh8xdy2bZKmik5cykBPzrzLbL": {
     "name": "Argus",
@@ -12123,6 +12135,45 @@
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 90,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "6szgsBTqbUGEnwTBE46XUYW37GnyGLW6c7LosejzNW6H": {
+    "name": "BabyCate",
+    "symbol": "BABYCATE",
+    "flagged_ts": 1789819564,
+    "liquidity_at_flag": 70214.88537609467,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "5HndKRkWgRadymzNLg47LbXkpuULn3TPrmVmKpvzLjji": {
+    "name": "BabyCate",
+    "symbol": "BABYCATE",
+    "flagged_ts": 1789819565,
+    "liquidity_at_flag": 26270.91476853379,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "8N2qxcHUbbd7xRRvKMnRV65vufjuV4Ay8AdUTCxHBU3y": {
+    "name": "BabyCate",
+    "symbol": "BABYCATE",
+    "flagged_ts": 1789819567,
+    "liquidity_at_flag": 56332.90653698709,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
