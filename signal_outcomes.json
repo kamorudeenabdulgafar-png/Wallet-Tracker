@@ -1,37 +1,4 @@
 {
-  "9fAd3jYoJRk5GqK9rroBGwr8aJmGcQwUZBrCxTVfKbg9": {
-    "name": "SpaceX",
-    "symbol": "SPCX",
-    "flagged_ts": 1789213571,
-    "liquidity_at_flag": 239079.90392746494,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "4FSivehWt73ubtmx3vq6kpkCd9RcSYQpCsXhUbP9wcnH": {
-    "name": "Whirlpool",
-    "symbol": "POOL",
-    "flagged_ts": 1789213572,
-    "liquidity_at_flag": 30038.75151133636,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "ChELZGaK5hbbo71QrPo4VQrSeW9BqeJ4WcEyXSw4pump": {
-    "name": "ONE BATON DOLLAR",
-    "symbol": "BATONUSD",
-    "flagged_ts": 1789213573,
-    "liquidity_at_flag": 23773.489431766786,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
   "4j6DgQFFkC4SW5526YsXmDbcKfNGinHiPBSZasMGkoy3": {
     "name": "TikTok US",
     "symbol": "TIKTOK",
@@ -8542,7 +8509,8 @@
     "liquidity_at_flag": 89747.28799701601,
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "4PYVWqC358kpvKYDrwbniVAeUXUq6dULa27Z2TCVpump": {
@@ -8552,7 +8520,8 @@
     "liquidity_at_flag": 36193.914619636125,
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "JEFU4dxJydTSj7vpn6u1npTiNpso8dnrdvdVxAPpCCVj": {
@@ -11331,7 +11300,8 @@
     "flagged_ts": 1789803639,
     "liquidity_at_flag": 38638.44172621035,
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "2jDRomDaFYqt4j3yd79GspPp4ZpQtDfx6zXprguapump": {
@@ -11825,42 +11795,54 @@
     "symbol": "ARGUS",
     "flagged_ts": 1789814651,
     "liquidity_at_flag": 39631.583147141384,
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "5VaNyVeZYbyCSq4ZFRprPFhR999WAXU79XeEKCB78HC": {
     "name": "V-BUCKS",
     "symbol": "VBUCKS",
     "flagged_ts": 1789814652,
     "liquidity_at_flag": 45609.202536289195,
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "AW91kqYS1B6wxyJTg3RT82mJ2obybbY5zRgApyfLdEz7": {
     "name": "wildebeest",
     "symbol": "wildebeest",
     "flagged_ts": 1789814653,
     "liquidity_at_flag": 37491.704046862884,
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "5PkQNdjPoy3q9qQq4rFG6ziSyMFChgGEW1njLDjefRjj": {
     "name": "Clawdy",
     "symbol": "CLAWDY",
     "flagged_ts": 1789814654,
     "liquidity_at_flag": 41755.528927948326,
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "rBKJiu25UcFcoj5s4pzpBRZjf2hHh4XKNKWRc1GeJ2G": {
     "name": "9e9.world",
     "symbol": "9e9",
     "flagged_ts": 1789814655,
     "liquidity_at_flag": 40491.94076364931,
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "BoH4QCoT2JTvGiEZXrREeeErVPUsiwU382SNskDPdpe2": {
     "name": "panda",
     "symbol": "PANDA",
     "flagged_ts": 1789814656,
     "liquidity_at_flag": 45534.519869914664,
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "CB7YwRu1u7HZGvZ95u5ESHN2m62EdD9PDxijiHhmpump": {
     "name": "Fomopardus Tilcayo",
@@ -12068,6 +12050,71 @@
       "MOMENTUM": 100,
       "SAFETY": 75,
       "LIQUIDITY": 88,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "CVBiF9T53s1jWQxCNtuvWdz88y9QaHryKhdUAAb41Do": {
+    "name": "\u65b9\u7cd6",
+    "symbol": "\u65b9\u7cd6",
+    "flagged_ts": 1789818399,
+    "liquidity_at_flag": 170999.09100818814,
+    "breakdown": {
+      "MOMENTUM": 87,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "8rYu6TDaG3r9xveduJr3E4CDik7MguZ72u8z3BVbs2Pn": {
+    "name": "WOTF",
+    "symbol": "WOTF",
+    "flagged_ts": 1789818400,
+    "liquidity_at_flag": 38253.48979477605,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "8szzV5xoFE3xBAMsjSrZneiARYajYDzTkNEdMy83jQJF": {
+    "name": "Tigerreep",
+    "symbol": "Tigerreep",
+    "flagged_ts": 1789818401,
+    "liquidity_at_flag": 25665.699166527567,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "46MAS7fVKpErS3hxQu4HkuhTUBtAdtRHcWeFNaqTSoWQ": {
+    "name": "PONK",
+    "symbol": "PONK",
+    "flagged_ts": 1789818402,
+    "liquidity_at_flag": 20851.57287050818,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "5qJxuwiH4gLF829L6a71i7VRLU3pvUzDYrzqTh65Ctq2": {
+    "name": "wildebeest",
+    "symbol": "wildebeest",
+    "flagged_ts": 1789818403,
+    "liquidity_at_flag": 126759.81587923566,
+    "breakdown": {
+      "MOMENTUM": 85,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
     "checkpoints_done": []
