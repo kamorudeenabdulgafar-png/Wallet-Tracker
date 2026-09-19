@@ -1,5 +1,5 @@
 {
-  "last_updated": 1789856969,
+  "last_updated": 1789857546,
   "wallets": [
     {
       "label": "Dev wallet 1",
@@ -10,7 +10,7 @@
     "5CEbueQnq1Ym2uSSx2xXds3jQAqT1BDnkA59RZobSPAG": {
       "label": "Dev wallet 1",
       "buy_count": 210,
-      "sell_count": 136,
+      "sell_count": 137,
       "total_buy_usd": 15274.245507115205,
       "total_sell_usd": 0.0,
       "tokens_traded": [
@@ -65,7 +65,7 @@
         "poNSfquKq512ApeYjVghwViSun4x1MhCqHVH2Paq4jN",
         "suifhC9gU1VbJAPYPTBkHJyyyStKGLLYPVDTmPoqbvA"
       ],
-      "last_active": 1789856960,
+      "last_active": 1789857540,
       "positions": {},
       "realized_pnl_usd": 0.0
     }
@@ -91,6 +91,31 @@
   "learning_insight": null,
   "settings": {},
   "recent_alerts": [
+    {
+      "ts": 1789857546,
+      "type": "outcome",
+      "message": "\ud83d\udd34 LOOOOONG (LOOONG) is dropping fast \u2014 down 100%, may be rugging."
+    },
+    {
+      "ts": 1789857545,
+      "type": "outcome",
+      "message": "\ud83d\udd34 Launchpup (Launchpup) is dropping fast \u2014 down 100%, may be rugging."
+    },
+    {
+      "ts": 1789857545,
+      "type": "outcome",
+      "message": "\ud83d\udd34 TIPPED (TIPPED) is dropping fast \u2014 down 100%, may be rugging."
+    },
+    {
+      "ts": 1789857542,
+      "type": "scanner",
+      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\nJEANPHIL (JEANPHIL)\nOpportunity: 76/100\n\nMOMENTUM     100\nSAFETY       60\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$27,577, 5 min since pool creation\n\u2022 Up +92% in the last hour, ~$158,361 in 24h volume (5.7x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 99% of supply (very concentrated)\n\nCA: GDgU2A3RpuhyL7BEEHJumaZxVh6BUXMcXNBgyjUHdfbN\nhttps://dexscreener.com/solana/GDgU2A3RpuhyL7BEEHJumaZxVh6BUXMcXNBgyjUHdfbN\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
+    },
+    {
+      "ts": 1789857540,
+      "type": "wallet",
+      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: SPYx -> USDC\nTrade size: unknown\nBought token: USD Coin (USDC)\nCA: EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v\nhttps://solscan.io/tx/5SNy5zYoUeabE5yezj9dJEEtgFNDAVLfFGYZLtTB1SmvkPycdUJLN4fTdBLgnob8VMDwMmTadVtPJsZAnNZEJDzo"
+    },
     {
       "ts": 1789856969,
       "type": "outcome",
@@ -315,31 +340,6 @@
       "ts": 1789853935,
       "type": "outcome",
       "message": "\ud83d\udd34 \u9f8d\u4eba (\u9f8d\u4eba) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
-    },
-    {
-      "ts": 1789853934,
-      "type": "outcome",
-      "message": "\ud83d\udd34 elon Coin (ELON) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
-    },
-    {
-      "ts": 1789853933,
-      "type": "outcome",
-      "message": "\ud83d\udd34 FightCat (FIGHTCAT) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
-    },
-    {
-      "ts": 1789853932,
-      "type": "outcome",
-      "message": "\ud83d\udd34 Apu (APU) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
-    },
-    {
-      "ts": 1789853931,
-      "type": "outcome",
-      "message": "\ud83d\udd34 Apu (APU) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
-    },
-    {
-      "ts": 1789853928,
-      "type": "scanner",
-      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\nLOOOOONG (LOOONG)\nOpportunity: 70/100\n\nMOMENTUM     83\nSAFETY       60\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$23,554, 9 min since pool creation\n\u2022 Up +55% in the last hour, ~$83,374 in 24h volume (3.5x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 88% of supply (very concentrated)\n\nCA: 3E86juCQhcki67K9UEuKTfpj5QLJm83siiJj9isGmcQF\nhttps://dexscreener.com/solana/3E86juCQhcki67K9UEuKTfpj5QLJm83siiJj9isGmcQF\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
     }
   ]
 }
