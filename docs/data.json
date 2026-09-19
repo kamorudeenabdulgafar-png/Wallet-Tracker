@@ -1,5 +1,5 @@
 {
-  "last_updated": 1789860935,
+  "last_updated": 1789861447,
   "wallets": [
     {
       "label": "Dev wallet 1",
@@ -65,7 +65,7 @@
         "poNSfquKq512ApeYjVghwViSun4x1MhCqHVH2Paq4jN",
         "suifhC9gU1VbJAPYPTBkHJyyyStKGLLYPVDTmPoqbvA"
       ],
-      "last_active": 1789860927,
+      "last_active": 1789861441,
       "positions": {},
       "realized_pnl_usd": 0.0
     }
@@ -84,13 +84,53 @@
     "count": 2835,
     "up_count": 613,
     "total_change_pct": -155586.29928175083,
-    "rug": 140,
+    "rug": 141,
     "doing_well": 2,
     "steady": 2
   },
   "learning_insight": null,
   "settings": {},
   "recent_alerts": [
+    {
+      "ts": 1789861447,
+      "type": "outcome",
+      "message": "\ud83d\udd34 JEANPHIL (JEANPHIL) is dropping fast \u2014 down 100%, may be rugging."
+    },
+    {
+      "ts": 1789861445,
+      "type": "outcome",
+      "message": "\ud83d\udd34 PEENUS (PEENUS) is dropping fast \u2014 down 91%, may be rugging."
+    },
+    {
+      "ts": 1789861444,
+      "type": "outcome",
+      "message": "\ud83d\udd34 Catecoin (CATE) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
+    },
+    {
+      "ts": 1789861443,
+      "type": "scanner",
+      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\n\u4e00\u7ad9\u6210\u540d\u7684\u718a\u732b (\u96ea\u5b9d)\nOpportunity: 76/100\n\nMOMENTUM     100\nSAFETY       60\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$25,549, 10 min since pool creation\n\u2022 Up +69% in the last hour, ~$111,335 in 24h volume (4.4x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 86% of supply (very concentrated)\n\nCA: 57ZPgNcaNZTpYWaf1zKu5FrX6nCdGhErfJomWg34MWvo\nhttps://dexscreener.com/solana/57ZPgNcaNZTpYWaf1zKu5FrX6nCdGhErfJomWg34MWvo\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
+    },
+    {
+      "ts": 1789861441,
+      "type": "wallet",
+      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: 0.2306 SOL (~$25.58) -> USDC\nTrade size: ~$25.58\nBought token: USD Coin (USDC)\nCA: EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v\nhttps://solscan.io/tx/3qssuxtrNKMDcC8qh7YaST26FzSg3tMNztuEYzjHyyv4KWxxp7oe3Wo2jUAaCVZtQLD1FeYAJW5yJyUgV9cHaMrM"
+    },
+    {
+      "ts": 1789861441,
+      "type": "wallet",
+      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: DOGE -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/4poq4hpGf7suEsAwQVFsiuAX77EKdtMCmwcenZB2u56jALy3j9ZWgbUi7i9Trj3t2TU3SoAbFirGj1kqYWVUxrCd"
+    },
+    {
+      "ts": 1789861440,
+      "type": "wallet",
+      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: NBIS -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/3FqLAEtHdnk9GynyRsMNU8EMU2fg2fEAVts4KNa4Wpz1tTUCb3gif9fLH6JrMT13PmPpiaMvjfVttqjJKuECKEGs"
+    },
+    {
+      "ts": 1789861440,
+      "type": "wallet",
+      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: XMR -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/3VvwFuUXPjZ1uTkBtCfTY5CzErUpAyGuJkWvXQgonaFkTWRrE8GBaKgNXLzpHqYkgmZVwZTWrrqeJrdg42uaXD2d"
+    },
     {
       "ts": 1789860935,
       "type": "outcome",
@@ -300,46 +340,6 @@
       "ts": 1789858518,
       "type": "outcome",
       "message": "\ud83d\udd34 Magatard (MAGATARD) turned out to be a rug \u2014 liquidity dropped 63% over 24h."
-    },
-    {
-      "ts": 1789858518,
-      "type": "outcome",
-      "message": "\ud83d\udd34 ALLINUSOL (ALLINUSOL) turned out to be a rug \u2014 liquidity dropped 89% over 24h."
-    },
-    {
-      "ts": 1789858517,
-      "type": "scanner",
-      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\nJean Phil (JEANPHIL)\nOpportunity: 76/100\n\nMOMENTUM     100\nSAFETY       60\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$25,501, 10 min since pool creation\n\u2022 Up +83% in the last hour, ~$22,918 in 24h volume (0.9x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 76% of supply (very concentrated)\n\nCA: CmWSq1tHGXvcxgHYmJQmjzbzEmJyzLrAjaK48JC8eump\nhttps://dexscreener.com/solana/CmWSq1tHGXvcxgHYmJQmjzbzEmJyzLrAjaK48JC8eump\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
-    },
-    {
-      "ts": 1789858516,
-      "type": "scanner",
-      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\nJean Phil (JEANPHIL)\nOpportunity: 76/100\n\nMOMENTUM     100\nSAFETY       60\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$45,278, 10 min since pool creation\n\u2022 Up +200% in the last hour, ~$572,975 in 24h volume (12.7x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 95% of supply (very concentrated)\n\nCA: 2gVT53QFfPRn9Dmj4HxYXLQ9fkbprjgjyisYT7KSs5zC\nhttps://dexscreener.com/solana/2gVT53QFfPRn9Dmj4HxYXLQ9fkbprjgjyisYT7KSs5zC\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
-    },
-    {
-      "ts": 1789858515,
-      "type": "wallet",
-      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: SPX -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/2zcchB8mP2PomKc4bzR9MZ3N5XKXQrr6zrZgbFE8nEckaSLoqG94bjeeong8H12vaJf9nwmk6ExwgJ3dFc9tkeUG"
-    },
-    {
-      "ts": 1789858514,
-      "type": "wallet",
-      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: wXRP -> USDC\nTrade size: unknown\nBought token: USD Coin (USDC)\nCA: EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v\nhttps://solscan.io/tx/5xsW3eGmViKwaVgf8RYp5XKUuXFKaMgFrRSzzydjByGEg974opNey6W6hwcU63miVJjToYfaLVxrJbkMoUeCEMf9"
-    },
-    {
-      "ts": 1789858021,
-      "type": "outcome",
-      "message": "\ud83d\udd34 SOURCE (SOURCE) is dropping fast \u2014 down 100%, may be rugging."
-    },
-    {
-      "ts": 1789858020,
-      "type": "outcome",
-      "message": "\ud83d\udd34 Crossr (CROSSR) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
-    },
-    {
-      "ts": 1789858019,
-      "type": "scanner",
-      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\nsuperior inu (si)\nOpportunity: 76/100\n\nMOMENTUM     100\nSAFETY       60\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$31,270, 11 min since pool creation\n\u2022 Up +119% in the last hour, ~$330,274 in 24h volume (10.6x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 93% of supply (very concentrated)\n\nCA: EBBwb57PjXW8qnJ14vVb1M8ij6vsFwSZfd1XLHvVysmw\nhttps://dexscreener.com/solana/EBBwb57PjXW8qnJ14vVb1M8ij6vsFwSZfd1XLHvVysmw\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
     }
   ]
 }

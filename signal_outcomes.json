@@ -7299,7 +7299,8 @@
     "liquidity_at_flag": 206348.7673006531,
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "9WdDrJ6Q94bKMgyWMkQyKSpSn6k1GcrnZFJijDZh9uoH": {
@@ -7309,7 +7310,8 @@
     "liquidity_at_flag": 16302.626672527142,
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "Px7zV5J94atQn6VXKhsNig6kkhHboj9YUfmt372ynCL": {
@@ -11238,7 +11240,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "FxoosJMfRy78TiQcrMNZbFZ7pDKRDCXgihWmAv4pRgp7": {
@@ -11777,7 +11780,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "YLxij1zfySd1HNAX8V2SEP4ubKZt1qEZ6FwntCP1eQM": {
     "name": "Jean Phil",
@@ -12021,6 +12026,19 @@
     "breakdown": {
       "MOMENTUM": 74,
       "SAFETY": 100,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "57ZPgNcaNZTpYWaf1zKu5FrX6nCdGhErfJomWg34MWvo": {
+    "name": "\u4e00\u7ad9\u6210\u540d\u7684\u718a\u732b",
+    "symbol": "\u96ea\u5b9d",
+    "flagged_ts": 1789861443,
+    "liquidity_at_flag": 25549.46393011461,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
