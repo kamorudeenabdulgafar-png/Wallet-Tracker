@@ -1,48 +1,4 @@
 {
-  "2BrZyUdtTD9xcACBi51oFzeYixv5y8rts4CSFTYkmJje": {
-    "name": "Offchain",
-    "symbol": "Offchain",
-    "flagged_ts": 1789238750,
-    "liquidity_at_flag": 21507.290805796227,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "CyYCtXGEoLgxCrPjHBwafKbEtDgnuiEmUCeAxmuMpump": {
-    "name": "AntroGpt",
-    "symbol": "ANTROGPT",
-    "flagged_ts": 1789238751,
-    "liquidity_at_flag": 11794.19021592765,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "EGx4Q7rKgUPWXCAH2u6jhopzWaHEFc1Q6CGBMVsbpump": {
-    "name": "Anonymous Gang",
-    "symbol": "ZGANG",
-    "flagged_ts": 1789238752,
-    "liquidity_at_flag": 25340.658717156723,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "AK2HaeZZatRVfLcK4WNqJpr18w14PW6K2pKqfJrVMcvo": {
-    "name": "TACZ",
-    "symbol": "TACz",
-    "flagged_ts": 1789238753,
-    "liquidity_at_flag": 24308.084028511767,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
   "DS7uDUar75qfixAMML32HQqYGYauPkc6ivg1udU243Dh": {
     "name": "Buy and never work again",
     "symbol": "RETIRE",
@@ -7233,7 +7189,8 @@
     "liquidity_at_flag": 35068.60544322489,
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "BUjb3VxipFWUqunCKURfeDR2Fg3mqsS8GU9uVHkZBfiP": {
@@ -10778,7 +10735,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "ECixujBwq7wKeNwTHRTL4mADHNcWJnk1PyEJ4JUNwwoC": {
@@ -10793,7 +10751,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "FaYEZbTJtSYhThdm1yQFZhHe5KZeDDRDe4pGCCuPNTnC": {
@@ -10808,7 +10767,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "4wqXZxEw8X8gjVVfuFRVEKUguD4e9wGFgBv6CRWW5uEa": {
@@ -11392,7 +11352,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "77p5u2agnHHS2vZwnLC71y1gugLEdjzBgeLz2oLeVfjE": {
     "name": "Fomo Bull",
@@ -11405,7 +11367,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "AobaVzsZG1AX7Z52GnfaYDjSo46ZaX7LSYfD9Fsd6oK4": {
     "name": "TIPPED CAT",
@@ -11544,6 +11508,19 @@
     "liquidity_at_flag": 32621.47302697289,
     "breakdown": {
       "MOMENTUM": 83,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "A4A7t5QkBLmrfzbgmvwmZDfbRCBeRyEW3EWzjmrEAaRT": {
+    "name": "Pirate Willie",
+    "symbol": "WILLIE",
+    "flagged_ts": 1789843655,
+    "liquidity_at_flag": 25438.800087648793,
+    "breakdown": {
+      "MOMENTUM": 100,
       "SAFETY": 60,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
