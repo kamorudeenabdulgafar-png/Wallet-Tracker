@@ -1,37 +1,4 @@
 {
-  "FGXcisdfor1yWDvqzHGB2bcF1Fa4M3yofdHKgdHXWghf": {
-    "name": "Fantasy Index 6900",
-    "symbol": "FIX6900",
-    "flagged_ts": 1789230015,
-    "liquidity_at_flag": 21311.26798739311,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "HTQnrQvoXtj5YGN8Hu97Kcb85Lf9rGXFGmEBuAtu48zW": {
-    "name": "Fantasy Index 6900",
-    "symbol": "FIX6900",
-    "flagged_ts": 1789230016,
-    "liquidity_at_flag": 24794.947786949422,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "9uiUwy4rWi4RMeK3nRE66RcsgJ3LcPFLyVqrwe8P7Tre": {
-    "name": "Diamond Hands",
-    "symbol": "\ud83d\udc8e",
-    "flagged_ts": 1789230017,
-    "liquidity_at_flag": 24320.92632482381,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
   "G5msmiMjPoigWspGqquZiPxeAfU5ru2txmTTSErZjBxE": {
     "name": "MosiAI",
     "symbol": "MosiAi",
@@ -10930,7 +10897,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "2s7tpat7HeGMcchHpaRKNRpvE3NVUsMRYFT9iUreWmri": {
@@ -10945,7 +10913,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "FejnLmMzcwwfRj1JqJ6mmUDPLgYDvYpfdTtf9FR93itP": {
@@ -11709,7 +11678,9 @@
       "LIQUIDITY": 96,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "DcSHWLp8LPteZ4ReaQ6nvHZkcxRQFThtT799XWZTcaRc": {
     "name": "Smug Frog",
@@ -11722,7 +11693,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "FZHVZbYkmPpEFEq3KGGBb3GCpMcn4EUyxchGdHyq4ocA": {
     "name": "GeniusBroker",
@@ -11735,7 +11708,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "388CHakkUY1PSu3XyQ5yucFfFNcz5NTNkNMD99qD6qPi": {
     "name": "BLACK HOLE",
@@ -11748,7 +11723,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "55P4wRy51GbFYQVzrnhKUUXCQxXLCLcnGnnTYKySrmti": {
     "name": "GHOST",
@@ -11761,7 +11738,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "8YNRKypAfqN7oCTx1mzHBRFxYNN25xdBMg5uHBxJpump": {
     "name": "Night Vision Tilcayo",
@@ -11862,6 +11841,19 @@
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 100,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "HkSwZWCEK5hNL1h2sM61RzZbXKGG9SqQxxP3PX7QGVEi": {
+    "name": "DexScreener Eagle",
+    "symbol": "DEAGLE",
+    "flagged_ts": 1789835491,
+    "liquidity_at_flag": 20621.377242970804,
+    "breakdown": {
+      "MOMENTUM": 52,
+      "SAFETY": 90,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
