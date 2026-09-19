@@ -1,103 +1,4 @@
 {
-  "F1sx3AsAqg2vtF9Z4zBKTQKTQSKqfRzbjUguosftVg1k": {
-    "name": "PAP",
-    "symbol": "pap",
-    "flagged_ts": 1789210378,
-    "liquidity_at_flag": 20677.127891876087,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "HrjNqCbA3vYyuL8MKPZN47QjJyjju6YnVmhCpZ51rxH3": {
-    "name": "Maple",
-    "symbol": "Maple",
-    "flagged_ts": 1789210379,
-    "liquidity_at_flag": 79216.36323345677,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "4Ugzv3sfLFtRP1dwcs4PVisRmKCDmXHPuKfLBx6WRyww": {
-    "name": "\u5929\u610f\u96be\u8fdd",
-    "symbol": "\u5929\u610f",
-    "flagged_ts": 1789210380,
-    "liquidity_at_flag": 31644.070039987804,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "Fec7U8akUas7GrEig7eEfQPjiKCd2yDoW4BKdbC6hu4m": {
-    "name": "AWULY",
-    "symbol": "AWUL",
-    "flagged_ts": 1789210381,
-    "liquidity_at_flag": 27677.8484827306,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "2S4ExnQqZD4uGXwuCd1ZiwuYWLbVTsdAcDjX7pSp2GTg": {
-    "name": "Whirlpool",
-    "symbol": "POOL",
-    "flagged_ts": 1789210382,
-    "liquidity_at_flag": 31470.320791238584,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "2kuEPy7zQNcCXmmq8zjTUNMm1WRs5XzBC5VXgVo6pump": {
-    "name": "Whirlpool",
-    "symbol": "POOL",
-    "flagged_ts": 1789210383,
-    "liquidity_at_flag": 33279.9662281993,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "A86PfUtYFxgLikCBJ5pyyZMEa6vusqPt2oSoRfRNkFfH": {
-    "name": "Perps Pad",
-    "symbol": "PERPSPAD",
-    "flagged_ts": 1789210384,
-    "liquidity_at_flag": 155950.70279853803,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "2kn4V5dKfhJ9MC1APQysFcTaghASNR8V8sUtYepdi3Ka": {
-    "name": "SpongeBob & Patrick",
-    "symbol": "S&P",
-    "flagged_ts": 1789210385,
-    "liquidity_at_flag": 24411.577625992155,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "14dTq3scMJA2CWYvKsHgr9BuXQkKugbFgGP4ga1Ld9HB": {
-    "name": "PAD",
-    "symbol": "PAD",
-    "flagged_ts": 1789210386,
-    "liquidity_at_flag": 29889.17515207531,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
   "9PnNjDfyvaLWPaQwAmirjDGXH6m4JCN2rTt4LLjnpdoB": {
     "name": "The Nietzschean Boy",
     "symbol": "Parker",
@@ -8729,7 +8630,8 @@
     "liquidity_at_flag": 21031.819311443935,
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "GZ4s4rwLwb6qjwJVEFMtJBLDDhadz6Reery9boXsYSGP": {
@@ -12093,14 +11995,18 @@
     "symbol": "ARGUS",
     "flagged_ts": 1789811057,
     "liquidity_at_flag": 42776.58576956857,
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "6Q9RVApdFGx5pfQAeBQhjh6mPwP3ZYQ4AUB8FP3GRnDq": {
     "name": "heyaskr",
     "symbol": "ASKR",
     "flagged_ts": 1789811058,
     "liquidity_at_flag": 34637.62697720061,
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "7GB23oQUkEAZEfDs9BsKUDTv31LGUhaRepgzuPuM7Cs3": {
     "name": "Uranus",
@@ -12205,6 +12111,34 @@
     "symbol": "PANDA",
     "flagged_ts": 1789814656,
     "liquidity_at_flag": 45534.519869914664,
+    "checkpoints_done": []
+  },
+  "CB7YwRu1u7HZGvZ95u5ESHN2m62EdD9PDxijiHhmpump": {
+    "name": "Fomopardus Tilcayo",
+    "symbol": "FOMINO",
+    "flagged_ts": 1789815184,
+    "liquidity_at_flag": 22377.856920047456,
+    "checkpoints_done": []
+  },
+  "B146ahrmx31QJvdZzQuBi3KGCjw4Rg6zXsKAZjdzimtT": {
+    "name": "OLANAS",
+    "symbol": "OLANAS",
+    "flagged_ts": 1789815185,
+    "liquidity_at_flag": 37015.705966387,
+    "checkpoints_done": []
+  },
+  "9NzFPitN27dddRJ5tuDoEatiBZo53oPv2XKrnY6asfKm": {
+    "name": "Clawdy",
+    "symbol": "CLAWDY",
+    "flagged_ts": 1789815186,
+    "liquidity_at_flag": 34467.21554418425,
+    "checkpoints_done": []
+  },
+  "5jbSbyAbsaVKjDD87o7uQMmJFizJSdFCzu19z8mh21N": {
+    "name": "wildebeest",
+    "symbol": "wildebeest",
+    "flagged_ts": 1789815187,
+    "liquidity_at_flag": 162352.59126351352,
     "checkpoints_done": []
   }
 }
