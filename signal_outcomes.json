@@ -1,81 +1,4 @@
 {
-  "3b9JSQ4gnbzw9KVVNfdVcQxnKDi9urJAFvzJJpsWEgt8": {
-    "name": "Unity",
-    "symbol": "UNITY",
-    "flagged_ts": 1789246593,
-    "liquidity_at_flag": 17927.67773956455,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "FhPEGad22PaAquFqJ32NLojQcTasi7BQLqpCauzUKurK": {
-    "name": "Hop Markets",
-    "symbol": "HOP",
-    "flagged_ts": 1789246594,
-    "liquidity_at_flag": 23409.232512357685,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "D3BGi5SgBHLTUoztupkWNsE9dVy5R2Ax3vatT5CYkkH4": {
-    "name": "TWINE",
-    "symbol": "TWINE",
-    "flagged_ts": 1789246595,
-    "liquidity_at_flag": 20159.256955242134,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "f1jDp82o3BsjdtyBvvXH3BYbe48d5djrkPAHLEjzThB": {
-    "name": "TWINE",
-    "symbol": "TWINE",
-    "flagged_ts": 1789246596,
-    "liquidity_at_flag": 49807.42658630581,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "CXQJA4CnoAGZzQh1aXQHWHSiky7bYs2r3Wdv5dKLQCGu": {
-    "name": "Purrlantir",
-    "symbol": "PURRLTR",
-    "flagged_ts": 1789246597,
-    "liquidity_at_flag": 29933.905695289446,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "FFDNAboFW9BmuT9dsVCPNQA9sg1xsd8kyaqeyeJycr3D": {
-    "name": "TWINE",
-    "symbol": "TWINE",
-    "flagged_ts": 1789246598,
-    "liquidity_at_flag": 160051.4604669639,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "EJ8FaJK4yLi6W7K6jSveJZXiVbEjV1MPyufbfGrzjNDC": {
-    "name": "TWINE",
-    "symbol": "TWINE",
-    "flagged_ts": 1789246599,
-    "liquidity_at_flag": 37173.77406332199,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
   "925CZx6HQ9kJxyu7A91uR4LyHFMZ89L73iA33rgNUKQm": {
     "name": "Unity",
     "symbol": "UNITY",
@@ -10715,7 +10638,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "BsehfmJSC16TCm4Dzg37iS8WSHivt9z38PUxXcmfU5Eh": {
@@ -10730,7 +10654,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "BMZFVnXxz34xp5nNGVQYPP32hQMvuajj6UL3Sh7BynsX": {
@@ -10745,7 +10670,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "9wSQmGNZhasSe5mmp7ypHfGkHY1J6DkDmcXwrRm9SPtK": {
@@ -10760,7 +10686,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "EYTGKfpWbRbSTx2dZMpkNPu4TKH9a48WRFbSYo1LWhs3": {
@@ -11509,6 +11436,32 @@
     "liquidity_at_flag": 29120.947588124356,
     "breakdown": {
       "MOMENTUM": 90,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "Dj2zegZeSQhuoZRUNgx6RjRHWv6WyfnXVVtcbWDgroLL": {
+    "name": "Bruce Buffer",
+    "symbol": "Bruce",
+    "flagged_ts": 1789851883,
+    "liquidity_at_flag": 21712.46639926095,
+    "breakdown": {
+      "MOMENTUM": 94,
+      "SAFETY": 100,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "8WWTSBEwKY5ShMZ1zJty2tkgRuuMxF3qNvZRnQutDtcu": {
+    "name": "THANOS",
+    "symbol": "SNAP",
+    "flagged_ts": 1789851884,
+    "liquidity_at_flag": 33864.85574805821,
+    "breakdown": {
+      "MOMENTUM": 100,
       "SAFETY": 60,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
