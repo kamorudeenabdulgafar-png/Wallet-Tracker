@@ -1,48 +1,4 @@
 {
-  "DcieagWdeuKs1mqqw7Y5YMGBPaDAMMVg6qUmGrzR91mA": {
-    "name": "BabyMoney",
-    "symbol": "BAMO",
-    "flagged_ts": 1789213104,
-    "liquidity_at_flag": 17087.852223641486,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "EnfJBTuFuabQKrxzXAyRP9BEFsawqghkx3zdjGpPgHBz": {
-    "name": "DGrid AI",
-    "symbol": "DGAI",
-    "flagged_ts": 1789213105,
-    "liquidity_at_flag": 163717.0553742851,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "J4qLsbjmiNhsbByg8d8xxjzA46ie6pkCXC5n4wP2pBbJ": {
-    "name": "Morty",
-    "symbol": "Morty",
-    "flagged_ts": 1789213105,
-    "liquidity_at_flag": 16117.351529197722,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "78KaYpUjZ5yVTVEukkWQDBTQ1rvWCXQr7dGVhzwvQ5G8": {
-    "name": "ANT-1",
-    "symbol": "ANT-1",
-    "flagged_ts": 1789213106,
-    "liquidity_at_flag": 27716.202767281142,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
   "9fAd3jYoJRk5GqK9rroBGwr8aJmGcQwUZBrCxTVfKbg9": {
     "name": "SpaceX",
     "symbol": "SPCX",
@@ -8553,7 +8509,8 @@
     "liquidity_at_flag": 15586.649459536557,
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "3mpruWUo5unRZnH5rLGBmtFB9jTMmwW6iznmWgDSdsL1": {
@@ -8563,7 +8520,8 @@
     "liquidity_at_flag": 24671.81719003636,
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "4qUJjoiyru97eBUTpAWZu8hQb6a3u2cZeaRkqnpnQLi4": {
@@ -8573,7 +8531,8 @@
     "liquidity_at_flag": 30194.418862191604,
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "9A22ZkCdSpzxrACY57kk4sa9fbQfZU8LLghuzRw2m2qk": {
@@ -11362,7 +11321,8 @@
     "flagged_ts": 1789802992,
     "liquidity_at_flag": 33428.36117066421,
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "FKcie3DQ6euUi3hVEVquMD3BPGe3gxnAB6Ddyd6WYcBi": {
@@ -11838,21 +11798,27 @@
     "symbol": "luv",
     "flagged_ts": 1789813851,
     "liquidity_at_flag": 41163.26809504415,
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "pJFJgWFRBAL6XittTTMEsFWY7ZMt7DTcqqYo5c2FHpW": {
     "name": "Pigeon",
     "symbol": "Pigeon",
     "flagged_ts": 1789813852,
     "liquidity_at_flag": 47514.23220580103,
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "7Kio616HvMpEvnB56cRwW5Tdtko3Y7uhJHUisJTDFezJ": {
     "name": "Achi",
     "symbol": "ACHI",
     "flagged_ts": 1789813852,
     "liquidity_at_flag": 33244.4331642833,
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "GmuAqD6imKg1MUfd9Sby3yFMXk8DZBA3Pz66UnrAPA6c": {
     "name": "Argus",
@@ -12076,6 +12042,32 @@
       "MOMENTUM": 92,
       "SAFETY": 60,
       "LIQUIDITY": 96,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "Geq717rct5buVJrXpsPWuxf4Lt6ZE8hc5MZUQsUj3Rdy": {
+    "name": "Argus",
+    "symbol": "ARGUS",
+    "flagged_ts": 1789817942,
+    "liquidity_at_flag": 40815.79601938841,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "4yr7qmY5z9W14xmxEBXXvyBFAVDrWrsDznDNzG1Em8E8": {
+    "name": "\u65b9\u7cd6",
+    "symbol": "\u65b9\u7cd6",
+    "flagged_ts": 1789817943,
+    "liquidity_at_flag": 17565.61021610095,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 75,
+      "LIQUIDITY": 88,
       "SMART MONEY": 0
     },
     "checkpoints_done": []
