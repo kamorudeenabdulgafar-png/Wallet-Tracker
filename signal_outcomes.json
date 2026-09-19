@@ -7244,7 +7244,8 @@
     "liquidity_at_flag": 31839.37619718698,
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "D8BNpRy9FSNXjXRMxX2qV5KJcdg9rVsirHj2bfUyPGoq": {
@@ -10721,7 +10722,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "FhacZ2AKpi4TqbezkE9cShMxxs2Zo3muJxzMfb9wsjuT": {
@@ -10736,7 +10738,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "5qdo3zMKtvh8J7iHSyL6xRH1qZ5aK83KLFLiKnoLpump": {
@@ -10751,7 +10754,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "AEUgnSeDa5EFMLAKQFcNWcnyFhT3enYV4Q3kavo8WQcE": {
@@ -10766,7 +10770,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "9YotyLUCoHPsziQMJqmLTixRymNUrUiCYwFmmjk5K9HF": {
@@ -11365,7 +11370,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "Heik5FodUg5dXm5hmpspPzpSNKV69WQJbagisnwVpump": {
     "name": "NVINU",
@@ -11378,7 +11385,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "G7nbMDorVdKNs9cy7WvSzPXQWLavS74XSfKm9LLzjUy4": {
     "name": "TIPPED",
@@ -11391,7 +11400,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "84aFBuaAPeVKoFghavbvqGfjK7iBxkC7sKCZVhuupump": {
     "name": "Telepad",
@@ -11515,6 +11526,58 @@
     "symbol": "CT",
     "flagged_ts": 1789841148,
     "liquidity_at_flag": 27489.910438594936,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "5gTfnRQjYk1T8JyVQGFSAWJ9ssZpmytWqHY7GUkKCv1c": {
+    "name": "TWIPPED",
+    "symbol": "TWIPPED",
+    "flagged_ts": 1789842108,
+    "liquidity_at_flag": 34378.43949732592,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "cLHZkx5c4D3WKkL33gko1WhSiHhFA18gWVJsNh8xtV8": {
+    "name": "TWIPPED",
+    "symbol": "TWIPPED",
+    "flagged_ts": 1789842110,
+    "liquidity_at_flag": 67749.54735840946,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "FSSwAmg2gydEurUQKp8x1xuXGapho6mFazKzSooV97Mt": {
+    "name": "GGEZ",
+    "symbol": "GGEZ",
+    "flagged_ts": 1789842111,
+    "liquidity_at_flag": 25372.708414076726,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "AZpTkKtVsgdvMkHm8RLTEwsqpG7eMa3zwMgJebQdDdFs": {
+    "name": "TIPPED",
+    "symbol": "TIPPED",
+    "flagged_ts": 1789842112,
+    "liquidity_at_flag": 28529.23320497884,
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 60,
