@@ -7156,7 +7156,8 @@
     "liquidity_at_flag": 17020.45433652689,
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "HpzWAqFEKsvKqspKWvWfDb8MjzsKi2gT4AqeEJwwfnoU": {
@@ -7166,7 +7167,8 @@
     "liquidity_at_flag": 40029.25787227301,
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "8vZmn4SJ3Aiej6YpyZChVoFp2fhHiheZgL2874fTf5JF": {
@@ -7176,7 +7178,8 @@
     "liquidity_at_flag": 33665.501769787705,
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "F5qKD4QTEMgwPjPHL9xvaFM6WmiagNDJpxdzp2JXntwo": {
@@ -10895,7 +10898,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "p6K2tbtsyDp6jdzazfk1L3rgNUJueG7qN74HzxNkach": {
@@ -10910,7 +10914,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "Cqp32Cxa56CY8njhwQcTJwtbj4YwNmsnJx4q4rLf6Ekc": {
@@ -11344,7 +11349,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "DjZmCfVkPHYCGuNveFH5JHkEJZob83LjHMi4uw1iwgiS": {
     "name": "starXSA",
@@ -11536,6 +11543,45 @@
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 100,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "FxoosJMfRy78TiQcrMNZbFZ7pDKRDCXgihWmAv4pRgp7": {
+    "name": "Pikamoon",
+    "symbol": "PIKAMOON",
+    "flagged_ts": 1789847558,
+    "liquidity_at_flag": 35520.5917678751,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "9T9WRY6MhfkGiqVYi24Y3K7Q4mhfo5Uq4YtA27KYypMe": {
+    "name": "CLYDE",
+    "symbol": "$GUZUTA",
+    "flagged_ts": 1789847558,
+    "liquidity_at_flag": 50291.88632983128,
+    "breakdown": {
+      "MOMENTUM": 82,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "FTGYDdLbrHHzvEFAUg2HcFkTFgHeUeqmSoGosRpuH7Ye": {
+    "name": "Exhale",
+    "symbol": "\ud83d\udcb2Exhale",
+    "flagged_ts": 1789847559,
+    "liquidity_at_flag": 58780.87768283181,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
