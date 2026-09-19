@@ -1,5 +1,5 @@
 {
-  "last_updated": 1789811072,
+  "last_updated": 1789811590,
   "wallets": [
     {
       "label": "Dev wallet 1",
@@ -82,23 +82,58 @@
   },
   "scanner_accuracy": {
     "60m": {
-      "count": 1812,
+      "count": 1816,
       "up_pct": 27,
-      "avg_change_pct": 20245019.1
+      "avg_change_pct": 20200426.3
     },
     "240m": {
-      "count": 3031,
+      "count": 3032,
       "up_pct": 21,
-      "avg_change_pct": 12102903.9
+      "avg_change_pct": 12098912.2
     },
     "1440m": {
-      "count": 2827,
+      "count": 2829,
       "up_pct": 22,
       "avg_change_pct": -54.8
     }
   },
   "settings": {},
   "recent_alerts": [
+    {
+      "ts": 1789811590,
+      "type": "outcome",
+      "message": "\ud83d\udcca SIGNAL REVIEW (1h later)\nBLACK HOLE (\ud83d\udcb2INHALE)\nLiquidity at flag: ~$58,399\nLiquidity now: ~$0\nChange: -100%"
+    },
+    {
+      "ts": 1789811589,
+      "type": "outcome",
+      "message": "\ud83d\udcca SIGNAL REVIEW (1h later)\nmoo-ve.site (MOO)\nLiquidity at flag: ~$30,275\nLiquidity now: ~$0\nChange: -100%"
+    },
+    {
+      "ts": 1789811588,
+      "type": "outcome",
+      "message": "\ud83d\udcca SIGNAL REVIEW (1h later)\nArgus (ARGUS)\nLiquidity at flag: ~$163,316\nLiquidity now: ~$0\nChange: -100%"
+    },
+    {
+      "ts": 1789811587,
+      "type": "outcome",
+      "message": "\ud83d\udcca SIGNAL REVIEW (1h later)\nmoo-ve.site (MOO)\nLiquidity at flag: ~$27,873\nLiquidity now: ~$0\nChange: -100%"
+    },
+    {
+      "ts": 1789811586,
+      "type": "outcome",
+      "message": "\ud83d\udcca SIGNAL REVIEW (4h later)\nUranus (URANUS)\nLiquidity at flag: ~$207,538\nLiquidity now: ~$0\nChange: -100%"
+    },
+    {
+      "ts": 1789811585,
+      "type": "outcome",
+      "message": "\ud83d\udcca SIGNAL REVIEW (24h later)\nLeopardus tilcayo (Tilcayo)\nLiquidity at flag: ~$44,761\nLiquidity now: ~$0\nChange: -100%"
+    },
+    {
+      "ts": 1789811584,
+      "type": "outcome",
+      "message": "\ud83d\udcca SIGNAL REVIEW (24h later)\n\u65e5\u672c\u6295\u964d\u7b7e\u5b57\u4eea\u5f0f\u7ed3\u675f\u65f6\u95f49\u65f618\u5206 (918)\nLiquidity at flag: ~$33,414\nLiquidity now: ~$0\nChange: -100%"
+    },
     {
       "ts": 1789811072,
       "type": "outcome",
@@ -313,41 +348,6 @@
       "ts": 1789809591,
       "type": "outcome",
       "message": "\ud83d\udcca SIGNAL REVIEW (4h later)\nBUNNY (\ud83d\udcb2BUNNY)\nLiquidity at flag: ~$58,995\nLiquidity now: ~$0\nChange: -100%"
-    },
-    {
-      "ts": 1789809590,
-      "type": "outcome",
-      "message": "\ud83d\udcca SIGNAL REVIEW (4h later)\nMEMESTOCKS (MEMESTOCKS)\nLiquidity at flag: ~$47,860\nLiquidity now: ~$1\nChange: -100%"
-    },
-    {
-      "ts": 1789809589,
-      "type": "outcome",
-      "message": "\ud83d\udcca SIGNAL REVIEW (4h later)\nGstock (GSTOCK)\nLiquidity at flag: ~$22,997\nLiquidity now: ~$0\nChange: -100%"
-    },
-    {
-      "ts": 1789809588,
-      "type": "outcome",
-      "message": "\ud83d\udcca SIGNAL REVIEW (4h later)\nFeels Good Man (FEELSGOOD)\nLiquidity at flag: ~$241,095\nLiquidity now: ~$0\nChange: -100%"
-    },
-    {
-      "ts": 1789809588,
-      "type": "outcome",
-      "message": "\ud83d\udcca SIGNAL REVIEW (4h later)\nMEMESTOCKS (MEMESTOCKS)\nLiquidity at flag: ~$27,898\nLiquidity now: ~$0\nChange: -100%"
-    },
-    {
-      "ts": 1789809587,
-      "type": "outcome",
-      "message": "\ud83d\udcca SIGNAL REVIEW (4h later)\nLeopardus Tilcayo Anonymous (ZTIGRINO)\nLiquidity at flag: ~$28,639\nLiquidity now: ~$2,297\nChange: -92%"
-    },
-    {
-      "ts": 1789809586,
-      "type": "outcome",
-      "message": "\ud83d\udcca SIGNAL REVIEW (4h later)\nMEMESTOCKS (MEMESTOCKS)\nLiquidity at flag: ~$159,731\nLiquidity now: ~$0\nChange: -100%"
-    },
-    {
-      "ts": 1789809585,
-      "type": "outcome",
-      "message": "\ud83d\udcca SIGNAL REVIEW (24h later)\nEPEP (EPEP)\nLiquidity at flag: ~$25,788\nLiquidity now: ~$0\nChange: -100%"
     }
   ]
 }
