@@ -1,5 +1,5 @@
 {
-  "last_updated": 1789849180,
+  "last_updated": 1789849862,
   "wallets": [
     {
       "label": "Dev wallet 1",
@@ -84,13 +84,23 @@
     "count": 2835,
     "up_count": 613,
     "total_change_pct": -155586.29928175083,
-    "rug": 105,
+    "rug": 107,
     "doing_well": 2,
     "steady": 2
   },
   "learning_insight": null,
   "settings": {},
   "recent_alerts": [
+    {
+      "ts": 1789849862,
+      "type": "outcome",
+      "message": "\ud83d\udd34 USO (USO) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
+    },
+    {
+      "ts": 1789849861,
+      "type": "outcome",
+      "message": "\ud83d\udd34 Leopardus Tilcayo (TIGRINO) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
+    },
     {
       "ts": 1789849180,
       "type": "outcome",
@@ -330,16 +340,6 @@
       "ts": 1789846458,
       "type": "outcome",
       "message": "\ud83d\udd34 BLACK HOLE (\ud83d\udcb2INHALE) is dropping fast \u2014 down 100%, may be rugging."
-    },
-    {
-      "ts": 1789846458,
-      "type": "outcome",
-      "message": "\ud83d\udd34 GeniusBroker (BROKER) is dropping fast \u2014 down 100%, may be rugging."
-    },
-    {
-      "ts": 1789846457,
-      "type": "outcome",
-      "message": "\ud83d\udd34 Smug Frog (SMUGFROG) is dropping fast \u2014 down 100%, may be rugging."
     }
   ]
 }
