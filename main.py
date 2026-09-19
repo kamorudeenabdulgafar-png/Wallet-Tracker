@@ -65,6 +65,8 @@ RECENT_BUYS_FILE = "recent_buys.json"
 WATCHED_COINS_FILE = "watched_coins.json"
 SETTINGS_FILE = "settings.json"
 OUTCOME_HISTORY_FILE = "outcome_history.json"
+LEARNING_LOG_FILE = "learning_log.json"
+CREATION_OUTCOMES_FILE = "creation_outcomes.json"
 DASHBOARD_FILE = "docs/data.json"
 
 # How long after a flagged coin do we check back on it ("did it pan out?")
@@ -579,7 +581,7 @@ def get_token_risk(mint):
     return {"score": risk_score, "level": level, "notes": notes or ["No major red flags found"]}
 
 
-def process_wallet(wallet, seen, alerts_log, wallet_stats, recent_buys):
+def process_wallet(wallet, seen, alerts_log, wallet_stats, recent_buys, creation_outcomes):
     label, address = wallet["label"], wallet["address"]
     seen_sigs = set(seen.get(address, []))
     first_run = len(seen_sigs) == 0
@@ -588,7 +590,7 @@ def process_wallet(wallet, seen, alerts_log, wallet_stats, recent_buys):
         txs = fetch_transactions(address)
     except Exception as e:
         print(f"[error] fetch failed for {label}: {e}")
-        return seen, alerts_log, wallet_stats, recent_buys
+        return seen, alerts_log, wallet_stats, recent_buys, creation_outcomes
 
     new_txs = [tx for tx in txs if tx.get("signature") not in seen_sigs]
 
@@ -603,7 +605,22 @@ def process_wallet(wallet, seen, alerts_log, wallet_stats, recent_buys):
         msg = None
 
         if tx_type == "CREATE" or "created" in desc.lower():
-            msg = build_create_alert(label, address, extract_create_ca(tx), sig)
+            ca = extract_create_ca(tx)
+            msg = build_create_alert(label, address, ca, sig)
+            if ca:
+                name, symbol = get_token_name(ca)
+                creation_outcomes[ca] = {
+                    "creator_address": address, "creator_label": label,
+                    "name": name, "symbol": symbol,
+                    "created_ts": int(time.time()), "checkpoints_done": [],
+                }
+                stats = wallet_stats.setdefault(address, {
+                    "label": label, "buy_count": 0, "sell_count": 0,
+                    "total_buy_usd": 0.0, "total_sell_usd": 0.0,
+                    "tokens_traded": [], "last_active": 0,
+                    "positions": {}, "realized_pnl_usd": 0.0,
+                })
+                stats["coins_created"] = stats.get("coins_created", 0) + 1
         elif tx_type in ("SWAP", "TOKEN_SWAP") or "swap" in desc.lower():
             details = extract_swap_details(tx)
             if details:
@@ -624,7 +641,7 @@ def process_wallet(wallet, seen, alerts_log, wallet_stats, recent_buys):
         print(f"[{label}] primed with {len(seen_sigs)} past transactions.")
 
     seen[address] = list(seen_sigs)
-    return seen, alerts_log, wallet_stats, recent_buys
+    return seen, alerts_log, wallet_stats, recent_buys, creation_outcomes
 
 
 # ---------------- coin potential scanner ----------------
@@ -880,6 +897,7 @@ def run_coin_scanner(scanner_seen, alerts_log, signal_outcomes, recent_buys, set
             "name": name, "symbol": symbol,
             "flagged_ts": int(time.time()),
             "liquidity_at_flag": liquidity,
+            "breakdown": breakdown,
             "checkpoints_done": [],
         }
 
@@ -901,33 +919,87 @@ def fetch_current_liquidity(mint):
     return None
 
 
-def update_outcome_history(outcome_history, checkpoint_label, change_pct):
-    """Tally results per checkpoint so we can report the scanner's real
-    track record, not just fire alerts and never look back."""
-    bucket = outcome_history.setdefault(checkpoint_label, {"count": 0, "up_count": 0, "total_change_pct": 0.0})
-    bucket["count"] += 1
-    if change_pct > 0:
-        bucket["up_count"] += 1
-    bucket["total_change_pct"] += change_pct
+def classify_outcome(change_pct):
+    """Plain categories instead of raw percentages — this is what actually
+    gets shown to you, in plain language."""
+    if change_pct <= -60:
+        return "rug", "🔴"
+    if change_pct <= -15:
+        return "fading", "🟠"
+    if change_pct < 30:
+        return "steady", "🟡"
+    return "doing_well", "🟢"
+
+
+def build_outcome_message(name, symbol, category, icon, change_pct, is_final):
+    if is_final:
+        phrasing = {
+            "rug": f"turned out to be a rug — liquidity dropped {abs(change_pct):.0f}% over 24h.",
+            "fading": f"faded — liquidity down {abs(change_pct):.0f}% after 24h.",
+            "steady": f"held roughly steady after 24h ({change_pct:+.0f}%).",
+            "doing_well": f"did really well — liquidity up {change_pct:.0f}% after 24h!",
+        }[category]
+    else:
+        phrasing = {
+            "rug": f"is dropping fast — down {abs(change_pct):.0f}%, may be rugging.",
+            "fading": f"is fading — down {abs(change_pct):.0f}% so far.",
+            "steady": f"is holding steady so far ({change_pct:+.0f}%).",
+            "doing_well": f"is still doing really good — up {change_pct:.0f}% so far!",
+        }[category]
+    return f"{icon} {name} ({symbol}) {phrasing}"
+
+
+def update_outcome_history(outcome_history, checkpoint_label, category):
+    """Tally plain categories per checkpoint — no raw averages, so one bad
+    data point can never produce a nonsense number again."""
+    bucket = outcome_history.setdefault(checkpoint_label, {"rug": 0, "fading": 0, "steady": 0, "doing_well": 0})
+    bucket[category] = bucket.get(category, 0) + 1
     return outcome_history
 
 
-def summarize_outcome_history(outcome_history):
-    summary = {}
-    for label, bucket in outcome_history.items():
-        if bucket["count"] > 0:
-            summary[label] = {
-                "count": bucket["count"],
-                "up_pct": round(bucket["up_count"] / bucket["count"] * 100),
-                "avg_change_pct": round(bucket["total_change_pct"] / bucket["count"], 1),
-            }
-    return summary
+def update_learning_log(learning_log, name, symbol, category, change_pct, breakdown):
+    """Records what the coin's score breakdown looked like at flag time,
+    tagged with how it actually turned out — this is the raw material for
+    figuring out which signals actually predict a rug vs a real winner."""
+    learning_log.append({
+        "name": name, "symbol": symbol, "category": category,
+        "change_pct": round(change_pct, 1), "breakdown": breakdown,
+        "ts": int(time.time()),
+    })
+    return learning_log[-300:]  # keep it bounded
 
 
-def check_signal_outcomes(signal_outcomes, alerts_log, outcome_history):
+def compute_learning_insight(learning_log):
+    """Compares the score breakdown of coins that rugged vs coins that did
+    well, and surfaces whichever component shows the biggest gap — a simple,
+    honest way to show what the scanner is actually learning from outcomes."""
+    rugs = [e for e in learning_log if e["category"] == "rug" and e.get("breakdown")]
+    wins = [e for e in learning_log if e["category"] == "doing_well" and e.get("breakdown")]
+    if len(rugs) < 3 or len(wins) < 3:
+        return None
+
+    def avg(entries, key):
+        vals = [e["breakdown"].get(key, 0) for e in entries]
+        return sum(vals) / len(vals) if vals else None
+
+    best = None
+    for comp in ("SAFETY", "MOMENTUM", "LIQUIDITY", "SMART MONEY"):
+        r, w = avg(rugs, comp), avg(wins, comp)
+        if r is not None and w is not None:
+            gap = w - r
+            if best is None or abs(gap) > abs(best[2]):
+                best = (r, w, gap, comp)
+    if not best:
+        return None
+    r, w, gap, comp = best
+    return f"Coins that rugged averaged {comp} {r:.0f}; coins that did well averaged {comp} {w:.0f}."
+
+
+def check_signal_outcomes(signal_outcomes, alerts_log, outcome_history, learning_log):
     """For coins we've flagged before, check back at fixed checkpoints
-    (1h/4h/24h) and report whether it actually grew — this is what makes the
-    scanner accountable instead of just firing alerts and never following up."""
+    (1h/4h/24h) and report — in plain language — whether it's doing well,
+    fading, or turned out to be a rug. The final (24h) check also feeds the
+    learning log, so the scanner's track record actually builds up."""
     now = time.time()
     for mint, record in signal_outcomes.items():
         elapsed_min = (now - record["flagged_ts"]) / 60
@@ -944,7 +1016,7 @@ def check_signal_outcomes(signal_outcomes, alerts_log, outcome_history):
                 # flagged in the first place should never have a tiny
                 # liquidity_at_flag; if we see one anyway, or the resulting
                 # change is an impossible outlier, treat it as bad data and
-                # skip it rather than let it wreck the whole average.
+                # skip it rather than report nonsense.
                 valid = (
                     current is not None and flag_liquidity and flag_liquidity >= MIN_VALID_LIQUIDITY_AT_FLAG
                 )
@@ -955,17 +1027,17 @@ def check_signal_outcomes(signal_outcomes, alerts_log, outcome_history):
                         print(f"[scanner] discarding implausible outcome for {mint}: {change_pct:+.0f}%")
 
                 if valid:
-                    hours = checkpoint / 60
-                    outcome_msg = (
-                        f"📊 SIGNAL REVIEW ({hours:.0f}h later)\n"
-                        f"{record['name']} ({record['symbol']})\n"
-                        f"Liquidity at flag: ~${flag_liquidity:,.0f}\n"
-                        f"Liquidity now: ~${current:,.0f}\n"
-                        f"Change: {change_pct:+.0f}%"
-                    )
+                    category, icon = classify_outcome(change_pct)
+                    is_final = checkpoint == OUTCOME_CHECKPOINTS_MIN[-1]
+                    outcome_msg = build_outcome_message(
+                        record["name"], record["symbol"], category, icon, change_pct, is_final)
                     send_telegram(outcome_msg)
                     alerts_log.insert(0, {"ts": int(time.time()), "type": "outcome", "message": outcome_msg})
-                    outcome_history = update_outcome_history(outcome_history, label, change_pct)
+                    outcome_history = update_outcome_history(outcome_history, label, category)
+                    if is_final:
+                        learning_log = update_learning_log(
+                            learning_log, record["name"], record["symbol"],
+                            category, change_pct, record.get("breakdown"))
 
     # drop records once fully checked and old, so the file doesn't grow forever
     signal_outcomes = {
@@ -973,33 +1045,119 @@ def check_signal_outcomes(signal_outcomes, alerts_log, outcome_history):
         if len(r["checkpoints_done"]) < len(OUTCOME_CHECKPOINTS_MIN)
         or (now - r["flagged_ts"]) < 7 * 86400
     }
-    return signal_outcomes, alerts_log, outcome_history
+    return signal_outcomes, alerts_log, outcome_history, learning_log
+
+
+def check_creation_outcomes(creation_outcomes, alerts_log, wallet_stats):
+    """For every coin a tracked wallet has created, check back at the same
+    1h/4h/24h checkpoints and attribute the outcome to that wallet — this is
+    what builds a real answer to 'does this wallet actually make good coins.'"""
+    now = time.time()
+    for mint, record in creation_outcomes.items():
+        elapsed_min = (now - record["created_ts"]) / 60
+
+        for checkpoint in OUTCOME_CHECKPOINTS_MIN:
+            label = f"{checkpoint}m"
+            if elapsed_min >= checkpoint and label not in record["checkpoints_done"]:
+                record["checkpoints_done"].append(label)
+                current = fetch_current_liquidity(mint)
+                if current is None:
+                    continue  # no pool found (never graduated, or too new to have one) — try again next checkpoint
+
+                # We don't have a "liquidity at creation" baseline the way the
+                # scanner does (a coin has ~$0 liquidity the instant it's
+                # created), so instead we classify by absolute liquidity level
+                # reached by each checkpoint — a simpler, honest proxy for
+                # "did this thing gain any real traction at all."
+                if current < 500:
+                    category, icon = "rug", "🔴"
+                elif current < 3000:
+                    category, icon = "fading", "🟠"
+                elif current < 15000:
+                    category, icon = "steady", "🟡"
+                else:
+                    category, icon = "doing_well", "🟢"
+
+                is_final = checkpoint == OUTCOME_CHECKPOINTS_MIN[-1]
+                creator_label = record["creator_label"]
+                verb = {
+                    "rug": "turned out to be a rug",
+                    "fading": "has very little traction",
+                    "steady": "has some real traction",
+                    "doing_well": "is doing really well",
+                }[category]
+                msg = f"{icon} {creator_label}'s coin {record['name']} ({record['symbol']}) {verb} (liquidity ~${current:,.0f})"
+                send_telegram(msg)
+                alerts_log.insert(0, {"ts": int(time.time()), "type": "creation_outcome", "message": msg})
+
+                if is_final:
+                    stats = wallet_stats.setdefault(record["creator_address"], {
+                        "label": creator_label, "buy_count": 0, "sell_count": 0,
+                        "total_buy_usd": 0.0, "total_sell_usd": 0.0,
+                        "tokens_traded": [], "last_active": 0,
+                        "positions": {}, "realized_pnl_usd": 0.0,
+                    })
+                    key = f"coins_created_{category}"
+                    stats[key] = stats.get(key, 0) + 1
+
+    creation_outcomes = {
+        m: r for m, r in creation_outcomes.items()
+        if len(r["checkpoints_done"]) < len(OUTCOME_CHECKPOINTS_MIN)
+        or (now - r["created_ts"]) < 7 * 86400
+    }
+    return creation_outcomes, alerts_log, wallet_stats
 
 
 # ---------------- daily digest ----------------
 
-def maybe_send_daily_digest(wallet_stats, outcome_history, watched_coins, digest_state):
-    """Sends one summary message per day (around 08:00 UTC) instead of only
-    reactive alerts — a single glance at how things are going."""
+def maybe_send_daily_digest(wallet_stats, alerts_log, outcome_history, learning_log, watched_coins, digest_state):
+    """Sends one clear, plain-language summary a day (around 08:00 UTC)."""
     today = time.strftime("%Y-%m-%d", time.gmtime())
     current_hour = int(time.strftime("%H", time.gmtime()))
     if digest_state.get("last_sent_date") == today or current_hour != 8:
         return digest_state
 
     lines = ["🗞️ DAILY DIGEST"]
-    cutoff = time.time() - 86400
-    active = [s for s in wallet_stats.values() if s.get("last_active", 0) > cutoff]
-    lines.append(f"\nWallets with activity in the last 24h: {len(active)}")
-    for s in active:
-        pnl = s.get("realized_pnl_usd", 0.0)
-        lines.append(f"- {s['label']}: {s['buy_count']} buys, {s['sell_count']} sells all-time, "
-                      f"realized PnL ~${pnl:,.2f} (only for positions we saw opened)")
 
-    summary = summarize_outcome_history(outcome_history)
-    if summary:
-        lines.append("\nScanner accuracy so far:")
-        for label, s in summary.items():
-            lines.append(f"- {label}: {s['count']} flagged, {s['up_pct']}% were up, avg change {s['avg_change_pct']:+.1f}%")
+    cutoff = time.time() - 86400
+    spotted_24h = [a for a in alerts_log if a.get("type") == "scanner" and a.get("ts", 0) > cutoff]
+    lines.append(f"\nIn the past 24 hours we spotted {len(spotted_24h)} coin(s).")
+
+    final_label = f"{OUTCOME_CHECKPOINTS_MIN[-1]}m"
+    final_bucket = outcome_history.get(final_label)
+    if final_bucket and sum(final_bucket.values()) > 0:
+        total = sum(final_bucket.values())
+        lines.append(
+            f"\nOf the coins we've fully checked back on (24h later):\n"
+            f"🟢 {final_bucket.get('doing_well', 0)} did really well\n"
+            f"🟡 {final_bucket.get('steady', 0)} held steady\n"
+            f"🟠 {final_bucket.get('fading', 0)} faded\n"
+            f"🔴 {final_bucket.get('rug', 0)} turned out to be rugs\n"
+            f"(out of {total} checked)"
+        )
+
+    insight = compute_learning_insight(learning_log)
+    if insight:
+        lines.append(f"\nWhat we're learning: {insight}")
+
+    creators = [s for s in wallet_stats.values() if s.get("coins_created", 0) > 0]
+    if creators:
+        lines.append("\nWallet track record (coins they've created):")
+        for s in creators:
+            good = s.get("coins_created_doing_well", 0) + s.get("coins_created_steady", 0)
+            rugs = s.get("coins_created_rug", 0)
+            evaluated = good + rugs + s.get("coins_created_fading", 0)
+            if evaluated > 0:
+                lines.append(f"- {s['label']}: {s['coins_created']} created, {good} solid, {rugs} rugs "
+                              f"(of {evaluated} evaluated so far)")
+
+    active = [s for s in wallet_stats.values() if s.get("last_active", 0) > cutoff]
+    if active:
+        lines.append(f"\nWallets with activity in the last 24h: {len(active)}")
+        for s in active:
+            pnl = s.get("realized_pnl_usd", 0.0)
+            lines.append(f"- {s['label']}: {s['buy_count']} buys, {s['sell_count']} sells all-time, "
+                          f"realized PnL ~${pnl:,.2f}")
 
     if watched_coins:
         lines.append(f"\nWatching {len(watched_coins)} coin(s) for rug alerts.")
@@ -1011,13 +1169,15 @@ def maybe_send_daily_digest(wallet_stats, outcome_history, watched_coins, digest
 
 # ---------------- dashboard export ----------------
 
-def write_dashboard(wallets, alerts_log, wallet_stats, watched_coins, outcome_history, settings):
+def write_dashboard(wallets, alerts_log, wallet_stats, watched_coins, outcome_history, learning_log, settings):
+    final_label = f"{OUTCOME_CHECKPOINTS_MIN[-1]}m"
     data = {
         "last_updated": int(time.time()),
         "wallets": wallets,
         "wallet_stats": wallet_stats,
         "watched_coins": watched_coins,
-        "scanner_accuracy": summarize_outcome_history(outcome_history),
+        "track_record": outcome_history.get(final_label, {}),
+        "learning_insight": compute_learning_insight(learning_log),
         "settings": settings,
         "recent_alerts": alerts_log[:MAX_ALERTS_LOGGED],
     }
@@ -1042,6 +1202,8 @@ def main():
     watched_coins = load_json(WATCHED_COINS_FILE, {})
     settings = load_json(SETTINGS_FILE, {})
     outcome_history = load_json(OUTCOME_HISTORY_FILE, {})
+    learning_log = load_json(LEARNING_LOG_FILE, [])
+    creation_outcomes = load_json(CREATION_OUTCOMES_FILE, {})
     digest_state = load_json("digest_state.json", {})
 
     wallets, watched_coins, settings = process_telegram_commands(wallets, watched_coins, settings)
@@ -1054,30 +1216,37 @@ def main():
         print(f"  - {w['label']}: {w['address']}")
 
     for wallet in wallets:
-        seen, alerts_log, wallet_stats, recent_buys = process_wallet(
-            wallet, seen, alerts_log, wallet_stats, recent_buys)
+        seen, alerts_log, wallet_stats, recent_buys, creation_outcomes = process_wallet(
+            wallet, seen, alerts_log, wallet_stats, recent_buys, creation_outcomes)
         save_json(SEEN_FILE, seen)
     save_json(WALLET_STATS_FILE, wallet_stats)
     save_json(RECENT_BUYS_FILE, recent_buys)
+    save_json(CREATION_OUTCOMES_FILE, creation_outcomes)
 
     watched_coins, alerts_log = check_watched_coins_for_rugs(watched_coins, alerts_log)
     save_json(WATCHED_COINS_FILE, watched_coins)
 
+    creation_outcomes, alerts_log, wallet_stats = check_creation_outcomes(
+        creation_outcomes, alerts_log, wallet_stats)
+    save_json(CREATION_OUTCOMES_FILE, creation_outcomes)
+    save_json(WALLET_STATS_FILE, wallet_stats)
+
     scanner_seen, alerts_log, signal_outcomes = run_coin_scanner(
         scanner_seen, alerts_log, signal_outcomes, recent_buys, settings)
-    signal_outcomes, alerts_log, outcome_history = check_signal_outcomes(
-        signal_outcomes, alerts_log, outcome_history)
+    signal_outcomes, alerts_log, outcome_history, learning_log = check_signal_outcomes(
+        signal_outcomes, alerts_log, outcome_history, learning_log)
     save_json(SCANNER_SEEN_FILE, scanner_seen)
     save_json(SIGNAL_OUTCOMES_FILE, signal_outcomes)
     save_json(OUTCOME_HISTORY_FILE, outcome_history)
+    save_json(LEARNING_LOG_FILE, learning_log)
 
-    digest_state = maybe_send_daily_digest(wallet_stats, outcome_history, watched_coins, digest_state)
+    digest_state = maybe_send_daily_digest(wallet_stats, alerts_log, outcome_history, learning_log, watched_coins, digest_state)
     save_json("digest_state.json", digest_state)
 
     alerts_log = alerts_log[:MAX_ALERTS_LOGGED]
     save_json(ALERTS_LOG_FILE, alerts_log)
 
-    write_dashboard(wallets, alerts_log, wallet_stats, watched_coins, outcome_history, settings)
+    write_dashboard(wallets, alerts_log, wallet_stats, watched_coins, outcome_history, learning_log, settings)
 
 
 if __name__ == "__main__":
