@@ -7134,7 +7134,8 @@
     "liquidity_at_flag": 22773.881943885786,
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "Ea9TZ2XC7AkgfKrFV5MnTKig5YWJoZH7xt4d4BnYpump": {
@@ -7144,7 +7145,8 @@
     "liquidity_at_flag": 51421.09922096455,
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "5wJER1FReQLS4tPF7f991F1zjHYkc5T2mLd23Yz8pump": {
@@ -10775,7 +10777,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "77p5u2agnHHS2vZwnLC71y1gugLEdjzBgeLz2oLeVfjE": {
@@ -10790,7 +10793,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "AobaVzsZG1AX7Z52GnfaYDjSo46ZaX7LSYfD9Fsd6oK4": {
@@ -11344,7 +11348,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "Hr98qKCpAcSvYhu5exMp3wLf1gmwgYwscBx5BrzNpump": {
     "name": "Apu Apustaja",
@@ -11357,7 +11363,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "3Vi5wdAHvMZSpE1RNjz9zEZKBBfV83umH3tJRQ3Usgot": {
     "name": "Feels Good Man",
@@ -11370,7 +11378,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "8ZAnzSHHR1qTf9i6yGnWKFsr7qVJNfR9KcPFvfgs5irA": {
     "name": "MEMEMAN",
@@ -11575,6 +11585,19 @@
     "breakdown": {
       "MOMENTUM": 83,
       "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "72XdMUWt99q84ReP3Xg9VEaVvpVBr2d4o4VUdMv7e1Lq": {
+    "name": "SOURCE",
+    "symbol": "SOURCE",
+    "flagged_ts": 1789854398,
+    "liquidity_at_flag": 26703.72468239039,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 75,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
