@@ -1,5 +1,5 @@
 {
-  "last_updated": 1789783507,
+  "last_updated": 1789784401,
   "wallets": [
     {
       "label": "Dev wallet 1",
@@ -81,23 +81,58 @@
   },
   "scanner_accuracy": {
     "60m": {
-      "count": 1698,
+      "count": 1700,
       "up_pct": 29,
-      "avg_change_pct": 21604230.1
+      "avg_change_pct": 21578813.3
     },
     "240m": {
-      "count": 2923,
+      "count": 2927,
       "up_pct": 22,
-      "avg_change_pct": 12550089.2
+      "avg_change_pct": 12532938.4
     },
     "1440m": {
-      "count": 2745,
+      "count": 2746,
       "up_pct": 22,
-      "avg_change_pct": -53.5
+      "avg_change_pct": -53.6
     }
   },
   "settings": {},
   "recent_alerts": [
+    {
+      "ts": 1789784401,
+      "type": "outcome",
+      "message": "\ud83d\udcca SIGNAL REVIEW (1h later)\n\u304a\u3093\u304c\u304f (\u304a\u3093\u304c\u304f)\nLiquidity at flag: ~$43,302\nLiquidity now: ~$42,096\nChange: -3%"
+    },
+    {
+      "ts": 1789784400,
+      "type": "outcome",
+      "message": "\ud83d\udcca SIGNAL REVIEW (1h later)\nPrism Cat (PRISMCAT)\nLiquidity at flag: ~$59,149\nLiquidity now: ~$0\nChange: -100%"
+    },
+    {
+      "ts": 1789784399,
+      "type": "outcome",
+      "message": "\ud83d\udcca SIGNAL REVIEW (4h later)\nCrossr (CROSSR)\nLiquidity at flag: ~$30,509\nLiquidity now: ~$48,552\nChange: +59%"
+    },
+    {
+      "ts": 1789784399,
+      "type": "outcome",
+      "message": "\ud83d\udcca SIGNAL REVIEW (4h later)\nCrossr (CROSSR)\nLiquidity at flag: ~$16,672\nLiquidity now: ~$0\nChange: -100%"
+    },
+    {
+      "ts": 1789784398,
+      "type": "outcome",
+      "message": "\ud83d\udcca SIGNAL REVIEW (4h later)\nCrossr (CROSSR)\nLiquidity at flag: ~$49,462\nLiquidity now: ~$1\nChange: -100%"
+    },
+    {
+      "ts": 1789784397,
+      "type": "outcome",
+      "message": "\ud83d\udcca SIGNAL REVIEW (4h later)\nFarming Sim (FARSIM)\nLiquidity at flag: ~$13,777\nLiquidity now: ~$204\nChange: -99%"
+    },
+    {
+      "ts": 1789784396,
+      "type": "outcome",
+      "message": "\ud83d\udcca SIGNAL REVIEW (24h later)\nOTC (OTC)\nLiquidity at flag: ~$31,120\nLiquidity now: ~$0\nChange: -100%"
+    },
     {
       "ts": 1789783507,
       "type": "outcome",
@@ -312,41 +347,6 @@
       "ts": 1789782332,
       "type": "wallet",
       "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: SPCXx -> USDC\nTrade size: unknown\nBought token: USD Coin (USDC)\nCA: EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v\nhttps://solscan.io/tx/5qoZeWucxGgWPuuKbruXFwqnyVdBwXCryphC8QedBrdno5Q4mqaa7SpPrSrMGQGX4LdYWCiexmXFTE1fRSv3m4rb"
-    },
-    {
-      "ts": 1789782331,
-      "type": "wallet",
-      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: USDC -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/2cKEHiRQUQJZcrK5ZgyHXGs48G96uP1u182CFKWtwfdwAtwix237baGgPU7Ee1Z8tjtGeBnTwQRop98bt9EdLgfK"
-    },
-    {
-      "ts": 1789781485,
-      "type": "outcome",
-      "message": "\ud83d\udcca SIGNAL REVIEW (1h later)\n\u5b59\u5c0f\u5723 (\u5b59\u5c0f\u5723)\nLiquidity at flag: ~$47,331\nLiquidity now: ~$88,135\nChange: +86%"
-    },
-    {
-      "ts": 1789781484,
-      "type": "outcome",
-      "message": "\ud83d\udcca SIGNAL REVIEW (1h later)\nWhat (IF)\nLiquidity at flag: ~$35,709\nLiquidity now: ~$0\nChange: -100%"
-    },
-    {
-      "ts": 1789781483,
-      "type": "outcome",
-      "message": "\ud83d\udcca SIGNAL REVIEW (4h later)\n\u9f8d\u4eba (\u9f8d\u4eba)\nLiquidity at flag: ~$31,371\nLiquidity now: ~$0\nChange: -100%"
-    },
-    {
-      "ts": 1789781483,
-      "type": "outcome",
-      "message": "\ud83d\udcca SIGNAL REVIEW (4h later)\nelon Coin (ELON)\nLiquidity at flag: ~$31,910\nLiquidity now: ~$1\nChange: -100%"
-    },
-    {
-      "ts": 1789781482,
-      "type": "outcome",
-      "message": "\ud83d\udcca SIGNAL REVIEW (4h later)\nFightCat (FIGHTCAT)\nLiquidity at flag: ~$15,825\nLiquidity now: ~$1\nChange: -100%"
-    },
-    {
-      "ts": 1789781481,
-      "type": "outcome",
-      "message": "\ud83d\udcca SIGNAL REVIEW (4h later)\nApu (APU)\nLiquidity at flag: ~$32,514\nLiquidity now: ~$2\nChange: -100%"
     }
   ]
 }
