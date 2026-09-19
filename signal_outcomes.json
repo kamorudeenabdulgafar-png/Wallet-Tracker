@@ -7156,7 +7156,8 @@
     "liquidity_at_flag": 13776.87397729505,
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "9uxeqRrYvXU4LPzrZTXepgMW27wApS9pGnvxRZ6JK2iP": {
@@ -7166,7 +7167,8 @@
     "liquidity_at_flag": 49462.39077949299,
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "GS7vsaYyooaJn95uRVsyea8E2VMPiCKKfwXqQv8w6n7K": {
@@ -10825,7 +10827,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "H6wfki419gYhB4WtHZdq54KJtKipYHhaRopmTCiJt5Lt": {
@@ -10840,7 +10843,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "54PyCLwPM1dWhn9GC55R47ZFVDqHLxrnCnBiTyqW5LGD": {
@@ -10855,7 +10859,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "9KL9wdzJqV9jDPjrwnoaos1aCBFe9njEWi6wAJy7o5py": {
@@ -10870,7 +10875,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "5gTfnRQjYk1T8JyVQGFSAWJ9ssZpmytWqHY7GUkKCv1c": {
@@ -11499,7 +11505,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "CkK779qJPYHh4zfUMc9GAfEaoAZpy66N62M2Vw6LgCp6": {
     "name": "MEMEMAN",
@@ -11512,7 +11520,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "F1BQXs8RTr3pugsCddw3dGVWhfTAPhyLJpuWYpzgRZtU": {
     "name": "Bogdanoff",
@@ -11525,7 +11535,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "GmLqBMbe4ffg7BZjdqRh1zE5d8EzZjS7p72QjmXKpump": {
     "name": "NIUMAJAK",
@@ -11538,7 +11550,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "A8qHuARQEZE14By6tyENFvHQMNBAiimrUG1Bjwvdweum": {
     "name": "TIPPED",
@@ -11678,6 +11692,19 @@
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "2RSnd9sEt7kyLBtDr262xBNwBsgegz5qcSFtDeSkFLEX": {
+    "name": "Black Box",
+    "symbol": "JEV",
+    "flagged_ts": 1789856331,
+    "liquidity_at_flag": 53794.2381978305,
+    "breakdown": {
+      "MOMENTUM": 85,
+      "SAFETY": 90,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
