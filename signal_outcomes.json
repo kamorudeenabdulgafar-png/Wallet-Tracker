@@ -7398,7 +7398,8 @@
     "liquidity_at_flag": 50119.375864920294,
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "EAC5enpuFi4pCY7YGuPWztWjAhVKAoGWj84R9SAZNqNd": {
@@ -7408,7 +7409,8 @@
     "liquidity_at_flag": 29378.451751887726,
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "AKzup8aAGt3N9rcDfVP6MDj2mywABqw4iEbEh1gUYyH": {
@@ -7418,7 +7420,8 @@
     "liquidity_at_flag": 223193.89349412898,
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "Hz7GrKcQ8joDvw1ERCeHPUF6BYuLqDYTCda8VmDvSmou": {
@@ -11553,7 +11556,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "BW5e97QZGDvfFaeVnPLT8byhWxPwKqHVjowcDR4Ysau9": {
     "name": "Superior Inu",
@@ -11566,7 +11571,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "HiPt38jjzQeZajrBsHaTga7A5Qsh7YVt4Ly4k9kXpump": {
     "name": "MOONUS",
@@ -11651,6 +11658,45 @@
     "symbol": "$\u58f9\u8d30",
     "flagged_ts": 1789837484,
     "liquidity_at_flag": 46046.37928366003,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "EYTGKfpWbRbSTx2dZMpkNPu4TKH9a48WRFbSYo1LWhs3": {
+    "name": "TIPPED",
+    "symbol": "TIPPED",
+    "flagged_ts": 1789838255,
+    "liquidity_at_flag": 29030.216833669416,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "Heik5FodUg5dXm5hmpspPzpSNKV69WQJbagisnwVpump": {
+    "name": "NVINU",
+    "symbol": "NVINU",
+    "flagged_ts": 1789838256,
+    "liquidity_at_flag": 35419.89361847975,
+    "breakdown": {
+      "MOMENTUM": 46,
+      "SAFETY": 100,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "G7nbMDorVdKNs9cy7WvSzPXQWLavS74XSfKm9LLzjUy4": {
+    "name": "TIPPED",
+    "symbol": "TIPPED",
+    "flagged_ts": 1789838257,
+    "liquidity_at_flag": 40458.54089555878,
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 60,
