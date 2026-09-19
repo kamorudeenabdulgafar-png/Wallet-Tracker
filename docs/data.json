@@ -1,5 +1,5 @@
 {
-  "last_updated": 1789822268,
+  "last_updated": 1789823089,
   "wallets": [
     {
       "label": "Dev wallet 1",
@@ -9,8 +9,8 @@
   "wallet_stats": {
     "5CEbueQnq1Ym2uSSx2xXds3jQAqT1BDnkA59RZobSPAG": {
       "label": "Dev wallet 1",
-      "buy_count": 202,
-      "sell_count": 127,
+      "buy_count": 203,
+      "sell_count": 128,
       "total_buy_usd": 15240.407820521046,
       "total_sell_usd": 0.0,
       "tokens_traded": [
@@ -65,7 +65,7 @@
         "poNSfquKq512ApeYjVghwViSun4x1MhCqHVH2Paq4jN",
         "suifhC9gU1VbJAPYPTBkHJyyyStKGLLYPVDTmPoqbvA"
       ],
-      "last_active": 1789821554,
+      "last_active": 1789823075,
       "positions": {},
       "realized_pnl_usd": 0.0
     }
@@ -84,12 +84,87 @@
     "count": 2835,
     "up_count": 613,
     "total_change_pct": -155586.29928175083,
-    "rug": 20,
+    "rug": 25,
     "doing_well": 1
   },
   "learning_insight": null,
   "settings": {},
   "recent_alerts": [
+    {
+      "ts": 1789823089,
+      "type": "outcome",
+      "message": "\ud83d\udd34 Turtle Turtle (DoubleT) is dropping fast \u2014 down 65%, may be rugging."
+    },
+    {
+      "ts": 1789823088,
+      "type": "outcome",
+      "message": "\ud83d\udd34 Argus (ARGUS) is dropping fast \u2014 down 100%, may be rugging."
+    },
+    {
+      "ts": 1789823087,
+      "type": "outcome",
+      "message": "\ud83d\udd34 PSA10 Coin (PSA10) is dropping fast \u2014 down 100%, may be rugging."
+    },
+    {
+      "ts": 1789823086,
+      "type": "outcome",
+      "message": "\ud83d\udd34 SIXSEVEN (67) is dropping fast \u2014 down 100%, may be rugging."
+    },
+    {
+      "ts": 1789823085,
+      "type": "outcome",
+      "message": "\ud83d\udd34 bBALL (bBALL) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
+    },
+    {
+      "ts": 1789823084,
+      "type": "outcome",
+      "message": "\ud83d\udd34 Worker (\ud83d\udcb2WORKER) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
+    },
+    {
+      "ts": 1789823083,
+      "type": "outcome",
+      "message": "\ud83d\udd34 looking to connect (connect) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
+    },
+    {
+      "ts": 1789823082,
+      "type": "outcome",
+      "message": "\ud83d\udd34 Analos (Analos) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
+    },
+    {
+      "ts": 1789823081,
+      "type": "outcome",
+      "message": "\ud83d\udd34 Pons (PONS) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
+    },
+    {
+      "ts": 1789823078,
+      "type": "scanner",
+      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\nBaby Bonk (BabyBonk)\nOpportunity: 76/100\n\nMOMENTUM     100\nSAFETY       60\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$25,769, 19 min since pool creation\n\u2022 Up +79% in the last hour, ~$131,614 in 24h volume (5.1x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 88% of supply (very concentrated)\n\nCA: F96kboFdkJhciiDt5c2YZeQctkcUCiohjn3Luxa37YV8\nhttps://dexscreener.com/solana/F96kboFdkJhciiDt5c2YZeQctkcUCiohjn3Luxa37YV8\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
+    },
+    {
+      "ts": 1789823077,
+      "type": "scanner",
+      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\nLeopardus Tilcayo (TIGRINO)\nOpportunity: 76/100\n\nMOMENTUM     100\nSAFETY       60\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$35,653, 14 min since pool creation\n\u2022 Up +120% in the last hour, ~$208,984 in 24h volume (5.9x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 100% of supply (very concentrated)\n\nCA: 4f3nzzJSq2Hx5jZU4xu5DiQj1Y4XxLFTnwHbUpfKhmWh\nhttps://dexscreener.com/solana/4f3nzzJSq2Hx5jZU4xu5DiQj1Y4XxLFTnwHbUpfKhmWh\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
+    },
+    {
+      "ts": 1789823075,
+      "type": "wallet",
+      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: WULF -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/3TLjzWpvVLYCiyf3ftMEYnaWbxaTjdNLcG3XeQv32yjjrMJ8UtdJso7nG1aZAhuf1r1JXTqUYmkzXjzdCQ3bb8cs"
+    },
+    {
+      "ts": 1789823074,
+      "type": "wallet",
+      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: DNUT -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/67hdWPYfFtjDTSMdUJyTVHJ4Zk73qi5xXR2B3smtQjSApsrPGBt7oW7nTtWSY9vEduqNbo98VewiGBE5v5QTgPLF"
+    },
+    {
+      "ts": 1789823074,
+      "type": "wallet",
+      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: SPYx -> USDC\nTrade size: unknown\nBought token: USD Coin (USDC)\nCA: EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v\nhttps://solscan.io/tx/2XnYodd74q8zJJyYE8q6ZA5WmQpszZ5ZyGT8xRWiftMTNBYMkjMK2XCzXvnkzoLKb4FbrRWBkjQwXWRGFauKywpn"
+    },
+    {
+      "ts": 1789823073,
+      "type": "wallet",
+      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: USDC -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/5XTCmL6UmrNJGi4e8cAdueSahLMoc2myUVzxSoACMR16HHccvBwxpNXaAQEWcLtuc7u3xdzncK1qQEgbiniX9zLr"
+    },
     {
       "ts": 1789822268,
       "type": "outcome",
@@ -264,81 +339,6 @@
       "ts": 1789821555,
       "type": "wallet",
       "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: PONS -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/3v7y6NuwKbRHc7ZDwFEojX3GZf3ASpFr76XTnPAQ73UzUNmz3wGeNMmhPTZSJBxjLHAVuQ1w81rZBuNtstbYz1Pw"
-    },
-    {
-      "ts": 1789820696,
-      "type": "outcome",
-      "message": "\ud83d\udd34 POKEDEX (POKEDEX) is dropping fast \u2014 down 100%, may be rugging."
-    },
-    {
-      "ts": 1789820695,
-      "type": "outcome",
-      "message": "\ud83d\udd34 Equitty (Equitty) is dropping fast \u2014 down 100%, may be rugging."
-    },
-    {
-      "ts": 1789820694,
-      "type": "outcome",
-      "message": "\ud83d\udd34 Argus (ARGUS) is dropping fast \u2014 down 100%, may be rugging."
-    },
-    {
-      "ts": 1789820694,
-      "type": "outcome",
-      "message": "\ud83d\udd34 Ash Ketchum (Satoshi) is dropping fast \u2014 down 100%, may be rugging."
-    },
-    {
-      "ts": 1789820693,
-      "type": "outcome",
-      "message": "\ud83d\udd34 Paid (PAID) is dropping fast \u2014 down 100%, may be rugging."
-    },
-    {
-      "ts": 1789820692,
-      "type": "outcome",
-      "message": "\ud83d\udd34 Binance Square Paid (PAID) is dropping fast \u2014 down 100%, may be rugging."
-    },
-    {
-      "ts": 1789820692,
-      "type": "outcome",
-      "message": "\ud83d\udd34 \u5e2e\u52a9\u60a3\u764c\u5973\u751f (Cookie) is dropping fast \u2014 down 100%, may be rugging."
-    },
-    {
-      "ts": 1789820691,
-      "type": "outcome",
-      "message": "\ud83d\udd34 \u5e2e\u52a9\u60a3\u764c\u5973\u751f (Cookie) is dropping fast \u2014 down 100%, may be rugging."
-    },
-    {
-      "ts": 1789820690,
-      "type": "outcome",
-      "message": "\ud83d\udd34 \u5e2e\u52a9\u60a3\u764c\u5973\u751f (Cookie) is dropping fast \u2014 down 100%, may be rugging."
-    },
-    {
-      "ts": 1789820689,
-      "type": "outcome",
-      "message": "\ud83d\udd34 XCrypto (XCrypto) is dropping fast \u2014 down 100%, may be rugging."
-    },
-    {
-      "ts": 1789820688,
-      "type": "outcome",
-      "message": "\ud83d\udd34 Leopardus Tilcayo (TIGRINO) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
-    },
-    {
-      "ts": 1789820688,
-      "type": "outcome",
-      "message": "\ud83d\udd34 \ud83d\udcb2THICC (\ud83d\udcb2THICC) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
-    },
-    {
-      "ts": 1789820687,
-      "type": "outcome",
-      "message": "\ud83d\udd34 Leopardus Tilcayo (TIGRINO) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
-    },
-    {
-      "ts": 1789820686,
-      "type": "scanner",
-      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\nBEFORE (BEFORE)\nOpportunity: 75/100\n\nMOMENTUM     98\nSAFETY       60\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$26,236, 14 min since pool creation\n\u2022 Up +65% in the last hour, ~$233,407 in 24h volume (8.9x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 94% of supply (very concentrated)\n\nCA: 2s7tpat7HeGMcchHpaRKNRpvE3NVUsMRYFT9iUreWmri\nhttps://dexscreener.com/solana/2s7tpat7HeGMcchHpaRKNRpvE3NVUsMRYFT9iUreWmri\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
-    },
-    {
-      "ts": 1789820685,
-      "type": "scanner",
-      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\nbEFORE (BEFORE)\nOpportunity: 76/100\n\nMOMENTUM     100\nSAFETY       60\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$39,120, 11 min since pool creation\n\u2022 Up +340% in the last hour, ~$443,043 in 24h volume (11.3x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 92% of supply (very concentrated)\n\nCA: 5h4qLNtRgC6QZYnyjPc2yBvr9x75V3tMMEuMYgeZMTRL\nhttps://dexscreener.com/solana/5h4qLNtRgC6QZYnyjPc2yBvr9x75V3tMMEuMYgeZMTRL\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
     }
   ]
 }
