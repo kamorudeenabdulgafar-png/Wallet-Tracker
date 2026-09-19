@@ -7057,7 +7057,8 @@
     "liquidity_at_flag": 27058.675893224114,
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "DzTyqMUbsWSvJeEzucEpyrjhcpV4FXYxDerX9UqRnvuj": {
@@ -7067,7 +7068,8 @@
     "liquidity_at_flag": 22321.785008284085,
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "KJ9N5n332bUC27NVXLcQ6f3tpZvvEFtLqHCHNEg5Qk8": {
@@ -10720,7 +10722,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "GgnYMpmL8451t7qdJTrzX57J3u5CJ8WEppsp1dKNyu9E": {
@@ -10735,7 +10738,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "4xZbgbsbNFm1aBGDkB2gpbZUwkiYoG5cYHVkRpVK5D2N": {
@@ -11289,7 +11293,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "HSEkftSapfwgFqFf9o1ws6eHdUWng9q8pJkAX5TZ2xHw": {
     "name": "Exhale",
@@ -11302,7 +11308,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "697Sn8cJovejnFSt3cd779Qw7hXsJZqvvy2zGvsJaYga": {
     "name": "Pikamoon",
@@ -11315,7 +11323,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "3jUFoHhWoMbZVGQr4ANaHPMvLneRtfVYhe868vETDPLn": {
     "name": "TIPPED",
@@ -11494,6 +11504,58 @@
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 90,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "A8qHuARQEZE14By6tyENFvHQMNBAiimrUG1Bjwvdweum": {
+    "name": "TIPPED",
+    "symbol": "TIPPED",
+    "flagged_ts": 1789853351,
+    "liquidity_at_flag": 28252.449697373013,
+    "breakdown": {
+      "MOMENTUM": 87,
+      "SAFETY": 100,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "E55Mxzfj8CcbqsEKVZPEKmF42isp55SgY2sgfPWGLCbh": {
+    "name": "Social Capital",
+    "symbol": "SCAP",
+    "flagged_ts": 1789853352,
+    "liquidity_at_flag": 38520.53868503431,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "FNGyEwuKUm4tSQJjxHJXU5D8tJSyGdQ6QFFaTq2mSXQP": {
+    "name": "Bogdanoff",
+    "symbol": "Bogdanoff",
+    "flagged_ts": 1789853353,
+    "liquidity_at_flag": 34461.11739633942,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "EmQj9rTGSE4SJeqUWS3NBLiM154HuNTpkE9oZvnPPpVo": {
+    "name": "Exhale",
+    "symbol": "\ud83d\udcb2Exhale",
+    "flagged_ts": 1789853353,
+    "liquidity_at_flag": 55940.85161051035,
+    "breakdown": {
+      "MOMENTUM": 99,
+      "SAFETY": 60,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
