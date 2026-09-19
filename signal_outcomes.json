@@ -9202,7 +9202,8 @@
     "liquidity_at_flag": 32122.056332559176,
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "HeyrF7Yi3pdwoEgibwpSeCP8CVecycEtW4f8RZbUpump": {
@@ -9212,7 +9213,8 @@
     "liquidity_at_flag": 26108.231878374096,
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "9GQRzBVGcZJPGSky3tHZKLxFxEQBL1mwpnbajNuWpump": {
@@ -9222,7 +9224,8 @@
     "liquidity_at_flag": 24763.88401479011,
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "CHgr3JLHWf6kQ9GzSH42AfwczuLus69Wx16jivworvR2": {
@@ -11981,7 +11984,8 @@
     "flagged_ts": 1789793107,
     "liquidity_at_flag": 26029.700853021466,
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "DxrqkG8A6uGqCQjYKx66jQNGLoVMweAb6h8yX2Ngp8yP": {
@@ -11990,7 +11994,8 @@
     "flagged_ts": 1789793108,
     "liquidity_at_flag": 43421.32796477644,
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "4pofcwH1MP1nqShJhjG6PiGcpvrrQMhiXuJajLagpump": {
@@ -12403,7 +12408,9 @@
     "symbol": "\u725b\u6765",
     "flagged_ts": 1789803639,
     "liquidity_at_flag": 38638.44172621035,
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "2jDRomDaFYqt4j3yd79GspPp4ZpQtDfx6zXprguapump": {
     "name": "Mochi",
@@ -12522,6 +12529,34 @@
     "symbol": "Cookie",
     "flagged_ts": 1789806999,
     "liquidity_at_flag": 207194.70271110913,
+    "checkpoints_done": []
+  },
+  "JBght52idMkdsMTDmz8PrQYYfmVqfAo7Ht7b5i3Cyd1B": {
+    "name": "moo-ve.site",
+    "symbol": "MOO",
+    "flagged_ts": 1789807634,
+    "liquidity_at_flag": 27872.563967883278,
+    "checkpoints_done": []
+  },
+  "QqbASkNwFcRw5dMuEUyMZc1dJQHWtwqmxdZvpDyDRcW": {
+    "name": "Argus",
+    "symbol": "ARGUS",
+    "flagged_ts": 1789807635,
+    "liquidity_at_flag": 163316.31773898666,
+    "checkpoints_done": []
+  },
+  "11pvjLsVjm6XubznSsU3RovAm9Br5kF7P26rzXF2EYz": {
+    "name": "moo-ve.site",
+    "symbol": "MOO",
+    "flagged_ts": 1789807636,
+    "liquidity_at_flag": 30274.575276084885,
+    "checkpoints_done": []
+  },
+  "BCTAoPwnt38YhBEg7AqWr26tvbfLHnhWjmYPyyzgHzBH": {
+    "name": "BLACK HOLE",
+    "symbol": "\ud83d\udcb2INHALE",
+    "flagged_ts": 1789807636,
+    "liquidity_at_flag": 58398.91184372522,
     "checkpoints_done": []
   }
 }
