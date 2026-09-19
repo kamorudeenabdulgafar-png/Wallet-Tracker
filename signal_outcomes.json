@@ -7211,7 +7211,8 @@
     "liquidity_at_flag": 21720.757240616716,
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "CCv5c2LVTQyDxyodV7rKQwYaZK5KkNJdQ7c6jsmgsnXz": {
@@ -7221,7 +7222,8 @@
     "liquidity_at_flag": 17521.47781445014,
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "Gk1rA7Kz5Y5wRpGTRygUeyfov7eQXZ1MJtWxggZBV9wG": {
@@ -7231,7 +7233,8 @@
     "liquidity_at_flag": 55821.55252390345,
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "9226dziAf1iaNsZ6ACCnTWAxvbbrMcmPDEUuLUUoU2xQ": {
@@ -10990,7 +10993,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "DjZmCfVkPHYCGuNveFH5JHkEJZob83LjHMi4uw1iwgiS": {
@@ -11005,7 +11009,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "Gt18pGJTwPADrTDBECgLQCoRes8F59La1do3ztbGs3Hf": {
@@ -11664,7 +11669,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "4mH7yyWLJD8n3Dt2Dmwx3p9aQ4euqKebvnU7KUiWpump": {
     "name": "Pump Studio",
@@ -11677,7 +11684,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "C3CfP7BE4QeMKQfbzQogadm8RzFtSjZY8Rq19JZ3GdMW": {
     "name": "chinese time in my life",
@@ -11690,7 +11699,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "3DR2EsXJnfczN3LhJUKUkuNWSkKrCid6GCGvEntqVWYE": {
     "name": "Happiness",
@@ -11788,6 +11799,32 @@
     "symbol": "si",
     "flagged_ts": 1789858019,
     "liquidity_at_flag": 31269.98578448216,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "2gVT53QFfPRn9Dmj4HxYXLQ9fkbprjgjyisYT7KSs5zC": {
+    "name": "Jean Phil",
+    "symbol": "JEANPHIL",
+    "flagged_ts": 1789858516,
+    "liquidity_at_flag": 45277.57959501732,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "CmWSq1tHGXvcxgHYmJQmjzbzEmJyzLrAjaK48JC8eump": {
+    "name": "Jean Phil",
+    "symbol": "JEANPHIL",
+    "flagged_ts": 1789858517,
+    "liquidity_at_flag": 25501.05121615943,
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 60,
