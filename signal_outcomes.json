@@ -1,48 +1,4 @@
 {
-  "6xG6DQvnH2i5FmHCzZ2JZZLAQMsv6qv97NE4DicAKz3i": {
-    "name": "SKYNET",
-    "symbol": "SKYNETAI",
-    "flagged_ts": 1789228045,
-    "liquidity_at_flag": 46361.133651136166,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "D77b7khLVHbYABitGaXWP9sZWU55wHtFF4Qe7A8akGtx": {
-    "name": "4Stock",
-    "symbol": "4Stock",
-    "flagged_ts": 1789228046,
-    "liquidity_at_flag": 213742.31312287028,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "FG11GCppcDsLKMDHqxDfXFv9kSqK6zEg7SUicS3os2b6": {
-    "name": "HIM",
-    "symbol": "HIM",
-    "flagged_ts": 1789228047,
-    "liquidity_at_flag": 21787.631767168907,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "25RJCenFdryR7qfLj1QXrYu8QgcuZxnWTfMM4cQypump": {
-    "name": "Edward Paperhands",
-    "symbol": "PAPERHANDS",
-    "flagged_ts": 1789228048,
-    "liquidity_at_flag": 24332.463617487014,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
   "9ggAfmx7J74EejLi9wXN9UnVhUDPztCYb7VvK2PHruFK": {
     "name": "faucat",
     "symbol": "faucat",
@@ -7717,7 +7673,8 @@
     "liquidity_at_flag": 29762.1407356353,
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "CVQVACSxXQg7niKgVhwHBTZbBKt8XwcT7RTgL4aYpump": {
@@ -10916,7 +10873,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "8rYu6TDaG3r9xveduJr3E4CDik7MguZ72u8z3BVbs2Pn": {
@@ -10931,7 +10889,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "8szzV5xoFE3xBAMsjSrZneiARYajYDzTkNEdMy83jQJF": {
@@ -10946,7 +10905,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "46MAS7fVKpErS3hxQu4HkuhTUBtAdtRHcWeFNaqTSoWQ": {
@@ -10961,7 +10921,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "5qJxuwiH4gLF829L6a71i7VRLU3pvUzDYrzqTh65Ctq2": {
@@ -10976,7 +10937,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "KF8kwgUkkLMfwwNTMz54ZppGbR3UFJijnrxjC4yVm31": {
@@ -11605,7 +11567,9 @@
       "LIQUIDITY": 93,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "ECixujBwq7wKeNwTHRTL4mADHNcWJnk1PyEJ4JUNwwoC": {
     "name": "uraniumInuranus",
@@ -11618,7 +11582,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "FaYEZbTJtSYhThdm1yQFZhHe5KZeDDRDe4pGCCuPNTnC": {
     "name": "$\uae40\ubd80\uc7a5",
@@ -11631,7 +11597,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "4wqXZxEw8X8gjVVfuFRVEKUguD4e9wGFgBv6CRWW5uEa": {
     "name": "honse",
@@ -11901,6 +11869,32 @@
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "Cd1TSbkYbuVEp6eHbc69sw8wdtQCxoU2agGX2tg5TqDn": {
+    "name": "Superior Inu",
+    "symbol": "SI",
+    "flagged_ts": 1789832854,
+    "liquidity_at_flag": 32152.258934470137,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "p6K2tbtsyDp6jdzazfk1L3rgNUJueG7qN74HzxNkach": {
+    "name": "Superior Inu",
+    "symbol": "SI",
+    "flagged_ts": 1789832855,
+    "liquidity_at_flag": 40253.20852863533,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 75,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
