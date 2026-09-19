@@ -1,15 +1,4 @@
 {
-  "7FtrBYQLPDo25SEPLrMb3kyaQyjWP71gPpNzU5oYsB6V": {
-    "name": "Anthropic",
-    "symbol": "Claude",
-    "flagged_ts": 1789246029,
-    "liquidity_at_flag": 281892.78250952845,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
   "3b9JSQ4gnbzw9KVVNfdVcQxnKDi9urJAFvzJJpsWEgt8": {
     "name": "Unity",
     "symbol": "UNITY",
@@ -7057,7 +7046,8 @@
     "liquidity_at_flag": 17453.67710684436,
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "H14bgrdBsfoyLghcR8Pe7iXVmb5qAJoM3VXY6qDeHrGZ": {
@@ -7067,7 +7057,8 @@
     "liquidity_at_flag": 52257.11724673846,
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "AawxeruCPvyrWzU2Wn3ciqNjHRDttd358dEpDKeeUPfh": {
@@ -7077,7 +7068,8 @@
     "liquidity_at_flag": 25244.64641641888,
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "2EGgEdC47xrrJPx6PoGKemu8Wi3Mw7vLiqvs5mALgsBt": {
@@ -7087,7 +7079,8 @@
     "liquidity_at_flag": 404851.84446797497,
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "C83nNu197rmwTw9UtJwkGKPaKsZVPjYwhTZcrjFHZYUX": {
@@ -7097,7 +7090,8 @@
     "liquidity_at_flag": 41110.72448843643,
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "DCj5KbtSMoA76wa4GSCWrMPBNazHrxS5Dr1dMJuEroLL": {
@@ -7107,7 +7101,8 @@
     "liquidity_at_flag": 20072.511553264725,
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "EbbQg6H4hNpCJDMsKYKxEJ7x7euajzNzEw3HPRHTEWSS": {
@@ -7117,7 +7112,8 @@
     "liquidity_at_flag": 46419.52080355032,
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "HPemt9DaQ2XE8EmNJRDtLG9c1Yx5rmpA9RpuLWomsfeZ": {
@@ -7127,7 +7123,8 @@
     "liquidity_at_flag": 35781.8781462686,
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "4NSaxtuMSMcWUnuu1AQ28U3pXGooVS3Wa32Xy8AvraKx": {
@@ -10702,7 +10699,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "CxGAtnVCCcNTaymfGFFqbfp56pmq4Tmkuz7uX9eT25TN": {
@@ -11301,7 +11299,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "9T9WRY6MhfkGiqVYi24Y3K7Q4mhfo5Uq4YtA27KYypMe": {
     "name": "CLYDE",
@@ -11314,7 +11314,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "FTGYDdLbrHHzvEFAUg2HcFkTFgHeUeqmSoGosRpuH7Ye": {
     "name": "Exhale",
@@ -11327,7 +11329,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "G8egcWQFfpyD75UFJTPJFPTrA2omrUYSBv3ig9uKzZ4L": {
     "name": "Leopardus tilcayo",
@@ -11440,6 +11444,71 @@
     "liquidity_at_flag": 161314.62840858224,
     "breakdown": {
       "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "8ZAnzSHHR1qTf9i6yGnWKFsr7qVJNfR9KcPFvfgs5irA": {
+    "name": "MEMEMAN",
+    "symbol": "MEMEMAN",
+    "flagged_ts": 1789851187,
+    "liquidity_at_flag": 25266.531147287576,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "2oLPwfjeBdjrQsTWHQeAMLMx9g1gLkuKzRrfjPqPQWQe": {
+    "name": "MEMEMAN",
+    "symbol": "MEMEMAN",
+    "flagged_ts": 1789851189,
+    "liquidity_at_flag": 38811.593948597554,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "FRrqwN7JS8ZkRPe7nDTARuNbD5ZrzmLJ3tKJWWaBQ1r5": {
+    "name": "Jean Phil",
+    "symbol": "JEANPHIL",
+    "flagged_ts": 1789851189,
+    "liquidity_at_flag": 27945.37877029425,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 100,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "6ZUf3xDJvQ5RHuwSuuQ8kYpWFC2Z96AfjW2NW4Qgd7gk": {
+    "name": "Exhale",
+    "symbol": "\ud83d\udcb2Exhale",
+    "flagged_ts": 1789851190,
+    "liquidity_at_flag": 52418.31391047157,
+    "breakdown": {
+      "MOMENTUM": 92,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "9ePfq2jAJhMvuL9JGG4s6UJQU2vynL8ntnGrw98R377": {
+    "name": "SNAP",
+    "symbol": "THANOS",
+    "flagged_ts": 1789851191,
+    "liquidity_at_flag": 29120.947588124356,
+    "breakdown": {
+      "MOMENTUM": 90,
       "SAFETY": 60,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
