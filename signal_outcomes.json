@@ -7266,7 +7266,8 @@
     "liquidity_at_flag": 33612.03572282228,
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "88af3ZpeEYVYt1YSysWL5fayy3FtgWhXYHmAhT4qUy7W": {
@@ -7276,7 +7277,8 @@
     "liquidity_at_flag": 34067.594074563036,
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "yWp5jYJevDi1bWAZxq1aKaDFpMytHZaN7hVJXAypump": {
@@ -7286,7 +7288,8 @@
     "liquidity_at_flag": 26422.679633929474,
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "RbUE5mVB2HjDuyVEquhSjjZkrGg68d1vcswfpcK1LJr": {
@@ -11203,7 +11206,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "42sUunxS1EjaHD7VtFh91jQ1DDy2xUftnFxCsHCbav2K": {
@@ -11218,7 +11222,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "98mj1sAwDDd6gLfnQFtvkwSUczqySe7LoDN5dDnxpump": {
@@ -11977,6 +11982,45 @@
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "CWigYrZ47rFD8hucu8qG3YmWffVAegZTaKw12ZveXump": {
+    "name": "fomo pay",
+    "symbol": "fomopay",
+    "flagged_ts": 1789860929,
+    "liquidity_at_flag": 23845.93134191919,
+    "breakdown": {
+      "MOMENTUM": 96,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "7xB5scT7AnfwLKs1ftQ5KYch2QCmUhtx5VtCzkRqBf5D": {
+    "name": "TryStack",
+    "symbol": "STACK",
+    "flagged_ts": 1789860930,
+    "liquidity_at_flag": 19739.377762634722,
+    "breakdown": {
+      "MOMENTUM": 84,
+      "SAFETY": 60,
+      "LIQUIDITY": 99,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "kixtDReVYT6tPhN4wkYHHqSAYQuvQUF3mAb4J8jpump": {
+    "name": "Dap Cat",
+    "symbol": "Dap",
+    "flagged_ts": 1789860931,
+    "liquidity_at_flag": 48548.49130787283,
+    "breakdown": {
+      "MOMENTUM": 74,
+      "SAFETY": 100,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
