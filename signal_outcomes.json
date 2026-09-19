@@ -1,48 +1,4 @@
 {
-  "AzgaiyoymXzTGrXVLSZS72f3Fg9huR3xs7L5yqX9mToj": {
-    "name": "\u3164",
-    "symbol": "\u3164",
-    "flagged_ts": 1789171611,
-    "liquidity_at_flag": 47435.84313272679,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "DST5qmtKfZiJyVoM3ANYSh1SjDrTVPJcVTSq9gMJLg6V": {
-    "name": "\u91d1\u90e8\u957f",
-    "symbol": "\u91d1\u90e8\u957f",
-    "flagged_ts": 1789171612,
-    "liquidity_at_flag": 32423.5106929862,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "q8j8ccsiwPx6DMR3NhXZVtbz8TRz5DbYq2ngZGGbztW": {
-    "name": "Paired with",
-    "symbol": "Graduated",
-    "flagged_ts": 1789171613,
-    "liquidity_at_flag": 27980.09165614758,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "DPfy1BrhXw7VXzZsLYfMF2rcxoBtLcHmrkbPG2moBVo5": {
-    "name": "\u5b59\u5c0f\u5723",
-    "symbol": "\u5b59\u5c0f\u5723",
-    "flagged_ts": 1789171614,
-    "liquidity_at_flag": 30673.880528390975,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
   "FxCWRVgwyBaUKLGbZCsaDSaLccfHH6nDYEtP2gcqpYmF": {
     "name": "embercurve",
     "symbol": "EMBER",
@@ -13127,7 +13083,8 @@
     "flagged_ts": 1789761906,
     "liquidity_at_flag": 25655.223168301563,
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "GPfFNtKPZH2d97TB2Qs17wURCYLoXqmXUbfpR64HXiBt": {
@@ -13136,7 +13093,8 @@
     "flagged_ts": 1789761907,
     "liquidity_at_flag": 17306.43574073587,
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "9uYSBSUivJKWqEZ2jnPBZPUSzFvLPgduQdWcaEnqJRbZ": {
@@ -13145,7 +13103,8 @@
     "flagged_ts": 1789761908,
     "liquidity_at_flag": 14645.545809349895,
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "CLfsrkR1uLWAY6Aj2UMt6dBv8pgapRZ3GrjyMDoKRv5o": {
@@ -13154,7 +13113,8 @@
     "flagged_ts": 1789761916,
     "liquidity_at_flag": 42794.501210291295,
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "8vKVH77BUc13BajJjSvVHGEie8xBsC9oHNoqrXPhcJcr": {
@@ -13163,7 +13123,8 @@
     "flagged_ts": 1789761917,
     "liquidity_at_flag": 59103.39869035584,
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "9A6D58gfCEmbvhdvQHsgpR25BcWAiFb5QiM288wQD7c5": {
@@ -13468,14 +13429,18 @@
     "symbol": "PEPE",
     "flagged_ts": 1789772685,
     "liquidity_at_flag": 42981.19503702196,
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "74Dw9PwrvAtjqMv83s4kE9BrQjryhxQ8Mn36VZdeyzpM": {
     "name": "Reserve Currency of Socialcom",
     "symbol": "RCSC",
     "flagged_ts": 1789772687,
     "liquidity_at_flag": 183832.7063524783,
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "E8mALE1zhRFgpWsaRaenQMnasUaLrAVJKynEiRQVZvuN": {
     "name": "Leopardus Tilcayo",
@@ -13524,6 +13489,27 @@
     "symbol": "TIGRINO",
     "flagged_ts": 1789775765,
     "liquidity_at_flag": 28616.52887977103,
+    "checkpoints_done": []
+  },
+  "EqCnCHQaNZySxAHPCguqRXVDqpvHqj7sY6f3ivzWjHRz": {
+    "name": "Crossr",
+    "symbol": "CROSSR",
+    "flagged_ts": 1789776559,
+    "liquidity_at_flag": 24986.692337861416,
+    "checkpoints_done": []
+  },
+  "2jjXDQGaH57fmr9JvssrKffQxuwZsg7cBpEvzCXawoKJ": {
+    "name": "Prism",
+    "symbol": "Prism",
+    "flagged_ts": 1789776560,
+    "liquidity_at_flag": 31413.443599394206,
+    "checkpoints_done": []
+  },
+  "Jaf4YZwHD3X4KAZN82RkR9hBUZo3AoUJ21zvS1zCMsX": {
+    "name": "Feels Good Man",
+    "symbol": "FEELSGOOD",
+    "flagged_ts": 1789776561,
+    "liquidity_at_flag": 235768.20812789068,
     "checkpoints_done": []
   }
 }
