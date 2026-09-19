@@ -11469,7 +11469,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "8WWTSBEwKY5ShMZ1zJty2tkgRuuMxF3qNvZRnQutDtcu": {
     "name": "THANOS",
@@ -11482,7 +11484,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "9wbSrrtpRxCuWodqCZ1MpboyL6eX9pQNwr9kMKayeU3": {
     "name": "Jean Phil",
@@ -11645,6 +11649,32 @@
     "symbol": "chinese",
     "flagged_ts": 1789854864,
     "liquidity_at_flag": 35466.34702348907,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "3DR2EsXJnfczN3LhJUKUkuNWSkKrCid6GCGvEntqVWYE": {
+    "name": "Happiness",
+    "symbol": "HAPPY",
+    "flagged_ts": 1789855487,
+    "liquidity_at_flag": 50712.37547144368,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 100,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "7nbkSrPUAdXHuxVPJ3eigCZ8ENYzjiK7mayzFYCGb4Qs": {
+    "name": "\u725b\u6765",
+    "symbol": "\u725b\u6765",
+    "flagged_ts": 1789855488,
+    "liquidity_at_flag": 60680.888739083355,
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 60,
