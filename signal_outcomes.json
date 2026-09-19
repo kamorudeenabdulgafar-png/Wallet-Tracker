@@ -1,37 +1,4 @@
 {
-  "5yyPDjGv4MND2VC7d5gFihEz8kRKY77wpaxnGo9SYVoW": {
-    "name": "INU",
-    "symbol": "I",
-    "flagged_ts": 1789226332,
-    "liquidity_at_flag": 20587.569418337218,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "4qKVWHQmB8C51M4tRN8jUTyJzM6x2H4YRnqYQNfNcNXB": {
-    "name": "CATGPT",
-    "symbol": "CATGPT",
-    "flagged_ts": 1789226332,
-    "liquidity_at_flag": 29242.718700461388,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "BcAMfMsfkRig9H8wv9ZCY7fjDj8f2mUTKbmNvcvJ7Ax3": {
-    "name": "Recursive Self Inu",
-    "symbol": "RSI",
-    "flagged_ts": 1789226333,
-    "liquidity_at_flag": 43736.04791119185,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
   "3GSNp6fpfKQvUdKMSKhHqeDkgxmRjm7cpWDCKierpump": {
     "name": "fomobrain",
     "symbol": "FOMOBRAIN",
@@ -7860,7 +7827,8 @@
     "liquidity_at_flag": 26590.95886214486,
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "HBrCLqeJsp13ouAVE9HEUmv1MHEij4ZXtUsAsReGpump": {
@@ -7870,7 +7838,8 @@
     "liquidity_at_flag": 30754.410336668785,
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "CoGPaMudTJaihnAjDEo8N8DMyDC5U5J5TQ9Aow3DQG1E": {
@@ -7880,7 +7849,8 @@
     "liquidity_at_flag": 43057.212086107524,
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "EWq46GzeYpYNxHByCfK9g71BxjijYiX7ATMYA8zoi6as": {
@@ -10959,7 +10929,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "HAuqVpmSPB8yqiQcv5fFrdUh3p1jA7GiUfvcfGWJBFpQ": {
@@ -10974,7 +10945,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "3Bv1cb5bM4WkB3ZFardDzTkMwcYBcazXypWTmUjjPVFb": {
@@ -10989,7 +10961,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "J5UdpZPqiMCEaixeiNojxXhqE82SQM6b1Nn7qVEfYD66": {
@@ -11945,6 +11918,32 @@
     "symbol": "INURANUS",
     "flagged_ts": 1789830287,
     "liquidity_at_flag": 29121.92657687708,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "BQY9kYViAUfB5QKfvHnkXNmLabixp46byTViEo5HS9RV": {
+    "name": "Dollar Cat",
+    "symbol": "USDCAT",
+    "flagged_ts": 1789831132,
+    "liquidity_at_flag": 15626.820819946597,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 78,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "571B3yQhkurDFAMC3pGMFSg5gKWYU655fsgdetEa58a5": {
+    "name": "dogwifmask",
+    "symbol": "mask",
+    "flagged_ts": 1789831132,
+    "liquidity_at_flag": 46335.641160412284,
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 60,
