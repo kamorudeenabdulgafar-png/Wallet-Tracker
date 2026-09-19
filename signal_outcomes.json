@@ -1,70 +1,4 @@
 {
-  "6hLSm7DpSTULjE6zDWaJqcfp5T2r6z6vVaAw4sBMf2et": {
-    "name": "be delusional",
-    "symbol": "delusional",
-    "flagged_ts": 1789233488,
-    "liquidity_at_flag": 35476.598179551656,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "2qnA34wnBV1wjJw4mKavPpZdyaek132gTiC1eB6CFGVg": {
-    "name": "HODL",
-    "symbol": "HODL",
-    "flagged_ts": 1789233489,
-    "liquidity_at_flag": 30184.556714395916,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "FoPLdnfeEvCMnfZhZjn3JHzqXPAYFXkQvyHjzSwBpump": {
-    "name": "HODL",
-    "symbol": "HODL",
-    "flagged_ts": 1789233490,
-    "liquidity_at_flag": 37738.98141126879,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "AQH1c6wamDRAC6ynJf8YozV1DhsEw4LKjJ3BPTfjh3tY": {
-    "name": "Vida Global CTO",
-    "symbol": "CTO",
-    "flagged_ts": 1789233491,
-    "liquidity_at_flag": 43181.87152867473,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "BS7AFTuriy3c3robYpgL6x2SU94fKHNsKxcC28VjY2Fb": {
-    "name": "Doomed Rocket",
-    "symbol": "DOOROC",
-    "flagged_ts": 1789233491,
-    "liquidity_at_flag": 39685.01462759114,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "3o9FX3rc2VbcHugk8MjFxLn3fgHMLiFkDA3QWoUSpump": {
-    "name": "HODL",
-    "symbol": "HODL",
-    "flagged_ts": 1789233492,
-    "liquidity_at_flag": 97723.0651785754,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
   "Gigy52uH81KriV9t6yd9TFzrJopYxyHNHtDY9cg9pump": {
     "name": "Mosquito Brain",
     "symbol": "MSQTBRN",
@@ -7431,7 +7365,8 @@
     "liquidity_at_flag": 25456.45804429384,
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "6GeLFqPKerrKR6mYeDsF68TN9g5j9Ruj93rmnQVQ3h3w": {
@@ -7441,7 +7376,8 @@
     "liquidity_at_flag": 58135.09760755888,
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "Epw5BPBweoSXdMAsZYnx3Szmfv5oNvtb5tn4cULTYpMo": {
@@ -7451,7 +7387,8 @@
     "liquidity_at_flag": 54190.25116046567,
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "6i3Xj7fRaPkR6kLsokepEGGuRyYDLt4q5SXAtx74jTUS": {
@@ -10882,7 +10819,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "97JcKgXL3DZQP9vX4ZZT6h93qgemtnipV1qdPtddo9V4": {
@@ -10897,7 +10835,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "F2bsnFnXNd7QG9DovvxVU1bFF4C7iB2WtPFwrBtDcXfk": {
@@ -11586,7 +11525,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "HkSwZWCEK5hNL1h2sM61RzZbXKGG9SqQxxP3PX7QGVEi": {
     "name": "DexScreener Eagle",
@@ -11697,6 +11638,32 @@
     "symbol": "TIPPED",
     "flagged_ts": 1789838257,
     "liquidity_at_flag": 40458.54089555878,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "84aFBuaAPeVKoFghavbvqGfjK7iBxkC7sKCZVhuupump": {
+    "name": "Telepad",
+    "symbol": "TPAD",
+    "flagged_ts": 1789838847,
+    "liquidity_at_flag": 20821.692770875583,
+    "breakdown": {
+      "MOMENTUM": 89,
+      "SAFETY": 90,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "GgnYMpmL8451t7qdJTrzX57J3u5CJ8WEppsp1dKNyu9E": {
+    "name": "TIPPED",
+    "symbol": "TIPPED",
+    "flagged_ts": 1789838848,
+    "liquidity_at_flag": 36136.03809686762,
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 60,
