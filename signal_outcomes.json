@@ -7200,7 +7200,8 @@
     "liquidity_at_flag": 55483.199485448145,
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "HkXBmzLSYB7AJzZNEc9bDLZzBdVmXcQMe9xwe7prpump": {
@@ -11648,7 +11649,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "dLPrmpD42KHLMdPusNGSprCJVFbYD34D1HZMkGDxieM": {
     "name": "Leopardus Tilcayo",
@@ -11733,6 +11736,58 @@
     "symbol": "JEANPHIL",
     "flagged_ts": 1789857542,
     "liquidity_at_flag": 27577.114004847757,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "YLxij1zfySd1HNAX8V2SEP4ubKZt1qEZ6FwntCP1eQM": {
+    "name": "Jean Phil",
+    "symbol": "JEANPHIL",
+    "flagged_ts": 1789858015,
+    "liquidity_at_flag": 42283.00751571256,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "Ad881PycCzmgVmSvuvynMVQnhN929QDVykLf9iNLpump": {
+    "name": "Jean Philandog",
+    "symbol": "PHILANDOG",
+    "flagged_ts": 1789858017,
+    "liquidity_at_flag": 25074.281442654123,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 90,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "E86Qfzv3rR3XgiUEiLSbsqv3PQnLv3o82U1sc1d7zmu9": {
+    "name": "Black Box",
+    "symbol": "JEV",
+    "flagged_ts": 1789858018,
+    "liquidity_at_flag": 42442.531368620286,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "EBBwb57PjXW8qnJ14vVb1M8ij6vsFwSZfd1XLHvVysmw": {
+    "name": "superior inu",
+    "symbol": "si",
+    "flagged_ts": 1789858019,
+    "liquidity_at_flag": 31269.98578448216,
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 60,
