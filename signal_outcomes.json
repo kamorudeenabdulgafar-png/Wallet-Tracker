@@ -8432,7 +8432,8 @@
     "liquidity_at_flag": 30524.377541209084,
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "B3JfcP8BS8UTKmsY2sVmd235oDNYGVwR5W3Qy2VnCUH6": {
@@ -8442,7 +8443,8 @@
     "liquidity_at_flag": 30046.583849025654,
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "BBFkjbPwkJs5iU9Ln2WdMJsAdW15o4UfxfvcVvedWj82": {
@@ -8452,7 +8454,8 @@
     "liquidity_at_flag": 33279.38651232859,
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "BXKv7iuP8SgBbaEXZPLin41xbCQZnNMHx6HV2K6Wp2mn": {
@@ -8462,7 +8465,8 @@
     "liquidity_at_flag": 30578.24329420159,
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "67ogYWmtqGpkhiWp4dYJDV8N4iXnwhVLm9bNPettr9Cp": {
@@ -11281,7 +11285,8 @@
     "flagged_ts": 1789806998,
     "liquidity_at_flag": 35836.668337379226,
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "ANZ4Ve7ZSasXAC4wBkVasCoJpvpgK3aGxtxqchiJ5ZN": {
@@ -11290,7 +11295,8 @@
     "flagged_ts": 1789806999,
     "liquidity_at_flag": 207194.70271110913,
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "JBght52idMkdsMTDmz8PrQYYfmVqfAo7Ht7b5i3Cyd1B": {
@@ -11832,7 +11838,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "GvkmGf5YbMkdb1PGjyHtbvKSok8UePaZ326CsNFPpump": {
     "name": "Tigerreep",
@@ -11845,7 +11853,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "6xJPRNSV3seiFa99qnYwo151Ykkej1bzuALCmkD4zGU": {
     "name": "Pons",
@@ -11858,7 +11868,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "Df5qmCyPPMxCZYHkj3b6wCTiZYY6mvSoToCkpHfHkbPK": {
     "name": "Pigeon",
@@ -11871,7 +11883,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "7PwtH9sbAkKzF3DtULbY1br8ugzVHZq1ckEvWtGjpCQ5": {
     "name": "Leopardus tilcayo",
@@ -11884,7 +11898,9 @@
       "LIQUIDITY": 96,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "Geq717rct5buVJrXpsPWuxf4Lt6ZE8hc5MZUQsUj3Rdy": {
     "name": "Argus",
@@ -11897,7 +11913,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "4yr7qmY5z9W14xmxEBXXvyBFAVDrWrsDznDNzG1Em8E8": {
     "name": "\u65b9\u7cd6",
@@ -11910,7 +11928,9 @@
       "LIQUIDITY": 88,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "CVBiF9T53s1jWQxCNtuvWdz88y9QaHryKhdUAAb41Do": {
     "name": "\u65b9\u7cd6",
@@ -12062,6 +12082,58 @@
     "liquidity_at_flag": 26235.778081108983,
     "breakdown": {
       "MOMENTUM": 98,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "FejnLmMzcwwfRj1JqJ6mmUDPLgYDvYpfdTtf9FR93itP": {
+    "name": "BEFORE",
+    "symbol": "BEFORE",
+    "flagged_ts": 1789821556,
+    "liquidity_at_flag": 14826.310948406797,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 74,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "2kPo2hwxYGEboQT5xhpdP5xwRkhYtHfj5qj6MHaeXaNH": {
+    "name": "PsychoCat",
+    "symbol": "PsychoCat",
+    "flagged_ts": 1789821557,
+    "liquidity_at_flag": 35987.89498085044,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "4B9q4Qk2tG7W3knjkQsNPyourg8ipLNpZHjhoTXCpump": {
+    "name": "Sir Catelot",
+    "symbol": "\u5361\u7279\u6d1b\u7279",
+    "flagged_ts": 1789821559,
+    "liquidity_at_flag": 17683.74422617291,
+    "breakdown": {
+      "MOMENTUM": 76,
+      "SAFETY": 90,
+      "LIQUIDITY": 88,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "PretfdhNFd1G5NP3x2Hd89aY7snFbkeN4sGKJcCUkTg": {
+    "name": "BEFORE",
+    "symbol": "BEFORE",
+    "flagged_ts": 1789821560,
+    "liquidity_at_flag": 168819.97797507147,
+    "breakdown": {
+      "MOMENTUM": 100,
       "SAFETY": 60,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
