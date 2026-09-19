@@ -11256,7 +11256,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "9T9WRY6MhfkGiqVYi24Y3K7Q4mhfo5Uq4YtA27KYypMe": {
@@ -11271,7 +11272,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "FTGYDdLbrHHzvEFAUg2HcFkTFgHeUeqmSoGosRpuH7Ye": {
@@ -11286,7 +11288,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "G8egcWQFfpyD75UFJTPJFPTrA2omrUYSBv3ig9uKzZ4L": {
@@ -11795,7 +11798,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "Ad881PycCzmgVmSvuvynMVQnhN929QDVykLf9iNLpump": {
     "name": "Jean Philandog",
@@ -11808,7 +11813,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "E86Qfzv3rR3XgiUEiLSbsqv3PQnLv3o82U1sc1d7zmu9": {
     "name": "Black Box",
@@ -11821,7 +11828,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "EBBwb57PjXW8qnJ14vVb1M8ij6vsFwSZfd1XLHvVysmw": {
     "name": "superior inu",
@@ -11834,7 +11843,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "2gVT53QFfPRn9Dmj4HxYXLQ9fkbprjgjyisYT7KSs5zC": {
     "name": "Jean Phil",
@@ -12036,6 +12047,32 @@
     "symbol": "\u96ea\u5b9d",
     "flagged_ts": 1789861443,
     "liquidity_at_flag": 25549.46393011461,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "A5PEzt5SCmwYLaD4JRKa9ba5vvsWcizX34WYePMdhz1s": {
+    "name": "Jean Phil",
+    "symbol": "JEANPHIL",
+    "flagged_ts": 1789861970,
+    "liquidity_at_flag": 51042.704433676816,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "2GTkEZB7WV9qth1wsa3tKGhd8HR2sPtNt1yLDxT5sjLk": {
+    "name": "fomo pay",
+    "symbol": "fomopay",
+    "flagged_ts": 1789861970,
+    "liquidity_at_flag": 48750.88395907018,
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 60,
