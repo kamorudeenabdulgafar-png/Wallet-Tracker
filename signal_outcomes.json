@@ -1,37 +1,4 @@
 {
-  "925CZx6HQ9kJxyu7A91uR4LyHFMZ89L73iA33rgNUKQm": {
-    "name": "Unity",
-    "symbol": "UNITY",
-    "flagged_ts": 1789247242,
-    "liquidity_at_flag": 12689.404694126428,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "DbbZfhGuKEaA7zX5nFbyTCJSr8arctyCexz2fx5HCScg": {
-    "name": "Unity",
-    "symbol": "UNITY",
-    "flagged_ts": 1789247242,
-    "liquidity_at_flag": 31453.224321617075,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "CRhknUqztQEYgEkuo4mE91sCUqXudSizyhrGuQNAu1rZ": {
-    "name": "TwinTowers",
-    "symbol": "TwinTowers",
-    "flagged_ts": 1789247243,
-    "liquidity_at_flag": 21589.269929039994,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
   "7mmqdALWyew8Fv7jABcvUp2Ha6zp56bopboi6CMmLSUe": {
     "name": "retard",
     "symbol": "trader",
@@ -7057,7 +7024,8 @@
     "liquidity_at_flag": 173099.34266927151,
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "5Lf5PKtpo3wkTfqgexZJFiQfbWrwEKCbR8tMXrbyEcsn": {
@@ -7067,7 +7035,8 @@
     "liquidity_at_flag": 32275.845462949295,
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "E97TbWaXUvS2JRwL21ALwdR1pBSegYuHhqAxFxZFZofM": {
@@ -7077,7 +7046,8 @@
     "liquidity_at_flag": 29604.43656368958,
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "23MopBdQhqDuJgGYjVrf7KhmJxF9pYN3926yugx1pump": {
@@ -10702,7 +10672,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "Heik5FodUg5dXm5hmpspPzpSNKV69WQJbagisnwVpump": {
@@ -10717,7 +10688,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "G7nbMDorVdKNs9cy7WvSzPXQWLavS74XSfKm9LLzjUy4": {
@@ -10732,7 +10704,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "84aFBuaAPeVKoFghavbvqGfjK7iBxkC7sKCZVhuupump": {
@@ -11271,7 +11244,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "CoZVKSL9CFB2h53DsCWSXphY8vbi4jDB9R1enXF38y6C": {
     "name": "hoodIRL",
@@ -11284,7 +11259,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "7YV4n94JnxPQxXV6o3r9RP5aBaU6497kyd8haRX7A1vf": {
     "name": "hoodIRL",
@@ -11297,7 +11274,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "2xaUCVkmqMtPrAcDVeAtRGD8K6TjSHQSrWtipUS45yMM": {
     "name": "Private Equity",
@@ -11463,6 +11442,58 @@
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "9wbSrrtpRxCuWodqCZ1MpboyL6eX9pQNwr9kMKayeU3": {
+    "name": "Jean Phil",
+    "symbol": "JEANPHIL",
+    "flagged_ts": 1789852711,
+    "liquidity_at_flag": 146726.20151424917,
+    "breakdown": {
+      "MOMENTUM": 90,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "CkK779qJPYHh4zfUMc9GAfEaoAZpy66N62M2Vw6LgCp6": {
+    "name": "MEMEMAN",
+    "symbol": "MEMEMAN",
+    "flagged_ts": 1789852712,
+    "liquidity_at_flag": 38646.9713485165,
+    "breakdown": {
+      "MOMENTUM": 96,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "F1BQXs8RTr3pugsCddw3dGVWhfTAPhyLJpuWYpzgRZtU": {
+    "name": "Bogdanoff",
+    "symbol": "Bogdanoff",
+    "flagged_ts": 1789852713,
+    "liquidity_at_flag": 23966.313998758065,
+    "breakdown": {
+      "MOMENTUM": 62,
+      "SAFETY": 90,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "GmLqBMbe4ffg7BZjdqRh1zE5d8EzZjS7p72QjmXKpump": {
+    "name": "NIUMAJAK",
+    "symbol": "NIUMAJAK",
+    "flagged_ts": 1789852715,
+    "liquidity_at_flag": 27956.048770944646,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 90,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
