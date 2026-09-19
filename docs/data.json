@@ -1,5 +1,5 @@
 {
-  "last_updated": 1789845960,
+  "last_updated": 1789846459,
   "wallets": [
     {
       "label": "Dev wallet 1",
@@ -9,7 +9,7 @@
   "wallet_stats": {
     "5CEbueQnq1Ym2uSSx2xXds3jQAqT1BDnkA59RZobSPAG": {
       "label": "Dev wallet 1",
-      "buy_count": 205,
+      "buy_count": 206,
       "sell_count": 133,
       "total_buy_usd": 15240.407820521046,
       "total_sell_usd": 0.0,
@@ -65,7 +65,7 @@
         "poNSfquKq512ApeYjVghwViSun4x1MhCqHVH2Paq4jN",
         "suifhC9gU1VbJAPYPTBkHJyyyStKGLLYPVDTmPoqbvA"
       ],
-      "last_active": 1789839350,
+      "last_active": 1789846451,
       "positions": {},
       "realized_pnl_usd": 0.0
     }
@@ -84,13 +84,88 @@
     "count": 2835,
     "up_count": 613,
     "total_change_pct": -155586.29928175083,
-    "rug": 91,
+    "rug": 93,
     "doing_well": 2,
     "steady": 2
   },
   "learning_insight": null,
   "settings": {},
   "recent_alerts": [
+    {
+      "ts": 1789846459,
+      "type": "outcome",
+      "message": "\ud83d\udd34 GHOST (GHOST) is dropping fast \u2014 down 100%, may be rugging."
+    },
+    {
+      "ts": 1789846458,
+      "type": "outcome",
+      "message": "\ud83d\udd34 BLACK HOLE (\ud83d\udcb2INHALE) is dropping fast \u2014 down 100%, may be rugging."
+    },
+    {
+      "ts": 1789846458,
+      "type": "outcome",
+      "message": "\ud83d\udd34 GeniusBroker (BROKER) is dropping fast \u2014 down 100%, may be rugging."
+    },
+    {
+      "ts": 1789846457,
+      "type": "outcome",
+      "message": "\ud83d\udd34 Smug Frog (SMUGFROG) is dropping fast \u2014 down 100%, may be rugging."
+    },
+    {
+      "ts": 1789846456,
+      "type": "outcome",
+      "message": "\ud83d\udfe0 The Sisyphean Eagle (EAGLE) is fading \u2014 down 51% so far."
+    },
+    {
+      "ts": 1789846455,
+      "type": "outcome",
+      "message": "\ud83d\udd34 Pumpdog (PDOG) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
+    },
+    {
+      "ts": 1789846454,
+      "type": "outcome",
+      "message": "\ud83d\udd34 The One In A Million (ONE) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
+    },
+    {
+      "ts": 1789846453,
+      "type": "scanner",
+      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\nCatBrain (CATBRAIN)\nOpportunity: 76/100\n\nMOMENTUM     100\nSAFETY       60\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$20,480, 8 min since pool creation\n\u2022 Up +129% in the last hour, ~$123,751 in 24h volume (6.0x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 92% of supply (very concentrated)\n\nCA: 42sUunxS1EjaHD7VtFh91jQ1DDy2xUftnFxCsHCbav2K\nhttps://dexscreener.com/solana/42sUunxS1EjaHD7VtFh91jQ1DDy2xUftnFxCsHCbav2K\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
+    },
+    {
+      "ts": 1789846453,
+      "type": "scanner",
+      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\nCatBrain (CATBRAIN)\nOpportunity: 76/100\n\nMOMENTUM     100\nSAFETY       60\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$36,351, 6 min since pool creation\n\u2022 Up +140% in the last hour, ~$152,179 in 24h volume (4.2x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 93% of supply (very concentrated)\n\nCA: DU6maMeHPJ3rfCgjdUcMPzdt7hzD88r6hSL1162fb2Xp\nhttps://dexscreener.com/solana/DU6maMeHPJ3rfCgjdUcMPzdt7hzD88r6hSL1162fb2Xp\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
+    },
+    {
+      "ts": 1789846451,
+      "type": "wallet",
+      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: 0.0720 SOL (~$8.01) -> USDC\nTrade size: ~$8.01\nBought token: USD Coin (USDC)\nCA: EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v\nhttps://solscan.io/tx/3bgbjDaD1LYPP6P8LJ1XujiSMtqogLtxw4BHyXsver8Suh8mhxqvpVt4S5QbKd93MRivnjhd8UiELSFAbJEY83wS"
+    },
+    {
+      "ts": 1789846451,
+      "type": "wallet",
+      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: 0.2297 SOL (~$25.58) -> USDC\nTrade size: ~$25.58\nBought token: USD Coin (USDC)\nCA: EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v\nhttps://solscan.io/tx/3GRoYAfDfe6i6s9md3965DuMqANsvPh8DwuLaX5KnsGAgUaL9DCknCeBnsYGxXa25f7g6TA2qa9yLqZhb38XjTcf"
+    },
+    {
+      "ts": 1789846450,
+      "type": "wallet",
+      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: 0.1112 SOL (~$12.38) -> USDC\nTrade size: ~$12.38\nBought token: USD Coin (USDC)\nCA: EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v\nhttps://solscan.io/tx/N2mxPgjb58VPcnrh7Ku7bj5gUbWHKcXVgNqLpEVu78rRKH5pNda5MUx6xZ2hLfvSfCzGKw1FHbLQncRjKQqfrBE"
+    },
+    {
+      "ts": 1789846450,
+      "type": "wallet",
+      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: USDC -> 0.0863 SOL (~$9.62)\nTrade size: ~$9.62\nBought token: SOL (SOL)\nCA: So11111111111111111111111111111111111111112\nhttps://solscan.io/tx/4qj9cCWPfzZ6YvHChscPeaL5GHgP34j4EhPZMSxQjcyDNdSSh1BEpTF2o8ZP3mSzDWFU5EsvPA8Cq3ujdDZpU9SN"
+    },
+    {
+      "ts": 1789846449,
+      "type": "wallet",
+      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: xSOL -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/2FFpjTFXxY5XDgwkt3Qj98RW4Dnj78sn5oxkMy9wAZiUzTGkn4fyGBn2dHovpNLTW2JybEb4G7krMnkAWMeBYahw"
+    },
+    {
+      "ts": 1789846449,
+      "type": "wallet",
+      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: USDC -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/2qg3e6S93fx1rQdi1EJF1BmQPckkUDWF5xmsig3e9fSLxcbZpu9Tzk9SzqgmW5BugzzRJJhR4XRSvTUcqEM12ekp"
+    },
     {
       "ts": 1789845409,
       "type": "outcome",
@@ -265,81 +340,6 @@
       "ts": 1789844102,
       "type": "outcome",
       "message": "\ud83d\udd34 aGRIPPA (AGRIPPA) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
-    },
-    {
-      "ts": 1789844100,
-      "type": "scanner",
-      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\nstarXSA (XSA)\nOpportunity: 76/100\n\nMOMENTUM     100\nSAFETY       60\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$41,741, 11 min since pool creation\n\u2022 Up +217% in the last hour, ~$470,007 in 24h volume (11.3x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 94% of supply (very concentrated)\n\nCA: DjZmCfVkPHYCGuNveFH5JHkEJZob83LjHMi4uw1iwgiS\nhttps://dexscreener.com/solana/DjZmCfVkPHYCGuNveFH5JHkEJZob83LjHMi4uw1iwgiS\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
-    },
-    {
-      "ts": 1789843661,
-      "type": "outcome",
-      "message": "\ud83d\udfe0 Fomo Bull (FBULL) is fading \u2014 down 54% so far."
-    },
-    {
-      "ts": 1789843660,
-      "type": "outcome",
-      "message": "\ud83d\udd34 TIPPED (TIPPED) is dropping fast \u2014 down 100%, may be rugging."
-    },
-    {
-      "ts": 1789843659,
-      "type": "outcome",
-      "message": "\ud83d\udd34 $\uae40\ubd80\uc7a5 ($\uae40\ubd80\uc7a5) is dropping fast \u2014 down 100%, may be rugging."
-    },
-    {
-      "ts": 1789843658,
-      "type": "outcome",
-      "message": "\ud83d\udd34 uraniumInuranus (INURANUS) is dropping fast \u2014 down 100%, may be rugging."
-    },
-    {
-      "ts": 1789843657,
-      "type": "outcome",
-      "message": "\ud83d\udfe1 Hecker (HECKER) is holding steady so far (+24%)."
-    },
-    {
-      "ts": 1789843656,
-      "type": "outcome",
-      "message": "\ud83d\udd34 donut fade (DNUT) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
-    },
-    {
-      "ts": 1789843655,
-      "type": "scanner",
-      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\nPirate Willie (WILLIE)\nOpportunity: 76/100\n\nMOMENTUM     100\nSAFETY       60\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$25,439, 12 min since pool creation\n\u2022 Up +66% in the last hour, ~$21,246 in 24h volume (0.8x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 97% of supply (very concentrated)\n\nCA: A4A7t5QkBLmrfzbgmvwmZDfbRCBeRyEW3EWzjmrEAaRT\nhttps://dexscreener.com/solana/A4A7t5QkBLmrfzbgmvwmZDfbRCBeRyEW3EWzjmrEAaRT\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
-    },
-    {
-      "ts": 1789843046,
-      "type": "outcome",
-      "message": "\ud83d\udd34 TIPPED (TPAD) is dropping fast \u2014 down 100%, may be rugging."
-    },
-    {
-      "ts": 1789843045,
-      "type": "outcome",
-      "message": "\ud83d\udfe1 TIPPED (TIPPED) is holding steady so far (-10%)."
-    },
-    {
-      "ts": 1789843044,
-      "type": "outcome",
-      "message": "\ud83d\udfe0 Telepad (TPAD) is fading \u2014 down 49% so far."
-    },
-    {
-      "ts": 1789843044,
-      "type": "outcome",
-      "message": "\ud83d\udd34 UraniumInUrAnus (INURANUS) is dropping fast \u2014 down 100%, may be rugging."
-    },
-    {
-      "ts": 1789843043,
-      "type": "outcome",
-      "message": "\ud83d\udd34 uraniumInUrAnus (INURANUS) is dropping fast \u2014 down 100%, may be rugging."
-    },
-    {
-      "ts": 1789843042,
-      "type": "outcome",
-      "message": "\ud83d\udd34 wildebeest (wildebeest) is dropping fast \u2014 down 100%, may be rugging."
-    },
-    {
-      "ts": 1789843041,
-      "type": "outcome",
-      "message": "\ud83d\udd34 UraniumInUrAnus (INURANUS) is dropping fast \u2014 down 100%, may be rugging."
     }
   ]
 }
