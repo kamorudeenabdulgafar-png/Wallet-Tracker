@@ -1,37 +1,4 @@
 {
-  "6AwgtL3erTpR6pF61hX93JncWM2oetdGiqijEvYcsfxm": {
-    "name": "Maple",
-    "symbol": "Maple",
-    "flagged_ts": 1789206796,
-    "liquidity_at_flag": 18543.17905441225,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "EYKoQw3YQsBycGUNd4ds41xPceQoWzREN3hSb3er3AZp": {
-    "name": "Anonymous Cat",
-    "symbol": "ZCAT",
-    "flagged_ts": 1789206797,
-    "liquidity_at_flag": 22919.014667305422,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "6NpxiXYebGLseefFmYd6CAhkot5ktnQLpDDN4bNfTCoS": {
-    "name": "Kamzio Pay",
-    "symbol": "KAMZIO",
-    "flagged_ts": 1789206798,
-    "liquidity_at_flag": 30706.421671068336,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
   "5JN6b5DKcYhheF9Bq2u7Q2bzQbnxp9rLPD5153brCjpT": {
     "name": "\u5bcc\u58eb",
     "symbol": "FUJI",
@@ -11845,7 +11812,8 @@
     "flagged_ts": 1789797329,
     "liquidity_at_flag": 30262.45541329963,
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "49nbgQYFCvELJnUbn7YPKJ3vyjGRorbN9k2D3KCDewFS": {
@@ -12240,14 +12208,18 @@
     "symbol": "67",
     "flagged_ts": 1789808092,
     "liquidity_at_flag": 39774.09702011387,
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "B2YWixkhX6TKxvpCYCUwnLnQkYSiUJb2bw2xpAWZPtB8": {
     "name": "PSA10 Coin",
     "symbol": "PSA10",
     "flagged_ts": 1789808093,
     "liquidity_at_flag": 30289.33438453531,
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "FKNmyCePoLVwZxfvefNv1uSPfJjrqZKUfQhnTNnRdWFi": {
     "name": "Uranus",
@@ -12401,6 +12373,27 @@
     "symbol": "ASKR",
     "flagged_ts": 1789811058,
     "liquidity_at_flag": 34637.62697720061,
+    "checkpoints_done": []
+  },
+  "7GB23oQUkEAZEfDs9BsKUDTv31LGUhaRepgzuPuM7Cs3": {
+    "name": "Uranus",
+    "symbol": "URANUS",
+    "flagged_ts": 1789812306,
+    "liquidity_at_flag": 24253.626767427166,
+    "checkpoints_done": []
+  },
+  "8ytejujcWucVVJVTuN8c8uwSHA1crhvoWeTzMweppump": {
+    "name": "No Risk. No Story.",
+    "symbol": "STORY",
+    "flagged_ts": 1789812307,
+    "liquidity_at_flag": 12042.38289282932,
+    "checkpoints_done": []
+  },
+  "5RT6iC23mSBDP4riCnnwzR6K5Uxc28dfwQJQepUqk2Vp": {
+    "name": "Achi",
+    "symbol": "ACHI",
+    "flagged_ts": 1789812310,
+    "liquidity_at_flag": 68089.66954891445,
     "checkpoints_done": []
   }
 }
