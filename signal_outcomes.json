@@ -1,59 +1,4 @@
 {
-  "3n1zhJge26oqE6GbdvzXtDvZrH2EuLKPpRRAxhNzJgSq": {
-    "name": "SalaryCat",
-    "symbol": "salaryCat",
-    "flagged_ts": 1789234657,
-    "liquidity_at_flag": 22755.97893647624,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "BffiuGG1sH92ZJrdL6CPTSPJMf8czuQePVrVkmEbcp3q": {
-    "name": "HODL",
-    "symbol": "HODL",
-    "flagged_ts": 1789234662,
-    "liquidity_at_flag": 33574.05262842254,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "6UsCKwVQrwTVgLMnjY4ck5uoZyVYfvZqykT17Pxo9u5p": {
-    "name": "HODL",
-    "symbol": "HODL",
-    "flagged_ts": 1789234664,
-    "liquidity_at_flag": 97574.78301078307,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "CShCbaiqkjCfGteKuXkgKBj1ZDYsiKD6PeDPK6itpFHT": {
-    "name": "Baton",
-    "symbol": "BATON",
-    "flagged_ts": 1789234665,
-    "liquidity_at_flag": 24435.541334089125,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "32ZzPsUEfqc6igqSRxaj8nM6c8gBCmhy9Rux6jvipump": {
-    "name": "Airdrop",
-    "symbol": "Airdrop",
-    "flagged_ts": 1789234666,
-    "liquidity_at_flag": 37779.56901565746,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
   "E7mRvAbgZdA6dF7cgXZevkbjd9Yfy5q11XEFnWZfpump": {
     "name": "Mysterious Source of Income",
     "symbol": "INCOME",
@@ -7332,7 +7277,8 @@
     "liquidity_at_flag": 60285.845982703264,
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "BoRYHAvjc4UszHa5tp7Hxg1RRGSZqLrvV4r5gFquuPAj": {
@@ -7342,7 +7288,8 @@
     "liquidity_at_flag": 27171.270523535313,
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "A9Md99bzpuz18M75magp1hae43phe1zSMJLVSZHpurTU": {
@@ -7352,7 +7299,8 @@
     "liquidity_at_flag": 17486.422120415482,
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "9mj5xkBtXCXUxXd8nzZuMgHtmSUjqUMbHBLdoMrAKx1p": {
@@ -7362,7 +7310,8 @@
     "liquidity_at_flag": 30573.219232381118,
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "2C2wv2QGoMq5FKWpqHzpRA29af9qFBh3CCUbVdpU6arK": {
@@ -7372,7 +7321,8 @@
     "liquidity_at_flag": 37595.63812659591,
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "4a2N7K6VNg3M4ToVLboRbu4eQLHRAcSwwRCr1dXrogyv": {
@@ -11606,6 +11556,32 @@
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "Bte2dbD9gh2HPCjxD6vcTkZ8sM3ysgxqffMd9Z94h6mo": {
+    "name": "TIPPED",
+    "symbol": "TIPPED",
+    "flagged_ts": 1789839816,
+    "liquidity_at_flag": 53778.42153700846,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "77p5u2agnHHS2vZwnLC71y1gugLEdjzBgeLz2oLeVfjE": {
+    "name": "Fomo Bull",
+    "symbol": "FBULL",
+    "flagged_ts": 1789839818,
+    "liquidity_at_flag": 20451.052430462405,
+    "breakdown": {
+      "MOMENTUM": 55,
+      "SAFETY": 90,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
