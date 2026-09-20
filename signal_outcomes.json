@@ -9566,7 +9566,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "4yr7qmY5z9W14xmxEBXXvyBFAVDrWrsDznDNzG1Em8E8": {
@@ -9582,7 +9583,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "CVBiF9T53s1jWQxCNtuvWdz88y9QaHryKhdUAAb41Do": {
@@ -14725,7 +14727,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "Bo5NwETDHna8zKMHuLNWK5nrTJPdGMtKfzVMstqr2ck9": {
     "name": "par",
@@ -14738,7 +14742,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "sdyKwWzC8EnriZWBBwm8YX25nKGmtQdZAHBEGLUpump": {
     "name": "I Nuke U",
@@ -14751,7 +14757,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "3kiqdfHrdqZygtVvCqExcPSqzt9WgxdkFfhe1z6zDHSZ": {
     "name": "JEV",
@@ -15046,6 +15054,71 @@
     "liquidity_at_flag": 31895.301459410453,
     "breakdown": {
       "MOMENTUM": 82,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "5QBrcGPekJK5V2KHaj3Ku2FUWHxoW6ViKxhfsHrMpump": {
+    "name": "Feed Me Fomo",
+    "symbol": "FEEDME",
+    "flagged_ts": 1789904383,
+    "liquidity_at_flag": 25740.975461677022,
+    "breakdown": {
+      "MOMENTUM": 64,
+      "SAFETY": 100,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "92XTgBssWXw1Z4c9rXvBg3CTLzLiDuXoP96KScP5woHk": {
+    "name": "MSA",
+    "symbol": "MSA",
+    "flagged_ts": 1789904384,
+    "liquidity_at_flag": 53600.40469893934,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 75,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "2w4YnR6cdmdYxofyB5ThkZmZ3UU4ywVTjzD9YaqApump": {
+    "name": "Yojji",
+    "symbol": "Yojji",
+    "flagged_ts": 1789904385,
+    "liquidity_at_flag": 27127.577102578172,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 100,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "4tnDs5oxTppRvNvFYy6wHmpFjshrTkg9LYQo4bRsi5TK": {
+    "name": "Nuclear War Is Bad For Kittens",
+    "symbol": "Kittens",
+    "flagged_ts": 1789904386,
+    "liquidity_at_flag": 33089.79044521812,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "8bv13TPVZyYdMCEcRieqAEyEzWT4TQRxRANqGkrCdGDi": {
+    "name": "BUNNY",
+    "symbol": "\ud83d\udcb2BUNNY",
+    "flagged_ts": 1789904386,
+    "liquidity_at_flag": 49553.61546615351,
+    "breakdown": {
+      "MOMENTUM": 100,
       "SAFETY": 60,
       "LIQUIDITY": 100,
       "SMART MONEY": 0

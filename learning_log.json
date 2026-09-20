@@ -1,21 +1,5 @@
 [
   {
-    "name": "Pimp Paid",
-    "symbol": "PPAID",
-    "category": "rug",
-    "change_pct": -84.3,
-    "breakdown": null,
-    "ts": 1789817944
-  },
-  {
-    "name": "\u59b9\u59b9",
-    "symbol": "MeiMei",
-    "category": "rug",
-    "change_pct": -100.0,
-    "breakdown": null,
-    "ts": 1789817945
-  },
-  {
     "name": "Hyper Cat",
     "symbol": "HCAT",
     "category": "rug",
@@ -2458,5 +2442,31 @@
       "SMART MONEY": 0
     },
     "ts": 1789903786
+  },
+  {
+    "name": "Argus",
+    "symbol": "ARGUS",
+    "category": "rug",
+    "change_pct": -100.0,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "ts": 1789904387
+  },
+  {
+    "name": "\u65b9\u7cd6",
+    "symbol": "\u65b9\u7cd6",
+    "category": "rug",
+    "change_pct": -100.0,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 75,
+      "LIQUIDITY": 88,
+      "SMART MONEY": 0
+    },
+    "ts": 1789904388
   }
 ]
