@@ -7530,7 +7530,8 @@
     "liquidity_at_flag": 29275.574127766253,
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "A284tzftYS5u8B3yA7ujdKGzD5rtqWSw6GnTr8t4pump": {
@@ -7540,7 +7541,8 @@
     "liquidity_at_flag": 30913.80095089433,
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "3A7BWccdm9rMBNeeXb8pr6JUCSuv7ebYBAw8mo5TE4wY": {
@@ -7550,7 +7552,8 @@
     "liquidity_at_flag": 35757.64682501455,
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "BGHKmmirMSXARHmszxD9JwNjKDjKhMvadPeg39XbGyJb": {
@@ -7560,7 +7563,8 @@
     "liquidity_at_flag": 26878.89439221891,
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "YqJcCHehW1C8ctzE3QEzeBcdKo3tpZxp6iLpHwcpump": {
@@ -11707,7 +11711,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "72XdMUWt99q84ReP3Xg9VEaVvpVBr2d4o4VUdMv7e1Lq": {
@@ -12338,6 +12343,45 @@
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "8wyKyyT5Fkyu865YPe2geifEYFFk3STt9huDxpifCoRZ": {
+    "name": "Superior Inu",
+    "symbol": "SI",
+    "flagged_ts": 1789868706,
+    "liquidity_at_flag": 31309.299413646026,
+    "breakdown": {
+      "MOMENTUM": 65,
+      "SAFETY": 100,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "5vzxkBd2B11r4VFBbA7Uf43Z36gZdGLznvSrNoFYvuHH": {
+    "name": "Jean Phil",
+    "symbol": "JEANPHIL",
+    "flagged_ts": 1789868708,
+    "liquidity_at_flag": 100306.14209601282,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "DSnmKSMDHQjbakDeBnvRhEX5g93aRERRVFY4LoTcSSvk": {
+    "name": "Bitcoin Badger",
+    "symbol": "BADGER",
+    "flagged_ts": 1789868709,
+    "liquidity_at_flag": 55359.605217475415,
+    "breakdown": {
+      "MOMENTUM": 68,
+      "SAFETY": 100,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
