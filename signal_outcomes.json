@@ -12774,7 +12774,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "F1MGBFJtWUQkobURdsfbfuyekR3NbFxkMQk6KCzw47pS": {
@@ -12789,7 +12790,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "BKda3ap94znK2UEGRQg37myyAJu1vZM6LuS1eLbFuD11": {
@@ -13553,7 +13555,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "CMiFkrz67QUhzGa5hLQmW3GxxYngxxkN111GgkZoEQHN": {
     "name": "Queefcoin",
@@ -13566,7 +13570,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "57i2LzRzHyfshxmukiLAePTcohZ6keuAyUYznX573C28": {
     "name": "Argus",
@@ -13579,7 +13585,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "vqPYqBj8DAJFLchVZRaDQqUPGke1J641Hzty5JxxVvn": {
     "name": "fatcat",
@@ -13592,7 +13600,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "3z6kdSgJu5DetCQfVnuHsEhXndCj8uUY5TbRMdufeupd": {
     "name": "Uranus",
@@ -13770,6 +13780,58 @@
     "liquidity_at_flag": 77065.65064385481,
     "breakdown": {
       "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "G9ZqxPdqo9kxjhrMaKfVgZRNFeXM7QZRqfz5h8jU85Jf": {
+    "name": "Claude Ai",
+    "symbol": "claude",
+    "flagged_ts": 1789887136,
+    "liquidity_at_flag": 37812.76622315521,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "6vTmgeeQ6tyBrjDG8tYnHF9Lv5GULAPoJVjupLTA43Zw": {
+    "name": "The Odyssean Moose",
+    "symbol": "Moose",
+    "flagged_ts": 1789887137,
+    "liquidity_at_flag": 39308.117265173554,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 75,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "Ad8DPaZnQrAVtjGetVKxLh5KE3zP6BbNNzTixouqQ7uV": {
+    "name": "heyaskr",
+    "symbol": "ASKR",
+    "flagged_ts": 1789887138,
+    "liquidity_at_flag": 35607.279898808236,
+    "breakdown": {
+      "MOMENTUM": 93,
+      "SAFETY": 100,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "5QbWeGnEmnN88sdB6JG5yEFXJWV3ueA2drfKFa1JN5Xc": {
+    "name": "Binance Square Paid",
+    "symbol": "PAID",
+    "flagged_ts": 1789887139,
+    "liquidity_at_flag": 37213.17092786771,
+    "breakdown": {
+      "MOMENTUM": 86,
       "SAFETY": 60,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
