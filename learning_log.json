@@ -1,21 +1,5 @@
 [
   {
-    "name": "donut fade",
-    "symbol": "DNUT",
-    "category": "rug",
-    "change_pct": -100.0,
-    "breakdown": null,
-    "ts": 1789843656
-  },
-  {
-    "name": "aGRIPPA",
-    "symbol": "AGRIPPA",
-    "category": "rug",
-    "change_pct": -100.0,
-    "breakdown": null,
-    "ts": 1789844102
-  },
-  {
     "name": "heyaskr",
     "symbol": "ASKR",
     "category": "rug",
@@ -2848,5 +2832,31 @@
       "SMART MONEY": 0
     },
     "ts": 1789924700
+  },
+  {
+    "name": "Telepad",
+    "symbol": "TPAD",
+    "category": "rug",
+    "change_pct": -84.2,
+    "breakdown": {
+      "MOMENTUM": 89,
+      "SAFETY": 90,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "ts": 1789925336
+  },
+  {
+    "name": "TIPPED",
+    "symbol": "TIPPED",
+    "category": "rug",
+    "change_pct": -100.0,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "ts": 1789925336
   }
 ]

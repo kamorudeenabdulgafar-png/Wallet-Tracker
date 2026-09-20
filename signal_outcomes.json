@@ -11028,7 +11028,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "GgnYMpmL8451t7qdJTrzX57J3u5CJ8WEppsp1dKNyu9E": {
@@ -11044,7 +11045,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "4xZbgbsbNFm1aBGDkB2gpbZUwkiYoG5cYHVkRpVK5D2N": {
@@ -15699,7 +15701,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "3FZKytE87Psjb2jt8wzN53YjyiNLwUPruff2gxt1pump": {
@@ -15714,7 +15717,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "9eukKGenv7ZDWWA4Zg2UV37Vj3TSM7Xa9SztdYowgLcu": {
@@ -15729,7 +15733,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "G7sb3DmxX4NZAzD8vLuR4x1UGUMrVxrYeuGgukUsVew6": {
@@ -15744,7 +15749,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "DJfuLPG9RoyKv3LdS2CAX3zYXe9pL1ifkMPyNm2s4SJs": {
@@ -15759,7 +15765,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "54R1YkfCprRmypPFtayh1zXMi6RYZA7ZLZaMU6drfsLB": {
@@ -16328,7 +16335,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "BFjydHGrYf3gzb6t72ETC3kXrSsYrzVoq9PBMuhQJZtT": {
     "name": "krakenfx",
@@ -16341,7 +16350,9 @@
       "LIQUIDITY": 72,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "CDAC33JvozJ1UjxBMkvZgJcVXoxdH9iGxeBXUJdXpump": {
     "name": "Jean Wojak",
@@ -16354,7 +16365,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "DSUv2xVYstEtfhesgTqdM5dY4PysupRrqzK8adUpcVZP": {
     "name": "Sam Bankman-Fried",
@@ -16569,6 +16582,45 @@
     "symbol": "BITTIPS",
     "flagged_ts": 1789924696,
     "liquidity_at_flag": 42427.76494316475,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "3uxzNhXquXNh8Y2avyxS5CnJVrSrQSGF4Bqd8F5Nfz7X": {
+    "name": "whimsical",
+    "symbol": "WHIMSICAL",
+    "flagged_ts": 1789925333,
+    "liquidity_at_flag": 31786.824985015977,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 90,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "G52eSkiN2NXzEmgcsTCoU3DAiopzzp29Jpf2WjwuCQvH": {
+    "name": "Jeanpill",
+    "symbol": "jeanpill",
+    "flagged_ts": 1789925334,
+    "liquidity_at_flag": 24861.987775368063,
+    "breakdown": {
+      "MOMENTUM": 87,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "8K8Rfymx4Bgrw5F64RMotQwcS5eHDRKuAcsxRLuCGoZ8": {
+    "name": "WangChai",
+    "symbol": "\u65fa\u67f4",
+    "flagged_ts": 1789925335,
+    "liquidity_at_flag": 191245.39820114127,
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 60,
