@@ -10739,7 +10739,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "8P9CPLJZvvPeWyiggntDcQhQpRgfAPKSEwy6DTA55wx4": {
@@ -10755,7 +10756,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "AhpDJymxyBNrojjze57JhKkpSNw9K4kyMrEumBn82bHn": {
@@ -10771,7 +10773,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "Cd1TSbkYbuVEp6eHbc69sw8wdtQCxoU2agGX2tg5TqDn": {
@@ -15250,7 +15253,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "92XTgBssWXw1Z4c9rXvBg3CTLzLiDuXoP96KScP5woHk": {
@@ -15265,7 +15269,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "2w4YnR6cdmdYxofyB5ThkZmZ3UU4ywVTjzD9YaqApump": {
@@ -15280,7 +15285,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "4tnDs5oxTppRvNvFYy6wHmpFjshrTkg9LYQo4bRsi5TK": {
@@ -15295,7 +15301,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "8bv13TPVZyYdMCEcRieqAEyEzWT4TQRxRANqGkrCdGDi": {
@@ -15310,7 +15317,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "38JyPmEopmd2ci84hNRp4RAQzeGA7E9pvHJv3miVahDv": {
@@ -16110,6 +16118,45 @@
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "FJzNXhzJTdS8wn2AMRb7bDg9Lr1bV2gunn9ZnoALk2Sw": {
+    "name": "Spurdo",
+    "symbol": "SPURDO",
+    "flagged_ts": 1789919055,
+    "liquidity_at_flag": 17256.294192022746,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 86,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "2RUgjSJeVckYfUYhYYRWbrUuLdyRJYzDPTctUaGit9mY": {
+    "name": "Spurdo",
+    "symbol": "SPURDO",
+    "flagged_ts": 1789919056,
+    "liquidity_at_flag": 29206.375865435184,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "BPcRPRaJ6yTnUCxY8uUtBqnzwzoJYKBbQVZTWvSLpump": {
+    "name": "StonkCat",
+    "symbol": "STONKCAT",
+    "flagged_ts": 1789919057,
+    "liquidity_at_flag": 44432.24531013203,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 100,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
