@@ -10518,7 +10518,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "Eiv35jEAeMVfAThvnf9buuEzgrwyvHntwoNKz7YpohXS": {
@@ -10534,7 +10535,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "FgRjrh8ZRCwQSdv2fBQRNvuiYZ1B5G8S37Xw6Jtapump": {
@@ -10550,7 +10552,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "7Wg5TnqnG9VSQGy5Ymhkn8CVZMbxdYwTpBd5dGRgZvQT": {
@@ -10566,7 +10569,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "EynwJw7uD5Hvaev9Qnf56UwRpdfvV4PUqCQEfmMje7AQ": {
@@ -10582,7 +10586,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "4jmJqk879Zt5Cnx8y7MD2ZkjY2VXcNJr21YhkwjNMQD5": {
@@ -10598,7 +10603,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "BQY9kYViAUfB5QKfvHnkXNmLabixp46byTViEo5HS9RV": {
@@ -15013,7 +15019,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "4caRGfrqaZupu9o1bKSDsEEN6bdxj9CphWa7mQGdZXXX": {
@@ -15028,7 +15035,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "DajNktfWQuQknaVER7ub23ZvLyQTFH3uzbPnX1tmjUs7": {
@@ -15043,7 +15051,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "EJ49wSkF2U7p6cix1UMTH2dLR13DtwTriLpQgxAjpump": {
@@ -15747,7 +15756,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "8injPtE6Jgkgk3xoMmVV6ZUMmJCmAF4CcqgDp57zTdWX": {
     "name": "CROW",
@@ -15760,7 +15771,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "8iYzutymU4qFn4Nm1M1Yb4NnsscqLmqNw2Z1hFh3EbUa": {
     "name": "wager.fun",
@@ -15886,6 +15899,19 @@
     "liquidity_at_flag": 28999.769292756064,
     "breakdown": {
       "MOMENTUM": 86,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "FFczgQUsGQYoPgKDXiJzExVZ3wvxjP8bZg5CFJo4SPF3": {
+    "name": "Truman World",
+    "symbol": "TRUMAN",
+    "flagged_ts": 1789916707,
+    "liquidity_at_flag": 35640.625364462714,
+    "breakdown": {
+      "MOMENTUM": 100,
       "SAFETY": 60,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
