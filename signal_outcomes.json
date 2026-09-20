@@ -9430,7 +9430,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "HAuqVpmSPB8yqiQcv5fFrdUh3p1jA7GiUfvcfGWJBFpQ": {
@@ -9446,7 +9447,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "3Bv1cb5bM4WkB3ZFardDzTkMwcYBcazXypWTmUjjPVFb": {
@@ -9462,7 +9464,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "J5UdpZPqiMCEaixeiNojxXhqE82SQM6b1Nn7qVEfYD66": {
@@ -14053,7 +14056,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "BxdUPhWjv7oaMUwTr2TGMdDm2dgVfopUKEQyi9uJNVhA": {
@@ -14068,7 +14072,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "BAUGoY58BGfyVvwTPDtD8xpbRnjr572ru2pPkbeCpump": {
@@ -14083,7 +14088,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "3kJXiTyjHHfdwirFRMLRRKY1THUrbxzUn6f5DhKQpump": {
@@ -14098,7 +14104,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "DNadh4nAv8de5iUemipwkVGFADAqDNzaeYNPXDA6brb3": {
@@ -14577,7 +14584,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "BgUvFVNRyKXtXFPWvM8KN45X1CM6uqsKwX618maoucWw": {
     "name": "CALI",
@@ -14590,7 +14599,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "EpUddGzYyLLsCyFspvGJQB5GZLdusKbcj6J3aoNpGGvL": {
     "name": "Hotel Lobby",
@@ -14872,6 +14883,110 @@
     "liquidity_at_flag": 138656.5451431325,
     "breakdown": {
       "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "EJ49wSkF2U7p6cix1UMTH2dLR13DtwTriLpQgxAjpump": {
+    "name": "Robin the Jean Phil",
+    "symbol": "ROBINPHIL",
+    "flagged_ts": 1789903112,
+    "liquidity_at_flag": 12346.913569507378,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 90,
+      "LIQUIDITY": 62,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "9oRtF54zqBH5kivjQpFLYhWBQ4YHxe723qUeJyKTvnyK": {
+    "name": "deFLOCK",
+    "symbol": "deFLOCK",
+    "flagged_ts": 1789903113,
+    "liquidity_at_flag": 31184.806308674117,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "HAjsKngvHE8UbkbK1KKujZozowUXuxE5eEwiT4GfatjG": {
+    "name": "Bird Flu",
+    "symbol": "H9N2",
+    "flagged_ts": 1789903114,
+    "liquidity_at_flag": 30809.50324616624,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "7mDeda2dM9vYQZ3zBurA4Z49J2TAAwfr9bM4AAbrEBhV": {
+    "name": "Agent Robinhood",
+    "symbol": "4663",
+    "flagged_ts": 1789903115,
+    "liquidity_at_flag": 29412.40745893706,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "GbzouSvySiuRNASjnZ2Np2yYnWoB4UCmdoXw7A4pGcb3": {
+    "name": "Bird Flu",
+    "symbol": "H9N2",
+    "flagged_ts": 1789903115,
+    "liquidity_at_flag": 35104.65537734103,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 75,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "F1DnzabHbX8ZuUcUadEiEhweynyUfEUv17kTuBhqhMZo": {
+    "name": "Binance Square Paid",
+    "symbol": "PAID",
+    "flagged_ts": 1789903116,
+    "liquidity_at_flag": 39099.52968498282,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "o94ooCuhiEkcSLN4KNruznEhrbBzuUfz4ZKJskyL7A2": {
+    "name": "Bird Flu",
+    "symbol": "H9N2",
+    "flagged_ts": 1789903116,
+    "liquidity_at_flag": 50047.58463675397,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 90,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "B38qC3jqJ6M1uS89ZjcX1ANiQGrAxdAe9mtuYsh8zpAn": {
+    "name": "Truman World",
+    "symbol": "TRUMAN",
+    "flagged_ts": 1789903117,
+    "liquidity_at_flag": 124072.45936018365,
+    "breakdown": {
+      "MOMENTUM": 94,
       "SAFETY": 60,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
