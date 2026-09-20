@@ -12405,7 +12405,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "776KjhF1b5jcewYN46gmk7HbsfqghUWUNPwxhdTcsump": {
@@ -12421,7 +12422,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "2R2r5yWodQZRHhqw6sLSesmNozsqtKBaH16qc3bBnjpZ": {
@@ -12437,7 +12439,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "CWigYrZ47rFD8hucu8qG3YmWffVAegZTaKw12ZveXump": {
@@ -17220,7 +17223,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "2j6sksYWyXi68sesbhBHd1MuPtCiNCgcmKdU98Gv83dU": {
@@ -17235,7 +17239,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "EdchRLKdCzYBHw8L5bPyz349CbaPm1XqrThyiA5FEASa": {
@@ -17250,7 +17255,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "Hjsg8hwNBDCwS5gn3KAyoBEvzbSumsQH1mzo7MFFyYQA": {
@@ -17265,7 +17271,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "GH8d1NUnv2YRb6xUxn1LRm8B5p2uTqQFeyV1VWs8pump": {
@@ -17789,7 +17796,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "D3hCN3TqZfew8MZtorLSa1VcnghxEchvyrXWrG6Q8yac": {
     "name": "mediapad",
@@ -17802,7 +17811,9 @@
       "LIQUIDITY": 82,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "9NgjVEkXfaBiPKZzFDW5JvdMCpD2BnKGKtW2tfam7eFM": {
     "name": "JUBJUB",
@@ -17926,6 +17937,32 @@
     "symbol": "DUMBCOIN",
     "flagged_ts": 1789946296,
     "liquidity_at_flag": 45606.59001005755,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "eqNcWScchYa8SKsKS6cg3VyKh3Q3j5K1vKiDj26pump": {
+    "name": "Jean Phil Solana",
+    "symbol": "JEANPHISOL",
+    "flagged_ts": 1789946914,
+    "liquidity_at_flag": 33555.721247600435,
+    "breakdown": {
+      "MOMENTUM": 57,
+      "SAFETY": 100,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "HW7ZvtnpddxRoyZ5Tfxq4Ph6tB6EmvNhQcFsmGb2nacC": {
+    "name": "ZEBRA",
+    "symbol": "ZEBRA",
+    "flagged_ts": 1789946915,
+    "liquidity_at_flag": 33809.24708254302,
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 60,

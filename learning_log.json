@@ -1,29 +1,5 @@
 [
   {
-    "name": "Rain Fun",
-    "symbol": "RAIN",
-    "category": "rug",
-    "change_pct": -100.0,
-    "breakdown": null,
-    "ts": 1789866468
-  },
-  {
-    "name": "nub",
-    "symbol": "nub",
-    "category": "rug",
-    "change_pct": -100.0,
-    "breakdown": null,
-    "ts": 1789866468
-  },
-  {
-    "name": "Prism Cat",
-    "symbol": "PRISMCAT",
-    "category": "rug",
-    "change_pct": -100.0,
-    "breakdown": null,
-    "ts": 1789867190
-  },
-  {
     "name": "\u304a\u3093\u304c\u304f",
     "symbol": "\u304a\u3093\u304c\u304f",
     "category": "rug",
@@ -3213,5 +3189,44 @@
       "SMART MONEY": 0
     },
     "ts": 1789946299
+  },
+  {
+    "name": "PayBox",
+    "symbol": "PayBox",
+    "category": "rug",
+    "change_pct": -90.0,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 100,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "ts": 1789946918
+  },
+  {
+    "name": "Jean Phil",
+    "symbol": "JEANPHIL",
+    "category": "rug",
+    "change_pct": -100.0,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "ts": 1789946920
+  },
+  {
+    "name": "TryStack",
+    "symbol": "STACK",
+    "category": "rug",
+    "change_pct": -100.0,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "ts": 1789946921
   }
 ]
