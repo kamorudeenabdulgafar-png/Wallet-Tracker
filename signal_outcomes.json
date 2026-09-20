@@ -10025,7 +10025,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "F96kboFdkJhciiDt5c2YZeQctkcUCiohjn3Luxa37YV8": {
@@ -10041,7 +10042,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "Dz7RViwRUmdCA2qg17FJu17cHiUVm8XsxRxthbP6Pkhr": {
@@ -14376,7 +14378,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "4hMTbUpvFpDsv5KdmEnjfXydN814ZcosoitxPE1apump": {
@@ -14391,7 +14394,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "5i3Yz6WJa8accv8xoyBtkD5bBtntsw8VKNjcqYk5pump": {
@@ -14406,7 +14410,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "9UnvZjJnRas7kBZy136cbh6k9fLAFHsFYimf4fruBX2s": {
@@ -14421,7 +14426,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "D6TNmy2H7HnRtf1Uzbqfvben7pP8uaCob2cq7mRFZw5v": {
@@ -14436,7 +14442,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "8TaZj4fVAoNmSgyCjx6SuZMergcd1au51NJjdkB3pump": {
@@ -14451,7 +14458,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "GqRwWRZqo3bQQueyWNyDfdmnc7MfCBiTBhfMF6PGDRVe": {
@@ -15290,7 +15298,9 @@
       "LIQUIDITY": 88,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "Gek12rqFxcwVidkWoEJA4EhDPpDcxGZvLAeSKozJEtuk": {
     "name": "Noorung-i",
@@ -15303,7 +15313,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "CZmnCnoFseyb32vpHyZjJjBHCLkyE9H7ENfDYLCVkXGE": {
     "name": "Da huang",
@@ -15316,7 +15328,9 @@
       "LIQUIDITY": 87,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "J5TcPzSyJyiSaHmUP4JVc12gzqXEtDxzba9yNGAxxrv8": {
     "name": "Claude Ai",
@@ -15508,6 +15522,71 @@
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "AAtWqcEU3nDosZBivZMZVRrTrikKWwGbewPPPaoyfr2n": {
+    "name": "Argus",
+    "symbol": "ARGUS",
+    "flagged_ts": 1789910352,
+    "liquidity_at_flag": 36945.45764033598,
+    "breakdown": {
+      "MOMENTUM": 95,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "3FZKytE87Psjb2jt8wzN53YjyiNLwUPruff2gxt1pump": {
+    "name": "Beluga",
+    "symbol": "BELUGA",
+    "flagged_ts": 1789910353,
+    "liquidity_at_flag": 23410.970670813644,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 100,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "9eukKGenv7ZDWWA4Zg2UV37Vj3TSM7Xa9SztdYowgLcu": {
+    "name": "BUNNY",
+    "symbol": "\ud83d\udcb2BUNNY",
+    "flagged_ts": 1789910354,
+    "liquidity_at_flag": 48668.667322884794,
+    "breakdown": {
+      "MOMENTUM": 90,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "G7sb3DmxX4NZAzD8vLuR4x1UGUMrVxrYeuGgukUsVew6": {
+    "name": "\ud83d\udcb2\u8001\u516d",
+    "symbol": "\ud83d\udcb2\u8001\u516d",
+    "flagged_ts": 1789910355,
+    "liquidity_at_flag": 35057.7967958745,
+    "breakdown": {
+      "MOMENTUM": 83,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "DJfuLPG9RoyKv3LdS2CAX3zYXe9pL1ifkMPyNm2s4SJs": {
+    "name": "Stealth Cat",
+    "symbol": "MCAT",
+    "flagged_ts": 1789910355,
+    "liquidity_at_flag": 49123.95524028646,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 75,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
