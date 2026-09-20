@@ -11266,7 +11266,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "6SJ1Yfc6PNUsRPZXU4xsQLFPBonQB98NsnCk5ZFPjCpW": {
@@ -11282,7 +11283,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "A4A7t5QkBLmrfzbgmvwmZDfbRCBeRyEW3EWzjmrEAaRT": {
@@ -15937,7 +15939,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "28s629AYevCB8T1GyaaHqGj28pX1PT9C5mmFf5nDNHn4": {
@@ -16656,7 +16659,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "G52eSkiN2NXzEmgcsTCoU3DAiopzzp29Jpf2WjwuCQvH": {
     "name": "Jeanpill",
@@ -16669,7 +16674,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "8K8Rfymx4Bgrw5F64RMotQwcS5eHDRKuAcsxRLuCGoZ8": {
     "name": "WangChai",
@@ -16682,7 +16689,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "DtPapqFy7EsemZNx3NGF4WRgQjG9a54e2QTZuYpqf3gB": {
     "name": "whimsical",
@@ -16858,6 +16867,84 @@
     "symbol": "AGI",
     "flagged_ts": 1789928519,
     "liquidity_at_flag": 32882.47740559157,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "Ah7RLwwSd6Ee22gtt2eKemMo8u8RVuriasxLzwwk7USb": {
+    "name": "GrapheneOS",
+    "symbol": "GrapheneOS",
+    "flagged_ts": 1789929476,
+    "liquidity_at_flag": 28720.53790659304,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "C4LVDXiAV9yqzjzDCbeKXzaJJ4Y3QcQP3p23jYyDyVCM": {
+    "name": "Zebra Rooster Chicken",
+    "symbol": "ZRC",
+    "flagged_ts": 1789929477,
+    "liquidity_at_flag": 65451.832809045176,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "5rY4PABP7PnGJkWm4Sg9d7CsRNpV5FuDJWgUMR8UqtXh": {
+    "name": "tyler Raw Fund",
+    "symbol": "TYLER",
+    "flagged_ts": 1789929477,
+    "liquidity_at_flag": 37529.500644993306,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "58ZQiM8yMbWCNpZUytm6b6RiVNE8mzcFXFGCWrGkDhgV": {
+    "name": "sat",
+    "symbol": "sat",
+    "flagged_ts": 1789929479,
+    "liquidity_at_flag": 35679.15866684816,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "FonX8Qiw7G6Ce1rziiZckDDEorB3SJPEqcKdAoGdrJ7s": {
+    "name": "sat",
+    "symbol": "sat",
+    "flagged_ts": 1789929480,
+    "liquidity_at_flag": 61596.02173016079,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "29tqSqnjVGgjqGr7tsE4VHgLjARQNL8UrBqzbvWLSoSc": {
+    "name": "ForbiddenHQ",
+    "symbol": "Forbidden",
+    "flagged_ts": 1789929480,
+    "liquidity_at_flag": 46194.277318563436,
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 60,
