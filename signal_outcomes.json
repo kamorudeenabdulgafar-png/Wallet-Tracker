@@ -8124,7 +8124,8 @@
     "liquidity_at_flag": 26029.700853021466,
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "DxrqkG8A6uGqCQjYKx66jQNGLoVMweAb6h8yX2Ngp8yP": {
@@ -8134,7 +8135,8 @@
     "liquidity_at_flag": 43421.32796477644,
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "4pofcwH1MP1nqShJhjG6PiGcpvrrQMhiXuJajLagpump": {
@@ -12369,7 +12371,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "FDC6GT4UdVe5qdSDMux4rdAj9VqCFG1G6ATH84rkpump": {
@@ -12384,7 +12387,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "pEsVLU3GJfTGmuyjs1y6a4fC44GixywJmTAsrdNpump": {
@@ -12938,7 +12942,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "4Vj8xDF4KMbbJotCWpsYvt5XgC5vFByisa4p1pYBGm1C": {
     "name": "BUNNY",
@@ -12951,7 +12957,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "9mrBGSTNj5kh7M3GiP1oQ5uXdK2LidTU89HiRvmR6Fod": {
     "name": "Binance Square Paid",
@@ -12964,7 +12972,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "3WS6qASJtojatGFtMAHpXkJM2gEHYdhqm51GFgZnpump": {
     "name": "RIP Q50",
@@ -12977,7 +12987,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "HfqQefkCoYtXekvyPuKbPuaWAsswncZzuq6cKXBpr31": {
     "name": "MEMESTRATEGY",
@@ -12990,7 +13002,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "AQoymGAEG2HWNHeGkeh2CwkZnL8Gd27q4YhMfhRaSCZr": {
     "name": "Starlink Cat 5",
@@ -13003,7 +13017,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "4cMuMvmLcvzfaLuauLo2a1cSYFMKodufBXDyefkmmoon": {
     "name": "HAALAND VIKING",
@@ -13221,6 +13237,71 @@
     "breakdown": {
       "MOMENTUM": 88,
       "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "4CP8WyZzYpb9R5ZyxbVBCtvRcgHoK67cqYSbF8trpump": {
+    "name": "TAKO",
+    "symbol": "TAKO",
+    "flagged_ts": 1789879637,
+    "liquidity_at_flag": 23077.704724796065,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 90,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "BQh47ydimCEV5KK2xcwiBBDZVDzS3UxyTGKjjDzvvH7T": {
+    "name": "BUNNY",
+    "symbol": "\ud83d\udcb2BUNNY",
+    "flagged_ts": 1789879639,
+    "liquidity_at_flag": 46100.29844967577,
+    "breakdown": {
+      "MOMENTUM": 84,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "6Ssh6RT2VZjC59DigDeCgQMYJTyKSui1mQgBSN6agq8H": {
+    "name": "Argus",
+    "symbol": "ARGUS",
+    "flagged_ts": 1789879640,
+    "liquidity_at_flag": 37351.53203531482,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "83hbHHQiRMVwiETxWxzG7g2KHHrEZ2274n5SFXyqWszD": {
+    "name": "The Boring Company",
+    "symbol": "TBC",
+    "flagged_ts": 1789879640,
+    "liquidity_at_flag": 29356.60356402518,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "5jMTGJTmAw5CVaUhSRxJpWdTqpbbmoJaMeD3DgxJ8Kqx": {
+    "name": "Donated",
+    "symbol": "DONATED",
+    "flagged_ts": 1789879641,
+    "liquidity_at_flag": 51949.55344157994,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 75,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
