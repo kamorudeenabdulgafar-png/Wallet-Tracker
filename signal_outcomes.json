@@ -11776,7 +11776,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "2oLPwfjeBdjrQsTWHQeAMLMx9g1gLkuKzRrfjPqPQWQe": {
@@ -11792,7 +11793,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "FRrqwN7JS8ZkRPe7nDTARuNbD5ZrzmLJ3tKJWWaBQ1r5": {
@@ -11808,7 +11810,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "6ZUf3xDJvQ5RHuwSuuQ8kYpWFC2Z96AfjW2NW4Qgd7gk": {
@@ -11824,7 +11827,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "9ePfq2jAJhMvuL9JGG4s6UJQU2vynL8ntnGrw98R377": {
@@ -11840,7 +11844,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "Dj2zegZeSQhuoZRUNgx6RjRHWv6WyfnXVVtcbWDgroLL": {
@@ -11856,7 +11861,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "8WWTSBEwKY5ShMZ1zJty2tkgRuuMxF3qNvZRnQutDtcu": {
@@ -11872,7 +11878,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "9wbSrrtpRxCuWodqCZ1MpboyL6eX9pQNwr9kMKayeU3": {
@@ -16607,7 +16614,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "GGovhNXuqsqMc2YyXsqTTtbt237NxJ2ekYck9DRKzx4": {
@@ -16622,7 +16630,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "G4TsBdCKBsR87BxS6XRrBx5xU6QRuKEksggeYrpiRdWM": {
@@ -16637,7 +16646,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "AJtjvxYzJ8Xtsp16G6U4h6qkEGpSCVcZtjFeMnVq1B4Y": {
@@ -16652,7 +16662,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "DBymdMFLkEnLnaQ9DeLZu5xpZf8dXLCFVRfwzzFgpump": {
@@ -16667,7 +16678,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "77YTcEwFDxFuypsxYaYFw4D5cz4G8szEHcmTzDgd7o14": {
@@ -17251,7 +17263,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "7niLNwajdxf15THyhwSKKb4ZBr1ooKZMHmP4JMuDpump": {
     "name": "Meals",
@@ -17264,7 +17278,9 @@
       "LIQUIDITY": 96,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "5d2eAFzjG7nyHhUG5bEA8Kt5qk1385BP437hajzNTgmS": {
     "name": "Shitcoin Futures Exchange",
@@ -17414,6 +17430,19 @@
     "symbol": "Mentor",
     "flagged_ts": 1789937574,
     "liquidity_at_flag": 50022.609322222714,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "CMT2nrBZsLHiUbzwJAvakFAysP4E6aRW12TiMv5vhRRC": {
+    "name": "Exaflopcat",
+    "symbol": "Exaflopcat",
+    "flagged_ts": 1789938291,
+    "liquidity_at_flag": 44129.70811211334,
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 60,
