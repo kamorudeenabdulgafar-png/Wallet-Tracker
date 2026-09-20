@@ -8410,7 +8410,8 @@
     "liquidity_at_flag": 30979.666079856615,
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "628Vj7gQ55yDMUCpWihL5EyAXP2Mdhyj8JuFkz4gpump": {
@@ -8420,7 +8421,8 @@
     "liquidity_at_flag": 40876.22351597526,
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "6XuNj6dFwZskHWiyx3NS1u2Q7WkYNCusmhGKTE6u69U9": {
@@ -8430,7 +8432,8 @@
     "liquidity_at_flag": 27928.886108088216,
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "4LjAEbM2Dqe9p19YCDy7R3n9AiGUXGEJH6akhqsq79XY": {
@@ -8440,7 +8443,8 @@
     "liquidity_at_flag": 46868.26700814645,
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "66i4cmteDGBw1vPiVgSsjATWT2CyeeTQ71xQNd2TFzir": {
@@ -8450,7 +8454,8 @@
     "liquidity_at_flag": 60020.73527889705,
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "9koQBVziQsxuWpRDi5NTyD845qLRWWTzecCLvvpmeaJW": {
@@ -8460,7 +8465,8 @@
     "liquidity_at_flag": 28493.84770580093,
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "CXMfVDievnf9VWmMuCf28H8NsZVriVC4oabxTcARs9WA": {
@@ -12619,7 +12625,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "14NLdbmXCtSkiYPA3ULaDpSJLYAXtdh1dFLBnaNJnmbV": {
@@ -12634,7 +12641,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "55sY3H1WGACHxiVqjrobZhVXCmREsjoJxgGjRSZBVr9y": {
@@ -12649,7 +12657,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "FoNfSaFXH93ipvcuBCSjNQQyBx9JCRuzSF7KAfL889LF": {
@@ -12664,7 +12673,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "BEHA1wDzBRamQ1FtoAS1YK8kMFpZibCFKXriPpdXHFaQ": {
@@ -13443,7 +13453,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "7QqmmMJ8GAzmmuqjM4ZE5apa5GMwdhVv1zxGhHLHee1x": {
     "name": "ZZZ",
@@ -13456,7 +13468,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "E1Ew4Z9tnwCt2bNGCUEB3q4GnrZ8hVq9NmWZpjea3s53": {
     "name": "Uranus",
@@ -13469,7 +13483,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "5vNPGPuouvnN51wLY5XhR54vEFuZuXHaCw81LBhDV1gc": {
     "name": "MEMESTOCKS",
@@ -13482,7 +13498,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "B4AT26LHqPoWB5ja7xy6ttARPJj8BG1kvgLzxWtHKMCS": {
     "name": "SENDING",
@@ -13660,6 +13678,58 @@
     "liquidity_at_flag": 56950.77305432177,
     "breakdown": {
       "MOMENTUM": 93,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "2vDwcWVXbFdJC2c8zSLVX9tuZKycaABWjBSxUZbViAar": {
+    "name": "Binance Square Paid",
+    "symbol": "PAID",
+    "flagged_ts": 1789885490,
+    "liquidity_at_flag": 29256.445721299904,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "EGPJ9t5y1awJEdHa1fpnsFNfCTMrGx4Crd2yLAc1pump": {
+    "name": "Feels Good Man Wif Hat",
+    "symbol": "FeelsWif",
+    "flagged_ts": 1789885491,
+    "liquidity_at_flag": 29339.93781760145,
+    "breakdown": {
+      "MOMENTUM": 55,
+      "SAFETY": 100,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "7iqNt5w6sustemjwGMKQv1S5uzmsxgGMhfo43ZyC15tu": {
+    "name": "\u9f99\u867e",
+    "symbol": "\u9f99\u867e",
+    "flagged_ts": 1789885491,
+    "liquidity_at_flag": 16028.238098573962,
+    "breakdown": {
+      "MOMENTUM": 72,
+      "SAFETY": 100,
+      "LIQUIDITY": 80,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "6Fmrdozk2URhTyMr1YVpasbDE7jomiJjjXRKGbCQZA5A": {
+    "name": "Brett",
+    "symbol": "BRETT",
+    "flagged_ts": 1789885492,
+    "liquidity_at_flag": 38122.609264162544,
+    "breakdown": {
+      "MOMENTUM": 100,
       "SAFETY": 60,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
