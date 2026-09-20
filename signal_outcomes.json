@@ -8476,7 +8476,8 @@
     "liquidity_at_flag": 26908.348868972338,
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "F3LQCMWV5YBn6HFngbxXM81yCdYysWT3mifbcB53pump": {
@@ -8486,7 +8487,8 @@
     "liquidity_at_flag": 22939.02936266152,
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "9vXvazJ9q2hpQMyk2pehp9vRmz1BuwW7LMTCiEWa4Xum": {
@@ -8496,7 +8498,8 @@
     "liquidity_at_flag": 24536.095773178604,
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "12dTr4SW1YYUhWZSTr81p4MXUp14VN62M7oWFXndLgTt": {
@@ -8506,7 +8509,8 @@
     "liquidity_at_flag": 216212.8922824585,
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "ASZPyMRXuBEtkWddSDA2HWW2oYiBAP9Gft4CyYmsjZzE": {
@@ -8516,7 +8520,8 @@
     "liquidity_at_flag": 145759.4050895396,
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "GmGL2Vz2bf8PtXm4qz5kW25t2oyxFjpMRRm9EhWQLmeC": {
@@ -12689,7 +12694,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "A3dX2Pvzxkn2AwHdFHfikmWWpo8ip67wKhAsrn6pUuJt": {
@@ -12704,7 +12710,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "o7DN9Lx4zAHaET1E6ptcmjnuKr8kQsbwmWrift6g2Qo": {
@@ -12719,7 +12726,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "HEnK74uS5H3HzpkuSYuGNxuPGE7VGSEzDvxZXWGit9hs": {
@@ -12734,7 +12742,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "37RVEGxL9RxNtKnxLCiiEQYjt7uJ8HTQ94uc7WocuGkM": {
@@ -12749,7 +12758,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "HrTHALcijdUuzGstBDDpiJAGBzp1HFkNxKPvn9RKio45": {
@@ -13513,7 +13523,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "CUNuWekdbD7vdZqhQU4xaUT4AYbwrBeikhBhiRb1fowJ": {
     "name": "Amazon Inu",
@@ -13526,7 +13538,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "G2PPNeFiy8yZJQdsA8djFD2NAKNWNy6VPbzaGFSEn3Eq": {
     "name": "fatcat",
@@ -13728,6 +13742,32 @@
     "symbol": "BRETT",
     "flagged_ts": 1789885492,
     "liquidity_at_flag": 38122.609264162544,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "9ue4nA2piheTeSYRqbX5bc6Q5ctAjkUZkXDgcegwqMBT": {
+    "name": "Gstock",
+    "symbol": "GSTOCK",
+    "flagged_ts": 1789886391,
+    "liquidity_at_flag": 51685.17365524339,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "2Th343d2bS9YUxUFBi8kXwCZkfaSFdx8djuUksbMzMW6": {
+    "name": "Queefcoin",
+    "symbol": "QUEEF",
+    "flagged_ts": 1789886393,
+    "liquidity_at_flag": 77065.65064385481,
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 60,
