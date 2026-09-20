@@ -11623,7 +11623,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "CoZVKSL9CFB2h53DsCWSXphY8vbi4jDB9R1enXF38y6C": {
@@ -11639,7 +11640,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "7YV4n94JnxPQxXV6o3r9RP5aBaU6497kyd8haRX7A1vf": {
@@ -11655,7 +11657,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "2xaUCVkmqMtPrAcDVeAtRGD8K6TjSHQSrWtipUS45yMM": {
@@ -16358,7 +16361,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "7wmuRJE5BNHWg4p1JeWwFwjo163tQtyzVqzttyGY5Hsx": {
@@ -16373,7 +16377,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "E3ZVevAkzhvnpUmp3A5dvZSghcwfu3ixXpuKe2dNYpuG": {
@@ -16388,7 +16393,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "J6SVJSW4cMZv1KJkuDw19MqqtYXA1bGqYEEKxQtBtxgA": {
@@ -17047,7 +17053,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "B1G9fsSoxCViC5Ue9XqcmDC3FLFaDRGCVD6Q6ZA3zRyj": {
     "name": "Zcash Shielded Assets",
@@ -17060,7 +17068,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "4kR3GJMPduokHwDE7nn81PfuVQ995dHeptMGpdszKA6v": {
     "name": "Zebra",
@@ -17073,7 +17083,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "EKtmPPLaCbEEKiwoHHtV7TsRsmPXs5CMGtQtZFSiinsc": {
     "name": "Zcash Shielded Assets",
@@ -17086,7 +17098,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "FHJn4ZuAmYViGhRcbN8ss9vNZvZNF77aCua7v3sTpump": {
     "name": "Where is Jean Phil",
@@ -17099,7 +17113,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "D4WmjrSWcTfXPmp1ommDtK1y7BWQmJEfuL1iGAKQwSYr": {
     "name": "Zerocoin",
@@ -17214,6 +17230,32 @@
       "MOMENTUM": 100,
       "SAFETY": 90,
       "LIQUIDITY": 96,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "5d2eAFzjG7nyHhUG5bEA8Kt5qk1385BP437hajzNTgmS": {
+    "name": "Shitcoin Futures Exchange",
+    "symbol": "STX",
+    "flagged_ts": 1789934711,
+    "liquidity_at_flag": 29895.265587995178,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "7ifumMxSrY45Tqj1Wtdaz9XtADiXranKVbWwMgNTpump": {
+    "name": "StampPump",
+    "symbol": "StampPump",
+    "flagged_ts": 1789934712,
+    "liquidity_at_flag": 26745.008144887222,
+    "breakdown": {
+      "MOMENTUM": 79,
+      "SAFETY": 75,
+      "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
     "checkpoints_done": []
