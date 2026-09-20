@@ -1,5 +1,5 @@
 {
-  "last_updated": 1789932399,
+  "last_updated": 1789932886,
   "wallets": [
     {
       "label": "Dev wallet 1",
@@ -85,7 +85,7 @@
     "count": 2835,
     "up_count": 613,
     "total_change_pct": -155586.29928175083,
-    "rug": 398,
+    "rug": 400,
     "doing_well": 4,
     "steady": 3,
     "fading": 3
@@ -93,6 +93,41 @@
   "learning_insight": null,
   "settings": {},
   "recent_alerts": [
+    {
+      "ts": 1789932886,
+      "type": "outcome",
+      "message": "\ud83d\udd34 Hotel Lobby (Lobby) is dropping fast \u2014 down 100%, may be rugging."
+    },
+    {
+      "ts": 1789932886,
+      "type": "outcome",
+      "message": "\ud83d\udd34 Jean Phil (JEANPHIL) is dropping fast \u2014 down 100%, may be rugging."
+    },
+    {
+      "ts": 1789932885,
+      "type": "outcome",
+      "message": "\ud83d\udd34 The Goose Killer (HOLT) is dropping fast \u2014 down 100%, may be rugging."
+    },
+    {
+      "ts": 1789932884,
+      "type": "outcome",
+      "message": "\ud83d\udd34 GSTOCK (Gstock) is dropping fast \u2014 down 100%, may be rugging."
+    },
+    {
+      "ts": 1789932883,
+      "type": "outcome",
+      "message": "\ud83d\udd34 Spurdo (SPURDO) is dropping fast \u2014 down 100%, may be rugging."
+    },
+    {
+      "ts": 1789932882,
+      "type": "outcome",
+      "message": "\ud83d\udd34 CatBrain (CATBRAIN) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
+    },
+    {
+      "ts": 1789932882,
+      "type": "outcome",
+      "message": "\ud83d\udd34 CatBrain (CATBRAIN) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
+    },
     {
       "ts": 1789932399,
       "type": "outcome",
@@ -307,41 +342,6 @@
       "ts": 1789930502,
       "type": "wallet",
       "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: xSOL -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/5E6LSx2qvpE4nxzsWjMnxFMRkdr9nb172JLvcT51ryhJ3moW38RVM19roKASSq2BKswYpA6kPVFF53cfBE1XBPrd"
-    },
-    {
-      "ts": 1789930501,
-      "type": "wallet",
-      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: XMR -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/2uLB5gUwY56MeuRarULxHoDC4UpaEHmdYDU2aWV6Yk8fuYj1yRRaLGqaqEjf2JmtYmCq95vFgPMVSXT6LEZtbxEL"
-    },
-    {
-      "ts": 1789930501,
-      "type": "wallet",
-      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: LMT -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/4PHQ4GQHe5Cm986ZDWqY9dp9xMrJffuACo2Kk1epBcGdbm1iCG6w1LywjPUmypLN52hfQYjYmfuGfvfqecedGoxW"
-    },
-    {
-      "ts": 1789930500,
-      "type": "wallet",
-      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: ? -> USDC\nTrade size: unknown\nBought token: USD Coin (USDC)\nCA: EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v\nhttps://solscan.io/tx/457Z3AyrqLYYgRKwDrXpXU9nEVTR7utrsBjr9S9XqfpCSbhik4pGHFEHCh339husDkPMCvKRVNp4ZMgNQAecNkf9"
-    },
-    {
-      "ts": 1789930037,
-      "type": "outcome",
-      "message": "\ud83d\udd34 TradeX (TradeX) is dropping fast \u2014 down 100%, may be rugging."
-    },
-    {
-      "ts": 1789930036,
-      "type": "outcome",
-      "message": "\ud83d\udd34 OnlyFees (OnlyFees) is dropping fast \u2014 down 69%, may be rugging."
-    },
-    {
-      "ts": 1789930034,
-      "type": "outcome",
-      "message": "\ud83d\udd34 Baby Jean Phil (BABYPHIL) is dropping fast \u2014 down 100%, may be rugging."
-    },
-    {
-      "ts": 1789930033,
-      "type": "outcome",
-      "message": "\ud83d\udd34 Truman World (TRUMAN) is dropping fast \u2014 down 100%, may be rugging."
     }
   ]
 }
