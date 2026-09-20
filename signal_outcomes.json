@@ -12456,7 +12456,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "7xB5scT7AnfwLKs1ftQ5KYch2QCmUhtx5VtCzkRqBf5D": {
@@ -12472,7 +12473,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "kixtDReVYT6tPhN4wkYHHqSAYQuvQUF3mAb4J8jpump": {
@@ -12488,7 +12490,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "57ZPgNcaNZTpYWaf1zKu5FrX6nCdGhErfJomWg34MWvo": {
@@ -17826,7 +17829,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "CHQeLyR3kiywgkq6CQuTruNq64bi8RFUyLb3WCCX4iv7": {
     "name": "JubJub",
@@ -17839,7 +17844,9 @@
       "LIQUIDITY": 98,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "7qZn8A7ZZGhaTxndEjE8UkMvS4EkmWy58hyKoSAESmd7": {
     "name": "Jean Phil",
@@ -17852,7 +17859,9 @@
       "LIQUIDITY": 85,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "CiV2To3hYpXXwimzRGWVcD6LJUX2ryKCMCwpRs5Ppump": {
     "name": "rsolve",
@@ -17963,6 +17972,19 @@
     "symbol": "ZEBRA",
     "flagged_ts": 1789946915,
     "liquidity_at_flag": 33809.24708254302,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "C8tkrypvw7RCXrgSPbG9aaGoXbhbszt1K2UksZ9EzRbk": {
+    "name": "BUNNY",
+    "symbol": "\ud83d\udcb2BUNNY",
+    "flagged_ts": 1789947510,
+    "liquidity_at_flag": 51308.514591884996,
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 60,
