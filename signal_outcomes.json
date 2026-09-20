@@ -12031,7 +12031,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "72XdMUWt99q84ReP3Xg9VEaVvpVBr2d4o4VUdMv7e1Lq": {
@@ -16798,7 +16799,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "HVjhcBotCo9GwumFVe6ys7d4NXCFJTgh2EhuCFeWwQY3": {
@@ -16813,7 +16815,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "EUJnfWGCgzAmAU6tE2vBLKEBfeTRx3is7R3ydMzcpump": {
@@ -16828,7 +16831,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "HWdPPSmNgJASLtSq5QBzqC1Np9kk5dRsDy3RuGXRCPWt": {
@@ -16843,7 +16847,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "HoeTyXamDZrQvWs6TtqoruDNRhJYtL8Sp1vmc42kZRkA": {
@@ -16858,7 +16863,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "MhcRQ7kQsbtXmcUhAf1KVP1dF3M1bKXVNje1KTFpump": {
@@ -16873,7 +16879,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "Gm7znfT1osseUZRLGdXhGfAj6CxFpUzG49eGVPyBs9Y": {
@@ -17367,7 +17374,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "J7DonnMYQJcr91BKKajB6DFm1kFNGpGs7Rqwr4L3iA6Y": {
     "name": "FluxCard",
@@ -17380,7 +17389,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "FSJfPYF6VjuDuUxMFdUrCEkVr96bhC5oXKhv4o6JJxiK": {
     "name": "The Mentor",
@@ -17533,6 +17544,45 @@
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 90,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "FMEgrpXkJ9e4vUrLszibLn8iCxg4ynjBjKztCsE3pump": {
+    "name": "Sushinu",
+    "symbol": "SUSHINU",
+    "flagged_ts": 1789940407,
+    "liquidity_at_flag": 18561.470509248255,
+    "breakdown": {
+      "MOMENTUM": 50,
+      "SAFETY": 100,
+      "LIQUIDITY": 93,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "2zdzfByzbVDbSKyhV6ub5r3JuqTEp11XCuXC9Tq3TiQi": {
+    "name": "StonkBankr",
+    "symbol": "StonkBankr",
+    "flagged_ts": 1789940408,
+    "liquidity_at_flag": 34513.04964221458,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "2XxAbWDQA3qJXvpemiuhCe3G5NB5ADuR5UUvET8j4EEa": {
+    "name": "Dogecoin",
+    "symbol": "DOGE",
+    "flagged_ts": 1789940409,
+    "liquidity_at_flag": 60188.678593888646,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
