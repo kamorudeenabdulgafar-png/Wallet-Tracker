@@ -1,13 +1,5 @@
 [
   {
-    "name": "NASDOG",
-    "symbol": "NASDOG",
-    "category": "rug",
-    "change_pct": -100.0,
-    "breakdown": null,
-    "ts": 1789839823
-  },
-  {
     "name": "Elon Musk",
     "symbol": "Musk",
     "category": "rug",
@@ -2783,5 +2775,18 @@
       "SMART MONEY": 0
     },
     "ts": 1789919060
+  },
+  {
+    "name": "Superior Inu",
+    "symbol": "SI",
+    "category": "rug",
+    "change_pct": -100.0,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "ts": 1789919574
   }
 ]

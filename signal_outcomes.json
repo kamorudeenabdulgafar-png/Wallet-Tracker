@@ -10790,7 +10790,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "p6K2tbtsyDp6jdzazfk1L3rgNUJueG7qN74HzxNkach": {
@@ -10806,7 +10807,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "Cqp32Cxa56CY8njhwQcTJwtbj4YwNmsnJx4q4rLf6Ekc": {
@@ -15333,7 +15335,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "6YkAznRUUutEv4QJ2QUiTPhxFpqnSRMXsUEN9avBVgGK": {
@@ -15348,7 +15351,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "6L8d4KaZYTuG8xkhnMUnoqcD8ujaCfs6d4Mxn4nc2dLQ": {
@@ -15887,7 +15891,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "ARWSiZ8SLYMjJVxVtmTvHci87GUw149gQ9TgDgKNTNd2": {
     "name": "BoroToken",
@@ -15900,7 +15906,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "Cy9Je1QAQZUiXMH4cJ3GY32QLamCv3cSwFfHRd6cH4r7": {
     "name": "JEAN INU",
@@ -15913,7 +15921,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "3xUdK3H1Uh4T6cBEyAQGMkEPgcoqfB5fTChNRPzXR97S": {
     "name": "Baby Jean Phil",
@@ -15926,7 +15936,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "974HWs7SERGFFuyHmmdANqA8g5SAAMj2HHzvBiz3wN2D": {
     "name": "Nasduck",
@@ -15939,7 +15951,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "FFczgQUsGQYoPgKDXiJzExVZ3wvxjP8bZg5CFJo4SPF3": {
     "name": "Truman World",
@@ -16157,6 +16171,32 @@
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 100,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "H6acasg71ktXFwCzg6r9yfh2y8CMjybXLZyRefg42p4J": {
+    "name": "super dog",
+    "symbol": "TUTU",
+    "flagged_ts": 1789919572,
+    "liquidity_at_flag": 34385.50337093197,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "F8rFVpXYtsEchbAfKChpTKAjBbtVyCnpX2yy5i7Bpump": {
+    "name": "super dog",
+    "symbol": "TUTU",
+    "flagged_ts": 1789919573,
+    "liquidity_at_flag": 26008.406423807857,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 90,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
