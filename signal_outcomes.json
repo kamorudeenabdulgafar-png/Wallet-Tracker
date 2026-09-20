@@ -11643,7 +11643,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "E55Mxzfj8CcbqsEKVZPEKmF42isp55SgY2sgfPWGLCbh": {
@@ -11658,7 +11659,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "FNGyEwuKUm4tSQJjxHJXU5D8tJSyGdQ6QFFaTq2mSXQP": {
@@ -11673,7 +11675,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "EmQj9rTGSE4SJeqUWS3NBLiM154HuNTpkE9oZvnPPpVo": {
@@ -11688,7 +11691,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "3E86juCQhcki67K9UEuKTfpj5QLJm83siiJj9isGmcQF": {
@@ -12197,7 +12201,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "EdZqj8ik9BwwPSBvvZegBnnMkZwczf3XhyipzxQ7Q8G4": {
     "name": "PumpPay",
@@ -12210,7 +12216,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "3tUn8dGmDceJ9pCwFLUVo2jkD6FLWaZ78YEpAa3bpump": {
     "name": "dogwifclaimr",
@@ -12223,7 +12231,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "F1vn7iCHavyXfWfsWQzBDV4wbT8KdfQJRtnAJaeAydhv": {
     "name": "Claimr",
@@ -12236,7 +12246,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "7wbxHXFYehyL7Gt4DudSqRnvU1ojck7iPKymLLfX5uVt": {
     "name": "The Day Trader",
@@ -12249,7 +12261,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "BU6o1UKiB5fXvHhPwUFHhvhDck5ff9dXizPYsNNspump": {
     "name": "Uranus",
@@ -12311,6 +12325,19 @@
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 100,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "3WMQgznR1n9n9F8xrUBAzv1HQMY69Lud8DZdzz4t5L6U": {
+    "name": "Superior Inu",
+    "symbol": "SI",
+    "flagged_ts": 1789867866,
+    "liquidity_at_flag": 41360.286081144615,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
