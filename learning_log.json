@@ -1,21 +1,5 @@
 [
   {
-    "name": "NASDOG",
-    "symbol": "NASDOG",
-    "category": "rug",
-    "change_pct": -100.0,
-    "breakdown": null,
-    "ts": 1789836789
-  },
-  {
-    "name": "EINSTEIN",
-    "symbol": "EINSTEIN",
-    "category": "rug",
-    "change_pct": -100.0,
-    "breakdown": null,
-    "ts": 1789836790
-  },
-  {
     "name": "Solana Cat",
     "symbol": "SCAT",
     "category": "rug",
@@ -2733,5 +2717,31 @@
       "SMART MONEY": 0
     },
     "ts": 1789916713
+  },
+  {
+    "name": "Dollar Cat",
+    "symbol": "USDCAT",
+    "category": "rug",
+    "change_pct": -100.0,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 78,
+      "SMART MONEY": 0
+    },
+    "ts": 1789917553
+  },
+  {
+    "name": "dogwifmask",
+    "symbol": "mask",
+    "category": "rug",
+    "change_pct": -100.0,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "ts": 1789917554
   }
 ]
