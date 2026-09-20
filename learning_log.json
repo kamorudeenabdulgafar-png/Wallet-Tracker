@@ -1,13 +1,5 @@
 [
   {
-    "name": "Poke Balls",
-    "symbol": "Pokeballs",
-    "category": "rug",
-    "change_pct": -100.0,
-    "breakdown": null,
-    "ts": 1789858519
-  },
-  {
     "name": "Pepe",
     "symbol": "PEPE",
     "category": "rug",
@@ -3113,5 +3105,18 @@
       "SMART MONEY": 0
     },
     "ts": 1789940412
+  },
+  {
+    "name": "SOURCE",
+    "symbol": "SOURCE",
+    "category": "rug",
+    "change_pct": -100.0,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 75,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "ts": 1789940879
   }
 ]

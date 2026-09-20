@@ -1,5 +1,5 @@
 {
-  "last_updated": 1789940422,
+  "last_updated": 1789940884,
   "wallets": [
     {
       "label": "Dev wallet 1",
@@ -85,7 +85,7 @@
     "count": 2835,
     "up_count": 613,
     "total_change_pct": -155586.29928175083,
-    "rug": 427,
+    "rug": 428,
     "doing_well": 4,
     "steady": 3,
     "fading": 4
@@ -93,6 +93,31 @@
   "learning_insight": null,
   "settings": {},
   "recent_alerts": [
+    {
+      "ts": 1789940884,
+      "type": "outcome",
+      "message": "\ud83d\udd34 THESIS (THESIS) is dropping fast \u2014 down 100%, may be rugging."
+    },
+    {
+      "ts": 1789940882,
+      "type": "outcome",
+      "message": "\ud83d\udd34 The Mentor (Mentor) is dropping fast \u2014 down 66%, may be rugging."
+    },
+    {
+      "ts": 1789940881,
+      "type": "outcome",
+      "message": "\ud83d\udd34 TradeX (TradeX) is dropping fast \u2014 down 100%, may be rugging."
+    },
+    {
+      "ts": 1789940880,
+      "type": "outcome",
+      "message": "\ud83d\udd34 TradeX (TradeX) is dropping fast \u2014 down 100%, may be rugging."
+    },
+    {
+      "ts": 1789940879,
+      "type": "outcome",
+      "message": "\ud83d\udd34 SOURCE (SOURCE) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
+    },
     {
       "ts": 1789940422,
       "type": "outcome",
@@ -317,31 +342,6 @@
       "ts": 1789938296,
       "type": "outcome",
       "message": "\ud83d\udd34 Bruce Buffer (Bruce) turned out to be a rug \u2014 liquidity dropped 88% over 24h."
-    },
-    {
-      "ts": 1789938294,
-      "type": "outcome",
-      "message": "\ud83d\udd34 Exhale (\ud83d\udcb2Exhale) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
-    },
-    {
-      "ts": 1789938294,
-      "type": "outcome",
-      "message": "\ud83d\udd34 Jean Phil (JEANPHIL) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
-    },
-    {
-      "ts": 1789938293,
-      "type": "outcome",
-      "message": "\ud83d\udd34 MEMEMAN (MEMEMAN) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
-    },
-    {
-      "ts": 1789938292,
-      "type": "outcome",
-      "message": "\ud83d\udd34 MEMEMAN (MEMEMAN) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
-    },
-    {
-      "ts": 1789938291,
-      "type": "scanner",
-      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\nExaflopcat (Exaflopcat)\nOpportunity: 76/100\n\nMOMENTUM     100\nSAFETY       60\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$44,130, 6 min since pool creation\n\u2022 Up +214% in the last hour, ~$168,854 in 24h volume (3.8x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 94% of supply (very concentrated)\n\nCA: CMT2nrBZsLHiUbzwJAvakFAysP4E6aRW12TiMv5vhRRC\nhttps://dexscreener.com/solana/CMT2nrBZsLHiUbzwJAvakFAysP4E6aRW12TiMv5vhRRC\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
     }
   ]
 }
