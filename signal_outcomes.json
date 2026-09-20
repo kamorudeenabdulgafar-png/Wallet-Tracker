@@ -13758,7 +13758,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "Fe9FYGJMMDnF2sT1gbkRPGNrCb96yz3bnk1JZf2PVUSr": {
@@ -13773,7 +13774,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "4E487FBNyoC3Y8TjtUg9s9uv2bfahndSuWhGUAQnApAR": {
@@ -14461,6 +14463,58 @@
     "breakdown": {
       "MOMENTUM": 97,
       "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "yPrR8M5uqjypzeSDEkYUwa329uJbhrpcgPqDo7UH7nu": {
+    "name": "$MSA",
+    "symbol": "$MSA",
+    "flagged_ts": 1789898693,
+    "liquidity_at_flag": 32544.99290152447,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 75,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "HUE5i6JfPjjy3G7ewi8L8fHi5kaMXg7vmiBY6YmV7Ydc": {
+    "name": "Binance Square Paid",
+    "symbol": "PAID",
+    "flagged_ts": 1789898693,
+    "liquidity_at_flag": 39978.900974422766,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "ACRS1SSR8brHq1XpJbqXbp8NEzQ8ieXo1FV4oU8TsZwQ": {
+    "name": "Queefcoin",
+    "symbol": "QUEEF",
+    "flagged_ts": 1789898695,
+    "liquidity_at_flag": 28179.678049474576,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "BgUvFVNRyKXtXFPWvM8KN45X1CM6uqsKwX618maoucWw": {
+    "name": "CALI",
+    "symbol": "CALI",
+    "flagged_ts": 1789898695,
+    "liquidity_at_flag": 39601.6559731861,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 100,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
