@@ -11079,7 +11079,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "77p5u2agnHHS2vZwnLC71y1gugLEdjzBgeLz2oLeVfjE": {
@@ -11095,7 +11096,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "AobaVzsZG1AX7Z52GnfaYDjSo46ZaX7LSYfD9Fsd6oK4": {
@@ -16459,7 +16461,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "7cAYa7TL7wcKiC2UzV4L4L8CZRQvUfdzLdfFsmvBmQJU": {
     "name": "Mouseman",
@@ -16472,7 +16476,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "3rkDy4S553ZjdFgHbn8CrZmzTEgQHQz9Fe2K18uPcTRL": {
     "name": "Truman World",
@@ -16485,7 +16491,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "AXsYVxWmMFc8nzdCFGmQa5qcjXiNmt586Ty1GAUgd8YC": {
     "name": "\ud83d\udcb2\u8001\u516d",
@@ -16498,7 +16506,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "DZvMz2nKPTGrSkfyfif8pL6NB7WCMJEqZQUMn2xbumVK": {
     "name": "BUNNY",
@@ -16716,6 +16726,32 @@
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 100,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "Gm7znfT1osseUZRLGdXhGfAj6CxFpUzG49eGVPyBs9Y": {
+    "name": "TradeX",
+    "symbol": "TradeX",
+    "flagged_ts": 1789926378,
+    "liquidity_at_flag": 32080.662564249986,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "3BxPRiYNDmwwoifZ1pTXkgjamVoy1kmauZxuJY6ArHWp": {
+    "name": "TradeX",
+    "symbol": "TradeX",
+    "flagged_ts": 1789926380,
+    "liquidity_at_flag": 23213.222122903964,
+    "breakdown": {
+      "MOMENTUM": 89,
+      "SAFETY": 60,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },

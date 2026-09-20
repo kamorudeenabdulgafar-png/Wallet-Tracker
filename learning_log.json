@@ -1,13 +1,5 @@
 [
   {
-    "name": "Mochi",
-    "symbol": "Mochi",
-    "category": "rug",
-    "change_pct": -80.8,
-    "breakdown": null,
-    "ts": 1789844665
-  },
-  {
     "name": "Board",
     "symbol": "BOARD",
     "category": "rug",
@@ -2863,5 +2855,18 @@
       "SMART MONEY": 0
     },
     "ts": 1789925929
+  },
+  {
+    "name": "TIPPED",
+    "symbol": "TIPPED",
+    "category": "rug",
+    "change_pct": -100.0,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "ts": 1789926381
   }
 ]
