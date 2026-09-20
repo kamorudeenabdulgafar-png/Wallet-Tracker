@@ -7783,7 +7783,8 @@
     "liquidity_at_flag": 22515.846275159718,
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "4U76PyCYwdqY3V9ydF4Cx4excixgy3ENDqQrpnoCpump": {
@@ -11874,7 +11875,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "Ad881PycCzmgVmSvuvynMVQnhN929QDVykLf9iNLpump": {
@@ -11889,7 +11891,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "E86Qfzv3rR3XgiUEiLSbsqv3PQnLv3o82U1sc1d7zmu9": {
@@ -11904,7 +11907,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "EBBwb57PjXW8qnJ14vVb1M8ij6vsFwSZfd1XLHvVysmw": {
@@ -11919,7 +11923,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "2gVT53QFfPRn9Dmj4HxYXLQ9fkbprjgjyisYT7KSs5zC": {
@@ -12443,7 +12448,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "ASXiKS1vtdtiGxwYqT6qVExptEy2qqorXbwCC2CoN6fB": {
     "name": "CHURRO",
@@ -12632,6 +12639,45 @@
     "symbol": "xPad",
     "flagged_ts": 1789872393,
     "liquidity_at_flag": 65770.99506167145,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "BKda3ap94znK2UEGRQg37myyAJu1vZM6LuS1eLbFuD11": {
+    "name": "Google",
+    "symbol": "GOOGLAI",
+    "flagged_ts": 1789872889,
+    "liquidity_at_flag": 18984.46825677908,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 95,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "AKDgegfbZ6ecGjtAiobEYemDrWXkY6evxRfr9sYapump": {
+    "name": "discat",
+    "symbol": "discat",
+    "flagged_ts": 1789872891,
+    "liquidity_at_flag": 31919.129430891313,
+    "breakdown": {
+      "MOMENTUM": 95,
+      "SAFETY": 100,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "9xiAg36g7uaTjR8gMQSgH98rv5CYR59Vdwd41NdZvsGB": {
+    "name": "\u732b\u5b50\u67d2\u6765\u4e86",
+    "symbol": "\u732b\u5b50\u67d2",
+    "flagged_ts": 1789872892,
+    "liquidity_at_flag": 55667.9826934999,
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 60,
