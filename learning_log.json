@@ -1,13 +1,5 @@
 [
   {
-    "name": "NASDOG",
-    "symbol": "NASDOG",
-    "category": "rug",
-    "change_pct": -100.0,
-    "breakdown": null,
-    "ts": 1789840387
-  },
-  {
     "name": "Github Cat",
     "symbol": "GITCAT",
     "category": "rug",
@@ -2803,5 +2795,18 @@
       "SMART MONEY": 0
     },
     "ts": 1789921210
+  },
+  {
+    "name": "DexScreener Eagle",
+    "symbol": "DEAGLE",
+    "category": "rug",
+    "change_pct": -89.4,
+    "breakdown": {
+      "MOMENTUM": 52,
+      "SAFETY": 90,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "ts": 1789921937
   }
 ]

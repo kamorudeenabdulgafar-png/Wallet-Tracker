@@ -10875,7 +10875,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "CqrUWA9kDJzjff23W7uVKd6obCgMzkwtNy1U9teeqwQw": {
@@ -15450,7 +15451,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "9KNFTFkrLCAzKcazG8EPeiMoUAD3bYnhPuFXxy1PucuB": {
@@ -15465,7 +15467,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "AX3uw5mqen3WqKaakVUHsdN9oxUhePLoxyP86gZwaDA8": {
@@ -15480,7 +15483,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "AoxhdnKAiRMZ7q6cxFKrUZb5Af7nB9BFadrKTXvPNktS": {
@@ -15495,7 +15499,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "5kawmnYpiJ21q9J2SkmSJNFef7CngfDHePrSNKUz2mVf": {
@@ -15510,7 +15515,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "SX6VW2n2BQEiKJWH98wanM2g6ss8rEgMzCkUPBZ4bNV": {
@@ -15525,7 +15531,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "Cw28K9uycxGiXgC17k1jV8gGDo4nw1fH8MSWz1jm85qc": {
@@ -16109,7 +16116,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "7viJRyubmaJYjoLZCRLdWtfwzCnQhfJUss7Bm5EQTAAz": {
     "name": "GSTOCK",
@@ -16122,7 +16131,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "81yie884JW5rH7qPA8jymd3jp6CZL5Zpi4Ww2R42ZCYe": {
     "name": "The Goose Killer",
@@ -16135,7 +16146,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "8rztqadj6PGPJjsie9q6bJosUcih6Rmfym2tLxtcSd1h": {
     "name": "Jean Phil",
@@ -16148,7 +16161,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "B9vBwsH9iKUGQ8WfsHe4hj51TfWNU1RvRPkiNDmBt4MN": {
     "name": "Hotel Lobby",
@@ -16161,7 +16176,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "FJzNXhzJTdS8wn2AMRb7bDg9Lr1bV2gunn9ZnoALk2Sw": {
     "name": "Spurdo",
@@ -16301,6 +16318,71 @@
     "breakdown": {
       "MOMENTUM": 44,
       "SAFETY": 100,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "DSUv2xVYstEtfhesgTqdM5dY4PysupRrqzK8adUpcVZP": {
+    "name": "Sam Bankman-Fried",
+    "symbol": "Bankman",
+    "flagged_ts": 1789921928,
+    "liquidity_at_flag": 27611.06342731367,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "9iTusGbskSQ95BjC9U6ZSg151w2jZScxaxJBpXBe7DT1": {
+    "name": "Mintellect_AI",
+    "symbol": "MINT",
+    "flagged_ts": 1789921932,
+    "liquidity_at_flag": 47855.96966644809,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "FfujeXYws3rkmSL2JUvs9uEwN4uYBNm1bjkd3xTRpump": {
+    "name": "TikTok dog",
+    "symbol": "tok",
+    "flagged_ts": 1789921933,
+    "liquidity_at_flag": 36202.801294365534,
+    "breakdown": {
+      "MOMENTUM": 42,
+      "SAFETY": 100,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "7mkNV5moiXnSWTJrYHJabiHGcdo6c22beZztn5mJFpSX": {
+    "name": "Sam Bankman-Fried",
+    "symbol": "SBF",
+    "flagged_ts": 1789921935,
+    "liquidity_at_flag": 41804.94286133778,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 75,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "CxxbPu2SqJ3XG5XmVpRdg9s5z6Ypq7tLwGaDJC1mEvAs": {
+    "name": "Sam Bankman-Fried",
+    "symbol": "SBF",
+    "flagged_ts": 1789921936,
+    "liquidity_at_flag": 58760.1003931977,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 75,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
