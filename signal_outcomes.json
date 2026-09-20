@@ -9180,7 +9180,8 @@
     "liquidity_at_flag": 17041.12074265471,
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "8FknntgPtmGo7ZPVuL9eJqM6PFLQHJLWTBtE2zmopump": {
@@ -9190,7 +9191,8 @@
     "liquidity_at_flag": 25955.33835662385,
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "5STFE2DH5RUfMEMUMtyy7KxkcWLn3B1wdTi4w3ZVkEfG": {
@@ -9200,7 +9202,8 @@
     "liquidity_at_flag": 28611.42976553811,
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "2MgAoysysxBuN1fE9KUueCQg6fZcy9BztKiAcdq9txrC": {
@@ -13857,7 +13860,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "EGPJ9t5y1awJEdHa1fpnsFNfCTMrGx4Crd2yLAc1pump": {
@@ -13872,7 +13876,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "7iqNt5w6sustemjwGMKQv1S5uzmsxgGMhfo43ZyC15tu": {
@@ -13887,7 +13892,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "6Fmrdozk2URhTyMr1YVpasbDE7jomiJjjXRKGbCQZA5A": {
@@ -13902,7 +13908,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "9ue4nA2piheTeSYRqbX5bc6Q5ctAjkUZkXDgcegwqMBT": {
@@ -14381,7 +14388,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "7Xwn1uBT2sQ9ijasxsBsFVU5QxhNjMEXvT5V2mpVvpuh": {
     "name": "Explained by Kitty",
@@ -14394,7 +14403,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "2hiEhokQipFz3gEeW2evgQ1qfToKBNLkKk52zU7H99js": {
     "name": "Paid",
@@ -14407,7 +14418,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "7TQFpXmrZW1mryannJxJDLCys6iZiFe3uw2B2N2qpump": {
     "name": "Jean Phil Wif Hat",
@@ -14625,6 +14638,45 @@
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "DDD9YB5PEm2V2BmnRP8KJoBSvomf7rLhkuWPx21m2Bi3": {
+    "name": "Goatcoin",
+    "symbol": "GOAT",
+    "flagged_ts": 1789900244,
+    "liquidity_at_flag": 29212.681442700097,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "Bo5NwETDHna8zKMHuLNWK5nrTJPdGMtKfzVMstqr2ck9": {
+    "name": "par",
+    "symbol": "par",
+    "flagged_ts": 1789900246,
+    "liquidity_at_flag": 29873.024051255772,
+    "breakdown": {
+      "MOMENTUM": 52,
+      "SAFETY": 100,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "sdyKwWzC8EnriZWBBwm8YX25nKGmtQdZAHBEGLUpump": {
+    "name": "I Nuke U",
+    "symbol": "INU",
+    "flagged_ts": 1789900247,
+    "liquidity_at_flag": 21667.62478810337,
+    "breakdown": {
+      "MOMENTUM": 81,
+      "SAFETY": 90,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
