@@ -10654,7 +10654,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "DcSHWLp8LPteZ4ReaQ6nvHZkcxRQFThtT799XWZTcaRc": {
@@ -10670,7 +10671,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "FZHVZbYkmPpEFEq3KGGBb3GCpMcn4EUyxchGdHyq4ocA": {
@@ -10686,7 +10688,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "388CHakkUY1PSu3XyQ5yucFfFNcz5NTNkNMD99qD6qPi": {
@@ -10702,7 +10705,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "55P4wRy51GbFYQVzrnhKUUXCQxXLCLcnGnnTYKySrmti": {
@@ -10718,7 +10722,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "8YNRKypAfqN7oCTx1mzHBRFxYNN25xdBMg5uHBxJpump": {
@@ -15197,7 +15202,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "HwT9cHSiSaXdtveLxCFYmVaFr1MKAHLizfjEbFgXqiGL": {
@@ -15212,7 +15218,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "GQ1cnBTDoQYSbhBb5MqFmYGYTxVnjwK87zrkPjeYkcpx": {
@@ -15227,7 +15234,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "5QBrcGPekJK5V2KHaj3Ku2FUWHxoW6ViKxhfsHrMpump": {
@@ -15856,7 +15864,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "28s629AYevCB8T1GyaaHqGj28pX1PT9C5mmFf5nDNHn4": {
     "name": "Kimbal Coin",
@@ -16035,6 +16045,71 @@
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 90,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "7pLR7ohTzbS9Rpo43APccpDvwejkCpFmJ8cRkgAG1L4N": {
+    "name": "Spurdo",
+    "symbol": "SPURDO",
+    "flagged_ts": 1789918226,
+    "liquidity_at_flag": 26654.21220072421,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "7viJRyubmaJYjoLZCRLdWtfwzCnQhfJUss7Bm5EQTAAz": {
+    "name": "GSTOCK",
+    "symbol": "Gstock",
+    "flagged_ts": 1789918229,
+    "liquidity_at_flag": 32352.21431697844,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "81yie884JW5rH7qPA8jymd3jp6CZL5Zpi4Ww2R42ZCYe": {
+    "name": "The Goose Killer",
+    "symbol": "HOLT",
+    "flagged_ts": 1789918230,
+    "liquidity_at_flag": 43755.19553784374,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "8rztqadj6PGPJjsie9q6bJosUcih6Rmfym2tLxtcSd1h": {
+    "name": "Jean Phil",
+    "symbol": "JEANPHIL",
+    "flagged_ts": 1789918232,
+    "liquidity_at_flag": 29324.636072584846,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "B9vBwsH9iKUGQ8WfsHe4hj51TfWNU1RvRPkiNDmBt4MN": {
+    "name": "Hotel Lobby",
+    "symbol": "Lobby",
+    "flagged_ts": 1789918233,
+    "liquidity_at_flag": 41469.4849865909,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
