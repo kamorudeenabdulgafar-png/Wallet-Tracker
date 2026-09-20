@@ -10824,7 +10824,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "BW5e97QZGDvfFaeVnPLT8byhWxPwKqHVjowcDR4Ysau9": {
@@ -10840,7 +10841,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "HiPt38jjzQeZajrBsHaTga7A5Qsh7YVt4Ly4k9kXpump": {
@@ -10856,7 +10858,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "HkSwZWCEK5hNL1h2sM61RzZbXKGG9SqQxxP3PX7QGVEi": {
@@ -15399,7 +15402,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "Gek12rqFxcwVidkWoEJA4EhDPpDcxGZvLAeSKozJEtuk": {
@@ -15414,7 +15418,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "CZmnCnoFseyb32vpHyZjJjBHCLkyE9H7ENfDYLCVkXGE": {
@@ -15429,7 +15434,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "J5TcPzSyJyiSaHmUP4JVc12gzqXEtDxzba9yNGAxxrv8": {
@@ -15968,7 +15974,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "9pnBqPhqhU6C6NLb85R9tjDKVPA5mqzbxCDrfGsW2eWd": {
     "name": "Shibos Nafaral",
@@ -15981,7 +15989,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "2TkNZsVG13i1tcC2SL4wWsNVsH2CyMmmULLjusc6A4UX": {
     "name": "ArbiStocks",
@@ -15994,7 +16004,9 @@
       "LIQUIDITY": 84,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "GMtwHRyULzX3Tgo2LDsnT5SeUQfeK42LohDLua8Z7XY6": {
     "name": "MoneroTesla",
@@ -16007,7 +16019,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "FKTNYCQQbUyHs9owzHm6rECSbrfHKbAHPCnSfHidXhfP": {
     "name": "MoneroTesla",
@@ -16020,7 +16034,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "6psJdUSdewRExdEkT1Y5gFxNYNi6BM2UDcnv6rQFpump": {
     "name": "Fanfee",
@@ -16033,7 +16049,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "81p1UQZUMqu8ADiiyKcemG7KuLTJGTDQhdregvDafqQu": {
     "name": "Jev Desk",
@@ -16046,7 +16064,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "5BaxSoMSvQt2rW8fD5bVsRTNVoYb5WETZKcfrzQ7PyEo": {
     "name": "ArbiStocks",
@@ -16059,7 +16079,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "BsA6TtvXcG8P6shTqDGhJDsRrsJqrVRx76QKmacPDHqH": {
     "name": "Jev Desk",
@@ -16072,7 +16094,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "7pLR7ohTzbS9Rpo43APccpDvwejkCpFmJ8cRkgAG1L4N": {
     "name": "Spurdo",
@@ -16238,6 +16262,45 @@
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "J6SVJSW4cMZv1KJkuDw19MqqtYXA1bGqYEEKxQtBtxgA": {
+    "name": "Hotel Lobby",
+    "symbol": "Lobby",
+    "flagged_ts": 1789921204,
+    "liquidity_at_flag": 40283.289086269346,
+    "breakdown": {
+      "MOMENTUM": 91,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "BFjydHGrYf3gzb6t72ETC3kXrSsYrzVoq9PBMuhQJZtT": {
+    "name": "krakenfx",
+    "symbol": "Kraken",
+    "flagged_ts": 1789921205,
+    "liquidity_at_flag": 14331.260743630748,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 72,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "CDAC33JvozJ1UjxBMkvZgJcVXoxdH9iGxeBXUJdXpump": {
+    "name": "Jean Wojak",
+    "symbol": "JEANJAK",
+    "flagged_ts": 1789921206,
+    "liquidity_at_flag": 44248.94253583306,
+    "breakdown": {
+      "MOMENTUM": 44,
+      "SAFETY": 100,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
