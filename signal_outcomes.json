@@ -9213,7 +9213,8 @@
     "liquidity_at_flag": 41163.26809504415,
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "pJFJgWFRBAL6XittTTMEsFWY7ZMt7DTcqqYo5c2FHpW": {
@@ -9223,7 +9224,8 @@
     "liquidity_at_flag": 47514.23220580103,
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "7Kio616HvMpEvnB56cRwW5Tdtko3Y7uhJHUisJTDFezJ": {
@@ -9233,7 +9235,8 @@
     "liquidity_at_flag": 33244.4331642833,
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "GmuAqD6imKg1MUfd9Sby3yFMXk8DZBA3Pz66UnrAPA6c": {
@@ -9243,7 +9246,8 @@
     "liquidity_at_flag": 39631.583147141384,
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "5VaNyVeZYbyCSq4ZFRprPFhR999WAXU79XeEKCB78HC": {
@@ -9253,7 +9257,8 @@
     "liquidity_at_flag": 45609.202536289195,
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "AW91kqYS1B6wxyJTg3RT82mJ2obybbY5zRgApyfLdEz7": {
@@ -9263,7 +9268,8 @@
     "liquidity_at_flag": 37491.704046862884,
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "5PkQNdjPoy3q9qQq4rFG6ziSyMFChgGEW1njLDjefRjj": {
@@ -9273,7 +9279,8 @@
     "liquidity_at_flag": 41755.528927948326,
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "rBKJiu25UcFcoj5s4pzpBRZjf2hHh4XKNKWRc1GeJ2G": {
@@ -9283,7 +9290,8 @@
     "liquidity_at_flag": 40491.94076364931,
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "BoH4QCoT2JTvGiEZXrREeeErVPUsiwU382SNskDPdpe2": {
@@ -9293,7 +9301,8 @@
     "liquidity_at_flag": 45534.519869914664,
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "CB7YwRu1u7HZGvZ95u5ESHN2m62EdD9PDxijiHhmpump": {
@@ -13924,7 +13933,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "2Th343d2bS9YUxUFBi8kXwCZkfaSFdx8djuUksbMzMW6": {
@@ -13939,7 +13949,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "G9ZqxPdqo9kxjhrMaKfVgZRNFeXM7QZRqfz5h8jU85Jf": {
@@ -14677,6 +14688,71 @@
     "breakdown": {
       "MOMENTUM": 81,
       "SAFETY": 90,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "3kiqdfHrdqZygtVvCqExcPSqzt9WgxdkFfhe1z6zDHSZ": {
+    "name": "JEV",
+    "symbol": "JEV",
+    "flagged_ts": 1789901059,
+    "liquidity_at_flag": 32132.14521049471,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "45nkGYgnNmz4nEhTHY14cJRDDd9gpefYvKUBzC6Mfiy7": {
+    "name": "B",
+    "symbol": "B",
+    "flagged_ts": 1789901060,
+    "liquidity_at_flag": 32837.76546023246,
+    "breakdown": {
+      "MOMENTUM": 85,
+      "SAFETY": 100,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "GYnCGiChEFeJuhBQjQRQnjbtqNucpX99Sd7MmNmexC7a": {
+    "name": "JEV",
+    "symbol": "JEV",
+    "flagged_ts": 1789901061,
+    "liquidity_at_flag": 42388.43406294074,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 75,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "13STbpzeBvNbcrwxU3DA1iJGUZytw62zjdUQ5V7ggigz": {
+    "name": "I Nuke U",
+    "symbol": "INU",
+    "flagged_ts": 1789901064,
+    "liquidity_at_flag": 26020.987969452,
+    "breakdown": {
+      "MOMENTUM": 83,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "5U5HALbq2ULcR7cqEp9YnAybUWyiZZyPfLPWdd2WtcS5": {
+    "name": "Binance Square Paid",
+    "symbol": "PAID",
+    "flagged_ts": 1789901065,
+    "liquidity_at_flag": 43103.36821749005,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 75,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
