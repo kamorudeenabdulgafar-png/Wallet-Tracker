@@ -10892,7 +10892,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "CxGAtnVCCcNTaymfGFFqbfp56pmq4Tmkuz7uX9eT25TN": {
@@ -15579,7 +15580,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "HLfoPLWXgR5ErZQvvvdeZrh3esJbNmi6pXFWH2YWpump": {
@@ -15594,7 +15596,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "9gtHRjY8JTeUVQn8fWnQQeLQiYHtZFkhToDYkJYzCP6W": {
@@ -16238,7 +16241,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "F8rFVpXYtsEchbAfKChpTKAjBbtVyCnpX2yy5i7Bpump": {
     "name": "super dog",
@@ -16251,7 +16256,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "BA5p7KcFpsYqM6NobDRTwQfze69TiwKaU3fVvw9Zpdq9": {
     "name": "Stonked",
@@ -16442,6 +16449,19 @@
     "liquidity_at_flag": 41435.57549562474,
     "breakdown": {
       "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "DZvMz2nKPTGrSkfyfif8pL6NB7WCMJEqZQUMn2xbumVK": {
+    "name": "BUNNY",
+    "symbol": "\ud83d\udcb2BUNNY",
+    "flagged_ts": 1789923197,
+    "liquidity_at_flag": 47719.45724128245,
+    "breakdown": {
+      "MOMENTUM": 96,
       "SAFETY": 60,
       "LIQUIDITY": 100,
       "SMART MONEY": 0

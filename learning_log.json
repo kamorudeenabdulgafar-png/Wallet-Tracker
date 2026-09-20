@@ -5,14 +5,6 @@
     "category": "rug",
     "change_pct": -100.0,
     "breakdown": null,
-    "ts": 1789840388
-  },
-  {
-    "name": "Github Cat",
-    "symbol": "GITCAT",
-    "category": "rug",
-    "change_pct": -100.0,
-    "breakdown": null,
     "ts": 1789840389
   },
   {
@@ -2808,5 +2800,18 @@
       "SMART MONEY": 0
     },
     "ts": 1789921937
+  },
+  {
+    "name": "Credit Cat",
+    "symbol": "CC",
+    "category": "rug",
+    "change_pct": -99.9,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "ts": 1789923199
   }
 ]
