@@ -11963,7 +11963,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "E55Mxzfj8CcbqsEKVZPEKmF42isp55SgY2sgfPWGLCbh": {
@@ -11979,7 +11980,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "FNGyEwuKUm4tSQJjxHJXU5D8tJSyGdQ6QFFaTq2mSXQP": {
@@ -11995,7 +11997,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "EmQj9rTGSE4SJeqUWS3NBLiM154HuNTpkE9oZvnPPpVo": {
@@ -12011,7 +12014,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "3E86juCQhcki67K9UEuKTfpj5QLJm83siiJj9isGmcQF": {
@@ -16746,7 +16750,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "G52eSkiN2NXzEmgcsTCoU3DAiopzzp29Jpf2WjwuCQvH": {
@@ -16761,7 +16766,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "8K8Rfymx4Bgrw5F64RMotQwcS5eHDRKuAcsxRLuCGoZ8": {
@@ -16776,7 +16782,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "DtPapqFy7EsemZNx3NGF4WRgQjG9a54e2QTZuYpqf3gB": {
@@ -17330,7 +17337,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "GKfbq6ML3gNjH8gjqtMSacwbNLwbML4LFxRJMMWGns4G": {
     "name": "Zcash Shielded Assets",
@@ -17343,7 +17352,9 @@
       "LIQUIDITY": 78,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "8gAATJzrFFZX2HB3DoyhfGfHvVdF2XsfvwHbCa5hVgZA": {
     "name": "Glimpse",
@@ -17493,6 +17504,32 @@
     "symbol": "Tender",
     "flagged_ts": 1789939135,
     "liquidity_at_flag": 26326.410800826176,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 90,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "EqFG72Z35r8cAV8mKu3UK2L8NUTR1ZNyMr88E4BnwN8Q": {
+    "name": "Zebra",
+    "symbol": "ZEBRA",
+    "flagged_ts": 1789939794,
+    "liquidity_at_flag": 30368.095855086005,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 90,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "BJ9mPPkCqnMisMiv7JQW7MJ2fgDyjm9udmwHZuJ2YcTf": {
+    "name": "Dogecoin",
+    "symbol": "DOGE",
+    "flagged_ts": 1789939795,
+    "liquidity_at_flag": 28193.551224017036,
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 90,
