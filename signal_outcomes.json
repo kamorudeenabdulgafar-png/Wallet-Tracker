@@ -12065,7 +12065,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "4mH7yyWLJD8n3Dt2Dmwx3p9aQ4euqKebvnU7KUiWpump": {
@@ -12081,7 +12082,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "C3CfP7BE4QeMKQfbzQogadm8RzFtSjZY8Rq19JZ3GdMW": {
@@ -12097,7 +12099,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "3DR2EsXJnfczN3LhJUKUkuNWSkKrCid6GCGvEntqVWYE": {
@@ -16928,7 +16931,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "BoauKUFadqCFuX3D3S34xePWQDGFbsHXuv8dMmEmhjCQ": {
@@ -16943,7 +16947,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "AYW5jHmeJQvKQYEqqPaPGwAdFzvY4C9c2S21erDuMxmq": {
@@ -17437,7 +17442,9 @@
       "LIQUIDITY": 78,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "5JwDCs1WQ2eywMxwq2ZpuK6ZxgMitDp1j3DWZfmC7FEY": {
     "name": "The Mentor",
@@ -17450,7 +17457,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "CVEGuepHbVxwZax9kcS7PXpui4BnsRxXrzMQYCHacYD7": {
     "name": "Saying TJR 1 Million Times",
@@ -17463,7 +17472,9 @@
       "LIQUIDITY": 96,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "EckMDvVGDEHsDgNzjJSex5HMNnLrHNTWvpc3kVtnvwDm": {
     "name": "The Mentor",
@@ -17476,7 +17487,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "CMT2nrBZsLHiUbzwJAvakFAysP4E6aRW12TiMv5vhRRC": {
     "name": "Exaflopcat",
@@ -17587,6 +17600,58 @@
     "symbol": "DOGE",
     "flagged_ts": 1789940409,
     "liquidity_at_flag": 60188.678593888646,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "G7kzoLBrx6zeqU8k5i6Z3JVD6zB8t53pKhCAg4VorJ9i": {
+    "name": "Zcash Shielded Assets",
+    "symbol": "Stamp",
+    "flagged_ts": 1789941393,
+    "liquidity_at_flag": 33341.3146301757,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "8L1FZzTSxhdC9JAQbQPp7oNUvAN6bEaML9dn4K38Jg8E": {
+    "name": "QQY1000",
+    "symbol": "QQY",
+    "flagged_ts": 1789941394,
+    "liquidity_at_flag": 89191.45886732079,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "FmiFkQ2D9nZFxbgToZ9wjx6PZBVoQXQZeCeso2TKDKMb": {
+    "name": "MrBeast",
+    "symbol": "MrBeast",
+    "flagged_ts": 1789941396,
+    "liquidity_at_flag": 109444.24780783545,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "4eHwRb4vwr3UsRzgvPwjov69eTSFFzMjppNVDuqguFFh": {
+    "name": "Dogecoin",
+    "symbol": "DOGE",
+    "flagged_ts": 1789941397,
+    "liquidity_at_flag": 28737.240116250163,
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 60,
