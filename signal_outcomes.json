@@ -11895,7 +11895,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "CkK779qJPYHh4zfUMc9GAfEaoAZpy66N62M2Vw6LgCp6": {
@@ -11911,7 +11912,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "F1BQXs8RTr3pugsCddw3dGVWhfTAPhyLJpuWYpzgRZtU": {
@@ -11927,7 +11929,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "GmLqBMbe4ffg7BZjdqRh1zE5d8EzZjS7p72QjmXKpump": {
@@ -11943,7 +11946,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "A8qHuARQEZE14By6tyENFvHQMNBAiimrUG1Bjwvdweum": {
@@ -16694,7 +16698,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "B4wAknK4fxQzmwYqhyj7CiQZa9sMwQ4WMxaPtJeqbPb5": {
@@ -16709,7 +16714,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "Fx8nwJFJi8TTSXwDEjyronDEQFtkr7STkBndGD3arxhz": {
@@ -16724,7 +16730,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "3uxzNhXquXNh8Y2avyxS5CnJVrSrQSGF4Bqd8F5Nfz7X": {
@@ -17293,7 +17300,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "7ifumMxSrY45Tqj1Wtdaz9XtADiXranKVbWwMgNTpump": {
     "name": "StampPump",
@@ -17306,7 +17315,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "GVZgBj6XgZ5gzA7qmDQmmAiFtGGc2AyMCSrVfbeLpump": {
     "name": "uoaoa",
@@ -17446,6 +17457,45 @@
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "78wH86d4igne2ZmJ2A42shwZKnoyUJtfMFLY5AirPUgn": {
+    "name": "Tender",
+    "symbol": "Tender",
+    "flagged_ts": 1789939133,
+    "liquidity_at_flag": 27033.69986940051,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "Ec74hRXm5nxu26Ze9eYMEERvaDMMf2ESwrJ7u6Wz3rzN": {
+    "name": "My Dog Rufus",
+    "symbol": "RUFUS",
+    "flagged_ts": 1789939134,
+    "liquidity_at_flag": 15622.551080498652,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 78,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "5JGNsptgyW1w6za6LacKdA3PLYnxhbMVnEGbYJC4pump": {
+    "name": "Tender",
+    "symbol": "Tender",
+    "flagged_ts": 1789939135,
+    "liquidity_at_flag": 26326.410800826176,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 90,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
