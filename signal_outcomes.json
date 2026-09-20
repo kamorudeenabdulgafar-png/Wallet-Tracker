@@ -8696,7 +8696,8 @@
     "liquidity_at_flag": 26486.02717154741,
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "BM68KGsnB2GLVdoDbUMYmAtEJNBXHAzGp67tab9snPqJ": {
@@ -8706,7 +8707,8 @@
     "liquidity_at_flag": 34139.021474578345,
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "14BAp5j7Xfin8fiFzBgojffGwWEc7JuNKELFUFPExqpR": {
@@ -8716,7 +8718,8 @@
     "liquidity_at_flag": 260989.26377339353,
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "GYMhefhbnaduqaXQ4F9JRKgmUApJXGzctrUoNV45BC9H": {
@@ -8726,7 +8729,8 @@
     "liquidity_at_flag": 60358.818713281435,
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "8AtvLBuEAk7oxwL7GSkGCQPcEeSor4BP3GEM2C2YXvAb": {
@@ -13205,7 +13209,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "EeDrTCCAwiE1pLFeShrxLAzgNhBSeq71Kq6hHwwD3MdZ": {
@@ -13220,7 +13225,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "BwhZ55qWMLSGUo63jYxfxgmHh3RnzLgkBywv7KzvzaS": {
@@ -13235,7 +13241,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "BEURW6xwQ6y9qEtjwMghCyhKJPYkUAw1FhYg95mQZrdF": {
@@ -13250,7 +13257,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "FKa3hL44a4UfeNmn3FbTdRpvdh81BhLKhDtRWNTeSJDh": {
@@ -13265,7 +13273,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "BQkGdvVHVNjArFSJCP2Xfw3priqwGiEK8grrWBXTGUrK": {
@@ -13999,7 +14008,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "FJbQrgwKhiwcCwQcUJsptC3tDPFEjALMpyU3eDvmSwfn": {
     "name": "Argus",
@@ -14110,6 +14121,32 @@
     "symbol": "MCAT",
     "flagged_ts": 1789891503,
     "liquidity_at_flag": 48266.1283485936,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "8MBRpBhah1tfDAmBBVAdhWrpRCstGs6t1ZeowXwrLX4i": {
+    "name": "Argus",
+    "symbol": "ARGUS",
+    "flagged_ts": 1789892460,
+    "liquidity_at_flag": 52177.19939861786,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 75,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "5J3e5MKPeVUP5rZbh37Rs4rFq8QD7LUokZRSajcEf8gh": {
+    "name": "\u3072\u304d\u3053\u3082\u308a",
+    "symbol": "HIKIKOMORI",
+    "flagged_ts": 1789892461,
+    "liquidity_at_flag": 40024.10995788724,
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 60,
