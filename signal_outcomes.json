@@ -11198,7 +11198,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "cLHZkx5c4D3WKkL33gko1WhSiHhFA18gWVJsNh8xtV8": {
@@ -11214,7 +11215,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "FSSwAmg2gydEurUQKp8x1xuXGapho6mFazKzSooV97Mt": {
@@ -11230,7 +11232,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "AZpTkKtVsgdvMkHm8RLTEwsqpG7eMa3zwMgJebQdDdFs": {
@@ -11246,7 +11249,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "tcetsVAA8R5wED9AdF56JxmXBrLRD6tyPMhowFpBye4": {
@@ -15901,7 +15905,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "4L5XB2htxdLeiP9UqmxQ8avwugQVFHWWqWpnUam1Fv26": {
@@ -15916,7 +15921,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "7gKL4uwSdiDSNmJy9XwQmAExJ8n83mBw2tqwUQYxMdQV": {
@@ -16605,7 +16611,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "B4wAknK4fxQzmwYqhyj7CiQZa9sMwQ4WMxaPtJeqbPb5": {
     "name": "Baby Jean Phil",
@@ -16618,7 +16626,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "Fx8nwJFJi8TTSXwDEjyronDEQFtkr7STkBndGD3arxhz": {
     "name": "BITTIPS",
@@ -16631,7 +16641,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "3uxzNhXquXNh8Y2avyxS5CnJVrSrQSGF4Bqd8F5Nfz7X": {
     "name": "whimsical",
@@ -16794,6 +16806,58 @@
     "symbol": "JEANPHIL",
     "flagged_ts": 1789926822,
     "liquidity_at_flag": 43694.99556199859,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "AYW5jHmeJQvKQYEqqPaPGwAdFzvY4C9c2S21erDuMxmq": {
+    "name": "Baby Jean Phil",
+    "symbol": "BABYPHIL",
+    "flagged_ts": 1789928515,
+    "liquidity_at_flag": 30746.12258922791,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "D4sVPk2TasXL61VCw4xbqtxRBmcdEKmQGXTidVzwofFW": {
+    "name": "FNCS Coin",
+    "symbol": "FNCS",
+    "flagged_ts": 1789928516,
+    "liquidity_at_flag": 21461.12165592231,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "3jwBtX7S34HaHQw2amNpZ1qcNgyzbwH8NUXnGfeoDYH5": {
+    "name": "GrapheneOS",
+    "symbol": "GrapheneOS",
+    "flagged_ts": 1789928517,
+    "liquidity_at_flag": 52995.71261339331,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "5yRkkyW7HHUUvh6pbjtKCVvdht6sC8C2SJyG9Tj1XDrB": {
+    "name": "Autistic General Inu",
+    "symbol": "AGI",
+    "flagged_ts": 1789928519,
+    "liquidity_at_flag": 32882.47740559157,
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 60,
