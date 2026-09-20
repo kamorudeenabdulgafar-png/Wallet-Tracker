@@ -13726,7 +13726,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "4DzeSgVq8TKJkFVt9Rr2FyaRn682gBiBQ4VDMGuBq32m": {
@@ -13741,7 +13742,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "H9eLLPYy1x2tHhFG3AXPWMvdeNHHa4wkQfd45eYfMzds": {
@@ -14250,7 +14252,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "HsBHpHpFb9rSuUSB7U27qoYVRLLXRv4VA1R2gnh5e6jL": {
     "name": "Superior Inu",
@@ -14263,7 +14267,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "BoCjGbwHZdxunm7j8CtSNeQLrvUbk4wgjAYA69Rjdod5": {
     "name": "chud",
@@ -14439,6 +14445,19 @@
     "symbol": "URANUS",
     "flagged_ts": 1789897523,
     "liquidity_at_flag": 37831.278996465655,
+    "breakdown": {
+      "MOMENTUM": 97,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "2gTvNqq5wJeMY3KqWzPnRbeVZdfGE5UiGgjP1KCPThbg": {
+    "name": "BUNNY",
+    "symbol": "\ud83d\udcb2BUNNY",
+    "flagged_ts": 1789897968,
+    "liquidity_at_flag": 46861.859216937155,
     "breakdown": {
       "MOMENTUM": 97,
       "SAFETY": 60,
