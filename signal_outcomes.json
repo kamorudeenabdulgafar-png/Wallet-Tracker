@@ -9770,7 +9770,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "2s7tpat7HeGMcchHpaRKNRpvE3NVUsMRYFT9iUreWmri": {
@@ -9786,7 +9787,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "FejnLmMzcwwfRj1JqJ6mmUDPLgYDvYpfdTtf9FR93itP": {
@@ -9802,7 +9804,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "2kPo2hwxYGEboQT5xhpdP5xwRkhYtHfj5qj6MHaeXaNH": {
@@ -9818,7 +9821,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "4B9q4Qk2tG7W3knjkQsNPyourg8ipLNpZHjhoTXCpump": {
@@ -9834,7 +9838,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "PretfdhNFd1G5NP3x2Hd89aY7snFbkeN4sGKJcCUkTg": {
@@ -9850,7 +9855,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "J1eXatfCi7xFFnRgfZZLWb3X9cNpBfjmvo253tyhsM43": {
@@ -15093,7 +15099,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "HwT9cHSiSaXdtveLxCFYmVaFr1MKAHLizfjEbFgXqiGL": {
     "name": "Uranus",
@@ -15106,7 +15114,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "GQ1cnBTDoQYSbhBb5MqFmYGYTxVnjwK87zrkPjeYkcpx": {
     "name": "Claude Ai",
@@ -15119,7 +15129,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "5QBrcGPekJK5V2KHaj3Ku2FUWHxoW6ViKxhfsHrMpump": {
     "name": "Feed Me Fomo",
@@ -15349,6 +15361,32 @@
     "liquidity_at_flag": 55888.03568868661,
     "breakdown": {
       "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "Cw28K9uycxGiXgC17k1jV8gGDo4nw1fH8MSWz1jm85qc": {
+    "name": "New Olympus",
+    "symbol": "Olympus",
+    "flagged_ts": 1789907971,
+    "liquidity_at_flag": 145087.5990269918,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "HkxuXsp5fwteMiQ2YMvqSLCQEEzg6Hp1HjTZJkKdDKgo": {
+    "name": "Nasduck",
+    "symbol": "Nasduck",
+    "flagged_ts": 1789907972,
+    "liquidity_at_flag": 32506.67774182705,
+    "breakdown": {
+      "MOMENTUM": 96,
       "SAFETY": 60,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
