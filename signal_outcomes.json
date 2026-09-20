@@ -10977,7 +10977,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "Heik5FodUg5dXm5hmpspPzpSNKV69WQJbagisnwVpump": {
@@ -10993,7 +10994,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "G7nbMDorVdKNs9cy7WvSzPXQWLavS74XSfKm9LLzjUy4": {
@@ -11009,7 +11011,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "84aFBuaAPeVKoFghavbvqGfjK7iBxkC7sKCZVhuupump": {
@@ -16280,7 +16283,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "7wmuRJE5BNHWg4p1JeWwFwjo163tQtyzVqzttyGY5Hsx": {
     "name": "BUNNY",
@@ -16293,7 +16298,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "E3ZVevAkzhvnpUmp3A5dvZSghcwfu3ixXpuKe2dNYpuG": {
     "name": "arbiStocks",
@@ -16306,7 +16313,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "J6SVJSW4cMZv1KJkuDw19MqqtYXA1bGqYEEKxQtBtxgA": {
     "name": "Hotel Lobby",
@@ -16524,6 +16533,45 @@
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 100,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "77YTcEwFDxFuypsxYaYFw4D5cz4G8szEHcmTzDgd7o14": {
+    "name": "Factory new",
+    "symbol": "FN",
+    "flagged_ts": 1789924693,
+    "liquidity_at_flag": 29087.250426258826,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "B4wAknK4fxQzmwYqhyj7CiQZa9sMwQ4WMxaPtJeqbPb5": {
+    "name": "Baby Jean Phil",
+    "symbol": "BABYPHIL",
+    "flagged_ts": 1789924695,
+    "liquidity_at_flag": 35562.17271893524,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "Fx8nwJFJi8TTSXwDEjyronDEQFtkr7STkBndGD3arxhz": {
+    "name": "BITTIPS",
+    "symbol": "BITTIPS",
+    "flagged_ts": 1789924696,
+    "liquidity_at_flag": 42427.76494316475,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
