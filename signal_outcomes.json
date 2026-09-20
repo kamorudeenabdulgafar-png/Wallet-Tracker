@@ -11674,7 +11674,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "HSEkftSapfwgFqFf9o1ws6eHdUWng9q8pJkAX5TZ2xHw": {
@@ -11690,7 +11691,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "697Sn8cJovejnFSt3cd779Qw7hXsJZqvvy2zGvsJaYga": {
@@ -11706,7 +11708,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "3jUFoHhWoMbZVGQr4ANaHPMvLneRtfVYhe868vETDPLn": {
@@ -16409,7 +16412,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "BFjydHGrYf3gzb6t72ETC3kXrSsYrzVoq9PBMuhQJZtT": {
@@ -16424,7 +16428,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "CDAC33JvozJ1UjxBMkvZgJcVXoxdH9iGxeBXUJdXpump": {
@@ -16439,7 +16444,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "DSUv2xVYstEtfhesgTqdM5dY4PysupRrqzK8adUpcVZP": {
@@ -17128,7 +17134,9 @@
       "LIQUIDITY": 69,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "2j6sksYWyXi68sesbhBHd1MuPtCiNCgcmKdU98Gv83dU": {
     "name": "Claude Ai",
@@ -17141,7 +17149,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "EdchRLKdCzYBHw8L5bPyz349CbaPm1XqrThyiA5FEASa": {
     "name": "Pikachu",
@@ -17154,7 +17164,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "Hjsg8hwNBDCwS5gn3KAyoBEvzbSumsQH1mzo7MFFyYQA": {
     "name": "Baby Jean Phil",
@@ -17167,7 +17179,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "GH8d1NUnv2YRb6xUxn1LRm8B5p2uTqQFeyV1VWs8pump": {
     "name": "ZCASH CAT",
@@ -17282,6 +17296,32 @@
       "MOMENTUM": 100,
       "SAFETY": 60,
       "LIQUIDITY": 78,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "8gAATJzrFFZX2HB3DoyhfGfHvVdF2XsfvwHbCa5hVgZA": {
+    "name": "Glimpse",
+    "symbol": "GIVE",
+    "flagged_ts": 1789936242,
+    "liquidity_at_flag": 29678.39333947385,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "J7DonnMYQJcr91BKKajB6DFm1kFNGpGs7Rqwr4L3iA6Y": {
+    "name": "FluxCard",
+    "symbol": "FLUX",
+    "flagged_ts": 1789936243,
+    "liquidity_at_flag": 35095.188065224465,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
     "checkpoints_done": []
