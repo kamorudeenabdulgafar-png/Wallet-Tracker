@@ -12116,7 +12116,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "7nbkSrPUAdXHuxVPJ3eigCZ8ENYzjiK7mayzFYCGb4Qs": {
@@ -12132,7 +12133,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "2RSnd9sEt7kyLBtDr262xBNwBsgegz5qcSFtDeSkFLEX": {
@@ -17502,7 +17504,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "78wH86d4igne2ZmJ2A42shwZKnoyUJtfMFLY5AirPUgn": {
     "name": "Tender",
@@ -17654,6 +17658,58 @@
     "liquidity_at_flag": 28737.240116250163,
     "breakdown": {
       "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "Eg6rHrSaBrrcrz8ATt3uaPCoScVbhpWnsgtHbDJ6Xvyz": {
+    "name": "Shielded cat",
+    "symbol": "SCAT",
+    "flagged_ts": 1789942036,
+    "liquidity_at_flag": 31960.251287195875,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "BZRfWNggvbRk5DvUjTyucuqT1BjnUAgY2EE8Tj1cpump": {
+    "name": "Shiny Wasabi Kitty",
+    "symbol": "WASABI",
+    "flagged_ts": 1789942038,
+    "liquidity_at_flag": 51375.79497929666,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 100,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "5X7o39wuSuwqtLPWCbsjgvzYP8Fu5BqgLEcPeq4upump": {
+    "name": "PSYXPHIL",
+    "symbol": "PSYXPHIL",
+    "flagged_ts": 1789942039,
+    "liquidity_at_flag": 33886.273378555816,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 100,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "2LUnkvWNjtihdEKJvpBPMRdUTSy7tVhvhGMiSSucqL6k": {
+    "name": "Claude Ai",
+    "symbol": "claude",
+    "flagged_ts": 1789942040,
+    "liquidity_at_flag": 31704.615597090655,
+    "breakdown": {
+      "MOMENTUM": 83,
       "SAFETY": 60,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
