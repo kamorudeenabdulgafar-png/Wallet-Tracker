@@ -1,5 +1,5 @@
 {
-  "last_updated": 1789914631,
+  "last_updated": 1789915242,
   "wallets": [
     {
       "label": "Dev wallet 1",
@@ -93,6 +93,21 @@
   "learning_insight": null,
   "settings": {},
   "recent_alerts": [
+    {
+      "ts": 1789915242,
+      "type": "outcome",
+      "message": "\ud83d\udfe1 I Nuke U (INU) is holding steady so far (-8%)."
+    },
+    {
+      "ts": 1789915241,
+      "type": "outcome",
+      "message": "\ud83d\udd34 par (par) is dropping fast \u2014 down 100%, may be rugging."
+    },
+    {
+      "ts": 1789915240,
+      "type": "outcome",
+      "message": "\ud83d\udd34 Goatcoin (GOAT) is dropping fast \u2014 down 100%, may be rugging."
+    },
     {
       "ts": 1789914628,
       "type": "outcome",
@@ -327,21 +342,6 @@
       "ts": 1789911652,
       "type": "outcome",
       "message": "\ud83d\udd34 Paid (PAID) is dropping fast \u2014 down 100%, may be rugging."
-    },
-    {
-      "ts": 1789911648,
-      "type": "wallet",
-      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: MSTRx -> USDC\nTrade size: unknown\nBought token: USD Coin (USDC)\nCA: EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v\nhttps://solscan.io/tx/4fDXTemTPLeYkBAYmqxHTXGBq6crnyDdsfLgefAsKtdXdx9RLKQd9fNvn83tKpjPpiNkArfgDJtyA2FmiAypAZic"
-    },
-    {
-      "ts": 1789911647,
-      "type": "wallet",
-      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: TSLAx -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/2Rr5mHo88ajWLnDhW1C2fhgXZkFSsiqbShPPXVGVPzrpoB7XBr61UCptpzVb5tKQc93pcmNVqNGYNbJyUweTTJNM"
-    },
-    {
-      "ts": 1789911647,
-      "type": "wallet",
-      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: PONS -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/3yCKYKjhoWTQtgNUhGb6J9uuemGJn6RyNcHr7F3d1HzbzQrNqHGh9XttCZGuMCu6Rza2NwPkxwEVFeqj9PDhsh1N"
     }
   ]
 }
