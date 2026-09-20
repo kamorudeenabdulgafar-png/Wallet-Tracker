@@ -7838,7 +7838,8 @@
     "liquidity_at_flag": 25643.59311545061,
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "A6mNs9nguCHspjbqNpkiQqiDoKdyYJ11Fkb7xEzXpump": {
@@ -7848,7 +7849,8 @@
     "liquidity_at_flag": 21207.899180643257,
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "8SpUDdRbVgTCGWbNJrRYxDgaikka9JVG1gsVTRuhTHjD": {
@@ -7858,7 +7860,8 @@
     "liquidity_at_flag": 34628.03987215353,
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "CjtxpmhGyHMhdN5MmS7vooYbDVi6utNz5DxJVjF8bjoZ": {
@@ -7868,7 +7871,8 @@
     "liquidity_at_flag": 11161.714800382751,
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "FwJNkgud84vQNq3zPycwhD6RAqSTP43f9HiVyKwJpump": {
@@ -12039,7 +12043,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "8wh8UE7PD9o6c8Qu8whTpVcgkNBkKu3R5wu25xFKmMuS": {
@@ -12054,7 +12059,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "4htjusK8sBXXpGmcnbTmQHCRTFoh4fSwQryWEnTmpump": {
@@ -12069,7 +12075,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "8h4CNjYqV2jtewVvBw7v8DVmC8j6tE8uD5RYHrRVpump": {
@@ -12533,7 +12540,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "14NLdbmXCtSkiYPA3ULaDpSJLYAXtdh1dFLBnaNJnmbV": {
     "name": "Wibbo",
@@ -12546,7 +12555,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "55sY3H1WGACHxiVqjrobZhVXCmREsjoJxgGjRSZBVr9y": {
     "name": "Wibbo",
@@ -12559,7 +12570,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "FoNfSaFXH93ipvcuBCSjNQQyBx9JCRuzSF7KAfL889LF": {
     "name": "Wibbo",
@@ -12572,7 +12585,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "BEHA1wDzBRamQ1FtoAS1YK8kMFpZibCFKXriPpdXHFaQ": {
     "name": "xPad",
@@ -12709,6 +12724,58 @@
     "symbol": "WIBBO",
     "flagged_ts": 1789873522,
     "liquidity_at_flag": 30957.339342638552,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "2PPL5P7iiHMFvZLe6xzq3mzUaAH8mdQ2NN8z7pLKpump": {
+    "name": "Starw",
+    "symbol": "Starw",
+    "flagged_ts": 1789874437,
+    "liquidity_at_flag": 30740.735951886225,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 100,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "5cQVokcVcUsDVxPbWpyKVoQdtjxFsZkFevK1GNvtpump": {
+    "name": "WIFCASH",
+    "symbol": "WIFCASH",
+    "flagged_ts": 1789874439,
+    "liquidity_at_flag": 31947.053605909983,
+    "breakdown": {
+      "MOMENTUM": 49,
+      "SAFETY": 100,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "FBTaEdyN2VJ4Lw5S93UkPtchEBjjYENYH2ND6esYfNoC": {
+    "name": "Extreme Inu",
+    "symbol": "EI",
+    "flagged_ts": 1789874439,
+    "liquidity_at_flag": 43349.39366182593,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 100,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "2UUC5FxgJ7s8mLsz5wGSXs4sd8WmggbB9r6E6tVS234N": {
+    "name": "\u5409\u7530\u30dd\u30c3\u30dd",
+    "symbol": "\u5409\u7530\u30dd\u30c3\u30dd",
+    "flagged_ts": 1789874440,
+    "liquidity_at_flag": 21132.147628811806,
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 60,
