@@ -8575,7 +8575,8 @@
     "liquidity_at_flag": 34191.65524939635,
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "HLC3tBurM8bHr928FtW5wbArHFiGHHg9iozCcYBXA3LM": {
@@ -8585,7 +8586,8 @@
     "liquidity_at_flag": 31036.709218881184,
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "2TqMkSTqMpxACay3j8Cjt7uqUAWTG8HYqwWJ3xmbpump": {
@@ -8595,7 +8597,8 @@
     "liquidity_at_flag": 14810.039865850598,
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "ERLuKw9V2TVZ8rph6nB1vu7fABtGg6dTgwsgLbGApump": {
@@ -8605,7 +8608,8 @@
     "liquidity_at_flag": 27588.170620465025,
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "AE7CTgcBu4Ggwm2FtcpL3sUNB4WcCzeXUgu8rvkPdUa": {
@@ -8615,7 +8619,8 @@
     "liquidity_at_flag": 254440.0347260738,
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "F3Q793wvmnk17StiiSUhQe8Xr1n5P1wzRsL47JsaSr3j": {
@@ -12858,7 +12863,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "2PPL5P7iiHMFvZLe6xzq3mzUaAH8mdQ2NN8z7pLKpump": {
@@ -13682,7 +13688,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "FmA8XskCAFUbpf9ArpwB5d9Hvb7iXme87TH52gdDqp7n": {
     "name": "The Anxious Pigeon",
@@ -13695,7 +13703,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "3YDZWi7mvEtaACVhc5XCiMhPj88iCY8BSYRMh84rGjUn": {
     "name": "NVIDIA",
@@ -13708,7 +13718,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "4jDjBfnKgXv3Co8hsJMTFoZNttKmSeKPMuAy15RyLGDB": {
     "name": "\u725b\u67652\uff1a\u8d77\u822a",
@@ -13721,7 +13733,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "2vDwcWVXbFdJC2c8zSLVX9tuZKycaABWjBSxUZbViAar": {
     "name": "Binance Square Paid",
@@ -13913,6 +13927,19 @@
     "breakdown": {
       "MOMENTUM": 43,
       "SAFETY": 100,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "DNadh4nAv8de5iUemipwkVGFADAqDNzaeYNPXDA6brb3": {
+    "name": "Uranus",
+    "symbol": "URANUS",
+    "flagged_ts": 1789888764,
+    "liquidity_at_flag": 38067.05702423259,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
