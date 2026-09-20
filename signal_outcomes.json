@@ -9685,7 +9685,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "J1FRQZoNH62eWNTavDdGScFryNzyTdLth7cM8UZbpump": {
@@ -9701,7 +9702,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "6szgsBTqbUGEnwTBE46XUYW37GnyGLW6c7LosejzNW6H": {
@@ -14244,7 +14246,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "EEdcTKwQMtg6TUu2zoJhP79mYJksgYprxesXwuiPJphn": {
@@ -14259,7 +14262,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "4MCxhYhnViT6fsxj5dCXehzZ8415Tbx8epxW2UfbrJu6": {
@@ -14858,7 +14862,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "B5UtCBNek6gZdvcbe8n4ZYAx3GQUb3mpeqWbgnmksMC4": {
     "name": "Truman World",
@@ -14871,7 +14877,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "9YzSXawPRLofkZ3oNcdJBCWaooaYZqSJbiXicjeopump": {
     "name": "CROCO",
@@ -14884,7 +14892,9 @@
       "LIQUIDITY": 90,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "Eiks1GFZHpnNFZMDcA9Mv5omULNhdn4q7fknd1Nvpump": {
     "name": "Leopardus Retard",
@@ -14897,7 +14907,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "A8cAEptAa5jWcZMMe9E1J86FdyEsRPspWTkYzf6jzy7L": {
     "name": "BUNNY",
@@ -14910,7 +14922,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "4caRGfrqaZupu9o1bKSDsEEN6bdxj9CphWa7mQGdZXXX": {
     "name": "Truman World",
@@ -14923,7 +14937,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "DajNktfWQuQknaVER7ub23ZvLyQTFH3uzbPnX1tmjUs7": {
     "name": "SpaceX",
@@ -14936,7 +14952,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "EJ49wSkF2U7p6cix1UMTH2dLR13DtwTriLpQgxAjpump": {
     "name": "Robin the Jean Phil",
@@ -15164,6 +15182,32 @@
     "symbol": "MCAT",
     "flagged_ts": 1789904885,
     "liquidity_at_flag": 34135.68093333366,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "6L8d4KaZYTuG8xkhnMUnoqcD8ujaCfs6d4Mxn4nc2dLQ": {
+    "name": "\u53f0\u5317101\u5927\u53a6",
+    "symbol": "101\u5927\u53a6",
+    "flagged_ts": 1789905298,
+    "liquidity_at_flag": 40069.6849480137,
+    "breakdown": {
+      "MOMENTUM": 98,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "5tpxYN4ycBUCUuu56tUTcZaRWA8zE366FcEzsqCNbXhd": {
+    "name": "Da huang",
+    "symbol": "\u5927\u9ec4",
+    "flagged_ts": 1789905299,
+    "liquidity_at_flag": 25872.76410933046,
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 60,
