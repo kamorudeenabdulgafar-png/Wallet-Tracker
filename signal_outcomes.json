@@ -11300,7 +11300,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "DjZmCfVkPHYCGuNveFH5JHkEJZob83LjHMi4uw1iwgiS": {
@@ -11316,7 +11317,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "Gt18pGJTwPADrTDBECgLQCoRes8F59La1do3ztbGs3Hf": {
@@ -15955,7 +15957,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "ARWSiZ8SLYMjJVxVtmTvHci87GUw149gQ9TgDgKNTNd2": {
@@ -15970,7 +15973,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "Cy9Je1QAQZUiXMH4cJ3GY32QLamCv3cSwFfHRd6cH4r7": {
@@ -15985,7 +15989,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "3xUdK3H1Uh4T6cBEyAQGMkEPgcoqfB5fTChNRPzXR97S": {
@@ -16000,7 +16005,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "974HWs7SERGFFuyHmmdANqA8g5SAAMj2HHzvBiz3wN2D": {
@@ -16015,7 +16021,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "FFczgQUsGQYoPgKDXiJzExVZ3wvxjP8bZg5CFJo4SPF3": {
@@ -16824,7 +16831,9 @@
       "LIQUIDITY": 66,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "BoauKUFadqCFuX3D3S34xePWQDGFbsHXuv8dMmEmhjCQ": {
     "name": "Jean Phil",
@@ -16837,7 +16846,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "AYW5jHmeJQvKQYEqqPaPGwAdFzvY4C9c2S21erDuMxmq": {
     "name": "Baby Jean Phil",
@@ -16964,6 +16975,58 @@
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "G1y2Kv1qpSvAL21hHqFzomwUBiabj253kPwVZJu8DjZ7": {
+    "name": "Zcash Shielded Assets",
+    "symbol": "Stamp",
+    "flagged_ts": 1789930505,
+    "liquidity_at_flag": 36298.51244734002,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "B1G9fsSoxCViC5Ue9XqcmDC3FLFaDRGCVD6Q6ZA3zRyj": {
+    "name": "Zcash Shielded Assets",
+    "symbol": "Stamp",
+    "flagged_ts": 1789930506,
+    "liquidity_at_flag": 37550.62434662442,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "4kR3GJMPduokHwDE7nn81PfuVQ995dHeptMGpdszKA6v": {
+    "name": "Zebra",
+    "symbol": "Zebra",
+    "flagged_ts": 1789930507,
+    "liquidity_at_flag": 50373.56718351993,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 50,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "EKtmPPLaCbEEKiwoHHtV7TsRsmPXs5CMGtQtZFSiinsc": {
+    "name": "Zcash Shielded Assets",
+    "symbol": "Stamp",
+    "flagged_ts": 1789930508,
+    "liquidity_at_flag": 178454.9758419681,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 100,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },

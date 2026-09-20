@@ -1,13 +1,5 @@
 [
   {
-    "name": "Pumpdog",
-    "symbol": "PDOG",
-    "category": "rug",
-    "change_pct": -100.0,
-    "breakdown": null,
-    "ts": 1789846455
-  },
-  {
     "name": "TartSwap",
     "symbol": "TART",
     "category": "rug",
@@ -2903,5 +2895,18 @@
       "SMART MONEY": 0
     },
     "ts": 1789929483
+  },
+  {
+    "name": "starXSA",
+    "symbol": "XSA",
+    "category": "rug",
+    "change_pct": -100.0,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "ts": 1789930510
   }
 ]
