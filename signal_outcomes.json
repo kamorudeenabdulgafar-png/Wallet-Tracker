@@ -7508,7 +7508,8 @@
     "liquidity_at_flag": 59148.84897295221,
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "4q726UjuYgKjChXkKt7RPLuYRzQ1HVQBnpPLKaL9nAbM": {
@@ -7518,7 +7519,8 @@
     "liquidity_at_flag": 43301.80856657389,
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "GaLegzK4bHUdDM5hjYkv9mPGi2YvvfnqbhAva49FCgTf": {
@@ -11577,7 +11579,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "CkK779qJPYHh4zfUMc9GAfEaoAZpy66N62M2Vw6LgCp6": {
@@ -11592,7 +11595,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "F1BQXs8RTr3pugsCddw3dGVWhfTAPhyLJpuWYpzgRZtU": {
@@ -11607,7 +11611,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "GmLqBMbe4ffg7BZjdqRh1zE5d8EzZjS7p72QjmXKpump": {
@@ -11622,7 +11627,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "A8qHuARQEZE14By6tyENFvHQMNBAiimrUG1Bjwvdweum": {
@@ -12279,6 +12285,32 @@
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "Hk68Xc3uthcwEPHB8gzGFaMWu7YoXWmijLfKTkCVM548": {
+    "name": "Exhale",
+    "symbol": "\ud83d\udcb2Exhale",
+    "flagged_ts": 1789867188,
+    "liquidity_at_flag": 52394.117350055014,
+    "breakdown": {
+      "MOMENTUM": 83,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "3U3ANBLHQXck6DiMMAaSAGJvfLugyfN6mGNKtwPjLHJH": {
+    "name": "ARK",
+    "symbol": "ARK",
+    "flagged_ts": 1789867189,
+    "liquidity_at_flag": 39913.92531655569,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 100,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
