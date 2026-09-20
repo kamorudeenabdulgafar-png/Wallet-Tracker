@@ -12150,7 +12150,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "GDgU2A3RpuhyL7BEEHJumaZxVh6BUXMcXNBgyjUHdfbN": {
@@ -17519,7 +17520,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "Ec74hRXm5nxu26Ze9eYMEERvaDMMf2ESwrJ7u6Wz3rzN": {
     "name": "My Dog Rufus",
@@ -17532,7 +17535,9 @@
       "LIQUIDITY": 78,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "5JGNsptgyW1w6za6LacKdA3PLYnxhbMVnEGbYJC4pump": {
     "name": "Tender",
@@ -17545,7 +17550,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "EqFG72Z35r8cAV8mKu3UK2L8NUTR1ZNyMr88E4BnwN8Q": {
     "name": "Zebra",
@@ -17712,6 +17719,32 @@
       "MOMENTUM": 83,
       "SAFETY": 60,
       "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "dzrUW41KVcui9bZ9og6QmYCs5MPTgThB9eCqzcjF6Nt": {
+    "name": "Zcash Shielded Assets",
+    "symbol": "Stamp",
+    "flagged_ts": 1789942810,
+    "liquidity_at_flag": 231418.64878364227,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "D3hCN3TqZfew8MZtorLSa1VcnghxEchvyrXWrG6Q8yac": {
+    "name": "mediapad",
+    "symbol": "mediapad",
+    "flagged_ts": 1789942811,
+    "liquidity_at_flag": 16444.35320009245,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 82,
       "SMART MONEY": 0
     },
     "checkpoints_done": []

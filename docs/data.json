@@ -1,5 +1,5 @@
 {
-  "last_updated": 1789942043,
+  "last_updated": 1789942814,
   "wallets": [
     {
       "label": "Dev wallet 1",
@@ -10,7 +10,7 @@
     "5CEbueQnq1Ym2uSSx2xXds3jQAqT1BDnkA59RZobSPAG": {
       "label": "Dev wallet 1",
       "buy_count": 233,
-      "sell_count": 157,
+      "sell_count": 158,
       "total_buy_usd": 15274.245507115205,
       "total_sell_usd": 0.0,
       "tokens_traded": [
@@ -66,7 +66,7 @@
         "suifhC9gU1VbJAPYPTBkHJyyyStKGLLYPVDTmPoqbvA",
         "USD1ttGY1N17NEEHLmELoaybftRBUSErhqYiQzvEmuB"
       ],
-      "last_active": 1789940404,
+      "last_active": 1789942808,
       "positions": {},
       "realized_pnl_usd": 0.0
     }
@@ -85,7 +85,7 @@
     "count": 2835,
     "up_count": 613,
     "total_change_pct": -155586.29928175083,
-    "rug": 432,
+    "rug": 433,
     "doing_well": 4,
     "steady": 3,
     "fading": 4
@@ -93,6 +93,46 @@
   "learning_insight": null,
   "settings": {},
   "recent_alerts": [
+    {
+      "ts": 1789942814,
+      "type": "outcome",
+      "message": "\ud83d\udd34 Tender (Tender) is dropping fast \u2014 down 65%, may be rugging."
+    },
+    {
+      "ts": 1789942813,
+      "type": "outcome",
+      "message": "\ud83d\udd34 My Dog Rufus (RUFUS) is dropping fast \u2014 down 100%, may be rugging."
+    },
+    {
+      "ts": 1789942813,
+      "type": "outcome",
+      "message": "\ud83d\udd34 Tender (Tender) is dropping fast \u2014 down 100%, may be rugging."
+    },
+    {
+      "ts": 1789942812,
+      "type": "outcome",
+      "message": "\ud83d\udd34 Black Box (JEV) turned out to be a rug \u2014 liquidity dropped 71% over 24h."
+    },
+    {
+      "ts": 1789942811,
+      "type": "scanner",
+      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\nmediapad (mediapad)\nOpportunity: 72/100\n\nMOMENTUM     100\nSAFETY       60\nLIQUIDITY    82\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$16,444, 9 min since pool creation\n\u2022 Up +90% in the last hour, ~$226,230 in 24h volume (13.8x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 93% of supply (very concentrated)\n\nCA: D3hCN3TqZfew8MZtorLSa1VcnghxEchvyrXWrG6Q8yac\nhttps://dexscreener.com/solana/D3hCN3TqZfew8MZtorLSa1VcnghxEchvyrXWrG6Q8yac\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
+    },
+    {
+      "ts": 1789942810,
+      "type": "scanner",
+      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\nZcash Shielded Assets (Stamp)\nOpportunity: 76/100\n\nMOMENTUM     100\nSAFETY       60\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$231,419, 8 min since pool creation\n\u2022 Up +241% in the last hour, ~$270,870 in 24h volume (1.2x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 95% of supply (very concentrated)\n\nCA: dzrUW41KVcui9bZ9og6QmYCs5MPTgThB9eCqzcjF6Nt\nhttps://dexscreener.com/solana/dzrUW41KVcui9bZ9og6QmYCs5MPTgThB9eCqzcjF6Nt\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
+    },
+    {
+      "ts": 1789942808,
+      "type": "wallet",
+      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: PONS -> USDC\nTrade size: unknown\nBought token: USD Coin (USDC)\nCA: EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v\nhttps://solscan.io/tx/2a9w8zs5oCS3cqHXaFX9hoKdPDdvN5LxLbwF4sTVzcaTEQRs1RnzfH1tJ4yGTr5ZyBGrxKJcEed77RsEREyDMFgR"
+    },
+    {
+      "ts": 1789942808,
+      "type": "wallet",
+      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: DOGE -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/4791PsUBnPH2vtQqEzNGqZ8AbrD95735N8GzDZtrsND62nDwYQwLBNMkAPn99VbkEqUANyvYAWreKaaPZJQmdsJj"
+    },
     {
       "ts": 1789942043,
       "type": "outcome",
@@ -302,46 +342,6 @@
       "ts": 1789939801,
       "type": "outcome",
       "message": "\ud83d\udd34 whimsical (WHIMSICAL) is dropping fast \u2014 down 71%, may be rugging."
-    },
-    {
-      "ts": 1789939800,
-      "type": "outcome",
-      "message": "\ud83d\udd34 Exhale (\ud83d\udcb2Exhale) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
-    },
-    {
-      "ts": 1789939799,
-      "type": "outcome",
-      "message": "\ud83d\udd34 Bogdanoff (Bogdanoff) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
-    },
-    {
-      "ts": 1789939798,
-      "type": "outcome",
-      "message": "\ud83d\udd34 Social Capital (SCAP) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
-    },
-    {
-      "ts": 1789939797,
-      "type": "outcome",
-      "message": "\ud83d\udd34 TIPPED (TIPPED) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
-    },
-    {
-      "ts": 1789939795,
-      "type": "scanner",
-      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 STRONG\nDogecoin (DOGE)\nOpportunity: 86/100\n\nMOMENTUM     100\nSAFETY       90\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$28,194, 11 min since pool creation\n\u2022 Up +213% in the last hour, ~$241,314 in 24h volume (8.6x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Low, 10/100):\n\u2022 top 10 holders own 35% of supply\n\nCA: BJ9mPPkCqnMisMiv7JQW7MJ2fgDyjm9udmwHZuJ2YcTf\nhttps://dexscreener.com/solana/BJ9mPPkCqnMisMiv7JQW7MJ2fgDyjm9udmwHZuJ2YcTf\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
-    },
-    {
-      "ts": 1789939794,
-      "type": "scanner",
-      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 STRONG\nZebra (ZEBRA)\nOpportunity: 86/100\n\nMOMENTUM     100\nSAFETY       90\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$30,368, 9 min since pool creation\n\u2022 Up +186% in the last hour, ~$172,187 in 24h volume (5.7x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Low, 10/100):\n\u2022 top 10 holders own 37% of supply\n\nCA: EqFG72Z35r8cAV8mKu3UK2L8NUTR1ZNyMr88E4BnwN8Q\nhttps://dexscreener.com/solana/EqFG72Z35r8cAV8mKu3UK2L8NUTR1ZNyMr88E4BnwN8Q\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
-    },
-    {
-      "ts": 1789939146,
-      "type": "outcome",
-      "message": "\ud83d\udd34 StampPump (StampPump) is dropping fast \u2014 down 92%, may be rugging."
-    },
-    {
-      "ts": 1789939145,
-      "type": "outcome",
-      "message": "\ud83d\udd34 Shitcoin Futures Exchange (STX) is dropping fast \u2014 down 100%, may be rugging."
     }
   ]
 }
