@@ -7904,7 +7904,8 @@
     "liquidity_at_flag": 179528.2876356243,
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "HP6zvyWsFpXgc6uh7hGRc2WoUN8s3PoGrTagwmst3psP": {
@@ -7914,7 +7915,8 @@
     "liquidity_at_flag": 34185.33944651289,
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "oKDioxX65o8Mfa5WKZ2QeHkBbf9shUjfsRKC7LGjc4r": {
@@ -7924,7 +7926,8 @@
     "liquidity_at_flag": 30354.715697509982,
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "7Pzw35ogGEHiwhEubhfxcidAsy68xxPDFanh9TwMv7Ds": {
@@ -12189,7 +12192,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "A5PEzt5SCmwYLaD4JRKa9ba5vvsWcizX34WYePMdhz1s": {
@@ -12683,7 +12687,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "F1MGBFJtWUQkobURdsfbfuyekR3NbFxkMQk6KCzw47pS": {
     "name": "xPad",
@@ -12696,7 +12702,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "BKda3ap94znK2UEGRQg37myyAJu1vZM6LuS1eLbFuD11": {
     "name": "Google",
@@ -12898,6 +12906,45 @@
     "symbol": "PAID",
     "flagged_ts": 1789875446,
     "liquidity_at_flag": 27700.935921214703,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "3WS6qASJtojatGFtMAHpXkJM2gEHYdhqm51GFgZnpump": {
+    "name": "RIP Q50",
+    "symbol": "RIPQ",
+    "flagged_ts": 1789876032,
+    "liquidity_at_flag": 106419.35200436154,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "HfqQefkCoYtXekvyPuKbPuaWAsswncZzuq6cKXBpr31": {
+    "name": "MEMESTRATEGY",
+    "symbol": "MSTR",
+    "flagged_ts": 1789876033,
+    "liquidity_at_flag": 26451.12194153038,
+    "breakdown": {
+      "MOMENTUM": 91,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "AQoymGAEG2HWNHeGkeh2CwkZnL8Gd27q4YhMfhRaSCZr": {
+    "name": "Starlink Cat 5",
+    "symbol": "CAT5",
+    "flagged_ts": 1789876034,
+    "liquidity_at_flag": 26435.968884809467,
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 60,
