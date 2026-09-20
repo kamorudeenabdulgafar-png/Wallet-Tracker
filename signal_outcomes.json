@@ -10059,7 +10059,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "97JcKgXL3DZQP9vX4ZZT6h93qgemtnipV1qdPtddo9V4": {
@@ -10075,7 +10076,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "F2bsnFnXNd7QG9DovvxVU1bFF4C7iB2WtPFwrBtDcXfk": {
@@ -14474,7 +14476,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "7Xwn1uBT2sQ9ijasxsBsFVU5QxhNjMEXvT5V2mpVvpuh": {
@@ -14489,7 +14492,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "2hiEhokQipFz3gEeW2evgQ1qfToKBNLkKk52zU7H99js": {
@@ -15343,7 +15347,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "9KNFTFkrLCAzKcazG8EPeiMoUAD3bYnhPuFXxy1PucuB": {
     "name": "New Olympus",
@@ -15356,7 +15362,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "AX3uw5mqen3WqKaakVUHsdN9oxUhePLoxyP86gZwaDA8": {
     "name": "Nuclear War Is Bad For Kittens",
@@ -15369,7 +15377,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "AoxhdnKAiRMZ7q6cxFKrUZb5Af7nB9BFadrKTXvPNktS": {
     "name": "Uranus",
@@ -15382,7 +15392,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "5kawmnYpiJ21q9J2SkmSJNFef7CngfDHePrSNKUz2mVf": {
     "name": "\u53f0\u5317101\u5927\u53a6",
@@ -15395,7 +15407,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "SX6VW2n2BQEiKJWH98wanM2g6ss8rEgMzCkUPBZ4bNV": {
     "name": "Nuclear War Is Bad For Kittens",
@@ -15408,7 +15422,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "Cw28K9uycxGiXgC17k1jV8gGDo4nw1fH8MSWz1jm85qc": {
     "name": "New Olympus",
@@ -15587,6 +15603,45 @@
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 75,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "54R1YkfCprRmypPFtayh1zXMi6RYZA7ZLZaMU6drfsLB": {
+    "name": "Beluga",
+    "symbol": "BELUGA",
+    "flagged_ts": 1789911009,
+    "liquidity_at_flag": 16019.191632599193,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 80,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "3e1b7wkvG53CESU2YzowSzdedDLeQMueFrzKvRRGefuN": {
+    "name": "Beluga",
+    "symbol": "BELUGA",
+    "flagged_ts": 1789911010,
+    "liquidity_at_flag": 13707.689440154443,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 69,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "FeBmp2SVtWW7ty98L4z6HNo9Kt67WrLUgWEX1bZEgE1U": {
+    "name": "\u0424\u043e\u043a\u0441\u0438",
+    "symbol": "Foxi",
+    "flagged_ts": 1789911012,
+    "liquidity_at_flag": 53214.996790877645,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
