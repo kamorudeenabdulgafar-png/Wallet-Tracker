@@ -8146,7 +8146,8 @@
     "liquidity_at_flag": 24912.4744367004,
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "9MaEtD1haLYXQXvcAKma3j2bMgbFzpBrG53sqXLrXhr": {
@@ -8156,7 +8157,8 @@
     "liquidity_at_flag": 117342.98906972996,
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "STk8VivCuv4bGC7YfXbnwpr3Cv7Eqmw6VzB19wBgjBG": {
@@ -8166,7 +8168,8 @@
     "liquidity_at_flag": 161482.6980838442,
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "8nxCSPxnEME2Lzq73LouXsND37TLi4L9iBmFxNK5PTKB": {
@@ -8176,7 +8179,8 @@
     "liquidity_at_flag": 41463.59976017187,
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "5WhchLwha9gBZYUuLGhqdLLRBWRYyffMGysZog8f8Qg6": {
@@ -13302,6 +13306,45 @@
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 75,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "VcD3NHLewdH5eycBBfexuBz1upieNvuCfcKd9n3M92C": {
+    "name": "Seed",
+    "symbol": "SEED",
+    "flagged_ts": 1789880123,
+    "liquidity_at_flag": 19804.296300992955,
+    "breakdown": {
+      "MOMENTUM": 83,
+      "SAFETY": 90,
+      "LIQUIDITY": 99,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "3DxAakBxaqzM7wLBNC3qrkq8Cr6LPAowVaL7CKwrjnRF": {
+    "name": "Tesla",
+    "symbol": "TSLA",
+    "flagged_ts": 1789880124,
+    "liquidity_at_flag": 89589.01184640956,
+    "breakdown": {
+      "MOMENTUM": 90,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "AYSuhVpQVi945FS77aXQQUswDB62CYjdRnhoCE6cmGb7": {
+    "name": "Pepe",
+    "symbol": "Pepe",
+    "flagged_ts": 1789880125,
+    "liquidity_at_flag": 36594.16498010422,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 100,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
