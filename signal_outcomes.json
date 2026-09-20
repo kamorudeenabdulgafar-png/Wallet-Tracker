@@ -12354,7 +12354,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "8wh8UE7PD9o6c8Qu8whTpVcgkNBkKu3R5wu25xFKmMuS": {
@@ -12370,7 +12371,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "4htjusK8sBXXpGmcnbTmQHCRTFoh4fSwQryWEnTmpump": {
@@ -12386,7 +12388,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "8h4CNjYqV2jtewVvBw7v8DVmC8j6tE8uD5RYHrRVpump": {
@@ -17726,7 +17729,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "BZRfWNggvbRk5DvUjTyucuqT1BjnUAgY2EE8Tj1cpump": {
     "name": "Shiny Wasabi Kitty",
@@ -17739,7 +17744,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "5X7o39wuSuwqtLPWCbsjgvzYP8Fu5BqgLEcPeq4upump": {
     "name": "PSYXPHIL",
@@ -17752,7 +17759,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "2LUnkvWNjtihdEKJvpBPMRdUTSy7tVhvhGMiSSucqL6k": {
     "name": "Claude Ai",
@@ -17765,7 +17774,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "dzrUW41KVcui9bZ9og6QmYCs5MPTgThB9eCqzcjF6Nt": {
     "name": "Zcash Shielded Assets",
@@ -17889,6 +17900,32 @@
     "symbol": "DUMBCOIN",
     "flagged_ts": 1789945478,
     "liquidity_at_flag": 44237.517960213576,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "nBt6Te4BQR2AoDi1J2e8WWNNbPS2Xy4FNjzGC4cpump": {
+    "name": "STONKSOL",
+    "symbol": "STONKSOL",
+    "flagged_ts": 1789946295,
+    "liquidity_at_flag": 18350.875207271456,
+    "breakdown": {
+      "MOMENTUM": 70,
+      "SAFETY": 100,
+      "LIQUIDITY": 92,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "9ijCpBcFpgHJn3UXi3dSVqTrxAV2q69g8Wo1HnijoeRV": {
+    "name": "Dumb meme coin",
+    "symbol": "DUMBCOIN",
+    "flagged_ts": 1789946296,
+    "liquidity_at_flag": 45606.59001005755,
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 60,
