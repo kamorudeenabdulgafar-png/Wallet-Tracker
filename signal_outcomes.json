@@ -16948,7 +16948,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "C4LVDXiAV9yqzjzDCbeKXzaJJ4Y3QcQP3p23jYyDyVCM": {
     "name": "Zebra Rooster Chicken",
@@ -16961,7 +16963,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "5rY4PABP7PnGJkWm4Sg9d7CsRNpV5FuDJWgUMR8UqtXh": {
     "name": "tyler Raw Fund",
@@ -16974,7 +16978,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "58ZQiM8yMbWCNpZUytm6b6RiVNE8mzcFXFGCWrGkDhgV": {
     "name": "sat",
@@ -16987,7 +16993,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "FonX8Qiw7G6Ce1rziiZckDDEorB3SJPEqcKdAoGdrJ7s": {
     "name": "sat",
@@ -17000,7 +17008,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "29tqSqnjVGgjqGr7tsE4VHgLjARQNL8UrBqzbvWLSoSc": {
     "name": "ForbiddenHQ",
@@ -17013,7 +17023,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "G1y2Kv1qpSvAL21hHqFzomwUBiabj253kPwVZJu8DjZ7": {
     "name": "Zcash Shielded Assets",
@@ -17124,6 +17136,45 @@
     "symbol": "BABYPHIL",
     "flagged_ts": 1789932389,
     "liquidity_at_flag": 29193.42971049268,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "GH8d1NUnv2YRb6xUxn1LRm8B5p2uTqQFeyV1VWs8pump": {
+    "name": "ZCASH CAT",
+    "symbol": "ZCASHCAT",
+    "flagged_ts": 1789933376,
+    "liquidity_at_flag": 17389.600088797146,
+    "breakdown": {
+      "MOMENTUM": 73,
+      "SAFETY": 90,
+      "LIQUIDITY": 87,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "5cfpcH6HQyHwqwB1oax4aQg17y3wKZyCuQ4UBsuJpump": {
+    "name": "FOMONKEY",
+    "symbol": "FOMONKEY",
+    "flagged_ts": 1789933377,
+    "liquidity_at_flag": 40239.68127177563,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 100,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "BtVY2opo73k9CDey2bNNFB2e9B3uA49xeienzVwi3suk": {
+    "name": "Zcash Shielded Assets",
+    "symbol": "Stamp",
+    "flagged_ts": 1789933377,
+    "liquidity_at_flag": 55084.542987970184,
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 60,
