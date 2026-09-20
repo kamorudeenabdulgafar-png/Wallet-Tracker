@@ -7343,7 +7343,8 @@
     "liquidity_at_flag": 24986.692337861416,
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "2jjXDQGaH57fmr9JvssrKffQxuwZsg7cBpEvzCXawoKJ": {
@@ -7353,7 +7354,8 @@
     "liquidity_at_flag": 31413.443599394206,
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "Jaf4YZwHD3X4KAZN82RkR9hBUZo3AoUJ21zvS1zCMsX": {
@@ -7363,7 +7365,8 @@
     "liquidity_at_flag": 235768.20812789068,
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "CZJ5qSEzZdPpF2WmUh1DraL1CcnDMK8q7QfD7ACTcZSK": {
@@ -7373,7 +7376,8 @@
     "liquidity_at_flag": 35708.78213581577,
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "YKuByrHAHAarEpdYijKo1vB2GoCi8AXwFmNmeQWUVhX": {
@@ -7383,7 +7387,8 @@
     "liquidity_at_flag": 47331.01551612039,
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "8r26dyaSS7QCQEADVeMyw5CtqxuEEp7QZdo56aZSsbGo": {
@@ -11354,7 +11359,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "HSEkftSapfwgFqFf9o1ws6eHdUWng9q8pJkAX5TZ2xHw": {
@@ -11369,7 +11375,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "697Sn8cJovejnFSt3cd779Qw7hXsJZqvvy2zGvsJaYga": {
@@ -11384,7 +11391,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "3jUFoHhWoMbZVGQr4ANaHPMvLneRtfVYhe868vETDPLn": {
@@ -11953,7 +11961,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "8wh8UE7PD9o6c8Qu8whTpVcgkNBkKu3R5wu25xFKmMuS": {
     "name": "Doogle",
@@ -11966,7 +11976,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "4htjusK8sBXXpGmcnbTmQHCRTFoh4fSwQryWEnTmpump": {
     "name": "Claimr",
@@ -11979,7 +11991,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "8h4CNjYqV2jtewVvBw7v8DVmC8j6tE8uD5RYHrRVpump": {
     "name": "PayBox",
@@ -11992,7 +12006,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "776KjhF1b5jcewYN46gmk7HbsfqghUWUNPwxhdTcsump": {
     "name": "Jean Phil",
@@ -12005,7 +12021,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "2R2r5yWodQZRHhqw6sLSesmNozsqtKBaH16qc3bBnjpZ": {
     "name": "TryStack",
@@ -12018,7 +12036,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "CWigYrZ47rFD8hucu8qG3YmWffVAegZTaKw12ZveXump": {
     "name": "fomo pay",
@@ -12120,6 +12140,71 @@
       "MOMENTUM": 100,
       "SAFETY": 90,
       "LIQUIDITY": 91,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "G9Cy1GrAj1NRsi9xYMGfgNQFZyYyEZZr66FNYGLnpump": {
+    "name": "pay with fomo",
+    "symbol": "paymo",
+    "flagged_ts": 1789864170,
+    "liquidity_at_flag": 28722.57590099329,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 100,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "EdZqj8ik9BwwPSBvvZegBnnMkZwczf3XhyipzxQ7Q8G4": {
+    "name": "PumpPay",
+    "symbol": "PumpPay",
+    "flagged_ts": 1789864170,
+    "liquidity_at_flag": 61924.783036448825,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "3tUn8dGmDceJ9pCwFLUVo2jkD6FLWaZ78YEpAa3bpump": {
+    "name": "dogwifclaimr",
+    "symbol": "dogwifclaimr",
+    "flagged_ts": 1789864172,
+    "liquidity_at_flag": 38839.89990810729,
+    "breakdown": {
+      "MOMENTUM": 43,
+      "SAFETY": 100,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "F1vn7iCHavyXfWfsWQzBDV4wbT8KdfQJRtnAJaeAydhv": {
+    "name": "Claimr",
+    "symbol": "Claimr",
+    "flagged_ts": 1789864172,
+    "liquidity_at_flag": 37444.85463798497,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 100,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "7wbxHXFYehyL7Gt4DudSqRnvU1ojck7iPKymLLfX5uVt": {
+    "name": "The Day Trader",
+    "symbol": "Aiden",
+    "flagged_ts": 1789864173,
+    "liquidity_at_flag": 34140.04451767175,
+    "breakdown": {
+      "MOMENTUM": 87,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
     "checkpoints_done": []
