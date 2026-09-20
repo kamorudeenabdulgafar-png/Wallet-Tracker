@@ -9600,7 +9600,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "8rYu6TDaG3r9xveduJr3E4CDik7MguZ72u8z3BVbs2Pn": {
@@ -9616,7 +9617,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "8szzV5xoFE3xBAMsjSrZneiARYajYDzTkNEdMy83jQJF": {
@@ -9632,7 +9634,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "46MAS7fVKpErS3hxQu4HkuhTUBtAdtRHcWeFNaqTSoWQ": {
@@ -9648,7 +9651,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "5qJxuwiH4gLF829L6a71i7VRLU3pvUzDYrzqTh65Ctq2": {
@@ -9664,7 +9668,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "KF8kwgUkkLMfwwNTMz54ZppGbR3UFJijnrxjC4yVm31": {
@@ -14143,7 +14148,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "hx7TSZnUm7Eqv2NgPoz9WN2ZLYuMR7UeZbkeGRrG2ja": {
@@ -14158,7 +14164,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "3vctPg92w37eMZx66CSPFVESDfUfnCajjuQUooNsFXwk": {
@@ -14173,7 +14180,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "AnG3WvLE7o3JNJfBRrXG4JzVPoGk4iTDPNgody3tbPh4": {
@@ -14188,7 +14196,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "BVbbnketJLQsHsHT45VKnosorgK6wPE1aAN4JrxPpump": {
@@ -14203,7 +14212,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "pWqcbzsduZeKsy2WQx4WMVtk7ZwXaM45LMkuRJfPiGE": {
@@ -14218,7 +14228,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "4cFAGsZ1x7cHMgGvMAq9xfUFLCro5m1MjHcWCGPHpump": {
@@ -14772,7 +14783,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "45nkGYgnNmz4nEhTHY14cJRDDd9gpefYvKUBzC6Mfiy7": {
     "name": "B",
@@ -14785,7 +14798,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "GYnCGiChEFeJuhBQjQRQnjbtqNucpX99Sd7MmNmexC7a": {
     "name": "JEV",
@@ -14798,7 +14813,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "13STbpzeBvNbcrwxU3DA1iJGUZytw62zjdUQ5V7ggigz": {
     "name": "I Nuke U",
@@ -14811,7 +14828,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "5U5HALbq2ULcR7cqEp9YnAybUWyiZZyPfLPWdd2WtcS5": {
     "name": "Binance Square Paid",
@@ -14824,7 +14843,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "ADaAPbb5MgJsAwg5MtFidrmw8qqTy9NLHFfpuCoZMRxc": {
     "name": "Truman World",
@@ -15117,6 +15138,32 @@
     "symbol": "\ud83d\udcb2BUNNY",
     "flagged_ts": 1789904386,
     "liquidity_at_flag": 49553.61546615351,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "38JyPmEopmd2ci84hNRp4RAQzeGA7E9pvHJv3miVahDv": {
+    "name": "Feed Me Fomo",
+    "symbol": "FEEDME",
+    "flagged_ts": 1789904884,
+    "liquidity_at_flag": 34595.994706241225,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 75,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "6YkAznRUUutEv4QJ2QUiTPhxFpqnSRMXsUEN9avBVgGK": {
+    "name": "Stealth Cat",
+    "symbol": "MCAT",
+    "flagged_ts": 1789904885,
+    "liquidity_at_flag": 34135.68093333366,
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 60,
