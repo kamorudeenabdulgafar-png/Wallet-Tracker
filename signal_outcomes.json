@@ -8003,7 +8003,8 @@
     "liquidity_at_flag": 20179.403769651126,
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "GkLYMocWN9peHrJn7KBQchf5Wx7CMRNDZLMtN7REpump": {
@@ -8013,7 +8014,8 @@
     "liquidity_at_flag": 29277.058942430955,
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "GXgjJCHLpeW3XdFdLhQ2VB18bMNWKme2Pbb2s6m2pump": {
@@ -8023,7 +8025,8 @@
     "liquidity_at_flag": 21352.467380753485,
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "A2sBGPqWVbnGujZ5DYwGpBZ1kA2A1NpnSKj1EoLaMi4Y": {
@@ -8033,7 +8036,8 @@
     "liquidity_at_flag": 22318.790853825878,
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "6iuEjCKMAo75ExxvEZwN2M4j7erPG4KcfhzyRso6rBMS": {
@@ -8043,7 +8047,8 @@
     "liquidity_at_flag": 30775.14802784605,
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "7yBArj4bBTvBoBDJndiqfnTNpUDt4W1GxQndJ1RzMUnX": {
@@ -8053,7 +8058,8 @@
     "liquidity_at_flag": 33191.02640500039,
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "4Y58NXMCY3L98cnioJ7qBBbkkvhp8i3KUDchi2zV9fCD": {
@@ -8063,7 +8069,8 @@
     "liquidity_at_flag": 31752.64403708028,
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "96vq7uVm1nYp4tPWWFhR4RmxQJVmnH8G691T1S3gDxtk": {
@@ -8073,7 +8080,8 @@
     "liquidity_at_flag": 30561.743831766973,
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "BTpBb743gd2yn9bUc1Q2u7dbA77inLJ4bsXWA2vCpump": {
@@ -12246,7 +12254,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "9kUtKbhbPVtyhvouFpVoKiP8q712BQf4XyPbKgFSKRkR": {
@@ -12261,7 +12270,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "G9Cy1GrAj1NRsi9xYMGfgNQFZyYyEZZr66FNYGLnpump": {
@@ -12785,7 +12795,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "5cQVokcVcUsDVxPbWpyKVoQdtjxFsZkFevK1GNvtpump": {
     "name": "WIFCASH",
@@ -12798,7 +12810,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "FBTaEdyN2VJ4Lw5S93UkPtchEBjjYENYH2ND6esYfNoC": {
     "name": "Extreme Inu",
@@ -12811,7 +12825,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "2UUC5FxgJ7s8mLsz5wGSXs4sd8WmggbB9r6E6tVS234N": {
     "name": "\u5409\u7530\u30dd\u30c3\u30dd",
@@ -12824,7 +12840,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "HKiDU8cvFKwCWWtLiDhjqvMoKBJf1AwhdYx7XZ2wwZ4f": {
     "name": "Uranus",
@@ -13094,6 +13112,45 @@
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "BQkGdvVHVNjArFSJCP2Xfw3priqwGiEK8grrWBXTGUrK": {
+    "name": "The Boring Company",
+    "symbol": "TBC",
+    "flagged_ts": 1789878072,
+    "liquidity_at_flag": 26102.33487846042,
+    "breakdown": {
+      "MOMENTUM": 90,
+      "SAFETY": 90,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "CBLgLg4rjkqqwXuZjR1WAqWet2vR68Vne32J2bFLpump": {
+    "name": "Donated",
+    "symbol": "DONATED",
+    "flagged_ts": 1789878074,
+    "liquidity_at_flag": 24000.165245802447,
+    "breakdown": {
+      "MOMENTUM": 95,
+      "SAFETY": 90,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "4uYgRFcZd4VUQYdEELJBhWbpyauahC1YFcSwJbMfeJkY": {
+    "name": "Binance Square Paid",
+    "symbol": "PAID",
+    "flagged_ts": 1789878076,
+    "liquidity_at_flag": 49059.36534615053,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 75,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
