@@ -8388,7 +8388,8 @@
     "liquidity_at_flag": 207537.59852397436,
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "9dcCdZrDFq2jn39kfueLD4RiMhcoCwedxgDJREk3DfLa": {
@@ -12489,7 +12490,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "5vzxkBd2B11r4VFBbA7Uf43Z36gZdGLznvSrNoFYvuHH": {
@@ -12504,7 +12506,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "DSnmKSMDHQjbakDeBnvRhEX5g93aRERRVFY4LoTcSSvk": {
@@ -12519,7 +12522,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "BFJLENLugbiGh8bTw8yoJbG8ErG9BGu9Z3LPjQqN7CKw": {
@@ -13313,7 +13317,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "BQh47ydimCEV5KK2xcwiBBDZVDzS3UxyTGKjjDzvvH7T": {
     "name": "BUNNY",
@@ -13326,7 +13332,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "6Ssh6RT2VZjC59DigDeCgQMYJTyKSui1mQgBSN6agq8H": {
     "name": "Argus",
@@ -13339,7 +13347,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "83hbHHQiRMVwiETxWxzG7g2KHHrEZ2274n5SFXyqWszD": {
     "name": "The Boring Company",
@@ -13352,7 +13362,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "5jMTGJTmAw5CVaUhSRxJpWdTqpbbmoJaMeD3DgxJ8Kqx": {
     "name": "Donated",
@@ -13365,7 +13377,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "VcD3NHLewdH5eycBBfexuBz1upieNvuCfcKd9n3M92C": {
     "name": "Seed",
@@ -13531,6 +13545,58 @@
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 75,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "3z6kdSgJu5DetCQfVnuHsEhXndCj8uUY5TbRMdufeupd": {
+    "name": "Uranus",
+    "symbol": "URANUS",
+    "flagged_ts": 1789883568,
+    "liquidity_at_flag": 19436.216546470263,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 97,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "4DzeSgVq8TKJkFVt9Rr2FyaRn682gBiBQ4VDMGuBq32m": {
+    "name": "ShameCoin",
+    "symbol": "Shame",
+    "flagged_ts": 1789883569,
+    "liquidity_at_flag": 29219.1300300109,
+    "breakdown": {
+      "MOMENTUM": 87,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "H9eLLPYy1x2tHhFG3AXPWMvdeNHHa4wkQfd45eYfMzds": {
+    "name": "Claude Ai",
+    "symbol": "claude",
+    "flagged_ts": 1789883571,
+    "liquidity_at_flag": 32455.29385805027,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "Fe9FYGJMMDnF2sT1gbkRPGNrCb96yz3bnk1JZf2PVUSr": {
+    "name": "\u6c38\u751f\u679c\u8747",
+    "symbol": "\u679c\u8747",
+    "flagged_ts": 1789883572,
+    "liquidity_at_flag": 31597.84420774105,
+    "breakdown": {
+      "MOMENTUM": 62,
+      "SAFETY": 100,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
