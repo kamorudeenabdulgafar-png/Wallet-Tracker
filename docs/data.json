@@ -1,5 +1,5 @@
 {
-  "last_updated": 1789926825,
+  "last_updated": 1789927556,
   "wallets": [
     {
       "label": "Dev wallet 1",
@@ -9,7 +9,7 @@
   "wallet_stats": {
     "5CEbueQnq1Ym2uSSx2xXds3jQAqT1BDnkA59RZobSPAG": {
       "label": "Dev wallet 1",
-      "buy_count": 232,
+      "buy_count": 233,
       "sell_count": 155,
       "total_buy_usd": 15274.245507115205,
       "total_sell_usd": 0.0,
@@ -66,7 +66,7 @@
         "suifhC9gU1VbJAPYPTBkHJyyyStKGLLYPVDTmPoqbvA",
         "USD1ttGY1N17NEEHLmELoaybftRBUSErhqYiQzvEmuB"
       ],
-      "last_active": 1789925331,
+      "last_active": 1789927553,
       "positions": {},
       "realized_pnl_usd": 0.0
     }
@@ -93,6 +93,11 @@
   "learning_insight": null,
   "settings": {},
   "recent_alerts": [
+    {
+      "ts": 1789927553,
+      "type": "wallet",
+      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: USDC -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/4GnaXyro6158MSqMpSkHdxkJXBHCvE9KHX2HfFnMUGpv6Tpsr9kPcVkbpfU3KMSLFjRwmSSo2QhBHdfv9RxAbWD2"
+    },
     {
       "ts": 1789926825,
       "type": "outcome",
@@ -337,11 +342,6 @@
       "ts": 1789924703,
       "type": "outcome",
       "message": "\ud83d\udd34 BUNNY (\ud83d\udcb2BUNNY) is dropping fast \u2014 down 100%, may be rugging."
-    },
-    {
-      "ts": 1789924701,
-      "type": "outcome",
-      "message": "\ud83d\udd34 Stonked (STONKED) is dropping fast \u2014 down 100%, may be rugging."
     }
   ]
 }
