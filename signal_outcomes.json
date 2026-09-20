@@ -15367,7 +15367,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "5tpxYN4ycBUCUuu56tUTcZaRWA8zE366FcEzsqCNbXhd": {
@@ -15382,7 +15383,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "BCQ9C28oSB4H8XSpNH94HdWpq6HNu2v5ht9Tdhwcie26": {
@@ -16197,6 +16199,45 @@
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 90,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "BA5p7KcFpsYqM6NobDRTwQfze69TiwKaU3fVvw9Zpdq9": {
+    "name": "Stonked",
+    "symbol": "STONKED",
+    "flagged_ts": 1789920297,
+    "liquidity_at_flag": 29220.57947365022,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "7wmuRJE5BNHWg4p1JeWwFwjo163tQtyzVqzttyGY5Hsx": {
+    "name": "BUNNY",
+    "symbol": "\ud83d\udcb2BUNNY",
+    "flagged_ts": 1789920298,
+    "liquidity_at_flag": 47436.76691598975,
+    "breakdown": {
+      "MOMENTUM": 95,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "E3ZVevAkzhvnpUmp3A5dvZSghcwfu3ixXpuKe2dNYpuG": {
+    "name": "arbiStocks",
+    "symbol": "ARBISTOCKS",
+    "flagged_ts": 1789920299,
+    "liquidity_at_flag": 24774.530886769146,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
