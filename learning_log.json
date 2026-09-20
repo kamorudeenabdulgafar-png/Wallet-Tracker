@@ -1,13 +1,5 @@
 [
   {
-    "name": "Board",
-    "symbol": "BOARD",
-    "category": "rug",
-    "change_pct": -100.0,
-    "breakdown": null,
-    "ts": 1789844666
-  },
-  {
     "name": "NASCAT",
     "symbol": "NASCAT",
     "category": "rug",
@@ -2868,5 +2860,18 @@
       "SMART MONEY": 0
     },
     "ts": 1789926381
+  },
+  {
+    "name": "TIPPED CAT",
+    "symbol": "TIPPEDCAT",
+    "category": "rug",
+    "change_pct": -100.0,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "ts": 1789926823
   }
 ]

@@ -11113,7 +11113,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "41TwuyMCnermaJiLwTp6JPKsGpsLV2815sFA7Jwr5tjC": {
@@ -15832,7 +15833,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "8injPtE6Jgkgk3xoMmVV6ZUMmJCmAF4CcqgDp57zTdWX": {
@@ -15847,7 +15849,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "8iYzutymU4qFn4Nm1M1Yb4NnsscqLmqNw2Z1hFh3EbUa": {
@@ -16521,7 +16524,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "GGovhNXuqsqMc2YyXsqTTtbt237NxJ2ekYck9DRKzx4": {
     "name": "Factory new",
@@ -16751,6 +16756,32 @@
     "liquidity_at_flag": 23213.222122903964,
     "breakdown": {
       "MOMENTUM": 89,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "7HxvNKhDyjY5iYEXFUvZAiQyVQKT9t56h3FV36D16AJA": {
+    "name": "Shitcoin Futures Exchange",
+    "symbol": "SFX",
+    "flagged_ts": 1789926822,
+    "liquidity_at_flag": 13240.527864648671,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 75,
+      "LIQUIDITY": 66,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "BoauKUFadqCFuX3D3S34xePWQDGFbsHXuv8dMmEmhjCQ": {
+    "name": "Jean Phil",
+    "symbol": "JEANPHIL",
+    "flagged_ts": 1789926822,
+    "liquidity_at_flag": 43694.99556199859,
+    "breakdown": {
+      "MOMENTUM": 100,
       "SAFETY": 60,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
