@@ -11725,7 +11725,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "Hr98qKCpAcSvYhu5exMp3wLf1gmwgYwscBx5BrzNpump": {
@@ -11741,7 +11742,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "3Vi5wdAHvMZSpE1RNjz9zEZKBBfV83umH3tJRQ3Usgot": {
@@ -11757,7 +11759,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "8ZAnzSHHR1qTf9i6yGnWKFsr7qVJNfR9KcPFvfgs5irA": {
@@ -16460,7 +16463,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "9iTusGbskSQ95BjC9U6ZSg151w2jZScxaxJBpXBe7DT1": {
@@ -16475,7 +16479,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "FfujeXYws3rkmSL2JUvs9uEwN4uYBNm1bjkd3xTRpump": {
@@ -16490,7 +16495,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "7mkNV5moiXnSWTJrYHJabiHGcdo6c22beZztn5mJFpSX": {
@@ -16505,7 +16511,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "CxxbPu2SqJ3XG5XmVpRdg9s5z6Ypq7tLwGaDJC1mEvAs": {
@@ -16520,7 +16527,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "CZMYthx5rYjgJn9MB43ZcZTbYWHZKmzdLk4jDg65j6oZ": {
@@ -17194,7 +17202,9 @@
       "LIQUIDITY": 87,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "5cfpcH6HQyHwqwB1oax4aQg17y3wKZyCuQ4UBsuJpump": {
     "name": "FOMONKEY",
@@ -17207,7 +17217,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "BtVY2opo73k9CDey2bNNFB2e9B3uA49xeienzVwi3suk": {
     "name": "Zcash Shielded Assets",
@@ -17220,7 +17232,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "6pjV2VH8h6kSngQGR2L3jttp9qD4x8YLB67yFQCLykRw": {
     "name": "Blue Bitcoin",
@@ -17318,6 +17332,32 @@
     "symbol": "FLUX",
     "flagged_ts": 1789936243,
     "liquidity_at_flag": 35095.188065224465,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "FSJfPYF6VjuDuUxMFdUrCEkVr96bhC5oXKhv4o6JJxiK": {
+    "name": "The Mentor",
+    "symbol": "Mentor",
+    "flagged_ts": 1789937046,
+    "liquidity_at_flag": 40031.94756216969,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 90,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "7ipzYoKAi6DHYFChFA5W2B81px5XgpZycKZwTTGJk2DH": {
+    "name": "THESIS",
+    "symbol": "THESIS",
+    "flagged_ts": 1789937047,
+    "liquidity_at_flag": 33853.347386874055,
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 60,
