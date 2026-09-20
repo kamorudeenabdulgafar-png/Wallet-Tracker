@@ -16966,7 +16966,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "D4sVPk2TasXL61VCw4xbqtxRBmcdEKmQGXTidVzwofFW": {
@@ -16981,7 +16982,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "3jwBtX7S34HaHQw2amNpZ1qcNgyzbwH8NUXnGfeoDYH5": {
@@ -16996,7 +16998,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "5yRkkyW7HHUUvh6pbjtKCVvdht6sC8C2SJyG9Tj1XDrB": {
@@ -17011,7 +17014,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "Ah7RLwwSd6Ee22gtt2eKemMo8u8RVuriasxLzwwk7USb": {
@@ -17565,7 +17569,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "BJ9mPPkCqnMisMiv7JQW7MJ2fgDyjm9udmwHZuJ2YcTf": {
     "name": "Dogecoin",
@@ -17578,7 +17584,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "FMEgrpXkJ9e4vUrLszibLn8iCxg4ynjBjKztCsE3pump": {
     "name": "Sushinu",
@@ -17745,6 +17753,45 @@
       "MOMENTUM": 100,
       "SAFETY": 60,
       "LIQUIDITY": 82,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "9NgjVEkXfaBiPKZzFDW5JvdMCpD2BnKGKtW2tfam7eFM": {
+    "name": "JUBJUB",
+    "symbol": "JUBJUB",
+    "flagged_ts": 1789943450,
+    "liquidity_at_flag": 31870.240374985016,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "CHQeLyR3kiywgkq6CQuTruNq64bi8RFUyLb3WCCX4iv7": {
+    "name": "JubJub",
+    "symbol": "JUBJUB",
+    "flagged_ts": 1789943450,
+    "liquidity_at_flag": 19639.490013253904,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 90,
+      "LIQUIDITY": 98,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "7qZn8A7ZZGhaTxndEjE8UkMvS4EkmWy58hyKoSAESmd7": {
+    "name": "Jean Phil",
+    "symbol": "JEANPHIL",
+    "flagged_ts": 1789943451,
+    "liquidity_at_flag": 16966.14498768552,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 85,
       "SMART MONEY": 0
     },
     "checkpoints_done": []
