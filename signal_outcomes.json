@@ -12167,7 +12167,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "YLxij1zfySd1HNAX8V2SEP4ubKZt1qEZ6FwntCP1eQM": {
@@ -17030,7 +17031,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "C4LVDXiAV9yqzjzDCbeKXzaJJ4Y3QcQP3p23jYyDyVCM": {
@@ -17045,7 +17047,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "5rY4PABP7PnGJkWm4Sg9d7CsRNpV5FuDJWgUMR8UqtXh": {
@@ -17060,7 +17063,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "58ZQiM8yMbWCNpZUytm6b6RiVNE8mzcFXFGCWrGkDhgV": {
@@ -17075,7 +17079,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "FonX8Qiw7G6Ce1rziiZckDDEorB3SJPEqcKdAoGdrJ7s": {
@@ -17090,7 +17095,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "29tqSqnjVGgjqGr7tsE4VHgLjARQNL8UrBqzbvWLSoSc": {
@@ -17105,7 +17111,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "G1y2Kv1qpSvAL21hHqFzomwUBiabj253kPwVZJu8DjZ7": {
@@ -17599,7 +17606,9 @@
       "LIQUIDITY": 93,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "2zdzfByzbVDbSKyhV6ub5r3JuqTEp11XCuXC9Tq3TiQi": {
     "name": "StonkBankr",
@@ -17612,7 +17621,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "2XxAbWDQA3qJXvpemiuhCe3G5NB5ADuR5UUvET8j4EEa": {
     "name": "Dogecoin",
@@ -17625,7 +17636,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "G7kzoLBrx6zeqU8k5i6Z3JVD6zB8t53pKhCAg4VorJ9i": {
     "name": "Zcash Shielded Assets",
@@ -17792,6 +17805,45 @@
       "MOMENTUM": 100,
       "SAFETY": 60,
       "LIQUIDITY": 85,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "CiV2To3hYpXXwimzRGWVcD6LJUX2ryKCMCwpRs5Ppump": {
+    "name": "rsolve",
+    "symbol": "RSOLVE",
+    "flagged_ts": 1789944322,
+    "liquidity_at_flag": 20784.312858598365,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 90,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "7qfXJBFqEk4rW9y3K4ev94uDboNvxZLrjooc56tyoiPo": {
+    "name": "Zcash Shielded Assets",
+    "symbol": "Stamp",
+    "flagged_ts": 1789944323,
+    "liquidity_at_flag": 23655.953186907947,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "BNm2hdiuqs8Nmx4bcarW74QEC18hJXgpSiLCzoBFxhkF": {
+    "name": "Zcash Shielded Assets",
+    "symbol": "Stamp",
+    "flagged_ts": 1789944324,
+    "liquidity_at_flag": 59352.57253909271,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
     "checkpoints_done": []
