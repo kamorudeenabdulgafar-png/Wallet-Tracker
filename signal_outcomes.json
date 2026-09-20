@@ -8322,7 +8322,8 @@
     "liquidity_at_flag": 45396.87849260241,
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "Hovf9aZKKtP2FQYCsngW8V9CMUrB88PoYD2NtyAfpump": {
@@ -12435,7 +12436,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "3U3ANBLHQXck6DiMMAaSAGJvfLugyfN6mGNKtwPjLHJH": {
@@ -12450,7 +12452,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "3WMQgznR1n9n9F8xrUBAzv1HQMY69Lud8DZdzz4t5L6U": {
@@ -13199,7 +13202,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "CBLgLg4rjkqqwXuZjR1WAqWet2vR68Vne32J2bFLpump": {
     "name": "Donated",
@@ -13212,7 +13217,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "4uYgRFcZd4VUQYdEELJBhWbpyauahC1YFcSwJbMfeJkY": {
     "name": "Binance Square Paid",
@@ -13225,7 +13232,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "7DvjtyNLbiWyQEgBnnQX9t32SAT2M5UnJia6SHpbf6Ey": {
     "name": "STONK",
@@ -13427,6 +13436,32 @@
     "symbol": "MEMESTOCKS",
     "flagged_ts": 1789881547,
     "liquidity_at_flag": 27701.007624371006,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "B4AT26LHqPoWB5ja7xy6ttARPJj8BG1kvgLzxWtHKMCS": {
+    "name": "SENDING",
+    "symbol": "SENDING",
+    "flagged_ts": 1789882228,
+    "liquidity_at_flag": 33811.72733547332,
+    "breakdown": {
+      "MOMENTUM": 98,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "CUNuWekdbD7vdZqhQU4xaUT4AYbwrBeikhBhiRb1fowJ": {
+    "name": "Amazon Inu",
+    "symbol": "AI",
+    "flagged_ts": 1789882229,
+    "liquidity_at_flag": 42714.63943313916,
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 60,
