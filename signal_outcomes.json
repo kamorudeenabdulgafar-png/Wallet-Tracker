@@ -12507,7 +12507,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "A5PEzt5SCmwYLaD4JRKa9ba5vvsWcizX34WYePMdhz1s": {
@@ -17290,7 +17291,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "5cfpcH6HQyHwqwB1oax4aQg17y3wKZyCuQ4UBsuJpump": {
@@ -17305,7 +17307,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "BtVY2opo73k9CDey2bNNFB2e9B3uA49xeienzVwi3suk": {
@@ -17320,7 +17323,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "6pjV2VH8h6kSngQGR2L3jttp9qD4x8YLB67yFQCLykRw": {
@@ -17874,7 +17878,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "7qfXJBFqEk4rW9y3K4ev94uDboNvxZLrjooc56tyoiPo": {
     "name": "Zcash Shielded Assets",
@@ -17887,7 +17893,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "BNm2hdiuqs8Nmx4bcarW74QEC18hJXgpSiLCzoBFxhkF": {
     "name": "Zcash Shielded Assets",
@@ -17900,7 +17908,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "4F417bfWeE5Jszi5dGDSf8Ug5JYWvuZoTJcuGf2Kpump": {
     "name": "Dumb Meme Coin",
@@ -17988,6 +17998,32 @@
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "ExUbQj1UVtmkuC9Xi9AoQwKPFc5wt3hgpF1rBqsNpump": {
+    "name": "chart killer",
+    "symbol": "challer",
+    "flagged_ts": 1789947983,
+    "liquidity_at_flag": 39624.603413847195,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 100,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "cfnBU3Jgt3mKEFiu6TknxU6kCMemycswVpH7DCppump": {
+    "name": "Stamp Cat",
+    "symbol": "STAMPCAT",
+    "flagged_ts": 1789947984,
+    "liquidity_at_flag": 30161.665004840637,
+    "breakdown": {
+      "MOMENTUM": 47,
+      "SAFETY": 100,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },

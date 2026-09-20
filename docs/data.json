@@ -1,5 +1,5 @@
 {
-  "last_updated": 1789947515,
+  "last_updated": 1789947990,
   "wallets": [
     {
       "label": "Dev wallet 1",
@@ -66,7 +66,7 @@
         "suifhC9gU1VbJAPYPTBkHJyyyStKGLLYPVDTmPoqbvA",
         "USD1ttGY1N17NEEHLmELoaybftRBUSErhqYiQzvEmuB"
       ],
-      "last_active": 1789945473,
+      "last_active": 1789947980,
       "positions": {},
       "realized_pnl_usd": 0.0
     }
@@ -85,7 +85,7 @@
     "count": 2835,
     "up_count": 613,
     "total_change_pct": -155586.29928175083,
-    "rug": 452,
+    "rug": 453,
     "doing_well": 4,
     "steady": 4,
     "fading": 4
@@ -93,6 +93,71 @@
   "learning_insight": null,
   "settings": {},
   "recent_alerts": [
+    {
+      "ts": 1789947990,
+      "type": "outcome",
+      "message": "\ud83d\udd34 Zcash Shielded Assets (Stamp) is dropping fast \u2014 down 100%, may be rugging."
+    },
+    {
+      "ts": 1789947989,
+      "type": "outcome",
+      "message": "\ud83d\udd34 Zcash Shielded Assets (Stamp) is dropping fast \u2014 down 100%, may be rugging."
+    },
+    {
+      "ts": 1789947988,
+      "type": "outcome",
+      "message": "\ud83d\udfe0 rsolve (RSOLVE) is fading \u2014 down 55% so far."
+    },
+    {
+      "ts": 1789947987,
+      "type": "outcome",
+      "message": "\ud83d\udd34 Zcash Shielded Assets (Stamp) is dropping fast \u2014 down 100%, may be rugging."
+    },
+    {
+      "ts": 1789947987,
+      "type": "outcome",
+      "message": "\ud83d\udd34 FOMONKEY (FOMONKEY) is dropping fast \u2014 down 77%, may be rugging."
+    },
+    {
+      "ts": 1789947986,
+      "type": "outcome",
+      "message": "\ud83d\udfe0 ZCASH CAT (ZCASHCAT) is fading \u2014 down 46% so far."
+    },
+    {
+      "ts": 1789947985,
+      "type": "outcome",
+      "message": "\ud83d\udd34 \u4e00\u7ad9\u6210\u540d\u7684\u718a\u732b (\u96ea\u5b9d) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
+    },
+    {
+      "ts": 1789947984,
+      "type": "scanner",
+      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\nStamp Cat (STAMPCAT)\nOpportunity: 72/100\n\nMOMENTUM     47\nSAFETY       100\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$30,162, 12 min since pool creation\n\u2022 Up +31% in the last hour, ~$79,203 in 24h volume (2.6x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Low, 0/100):\n\u2022 No major red flags found\n\nCA: cfnBU3Jgt3mKEFiu6TknxU6kCMemycswVpH7DCppump\nhttps://dexscreener.com/solana/cfnBU3Jgt3mKEFiu6TknxU6kCMemycswVpH7DCppump\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
+    },
+    {
+      "ts": 1789947983,
+      "type": "scanner",
+      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 EXCEPTIONAL\nchart killer (challer)\nOpportunity: 90/100\n\nMOMENTUM     100\nSAFETY       100\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$39,625, 8 min since pool creation\n\u2022 Up +284% in the last hour, ~$672,771 in 24h volume (17.0x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Low, 0/100):\n\u2022 No major red flags found\n\nCA: ExUbQj1UVtmkuC9Xi9AoQwKPFc5wt3hgpF1rBqsNpump\nhttps://dexscreener.com/solana/ExUbQj1UVtmkuC9Xi9AoQwKPFc5wt3hgpF1rBqsNpump\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
+    },
+    {
+      "ts": 1789947981,
+      "type": "wallet",
+      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: UNI -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/3L7m7d6aNt5w6xEEmqmPPkq5LFqc64HV2m89sbV8GFStZiBwF3sgkHCNH97Ef7G1wyNbEQTgoGQE95rZbN9rpAKA"
+    },
+    {
+      "ts": 1789947980,
+      "type": "wallet",
+      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: GLDx -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/4PS1zP2PCTKH7m5qqbymrBNojAcnPXwzqb81cxVbNkMz7US7MYCDP9fxhYK25HPeJ3SzdmZ6rbv14UFQj8CQJPnA"
+    },
+    {
+      "ts": 1789947979,
+      "type": "wallet",
+      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: PONS -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/4sQtaARhYh6Ea6dXEpZDRmaAeBoxX9SvkGmXngZjnGTZxZwXgyHFAoABykW31SwU3Jq4oenZcEDGjnhLfWx7JhbK"
+    },
+    {
+      "ts": 1789947978,
+      "type": "wallet",
+      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: LMT -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/5wUYR6yxRRvUXJPJkzZsdbKJHS84zSvkvb61Ld7enphnDTA7xyW6it9A6JC9izzcw59dsY9HxUVzrQc5xaEETjFx"
+    },
     {
       "ts": 1789947515,
       "type": "outcome",
@@ -277,71 +342,6 @@
       "ts": 1789945485,
       "type": "outcome",
       "message": "\ud83d\udd34 Jean Phil (JEANPHIL) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
-    },
-    {
-      "ts": 1789945484,
-      "type": "outcome",
-      "message": "\ud83d\udd34 fomospend (fomospend) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
-    },
-    {
-      "ts": 1789945483,
-      "type": "outcome",
-      "message": "\ud83d\udd34 Jean Phil (JEANPHIL) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
-    },
-    {
-      "ts": 1789945482,
-      "type": "outcome",
-      "message": "\ud83d\udd34 Jean Phil (JEANPHIL) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
-    },
-    {
-      "ts": 1789945481,
-      "type": "outcome",
-      "message": "\ud83d\udd34 Jean Phil (JEANPHIL) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
-    },
-    {
-      "ts": 1789945478,
-      "type": "scanner",
-      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\nDumb meme coin (DUMBCOIN)\nOpportunity: 76/100\n\nMOMENTUM     100\nSAFETY       60\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$44,238, 9 min since pool creation\n\u2022 Up +2602% in the last hour, ~$192,686 in 24h volume (4.4x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 88% of supply (very concentrated)\n\nCA: 8fJikdmFbmDscHXVR2zJZsQVoouZHZW3MKh9hcBjn46X\nhttps://dexscreener.com/solana/8fJikdmFbmDscHXVR2zJZsQVoouZHZW3MKh9hcBjn46X\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
-    },
-    {
-      "ts": 1789945476,
-      "type": "scanner",
-      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 EXCEPTIONAL\nDumb Meme Coin (DUMB)\nOpportunity: 90/100\n\nMOMENTUM     100\nSAFETY       100\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$23,851, 6 min since pool creation\n\u2022 Up +179% in the last hour, ~$114,497 in 24h volume (4.8x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Low, 0/100):\n\u2022 No major red flags found\n\nCA: 4F417bfWeE5Jszi5dGDSf8Ug5JYWvuZoTJcuGf2Kpump\nhttps://dexscreener.com/solana/4F417bfWeE5Jszi5dGDSf8Ug5JYWvuZoTJcuGf2Kpump\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
-    },
-    {
-      "ts": 1789945473,
-      "type": "wallet",
-      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: USDC -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/3pyfDyCcowobmXEjf614a2JczSyLoSxndHZVLRbedkW8gAbj4QMTBQSeGX3B4JHCiiqfgg9dpiGt2Tq4FGWPyDZQ"
-    },
-    {
-      "ts": 1789945472,
-      "type": "wallet",
-      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: USDC -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/2gsFH7o12bAFf7Fa3bMMZYkN2KJYn1mYBzWGVNfHZC1piVF1BCaWMJuiouko8makMBuCiq6TqAWrtxujNDc67rVg"
-    },
-    {
-      "ts": 1789945471,
-      "type": "wallet",
-      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: USDC -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/5QGy7M6qcPb4RuQikvPEQEXx8bdJSFPVXbpqqmt6XAoDySejNBwXGUHYxBhBebqz59GNen13YFkRGxz9WNhJ5ee2"
-    },
-    {
-      "ts": 1789945471,
-      "type": "wallet",
-      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: USDC -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/5fBmGp2JfHJzW9e7scGiCX1VfTMULLUzrTcPMmD2Z3FnWkMwSqPW51rbjBz1cwuLRrB2nipxgCECNAJzrzbUYHhi"
-    },
-    {
-      "ts": 1789945470,
-      "type": "wallet",
-      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: USDC -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/4uyxJwXs9Gaf7ZKUEbsP5JSdDWLFxsxxa1CbcvUQN9BekA7skovhBNB2zgBTv1j3g7Q2ukrmRHCuDo3rkymgLAwV"
-    },
-    {
-      "ts": 1789944808,
-      "type": "outcome",
-      "message": "\ud83d\udd34 superior inu (si) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
-    },
-    {
-      "ts": 1789944807,
-      "type": "outcome",
-      "message": "\ud83d\udd34 Black Box (JEV) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
     }
   ]
 }
