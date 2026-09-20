@@ -10909,7 +10909,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "BsehfmJSC16TCm4Dzg37iS8WSHivt9z38PUxXcmfU5Eh": {
@@ -10925,7 +10926,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "BMZFVnXxz34xp5nNGVQYPP32hQMvuajj6UL3Sh7BynsX": {
@@ -10941,7 +10943,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "9wSQmGNZhasSe5mmp7ypHfGkHY1J6DkDmcXwrRm9SPtK": {
@@ -10957,7 +10960,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "EYTGKfpWbRbSTx2dZMpkNPu4TKH9a48WRFbSYo1LWhs3": {
@@ -15612,7 +15616,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "3M4kbn36NzqQ8rSqckkUBugZiaNLqVqvxnCSaqBdLr9K": {
@@ -15627,7 +15632,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "8Uit59qjFSZyNJpvYGXFud4vhnuUEpVzTmVUJgJdExKP": {
@@ -15642,7 +15648,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "5kT1bM76LiMpg21gfFReS7kN5LDyLKuQsGBBmKwQuzrR": {
@@ -15657,7 +15664,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "FKbq8E8KMCfA4kZvAzCV6Uox7HbTc7eS97tuoDqddoyv": {
@@ -15672,7 +15680,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "AAtWqcEU3nDosZBivZMZVRrTrikKWwGbewPPPaoyfr2n": {
@@ -16463,6 +16472,58 @@
     "breakdown": {
       "MOMENTUM": 96,
       "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "GGovhNXuqsqMc2YyXsqTTtbt237NxJ2ekYck9DRKzx4": {
+    "name": "Factory new",
+    "symbol": "FN",
+    "flagged_ts": 1789923887,
+    "liquidity_at_flag": 30345.219973241656,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "G4TsBdCKBsR87BxS6XRrBx5xU6QRuKEksggeYrpiRdWM": {
+    "name": "Factory new",
+    "symbol": "FN",
+    "flagged_ts": 1789923888,
+    "liquidity_at_flag": 29139.713625158198,
+    "breakdown": {
+      "MOMENTUM": 96,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "AJtjvxYzJ8Xtsp16G6U4h6qkEGpSCVcZtjFeMnVq1B4Y": {
+    "name": "Hotel Lobby",
+    "symbol": "Lobby",
+    "flagged_ts": 1789923889,
+    "liquidity_at_flag": 37845.12404083845,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "DBymdMFLkEnLnaQ9DeLZu5xpZf8dXLCFVRfwzzFgpump": {
+    "name": "Privacy First App",
+    "symbol": "PAWLAB",
+    "flagged_ts": 1789923890,
+    "liquidity_at_flag": 30475.908321466493,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 100,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
