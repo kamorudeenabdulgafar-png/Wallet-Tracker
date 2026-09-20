@@ -7750,7 +7750,8 @@
     "liquidity_at_flag": 37112.55868467284,
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "3Nd8eqG24m7YNPKCLMy7fgHJfPLVwLm24KdgSnsy9foG": {
@@ -7760,7 +7761,8 @@
     "liquidity_at_flag": 36499.60203223904,
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "9KQEiNHGrKpspyf7tKkwn4krXD28iY72rKRKKh5XLGyN": {
@@ -7770,7 +7772,8 @@
     "liquidity_at_flag": 335439.7230224742,
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "3oAPDbGyLytmBaEfH9ouw3wXcHeSgDuYJgv9AQtQpump": {
@@ -11855,7 +11858,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "YLxij1zfySd1HNAX8V2SEP4ubKZt1qEZ6FwntCP1eQM": {
@@ -12394,7 +12398,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "5vzxkBd2B11r4VFBbA7Uf43Z36gZdGLznvSrNoFYvuHH": {
     "name": "Jean Phil",
@@ -12407,7 +12413,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "DSnmKSMDHQjbakDeBnvRhEX5g93aRERRVFY4LoTcSSvk": {
     "name": "Bitcoin Badger",
@@ -12420,7 +12428,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "BFJLENLugbiGh8bTw8yoJbG8ErG9BGu9Z3LPjQqN7CKw": {
     "name": "Jean Phil",
@@ -12599,6 +12609,32 @@
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 100,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "HrTHALcijdUuzGstBDDpiJAGBzp1HFkNxKPvn9RKio45": {
+    "name": "LaunchOnSF",
+    "symbol": "Stonk",
+    "flagged_ts": 1789872392,
+    "liquidity_at_flag": 58645.6793009729,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "F1MGBFJtWUQkobURdsfbfuyekR3NbFxkMQk6KCzw47pS": {
+    "name": "xPad",
+    "symbol": "xPad",
+    "flagged_ts": 1789872393,
+    "liquidity_at_flag": 65770.99506167145,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
