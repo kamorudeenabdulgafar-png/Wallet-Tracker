@@ -8883,7 +8883,8 @@
     "liquidity_at_flag": 39774.09702011387,
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "B2YWixkhX6TKxvpCYCUwnLnQkYSiUJb2bw2xpAWZPtB8": {
@@ -8893,7 +8894,8 @@
     "liquidity_at_flag": 30289.33438453531,
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "FKNmyCePoLVwZxfvefNv1uSPfJjrqZKUfQhnTNnRdWFi": {
@@ -13494,7 +13496,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "3DxAakBxaqzM7wLBNC3qrkq8Cr6LPAowVaL7CKwrjnRF": {
@@ -13509,7 +13512,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "AYSuhVpQVi945FS77aXQQUswDB62CYjdRnhoCE6cmGb7": {
@@ -13524,7 +13528,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "DodZKUNtZvHLUgu6WTqbvb54D7KZfd3P33ZHYStspump": {
@@ -14168,7 +14173,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "8MBRpBhah1tfDAmBBVAdhWrpRCstGs6t1ZeowXwrLX4i": {
     "name": "Argus",
@@ -14214,6 +14221,84 @@
     "symbol": "SI",
     "flagged_ts": 1789893999,
     "liquidity_at_flag": 42185.243967433205,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 100,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "BoCjGbwHZdxunm7j8CtSNeQLrvUbk4wgjAYA69Rjdod5": {
+    "name": "chud",
+    "symbol": "CHUD",
+    "flagged_ts": 1789895103,
+    "liquidity_at_flag": 29969.99013005352,
+    "breakdown": {
+      "MOMENTUM": 50,
+      "SAFETY": 100,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "4hMTbUpvFpDsv5KdmEnjfXydN814ZcosoitxPE1apump": {
+    "name": "GIGA JEAN",
+    "symbol": "GIGAJEAN",
+    "flagged_ts": 1789895104,
+    "liquidity_at_flag": 10199.421333554415,
+    "breakdown": {
+      "MOMENTUM": 70,
+      "SAFETY": 100,
+      "LIQUIDITY": 51,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "5i3Yz6WJa8accv8xoyBtkD5bBtntsw8VKNjcqYk5pump": {
+    "name": "Cash Leopardus Tilcayo",
+    "symbol": "CASHTIGRO",
+    "flagged_ts": 1789895105,
+    "liquidity_at_flag": 29056.299210903904,
+    "breakdown": {
+      "MOMENTUM": 49,
+      "SAFETY": 100,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "9UnvZjJnRas7kBZy136cbh6k9fLAFHsFYimf4fruBX2s": {
+    "name": "Uranus",
+    "symbol": "URANUS",
+    "flagged_ts": 1789895106,
+    "liquidity_at_flag": 38674.56012816995,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "D6TNmy2H7HnRtf1Uzbqfvben7pP8uaCob2cq7mRFZw5v": {
+    "name": "The Buyback Machine",
+    "symbol": "BUYBACK",
+    "flagged_ts": 1789895107,
+    "liquidity_at_flag": 29443.44360886704,
+    "breakdown": {
+      "MOMENTUM": 83,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "8TaZj4fVAoNmSgyCjx6SuZMergcd1au51NJjdkB3pump": {
+    "name": "dogwifgcap",
+    "symbol": "WIFG",
+    "flagged_ts": 1789895108,
+    "liquidity_at_flag": 38399.27656528918,
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 100,
