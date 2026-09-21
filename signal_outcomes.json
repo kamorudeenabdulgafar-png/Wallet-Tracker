@@ -13646,7 +13646,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "bz5iVxRNY6pQJucbw9VYsC59WmzYmUmnZuksi73sTCs": {
@@ -13662,7 +13663,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "4igmKPeF8jLDXFEz2Ux1uYJfftfjRnUM1zxrSSArbGjW": {
@@ -13678,7 +13680,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "6SuA9qEvZN8RYUjRApTVYubLsAcqQrbRjHUC4n3ocSde": {
@@ -13694,7 +13697,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "4CP8WyZzYpb9R5ZyxbVBCtvRcgHoK67cqYSbF8trpump": {
@@ -18189,7 +18193,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "ARuTorBXa2r1358Xr9NRZZ54yXN27uCz3DQe9sHrXvgc": {
@@ -18204,7 +18209,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "86vhv3jBgTEmVGEc4krVy2cY8NTC3NG5xyx7RhfBG6c7": {
@@ -18219,7 +18225,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "EX6XCpvtxXGFE849v29ATTNfKn3yqx1RdCQvStrHXgBr": {
@@ -18653,7 +18660,9 @@
       "LIQUIDITY": 53,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "8WsHGe9suXdakEnKeabRaZW9Vo5dRPeouHPSmKLfq4sf": {
     "name": "Zano Confidential Assets",
@@ -18666,7 +18675,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "9TNvg1W6zQqFVC2ugZySzSmCQKtPbC1w9yoynx9Ppump": {
     "name": "Zano Confidential Assets",
@@ -18679,7 +18690,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "Aq7BMsW1t59BXnDaD9rfbLZEXA1qhe7GtGXsKvkhwWJF": {
     "name": "PUMP CAT",
@@ -18692,7 +18705,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "4592KXH4haN8DwMEWQA73KvxprjcbR5H3z6B4EUG7gbU": {
     "name": "The Wizard Cat",
@@ -18792,6 +18807,32 @@
     "liquidity_at_flag": 40494.67134486181,
     "breakdown": {
       "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "J3CSbwYnpbnVXsW8y6vjTTyoAYCMGUaPrzypS2vgew5k": {
+    "name": "Argus",
+    "symbol": "ARGUS",
+    "flagged_ts": 1789965568,
+    "liquidity_at_flag": 42827.60384015731,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "EcMdVAqMcXJpMmQwJ7F71vQrnEeWS52cWSWZt63SYk5Q": {
+    "name": "Claude Ai",
+    "symbol": "claude",
+    "flagged_ts": 1789965569,
+    "liquidity_at_flag": 28576.086702015156,
+    "breakdown": {
+      "MOMENTUM": 96,
       "SAFETY": 60,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
