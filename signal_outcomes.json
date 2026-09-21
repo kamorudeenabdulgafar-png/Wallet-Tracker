@@ -16196,7 +16196,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "4L5XB2htxdLeiP9UqmxQ8avwugQVFHWWqWpnUam1Fv26": {
@@ -16212,7 +16213,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "7gKL4uwSdiDSNmJy9XwQmAExJ8n83mBw2tqwUQYxMdQV": {
@@ -20035,7 +20037,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "DZyy4rJW1BJsjqc5PKfdPeRR1y2Ypr1SaEWuhfGHrnsN": {
@@ -20050,7 +20053,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "F2eSNbMnMYrYkjXAwNv8wZAf52ZizCtow42VhVbTpPco": {
@@ -20439,7 +20443,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "9NhMoow4uKmvXq8JPboGi2QrbKMT8XQFCDtBNTQ3tA5V": {
     "name": "Pump Family",
@@ -20452,7 +20458,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "3GdE8Q7Cd6a2pgkssKASgYV59bPqwFwzjs8VQwEipump": {
     "name": "Fairtrump",
@@ -20465,7 +20473,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "3DdbP1uddSA8y846jLBcJhUi5ECYw6CQtCviJvbgfomo": {
     "name": "Pump Family Cat",
@@ -20478,7 +20488,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "5GKJ1vmucnkQ7Pwztv43NXT8tycaLxfvhwmC5WWMrW9M": {
     "name": "Fairtrump",
@@ -20604,6 +20616,58 @@
     "liquidity_at_flag": 71630.20314124206,
     "breakdown": {
       "MOMENTUM": 69,
+      "SAFETY": 100,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "8ycnnyPebA2eWnpuXxepQYXx4AFz9aGQJ3pwVn8MGSeu": {
+    "name": "CLIPBACK",
+    "symbol": "CLIP",
+    "flagged_ts": 1790000950,
+    "liquidity_at_flag": 63768.45525088567,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "4KgF5f73S51YiMwUxPtA3trTDcVrYB8K4FAik5CyXUCm": {
+    "name": "Nipple",
+    "symbol": "Nipple",
+    "flagged_ts": 1790000951,
+    "liquidity_at_flag": 32830.33971527497,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "9hGoTV9jdBRiNYMcmcMB1dZkaxQpgx4Vd2CyCgMuJrHb": {
+    "name": "CLIPBACK",
+    "symbol": "CLIP",
+    "flagged_ts": 1790000952,
+    "liquidity_at_flag": 40360.2923268656,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "FM3veeRmHG5HwP9fzyw1LU1aswmAc4bhLiE5kCbypump": {
+    "name": "SOLTES",
+    "symbol": "SOLTES",
+    "flagged_ts": 1790000954,
+    "liquidity_at_flag": 34661.75866341013,
+    "breakdown": {
+      "MOMENTUM": 100,
       "SAFETY": 100,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
