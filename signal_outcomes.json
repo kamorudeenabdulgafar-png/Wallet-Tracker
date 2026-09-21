@@ -14649,7 +14649,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "4hMTbUpvFpDsv5KdmEnjfXydN814ZcosoitxPE1apump": {
@@ -14665,7 +14666,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "5i3Yz6WJa8accv8xoyBtkD5bBtntsw8VKNjcqYk5pump": {
@@ -14681,7 +14683,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "9UnvZjJnRas7kBZy136cbh6k9fLAFHsFYimf4fruBX2s": {
@@ -14697,7 +14700,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "D6TNmy2H7HnRtf1Uzbqfvben7pP8uaCob2cq7mRFZw5v": {
@@ -14713,7 +14717,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "8TaZj4fVAoNmSgyCjx6SuZMergcd1au51NJjdkB3pump": {
@@ -14729,7 +14734,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "GqRwWRZqo3bQQueyWNyDfdmnc7MfCBiTBhfMF6PGDRVe": {
@@ -19032,7 +19038,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "ZQDHKnFv84QJXCbEE1pF7PzgrRX5ogQC5dpebrtpump": {
@@ -19047,7 +19054,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "E2CaYPHmdmSbjrp9AgwjGFcQmsTcddqTpDYTKjVLVjcy": {
@@ -19541,7 +19549,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "cqFhQM1iYvyZdAsNax9kVQYvHm4vqahvXPVNbzeLPLh": {
     "name": "Lean",
@@ -19554,7 +19564,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "CjaAmmYRpJoFGAmsJDuwvibGroaXNCa8RBYWtd5vL7wh": {
     "name": "Zcash Shielded Assets",
@@ -19567,7 +19579,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "6N9VN124JW9aXzN3uRso7q3NgqXK3c7cKf8eXmDBqx9Y": {
     "name": "Lean",
@@ -19580,7 +19594,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "DHoZ6CrNynQaCvSyhk5rAzVyccfzWfvY7xxrooEtfCz6": {
     "name": "World Peace",
@@ -19668,6 +19684,32 @@
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "6Awrt4RbNFTe51gPPbmMxbpo2kUMXfNjKMkRGE24pump": {
+    "name": "KITTY COIN",
+    "symbol": "KITTY",
+    "flagged_ts": 1789981907,
+    "liquidity_at_flag": 20113.55735413657,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "6HUCjsXMMsLPXdCRxqEQbpmXDBYHsSwHzMxWTb9cKbnM": {
+    "name": "\ud83d\udcb2ADOG",
+    "symbol": "\ud83d\udcb2ADOG",
+    "flagged_ts": 1789981908,
+    "liquidity_at_flag": 47266.486976171334,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 75,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
