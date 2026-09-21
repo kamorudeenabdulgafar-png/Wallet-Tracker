@@ -17046,7 +17046,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "G52eSkiN2NXzEmgcsTCoU3DAiopzzp29Jpf2WjwuCQvH": {
@@ -17062,7 +17063,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "8K8Rfymx4Bgrw5F64RMotQwcS5eHDRKuAcsxRLuCGoZ8": {
@@ -17078,7 +17080,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "DtPapqFy7EsemZNx3NGF4WRgQjG9a54e2QTZuYpqf3gB": {
@@ -20517,7 +20520,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "9NhMoow4uKmvXq8JPboGi2QrbKMT8XQFCDtBNTQ3tA5V": {
@@ -20532,7 +20536,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "3GdE8Q7Cd6a2pgkssKASgYV59bPqwFwzjs8VQwEipump": {
@@ -20547,7 +20552,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "3DdbP1uddSA8y846jLBcJhUi5ECYw6CQtCviJvbgfomo": {
@@ -20562,7 +20568,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "5GKJ1vmucnkQ7Pwztv43NXT8tycaLxfvhwmC5WWMrW9M": {
@@ -21146,7 +21153,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "DBDpY43tbgKgTF9bcmNK12FiEhPDU3UTwghXAyauhp5a": {
     "name": "Monasolanatoken",
@@ -21159,7 +21168,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "EMUPUA5hDvgBubFxqAnkhEdNKnpNE1bgNW667mQ4pump": {
     "name": "Nya Cash Cat",
@@ -21231,6 +21242,45 @@
     "symbol": "MODELS",
     "flagged_ts": 1790011222,
     "liquidity_at_flag": 28764.34780841814,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "FvD9WfLWcwk8pVNU4UKrb4WG8NeeYkhXHEK46ut2WNH7": {
+    "name": "linked",
+    "symbol": "LINKED",
+    "flagged_ts": 1790011816,
+    "liquidity_at_flag": 36346.602849363,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "2QPKsevBW7afQMSEpTHSiRwFQd1VDBjVyWgAEJpp9crf": {
+    "name": "BUNNY",
+    "symbol": "\ud83d\udcb2BUNNY",
+    "flagged_ts": 1790011818,
+    "liquidity_at_flag": 54450.29193568962,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "5aF6oY2vTkEaG7ravuvZjeeHAe25Bb8VQG5cdG3WXzd5": {
+    "name": "Garry",
+    "symbol": "Garry",
+    "flagged_ts": 1790011819,
+    "liquidity_at_flag": 33466.06098642249,
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 60,
