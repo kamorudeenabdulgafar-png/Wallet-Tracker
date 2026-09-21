@@ -14088,7 +14088,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "FmA8XskCAFUbpf9ArpwB5d9Hvb7iXme87TH52gdDqp7n": {
@@ -14104,7 +14105,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "3YDZWi7mvEtaACVhc5XCiMhPj88iCY8BSYRMh84rGjUn": {
@@ -14120,7 +14122,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "4jDjBfnKgXv3Co8hsJMTFoZNttKmSeKPMuAy15RyLGDB": {
@@ -14136,7 +14139,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "2vDwcWVXbFdJC2c8zSLVX9tuZKycaABWjBSxUZbViAar": {
@@ -18471,7 +18475,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "DyQsPhXw5NLwhKLwnos79nEYt4V3F7nATaWv8KewfE72": {
@@ -18486,7 +18491,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "CReYNeG5VxH35uxwtD1z38QZMfrqu1moBu9goDcvKjLY": {
@@ -18501,7 +18507,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "DQSQKm6orZYYCfiZ2YeuAMomnAAdJ5iuNKtdwH183rNC": {
@@ -18965,7 +18972,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "ZQDHKnFv84QJXCbEE1pF7PzgrRX5ogQC5dpebrtpump": {
     "name": "SpaceX",
@@ -18978,7 +18987,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "E2CaYPHmdmSbjrp9AgwjGFcQmsTcddqTpDYTKjVLVjcy": {
     "name": "The Wizard Cat",
@@ -19078,6 +19089,58 @@
     "liquidity_at_flag": 26059.875001137032,
     "breakdown": {
       "MOMENTUM": 88,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "3VEbWt7Z8ECAT7xMosvFqQFdniHvzuxzXDFmuov4pump": {
+    "name": "beniduboss",
+    "symbol": "Beni",
+    "flagged_ts": 1789971195,
+    "liquidity_at_flag": 25118.931201476415,
+    "breakdown": {
+      "MOMENTUM": 82,
+      "SAFETY": 90,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "8YFajLywHjcMdKkgPFyKDtqgA7yCEveWU6u33UUqEFKT": {
+    "name": "unicoin",
+    "symbol": "UNICOIN",
+    "flagged_ts": 1789971196,
+    "liquidity_at_flag": 38621.106964076054,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "Dcs4oAp2rpMNnNyJnhsLTV9CswH5c4TEBuY4kzz9kcpg": {
+    "name": "Hikmji",
+    "symbol": "HUNBIKN",
+    "flagged_ts": 1789971197,
+    "liquidity_at_flag": 35437.29951248146,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "3dpzeY83KweZ5UTwqNsMqxHqMAsJzYMBmCdC7TuYmkw3": {
+    "name": "Outsider Cat",
+    "symbol": "OUTSIDER",
+    "flagged_ts": 1789971198,
+    "liquidity_at_flag": 31581.513720958766,
+    "breakdown": {
+      "MOMENTUM": 96,
       "SAFETY": 60,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
