@@ -1,5 +1,5 @@
 {
-  "last_updated": 1789994447,
+  "last_updated": 1789995314,
   "wallets": [
     {
       "label": "Dev wallet 1",
@@ -9,7 +9,7 @@
   "wallet_stats": {
     "5CEbueQnq1Ym2uSSx2xXds3jQAqT1BDnkA59RZobSPAG": {
       "label": "Dev wallet 1",
-      "buy_count": 245,
+      "buy_count": 247,
       "sell_count": 161,
       "total_buy_usd": 15274.245507115205,
       "total_sell_usd": 0.0,
@@ -66,7 +66,7 @@
         "suifhC9gU1VbJAPYPTBkHJyyyStKGLLYPVDTmPoqbvA",
         "USD1ttGY1N17NEEHLmELoaybftRBUSErhqYiQzvEmuB"
       ],
-      "last_active": 1789994439,
+      "last_active": 1789995309,
       "positions": {},
       "realized_pnl_usd": 0.0
     }
@@ -85,7 +85,7 @@
     "count": 2835,
     "up_count": 613,
     "total_change_pct": -155586.29928175083,
-    "rug": 623,
+    "rug": 625,
     "doing_well": 6,
     "steady": 4,
     "fading": 6
@@ -93,6 +93,56 @@
   "learning_insight": null,
   "settings": {},
   "recent_alerts": [
+    {
+      "ts": 1789995314,
+      "type": "outcome",
+      "message": "\ud83d\udd34 bnbminer.fun (MINER) is dropping fast \u2014 down 100%, may be rugging."
+    },
+    {
+      "ts": 1789995314,
+      "type": "outcome",
+      "message": "\ud83d\udd34 NICCOLO WOJAKAVELI (WOJAKAVELI) is dropping fast \u2014 down 90%, may be rugging."
+    },
+    {
+      "ts": 1789995313,
+      "type": "outcome",
+      "message": "\ud83d\udd34 Psyop Phil (PSYOPPHIL) is dropping fast \u2014 down 91%, may be rugging."
+    },
+    {
+      "ts": 1789995312,
+      "type": "outcome",
+      "message": "\ud83d\udd34 Claude Ai (claude) is dropping fast \u2014 down 100%, may be rugging."
+    },
+    {
+      "ts": 1789995311,
+      "type": "outcome",
+      "message": "\ud83d\udd34 \u0424\u043e\u043a\u0441\u0438 (Foxi) turned out to be a rug \u2014 liquidity dropped 77% over 24h."
+    },
+    {
+      "ts": 1789995311,
+      "type": "outcome",
+      "message": "\ud83d\udd34 \u0424\u043e\u043a\u0441\u0438 (Foxi) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
+    },
+    {
+      "ts": 1789995309,
+      "type": "wallet",
+      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: USDC -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/5zBSmnoanNH83e3Ymv4DdwDL7Av8XcpWipMSHiGTeHYbrchZznywaRgxFgUwEK7bcUYmcyutrWvvghzk3vuVnMp3"
+    },
+    {
+      "ts": 1789995308,
+      "type": "wallet",
+      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: USDC -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/4QcgsmAb7pksGFjvadxeNhriJyCmVX6yXoqsT3pcPczsVusYfcGs727vDVDcuvfz3UMmTE48Hp5azt1evRNkbokm"
+    },
+    {
+      "ts": 1789995308,
+      "type": "wallet",
+      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: ZEC -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/jFtvKbrdpzAyfTq9bVCCKqEhk3hyYWS4opaax2Ranm32r3qDnTW9FB9ZsF6awm5o6sF3SyKzJgDtEpVWdGfgGRZ"
+    },
+    {
+      "ts": 1789995307,
+      "type": "wallet",
+      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: SNAP -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/5LmkxfQci2HWHU6CcQ45gzkaLKGLLck16EwKaq8KLiCVC4PZdSZqVqfHfpBE8kHRgmgt5anc9kemLXbpscTekeWu"
+    },
     {
       "ts": 1789994447,
       "type": "outcome",
@@ -292,56 +342,6 @@
       "ts": 1789991337,
       "type": "outcome",
       "message": "\ud83d\udfe2 WOFI (WOFI) is still doing really good \u2014 up 104% so far!"
-    },
-    {
-      "ts": 1789991336,
-      "type": "outcome",
-      "message": "\ud83d\udd34 El Sapo Concho (Concho) is dropping fast \u2014 down 100%, may be rugging."
-    },
-    {
-      "ts": 1789991335,
-      "type": "outcome",
-      "message": "\ud83d\udd34 Jean Pepe (JEANPEPE) is dropping fast \u2014 down 89%, may be rugging."
-    },
-    {
-      "ts": 1789991334,
-      "type": "outcome",
-      "message": "\ud83d\udd34 Stealth Cat (MCAT) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
-    },
-    {
-      "ts": 1789991333,
-      "type": "outcome",
-      "message": "\ud83d\udd34 Feed Me Fomo (FEEDME) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
-    },
-    {
-      "ts": 1789991332,
-      "type": "outcome",
-      "message": "\ud83d\udd34 BUNNY (\ud83d\udcb2BUNNY) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
-    },
-    {
-      "ts": 1789991330,
-      "type": "outcome",
-      "message": "\ud83d\udd34 Yojji (Yojji) turned out to be a rug \u2014 liquidity dropped 91% over 24h."
-    },
-    {
-      "ts": 1789991330,
-      "type": "outcome",
-      "message": "\ud83d\udd34 MSA (MSA) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
-    },
-    {
-      "ts": 1789991329,
-      "type": "outcome",
-      "message": "\ud83d\udd34 Feed Me Fomo (FEEDME) turned out to be a rug \u2014 liquidity dropped 89% over 24h."
-    },
-    {
-      "ts": 1789991328,
-      "type": "scanner",
-      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\nbnbminer.fun (MINER)\nOpportunity: 71/100\n\nMOMENTUM     84\nSAFETY       60\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$27,079, 14 min since pool creation\n\u2022 Up +56% in the last hour, ~$109,576 in 24h volume (4.0x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 87% of supply (very concentrated)\n\nCA: 2wNjCwniqYSdebGdgAhiWdiQ6nRH47sE2HvrgezNmTkD\nhttps://dexscreener.com/solana/2wNjCwniqYSdebGdgAhiWdiQ6nRH47sE2HvrgezNmTkD\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
-    },
-    {
-      "ts": 1789991327,
-      "type": "scanner",
-      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 EXCEPTIONAL\nNICCOLO WOJAKAVELI (WOJAKAVELI)\nOpportunity: 90/100\n\nMOMENTUM     100\nSAFETY       100\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$31,111, 8 min since pool creation\n\u2022 Up +169% in the last hour, ~$482,264 in 24h volume (15.5x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Low, 0/100):\n\u2022 No major red flags found\n\nCA: G6vymstuvHMNdLK54QFb3mi3KhUeJ28TKsZySKndpump\nhttps://dexscreener.com/solana/G6vymstuvHMNdLK54QFb3mi3KhUeJ28TKsZySKndpump\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
     }
   ]
 }
