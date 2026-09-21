@@ -20828,7 +20828,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "Ap7S4TEmHKXzXaHyUDv9pYYjZW5WoiYrqwTC8sZoGz2F": {
@@ -21352,7 +21353,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "AZhuQ2ncipAtpatTfhYtb9okriVHhpFEbfVfKoWuug9w": {
     "name": "$Nipple$",
@@ -21502,6 +21505,45 @@
     "symbol": "Catpack",
     "flagged_ts": 1790016015,
     "liquidity_at_flag": 27458.880802474305,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "BWAUxygWFy5KHJA8xeEoCdkTUimD1RjC92ke5VFSpump": {
+    "name": "tipped.family",
+    "symbol": "TIPPED",
+    "flagged_ts": 1790016789,
+    "liquidity_at_flag": 26510.998217345226,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 90,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "sXkBZq77JtB999LVDT7NUrmWpJEuyjbUKyTrswZX8VB": {
+    "name": "Gstock",
+    "symbol": "GSTOCK",
+    "flagged_ts": 1790016791,
+    "liquidity_at_flag": 43057.63698748314,
+    "breakdown": {
+      "MOMENTUM": 99,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "CDLfE4AXKtTRUT3JAn3A6gvhnicuQLCbtkAhpw5tYvnp": {
+    "name": "Bella",
+    "symbol": "BELLA",
+    "flagged_ts": 1790016792,
+    "liquidity_at_flag": 39351.600812278535,
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 60,
