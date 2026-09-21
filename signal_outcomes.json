@@ -13238,7 +13238,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "8aSfVU8YozYr4WeDczdatNK5fqa1rbfwkEZyVNzScEfx": {
@@ -13254,7 +13255,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "8vuVTeDTUspsoXF8dEm2HApcaVwdHmE6dmSEo4Zcs33Z": {
@@ -13270,7 +13272,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "63Wk8qu2bJLeixFyvPA6meNJHmxsqJ2Wi1xVX5ssDqoW": {
@@ -13286,7 +13289,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "4DXmMxtUfbcTWg6ojqMtxEY6uVqAswyTa3zGLUDf2PNq": {
@@ -13302,7 +13306,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "DvU1whW9o1cFGUVDNM2jY1Y9HNF39DyXaJ5T1L6HX3sk": {
@@ -13318,7 +13323,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "4Vj8xDF4KMbbJotCWpsYvt5XgC5vFByisa4p1pYBGm1C": {
@@ -13334,7 +13340,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "9mrBGSTNj5kh7M3GiP1oQ5uXdK2LidTU89HiRvmR6Fod": {
@@ -13350,7 +13357,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "3WS6qASJtojatGFtMAHpXkJM2gEHYdhqm51GFgZnpump": {
@@ -18101,7 +18109,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "ExUbQj1UVtmkuC9Xi9AoQwKPFc5wt3hgpF1rBqsNpump": {
@@ -18460,7 +18469,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "7MNSSAX831HSwT8RNaAAq99CCz7jbcYfjou2PFp4Q9v9": {
     "name": "Baby Jean Phil",
@@ -18636,6 +18647,32 @@
     "symbol": "PUMPCAT",
     "flagged_ts": 1789961425,
     "liquidity_at_flag": 28659.806663746316,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 100,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "4592KXH4haN8DwMEWQA73KvxprjcbR5H3z6B4EUG7gbU": {
+    "name": "The Wizard Cat",
+    "symbol": "WIZARDCAT",
+    "flagged_ts": 1789962242,
+    "liquidity_at_flag": 50202.498163250115,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "pjx1j1NdqioiDPsDDFLiaiTdwCnBQWo2QYic1DWpump": {
+    "name": "GitHub Coin",
+    "symbol": "GitHub",
+    "flagged_ts": 1789962242,
+    "liquidity_at_flag": 52252.83479323951,
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 100,

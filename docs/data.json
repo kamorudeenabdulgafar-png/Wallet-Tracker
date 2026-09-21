@@ -1,5 +1,5 @@
 {
-  "last_updated": 1789961434,
+  "last_updated": 1789962249,
   "wallets": [
     {
       "label": "Dev wallet 1",
@@ -10,7 +10,7 @@
     "5CEbueQnq1Ym2uSSx2xXds3jQAqT1BDnkA59RZobSPAG": {
       "label": "Dev wallet 1",
       "buy_count": 241,
-      "sell_count": 159,
+      "sell_count": 160,
       "total_buy_usd": 15274.245507115205,
       "total_sell_usd": 0.0,
       "tokens_traded": [
@@ -66,7 +66,7 @@
         "suifhC9gU1VbJAPYPTBkHJyyyStKGLLYPVDTmPoqbvA",
         "USD1ttGY1N17NEEHLmELoaybftRBUSErhqYiQzvEmuB"
       ],
-      "last_active": 1789961419,
+      "last_active": 1789962239,
       "positions": {},
       "realized_pnl_usd": 0.0
     }
@@ -85,7 +85,7 @@
     "count": 2835,
     "up_count": 613,
     "total_change_pct": -155586.29928175083,
-    "rug": 492,
+    "rug": 499,
     "doing_well": 4,
     "steady": 4,
     "fading": 4
@@ -93,6 +93,81 @@
   "learning_insight": null,
   "settings": {},
   "recent_alerts": [
+    {
+      "ts": 1789962249,
+      "type": "outcome",
+      "message": "\ud83d\udd34 \u4ee3\u8868\u5929\u624d\u7684\u9690\u79c1Ghost (Ghost) is dropping fast \u2014 down 100%, may be rugging."
+    },
+    {
+      "ts": 1789962249,
+      "type": "outcome",
+      "message": "\ud83d\udd34 BUNNY (\ud83d\udcb2BUNNY) is dropping fast \u2014 down 100%, may be rugging."
+    },
+    {
+      "ts": 1789962248,
+      "type": "outcome",
+      "message": "\ud83d\udd34 Binance Square Paid (PAID) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
+    },
+    {
+      "ts": 1789962247,
+      "type": "outcome",
+      "message": "\ud83d\udd34 SENDING (SENDING) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
+    },
+    {
+      "ts": 1789962246,
+      "type": "outcome",
+      "message": "\ud83d\udd34 \u5b59\u5c0f\u5723 (\u5b59\u5c0f\u5723) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
+    },
+    {
+      "ts": 1789962245,
+      "type": "outcome",
+      "message": "\ud83d\udd34 Superior Inu (SI) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
+    },
+    {
+      "ts": 1789962245,
+      "type": "outcome",
+      "message": "\ud83d\udd34 SENDING (SENDING) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
+    },
+    {
+      "ts": 1789962244,
+      "type": "outcome",
+      "message": "\ud83d\udd34 aura (aura) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
+    },
+    {
+      "ts": 1789962243,
+      "type": "outcome",
+      "message": "\ud83d\udd34 Uranus (URANUS) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
+    },
+    {
+      "ts": 1789962242,
+      "type": "scanner",
+      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 EXCEPTIONAL\nGitHub Coin (GitHub)\nOpportunity: 90/100\n\nMOMENTUM     100\nSAFETY       100\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$52,253, 17 min since pool creation\n\u2022 Up +158% in the last hour, ~$250,215 in 24h volume (4.8x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Low, 0/100):\n\u2022 No major red flags found\n\nCA: pjx1j1NdqioiDPsDDFLiaiTdwCnBQWo2QYic1DWpump\nhttps://dexscreener.com/solana/pjx1j1NdqioiDPsDDFLiaiTdwCnBQWo2QYic1DWpump\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
+    },
+    {
+      "ts": 1789962242,
+      "type": "scanner",
+      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\nThe Wizard Cat (WIZARDCAT)\nOpportunity: 76/100\n\nMOMENTUM     100\nSAFETY       60\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$50,202, 16 min since pool creation\n\u2022 Up +169% in the last hour, ~$225,652 in 24h volume (4.5x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 85% of supply (very concentrated)\n\nCA: 4592KXH4haN8DwMEWQA73KvxprjcbR5H3z6B4EUG7gbU\nhttps://dexscreener.com/solana/4592KXH4haN8DwMEWQA73KvxprjcbR5H3z6B4EUG7gbU\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
+    },
+    {
+      "ts": 1789962239,
+      "type": "wallet",
+      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: COINx -> USDC\nTrade size: unknown\nBought token: USD Coin (USDC)\nCA: EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v\nhttps://solscan.io/tx/2gvm3AnJQdcUYKqL7y86wkx5UNYpmGjNXdi3EDebkErJbjjCkpxugJjo7Z7VaZ2U78xKtAzG52wXLTyS9ezC89nJ"
+    },
+    {
+      "ts": 1789962239,
+      "type": "wallet",
+      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: VIDAx -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/XPtRvdEz4Lx4SoFkLsNmTdivTpK697V3A4j8W4y6PU23makG8STZY4Rx236UdFziGuCBdL4dAS76yp7uAeoMHsL"
+    },
+    {
+      "ts": 1789962238,
+      "type": "wallet",
+      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: $WIF -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/QYvZAhnqMbXb2GogtoQoW9kgkatBJ6MVbTpPw9V9VWpFwvhVPrjQ6PYN6HgcqufaU6ns5xmzEnLZ4YXTasLVaiH"
+    },
+    {
+      "ts": 1789962238,
+      "type": "wallet",
+      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: JUP -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/ngbbbXovSKp3Y8GE1F45VVmsr3CKM2QDXmKadH6dYA8XaA4LWE5ETWtsbHH86dcb7xmZR8KXfW8FjhUVA6qgZPE"
+    },
     {
       "ts": 1789961434,
       "type": "outcome",
@@ -267,81 +342,6 @@
       "ts": 1789958932,
       "type": "outcome",
       "message": "\ud83d\udd34 Zebra (ZEBRA) is dropping fast \u2014 down 100%, may be rugging."
-    },
-    {
-      "ts": 1789958932,
-      "type": "outcome",
-      "message": "\ud83d\udd34 Zcash Shielded Assets (Stamp) is dropping fast \u2014 down 100%, may be rugging."
-    },
-    {
-      "ts": 1789958931,
-      "type": "outcome",
-      "message": "\ud83d\udd34 Zcash Shielded Assets (Stamp) is dropping fast \u2014 down 100%, may be rugging."
-    },
-    {
-      "ts": 1789958930,
-      "type": "outcome",
-      "message": "\ud83d\udfe0 rsolve (RSOLVE) is fading \u2014 down 55% so far."
-    },
-    {
-      "ts": 1789958929,
-      "type": "outcome",
-      "message": "\ud83d\udd34 xPad (xPad) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
-    },
-    {
-      "ts": 1789958928,
-      "type": "outcome",
-      "message": "\ud83d\udd34 LaunchOnSF (Stonk) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
-    },
-    {
-      "ts": 1789958927,
-      "type": "scanner",
-      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\nfrank (DEGODS)\nOpportunity: 76/100\n\nMOMENTUM     100\nSAFETY       60\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$40,379, 14 min since pool creation\n\u2022 Up +92% in the last hour, ~$411,216 in 24h volume (10.2x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 94% of supply (very concentrated)\n\nCA: Dqtw4i2zsBCEQF9r14tbYnMW2wJCCLBii58zsbdeFhy\nhttps://dexscreener.com/solana/Dqtw4i2zsBCEQF9r14tbYnMW2wJCCLBii58zsbdeFhy\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
-    },
-    {
-      "ts": 1789958927,
-      "type": "scanner",
-      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\nBaby Jean Phil (BABYPHIL)\nOpportunity: 76/100\n\nMOMENTUM     100\nSAFETY       60\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$34,221, 10 min since pool creation\n\u2022 Up +103% in the last hour, ~$110,079 in 24h volume (3.2x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 84% of supply (very concentrated)\n\nCA: 7MNSSAX831HSwT8RNaAAq99CCz7jbcYfjou2PFp4Q9v9\nhttps://dexscreener.com/solana/7MNSSAX831HSwT8RNaAAq99CCz7jbcYfjou2PFp4Q9v9\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
-    },
-    {
-      "ts": 1789958273,
-      "type": "outcome",
-      "message": "\ud83d\udd34 Nasduck (Nasduck) is dropping fast \u2014 down 100%, may be rugging."
-    },
-    {
-      "ts": 1789958272,
-      "type": "outcome",
-      "message": "\ud83d\udd34 Jean Phil (JEANPHIL) is dropping fast \u2014 down 100%, may be rugging."
-    },
-    {
-      "ts": 1789958271,
-      "type": "outcome",
-      "message": "\ud83d\udfe0 JubJub (JUBJUB) is fading \u2014 down 31% so far."
-    },
-    {
-      "ts": 1789958270,
-      "type": "outcome",
-      "message": "\ud83d\udd34 JUBJUB (JUBJUB) is dropping fast \u2014 down 100%, may be rugging."
-    },
-    {
-      "ts": 1789958269,
-      "type": "outcome",
-      "message": "\ud83d\udd34 heyaskr (ASKR) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
-    },
-    {
-      "ts": 1789958268,
-      "type": "outcome",
-      "message": "\ud83d\udd34 WSOS (WSOS) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
-    },
-    {
-      "ts": 1789958267,
-      "type": "outcome",
-      "message": "\ud83d\udd34 NVIDIA (NVIDIA) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
-    },
-    {
-      "ts": 1789958266,
-      "type": "outcome",
-      "message": "\ud83d\udd34 Argus (ARGUS) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
     }
   ]
 }
