@@ -13510,7 +13510,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "EeDrTCCAwiE1pLFeShrxLAzgNhBSeq71Kq6hHwwD3MdZ": {
@@ -13526,7 +13527,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "BwhZ55qWMLSGUo63jYxfxgmHh3RnzLgkBywv7KzvzaS": {
@@ -13542,7 +13544,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "BEURW6xwQ6y9qEtjwMghCyhKJPYkUAw1FhYg95mQZrdF": {
@@ -13558,7 +13561,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "FKa3hL44a4UfeNmn3FbTdRpvdh81BhLKhDtRWNTeSJDh": {
@@ -13574,7 +13578,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "BQkGdvVHVNjArFSJCP2Xfw3priqwGiEK8grrWBXTGUrK": {
@@ -13590,7 +13595,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "CBLgLg4rjkqqwXuZjR1WAqWet2vR68Vne32J2bFLpump": {
@@ -13606,7 +13612,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "4uYgRFcZd4VUQYdEELJBhWbpyauahC1YFcSwJbMfeJkY": {
@@ -13622,7 +13629,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "7DvjtyNLbiWyQEgBnnQX9t32SAT2M5UnJia6SHpbf6Ey": {
@@ -18630,7 +18638,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "29j6RrRZPhfLLTYTJF4fBV1TMXzhqgkSa9pa2pQ8pump": {
     "name": "SourBoy",
@@ -18741,6 +18751,45 @@
     "symbol": "ARGUS",
     "flagged_ts": 1789962941,
     "liquidity_at_flag": 42632.1181359128,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "GMD2UpfqWQmg79DaT33Tq2u8za4h3A3mSmPJPp4fGaUF": {
+    "name": "Zcash Shielded Assets",
+    "symbol": "Stamp",
+    "flagged_ts": 1789964517,
+    "liquidity_at_flag": 39023.185039020915,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 100,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "8Hy2EXTuNaxWYom3DRUjxr9pqiynd5vJDGf1DFxc1bSq": {
+    "name": "Uranus",
+    "symbol": "URANUS",
+    "flagged_ts": 1789964519,
+    "liquidity_at_flag": 33895.01667247515,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "8KrCrAfymAJsQmNQdTBb8VoZ5kn31a5KUfRnY2G82p8q": {
+    "name": "\u00a5\u00a5RQ",
+    "symbol": "\u00a5\u00a5RQ",
+    "flagged_ts": 1789964520,
+    "liquidity_at_flag": 40494.67134486181,
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 60,
