@@ -17199,7 +17199,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "3BxPRiYNDmwwoifZ1pTXkgjamVoy1kmauZxuJY6ArHWp": {
@@ -17215,7 +17216,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "7HxvNKhDyjY5iYEXFUvZAiQyVQKT9t56h3FV36D16AJA": {
@@ -20622,7 +20624,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "FmDURuykQP3QYcFDn8xf53idZ6oiHTmXmkUu6d249VKQ": {
@@ -21191,7 +21194,9 @@
       "LIQUIDITY": 56,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "zvSrjRNfrFALHzFeZgg9zWT3uZsuLPkE1b9YfTHpump": {
     "name": "Black Bull Bubu",
@@ -21204,7 +21209,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "HyabBio8GPY5iYjcMMv2KHxqDocxFC12Pma6tR2LGL4c": {
     "name": "\u666f\u751c",
@@ -21302,6 +21309,32 @@
     "symbol": "ALWAYS",
     "flagged_ts": 1790012716,
     "liquidity_at_flag": 30785.2791615738,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "AZhuQ2ncipAtpatTfhYtb9okriVHhpFEbfVfKoWuug9w": {
+    "name": "$Nipple$",
+    "symbol": "$Nipple$",
+    "flagged_ts": 1790013205,
+    "liquidity_at_flag": 28218.42665794002,
+    "breakdown": {
+      "MOMENTUM": 93,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "8L7LUXyM69ebJNHHBT2QqeTfznjzCKpY35yL5WieeBL1": {
+    "name": "Always Has Been",
+    "symbol": "ALWAYS",
+    "flagged_ts": 1790013206,
+    "liquidity_at_flag": 24988.322952564882,
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 60,
