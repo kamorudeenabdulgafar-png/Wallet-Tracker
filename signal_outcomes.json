@@ -13714,7 +13714,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "BQh47ydimCEV5KK2xcwiBBDZVDzS3UxyTGKjjDzvvH7T": {
@@ -13730,7 +13731,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "6Ssh6RT2VZjC59DigDeCgQMYJTyKSui1mQgBSN6agq8H": {
@@ -13746,7 +13748,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "83hbHHQiRMVwiETxWxzG7g2KHHrEZ2274n5SFXyqWszD": {
@@ -13762,7 +13765,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "5jMTGJTmAw5CVaUhSRxJpWdTqpbbmoJaMeD3DgxJ8Kqx": {
@@ -13778,7 +13782,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "VcD3NHLewdH5eycBBfexuBz1upieNvuCfcKd9n3M92C": {
@@ -18241,7 +18246,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "HzJLYqWcvbaUJm7sWkcHX1LcopvdKXX5bqrMQR6LM5se": {
@@ -18720,7 +18726,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "pjx1j1NdqioiDPsDDFLiaiTdwCnBQWo2QYic1DWpump": {
     "name": "GitHub Coin",
@@ -18733,7 +18741,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "9iLqrzNWG4EpTkqGjLq7BhsHhVJyJ81BvauVzu7drfBk": {
     "name": "The Wizard Cat",
@@ -18834,6 +18844,58 @@
     "breakdown": {
       "MOMENTUM": 96,
       "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "XUHrDqBUvcKy5S1k2MitbcFxvh2ABgfQYtoPhJFpump": {
+    "name": "Jean Trump",
+    "symbol": "JEANTRUMP",
+    "flagged_ts": 1789966287,
+    "liquidity_at_flag": 38652.24731182528,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 100,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "FPQ5UHUi4utKJVQ2jBTcg993bEnmwcCDS3nT9Lkc4BkF": {
+    "name": "Printer",
+    "symbol": "Printer",
+    "flagged_ts": 1789966288,
+    "liquidity_at_flag": 27214.290445488194,
+    "breakdown": {
+      "MOMENTUM": 85,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "AWKgzndaPXucoUVxg4FdZu8aHA3LY8cHmhwpZBLRpPYd": {
+    "name": "Printer",
+    "symbol": "Printer",
+    "flagged_ts": 1789966289,
+    "liquidity_at_flag": 30439.230085486808,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "9d9JhGWi7FAwiFRmsVPR5sEeTVe5Eb1hG4dkYEckyuEf": {
+    "name": "EQUITY",
+    "symbol": "EQUITY",
+    "flagged_ts": 1789966291,
+    "liquidity_at_flag": 33660.633460084864,
+    "breakdown": {
+      "MOMENTUM": 67,
+      "SAFETY": 100,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
