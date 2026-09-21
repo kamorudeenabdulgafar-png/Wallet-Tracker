@@ -17267,7 +17267,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "D4sVPk2TasXL61VCw4xbqtxRBmcdEKmQGXTidVzwofFW": {
@@ -17283,7 +17284,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "3jwBtX7S34HaHQw2amNpZ1qcNgyzbwH8NUXnGfeoDYH5": {
@@ -17299,7 +17301,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "5yRkkyW7HHUUvh6pbjtKCVvdht6sC8C2SJyG9Tj1XDrB": {
@@ -17315,7 +17318,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "Ah7RLwwSd6Ee22gtt2eKemMo8u8RVuriasxLzwwk7USb": {
@@ -20706,7 +20710,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "HP2A6DNJWNWyUMHNbneBnp3h9UE8paULTxr3veefGFp1": {
@@ -20721,7 +20726,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "5wZDE8f5uKHbVaHAyz84Lgz7xefAkCpvcwoWYaRCrfn": {
@@ -20736,7 +20742,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "8ycnnyPebA2eWnpuXxepQYXx4AFz9aGQJ3pwVn8MGSeu": {
@@ -21260,7 +21267,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "D6UKxcaqQWBsNM7CABTbNugqfQC42FpNrqxrvtUDaKEp": {
     "name": "models",
@@ -21273,7 +21282,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "FvD9WfLWcwk8pVNU4UKrb4WG8NeeYkhXHEK46ut2WNH7": {
     "name": "linked",
@@ -21387,6 +21398,58 @@
     "breakdown": {
       "MOMENTUM": 75,
       "SAFETY": 100,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "3Z3htugNeEYd6ANKbX3FaTZii6sJb87uAWJvG4k8bDJi": {
+    "name": "WASH",
+    "symbol": "WASH",
+    "flagged_ts": 1790015008,
+    "liquidity_at_flag": 30630.979284054956,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "7qi57KtjUCoDqNpE3qq73RurWHmgYccpyZXNBkEdpump": {
+    "name": "onlypads.fun",
+    "symbol": "ONLYPADS",
+    "flagged_ts": 1790015009,
+    "liquidity_at_flag": 15686.380388617956,
+    "breakdown": {
+      "MOMENTUM": 67,
+      "SAFETY": 90,
+      "LIQUIDITY": 78,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "GR2Re2cnGZwYKeBeusD6e1oXwBC2AK3zD85oLXPEAEYc": {
+    "name": "A coin for you",
+    "symbol": "Foru",
+    "flagged_ts": 1790015010,
+    "liquidity_at_flag": 34660.05852563731,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "pUdosFwoJrsC1FkKuZwS5SwQPHLHEGns2gGpDUCFj5C": {
+    "name": "PUDDO",
+    "symbol": "PUDDO",
+    "flagged_ts": 1790015011,
+    "liquidity_at_flag": 28034.0734476775,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 90,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
