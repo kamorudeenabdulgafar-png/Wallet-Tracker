@@ -14530,7 +14530,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "EEdcTKwQMtg6TUu2zoJhP79mYJksgYprxesXwuiPJphn": {
@@ -14546,7 +14547,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "4MCxhYhnViT6fsxj5dCXehzZ8415Tbx8epxW2UfbrJu6": {
@@ -14562,7 +14564,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "8MBRpBhah1tfDAmBBVAdhWrpRCstGs6t1ZeowXwrLX4i": {
@@ -18833,7 +18836,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "Gr5fk4Y2FFKSXorMaJoTQMBPx4JgEg7fhsKWWJnAkBmN": {
@@ -18848,7 +18852,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "HawS1fc4aZwRKzGj4FPaTHxdgGMrtZwD2Uztj4takUFZ": {
@@ -18863,7 +18868,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "GMD2UpfqWQmg79DaT33Tq2u8za4h3A3mSmPJPp4fGaUF": {
@@ -19312,7 +19318,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "5ogtVhZgJYQeZDraTutD8SZAinAHQc6mPNMXG61q8rNe": {
     "name": "Leopardus Jean Phil",
@@ -19325,7 +19333,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "BgA77vdJPkD4re2PjzARTi3j6Kac2ubRq3XQwJFC5cyv": {
     "name": "Mr. Douchebag",
@@ -19338,7 +19348,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "2MQxSQqzvikeZXC9pqezAs6tasdAinNBXneAAdjoVCjp": {
     "name": "The Wizard Cat",
@@ -19475,6 +19487,58 @@
     "symbol": "FOMOX",
     "flagged_ts": 1789976331,
     "liquidity_at_flag": 54642.8916272232,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "5TEXBNqSxfod4n15zqrCk1kt6nQc9KfEuqqkR2x2pump": {
+    "name": "Baby Jean Phil",
+    "symbol": "BABYJEAN",
+    "flagged_ts": 1789977931,
+    "liquidity_at_flag": 65801.89134328782,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 100,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "cqFhQM1iYvyZdAsNax9kVQYvHm4vqahvXPVNbzeLPLh": {
+    "name": "Lean",
+    "symbol": "LEAN",
+    "flagged_ts": 1789977933,
+    "liquidity_at_flag": 33569.396019872525,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "CjaAmmYRpJoFGAmsJDuwvibGroaXNCa8RBYWtd5vL7wh": {
+    "name": "Zcash Shielded Assets",
+    "symbol": "Stamp",
+    "flagged_ts": 1789977934,
+    "liquidity_at_flag": 56245.185823049935,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "6N9VN124JW9aXzN3uRso7q3NgqXK3c7cKf8eXmDBqx9Y": {
+    "name": "Lean",
+    "symbol": "LEAN",
+    "flagged_ts": 1789977935,
+    "liquidity_at_flag": 46366.224742359846,
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 60,
