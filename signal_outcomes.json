@@ -12762,7 +12762,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "8wyKyyT5Fkyu865YPe2geifEYFFk3STt9huDxpifCoRZ": {
@@ -17641,7 +17642,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "BJ9mPPkCqnMisMiv7JQW7MJ2fgDyjm9udmwHZuJ2YcTf": {
@@ -17656,7 +17658,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "FMEgrpXkJ9e4vUrLszibLn8iCxg4ynjBjKztCsE3pump": {
@@ -18105,7 +18108,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "ARuTorBXa2r1358Xr9NRZZ54yXN27uCz3DQe9sHrXvgc": {
     "name": "Paid",
@@ -18118,7 +18123,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "86vhv3jBgTEmVGEc4krVy2cY8NTC3NG5xyx7RhfBG6c7": {
     "name": "Invisible, Nameless, Untraceable",
@@ -18131,7 +18138,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "EX6XCpvtxXGFE849v29ATTNfKn3yqx1RdCQvStrHXgBr": {
     "name": "Invisible, Nameless, Untraceable",
@@ -18216,6 +18225,19 @@
     "symbol": "ZEPE",
     "flagged_ts": 1789953761,
     "liquidity_at_flag": 34308.302275295224,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "HLT4PjYGfXerLZoJs6dTWsQ9eFPD2NmzXUkwwxNi7g6J": {
+    "name": "Nasduck",
+    "symbol": "Nasduck",
+    "flagged_ts": 1789954617,
+    "liquidity_at_flag": 30285.2903773784,
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 60,

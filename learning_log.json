@@ -1,13 +1,5 @@
 [
   {
-    "name": "The Depressed Pigeon",
-    "symbol": "Pigeon",
-    "category": "rug",
-    "change_pct": -100.0,
-    "breakdown": null,
-    "ts": 1789871800
-  },
-  {
     "name": "DGrid AI",
     "symbol": "DGAI",
     "category": "rug",
@@ -3313,5 +3305,18 @@
       "SMART MONEY": 0
     },
     "ts": 1789953762
+  },
+  {
+    "name": "Superior Inu",
+    "symbol": "SI",
+    "category": "rug",
+    "change_pct": -100.0,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "ts": 1789954618
   }
 ]
