@@ -13153,7 +13153,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "2PPL5P7iiHMFvZLe6xzq3mzUaAH8mdQ2NN8z7pLKpump": {
@@ -18000,7 +18001,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "8fJikdmFbmDscHXVR2zJZsQVoouZHZW3MKh9hcBjn46X": {
@@ -18015,7 +18017,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "nBt6Te4BQR2AoDi1J2e8WWNNbPS2Xy4FNjzGC4cpump": {
@@ -18389,7 +18392,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "DyQsPhXw5NLwhKLwnos79nEYt4V3F7nATaWv8KewfE72": {
     "name": "Uranus",
@@ -18402,7 +18407,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "CReYNeG5VxH35uxwtD1z38QZMfrqu1moBu9goDcvKjLY": {
     "name": "Avax Cat",
@@ -18415,7 +18422,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "DQSQKm6orZYYCfiZ2YeuAMomnAAdJ5iuNKtdwH183rNC": {
     "name": "Claude Ai",
@@ -18555,6 +18564,19 @@
     "breakdown": {
       "MOMENTUM": 93,
       "SAFETY": 100,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "65cnQLD6do2oPtD1sBxnkgNAPYfTmnfT1kQjCdNGd3JL": {
+    "name": "Argus",
+    "symbol": "ARGUS",
+    "flagged_ts": 1789960210,
+    "liquidity_at_flag": 36042.06067528595,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
