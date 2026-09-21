@@ -17437,7 +17437,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "B1G9fsSoxCViC5Ue9XqcmDC3FLFaDRGCVD6Q6ZA3zRyj": {
@@ -17453,7 +17454,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "4kR3GJMPduokHwDE7nn81PfuVQ995dHeptMGpdszKA6v": {
@@ -17469,7 +17471,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "EKtmPPLaCbEEKiwoHHtV7TsRsmPXs5CMGtQtZFSiinsc": {
@@ -17485,7 +17488,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "FHJn4ZuAmYViGhRcbN8ss9vNZvZNF77aCua7v3sTpump": {
@@ -17501,7 +17505,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "D4WmjrSWcTfXPmp1ommDtK1y7BWQmJEfuL1iGAKQwSYr": {
@@ -20844,7 +20849,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "4z1QWRd68BhhMr9kye7JihiEnrphxnyDmXMgR8mkvcoK": {
@@ -20859,7 +20865,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "9KeaoHJmaSJaEbMmBosgR8eJXY6kAqjT9MRLFREMhXSv": {
@@ -20874,7 +20881,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "7eTAqv4MzFCg5A8BDkc7LSTYEgKbGWgcbUtekuD9GVTG": {
@@ -21368,7 +21376,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "8L7LUXyM69ebJNHHBT2QqeTfznjzCKpY35yL5WieeBL1": {
     "name": "Always Has Been",
@@ -21381,7 +21391,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "CMwCjRsiyY8SKAFoAVExxCeTVn9Zt1ps9VjBfdxQru6u": {
     "name": "WASH",
@@ -21547,6 +21559,19 @@
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "BFnW18X9NPXEukNZB79V2ABywF2Y7mo3P7hzCgyypump": {
+    "name": "Crumb Paw",
+    "symbol": "$CRPAW",
+    "flagged_ts": 1790017509,
+    "liquidity_at_flag": 34886.516473915086,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 100,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
