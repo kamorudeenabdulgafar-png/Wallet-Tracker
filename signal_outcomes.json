@@ -12779,7 +12779,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "5vzxkBd2B11r4VFBbA7Uf43Z36gZdGLznvSrNoFYvuHH": {
@@ -12795,7 +12796,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "DSnmKSMDHQjbakDeBnvRhEX5g93aRERRVFY4LoTcSSvk": {
@@ -12811,7 +12813,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "BFJLENLugbiGh8bTw8yoJbG8ErG9BGu9Z3LPjQqN7CKw": {
@@ -17674,7 +17677,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "2zdzfByzbVDbSKyhV6ub5r3JuqTEp11XCuXC9Tq3TiQi": {
@@ -17689,7 +17693,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "2XxAbWDQA3qJXvpemiuhCe3G5NB5ADuR5UUvET8j4EEa": {
@@ -17704,7 +17709,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "G7kzoLBrx6zeqU8k5i6Z3JVD6zB8t53pKhCAg4VorJ9i": {
@@ -18153,7 +18159,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "HzJLYqWcvbaUJm7sWkcHX1LcopvdKXX5bqrMQR6LM5se": {
     "name": "The Official Zcash Mascot",
@@ -18241,6 +18249,19 @@
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "2aaTYejy2EkeRch4vuJGqKg1TLFZDiUe2br3Pj1vbz8d": {
+    "name": "Zebra",
+    "symbol": "ZEBRA",
+    "flagged_ts": 1789955246,
+    "liquidity_at_flag": 31222.569358160297,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 100,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
