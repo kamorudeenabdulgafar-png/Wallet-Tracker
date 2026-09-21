@@ -19935,7 +19935,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "5acGmpWFNMEUmBYs941dDuL5pbyVtSL692aYP7EWjgRs": {
@@ -20324,7 +20325,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "8PByus5RSicfAZGkK2GtCgAiXjvBiS7u2K4dMq4UXn2r": {
     "name": "Anthropic",
@@ -20337,7 +20340,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "C6wMqwePG14uWPo185cRsFzvV9TmiSTEYGATFiAfFHt9": {
     "name": "the black robin",
@@ -20350,7 +20355,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "GRgnMFAMvrKbbTSfzPHUmidaco9sJSDCMA2PRDRLQTQR": {
     "name": "SIU",
@@ -20476,6 +20483,19 @@
     "liquidity_at_flag": 30658.378449583237,
     "breakdown": {
       "MOMENTUM": 85,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "6fesULSbSEF9ixG7HQ4c9wCGSfAKMoKb2LHcpxoSmyQh": {
+    "name": "Pump Family",
+    "symbol": "FAMILY",
+    "flagged_ts": 1789998493,
+    "liquidity_at_flag": 45976.83519451691,
+    "breakdown": {
+      "MOMENTUM": 100,
       "SAFETY": 60,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
