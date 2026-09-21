@@ -14615,7 +14615,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "HsBHpHpFb9rSuUSB7U27qoYVRLLXRv4VA1R2gnh5e6jL": {
@@ -14631,7 +14632,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "BoCjGbwHZdxunm7j8CtSNeQLrvUbk4wgjAYA69Rjdod5": {
@@ -18934,7 +18936,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "EcMdVAqMcXJpMmQwJ7F71vQrnEeWS52cWSWZt63SYk5Q": {
@@ -18949,7 +18952,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "XUHrDqBUvcKy5S1k2MitbcFxvh2ABgfQYtoPhJFpump": {
@@ -19458,7 +19462,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "An5kK7J3oumRuoR11wVmhxn2Kw1uq22KjUweuwgr1kGc": {
     "name": "El Sapo Concho",
@@ -19471,7 +19477,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "xUNBsUTdFvoCzjnhgq1wiZCETa8qAqB2bCBmGs1pump": {
     "name": "WOFI",
@@ -19484,7 +19492,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "76gjDppziDEKW5cCx6ydRy3rLEpeoYrX4jAfRgXLHRGK": {
     "name": "SCALE",
@@ -19497,7 +19507,9 @@
       "LIQUIDITY": 96,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "6WL5MRjSyuwrBMVgXdmHpQVqFbkCZifMnu4jdkztnJ57": {
     "name": "FOMOX Coin",
@@ -19510,7 +19522,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "5TEXBNqSxfod4n15zqrCk1kt6nQc9KfEuqqkR2x2pump": {
     "name": "Baby Jean Phil",
@@ -19595,6 +19609,19 @@
     "symbol": "URANUS",
     "flagged_ts": 1789979886,
     "liquidity_at_flag": 35195.00094680714,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "hs2fLD4N2hQ9CyYwvjdSQ5S5ckxiUHXw8RiFaeqj4nR": {
+    "name": "Claude Ai",
+    "symbol": "claude",
+    "flagged_ts": 1789980556,
+    "liquidity_at_flag": 53534.06236633938,
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 60,
