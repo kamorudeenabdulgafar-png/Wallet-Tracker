@@ -5,14 +5,6 @@
     "category": "rug",
     "change_pct": -100.0,
     "breakdown": null,
-    "ts": 1789899558
-  },
-  {
-    "name": "Achi",
-    "symbol": "ACHI",
-    "category": "rug",
-    "change_pct": -100.0,
-    "breakdown": null,
     "ts": 1789900249
   },
   {
@@ -3828,5 +3820,18 @@
       "SMART MONEY": 0
     },
     "ts": 1789982967
+  },
+  {
+    "name": "Paid",
+    "symbol": "PAID",
+    "category": "rug",
+    "change_pct": -100.0,
+    "breakdown": {
+      "MOMENTUM": 78,
+      "SAFETY": 100,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "ts": 1789983707
   }
 ]

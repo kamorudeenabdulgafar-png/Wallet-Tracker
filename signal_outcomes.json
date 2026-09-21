@@ -14785,7 +14785,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "7TQFpXmrZW1mryannJxJDLCys6iZiFe3uw2B2N2qpump": {
@@ -19120,7 +19121,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "B5QisLFy9cdMDbF7ZAMSzFhnyakWEE1GPYW1uciSrg2G": {
@@ -19135,7 +19137,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "GpUkmLHWPZkBFYjNiwrhuqoFXaoxB6cF2WYKgFbPpump": {
@@ -19150,7 +19153,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "QRwDiWMARAfkv61tuKGoFPcDgV19tykrSsrJZGo1APZ": {
@@ -19165,7 +19169,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "7kVHn4Ts4NRW3LcHdqpiRY4JTsfFpJo2iJyuB5xwkHCQ": {
@@ -19644,7 +19649,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "hs2fLD4N2hQ9CyYwvjdSQ5S5ckxiUHXw8RiFaeqj4nR": {
     "name": "Claude Ai",
@@ -19771,6 +19778,19 @@
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "23KRj9aM3GFeUjSpRfyya434VVXqEiz32QnARd9npump": {
+    "name": "StampCat",
+    "symbol": "STAMPCAT",
+    "flagged_ts": 1789983705,
+    "liquidity_at_flag": 51988.95265594404,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 100,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
