@@ -14156,7 +14156,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "EGPJ9t5y1awJEdHa1fpnsFNfCTMrGx4Crd2yLAc1pump": {
@@ -14172,7 +14173,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "7iqNt5w6sustemjwGMKQv1S5uzmsxgGMhfo43ZyC15tu": {
@@ -14188,7 +14190,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "6Fmrdozk2URhTyMr1YVpasbDE7jomiJjjXRKGbCQZA5A": {
@@ -14204,7 +14207,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "9ue4nA2piheTeSYRqbX5bc6Q5ctAjkUZkXDgcegwqMBT": {
@@ -18523,7 +18527,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "FWyQ7v3C3Ry7pwMWwYExoi6jg19r4f9oYYbS7Pe2qXVP": {
@@ -19002,7 +19007,9 @@
       "LIQUIDITY": 98,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "CYpWhq2w1EtgcerPjm7dtVkkcFfvQPp2jT1kTXrmjLge": {
     "name": "Argus",
@@ -19015,7 +19022,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "FLthARDK8eKethuCsHdLSSiVBWMGAL6twi2JERAYHD2y": {
     "name": "Avax Cat",
@@ -19028,7 +19037,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "Gugvm2XhQm2Y8Db2Kt3CGri5UTnVgpxDMkNUtvtqNM21": {
     "name": "Uranus",
@@ -19142,6 +19153,84 @@
     "breakdown": {
       "MOMENTUM": 96,
       "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "7DtK5nPsQEMyENpdhADW4dxz9rkh3pKf46p8SMn6pump": {
+    "name": "Leopardus Jean Phil",
+    "symbol": "JEANGRINO",
+    "flagged_ts": 1789972623,
+    "liquidity_at_flag": 46056.57110822036,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 100,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "6RS6qRWQwnBGj6g4Unm1yrCT3L6t8R8gn9BY8vv899HA": {
+    "name": "Uranus",
+    "symbol": "URANUS",
+    "flagged_ts": 1789972625,
+    "liquidity_at_flag": 33374.16679937695,
+    "breakdown": {
+      "MOMENTUM": 85,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "oLBC9CABVwpjiHMyBwhAtzqLnL71fyHpQWnWpnfpump": {
+    "name": "FAT HOMIE",
+    "symbol": "FatHomie",
+    "flagged_ts": 1789972626,
+    "liquidity_at_flag": 39025.361136433945,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 100,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "4vxe1sG97DqggPrUE9egBVsfAb2cTogYFCc3RC2FgsLm": {
+    "name": "The Popeye Albino",
+    "symbol": "POPEYE",
+    "flagged_ts": 1789972626,
+    "liquidity_at_flag": 70678.67075811722,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "kztWLHtePNNgyca8Xr3T8kjAPbuFifDcSc64kJdRdsX": {
+    "name": "Hikmji",
+    "symbol": "HUNBIKN",
+    "flagged_ts": 1789972627,
+    "liquidity_at_flag": 61257.830314810395,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "8QbgLDGwhoBScEEg79WvEgW972gPPryPaW1sdCkJime6": {
+    "name": "ZZZ",
+    "symbol": "ZZZ",
+    "flagged_ts": 1789972629,
+    "liquidity_at_flag": 39595.10313725473,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 100,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
