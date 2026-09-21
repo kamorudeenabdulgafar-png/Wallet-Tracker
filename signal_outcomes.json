@@ -16332,7 +16332,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "9pnBqPhqhU6C6NLb85R9tjDKVPA5mqzbxCDrfGsW2eWd": {
@@ -20556,7 +20557,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "C94cp6NTSjCfVskqZw3ULpVKPFuDgnZqAguKLXuCbAwp": {
     "name": "JevBall",
@@ -20569,7 +20572,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "Fs2mtLj3r1JZBBELq5jxX8DEjj29fbYpWTUk6cJ3wZ6e": {
     "name": "Pump Family",
@@ -20582,7 +20587,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "DAnh5qeKMYJZeEYa67HnVx4Tgeq3BqJMRXoZ5pnvLumA": {
     "name": "Pump Family",
@@ -20595,7 +20602,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "FmgCeVHMygCroZGP1T4scqrM9oSHQmfRkeQjkbtheiPH": {
     "name": "Get Awarded",
@@ -20709,6 +20718,58 @@
     "breakdown": {
       "MOMENTUM": 95,
       "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "4z1QWRd68BhhMr9kye7JihiEnrphxnyDmXMgR8mkvcoK": {
+    "name": "Advanced Micro Dog",
+    "symbol": "AMD",
+    "flagged_ts": 1790003108,
+    "liquidity_at_flag": 26909.102549902917,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "9KeaoHJmaSJaEbMmBosgR8eJXY6kAqjT9MRLFREMhXSv": {
+    "name": "CLIP",
+    "symbol": "CLIP",
+    "flagged_ts": 1790003109,
+    "liquidity_at_flag": 33593.40055695596,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "7eTAqv4MzFCg5A8BDkc7LSTYEgKbGWgcbUtekuD9GVTG": {
+    "name": "Dog of Stonk",
+    "symbol": "DONK",
+    "flagged_ts": 1790003110,
+    "liquidity_at_flag": 27083.286822992726,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "E2LinunRUCGxVV3iq1bb99RfA2ERKKn9PUn7eyKZu6oL": {
+    "name": "ZKEY",
+    "symbol": "ZKEY",
+    "flagged_ts": 1790003111,
+    "liquidity_at_flag": 35851.179679074005,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 75,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
