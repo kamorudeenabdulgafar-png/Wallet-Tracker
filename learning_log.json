@@ -1,13 +1,5 @@
 [
   {
-    "name": "BLACK HOLE",
-    "symbol": "\ud83d\udcb2INHALE",
-    "category": "rug",
-    "change_pct": -100.0,
-    "breakdown": null,
-    "ts": 1789894466
-  },
-  {
     "name": "SIXSEVEN",
     "symbol": "67",
     "category": "rug",
@@ -3728,5 +3720,18 @@
       "SMART MONEY": 0
     },
     "ts": 1789974415
+  },
+  {
+    "name": "Uranus",
+    "symbol": "URANUS",
+    "category": "rug",
+    "change_pct": -100.0,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "ts": 1789975391
   }
 ]

@@ -14411,7 +14411,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "FJbQrgwKhiwcCwQcUJsptC3tDPFEjALMpyU3eDvmSwfn": {
@@ -18714,7 +18715,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "29j6RrRZPhfLLTYTJF4fBV1TMXzhqgkSa9pa2pQ8pump": {
@@ -19148,7 +19150,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "8YFajLywHjcMdKkgPFyKDtqgA7yCEveWU6u33UUqEFKT": {
     "name": "unicoin",
@@ -19161,7 +19165,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "Dcs4oAp2rpMNnNyJnhsLTV9CswH5c4TEBuY4kzz9kcpg": {
     "name": "Hikmji",
@@ -19174,7 +19180,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "3dpzeY83KweZ5UTwqNsMqxHqMAsJzYMBmCdC7TuYmkw3": {
     "name": "Outsider Cat",
@@ -19187,7 +19195,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "7DtK5nPsQEMyENpdhADW4dxz9rkh3pKf46p8SMn6pump": {
     "name": "Leopardus Jean Phil",
@@ -19353,6 +19363,32 @@
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 100,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "6idfG4iAfRyn7qJDFNy2pQVhRyek1NB266BvBEfcH1vh": {
+    "name": "Snowline",
+    "symbol": "SNOW",
+    "flagged_ts": 1789975389,
+    "liquidity_at_flag": 29840.29343366997,
+    "breakdown": {
+      "MOMENTUM": 84,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "25A1bmyk2fUUwmRxgDzZ5ZvBcTiCSSG4j4yTtBJoHSRh": {
+    "name": "Paid",
+    "symbol": "PAID",
+    "flagged_ts": 1789975390,
+    "liquidity_at_flag": 47052.8267117309,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
