@@ -16230,7 +16230,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "28s629AYevCB8T1GyaaHqGj28pX1PT9C5mmFf5nDNHn4": {
@@ -20503,7 +20504,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "HqR22T1LvbgCL1ZdRJesFER1ukfR8eg9dewDG3QQVMK1": {
     "name": "Claude Ai",
@@ -20516,7 +20519,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "6fesULSbSEF9ixG7HQ4c9wCGSfAKMoKb2LHcpxoSmyQh": {
     "name": "Pump Family",
@@ -20666,6 +20671,19 @@
     "symbol": "SOLTES",
     "flagged_ts": 1790000954,
     "liquidity_at_flag": 34661.75866341013,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 100,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "stckszzSEhZgCsLmmUpas1hmkggVMRtLGucDTTXLfHs": {
+    "name": "PStock Markets",
+    "symbol": "PSTOCK",
+    "flagged_ts": 1790001735,
+    "liquidity_at_flag": 42360.86378726034,
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 100,
