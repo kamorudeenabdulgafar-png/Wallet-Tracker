@@ -18406,7 +18406,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "ExUbQj1UVtmkuC9Xi9AoQwKPFc5wt3hgpF1rBqsNpump": {
@@ -21733,7 +21734,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "23xGDFRGPb3vFHk9KxsXnVv8ZNDQc6AEzBsF63ykKL9c": {
@@ -21748,7 +21750,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "9aw2tc2FdaCXzzzefYRDWek9cDP4YF2wYvx2Lhdfpump": {
@@ -21763,7 +21766,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "3pvu1Gey7uA5sDaTi3D6q5Pgi2U24H92W4gsZfA9igXQ": {
@@ -21778,7 +21782,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "GBfUsPBKF3Zem5jcSmiq5J6qTBuVwoKwtZQfzhc49f6r": {
@@ -22288,6 +22293,32 @@
     "symbol": "musebook",
     "flagged_ts": 1790032754,
     "liquidity_at_flag": 33531.36816105664,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "2kFVVpScFtPixZ8zrS6iF3ZiTCj9aKkzA1jRN2GeWDqR": {
+    "name": "Green Loom",
+    "symbol": "GL",
+    "flagged_ts": 1790034280,
+    "liquidity_at_flag": 16672.578611312118,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 83,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "8RxomBLg5qza83XA8zuUrQnhTZ3LRDzGqknwu8UDCrkX": {
+    "name": "The Underdog",
+    "symbol": "HUSKY",
+    "flagged_ts": 1790034282,
+    "liquidity_at_flag": 75357.27793418695,
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 60,
