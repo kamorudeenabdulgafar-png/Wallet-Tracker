@@ -16247,7 +16247,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "ARWSiZ8SLYMjJVxVtmTvHci87GUw149gQ9TgDgKNTNd2": {
@@ -16263,7 +16264,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "Cy9Je1QAQZUiXMH4cJ3GY32QLamCv3cSwFfHRd6cH4r7": {
@@ -16279,7 +16281,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "3xUdK3H1Uh4T6cBEyAQGMkEPgcoqfB5fTChNRPzXR97S": {
@@ -16295,7 +16298,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "974HWs7SERGFFuyHmmdANqA8g5SAAMj2HHzvBiz3wN2D": {
@@ -16311,7 +16315,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "FFczgQUsGQYoPgKDXiJzExVZ3wvxjP8bZg5CFJo4SPF3": {
@@ -20070,7 +20075,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "9zYxYu6AAf3VkhtvQfPxMP4KJqasP99cDRRvAZmaieXi": {
@@ -20085,7 +20091,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "FztLJ1p8SamxpzqgL3uVqyKphoAVHZA84ueWgfgNFKoY": {
@@ -20534,7 +20541,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "FmDURuykQP3QYcFDn8xf53idZ6oiHTmXmkUu6d249VKQ": {
     "name": "$Nipple",
@@ -20687,6 +20696,19 @@
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 100,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "Ap7S4TEmHKXzXaHyUDv9pYYjZW5WoiYrqwTC8sZoGz2F": {
+    "name": "Claude Ai",
+    "symbol": "claude",
+    "flagged_ts": 1790002521,
+    "liquidity_at_flag": 31778.72860487464,
+    "breakdown": {
+      "MOMENTUM": 95,
+      "SAFETY": 60,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
