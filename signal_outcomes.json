@@ -21596,7 +21596,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "F42sTstdUYziYjhLLpwjZxXKSbW77bUWs3M6E1LEJNdg": {
@@ -21611,7 +21612,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "sAVD1W8Y8QupDkAp5pscAPR7mb6Rf5j1a7UgH4j6G9y": {
@@ -21626,7 +21628,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "BWAUxygWFy5KHJA8xeEoCdkTUimD1RjC92ke5VFSpump": {
@@ -22135,7 +22138,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "8xrwR3R7DTpZpLkXJduVCE2eRLCaGGfbBFVXmtrcpU3W": {
     "name": "XtraPad",
@@ -22197,6 +22202,19 @@
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "HnCtNawhB83Vh6CLzP5k5AGHVFxesSnnMWmNuVCdpump": {
+    "name": "FOMOSAUR",
+    "symbol": "FOMOSAUR",
+    "flagged_ts": 1790030708,
+    "liquidity_at_flag": 30054.11267995702,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 100,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
