@@ -13799,7 +13799,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "3DxAakBxaqzM7wLBNC3qrkq8Cr6LPAowVaL7CKwrjnRF": {
@@ -13815,7 +13816,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "AYSuhVpQVi945FS77aXQQUswDB62CYjdRnhoCE6cmGb7": {
@@ -13831,7 +13833,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "DodZKUNtZvHLUgu6WTqbvb54D7KZfd3P33ZHYStspump": {
@@ -18262,7 +18265,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "GrqfgmE942PU2r4UyJp2arCXUw5PBFr8bJP2dxp33SKG": {
@@ -18277,7 +18281,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "6XNxnhMXcbiWLadfmeixckmEV3j8Lhf7yzU3adNpxHE9": {
@@ -18292,7 +18297,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "6XXjiyYeFeS49ArxZTxTbJa3w5wigMakGZUcjE6npump": {
@@ -18307,7 +18313,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "FDh1dt1AqdfYDFpv1RR41ncp9FcBN7Yv19GxmczR7qTk": {
@@ -18756,7 +18763,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "Gr5fk4Y2FFKSXorMaJoTQMBPx4JgEg7fhsKWWJnAkBmN": {
     "name": "Zebra",
@@ -18769,7 +18778,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "HawS1fc4aZwRKzGj4FPaTHxdgGMrtZwD2Uztj4takUFZ": {
     "name": "Argus",
@@ -18782,7 +18793,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "GMD2UpfqWQmg79DaT33Tq2u8za4h3A3mSmPJPp4fGaUF": {
     "name": "Zcash Shielded Assets",
@@ -18895,6 +18908,32 @@
     "liquidity_at_flag": 33660.633460084864,
     "breakdown": {
       "MOMENTUM": 67,
+      "SAFETY": 100,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "5hfcpVNZs9bxjWTgGWK1ApGFJkh4rsNN1Ve1rBMcpump": {
+    "name": "Bald Jean",
+    "symbol": "BALDJEAN",
+    "flagged_ts": 1789967128,
+    "liquidity_at_flag": 37669.471224093475,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 100,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "ZQDHKnFv84QJXCbEE1pF7PzgrRX5ogQC5dpebrtpump": {
+    "name": "SpaceX",
+    "symbol": "SPCX",
+    "flagged_ts": 1789967130,
+    "liquidity_at_flag": 67763.90615930624,
+    "breakdown": {
+      "MOMENTUM": 65,
       "SAFETY": 100,
       "LIQUIDITY": 100,
       "SMART MONEY": 0

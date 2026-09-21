@@ -1,5 +1,5 @@
 {
-  "last_updated": 1789966299,
+  "last_updated": 1789967139,
   "wallets": [
     {
       "label": "Dev wallet 1",
@@ -66,7 +66,7 @@
         "suifhC9gU1VbJAPYPTBkHJyyyStKGLLYPVDTmPoqbvA",
         "USD1ttGY1N17NEEHLmELoaybftRBUSErhqYiQzvEmuB"
       ],
-      "last_active": 1789965566,
+      "last_active": 1789967126,
       "positions": {},
       "realized_pnl_usd": 0.0
     }
@@ -85,7 +85,7 @@
     "count": 2835,
     "up_count": 613,
     "total_change_pct": -155586.29928175083,
-    "rug": 516,
+    "rug": 519,
     "doing_well": 4,
     "steady": 4,
     "fading": 5
@@ -93,6 +93,81 @@
   "learning_insight": null,
   "settings": {},
   "recent_alerts": [
+    {
+      "ts": 1789967139,
+      "type": "outcome",
+      "message": "\ud83d\udd34 Argus (ARGUS) is dropping fast \u2014 down 100%, may be rugging."
+    },
+    {
+      "ts": 1789967138,
+      "type": "outcome",
+      "message": "\ud83d\udd34 Zebra (ZEBRA) is dropping fast \u2014 down 100%, may be rugging."
+    },
+    {
+      "ts": 1789967138,
+      "type": "outcome",
+      "message": "\ud83d\udfe2 The Wizard Cat (WIZARDCAT) is still doing really good \u2014 up 33% so far!"
+    },
+    {
+      "ts": 1789967137,
+      "type": "outcome",
+      "message": "\ud83d\udfe1 Anonymous Quant (ZQUANT) is holding steady so far (+1%)."
+    },
+    {
+      "ts": 1789967136,
+      "type": "outcome",
+      "message": "\ud83d\udd34 The Official Zcash Mascot (ZOOKO) is dropping fast \u2014 down 100%, may be rugging."
+    },
+    {
+      "ts": 1789967135,
+      "type": "outcome",
+      "message": "\ud83d\udd34 The Official Zcash Mascot (ZOOKO) is dropping fast \u2014 down 100%, may be rugging."
+    },
+    {
+      "ts": 1789967134,
+      "type": "outcome",
+      "message": "\ud83d\udd34 The Official Zcash Mascot (ZOOKO) is dropping fast \u2014 down 100%, may be rugging."
+    },
+    {
+      "ts": 1789967133,
+      "type": "outcome",
+      "message": "\ud83d\udd34 Pepe (Pepe) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
+    },
+    {
+      "ts": 1789967132,
+      "type": "outcome",
+      "message": "\ud83d\udd34 Tesla (TSLA) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
+    },
+    {
+      "ts": 1789967131,
+      "type": "outcome",
+      "message": "\ud83d\udd34 Seed (SEED) turned out to be a rug \u2014 liquidity dropped 87% over 24h."
+    },
+    {
+      "ts": 1789967130,
+      "type": "scanner",
+      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\nSpaceX (SPCX)\nOpportunity: 78/100\n\nMOMENTUM     65\nSAFETY       100\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$67,764, 11 min since pool creation\n\u2022 Up +43% in the last hour, ~$100,191 in 24h volume (1.5x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Low, 0/100):\n\u2022 No major red flags found\n\nCA: ZQDHKnFv84QJXCbEE1pF7PzgrRX5ogQC5dpebrtpump\nhttps://dexscreener.com/solana/ZQDHKnFv84QJXCbEE1pF7PzgrRX5ogQC5dpebrtpump\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
+    },
+    {
+      "ts": 1789967128,
+      "type": "scanner",
+      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 EXCEPTIONAL\nBald Jean (BALDJEAN)\nOpportunity: 90/100\n\nMOMENTUM     100\nSAFETY       100\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$37,669, 6 min since pool creation\n\u2022 Up +241% in the last hour, ~$295,206 in 24h volume (7.8x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Low, 0/100):\n\u2022 No major red flags found\n\nCA: 5hfcpVNZs9bxjWTgGWK1ApGFJkh4rsNN1Ve1rBMcpump\nhttps://dexscreener.com/solana/5hfcpVNZs9bxjWTgGWK1ApGFJkh4rsNN1Ve1rBMcpump\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
+    },
+    {
+      "ts": 1789967127,
+      "type": "wallet",
+      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: PONS -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/4grs21EWGc2ippmFLuAVs9JvASuw1UbGCmscKyr6s3dBT6Jjn71D2nwkvZozYfmEBff83XC9UvktbYmXvbMMdAe7"
+    },
+    {
+      "ts": 1789967126,
+      "type": "wallet",
+      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: FTX Token -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/4GD4Z89Z7WKLwkksbdfnnajoCWY1eWe9bJfoianUvxbB3WaVeVFZioJZ4gDWwBuZm7VEC67K3SHDfCL5xeABrDCy"
+    },
+    {
+      "ts": 1789967125,
+      "type": "wallet",
+      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: xBTC -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/3QGnk5Kc89Y9eMBLf1oA3crVsX1fPeZaTbVa8rFrq3DM44GheqHFak9ziKoT3fpuE6sEk4tKm6KVGuoXQSpg4muE"
+    },
     {
       "ts": 1789966299,
       "type": "outcome",
@@ -267,81 +342,6 @@
       "ts": 1789964519,
       "type": "scanner",
       "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\nUranus (URANUS)\nOpportunity: 76/100\n\nMOMENTUM     100\nSAFETY       60\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$33,895, 18 min since pool creation\n\u2022 Up +153% in the last hour, ~$45,373 in 24h volume (1.3x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 74% of supply (very concentrated)\n\nCA: 8Hy2EXTuNaxWYom3DRUjxr9pqiynd5vJDGf1DFxc1bSq\nhttps://dexscreener.com/solana/8Hy2EXTuNaxWYom3DRUjxr9pqiynd5vJDGf1DFxc1bSq\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
-    },
-    {
-      "ts": 1789964517,
-      "type": "scanner",
-      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 EXCEPTIONAL\nZcash Shielded Assets (Stamp)\nOpportunity: 90/100\n\nMOMENTUM     100\nSAFETY       100\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$39,023, 16 min since pool creation\n\u2022 Up +101% in the last hour, ~$33,053 in 24h volume (0.8x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Low, 0/100):\n\u2022 No major red flags found\n\nCA: GMD2UpfqWQmg79DaT33Tq2u8za4h3A3mSmPJPp4fGaUF\nhttps://dexscreener.com/solana/GMD2UpfqWQmg79DaT33Tq2u8za4h3A3mSmPJPp4fGaUF\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
-    },
-    {
-      "ts": 1789962948,
-      "type": "outcome",
-      "message": "\ud83d\udd34 frank (DEGODS) is dropping fast \u2014 down 100%, may be rugging."
-    },
-    {
-      "ts": 1789962947,
-      "type": "outcome",
-      "message": "\ud83d\udfe2 Baby Jean Phil (BABYPHIL) is still doing really good \u2014 up 201% so far!"
-    },
-    {
-      "ts": 1789962946,
-      "type": "outcome",
-      "message": "\ud83d\udfe0 zertz (zertz) is fading \u2014 down 48% so far."
-    },
-    {
-      "ts": 1789962946,
-      "type": "outcome",
-      "message": "\ud83d\udd34 Stamp Cat (STAMPCAT) is dropping fast \u2014 down 92%, may be rugging."
-    },
-    {
-      "ts": 1789962945,
-      "type": "outcome",
-      "message": "\ud83d\udd34 chart killer (challer) is dropping fast \u2014 down 93%, may be rugging."
-    },
-    {
-      "ts": 1789962944,
-      "type": "outcome",
-      "message": "\ud83d\udd34 SENDING (SENDING) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
-    },
-    {
-      "ts": 1789962944,
-      "type": "outcome",
-      "message": "\ud83d\udd34 HAALAND VIKING (Haalvik) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
-    },
-    {
-      "ts": 1789962943,
-      "type": "outcome",
-      "message": "\ud83d\udd34 Starlink Cat 5 (CAT5) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
-    },
-    {
-      "ts": 1789962942,
-      "type": "outcome",
-      "message": "\ud83d\udd34 RIP Q50 (RIPQ) turned out to be a rug \u2014 liquidity dropped 98% over 24h."
-    },
-    {
-      "ts": 1789962941,
-      "type": "scanner",
-      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\nArgus (ARGUS)\nOpportunity: 76/100\n\nMOMENTUM     100\nSAFETY       60\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$42,632, 16 min since pool creation\n\u2022 Up +140% in the last hour, ~$231,556 in 24h volume (5.4x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 80% of supply (very concentrated)\n\nCA: HawS1fc4aZwRKzGj4FPaTHxdgGMrtZwD2Uztj4takUFZ\nhttps://dexscreener.com/solana/HawS1fc4aZwRKzGj4FPaTHxdgGMrtZwD2Uztj4takUFZ\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
-    },
-    {
-      "ts": 1789962940,
-      "type": "scanner",
-      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 STRONG\nZebra (ZEBRA)\nOpportunity: 86/100\n\nMOMENTUM     89\nSAFETY       100\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$25,550, 16 min since pool creation\n\u2022 Up +59% in the last hour, ~$31,510 in 24h volume (1.2x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Low, 0/100):\n\u2022 No major red flags found\n\nCA: Gr5fk4Y2FFKSXorMaJoTQMBPx4JgEg7fhsKWWJnAkBmN\nhttps://dexscreener.com/solana/Gr5fk4Y2FFKSXorMaJoTQMBPx4JgEg7fhsKWWJnAkBmN\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
-    },
-    {
-      "ts": 1789962940,
-      "type": "scanner",
-      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\nThe Wizard Cat (WIZARDCAT)\nOpportunity: 76/100\n\nMOMENTUM     100\nSAFETY       60\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$76,318, 15 min since pool creation\n\u2022 Up +83% in the last hour, ~$479,509 in 24h volume (6.3x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 95% of supply (very concentrated)\n\nCA: 9iLqrzNWG4EpTkqGjLq7BhsHhVJyJ81BvauVzu7drfBk\nhttps://dexscreener.com/solana/9iLqrzNWG4EpTkqGjLq7BhsHhVJyJ81BvauVzu7drfBk\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
-    },
-    {
-      "ts": 1789962249,
-      "type": "outcome",
-      "message": "\ud83d\udd34 \u4ee3\u8868\u5929\u624d\u7684\u9690\u79c1Ghost (Ghost) is dropping fast \u2014 down 100%, may be rugging."
-    },
-    {
-      "ts": 1789962249,
-      "type": "outcome",
-      "message": "\ud83d\udd34 BUNNY (\ud83d\udcb2BUNNY) is dropping fast \u2014 down 100%, may be rugging."
     }
   ]
 }
