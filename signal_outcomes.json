@@ -18032,7 +18032,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "8L1FZzTSxhdC9JAQbQPp7oNUvAN6bEaML9dn4K38Jg8E": {
@@ -18048,7 +18049,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "FmiFkQ2D9nZFxbgToZ9wjx6PZBVoQXQZeCeso2TKDKMb": {
@@ -18064,7 +18066,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "4eHwRb4vwr3UsRzgvPwjov69eTSFFzMjppNVDuqguFFh": {
@@ -18080,7 +18083,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "Eg6rHrSaBrrcrz8ATt3uaPCoScVbhpWnsgtHbDJ6Xvyz": {
@@ -21995,7 +21999,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "H9gWBoP8mgTdyrcgsP5e7H6zBMmKT5EXvEp2EWq2mV5F": {
     "name": "CryptGO",
@@ -22008,7 +22014,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "7CE4KH1W8SbfQpnTPE6Rn2DoQqsD23xi1iF1gkZ9pump": {
     "name": "Mooncat",
@@ -22021,7 +22029,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "DcKfDN3rN9amfyDe8KjS3TXkomnu9Kocu1LvySsLhNYb": {
     "name": "Agemica",
@@ -22093,6 +22103,45 @@
     "symbol": "DATACENTER",
     "flagged_ts": 1790027055,
     "liquidity_at_flag": 34338.70852017302,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "8xrwR3R7DTpZpLkXJduVCE2eRLCaGGfbBFVXmtrcpU3W": {
+    "name": "XtraPad",
+    "symbol": "XtraPad",
+    "flagged_ts": 1790028314,
+    "liquidity_at_flag": 43702.97173722532,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "FgU8hVMmCss3biVXvmsgBiDNdYLaDHtEcXXMcCSVpump": {
+    "name": "Cult of Crypto",
+    "symbol": "$",
+    "flagged_ts": 1790028315,
+    "liquidity_at_flag": 22009.480759366605,
+    "breakdown": {
+      "MOMENTUM": 61,
+      "SAFETY": 90,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "DyzbDwSNxfAiQMubMPkYDxM7BYvAxyKJJiLgHtpD4PBk": {
+    "name": "tradecat",
+    "symbol": "tradecat",
+    "flagged_ts": 1790028317,
+    "liquidity_at_flag": 23454.174283182783,
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 60,
