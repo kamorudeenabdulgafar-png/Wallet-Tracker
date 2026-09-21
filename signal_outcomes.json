@@ -14802,7 +14802,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "GRSBvFNPnSnUMGZQC9ujAUcWvsmLwF6tVmr8zNoDRrQL": {
@@ -14818,7 +14819,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "EGTFrUPym8JnEMAddZjuhBkcSGEGTM75qymxUZgTpump": {
@@ -14834,7 +14836,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "AkpgSgPywnTcLPwspzT9rwAMpUtub4uHhnfEvCr4ChZK": {
@@ -14850,7 +14853,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "H85itvoqatMdys5p5kLeYo9pujkPcgDCshbnRDsfreHM": {
@@ -14866,7 +14870,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "2gTvNqq5wJeMY3KqWzPnRbeVZdfGE5UiGgjP1KCPThbg": {
@@ -14882,7 +14887,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "yPrR8M5uqjypzeSDEkYUwa329uJbhrpcgPqDo7UH7nu": {
@@ -19185,7 +19191,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "3VEbWt7Z8ECAT7xMosvFqQFdniHvzuxzXDFmuov4pump": {
@@ -19664,7 +19671,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "6EAPfDuXitXQq6uGvaoNE5kdEoTgAHa1TG1BP65YodS3": {
     "name": "bul,",
@@ -19791,6 +19800,32 @@
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 100,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "5acGmpWFNMEUmBYs941dDuL5pbyVtSL692aYP7EWjgRs": {
+    "name": "iDollar",
+    "symbol": "iDollar",
+    "flagged_ts": 1789984476,
+    "liquidity_at_flag": 31560.551890135517,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "9bYXK1VKaqbJ7PHPtGtZipxAtaQyZiKC4p5bnyx8bLo4": {
+    "name": "The Addiction Bird",
+    "symbol": "KIWI",
+    "flagged_ts": 1789984477,
+    "liquidity_at_flag": 39275.090830642584,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 75,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
