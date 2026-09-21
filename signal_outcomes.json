@@ -16655,7 +16655,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "7wmuRJE5BNHWg4p1JeWwFwjo163tQtyzVqzttyGY5Hsx": {
@@ -16671,7 +16672,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "E3ZVevAkzhvnpUmp3A5dvZSghcwfu3ixXpuKe2dNYpuG": {
@@ -16687,7 +16689,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "J6SVJSW4cMZv1KJkuDw19MqqtYXA1bGqYEEKxQtBtxgA": {
@@ -20286,7 +20289,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "3QzJkAD6Tg1ZeUvF5SkrPYTqLV2yunR8VhNGqTYqpump": {
@@ -20301,7 +20305,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "8q6aSV7HsmHFSuVS6gwyxFQzLgohhtaNnrxWYvgJpump": {
@@ -20765,7 +20770,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "4z1QWRd68BhhMr9kye7JihiEnrphxnyDmXMgR8mkvcoK": {
     "name": "Advanced Micro Dog",
@@ -20778,7 +20785,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "9KeaoHJmaSJaEbMmBosgR8eJXY6kAqjT9MRLFREMhXSv": {
     "name": "CLIP",
@@ -20791,7 +20800,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "7eTAqv4MzFCg5A8BDkc7LSTYEgKbGWgcbUtekuD9GVTG": {
     "name": "Dog of Stonk",
@@ -20804,7 +20815,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "E2LinunRUCGxVV3iq1bb99RfA2ERKKn9PUn7eyKZu6oL": {
     "name": "ZKEY",
@@ -20817,7 +20830,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "8tRQfGYnKhsHnmqfsWua84M7Dhndak5yJ3C1i6ouN41a": {
     "name": "Nautilo",
@@ -20980,6 +20995,71 @@
     "symbol": "SI",
     "flagged_ts": 1790006093,
     "liquidity_at_flag": 35418.54272603334,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "AvGeVtvWbZosswCbnUA83FaoR5UzfneKsZYXWNp5aMGJ": {
+    "name": "Super Inu",
+    "symbol": "SI",
+    "flagged_ts": 1790006724,
+    "liquidity_at_flag": 28797.299715548448,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "Hbc8UG4BcA8iX11C7PUQB3s7Mpz95nR7SDQDvyeJAe7X": {
+    "name": "Super Inu",
+    "symbol": "SI",
+    "flagged_ts": 1790006725,
+    "liquidity_at_flag": 17531.475183205454,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 88,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "9UW2VhhuF4sENeKFvDWBKuswCrEkG9E6ZVE9NhEkJC5E": {
+    "name": "Super Inu",
+    "symbol": "SI",
+    "flagged_ts": 1790006726,
+    "liquidity_at_flag": 70665.3215689676,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "CT4Dzg3PTnY6C6LmCg3w6WVsxc3tQWKgLhXvpE7vqy1P": {
+    "name": "Super Inu",
+    "symbol": "SI",
+    "flagged_ts": 1790006727,
+    "liquidity_at_flag": 67332.07960735066,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "3daqXogy1Xi9q1WUtAdMoj3fjUxj5hgEKDc1c1M9Tbh6": {
+    "name": "Super Inu",
+    "symbol": "SI",
+    "flagged_ts": 1790006729,
+    "liquidity_at_flag": 92119.43357278824,
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 60,
