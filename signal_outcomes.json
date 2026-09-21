@@ -16995,7 +16995,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "B4wAknK4fxQzmwYqhyj7CiQZa9sMwQ4WMxaPtJeqbPb5": {
@@ -17011,7 +17012,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "Fx8nwJFJi8TTSXwDEjyronDEQFtkr7STkBndGD3arxhz": {
@@ -17027,7 +17029,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "3uxzNhXquXNh8Y2avyxS5CnJVrSrQSGF4Bqd8F5Nfz7X": {
@@ -21215,6 +21218,19 @@
     "symbol": "NUVEX",
     "flagged_ts": 1790010533,
     "liquidity_at_flag": 38385.18761399367,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "D6UKxcaqQWBsNM7CABTbNugqfQC42FpNrqxrvtUDaKEp": {
+    "name": "models",
+    "symbol": "MODELS",
+    "flagged_ts": 1790011222,
+    "liquidity_at_flag": 28764.34780841814,
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 60,

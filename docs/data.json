@@ -1,5 +1,5 @@
 {
-  "last_updated": 1790010546,
+  "last_updated": 1790011226,
   "wallets": [
     {
       "label": "Dev wallet 1",
@@ -85,7 +85,7 @@
     "count": 2835,
     "up_count": 613,
     "total_change_pct": -155586.29928175083,
-    "rug": 684,
+    "rug": 687,
     "doing_well": 7,
     "steady": 4,
     "fading": 7
@@ -93,6 +93,26 @@
   "learning_insight": "Coins that rugged averaged SAFETY 69; coins that did well averaged SAFETY 88.",
   "settings": {},
   "recent_alerts": [
+    {
+      "ts": 1790011226,
+      "type": "outcome",
+      "message": "\ud83d\udd34 BITTIPS (BITTIPS) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
+    },
+    {
+      "ts": 1790011224,
+      "type": "outcome",
+      "message": "\ud83d\udd34 Baby Jean Phil (BABYPHIL) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
+    },
+    {
+      "ts": 1790011223,
+      "type": "outcome",
+      "message": "\ud83d\udd34 Factory new (FN) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
+    },
+    {
+      "ts": 1790011222,
+      "type": "scanner",
+      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\nmodels (MODELS)\nOpportunity: 76/100\n\nMOMENTUM     100\nSAFETY       60\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$28,764, 10 min since pool creation\n\u2022 Up +81% in the last hour, ~$224,414 in 24h volume (7.8x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 94% of supply (very concentrated)\n\nCA: D6UKxcaqQWBsNM7CABTbNugqfQC42FpNrqxrvtUDaKEp\nhttps://dexscreener.com/solana/D6UKxcaqQWBsNM7CABTbNugqfQC42FpNrqxrvtUDaKEp\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
+    },
     {
       "ts": 1790010546,
       "type": "outcome",
@@ -322,26 +342,6 @@
       "ts": 1790007698,
       "type": "outcome",
       "message": "\ud83d\udd34 Ch\u00f3 (Ch\u00f3) is dropping fast \u2014 down 100%, may be rugging."
-    },
-    {
-      "ts": 1790007697,
-      "type": "outcome",
-      "message": "\ud83d\udd34 Snowline (SNOW) is dropping fast \u2014 down 100%, may be rugging."
-    },
-    {
-      "ts": 1790007696,
-      "type": "outcome",
-      "message": "\ud83d\udd34 Solana Agent (SCOPE) is dropping fast \u2014 down 64%, may be rugging."
-    },
-    {
-      "ts": 1790007695,
-      "type": "outcome",
-      "message": "\ud83d\udfe2 Jean Wojak (JEANJAK) did really well \u2014 liquidity up 570% after 24h!"
-    },
-    {
-      "ts": 1790007694,
-      "type": "outcome",
-      "message": "\ud83d\udd34 krakenfx (Kraken) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
     }
   ]
 }
