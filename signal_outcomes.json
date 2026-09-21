@@ -16162,7 +16162,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "CPqsyMbct1zr2PGcFG6rKyCHida7L8HPSJcuLFCgmfFK": {
@@ -16178,7 +16179,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "FcjNk9YqEwYuefQiAMFC4N9BrqhwststeBKwCnLoL6Hd": {
@@ -19985,7 +19987,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "9qA5ySbS35S7uGq8iNYB7PHqiWmeCATgmVh7FoZxjwUz": {
@@ -20000,7 +20003,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "3rQbNDYYtPSJyKW36bDCjz9PJPvUZC3aRyv6vmYoVEZk": {
@@ -20015,7 +20019,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "RcZnXjxvPsG8jkD6PXSwyyxTmfw6DiQLfnL8hxbpump": {
@@ -20374,7 +20379,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "CvYxavED3b5furYQQKC95iDEPhnpqBJPCkLUJ38pP57G": {
     "name": "opcode.so",
@@ -20387,7 +20394,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "335YVM5pRzEzuLznLBMDFLzZCaV32peq7UdPcpNjGV4z": {
     "name": "BUNNY",
@@ -20400,7 +20409,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "BfQyGZcvEzr2MVfQi85W9pbeuV1UWF6foWgUoB33pump": {
     "name": "Anonymous Inu",
@@ -20413,7 +20424,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "967agyQVXvWGcvN9L7pwr3BwP7LhNzHUBQnaRSUGcuns": {
     "name": "MetaMask",
@@ -20553,6 +20566,45 @@
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "FmgCeVHMygCroZGP1T4scqrM9oSHQmfRkeQjkbtheiPH": {
+    "name": "Get Awarded",
+    "symbol": "AWARDED",
+    "flagged_ts": 1789999816,
+    "liquidity_at_flag": 29692.179036775124,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "HP2A6DNJWNWyUMHNbneBnp3h9UE8paULTxr3veefGFp1": {
+    "name": "Get Awarded",
+    "symbol": "AWARDED",
+    "flagged_ts": 1789999817,
+    "liquidity_at_flag": 14359.580218461208,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 72,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "5wZDE8f5uKHbVaHAyz84Lgz7xefAkCpvcwoWYaRCrfn": {
+    "name": "Get Awarded",
+    "symbol": "AWARDED",
+    "flagged_ts": 1789999818,
+    "liquidity_at_flag": 71630.20314124206,
+    "breakdown": {
+      "MOMENTUM": 69,
+      "SAFETY": 100,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
