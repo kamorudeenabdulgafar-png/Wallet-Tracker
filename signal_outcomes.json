@@ -20897,7 +20897,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "E2LinunRUCGxVV3iq1bb99RfA2ERKKn9PUn7eyKZu6oL": {
@@ -20912,7 +20913,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "8tRQfGYnKhsHnmqfsWua84M7Dhndak5yJ3C1i6ouN41a": {
@@ -21406,7 +21408,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "5uStPLt6TK4g5ULd57C4kv4wTuYv7sFmDQwYonTHFMUo": {
     "name": "CLIPBACK",
@@ -21419,7 +21423,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "EqW8zD3JVqiAVd3UAdoHCVYmJgK9KSuoghpAX4Nnpump": {
     "name": "fomocat",
@@ -21432,7 +21438,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "3Z3htugNeEYd6ANKbX3FaTZii6sJb87uAWJvG4k8bDJi": {
     "name": "WASH",
@@ -21572,6 +21580,19 @@
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 100,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "13sy9DtJsWiPZD1ETk6wiLdFjAbwj5fECsg8gcVLu18D": {
+    "name": "Bella",
+    "symbol": "BELLA",
+    "flagged_ts": 1790018346,
+    "liquidity_at_flag": 28566.473478760156,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
