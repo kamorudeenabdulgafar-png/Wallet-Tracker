@@ -13102,7 +13102,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "AKDgegfbZ6ecGjtAiobEYemDrWXkY6evxRfr9sYapump": {
@@ -13118,7 +13119,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "9xiAg36g7uaTjR8gMQSgH98rv5CYR59Vdwd41NdZvsGB": {
@@ -13134,7 +13136,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "4TTHefLZgTnEdPAQmBeGCcBRAyvLM9ukAfwyihrbgDmZ": {
@@ -18326,7 +18329,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "AAzk6bWWmuKLvLqkckJ44NCJN1bXa9n85TfgZA1cUkzT": {
     "name": "MOSS",
@@ -18339,7 +18344,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "GA9XPkF6rfrk1qBWQpki7kfxYjwfH3gLSzT2nx5EbYGs": {
     "name": "Argus",
@@ -18352,7 +18359,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "46DvpcsJBEz27Y8ZssUDYea8wa4fk1bsgL3F1Q3B4b4p": {
     "name": "Avax Cat",
@@ -18365,7 +18374,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "ERgezJ3dtnivUSsi5c5b85ie53YyQBebqGNngibktiBT": {
     "name": "frank",
@@ -18453,6 +18464,97 @@
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "zjtf7MhjbNzjxj3psGAJt3gR2nk2jzb7sjibo6Vpump": {
+    "name": "GitHub Coin",
+    "symbol": "GitHub",
+    "flagged_ts": 1789959449,
+    "liquidity_at_flag": 33818.78961939334,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 75,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "EvS92ipsDEHqZRKMmGtyhBtMScppQMK5d5Wc4qWMKSDH": {
+    "name": "420coin",
+    "symbol": "420",
+    "flagged_ts": 1789959450,
+    "liquidity_at_flag": 31182.64500467123,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 75,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "9oqTMkjixS4kRgMtFU648YBm74gCdVaAiVebEZ2cRjQS": {
+    "name": "XMRBAZAAR",
+    "symbol": "XMRB",
+    "flagged_ts": 1789959451,
+    "liquidity_at_flag": 20490.79634070453,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 90,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "8opQBasNd38kfnTSGK8RgjBmm1Pq4nQLh42hWMWnvYto": {
+    "name": "Hotel Lobby",
+    "symbol": "Lobby",
+    "flagged_ts": 1789959452,
+    "liquidity_at_flag": 31049.22294727781,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "ENpvfLvkV2YGk8ZgKWiB7yPAPusGutii2V5Aq4ukefkw": {
+    "name": "Argus",
+    "symbol": "ARGUS",
+    "flagged_ts": 1789959453,
+    "liquidity_at_flag": 34924.509995628236,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "B3SnESktJ9V99eodbgsovnS46YtAhX4R23Hry53nfy6d": {
+    "name": "\u6700\u4f1a\u51fa\u7247\u7684\u7334\u5b50",
+    "symbol": "\u5c0f\u8001\u8d39",
+    "flagged_ts": 1789959454,
+    "liquidity_at_flag": 31479.5126058013,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "9vZGQyBwkd73KQRhtUzM13PS35MBtKUXfuMzLwACrYhG": {
+    "name": "Paid",
+    "symbol": "PAID",
+    "flagged_ts": 1789959455,
+    "liquidity_at_flag": 26538.954475486666,
+    "breakdown": {
+      "MOMENTUM": 93,
+      "SAFETY": 100,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
