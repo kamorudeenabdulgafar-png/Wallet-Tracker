@@ -15686,7 +15686,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "Gek12rqFxcwVidkWoEJA4EhDPpDcxGZvLAeSKozJEtuk": {
@@ -15702,7 +15703,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "CZmnCnoFseyb32vpHyZjJjBHCLkyE9H7ENfDYLCVkXGE": {
@@ -15718,7 +15720,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "J5TcPzSyJyiSaHmUP4JVc12gzqXEtDxzba9yNGAxxrv8": {
@@ -19637,7 +19640,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "cqFhQM1iYvyZdAsNax9kVQYvHm4vqahvXPVNbzeLPLh": {
@@ -19652,7 +19656,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "CjaAmmYRpJoFGAmsJDuwvibGroaXNCa8RBYWtd5vL7wh": {
@@ -19667,7 +19672,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "6N9VN124JW9aXzN3uRso7q3NgqXK3c7cKf8eXmDBqx9Y": {
@@ -19682,7 +19688,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "DHoZ6CrNynQaCvSyhk5rAzVyccfzWfvY7xxrooEtfCz6": {
@@ -20041,7 +20048,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "HUUNgfzw1DdyTU99Xp3bRTk5AQg5bmnyKbnHCWQCpump": {
     "name": "ZPAD",
@@ -20054,7 +20063,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "7uATVYNgJsSgYMhDSPgFSU14gpX7kQUGqyzbgwP6Dnzc": {
     "name": "\u54d1\u5df4",
@@ -20181,6 +20192,58 @@
     "breakdown": {
       "MOMENTUM": 66,
       "SAFETY": 100,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "8q6aSV7HsmHFSuVS6gwyxFQzLgohhtaNnrxWYvgJpump": {
+    "name": "Solana Agent",
+    "symbol": "SCOPE",
+    "flagged_ts": 1789992575,
+    "liquidity_at_flag": 27383.479884495624,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 90,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "7avKoqL2y9Dj8kxNRWgYFEwBzvKmk6nT9nwGSXcPUMfE": {
+    "name": "Snowline",
+    "symbol": "SNOW",
+    "flagged_ts": 1789992576,
+    "liquidity_at_flag": 44788.0938897303,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "CjjVyuY9EBJj3TtJF7YaTYXjddjSUmrdfjpXhr8EuUKA": {
+    "name": "Ch\u00f3",
+    "symbol": "Ch\u00f3",
+    "flagged_ts": 1789992576,
+    "liquidity_at_flag": 79393.4288017579,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "HiVkK8QdtVVSEbSeZiZqnPVmgYfKp55QW47TJJKpVvv4": {
+    "name": "Psyop Phil",
+    "symbol": "PSYOPPHIL",
+    "flagged_ts": 1789992578,
+    "liquidity_at_flag": 36407.778899384,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
