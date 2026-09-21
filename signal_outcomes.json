@@ -17709,7 +17709,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "GKfbq6ML3gNjH8gjqtMSacwbNLwbML4LFxRJMMWGns4G": {
@@ -17725,7 +17726,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "8gAATJzrFFZX2HB3DoyhfGfHvVdF2XsfvwHbCa5hVgZA": {
@@ -21647,7 +21649,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "Bpvgugg2Z7cwpvS2tgDiibvGw9U16RKAeuG7ev7QBVfe": {
     "name": "Tipped",
@@ -21797,6 +21801,45 @@
     "symbol": "musebook",
     "flagged_ts": 1790021133,
     "liquidity_at_flag": 34144.465321362106,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "6Z12HSsuBk45HRaKU5x6DCd3ogWVf6tbGTu3WSDWpump": {
+    "name": "Aurora Trail",
+    "symbol": "$AURTL",
+    "flagged_ts": 1790022027,
+    "liquidity_at_flag": 11470.031591184057,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 90,
+      "LIQUIDITY": 57,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "59sSHCrimcVqVxwvnajfttcNKnbzRHAVpcKHzXm2uYNK": {
+    "name": "Ea-Nasir",
+    "symbol": "NASIR",
+    "flagged_ts": 1790022028,
+    "liquidity_at_flag": 28703.89770785228,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "A2CLBDH4zh5vUDviaZ3wMngGJWHRwk7XDq5fHRMphSnP": {
+    "name": "cryptGO",
+    "symbol": "GO",
+    "flagged_ts": 1790022029,
+    "liquidity_at_flag": 39128.42230266742,
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 60,
