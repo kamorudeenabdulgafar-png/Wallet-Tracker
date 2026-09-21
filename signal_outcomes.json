@@ -13170,7 +13170,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "5cQVokcVcUsDVxPbWpyKVoQdtjxFsZkFevK1GNvtpump": {
@@ -13186,7 +13187,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "FBTaEdyN2VJ4Lw5S93UkPtchEBjjYENYH2ND6esYfNoC": {
@@ -13202,7 +13204,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "2UUC5FxgJ7s8mLsz5wGSXs4sd8WmggbB9r6E6tVS234N": {
@@ -13218,7 +13221,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "HKiDU8cvFKwCWWtLiDhjqvMoKBJf1AwhdYx7XZ2wwZ4f": {
@@ -18033,7 +18037,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "9ijCpBcFpgHJn3UXi3dSVqTrxAV2q69g8Wo1HnijoeRV": {
@@ -18048,7 +18053,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "eqNcWScchYa8SKsKS6cg3VyKh3Q3j5K1vKiDj26pump": {
@@ -18063,7 +18069,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "HW7ZvtnpddxRoyZ5Tfxq4Ph6tB6EmvNhQcFsmGb2nacC": {
@@ -18078,7 +18085,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "C8tkrypvw7RCXrgSPbG9aaGoXbhbszt1K2UksZ9EzRbk": {
@@ -18437,7 +18445,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "FWyQ7v3C3Ry7pwMWwYExoi6jg19r4f9oYYbS7Pe2qXVP": {
     "name": "\u4ee3\u8868\u5929\u624d\u7684\u9690\u79c1Ghost",
@@ -18577,6 +18587,58 @@
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "29j6RrRZPhfLLTYTJF4fBV1TMXzhqgkSa9pa2pQ8pump": {
+    "name": "SourBoy",
+    "symbol": "SOUR",
+    "flagged_ts": 1789961421,
+    "liquidity_at_flag": 10609.692086242643,
+    "breakdown": {
+      "MOMENTUM": 97,
+      "SAFETY": 100,
+      "LIQUIDITY": 53,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "8WsHGe9suXdakEnKeabRaZW9Vo5dRPeouHPSmKLfq4sf": {
+    "name": "Zano Confidential Assets",
+    "symbol": "HIDE",
+    "flagged_ts": 1789961422,
+    "liquidity_at_flag": 34861.53601257109,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "9TNvg1W6zQqFVC2ugZySzSmCQKtPbC1w9yoynx9Ppump": {
+    "name": "Zano Confidential Assets",
+    "symbol": "HIDE",
+    "flagged_ts": 1789961423,
+    "liquidity_at_flag": 32333.540763609162,
+    "breakdown": {
+      "MOMENTUM": 87,
+      "SAFETY": 90,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "Aq7BMsW1t59BXnDaD9rfbLZEXA1qhe7GtGXsKvkhwWJF": {
+    "name": "PUMP CAT",
+    "symbol": "PUMPCAT",
+    "flagged_ts": 1789961425,
+    "liquidity_at_flag": 28659.806663746316,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 100,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
