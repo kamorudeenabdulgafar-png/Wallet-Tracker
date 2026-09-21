@@ -15482,7 +15482,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "HwT9cHSiSaXdtveLxCFYmVaFr1MKAHLizfjEbFgXqiGL": {
@@ -15498,7 +15499,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "GQ1cnBTDoQYSbhBb5MqFmYGYTxVnjwK87zrkPjeYkcpx": {
@@ -15514,7 +15516,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "5QBrcGPekJK5V2KHaj3Ku2FUWHxoW6ViKxhfsHrMpump": {
@@ -19513,7 +19516,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "25A1bmyk2fUUwmRxgDzZ5ZvBcTiCSSG4j4yTtBJoHSRh": {
@@ -19528,7 +19532,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "DCGkFzKUFeKTgTU97PZmkwCbqC3ogZiK77fipxWTpump": {
@@ -19962,7 +19967,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "DZyy4rJW1BJsjqc5PKfdPeRR1y2Ypr1SaEWuhfGHrnsN": {
     "name": "ETCH",
@@ -19975,7 +19982,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "F2eSNbMnMYrYkjXAwNv8wZAf52ZizCtow42VhVbTpPco": {
     "name": "rekrobot",
@@ -20050,6 +20059,45 @@
     "breakdown": {
       "MOMENTUM": 94,
       "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "FC8gEqKFtEVQaugHJMbD5N4u6ckXnu86f7JibN87fy4z": {
+    "name": "Mi-Do",
+    "symbol": "MI-DO",
+    "flagged_ts": 1789990692,
+    "liquidity_at_flag": 47810.47563540426,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "C4Bwpk5QHcG4auPaVubzWjs3CmVFpofEL2GvDGB8pump": {
+    "name": "rekrocat",
+    "symbol": "REKCAT",
+    "flagged_ts": 1789990693,
+    "liquidity_at_flag": 38089.62633532401,
+    "breakdown": {
+      "MOMENTUM": 98,
+      "SAFETY": 100,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "7Q9hMzrVQMHD7qGBka9udetT7rDzvLh1N8xfjhgopump": {
+    "name": "Jean Phil Testicle",
+    "symbol": "PHISTICLE",
+    "flagged_ts": 1789990693,
+    "liquidity_at_flag": 46046.304957710774,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 100,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
