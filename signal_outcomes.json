@@ -15839,7 +15839,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "HkxuXsp5fwteMiQ2YMvqSLCQEEzg6Hp1HjTZJkKdDKgo": {
@@ -15855,7 +15856,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "CLHcTwBfcMim4pZwaMmdfKFvTaGb6LqBLoq3V7nkRyoq": {
@@ -19742,7 +19744,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "hs2fLD4N2hQ9CyYwvjdSQ5S5ckxiUHXw8RiFaeqj4nR": {
@@ -20116,7 +20119,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "C4Bwpk5QHcG4auPaVubzWjs3CmVFpofEL2GvDGB8pump": {
     "name": "rekrocat",
@@ -20129,7 +20134,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "7Q9hMzrVQMHD7qGBka9udetT7rDzvLh1N8xfjhgopump": {
     "name": "Jean Phil Testicle",
@@ -20142,7 +20149,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "3JV8p4NxP5bQPupSt57rBMWP4SHaXeNwmxM7e1Sjpump": {
     "name": "Psyop Phil",
@@ -20253,6 +20262,45 @@
     "symbol": "PSYOPPHIL",
     "flagged_ts": 1789992578,
     "liquidity_at_flag": 36407.778899384,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "9qs6eG46Y8HgEPxQUHZaXrtsRdt4VfHwPSdrTysKMQWC": {
+    "name": "Jean Phil",
+    "symbol": "JEANPHIL",
+    "flagged_ts": 1789994441,
+    "liquidity_at_flag": 35449.62509419048,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 75,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "8PByus5RSicfAZGkK2GtCgAiXjvBiS7u2K4dMq4UXn2r": {
+    "name": "Anthropic",
+    "symbol": "Anthropic",
+    "flagged_ts": 1789994442,
+    "liquidity_at_flag": 138257.651398051,
+    "breakdown": {
+      "MOMENTUM": 93,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "C6wMqwePG14uWPo185cRsFzvV9TmiSTEYGATFiAfFHt9": {
+    "name": "the black robin",
+    "symbol": "karure",
+    "flagged_ts": 1789994443,
+    "liquidity_at_flag": 39247.08611975028,
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 60,
