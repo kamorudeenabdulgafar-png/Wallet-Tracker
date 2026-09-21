@@ -18968,7 +18968,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "FPQ5UHUi4utKJVQ2jBTcg993bEnmwcCDS3nT9Lkc4BkF": {
@@ -18983,7 +18984,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "AWKgzndaPXucoUVxg4FdZu8aHA3LY8cHmhwpZBLRpPYd": {
@@ -18998,7 +19000,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "9d9JhGWi7FAwiFRmsVPR5sEeTVe5Eb1hG4dkYEckyuEf": {
@@ -19013,7 +19016,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "5hfcpVNZs9bxjWTgGWK1ApGFJkh4rsNN1Ve1rBMcpump": {
@@ -19622,6 +19626,45 @@
     "symbol": "claude",
     "flagged_ts": 1789980556,
     "liquidity_at_flag": 53534.06236633938,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "6EAPfDuXitXQq6uGvaoNE5kdEoTgAHa1TG1BP65YodS3": {
+    "name": "bul,",
+    "symbol": "bul",
+    "flagged_ts": 1789981079,
+    "liquidity_at_flag": 27008.197846419163,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "HmYe7fcdH2gvgSRe5GCfvrUuKxzhVbxbq6UuJvM1u2st": {
+    "name": "Inverse Cramer",
+    "symbol": "REMARC",
+    "flagged_ts": 1789981080,
+    "liquidity_at_flag": 19702.853773085517,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 99,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "3BqALZt9poWuxpX4KRaH3GfhZpWMCLpA3mt4KZWfer8o": {
+    "name": "Inverse Cramer",
+    "symbol": "REMARC",
+    "flagged_ts": 1789981080,
+    "liquidity_at_flag": 54314.74865307743,
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 60,
