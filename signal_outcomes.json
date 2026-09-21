@@ -12983,7 +12983,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "A3dX2Pvzxkn2AwHdFHfikmWWpo8ip67wKhAsrn6pUuJt": {
@@ -12999,7 +13000,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "o7DN9Lx4zAHaET1E6ptcmjnuKr8kQsbwmWrift6g2Qo": {
@@ -13015,7 +13017,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "HEnK74uS5H3HzpkuSYuGNxuPGE7VGSEzDvxZXWGit9hs": {
@@ -13031,7 +13034,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "37RVEGxL9RxNtKnxLCiiEQYjt7uJ8HTQ94uc7WocuGkM": {
@@ -13047,7 +13051,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "HrTHALcijdUuzGstBDDpiJAGBzp1HFkNxKPvn9RKio45": {
@@ -17894,7 +17899,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "CHQeLyR3kiywgkq6CQuTruNq64bi8RFUyLb3WCCX4iv7": {
@@ -17909,7 +17915,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "7qZn8A7ZZGhaTxndEjE8UkMvS4EkmWy58hyKoSAESmd7": {
@@ -17924,7 +17931,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "CiV2To3hYpXXwimzRGWVcD6LJUX2ryKCMCwpRs5Ppump": {
@@ -18283,7 +18291,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "2aaTYejy2EkeRch4vuJGqKg1TLFZDiUe2br3Pj1vbz8d": {
     "name": "Zebra",
@@ -18394,6 +18404,19 @@
     "symbol": "claude",
     "flagged_ts": 1789957363,
     "liquidity_at_flag": 30410.166783387584,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "FWyQ7v3C3Ry7pwMWwYExoi6jg19r4f9oYYbS7Pe2qXVP": {
+    "name": "\u4ee3\u8868\u5929\u624d\u7684\u9690\u79c1Ghost",
+    "symbol": "Ghost",
+    "flagged_ts": 1789958264,
+    "liquidity_at_flag": 38890.62787073509,
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 60,
