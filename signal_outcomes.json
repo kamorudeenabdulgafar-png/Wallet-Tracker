@@ -12847,7 +12847,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "CVoNMSYK9mVd3TzAutnrRTKmptQUQ7r9qBg1ejb7vVd2": {
@@ -12863,7 +12864,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "2QsPcDYfxCvcwgwet774n9NFcEayJc6sjgLFWXUndoR3": {
@@ -12879,7 +12881,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "BWRakXhevdFLWGMT84ooyNL2xaYqwBYKCZ5VifDVDoCn": {
@@ -12895,7 +12898,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "HZndemis9AmgPjF833tWJuk9xejUz48vJA1qFxyjYJbx": {
@@ -17790,7 +17794,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "BZRfWNggvbRk5DvUjTyucuqT1BjnUAgY2EE8Tj1cpump": {
@@ -17805,7 +17810,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "5X7o39wuSuwqtLPWCbsjgvzYP8Fu5BqgLEcPeq4upump": {
@@ -17820,7 +17826,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "2LUnkvWNjtihdEKJvpBPMRdUTSy7tVhvhGMiSSucqL6k": {
@@ -17835,7 +17842,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "dzrUW41KVcui9bZ9og6QmYCs5MPTgThB9eCqzcjF6Nt": {
@@ -18179,7 +18187,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "GrqfgmE942PU2r4UyJp2arCXUw5PBFr8bJP2dxp33SKG": {
     "name": "The Official Zcash Mascot",
@@ -18192,7 +18202,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "6XNxnhMXcbiWLadfmeixckmEV3j8Lhf7yzU3adNpxHE9": {
     "name": "The Official Zcash Mascot",
@@ -18205,7 +18217,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "6XXjiyYeFeS49ArxZTxTbJa3w5wigMakGZUcjE6npump": {
     "name": "Anonymous Quant",
@@ -18218,7 +18232,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "FDh1dt1AqdfYDFpv1RR41ncp9FcBN7Yv19GxmczR7qTk": {
     "name": "Shitcoin Futures Exchange",
@@ -18316,6 +18332,45 @@
     "symbol": "ACAT",
     "flagged_ts": 1789955819,
     "liquidity_at_flag": 24875.80193894175,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "ERgezJ3dtnivUSsi5c5b85ie53YyQBebqGNngibktiBT": {
+    "name": "frank",
+    "symbol": "DEGODS",
+    "flagged_ts": 1789956509,
+    "liquidity_at_flag": 20487.391866340902,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 90,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "DyQsPhXw5NLwhKLwnos79nEYt4V3F7nATaWv8KewfE72": {
+    "name": "Uranus",
+    "symbol": "URANUS",
+    "flagged_ts": 1789956510,
+    "liquidity_at_flag": 35165.194383806476,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "CReYNeG5VxH35uxwtD1z38QZMfrqu1moBu9goDcvKjLY": {
+    "name": "Avax Cat",
+    "symbol": "ACAT",
+    "flagged_ts": 1789956511,
+    "liquidity_at_flag": 27493.690106265098,
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 60,
