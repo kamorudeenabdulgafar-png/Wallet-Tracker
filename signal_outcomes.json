@@ -18338,7 +18338,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "9ijCpBcFpgHJn3UXi3dSVqTrxAV2q69g8Wo1HnijoeRV": {
@@ -18354,7 +18355,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "eqNcWScchYa8SKsKS6cg3VyKh3Q3j5K1vKiDj26pump": {
@@ -21713,7 +21715,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "Bpvgugg2Z7cwpvS2tgDiibvGw9U16RKAeuG7ev7QBVfe": {
@@ -22266,6 +22269,19 @@
     "symbol": "kirkinu",
     "flagged_ts": 1790031925,
     "liquidity_at_flag": 32312.338215549622,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "7P6VL1cpLZM6w1jGPHmfwxkgDAf2CPnh8oP6Q3sJXXWi": {
+    "name": "musebook",
+    "symbol": "musebook",
+    "flagged_ts": 1790032754,
+    "liquidity_at_flag": 33531.36816105664,
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 60,
