@@ -14751,7 +14751,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "7Xwn1uBT2sQ9ijasxsBsFVU5QxhNjMEXvT5V2mpVvpuh": {
@@ -14767,7 +14768,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "2hiEhokQipFz3gEeW2evgQ1qfToKBNLkKk52zU7H99js": {
@@ -19070,7 +19072,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "CYpWhq2w1EtgcerPjm7dtVkkcFfvQPp2jT1kTXrmjLge": {
@@ -19085,7 +19088,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "FLthARDK8eKethuCsHdLSSiVBWMGAL6twi2JERAYHD2y": {
@@ -19100,7 +19104,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "Gugvm2XhQm2Y8Db2Kt3CGri5UTnVgpxDMkNUtvtqNM21": {
@@ -19609,7 +19614,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "GsWfueEqh87RTxFA5SxJobWkkSsybav2CsSUGJ2eJF3F": {
     "name": "+++++",
@@ -19622,7 +19629,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "2JWjtbzuTBdL7jNkZYM8vjAeP6aMjxJ8hniAaxTL1HGt": {
     "name": "Uranus",
@@ -19710,6 +19719,58 @@
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 75,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "Drz3YaW6RccH9quuT1DCmAQntd6QfV97PYk6bzMxs7hh": {
+    "name": "\u4e2d\u56fd\u4eba\u80fd\u98de\u706b\u7bad",
+    "symbol": "\u4e2d\u56fd\u4eba\u80fd\u98de",
+    "flagged_ts": 1789982964,
+    "liquidity_at_flag": 35199.22856455903,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "5fqdDwWJcT4t3NTTNHfSWSSY5WDWrwwS5YTQvXRpb5Gu": {
+    "name": "bul",
+    "symbol": "bul",
+    "flagged_ts": 1789982965,
+    "liquidity_at_flag": 40250.43411084688,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 75,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "2Qwa1vD9qz9WyEARJ3rgqQBirotQNHzKb6x6dWezpump": {
+    "name": "Jean Grey",
+    "symbol": "JEANGREY",
+    "flagged_ts": 1789982966,
+    "liquidity_at_flag": 75905.59518513278,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 100,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "7efZytKSaMJPiBki6FM23i6XNLHAsouTqL6w6m27nfcs": {
+    "name": "bul",
+    "symbol": "bul",
+    "flagged_ts": 1789982967,
+    "liquidity_at_flag": 33968.689135476045,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
