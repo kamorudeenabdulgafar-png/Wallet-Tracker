@@ -17862,7 +17862,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "CMT2nrBZsLHiUbzwJAvakFAysP4E6aRW12TiMv5vhRRC": {
@@ -17878,7 +17879,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "78wH86d4igne2ZmJ2A42shwZKnoyUJtfMFLY5AirPUgn": {
@@ -21301,7 +21303,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "5khTnuji3J9kQm8m4MqCmuFSBECitYW6jb97u2hKhaSF": {
@@ -21316,7 +21319,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "BaNyABtwKcu7uwLVCp8ukhNA8tGzCfEb8rdviGTbyWBR": {
@@ -21935,6 +21939,45 @@
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "2eeWHome1Pjy21sVXoVuJLB5qNV9jpMzeSebnCnAcGFK": {
+    "name": "Copper Cat",
+    "symbol": "COPCAT",
+    "flagged_ts": 1790024697,
+    "liquidity_at_flag": 33669.5998459227,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "H9gWBoP8mgTdyrcgsP5e7H6zBMmKT5EXvEp2EWq2mV5F": {
+    "name": "CryptGO",
+    "symbol": "GO",
+    "flagged_ts": 1790024699,
+    "liquidity_at_flag": 66705.94424274097,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "7CE4KH1W8SbfQpnTPE6Rn2DoQqsD23xi1iF1gkZ9pump": {
+    "name": "Mooncat",
+    "symbol": "MCAT",
+    "flagged_ts": 1790024701,
+    "liquidity_at_flag": 32794.20954527823,
+    "breakdown": {
+      "MOMENTUM": 54,
+      "SAFETY": 100,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
