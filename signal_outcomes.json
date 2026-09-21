@@ -12592,7 +12592,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "EdZqj8ik9BwwPSBvvZegBnnMkZwczf3XhyipzxQ7Q8G4": {
@@ -12608,7 +12609,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "3tUn8dGmDceJ9pCwFLUVo2jkD6FLWaZ78YEpAa3bpump": {
@@ -12624,7 +12626,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "F1vn7iCHavyXfWfsWQzBDV4wbT8KdfQJRtnAJaeAydhv": {
@@ -12640,7 +12643,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "7wbxHXFYehyL7Gt4DudSqRnvU1ojck7iPKymLLfX5uVt": {
@@ -12656,7 +12660,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "BU6o1UKiB5fXvHhPwUFHhvhDck5ff9dXizPYsNNspump": {
@@ -17439,7 +17444,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "J7DonnMYQJcr91BKKajB6DFm1kFNGpGs7Rqwr4L3iA6Y": {
@@ -17454,7 +17460,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "FSJfPYF6VjuDuUxMFdUrCEkVr96bhC5oXKhv4o6JJxiK": {
@@ -17469,7 +17476,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "7ipzYoKAi6DHYFChFA5W2B81px5XgpZycKZwTTGJk2DH": {
@@ -17484,7 +17492,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "9jvqHi7mK57Ny6ukLVZ7xBSpwZTExZcQnFZrqY7XXWMp": {
@@ -18023,7 +18032,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "ExUbQj1UVtmkuC9Xi9AoQwKPFc5wt3hgpF1rBqsNpump": {
     "name": "chart killer",
@@ -18095,6 +18106,19 @@
     "symbol": "INU",
     "flagged_ts": 1789950528,
     "liquidity_at_flag": 52975.56071443309,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "EX6XCpvtxXGFE849v29ATTNfKn3yqx1RdCQvStrHXgBr": {
+    "name": "Invisible, Nameless, Untraceable",
+    "symbol": "INU",
+    "flagged_ts": 1789951531,
+    "liquidity_at_flag": 24483.378012815097,
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 60,
