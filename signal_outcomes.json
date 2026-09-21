@@ -17947,7 +17947,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "BJ9mPPkCqnMisMiv7JQW7MJ2fgDyjm9udmwHZuJ2YcTf": {
@@ -17963,7 +17964,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "FMEgrpXkJ9e4vUrLszibLn8iCxg4ynjBjKztCsE3pump": {
@@ -21354,7 +21356,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "FvD9WfLWcwk8pVNU4UKrb4WG8NeeYkhXHEK46ut2WNH7": {
@@ -21369,7 +21372,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "2QPKsevBW7afQMSEpTHSiRwFQd1VDBjVyWgAEJpp9crf": {
@@ -21384,7 +21388,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "5aF6oY2vTkEaG7ravuvZjeeHAe25Bb8VQG5cdG3WXzd5": {
@@ -21399,7 +21404,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "69aouU2vETgerzK77DShtCyngNoJW97hMjbXV5UCDoee": {
@@ -21863,7 +21869,9 @@
       "LIQUIDITY": 57,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "59sSHCrimcVqVxwvnajfttcNKnbzRHAVpcKHzXm2uYNK": {
     "name": "Ea-Nasir",
@@ -21876,7 +21884,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "A2CLBDH4zh5vUDviaZ3wMngGJWHRwk7XDq5fHRMphSnP": {
     "name": "cryptGO",
@@ -21889,7 +21899,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "EddpuxgNoExAJ3u6osQx2WXpbNH8mXJQVZCuaXm2nstD": {
     "name": "Fuck You Higher",
@@ -22000,6 +22012,58 @@
     "symbol": "AGE",
     "flagged_ts": 1790025585,
     "liquidity_at_flag": 42502.66657459356,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "HWQBaDrd1Srgp63kya4jHzQRZNA8Zi2uRMDooV8AHPsg": {
+    "name": "Basltion Labs",
+    "symbol": "BASLTION",
+    "flagged_ts": 1790026295,
+    "liquidity_at_flag": 29294.15551522762,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "EQ8kbWKfvmGeCF4UFjqBftsvnuqCC1ejBxZTJX8opump": {
+    "name": "NautiloCat",
+    "symbol": "NautiloCat",
+    "flagged_ts": 1790026296,
+    "liquidity_at_flag": 36366.16918680747,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 90,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "Ab7Umf22M9UUiq7Jj3hG2XqoZDQkbLBUM8GpXnM7j9iS": {
+    "name": "Copper Cat",
+    "symbol": "COPCAT",
+    "flagged_ts": 1790026297,
+    "liquidity_at_flag": 85986.99123133546,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "DXdM1YPjSM6Ah39oTvmnsHTFtPBkQ9T9iYRBVv68RVrH": {
+    "name": "Copper Cat",
+    "symbol": "COPCAT",
+    "flagged_ts": 1790026299,
+    "liquidity_at_flag": 36725.61192588311,
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 60,

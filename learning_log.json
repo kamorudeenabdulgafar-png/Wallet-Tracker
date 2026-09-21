@@ -1,31 +1,5 @@
 [
   {
-    "name": "Claimr",
-    "symbol": "Claimr",
-    "category": "steady",
-    "change_pct": 3.7,
-    "breakdown": {
-      "MOMENTUM": 100,
-      "SAFETY": 90,
-      "LIQUIDITY": 100,
-      "SMART MONEY": 0
-    },
-    "ts": 1789946299
-  },
-  {
-    "name": "PayBox",
-    "symbol": "PayBox",
-    "category": "rug",
-    "change_pct": -90.0,
-    "breakdown": {
-      "MOMENTUM": 100,
-      "SAFETY": 100,
-      "LIQUIDITY": 100,
-      "SMART MONEY": 0
-    },
-    "ts": 1789946918
-  },
-  {
     "name": "Jean Phil",
     "symbol": "JEANPHIL",
     "category": "rug",
@@ -3898,5 +3872,31 @@
       "SMART MONEY": 0
     },
     "ts": 1790025588
+  },
+  {
+    "name": "Zebra",
+    "symbol": "ZEBRA",
+    "category": "steady",
+    "change_pct": 4.4,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 90,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "ts": 1790026300
+  },
+  {
+    "name": "Dogecoin",
+    "symbol": "DOGE",
+    "category": "rug",
+    "change_pct": -78.4,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 90,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "ts": 1790026301
   }
 ]
