@@ -1,21 +1,5 @@
 [
   {
-    "name": "Argus",
-    "symbol": "ARGUS",
-    "category": "rug",
-    "change_pct": -100.0,
-    "breakdown": null,
-    "ts": 1789885496
-  },
-  {
-    "name": "INURANUS",
-    "symbol": "INURANUS",
-    "category": "rug",
-    "change_pct": -100.0,
-    "breakdown": null,
-    "ts": 1789886394
-  },
-  {
     "name": "TIGROBIN",
     "symbol": "TIGROBIN",
     "category": "rug",
@@ -3603,5 +3587,31 @@
       "SMART MONEY": 0
     },
     "ts": 1789968034
+  },
+  {
+    "name": "SENDING",
+    "symbol": "SENDING",
+    "category": "rug",
+    "change_pct": -100.0,
+    "breakdown": {
+      "MOMENTUM": 98,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "ts": 1789969051
+  },
+  {
+    "name": "Amazon Inu",
+    "symbol": "AI",
+    "category": "rug",
+    "change_pct": -100.0,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "ts": 1789969052
   }
 ]

@@ -13918,7 +13918,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "CUNuWekdbD7vdZqhQU4xaUT4AYbwrBeikhBhiRb1fowJ": {
@@ -13934,7 +13935,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "G2PPNeFiy8yZJQdsA8djFD2NAKNWNy6VPbzaGFSEn3Eq": {
@@ -18333,7 +18335,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "3LrBBzgfHM8Z7XNFqJ81yXnNoTvzci82jUVRW6f6anUR": {
@@ -18348,7 +18351,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "HLT4PjYGfXerLZoJs6dTWsQ9eFPD2NmzXUkwwxNi7g6J": {
@@ -18363,7 +18367,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "2aaTYejy2EkeRch4vuJGqKg1TLFZDiUe2br3Pj1vbz8d": {
@@ -18812,7 +18817,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "8Hy2EXTuNaxWYom3DRUjxr9pqiynd5vJDGf1DFxc1bSq": {
     "name": "Uranus",
@@ -18825,7 +18832,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "8KrCrAfymAJsQmNQdTBb8VoZ5kn31a5KUfRnY2G82p8q": {
     "name": "\u00a5\u00a5RQ",
@@ -18838,7 +18847,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "J3CSbwYnpbnVXsW8y6vjTTyoAYCMGUaPrzypS2vgew5k": {
     "name": "Argus",
@@ -18978,6 +18989,58 @@
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 75,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "Gugvm2XhQm2Y8Db2Kt3CGri5UTnVgpxDMkNUtvtqNM21": {
+    "name": "Uranus",
+    "symbol": "URANUS",
+    "flagged_ts": 1789969045,
+    "liquidity_at_flag": 41344.96375546057,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "B5QisLFy9cdMDbF7ZAMSzFhnyakWEE1GPYW1uciSrg2G": {
+    "name": "Justice For Wilber Perez",
+    "symbol": "Wilber",
+    "flagged_ts": 1789969046,
+    "liquidity_at_flag": 29667.86155958828,
+    "breakdown": {
+      "MOMENTUM": 92,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "GpUkmLHWPZkBFYjNiwrhuqoFXaoxB6cF2WYKgFbPpump": {
+    "name": "Scribble Jean Phil",
+    "symbol": "SCRIBJEAN",
+    "flagged_ts": 1789969049,
+    "liquidity_at_flag": 61055.70684610946,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 100,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "QRwDiWMARAfkv61tuKGoFPcDgV19tykrSsrJZGo1APZ": {
+    "name": "Tommy",
+    "symbol": "Tommy",
+    "flagged_ts": 1789969050,
+    "liquidity_at_flag": 30021.878014636837,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
