@@ -12558,7 +12558,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "9kUtKbhbPVtyhvouFpVoKiP8q712BQf4XyPbKgFSKRkR": {
@@ -12574,7 +12575,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "G9Cy1GrAj1NRsi9xYMGfgNQFZyYyEZZr66FNYGLnpump": {
@@ -17405,7 +17407,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "GKfbq6ML3gNjH8gjqtMSacwbNLwbML4LFxRJMMWGns4G": {
@@ -17420,7 +17423,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "8gAATJzrFFZX2HB3DoyhfGfHvVdF2XsfvwHbCa5hVgZA": {
@@ -17959,7 +17963,9 @@
       "LIQUIDITY": 92,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "9ijCpBcFpgHJn3UXi3dSVqTrxAV2q69g8Wo1HnijoeRV": {
     "name": "Dumb meme coin",
@@ -17972,7 +17978,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "eqNcWScchYa8SKsKS6cg3VyKh3Q3j5K1vKiDj26pump": {
     "name": "Jean Phil Solana",
@@ -17985,7 +17993,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "HW7ZvtnpddxRoyZ5Tfxq4Ph6tB6EmvNhQcFsmGb2nacC": {
     "name": "ZEBRA",
@@ -17998,7 +18008,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "C8tkrypvw7RCXrgSPbG9aaGoXbhbszt1K2UksZ9EzRbk": {
     "name": "BUNNY",
@@ -18048,6 +18060,45 @@
       "MOMENTUM": 70,
       "SAFETY": 90,
       "LIQUIDITY": 91,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "BwMHKQ7otSxbhbVUgkyZd5KVYsBvPoXTwtY6EMVdTMrE": {
+    "name": "TERMINATOR",
+    "symbol": "TERMINATOR",
+    "flagged_ts": 1789950525,
+    "liquidity_at_flag": 33727.331480388624,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "ARuTorBXa2r1358Xr9NRZZ54yXN27uCz3DQe9sHrXvgc": {
+    "name": "Paid",
+    "symbol": "PAID",
+    "flagged_ts": 1789950527,
+    "liquidity_at_flag": 28026.897075208253,
+    "breakdown": {
+      "MOMENTUM": 85,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "86vhv3jBgTEmVGEc4krVy2cY8NTC3NG5xyx7RhfBG6c7": {
+    "name": "Invisible, Nameless, Untraceable",
+    "symbol": "INU",
+    "flagged_ts": 1789950528,
+    "liquidity_at_flag": 52975.56071443309,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
     "checkpoints_done": []
