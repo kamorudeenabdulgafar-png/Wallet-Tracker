@@ -13850,7 +13850,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "7QqmmMJ8GAzmmuqjM4ZE5apa5GMwdhVv1zxGhHLHee1x": {
@@ -13866,7 +13867,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "E1Ew4Z9tnwCt2bNGCUEB3q4GnrZ8hVq9NmWZpjea3s53": {
@@ -13882,7 +13884,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "5vNPGPuouvnN51wLY5XhR54vEFuZuXHaCw81LBhDV1gc": {
@@ -13898,7 +13901,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "B4AT26LHqPoWB5ja7xy6ttARPJj8BG1kvgLzxWtHKMCS": {
@@ -18935,6 +18939,45 @@
     "breakdown": {
       "MOMENTUM": 65,
       "SAFETY": 100,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "E2CaYPHmdmSbjrp9AgwjGFcQmsTcddqTpDYTKjVLVjcy": {
+    "name": "The Wizard Cat",
+    "symbol": "WIZARDCAT",
+    "flagged_ts": 1789968027,
+    "liquidity_at_flag": 19566.142480383034,
+    "breakdown": {
+      "MOMENTUM": 99,
+      "SAFETY": 60,
+      "LIQUIDITY": 98,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "CYpWhq2w1EtgcerPjm7dtVkkcFfvQPp2jT1kTXrmjLge": {
+    "name": "Argus",
+    "symbol": "ARGUS",
+    "flagged_ts": 1789968028,
+    "liquidity_at_flag": 21897.032180431335,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "FLthARDK8eKethuCsHdLSSiVBWMGAL6twi2JERAYHD2y": {
+    "name": "Avax Cat",
+    "symbol": "ACAT",
+    "flagged_ts": 1789968030,
+    "liquidity_at_flag": 50844.87078552428,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 75,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },

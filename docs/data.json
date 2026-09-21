@@ -1,5 +1,5 @@
 {
-  "last_updated": 1789967139,
+  "last_updated": 1789968034,
   "wallets": [
     {
       "label": "Dev wallet 1",
@@ -66,7 +66,7 @@
         "suifhC9gU1VbJAPYPTBkHJyyyStKGLLYPVDTmPoqbvA",
         "USD1ttGY1N17NEEHLmELoaybftRBUSErhqYiQzvEmuB"
       ],
-      "last_active": 1789967126,
+      "last_active": 1789968024,
       "positions": {},
       "realized_pnl_usd": 0.0
     }
@@ -85,14 +85,69 @@
     "count": 2835,
     "up_count": 613,
     "total_change_pct": -155586.29928175083,
-    "rug": 519,
-    "doing_well": 4,
+    "rug": 522,
+    "doing_well": 5,
     "steady": 4,
     "fading": 5
   },
   "learning_insight": null,
   "settings": {},
   "recent_alerts": [
+    {
+      "ts": 1789968034,
+      "type": "outcome",
+      "message": "\ud83d\udd34 MEMESTOCKS (MEMESTOCKS) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
+    },
+    {
+      "ts": 1789968033,
+      "type": "outcome",
+      "message": "\ud83d\udd34 Uranus (URANUS) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
+    },
+    {
+      "ts": 1789968032,
+      "type": "outcome",
+      "message": "\ud83d\udd34 ZZZ (ZZZ) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
+    },
+    {
+      "ts": 1789968031,
+      "type": "outcome",
+      "message": "\ud83d\udfe2 Tesla Semi (SEMI) did really well \u2014 liquidity up 51% after 24h!"
+    },
+    {
+      "ts": 1789968030,
+      "type": "scanner",
+      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 STRONG\nAvax Cat (ACAT)\nOpportunity: 81/100\n\nMOMENTUM     100\nSAFETY       75\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$50,845, 14 min since pool creation\n\u2022 Up +213% in the last hour, ~$190,335 in 24h volume (3.7x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 25/100):\n\u2022 top 10 holders own 69% of supply (concentrated)\n\nCA: FLthARDK8eKethuCsHdLSSiVBWMGAL6twi2JERAYHD2y\nhttps://dexscreener.com/solana/FLthARDK8eKethuCsHdLSSiVBWMGAL6twi2JERAYHD2y\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
+    },
+    {
+      "ts": 1789968028,
+      "type": "scanner",
+      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\nArgus (ARGUS)\nOpportunity: 76/100\n\nMOMENTUM     100\nSAFETY       60\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$21,897, 6 min since pool creation\n\u2022 Up +142% in the last hour, ~$72,104 in 24h volume (3.3x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 82% of supply (very concentrated)\n\nCA: CYpWhq2w1EtgcerPjm7dtVkkcFfvQPp2jT1kTXrmjLge\nhttps://dexscreener.com/solana/CYpWhq2w1EtgcerPjm7dtVkkcFfvQPp2jT1kTXrmjLge\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
+    },
+    {
+      "ts": 1789968027,
+      "type": "scanner",
+      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\nThe Wizard Cat (WIZARDCAT)\nOpportunity: 75/100\n\nMOMENTUM     99\nSAFETY       60\nLIQUIDITY    98\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$19,566, 5 min since pool creation\n\u2022 Up +66% in the last hour, ~$46,354 in 24h volume (2.4x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 85% of supply (very concentrated)\n\nCA: E2CaYPHmdmSbjrp9AgwjGFcQmsTcddqTpDYTKjVLVjcy\nhttps://dexscreener.com/solana/E2CaYPHmdmSbjrp9AgwjGFcQmsTcddqTpDYTKjVLVjcy\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
+    },
+    {
+      "ts": 1789968025,
+      "type": "wallet",
+      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: 0.0746 SOL (~$8.32) -> USDC\nTrade size: ~$8.32\nBought token: USD Coin (USDC)\nCA: EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v\nhttps://solscan.io/tx/5JbjK8RMvz8sjx39evTJYgBC6KSWZiaqZuFemQDBvRxF4u5LRQwsEP852wdn8BQnWjQdnVLfmhx8JcgALxYFc6BP"
+    },
+    {
+      "ts": 1789968023,
+      "type": "wallet",
+      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: FLWS -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/VcRC5ub4XioEEjjRHMHfkZ1x76znGX2f9pHRZcsvCoktakEfcvuM6KF3oJKBKUQD39pSso4jQWng8LoYUendLsv"
+    },
+    {
+      "ts": 1789968023,
+      "type": "wallet",
+      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: JUP -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/3fRepuAEL8QDaS3RfhJeekAt5TBJzQD5kk5soReX2BrcXz4cvGs1ketXr29Af913Co5qnrBJPM3niwbwPfm7d6LA"
+    },
+    {
+      "ts": 1789968022,
+      "type": "wallet",
+      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: 0.0561 SOL (~$6.25) -> USDC\nTrade size: ~$6.25\nBought token: USD Coin (USDC)\nCA: EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v\nhttps://solscan.io/tx/4Xp9H6xMgCXKnBDzLoaCTXdxsMvhMLUPN2HKAqVknqkdog8rzNTjAQAWSSiP3VJgduXuCdDzV2vNtG6JSfnB9MQ3"
+    },
     {
       "ts": 1789967139,
       "type": "outcome",
@@ -287,61 +342,6 @@
       "ts": 1789965569,
       "type": "scanner",
       "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\nClaude Ai (claude)\nOpportunity: 74/100\n\nMOMENTUM     96\nSAFETY       60\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$28,576, 14 min since pool creation\n\u2022 Up +64% in the last hour, ~$32,340 in 24h volume (1.1x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 84% of supply (very concentrated)\n\nCA: EcMdVAqMcXJpMmQwJ7F71vQrnEeWS52cWSWZt63SYk5Q\nhttps://dexscreener.com/solana/EcMdVAqMcXJpMmQwJ7F71vQrnEeWS52cWSWZt63SYk5Q\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
-    },
-    {
-      "ts": 1789965568,
-      "type": "scanner",
-      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\nArgus (ARGUS)\nOpportunity: 76/100\n\nMOMENTUM     100\nSAFETY       60\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$42,828, 9 min since pool creation\n\u2022 Up +98% in the last hour, ~$113,237 in 24h volume (2.6x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 90% of supply (very concentrated)\n\nCA: J3CSbwYnpbnVXsW8y6vjTTyoAYCMGUaPrzypS2vgew5k\nhttps://dexscreener.com/solana/J3CSbwYnpbnVXsW8y6vjTTyoAYCMGUaPrzypS2vgew5k\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
-    },
-    {
-      "ts": 1789965567,
-      "type": "wallet",
-      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: LMT -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/4djk9dfPf9Egb2nDsg8zQfeJj9oo7tib2MWX6wbzffV8DCaSXK71cQQPQPacpNar5wDW9zqpymoMSdQfMvvLKGt6"
-    },
-    {
-      "ts": 1789965566,
-      "type": "wallet",
-      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: xBTC -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/5j92scPdz3dqS9w4EmSu3xXjfMfjYBnpxr7zjpmfnkj4Vmw3Yct17nxqJVsQcTm128MfVtQZaKoXFB5dW4BnV8BS"
-    },
-    {
-      "ts": 1789964527,
-      "type": "outcome",
-      "message": "\ud83d\udd34 Argus (ARGUS) is dropping fast \u2014 down 100%, may be rugging."
-    },
-    {
-      "ts": 1789964526,
-      "type": "outcome",
-      "message": "\ud83d\udd34 Binance Square Paid (PAID) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
-    },
-    {
-      "ts": 1789964525,
-      "type": "outcome",
-      "message": "\ud83d\udfe0 Donated (DONATED) faded \u2014 liquidity down 38% after 24h."
-    },
-    {
-      "ts": 1789964524,
-      "type": "outcome",
-      "message": "\ud83d\udd34 The Boring Company (TBC) turned out to be a rug \u2014 liquidity dropped 73% over 24h."
-    },
-    {
-      "ts": 1789964522,
-      "type": "outcome",
-      "message": "\ud83d\udd34 SENDING (SENDING) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
-    },
-    {
-      "ts": 1789964521,
-      "type": "outcome",
-      "message": "\ud83d\udd34 BChad (BChad) turned out to be a rug \u2014 liquidity dropped 87% over 24h."
-    },
-    {
-      "ts": 1789964520,
-      "type": "scanner",
-      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\n\u00a5\u00a5RQ (\u00a5\u00a5RQ)\nOpportunity: 76/100\n\nMOMENTUM     100\nSAFETY       60\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$40,495, 19 min since pool creation\n\u2022 Up +190% in the last hour, ~$176,720 in 24h volume (4.4x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 76% of supply (very concentrated)\n\nCA: 8KrCrAfymAJsQmNQdTBb8VoZ5kn31a5KUfRnY2G82p8q\nhttps://dexscreener.com/solana/8KrCrAfymAJsQmNQdTBb8VoZ5kn31a5KUfRnY2G82p8q\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
-    },
-    {
-      "ts": 1789964519,
-      "type": "scanner",
-      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\nUranus (URANUS)\nOpportunity: 76/100\n\nMOMENTUM     100\nSAFETY       60\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$33,895, 18 min since pool creation\n\u2022 Up +153% in the last hour, ~$45,373 in 24h volume (1.3x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 74% of supply (very concentrated)\n\nCA: 8Hy2EXTuNaxWYom3DRUjxr9pqiynd5vJDGf1DFxc1bSq\nhttps://dexscreener.com/solana/8Hy2EXTuNaxWYom3DRUjxr9pqiynd5vJDGf1DFxc1bSq\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
     }
   ]
 }
