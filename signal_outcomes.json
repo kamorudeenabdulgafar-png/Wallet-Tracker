@@ -13952,7 +13952,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "CMiFkrz67QUhzGa5hLQmW3GxxYngxxkN111GgkZoEQHN": {
@@ -13968,7 +13969,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "57i2LzRzHyfshxmukiLAePTcohZ6keuAyUYznX573C28": {
@@ -13984,7 +13986,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "vqPYqBj8DAJFLchVZRaDQqUPGke1J641Hzty5JxxVvn": {
@@ -14000,7 +14003,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "3z6kdSgJu5DetCQfVnuHsEhXndCj8uUY5TbRMdufeupd": {
@@ -18383,7 +18387,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "Dtm38kV6aTFvgnXPjcP4HA3rUoppAu16BFbtfp8W7E5u": {
@@ -18862,7 +18867,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "EcMdVAqMcXJpMmQwJ7F71vQrnEeWS52cWSWZt63SYk5Q": {
     "name": "Claude Ai",
@@ -18875,7 +18882,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "XUHrDqBUvcKy5S1k2MitbcFxvh2ABgfQYtoPhJFpump": {
     "name": "Jean Trump",
@@ -19040,6 +19049,19 @@
     "liquidity_at_flag": 30021.878014636837,
     "breakdown": {
       "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "7kVHn4Ts4NRW3LcHdqpiRY4JTsfFpJo2iJyuB5xwkHCQ": {
+    "name": "Outsider Cat",
+    "symbol": "OUTSIDER",
+    "flagged_ts": 1789969695,
+    "liquidity_at_flag": 26059.875001137032,
+    "breakdown": {
+      "MOMENTUM": 88,
       "SAFETY": 60,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
