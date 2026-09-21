@@ -13374,7 +13374,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "HfqQefkCoYtXekvyPuKbPuaWAsswncZzuq6cKXBpr31": {
@@ -13390,7 +13391,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "AQoymGAEG2HWNHeGkeh2CwkZnL8Gd27q4YhMfhRaSCZr": {
@@ -13406,7 +13408,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "4cMuMvmLcvzfaLuauLo2a1cSYFMKodufBXDyefkmmoon": {
@@ -13422,7 +13425,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "2YoRk87Fir4dBRaQNV2m6TQdD71hgEaqZe3LpC1NkFZz": {
@@ -13438,7 +13442,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "14osm1NwktsxMTwQ2ZgJZebwwjbKvXtTBYkfWr8aCKt8": {
@@ -18125,7 +18130,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "cfnBU3Jgt3mKEFiu6TknxU6kCMemycswVpH7DCppump": {
@@ -18140,7 +18146,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "sHGMUaPEvMP6utibVvS9wHJxSkA2GjZstk9hGwbpump": {
@@ -18155,7 +18162,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "BwMHKQ7otSxbhbVUgkyZd5KVYsBvPoXTwtY6EMVdTMrE": {
@@ -18484,7 +18492,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "Dqtw4i2zsBCEQF9r14tbYnMW2wJCCLBii58zsbdeFhy": {
     "name": "frank",
@@ -18497,7 +18507,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "zjtf7MhjbNzjxj3psGAJt3gR2nk2jzb7sjibo6Vpump": {
     "name": "GitHub Coin",
@@ -18676,6 +18688,45 @@
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 100,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "9iLqrzNWG4EpTkqGjLq7BhsHhVJyJ81BvauVzu7drfBk": {
+    "name": "The Wizard Cat",
+    "symbol": "WIZARDCAT",
+    "flagged_ts": 1789962940,
+    "liquidity_at_flag": 76318.37801405377,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "Gr5fk4Y2FFKSXorMaJoTQMBPx4JgEg7fhsKWWJnAkBmN": {
+    "name": "Zebra",
+    "symbol": "ZEBRA",
+    "flagged_ts": 1789962940,
+    "liquidity_at_flag": 25549.630948440772,
+    "breakdown": {
+      "MOMENTUM": 89,
+      "SAFETY": 100,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "HawS1fc4aZwRKzGj4FPaTHxdgGMrtZwD2Uztj4takUFZ": {
+    "name": "Argus",
+    "symbol": "ARGUS",
+    "flagged_ts": 1789962941,
+    "liquidity_at_flag": 42632.1181359128,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
