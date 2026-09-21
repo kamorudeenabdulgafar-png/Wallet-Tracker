@@ -15227,7 +15227,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "B5UtCBNek6gZdvcbe8n4ZYAx3GQUb3mpeqWbgnmksMC4": {
@@ -15243,7 +15244,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "9YzSXawPRLofkZ3oNcdJBCWaooaYZqSJbiXicjeopump": {
@@ -15259,7 +15261,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "Eiks1GFZHpnNFZMDcA9Mv5omULNhdn4q7fknd1Nvpump": {
@@ -15275,7 +15278,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "A8cAEptAa5jWcZMMe9E1J86FdyEsRPspWTkYzf6jzy7L": {
@@ -15291,7 +15295,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "4caRGfrqaZupu9o1bKSDsEEN6bdxj9CphWa7mQGdZXXX": {
@@ -15307,7 +15312,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "DajNktfWQuQknaVER7ub23ZvLyQTFH3uzbPnX1tmjUs7": {
@@ -15323,7 +15329,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "EJ49wSkF2U7p6cix1UMTH2dLR13DtwTriLpQgxAjpump": {
@@ -19386,7 +19393,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "5ogtVhZgJYQeZDraTutD8SZAinAHQc6mPNMXG61q8rNe": {
@@ -19401,7 +19409,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "BgA77vdJPkD4re2PjzARTi3j6Kac2ubRq3XQwJFC5cyv": {
@@ -19416,7 +19425,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "2MQxSQqzvikeZXC9pqezAs6tasdAinNBXneAAdjoVCjp": {
@@ -19865,7 +19875,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "9bYXK1VKaqbJ7PHPtGtZipxAtaQyZiKC4p5bnyx8bLo4": {
     "name": "The Addiction Bird",
@@ -19878,7 +19890,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "7tUzWNhDmuJDKWUrpHNRjv48i3wajnuERMdmtsHYKBGt": {
     "name": "\u4e2d\u56fd\u4eba\u80fd\u98de\u706b\u7bad",
@@ -19953,6 +19967,19 @@
     "breakdown": {
       "MOMENTUM": 99,
       "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "9zYxYu6AAf3VkhtvQfPxMP4KJqasP99cDRRvAZmaieXi": {
+    "name": "rekrobot",
+    "symbol": "REK",
+    "flagged_ts": 1789988111,
+    "liquidity_at_flag": 43053.87858271656,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 75,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
