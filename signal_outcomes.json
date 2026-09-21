@@ -12830,7 +12830,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "ASXiKS1vtdtiGxwYqT6qVExptEy2qqorXbwCC2CoN6fB": {
@@ -17725,7 +17726,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "8L1FZzTSxhdC9JAQbQPp7oNUvAN6bEaML9dn4K38Jg8E": {
@@ -17740,7 +17742,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "FmiFkQ2D9nZFxbgToZ9wjx6PZBVoQXQZeCeso2TKDKMb": {
@@ -17755,7 +17758,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "4eHwRb4vwr3UsRzgvPwjov69eTSFFzMjppNVDuqguFFh": {
@@ -17770,7 +17774,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "Eg6rHrSaBrrcrz8ATt3uaPCoScVbhpWnsgtHbDJ6Xvyz": {
@@ -18262,6 +18267,58 @@
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 100,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "Dtm38kV6aTFvgnXPjcP4HA3rUoppAu16BFbtfp8W7E5u": {
+    "name": "doritocat",
+    "symbol": "doritocat",
+    "flagged_ts": 1789955815,
+    "liquidity_at_flag": 28897.1857019963,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "AAzk6bWWmuKLvLqkckJ44NCJN1bXa9n85TfgZA1cUkzT": {
+    "name": "MOSS",
+    "symbol": "MOSS",
+    "flagged_ts": 1789955817,
+    "liquidity_at_flag": 58635.210356909025,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "GA9XPkF6rfrk1qBWQpki7kfxYjwfH3gLSzT2nx5EbYGs": {
+    "name": "Argus",
+    "symbol": "ARGUS",
+    "flagged_ts": 1789955818,
+    "liquidity_at_flag": 41679.924889674716,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "46DvpcsJBEz27Y8ZssUDYea8wa4fk1bsgL3F1Q3B4b4p": {
+    "name": "Avax Cat",
+    "symbol": "ACAT",
+    "flagged_ts": 1789955819,
+    "liquidity_at_flag": 24875.80193894175,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
