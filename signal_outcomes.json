@@ -17590,7 +17590,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "5cfpcH6HQyHwqwB1oax4aQg17y3wKZyCuQ4UBsuJpump": {
@@ -17606,7 +17607,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "BtVY2opo73k9CDey2bNNFB2e9B3uA49xeienzVwi3suk": {
@@ -17622,7 +17624,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "6pjV2VH8h6kSngQGR2L3jttp9qD4x8YLB67yFQCLykRw": {
@@ -21523,7 +21526,9 @@
       "LIQUIDITY": 78,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "F42sTstdUYziYjhLLpwjZxXKSbW77bUWs3M6E1LEJNdg": {
     "name": "Bella",
@@ -21536,7 +21541,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "sAVD1W8Y8QupDkAp5pscAPR7mb6Rf5j1a7UgH4j6G9y": {
     "name": "Catpack",
@@ -21549,7 +21556,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "BWAUxygWFy5KHJA8xeEoCdkTUimD1RjC92ke5VFSpump": {
     "name": "tipped.family",
@@ -21636,6 +21645,32 @@
     "liquidity_at_flag": 23054.941183494346,
     "breakdown": {
       "MOMENTUM": 95,
+      "SAFETY": 90,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "9aw2tc2FdaCXzzzefYRDWek9cDP4YF2wYvx2Lhdfpump": {
+    "name": "Collector Crypt",
+    "symbol": "CARDS",
+    "flagged_ts": 1790019862,
+    "liquidity_at_flag": 36653.73596385087,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "3pvu1Gey7uA5sDaTi3D6q5Pgi2U24H92W4gsZfA9igXQ": {
+    "name": "LUNCHPAD",
+    "symbol": "LUNCHPAD",
+    "flagged_ts": 1790019863,
+    "liquidity_at_flag": 27050.43530953703,
+    "breakdown": {
+      "MOMENTUM": 100,
       "SAFETY": 90,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
