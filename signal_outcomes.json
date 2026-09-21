@@ -15907,7 +15907,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "3M4kbn36NzqQ8rSqckkUBugZiaNLqVqvxnCSaqBdLr9K": {
@@ -15923,7 +15924,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "8Uit59qjFSZyNJpvYGXFud4vhnuUEpVzTmVUJgJdExKP": {
@@ -15939,7 +15941,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "5kT1bM76LiMpg21gfFReS7kN5LDyLKuQsGBBmKwQuzrR": {
@@ -15955,7 +15958,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "FKbq8E8KMCfA4kZvAzCV6Uox7HbTc7eS97tuoDqddoyv": {
@@ -15971,7 +15975,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "AAtWqcEU3nDosZBivZMZVRrTrikKWwGbewPPPaoyfr2n": {
@@ -19778,7 +19783,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "HmYe7fcdH2gvgSRe5GCfvrUuKxzhVbxbq6UuJvM1u2st": {
@@ -19793,7 +19799,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "3BqALZt9poWuxpX4KRaH3GfhZpWMCLpA3mt4KZWfer8o": {
@@ -19808,7 +19815,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "6Awrt4RbNFTe51gPPbmMxbpo2kUMXfNjKMkRGE24pump": {
@@ -20212,7 +20220,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "3QzJkAD6Tg1ZeUvF5SkrPYTqLV2yunR8VhNGqTYqpump": {
     "name": "The Official Zcash Mascot",
@@ -20225,7 +20235,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "8q6aSV7HsmHFSuVS6gwyxFQzLgohhtaNnrxWYvgJpump": {
     "name": "Solana Agent",
@@ -20313,6 +20325,58 @@
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "GRgnMFAMvrKbbTSfzPHUmidaco9sJSDCMA2PRDRLQTQR": {
+    "name": "SIU",
+    "symbol": "SIU",
+    "flagged_ts": 1789995881,
+    "liquidity_at_flag": 33099.343244079995,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "CvYxavED3b5furYQQKC95iDEPhnpqBJPCkLUJ38pP57G": {
+    "name": "opcode.so",
+    "symbol": "OP",
+    "flagged_ts": 1789995882,
+    "liquidity_at_flag": 35396.01467965917,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "335YVM5pRzEzuLznLBMDFLzZCaV32peq7UdPcpNjGV4z": {
+    "name": "BUNNY",
+    "symbol": "\ud83d\udcb2BUNNY",
+    "flagged_ts": 1789995883,
+    "liquidity_at_flag": 54510.793026221596,
+    "breakdown": {
+      "MOMENTUM": 82,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "BfQyGZcvEzr2MVfQi85W9pbeuV1UWF6foWgUoB33pump": {
+    "name": "Anonymous Inu",
+    "symbol": "ZINU",
+    "flagged_ts": 1789995885,
+    "liquidity_at_flag": 33796.37193753201,
+    "breakdown": {
+      "MOMENTUM": 65,
+      "SAFETY": 100,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
