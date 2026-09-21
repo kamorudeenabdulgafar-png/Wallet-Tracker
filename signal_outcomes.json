@@ -15652,7 +15652,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "5tpxYN4ycBUCUuu56tUTcZaRWA8zE366FcEzsqCNbXhd": {
@@ -15668,7 +15669,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "BCQ9C28oSB4H8XSpNH94HdWpq6HNu2v5ht9Tdhwcie26": {
@@ -20024,7 +20026,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "FztLJ1p8SamxpzqgL3uVqyKphoAVHZA84ueWgfgNFKoY": {
     "name": "FHErnet",
@@ -20151,6 +20155,32 @@
     "breakdown": {
       "MOMENTUM": 84,
       "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "BhrQMPt88dqTAQ1yKzNxekhrNQPe3ZdKKwcEDmECitLD": {
+    "name": "bnbminer.fun",
+    "symbol": "MINER",
+    "flagged_ts": 1789991796,
+    "liquidity_at_flag": 37088.19302428425,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "3QzJkAD6Tg1ZeUvF5SkrPYTqLV2yunR8VhNGqTYqpump": {
+    "name": "The Official Zcash Mascot",
+    "symbol": "ZOOKO",
+    "flagged_ts": 1789991796,
+    "liquidity_at_flag": 39557.70990028141,
+    "breakdown": {
+      "MOMENTUM": 66,
+      "SAFETY": 100,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },

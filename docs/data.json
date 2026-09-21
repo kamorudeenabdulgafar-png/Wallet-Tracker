@@ -1,5 +1,5 @@
 {
-  "last_updated": 1789991339,
+  "last_updated": 1789991799,
   "wallets": [
     {
       "label": "Dev wallet 1",
@@ -85,7 +85,7 @@
     "count": 2835,
     "up_count": 613,
     "total_change_pct": -155586.29928175083,
-    "rug": 613,
+    "rug": 615,
     "doing_well": 6,
     "steady": 4,
     "fading": 6
@@ -93,6 +93,31 @@
   "learning_insight": null,
   "settings": {},
   "recent_alerts": [
+    {
+      "ts": 1789991798,
+      "type": "outcome",
+      "message": "\ud83d\udd34 rekrobot (REK) is dropping fast \u2014 down 100%, may be rugging."
+    },
+    {
+      "ts": 1789991798,
+      "type": "outcome",
+      "message": "\ud83d\udd34 Da huang (\u5927\u9ec4) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
+    },
+    {
+      "ts": 1789991797,
+      "type": "outcome",
+      "message": "\ud83d\udd34 \u53f0\u5317101\u5927\u53a6 (101\u5927\u53a6) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
+    },
+    {
+      "ts": 1789991796,
+      "type": "scanner",
+      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\nThe Official Zcash Mascot (ZOOKO)\nOpportunity: 78/100\n\nMOMENTUM     66\nSAFETY       100\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$39,558, 15 min since pool creation\n\u2022 Up +44% in the last hour, ~$148,640 in 24h volume (3.8x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Low, 0/100):\n\u2022 No major red flags found\n\nCA: 3QzJkAD6Tg1ZeUvF5SkrPYTqLV2yunR8VhNGqTYqpump\nhttps://dexscreener.com/solana/3QzJkAD6Tg1ZeUvF5SkrPYTqLV2yunR8VhNGqTYqpump\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
+    },
+    {
+      "ts": 1789991796,
+      "type": "scanner",
+      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\nbnbminer.fun (MINER)\nOpportunity: 76/100\n\nMOMENTUM     100\nSAFETY       60\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$37,088, 13 min since pool creation\n\u2022 Up +167% in the last hour, ~$133,971 in 24h volume (3.6x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 96% of supply (very concentrated)\n\nCA: BhrQMPt88dqTAQ1yKzNxekhrNQPe3ZdKKwcEDmECitLD\nhttps://dexscreener.com/solana/BhrQMPt88dqTAQ1yKzNxekhrNQPe3ZdKKwcEDmECitLD\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
+    },
     {
       "ts": 1789991339,
       "type": "outcome",
@@ -317,31 +342,6 @@
       "ts": 1789988712,
       "type": "scanner",
       "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\nFHErnet (FHErnet)\nOpportunity: 70/100\n\nMOMENTUM     83\nSAFETY       60\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$25,188, 6 min since pool creation\n\u2022 Up +56% in the last hour, ~$41,287 in 24h volume (1.6x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 88% of supply (very concentrated)\n\nCA: FztLJ1p8SamxpzqgL3uVqyKphoAVHZA84ueWgfgNFKoY\nhttps://dexscreener.com/solana/FztLJ1p8SamxpzqgL3uVqyKphoAVHZA84ueWgfgNFKoY\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
-    },
-    {
-      "ts": 1789988710,
-      "type": "wallet",
-      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: BTC -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/3oeoSHsYVsYSumSPBLQgSupzEApv9YgqDrZPHWvNePQdfVLBbk2qQZxw4ckshfZB1G4tTFAjU8skHbmqdsFYYyvW"
-    },
-    {
-      "ts": 1789988710,
-      "type": "wallet",
-      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: PONS -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/4fviQSPCRcMhGzbGEXrVjSTVae3HcBkcs9n3KB6v8fx6UZ53r2su9UfpV5a7amLh7sjG9DnTk4HxeZRVD7KKujcq"
-    },
-    {
-      "ts": 1789988709,
-      "type": "wallet",
-      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: xBTC -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/3ThpaPqcswwwaPi8P6ADwqFcQmVDo9LmnBM21rNuUfDfhHtWirGEF4UEShNYEizYsTFDv6s6U7wZXqk7ki1ueu9a"
-    },
-    {
-      "ts": 1789988708,
-      "type": "wallet",
-      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: USDC -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/4iMSsUKzHfdtssdESMyy4A21JRiYptQyUKeCPWMt2ZpWfpuez1czTJ4pcCMHJznWeBuaf4H2oeh5fM4ZpKNNTZv5"
-    },
-    {
-      "ts": 1789988707,
-      "type": "wallet",
-      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: USDC -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/55LiphgsCCHkwUCxhjsEj5qqBgQRAz3r8geKcafsPjWBTzCPWstWKA394pABg4ThMJmqkHEY22VKzpxxbWKVRVcf"
     }
   ]
 }
