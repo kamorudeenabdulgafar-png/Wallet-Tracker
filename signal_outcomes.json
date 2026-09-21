@@ -16349,7 +16349,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "2TkNZsVG13i1tcC2SL4wWsNVsH2CyMmmULLjusc6A4UX": {
@@ -16365,7 +16366,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "GMtwHRyULzX3Tgo2LDsnT5SeUQfeK42LohDLua8Z7XY6": {
@@ -16381,7 +16383,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "FKTNYCQQbUyHs9owzHm6rECSbrfHKbAHPCnSfHidXhfP": {
@@ -16397,7 +16400,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "6psJdUSdewRExdEkT1Y5gFxNYNi6BM2UDcnv6rQFpump": {
@@ -16413,7 +16417,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "81p1UQZUMqu8ADiiyKcemG7KuLTJGTDQhdregvDafqQu": {
@@ -16429,7 +16434,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "5BaxSoMSvQt2rW8fD5bVsRTNVoYb5WETZKcfrzQ7PyEo": {
@@ -16445,7 +16451,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "BsA6TtvXcG8P6shTqDGhJDsRrsJqrVRx76QKmacPDHqH": {
@@ -16461,7 +16468,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "7pLR7ohTzbS9Rpo43APccpDvwejkCpFmJ8cRkgAG1L4N": {
@@ -20108,7 +20116,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "HUUNgfzw1DdyTU99Xp3bRTk5AQg5bmnyKbnHCWQCpump": {
@@ -20123,7 +20132,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "7uATVYNgJsSgYMhDSPgFSU14gpX7kQUGqyzbgwP6Dnzc": {
@@ -20617,7 +20627,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "HP2A6DNJWNWyUMHNbneBnp3h9UE8paULTxr3veefGFp1": {
     "name": "Get Awarded",
@@ -20630,7 +20642,9 @@
       "LIQUIDITY": 72,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "5wZDE8f5uKHbVaHAyz84Lgz7xefAkCpvcwoWYaRCrfn": {
     "name": "Get Awarded",
@@ -20643,7 +20657,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "8ycnnyPebA2eWnpuXxepQYXx4AFz9aGQJ3pwVn8MGSeu": {
     "name": "CLIPBACK",
@@ -20770,6 +20786,71 @@
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 75,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "8tRQfGYnKhsHnmqfsWua84M7Dhndak5yJ3C1i6ouN41a": {
+    "name": "Nautilo",
+    "symbol": "Nautilo",
+    "flagged_ts": 1790003959,
+    "liquidity_at_flag": 38849.43094636406,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "6i9yNthmax8j7kLXMdrjBpAKp8LRCt21KJe1ZmgenMqF": {
+    "name": "Uranus",
+    "symbol": "Uranus",
+    "flagged_ts": 1790003960,
+    "liquidity_at_flag": 48086.056056955305,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "BVbJ7ssyeTgd4i6WDhjRTztfiKqA5t9WCVsvNRN828Rt": {
+    "name": "Claude Ai",
+    "symbol": "claude",
+    "flagged_ts": 1790003960,
+    "liquidity_at_flag": 40480.68145010296,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "62Ubvp1hdi43AeNGgKrqH2BtR4K3iV9aKVNxKr4GrwBw": {
+    "name": "$Nipple$",
+    "symbol": "$Nipple$",
+    "flagged_ts": 1790003961,
+    "liquidity_at_flag": 33021.21414170604,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "oNZtPgyxU8yzSbgqtGAedxdXamnVKgnDm45U3FJQJWf": {
+    "name": "Uranus",
+    "symbol": "Uranus",
+    "flagged_ts": 1790003962,
+    "liquidity_at_flag": 74163.3766213505,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
