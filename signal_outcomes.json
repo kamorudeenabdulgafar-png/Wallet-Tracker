@@ -16570,7 +16570,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "2RUgjSJeVckYfUYhYYRWbrUuLdyRJYzDPTctUaGit9mY": {
@@ -16586,7 +16587,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "BPcRPRaJ6yTnUCxY8uUtBqnzwzoJYKBbQVZTWvSLpump": {
@@ -16602,7 +16604,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "H6acasg71ktXFwCzg6r9yfh2y8CMjybXLZyRefg42p4J": {
@@ -20185,7 +20188,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "C4Bwpk5QHcG4auPaVubzWjs3CmVFpofEL2GvDGB8pump": {
@@ -20200,7 +20204,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "7Q9hMzrVQMHD7qGBka9udetT7rDzvLh1N8xfjhgopump": {
@@ -20215,7 +20220,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "3JV8p4NxP5bQPupSt57rBMWP4SHaXeNwmxM7e1Sjpump": {
@@ -20739,7 +20745,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "Ap7S4TEmHKXzXaHyUDv9pYYjZW5WoiYrqwTC8sZoGz2F": {
     "name": "Claude Ai",
@@ -20876,6 +20884,58 @@
     "symbol": "SYN",
     "flagged_ts": 1790004657,
     "liquidity_at_flag": 32599.930965602907,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "FTqavSB8zQY8xdDznj4cDgaDdWh9fft4CyyG35Xh7PxV": {
+    "name": "FomoMint",
+    "symbol": "FOMOMINT",
+    "flagged_ts": 1790005573,
+    "liquidity_at_flag": 16373.760932053026,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 82,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "JC83TvZiEHmXEsVsEdEhnAL9GRTiW5kAYn1HNsjc5TrE": {
+    "name": "UraniumInUrAnus",
+    "symbol": "INURANUS",
+    "flagged_ts": 1790005574,
+    "liquidity_at_flag": 32248.826960530547,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "Exy2cSPg8dGFLUcH3ZjghSaHk42XGsm7J2KADPQ6HBCa": {
+    "name": "Retain",
+    "symbol": "RETAIN",
+    "flagged_ts": 1790005576,
+    "liquidity_at_flag": 23369.788724169466,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "BeQ4hwh5BWhoibiuzagjBDJ2u3FTF7cTmLiPawx7pp6d": {
+    "name": "Solhandle",
+    "symbol": "handle",
+    "flagged_ts": 1790005577,
+    "liquidity_at_flag": 30059.256078857496,
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 60,
