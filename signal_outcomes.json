@@ -16485,7 +16485,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "7viJRyubmaJYjoLZCRLdWtfwzCnQhfJUss7Bm5EQTAAz": {
@@ -16501,7 +16502,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "81yie884JW5rH7qPA8jymd3jp6CZL5Zpi4Ww2R42ZCYe": {
@@ -16517,7 +16519,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "8rztqadj6PGPJjsie9q6bJosUcih6Rmfym2tLxtcSd1h": {
@@ -16533,7 +16536,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "B9vBwsH9iKUGQ8WfsHe4hj51TfWNU1RvRPkiNDmBt4MN": {
@@ -16549,7 +16553,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "FJzNXhzJTdS8wn2AMRb7bDg9Lr1bV2gunn9ZnoALk2Sw": {
@@ -20148,7 +20153,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "CNm1WJcZ13ttNGjcTygDvcmdinZP3L6dvpuBtAQAik6T": {
@@ -20163,7 +20169,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "FC8gEqKFtEVQaugHJMbD5N4u6ckXnu86f7JibN87fy4z": {
@@ -20672,7 +20679,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "4KgF5f73S51YiMwUxPtA3trTDcVrYB8K4FAik5CyXUCm": {
     "name": "Nipple",
@@ -20685,7 +20694,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "9hGoTV9jdBRiNYMcmcMB1dZkaxQpgx4Vd2CyCgMuJrHb": {
     "name": "CLIPBACK",
@@ -20698,7 +20709,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "FM3veeRmHG5HwP9fzyw1LU1aswmAc4bhLiE5kCbypump": {
     "name": "SOLTES",
@@ -20711,7 +20724,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "stckszzSEhZgCsLmmUpas1hmkggVMRtLGucDTTXLfHs": {
     "name": "PStock Markets",
@@ -20848,6 +20863,19 @@
     "symbol": "Uranus",
     "flagged_ts": 1790003962,
     "liquidity_at_flag": 74163.3766213505,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "A1DHEhzZLB1rFaGY6Dhka8N9k1psrg2CBADLjzxvbFap": {
+    "name": "Synter",
+    "symbol": "SYN",
+    "flagged_ts": 1790004657,
+    "liquidity_at_flag": 32599.930965602907,
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 60,
