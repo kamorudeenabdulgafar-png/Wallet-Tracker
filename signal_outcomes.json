@@ -16927,7 +16927,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "G4TsBdCKBsR87BxS6XRrBx5xU6QRuKEksggeYrpiRdWM": {
@@ -16943,7 +16944,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "AJtjvxYzJ8Xtsp16G6U4h6qkEGpSCVcZtjFeMnVq1B4Y": {
@@ -16959,7 +16961,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "DBymdMFLkEnLnaQ9DeLZu5xpZf8dXLCFVRfwzzFgpump": {
@@ -16975,7 +16978,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "77YTcEwFDxFuypsxYaYFw4D5cz4G8szEHcmTzDgd7o14": {
@@ -20446,7 +20450,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "CvYxavED3b5furYQQKC95iDEPhnpqBJPCkLUJ38pP57G": {
@@ -20461,7 +20466,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "335YVM5pRzEzuLznLBMDFLzZCaV32peq7UdPcpNjGV4z": {
@@ -20476,7 +20482,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "BfQyGZcvEzr2MVfQi85W9pbeuV1UWF6foWgUoB33pump": {
@@ -20491,7 +20498,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "967agyQVXvWGcvN9L7pwr3BwP7LhNzHUBQnaRSUGcuns": {
@@ -21060,7 +21068,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "Hbc8UG4BcA8iX11C7PUQB3s7Mpz95nR7SDQDvyeJAe7X": {
     "name": "Super Inu",
@@ -21073,7 +21083,9 @@
       "LIQUIDITY": 88,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "9UW2VhhuF4sENeKFvDWBKuswCrEkG9E6ZVE9NhEkJC5E": {
     "name": "Super Inu",
@@ -21086,7 +21098,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "CT4Dzg3PTnY6C6LmCg3w6WVsxc3tQWKgLhXvpE7vqy1P": {
     "name": "Super Inu",
@@ -21099,7 +21113,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "3daqXogy1Xi9q1WUtAdMoj3fjUxj5hgEKDc1c1M9Tbh6": {
     "name": "Super Inu",
@@ -21112,7 +21128,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "Aau8BNLyEpvzJ6GMadBHH7NtK3y1dKiuuePDMJYjKtGc": {
     "name": "Super inu",
@@ -21184,6 +21202,19 @@
     "symbol": "PERK",
     "flagged_ts": 1790009868,
     "liquidity_at_flag": 34513.77113949947,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "BaNyABtwKcu7uwLVCp8ukhNA8tGzCfEb8rdviGTbyWBR": {
+    "name": "nuvexfamily",
+    "symbol": "NUVEX",
+    "flagged_ts": 1790010533,
+    "liquidity_at_flag": 38385.18761399367,
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 60,
