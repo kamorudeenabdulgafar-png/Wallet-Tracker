@@ -18100,7 +18100,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "BZRfWNggvbRk5DvUjTyucuqT1BjnUAgY2EE8Tj1cpump": {
@@ -18116,7 +18117,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "5X7o39wuSuwqtLPWCbsjgvzYP8Fu5BqgLEcPeq4upump": {
@@ -18132,7 +18134,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "2LUnkvWNjtihdEKJvpBPMRdUTSy7tVhvhGMiSSucqL6k": {
@@ -18148,7 +18151,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "dzrUW41KVcui9bZ9og6QmYCs5MPTgThB9eCqzcjF6Nt": {
@@ -21475,7 +21479,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "5uStPLt6TK4g5ULd57C4kv4wTuYv7sFmDQwYonTHFMUo": {
@@ -21490,7 +21495,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "EqW8zD3JVqiAVd3UAdoHCVYmJgK9KSuoghpAX4Nnpump": {
@@ -21505,7 +21511,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "3Z3htugNeEYd6ANKbX3FaTZii6sJb87uAWJvG4k8bDJi": {
@@ -22044,7 +22051,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "HWQBaDrd1Srgp63kya4jHzQRZNA8Zi2uRMDooV8AHPsg": {
     "name": "Basltion Labs",
@@ -22142,6 +22151,32 @@
     "symbol": "tradecat",
     "flagged_ts": 1790028317,
     "liquidity_at_flag": 23454.174283182783,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "CVWLfLefUd1gw6ihdj4rAUcAVnVcS12PsmC7FfpyTLHe": {
+    "name": "Cult of Crypto",
+    "symbol": "$",
+    "flagged_ts": 1790029202,
+    "liquidity_at_flag": 35817.372840428085,
+    "breakdown": {
+      "MOMENTUM": 87,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "G53hwk12rPHkrterybUCGEB3m4JWFHripEGDXB9wWwKx": {
+    "name": "Cult of Crypto",
+    "symbol": "$",
+    "flagged_ts": 1790029203,
+    "liquidity_at_flag": 33769.48402324786,
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 60,
