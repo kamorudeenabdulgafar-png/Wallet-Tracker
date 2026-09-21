@@ -13068,7 +13068,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "F1MGBFJtWUQkobURdsfbfuyekR3NbFxkMQk6KCzw47pS": {
@@ -13084,7 +13085,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "BKda3ap94znK2UEGRQg37myyAJu1vZM6LuS1eLbFuD11": {
@@ -17947,7 +17949,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "7qfXJBFqEk4rW9y3K4ev94uDboNvxZLrjooc56tyoiPo": {
@@ -17962,7 +17965,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "BNm2hdiuqs8Nmx4bcarW74QEC18hJXgpSiLCzoBFxhkF": {
@@ -17977,7 +17981,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "4F417bfWeE5Jszi5dGDSf8Ug5JYWvuZoTJcuGf2Kpump": {
@@ -18306,7 +18311,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "Dtm38kV6aTFvgnXPjcP4HA3rUoppAu16BFbtfp8W7E5u": {
     "name": "doritocat",
@@ -18417,6 +18424,32 @@
     "symbol": "Ghost",
     "flagged_ts": 1789958264,
     "liquidity_at_flag": 38890.62787073509,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "7MNSSAX831HSwT8RNaAAq99CCz7jbcYfjou2PFp4Q9v9": {
+    "name": "Baby Jean Phil",
+    "symbol": "BABYPHIL",
+    "flagged_ts": 1789958927,
+    "liquidity_at_flag": 34220.91444782076,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "Dqtw4i2zsBCEQF9r14tbYnMW2wJCCLBii58zsbdeFhy": {
+    "name": "frank",
+    "symbol": "DEGODS",
+    "flagged_ts": 1789958927,
+    "liquidity_at_flag": 40379.05683466166,
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 60,
