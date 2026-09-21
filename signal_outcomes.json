@@ -12728,7 +12728,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "3U3ANBLHQXck6DiMMAaSAGJvfLugyfN6mGNKtwPjLHJH": {
@@ -12744,7 +12745,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "3WMQgznR1n9n9F8xrUBAzv1HQMY69Lud8DZdzz4t5L6U": {
@@ -17591,7 +17593,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "Ec74hRXm5nxu26Ze9eYMEERvaDMMf2ESwrJ7u6Wz3rzN": {
@@ -17606,7 +17609,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "5JGNsptgyW1w6za6LacKdA3PLYnxhbMVnEGbYJC4pump": {
@@ -17621,7 +17625,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "EqFG72Z35r8cAV8mKu3UK2L8NUTR1ZNyMr88E4BnwN8Q": {
@@ -18185,6 +18190,32 @@
     "symbol": "ZQUANT",
     "flagged_ts": 1789952249,
     "liquidity_at_flag": 31180.260405601286,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "FDh1dt1AqdfYDFpv1RR41ncp9FcBN7Yv19GxmczR7qTk": {
+    "name": "Shitcoin Futures Exchange",
+    "symbol": "STX",
+    "flagged_ts": 1789953760,
+    "liquidity_at_flag": 41981.15003547874,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "3LrBBzgfHM8Z7XNFqJ81yXnNoTvzci82jUVRW6f6anUR": {
+    "name": "\u88ab\u9057\u5fd8\u7684 Zcash \u5409\u7965\u7269",
+    "symbol": "ZEPE",
+    "flagged_ts": 1789953761,
+    "liquidity_at_flag": 34308.302275295224,
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 60,
