@@ -18304,7 +18304,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "8fJikdmFbmDscHXVR2zJZsQVoouZHZW3MKh9hcBjn46X": {
@@ -18320,7 +18321,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "nBt6Te4BQR2AoDi1J2e8WWNNbPS2Xy4FNjzGC4cpump": {
@@ -21695,7 +21697,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "13sy9DtJsWiPZD1ETk6wiLdFjAbwj5fECsg8gcVLu18D": {
@@ -22159,7 +22162,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "FgU8hVMmCss3biVXvmsgBiDNdYLaDHtEcXXMcCSVpump": {
     "name": "Cult of Crypto",
@@ -22172,7 +22177,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "DyzbDwSNxfAiQMubMPkYDxM7BYvAxyKJJiLgHtpD4PBk": {
     "name": "tradecat",
@@ -22185,7 +22192,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "CVWLfLefUd1gw6ihdj4rAUcAVnVcS12PsmC7FfpyTLHe": {
     "name": "Cult of Crypto",
@@ -22221,6 +22230,45 @@
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 100,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "6FeQcP4PCv5nZbb94VXLK58fbEKFvmHRStycPcjC2LMC": {
+    "name": "kirkinu",
+    "symbol": "kirkinu",
+    "flagged_ts": 1790031922,
+    "liquidity_at_flag": 21091.070445621095,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "3GgrWfUF6vRbH1iUxzqH7LABcZ8Mk2cdonKe61odpump": {
+    "name": "The Maze King",
+    "symbol": "MAZE",
+    "flagged_ts": 1790031923,
+    "liquidity_at_flag": 22837.149680575574,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 90,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "4eyEnC9zR8dqbHbwy7f6yBampCMR6itF5Nr8Ui1rDkwg": {
+    "name": "kirkinu",
+    "symbol": "kirkinu",
+    "flagged_ts": 1790031925,
+    "liquidity_at_flag": 32312.338215549622,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
