@@ -18610,7 +18610,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "3LrBBzgfHM8Z7XNFqJ81yXnNoTvzci82jUVRW6f6anUR": {
@@ -18626,7 +18627,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "HLT4PjYGfXerLZoJs6dTWsQ9eFPD2NmzXUkwwxNi7g6J": {
@@ -22113,7 +22115,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "HWQBaDrd1Srgp63kya4jHzQRZNA8Zi2uRMDooV8AHPsg": {
@@ -22412,7 +22415,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "2EP2uFXeh62SDLR2YvMUFSeWHf83kUQnejS7NybzKLz2": {
     "name": "Inucoin Fork",
@@ -22425,7 +22430,9 @@
       "LIQUIDITY": 98,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "DbUT68CrvbHpSTwrrfXPfoo9BbtcFDR8kmiXauUfW6h2": {
     "name": "Ticket",
@@ -22438,7 +22445,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "2dGP3hBRwKmP63LZ66gQ9e7hR87UgiP4vL8HDECU9Fba": {
     "name": "Inucoin Fork",
@@ -22451,7 +22460,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "GDGcTTEs6qkRKaRn9LAbFZnbzqYsAquv8YmkDiKo1kaq": {
     "name": "Inucoin Fork",
@@ -22464,7 +22475,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "HLBz6WNdBJ2cWo81HFU898ddc5sZsvYZiSxRQXTtpump": {
     "name": "Jean Phil Paid",
@@ -22523,6 +22536,32 @@
     "symbol": "TACET",
     "flagged_ts": 1790039930,
     "liquidity_at_flag": 27487.770911275155,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "ACXtE6bbPu2UfKtprFAmGcxtcRdDZgcXcXonbEX5GLZS": {
+    "name": "nuvexfamily",
+    "symbol": "NUVEX",
+    "flagged_ts": 1790040643,
+    "liquidity_at_flag": 37633.3384921508,
+    "breakdown": {
+      "MOMENTUM": 91,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "APBVKcs9yexG1zdZTiECmTTkX9s11mTQ15htimMgnG75": {
+    "name": "KOL Cat",
+    "symbol": "KOLCAT",
+    "flagged_ts": 1790040644,
+    "liquidity_at_flag": 30665.51990784588,
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 60,
