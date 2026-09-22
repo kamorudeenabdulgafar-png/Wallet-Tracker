@@ -25913,7 +25913,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "2HL4YqYjhY19648WzpNid6oQ7xxnndiv5JmoTLT44b2M": {
@@ -25928,7 +25929,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "3FEXGxqKPER8aDvr8enRjw9bnznufr9NUCsFQi1Tpump": {
@@ -26447,6 +26449,19 @@
     "symbol": "miss",
     "flagged_ts": 1790110509,
     "liquidity_at_flag": 52962.2796864753,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "G5xDN1V9TXeGqy5chw8qQGiEUoidWbjoZ4TrsBveXLkY": {
+    "name": "SWEEP",
+    "symbol": "SWEEP",
+    "flagged_ts": 1790111085,
+    "liquidity_at_flag": 29490.990639219344,
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 60,
