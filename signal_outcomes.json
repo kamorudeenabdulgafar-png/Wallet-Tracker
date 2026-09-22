@@ -21228,7 +21228,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "FTqavSB8zQY8xdDznj4cDgaDdWh9fft4CyyG35Xh7PxV": {
@@ -24971,7 +24972,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "AwsWZRy9CtZGsGqeKpVDNG7knnwZu98ThX4WP3FCpump": {
@@ -24986,7 +24988,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "7qmtuPG9so7oN6M7e9JW53rKLxSkBgBbRBTrPRGVbi4j": {
@@ -25001,7 +25004,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "Bhu4euSnuFuDc68hJ4fPA9x8g4vn1AArVuPRiNVJyhmu": {
@@ -25016,7 +25020,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "DFiQVgJK5dTzsdR3hbYE3S14gjL6fuqPvzkGPM5LMz1A": {
@@ -25656,6 +25661,32 @@
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "9hBWUD6nVsbn7uLhiYk7c6A8PYxwR54e7bZrRaQBz4s4": {
+    "name": "Bat Inu",
+    "symbol": "BI",
+    "flagged_ts": 1790091390,
+    "liquidity_at_flag": 34617.0518483779,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "5nLfR5k6SWP8wXWnrBHRQ5jRjtkFKBGxTmvEu8eqpump": {
+    "name": "Sniper Cat",
+    "symbol": "SCAT",
+    "flagged_ts": 1790091391,
+    "liquidity_at_flag": 21181.140985519472,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 90,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
