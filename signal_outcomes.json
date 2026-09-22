@@ -22639,7 +22639,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "HhnwS4P5QPHPSbYHvfhzQnYn6Y2BUGwSMUaF9k8P785a": {
@@ -22655,7 +22656,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "GedVu7V3q8NNdu8ajM3NfyTLoGU84m2z1ZSxZ3LGYJcR": {
@@ -26382,7 +26384,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "BtY4q8QqBzmrhpoGxkQuPVchC3LtUEn4axvJFJe9jQ3Y": {
@@ -26397,7 +26400,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "735oDprAe1XRH8RgzxRotE3MVrR59VG9sAKiCApaTbMY": {
@@ -26741,7 +26745,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "FMfwJH21QACy7fvdF1pKfJUoMfzkKVh6YTDCEYKxGYun": {
     "name": "Earny",
@@ -26855,6 +26861,58 @@
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 90,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "6rtenJQARckxHzE5nrZoKJKWQfbygmSVHgMqDPvdpump": {
+    "name": "WORLD.EXE",
+    "symbol": "WEX",
+    "flagged_ts": 1790121235,
+    "liquidity_at_flag": 25211.9192510367,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 100,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "4jRg4s3cQRELT7BBKPZVrWwsemxgWhQZCGQjYzR6pump": {
+    "name": "The Monkey Milkers",
+    "symbol": "Pelusa",
+    "flagged_ts": 1790121236,
+    "liquidity_at_flag": 68471.15767925562,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "6Wr7KF4F1NZ3cMxCQzaSr3kEha2uLnCYKbEC3MD5pump": {
+    "name": "Archibald Brown",
+    "symbol": "Archi",
+    "flagged_ts": 1790121237,
+    "liquidity_at_flag": 36003.86085777305,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 75,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "6A1emS3pCr4DXXXWX7KaQUWwfxwKKXs1R5Ch386RK7Cy": {
+    "name": "BillSmith",
+    "symbol": "BillSmith",
+    "flagged_ts": 1790121238,
+    "liquidity_at_flag": 35832.622779031815,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
