@@ -21517,7 +21517,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "5khTnuji3J9kQm8m4MqCmuFSBECitYW6jb97u2hKhaSF": {
@@ -21533,7 +21534,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "BaNyABtwKcu7uwLVCp8ukhNA8tGzCfEb8rdviGTbyWBR": {
@@ -25292,7 +25294,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "FVUhyeSMa3gs2vpELHtb4WqDRSNExzGNp9MonJZrYmAq": {
@@ -25307,7 +25310,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "FN1Qq2yxUoBbDHXtNtP2FL73vBZfCMGQtp5ffi5y6Y2X": {
@@ -25322,7 +25326,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "jyurFsb717v6kNJZLk9LRbHdN1y5ddHTyXP3yrZpump": {
@@ -25337,7 +25342,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "7s4CT6e9TTCv3kNTobr4sXveBJaPgbKJEhYUZPtaDku2": {
@@ -25352,7 +25358,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "2NGojV2jbDaeoKMC2FYKeNshdh2vPtwNRVCkRJ9aiQFy": {
@@ -25771,7 +25778,9 @@
       "LIQUIDITY": 87,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "51R8zB5zPiy4VHC5t83dEpCs2pQExktyC5MHJftChvRP": {
     "name": "Pokedex",
@@ -25784,7 +25793,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "5fFVVvhSXMAeDWytT1ayVdbxxM15C1Q7QmojDzqDNj77": {
     "name": "musebook",
@@ -25797,7 +25808,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "GJ6RSjJkWEo36UXtKp9zD6hq8oxbPaTx2RuubEbupump": {
     "name": "Clavicular",
@@ -25833,6 +25846,19 @@
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "3FEXGxqKPER8aDvr8enRjw9bnznufr9NUCsFQi1Tpump": {
+    "name": "POPBONNIE",
+    "symbol": "POPBONNIE",
+    "flagged_ts": 1790096881,
+    "liquidity_at_flag": 24496.76976598506,
+    "breakdown": {
+      "MOMENTUM": 90,
+      "SAFETY": 90,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
