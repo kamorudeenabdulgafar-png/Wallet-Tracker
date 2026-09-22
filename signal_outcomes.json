@@ -19647,7 +19647,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "5ogtVhZgJYQeZDraTutD8SZAinAHQc6mPNMXG61q8rNe": {
@@ -19663,7 +19664,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "BgA77vdJPkD4re2PjzARTi3j6Kac2ubRq3XQwJFC5cyv": {
@@ -19679,7 +19681,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "2MQxSQqzvikeZXC9pqezAs6tasdAinNBXneAAdjoVCjp": {
@@ -22942,7 +22945,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "7zTtZusfVkedDbCSbjCRoNsP4zHwxJEQoVj23nuaeZNA": {
@@ -22957,7 +22961,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "5PHUX9T2dgeUktJyu6KKdcqtTF98T78spNyBFcotpump": {
@@ -22972,7 +22977,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "ChXsjdLXp2PWnq2QbidLmgZL2fjT8Az1JUecLKNwwHDM": {
@@ -22987,7 +22993,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "8p2Aqhdvo6ZQx73yGA8Jv8chnmN9qT4AEr4pLyV3MoCd": {
@@ -23002,7 +23009,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "bZ6TpJ44KgM9kr3LKN9ttte3X2dW9afefCLn7vVMXd8": {
@@ -23586,7 +23594,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "Ck73uLikWmamoKPTtz2nTUFMCdXsZ2Hftc2kckoVsxRQ": {
     "name": "Nuts",
@@ -23599,7 +23609,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "F4nDNJhy6ZHbj1iHKSAB7FPadpW7f2PmqhTF4mxHAcxd": {
     "name": "X6",
@@ -23612,7 +23624,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "FbnDGHTy67y6MnWzDJGzPC6egTKgCjeNmZsC1nM2gewJ": {
     "name": "Nuts",
@@ -23625,7 +23639,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "6QjW62jPQEy5DB3qmjxrm6yeuPmsiAHx9TkRYJ9P7PeL": {
     "name": "Pygoscelis kerguelensis",
@@ -23638,7 +23654,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "671dNhKr12xRoPmfkevzG1daqi4c9KMAA9J83ExyMWJ7": {
     "name": "The Owl Is Awake",
@@ -23762,6 +23780,32 @@
     "symbol": "ARGUS",
     "flagged_ts": 1790059369,
     "liquidity_at_flag": 43006.18363843183,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "765JL8AJBaygiU13BBCchZ7kqxbdq1JLoGjoGduSTpDJ": {
+    "name": "Looong Anonymous Cat",
+    "symbol": "ZLOOONG",
+    "flagged_ts": 1790060285,
+    "liquidity_at_flag": 39005.17578261199,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "9xgGyS42E4aLZ2QsaYPEngA8UZxFwtYGST8Q7wi1qErJ": {
+    "name": "STONKPOT",
+    "symbol": "STONKPOT",
+    "flagged_ts": 1790060286,
+    "liquidity_at_flag": 63366.49085659184,
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 60,
