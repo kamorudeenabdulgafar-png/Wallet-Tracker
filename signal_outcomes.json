@@ -18746,7 +18746,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "DyQsPhXw5NLwhKLwnos79nEYt4V3F7nATaWv8KewfE72": {
@@ -18762,7 +18763,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "CReYNeG5VxH35uxwtD1z38QZMfrqu1moBu9goDcvKjLY": {
@@ -18778,7 +18780,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "DQSQKm6orZYYCfiZ2YeuAMomnAAdJ5iuNKtdwH183rNC": {
@@ -22265,7 +22268,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "G53hwk12rPHkrterybUCGEB3m4JWFHripEGDXB9wWwKx": {
@@ -22280,7 +22284,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "HnCtNawhB83Vh6CLzP5k5AGHVFxesSnnMWmNuVCdpump": {
@@ -22519,7 +22524,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "DgACXKn6kSopTrFAyAwvGaeTKicrqWzLvXRYuvKGpump": {
     "name": "OWED",
@@ -22532,7 +22539,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "7EDo631nSV9UVAGPR4MbpKzM7a3qMAN9BPKxQJNfdvWK": {
     "name": "suit",
@@ -22545,7 +22554,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "5Y7KF8drd3qj7howragcder8xL6wN2h44HTiF1bACGK": {
     "name": "Tacet",
@@ -22558,7 +22569,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "ACXtE6bbPu2UfKtprFAmGcxtcRdDZgcXcXonbEX5GLZS": {
     "name": "nuvexfamily",
@@ -22695,6 +22708,32 @@
     "symbol": "STONK",
     "flagged_ts": 1790042722,
     "liquidity_at_flag": 53990.94089492445,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "BjJyQFGTzu6JQfpdXEZ1mmFzhWgFYgEscRz472Zkpump": {
+    "name": "Cashtag",
+    "symbol": "CASHTAG",
+    "flagged_ts": 1790043645,
+    "liquidity_at_flag": 40374.90298815167,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 100,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "2FmYrTSXfak8js9ipoTa3ukH63TmevG19LY2XKCqVSaE": {
+    "name": "stonkerage.fun",
+    "symbol": "STONKERAGE",
+    "flagged_ts": 1790043646,
+    "liquidity_at_flag": 20761.55406924863,
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 60,
