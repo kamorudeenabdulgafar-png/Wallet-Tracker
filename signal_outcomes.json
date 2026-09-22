@@ -20021,7 +20021,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "HmYe7fcdH2gvgSRe5GCfvrUuKxzhVbxbq6UuJvM1u2st": {
@@ -20037,7 +20038,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "3BqALZt9poWuxpX4KRaH3GfhZpWMCLpA3mt4KZWfer8o": {
@@ -20053,7 +20055,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "6Awrt4RbNFTe51gPPbmMxbpo2kUMXfNjKMkRGE24pump": {
@@ -23492,7 +23495,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "A3ppMCw9yrN4a5M52AEaauandhCvmDUTFByUicbh9wWo": {
@@ -23507,7 +23511,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "ADAcPKDRFXiVV6Z3gC7KbgRggKsyNxjbqBih8m3EjJr7": {
@@ -24016,7 +24021,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "Btu1wVMcs7JxGDo1gQmaBGVssyK331T2413YWn8QD3ZP": {
     "name": "Ponzi Pad",
@@ -24194,6 +24201,32 @@
     "liquidity_at_flag": 54364.356028485985,
     "breakdown": {
       "MOMENTUM": 97,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "CLypAKGVEbxwjXzBUcQv8DvF7YucVxobZtyWqt1KAvA6": {
+    "name": "Paid",
+    "symbol": "PAID",
+    "flagged_ts": 1790067538,
+    "liquidity_at_flag": 13629.181389779142,
+    "breakdown": {
+      "MOMENTUM": 82,
+      "SAFETY": 100,
+      "LIQUIDITY": 68,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "4zJAGHapkoftXfVY8gbc197kAMxBnhYRFaKuqdanYrxr": {
+    "name": "CLIPBACK",
+    "symbol": "CLIP",
+    "flagged_ts": 1790067539,
+    "liquidity_at_flag": 32312.532220369845,
+    "breakdown": {
+      "MOMENTUM": 83,
       "SAFETY": 60,
       "LIQUIDITY": 100,
       "SMART MONEY": 0

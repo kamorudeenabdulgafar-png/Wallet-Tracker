@@ -1,5 +1,5 @@
 {
-  "last_updated": 1790067021,
+  "last_updated": 1790067544,
   "wallets": [
     {
       "label": "Dev wallet 1",
@@ -10,7 +10,7 @@
     "5CEbueQnq1Ym2uSSx2xXds3jQAqT1BDnkA59RZobSPAG": {
       "label": "Dev wallet 1",
       "buy_count": 288,
-      "sell_count": 168,
+      "sell_count": 170,
       "total_buy_usd": 15565.105837267645,
       "total_sell_usd": 0.0,
       "tokens_traded": [
@@ -64,9 +64,10 @@
         "Dz9mQ9NzkBcCsuGPFJ3r1bS4wgqKMHBPiVuniW8Mbonk",
         "poNSfquKq512ApeYjVghwViSun4x1MhCqHVH2Paq4jN",
         "suifhC9gU1VbJAPYPTBkHJyyyStKGLLYPVDTmPoqbvA",
-        "USD1ttGY1N17NEEHLmELoaybftRBUSErhqYiQzvEmuB"
+        "USD1ttGY1N17NEEHLmELoaybftRBUSErhqYiQzvEmuB",
+        "cbbtcf3aa214zXHbiAZQwf4122FBYbraNdFqgw4iMij"
       ],
-      "last_active": 1790063697,
+      "last_active": 1790067536,
       "positions": {},
       "realized_pnl_usd": 0.0
     }
@@ -85,7 +86,7 @@
     "count": 2835,
     "up_count": 613,
     "total_change_pct": -155586.29928175083,
-    "rug": 837,
+    "rug": 840,
     "doing_well": 9,
     "steady": 6,
     "fading": 9
@@ -93,6 +94,56 @@
   "learning_insight": "Coins that rugged averaged SAFETY 69; coins that did well averaged SAFETY 95.",
   "settings": {},
   "recent_alerts": [
+    {
+      "ts": 1790067544,
+      "type": "outcome",
+      "message": "\ud83d\udfe2 A Meme (MEME) is still doing really good \u2014 up 42% so far!"
+    },
+    {
+      "ts": 1790067544,
+      "type": "outcome",
+      "message": "\ud83d\udd34 CALI (CALI) is dropping fast \u2014 down 100%, may be rugging."
+    },
+    {
+      "ts": 1790067543,
+      "type": "outcome",
+      "message": "\ud83d\udfe2 Tesla (TSLA) is still doing really good \u2014 up 143% so far!"
+    },
+    {
+      "ts": 1790067542,
+      "type": "outcome",
+      "message": "\ud83d\udd34 Inverse Cramer (REMARC) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
+    },
+    {
+      "ts": 1790067541,
+      "type": "outcome",
+      "message": "\ud83d\udd34 Inverse Cramer (REMARC) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
+    },
+    {
+      "ts": 1790067540,
+      "type": "outcome",
+      "message": "\ud83d\udd34 bul, (bul) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
+    },
+    {
+      "ts": 1790067539,
+      "type": "scanner",
+      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\nCLIPBACK (CLIP)\nOpportunity: 70/100\n\nMOMENTUM     83\nSAFETY       60\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$32,313, 11 min since pool creation\n\u2022 Up +56% in the last hour, ~$38,430 in 24h volume (1.2x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 85% of supply (very concentrated)\n\nCA: 4zJAGHapkoftXfVY8gbc197kAMxBnhYRFaKuqdanYrxr\nhttps://dexscreener.com/solana/4zJAGHapkoftXfVY8gbc197kAMxBnhYRFaKuqdanYrxr\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
+    },
+    {
+      "ts": 1790067538,
+      "type": "scanner",
+      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\nPaid (PAID)\nOpportunity: 77/100\n\nMOMENTUM     82\nSAFETY       100\nLIQUIDITY    68\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$13,629, 8 min since pool creation\n\u2022 Up +55% in the last hour, ~$15,386 in 24h volume (1.1x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Low, 0/100):\n\u2022 No major red flags found\n\nCA: CLypAKGVEbxwjXzBUcQv8DvF7YucVxobZtyWqt1KAvA6\nhttps://dexscreener.com/solana/CLypAKGVEbxwjXzBUcQv8DvF7YucVxobZtyWqt1KAvA6\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
+    },
+    {
+      "ts": 1790067537,
+      "type": "wallet",
+      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: SPCXx -> USDC\nTrade size: unknown\nBought token: USD Coin (USDC)\nCA: EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v\nhttps://solscan.io/tx/3cwUxhR68bddEXY16GVqkwZzH7LBcbZh657YCuAm25DY6hrMBQ3A98XyN2WN9s4WBAQEEWaWqDdsVGQS29EteERr"
+    },
+    {
+      "ts": 1790067536,
+      "type": "wallet",
+      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: cbBTC -> USDC\nTrade size: unknown\nBought token: USD Coin (USDC)\nCA: EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v\nhttps://solscan.io/tx/3cRAt8waTby4fKQj1C6Lw5AukEaewNFw1xciVVifc4HShrH5pqjFUavUxPRTZidJiBUpdmJoGH6wjroEzRFN7Yvc"
+    },
     {
       "ts": 1790067021,
       "type": "outcome",
@@ -292,56 +343,6 @@
       "ts": 1790064315,
       "type": "scanner",
       "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\nFOURSTD (FOUR)\nOpportunity: 76/100\n\nMOMENTUM     100\nSAFETY       60\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$54,022, 13 min since pool creation\n\u2022 Up +124% in the last hour, ~$400,684 in 24h volume (7.4x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 90% of supply (very concentrated)\n\nCA: AkCJB23ywMqK89Lrw8Tffm6aSsxttjnQ8w5e27MgCwsG\nhttps://dexscreener.com/solana/AkCJB23ywMqK89Lrw8Tffm6aSsxttjnQ8w5e27MgCwsG\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
-    },
-    {
-      "ts": 1790064314,
-      "type": "scanner",
-      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\n\u4e2d\u56fd\u4eba\u80fd\u98de\u706b\u7bad (\u4e2d\u56fd\u4eba\u80fd\u98de)\nOpportunity: 74/100\n\nMOMENTUM     100\nSAFETY       60\nLIQUIDITY    90\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$17,912, 12 min since pool creation\n\u2022 Up +89% in the last hour, ~$64,987 in 24h volume (3.6x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 96% of supply (very concentrated)\n\nCA: 9SVJcc2zM44GS6WHcvqjeXT7uSv32vmFdwpKAfuYKaWZ\nhttps://dexscreener.com/solana/9SVJcc2zM44GS6WHcvqjeXT7uSv32vmFdwpKAfuYKaWZ\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
-    },
-    {
-      "ts": 1790064312,
-      "type": "scanner",
-      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\nPonzi Pad (PONZIPAD)\nOpportunity: 76/100\n\nMOMENTUM     100\nSAFETY       60\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$33,566, 6 min since pool creation\n\u2022 Up +146% in the last hour, ~$36,066 in 24h volume (1.1x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 95% of supply (very concentrated)\n\nCA: Btu1wVMcs7JxGDo1gQmaBGVssyK331T2413YWn8QD3ZP\nhttps://dexscreener.com/solana/Btu1wVMcs7JxGDo1gQmaBGVssyK331T2413YWn8QD3ZP\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
-    },
-    {
-      "ts": 1790063712,
-      "type": "outcome",
-      "message": "\ud83d\udd34 Argus (ARGUS) is dropping fast \u2014 down 100%, may be rugging."
-    },
-    {
-      "ts": 1790063711,
-      "type": "outcome",
-      "message": "\ud83d\udd34 Looong Anonymous Cat (ZLOOONG) is dropping fast \u2014 down 95%, may be rugging."
-    },
-    {
-      "ts": 1790063710,
-      "type": "outcome",
-      "message": "\ud83d\udd34 Tempura Simulation (Tempura) is dropping fast \u2014 down 65%, may be rugging."
-    },
-    {
-      "ts": 1790063709,
-      "type": "outcome",
-      "message": "\ud83d\udd34 STONKPOT (STONKPOT) is dropping fast \u2014 down 100%, may be rugging."
-    },
-    {
-      "ts": 1790063708,
-      "type": "outcome",
-      "message": "\ud83d\udd34 DOGCOIN (DOG) is dropping fast \u2014 down 100%, may be rugging."
-    },
-    {
-      "ts": 1790063707,
-      "type": "outcome",
-      "message": "\ud83d\udd34 BUNNY (\ud83d\udcb2BUNNY) is dropping fast \u2014 down 100%, may be rugging."
-    },
-    {
-      "ts": 1790063706,
-      "type": "outcome",
-      "message": "\ud83d\udd34 Argus (ARGUS) is dropping fast \u2014 down 100%, may be rugging."
-    },
-    {
-      "ts": 1790063705,
-      "type": "outcome",
-      "message": "\ud83d\udd34 DOGCOIN (DOG) is dropping fast \u2014 down 100%, may be rugging."
     }
   ]
 }
