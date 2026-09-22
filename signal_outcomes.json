@@ -22282,7 +22282,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "H9gWBoP8mgTdyrcgsP5e7H6zBMmKT5EXvEp2EWq2mV5F": {
@@ -22298,7 +22299,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "7CE4KH1W8SbfQpnTPE6Rn2DoQqsD23xi1iF1gkZ9pump": {
@@ -22314,7 +22316,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "DcKfDN3rN9amfyDe8KjS3TXkomnu9Kocu1LvySsLhNYb": {
@@ -25945,7 +25948,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "4tu7aisufhaCAA5CMAtgubaxqzkfUcEQcg2r2VLBQ1MX": {
@@ -26364,7 +26368,9 @@
       "LIQUIDITY": 84,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "7t34JCMJNiMzZwKXy6ZZy4bih6Fjxqs8dokxUm7qNsxM": {
     "name": "Pokemon Cards",
@@ -26377,7 +26383,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "2mV4aL2QFYyWPDj7Tv8iJL7XA3NAdN7GNFNQe5zv1zGH": {
     "name": "The Disney Gorilla",
@@ -26462,6 +26470,19 @@
     "symbol": "SWEEP",
     "flagged_ts": 1790111085,
     "liquidity_at_flag": 29490.990639219344,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "Ek8S4UZjPntx5uhG3WtfBRozrB8UrzvAsV6YWtzYzgTr": {
+    "name": "The Pumpfun Pill",
+    "symbol": "PROZAC",
+    "flagged_ts": 1790111920,
+    "liquidity_at_flag": 37084.10469963709,
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 60,
