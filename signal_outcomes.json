@@ -21929,7 +21929,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "59sSHCrimcVqVxwvnajfttcNKnbzRHAVpcKHzXm2uYNK": {
@@ -21944,7 +21945,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "A2CLBDH4zh5vUDviaZ3wMngGJWHRwk7XDq5fHRMphSnP": {
@@ -21959,7 +21961,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "EddpuxgNoExAJ3u6osQx2WXpbNH8mXJQVZCuaXm2nstD": {
@@ -22318,7 +22321,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "2kFVVpScFtPixZ8zrS6iF3ZiTCj9aKkzA1jRN2GeWDqR": {
     "name": "Green Loom",
@@ -22366,6 +22371,71 @@
     "liquidity_at_flag": 31060.082208454995,
     "breakdown": {
       "MOMENTUM": 84,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "GedVu7V3q8NNdu8ajM3NfyTLoGU84m2z1ZSxZ3LGYJcR": {
+    "name": "jizzcoin",
+    "symbol": "JIZZCOIN",
+    "flagged_ts": 1790036866,
+    "liquidity_at_flag": 31519.108249494617,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "2EP2uFXeh62SDLR2YvMUFSeWHf83kUQnejS7NybzKLz2": {
+    "name": "Inucoin Fork",
+    "symbol": "Inucoin",
+    "flagged_ts": 1790036867,
+    "liquidity_at_flag": 19678.90766258965,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 98,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "DbUT68CrvbHpSTwrrfXPfoo9BbtcFDR8kmiXauUfW6h2": {
+    "name": "Ticket",
+    "symbol": "Ticket",
+    "flagged_ts": 1790036868,
+    "liquidity_at_flag": 32744.064745184565,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "2dGP3hBRwKmP63LZ66gQ9e7hR87UgiP4vL8HDECU9Fba": {
+    "name": "Inucoin Fork",
+    "symbol": "Inucoin",
+    "flagged_ts": 1790036869,
+    "liquidity_at_flag": 30053.597588000688,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "GDGcTTEs6qkRKaRn9LAbFZnbzqYsAquv8YmkDiKo1kaq": {
+    "name": "Inucoin Fork",
+    "symbol": "Inucoin",
+    "flagged_ts": 1790036870,
+    "liquidity_at_flag": 34452.477773790524,
+    "breakdown": {
+      "MOMENTUM": 100,
       "SAFETY": 60,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
