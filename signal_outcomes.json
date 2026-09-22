@@ -19800,7 +19800,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "An5kK7J3oumRuoR11wVmhxn2Kw1uq22KjUweuwgr1kGc": {
@@ -19816,7 +19817,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "xUNBsUTdFvoCzjnhgq1wiZCETa8qAqB2bCBmGs1pump": {
@@ -19832,7 +19834,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "76gjDppziDEKW5cCx6ydRy3rLEpeoYrX4jAfRgXLHRGK": {
@@ -19848,7 +19851,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "6WL5MRjSyuwrBMVgXdmHpQVqFbkCZifMnu4jdkztnJ57": {
@@ -19864,7 +19868,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "5TEXBNqSxfod4n15zqrCk1kt6nQc9KfEuqqkR2x2pump": {
@@ -23159,7 +23164,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "9mry4cuMLRjyNC9rv2iT3KfesDjdQRLwARzRDWXPqFcB": {
@@ -23174,7 +23180,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "cwbqseTbt8HmXDc4F9bJBLyPzgwMsMUPoWNVrYCpump": {
@@ -23900,6 +23907,45 @@
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "2zTJCF3uwDCGpuzno3BP5FWffSityiQX76jZVbLJz7tB": {
+    "name": "URANUS",
+    "symbol": "URANUS",
+    "flagged_ts": 1790062865,
+    "liquidity_at_flag": 31579.073773674994,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "GzjLDJkRS33ipjzcBbsobmeJVDgghrrLvk46JrdP56JG": {
+    "name": "Pyre",
+    "symbol": "Pyre",
+    "flagged_ts": 1790062866,
+    "liquidity_at_flag": 27258.943590929786,
+    "breakdown": {
+      "MOMENTUM": 98,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "HR6LbsK4B8WVd7YBKBPuzAXpQqypabXWAbdWZUwwpump": {
+    "name": "The Rogue AI",
+    "symbol": "RogueGPT",
+    "flagged_ts": 1790062867,
+    "liquidity_at_flag": 39745.71180501675,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 100,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
