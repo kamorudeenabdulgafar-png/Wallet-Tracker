@@ -23196,7 +23196,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "7pvipKTvFLiCjKdxYrXwJFEi95yeSRCorm3ywWUznVB4": {
@@ -23211,7 +23212,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "CgTQLgjoskX1ezcAv84w1B9nxxvG5jmrhg32D3uSPcRQ": {
@@ -23226,7 +23228,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "EiVXuwu2PpgGgjc9sgg7GeP4He949bYePLmcWRzanpZ5": {
@@ -23241,7 +23244,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "2KGdj2oxQCMkWXkVUnV8JPpnjCiaX34GKnwwS5T1qLE2": {
@@ -23256,7 +23260,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "ANeq7KebEntXk4AksKipo8KjuMCftfj1GmLsL3XVkn23": {
@@ -23271,7 +23276,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "GFGN4T1L5G4kMo5MUgCnu2H6JFiQK7L8dMR36gEcsZ7X": {
@@ -23780,7 +23786,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "4epQ7U9qHpiaUbojDz5UPKdWx5Req74QsuvBjfFxpump": {
     "name": "Tempura Simulation",
@@ -23793,7 +23801,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "FmsfyLgCPkdxe7HkgbgWJrrknfsCawua9thgV9B8pump": {
     "name": "Looong Anonymous Cat",
@@ -23806,7 +23816,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "FWGMQJD6U2uuTWoW7oz9nU41JCCX1yBf3WFsWxTMpRea": {
     "name": "Argus",
@@ -23819,7 +23831,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "765JL8AJBaygiU13BBCchZ7kqxbdq1JLoGjoGduSTpDJ": {
     "name": "Looong Anonymous Cat",
@@ -23946,6 +23960,19 @@
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 100,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "EiBNGjRZ52ps6y4AJij4ddc8HK2xEGfZpjYrqggADPLD": {
+    "name": "A Meme",
+    "symbol": "MEME",
+    "flagged_ts": 1790063700,
+    "liquidity_at_flag": 133458.2599968987,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
