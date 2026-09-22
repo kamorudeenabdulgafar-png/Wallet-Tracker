@@ -19307,7 +19307,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "ZQDHKnFv84QJXCbEE1pF7PzgrRX5ogQC5dpebrtpump": {
@@ -19323,7 +19324,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "E2CaYPHmdmSbjrp9AgwjGFcQmsTcddqTpDYTKjVLVjcy": {
@@ -22570,7 +22572,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "DgACXKn6kSopTrFAyAwvGaeTKicrqWzLvXRYuvKGpump": {
@@ -22585,7 +22588,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "7EDo631nSV9UVAGPR4MbpKzM7a3qMAN9BPKxQJNfdvWK": {
@@ -23380,6 +23384,71 @@
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 100,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "ADAcPKDRFXiVV6Z3gC7KbgRggKsyNxjbqBih8m3EjJr7": {
+    "name": "Allincuh",
+    "symbol": "Allincuh",
+    "flagged_ts": 1790053627,
+    "liquidity_at_flag": 34393.1876208741,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "CvffVrhJs6zMnbvYR8rXmHSu3ihsXkeUZijivavgqCGE": {
+    "name": "Super Inu",
+    "symbol": "SI",
+    "flagged_ts": 1790053628,
+    "liquidity_at_flag": 30884.48095548149,
+    "breakdown": {
+      "MOMENTUM": 85,
+      "SAFETY": 100,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "J5JYKxv78TBsYjpz4LtqBbZUFB8JRd3JW3jdWiBvW9pi": {
+    "name": "\u9ed1\u9c7c",
+    "symbol": "\u9ed1\u9c7c",
+    "flagged_ts": 1790053629,
+    "liquidity_at_flag": 28354.099592620845,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "4BdnHSiq9WguJCZeS9eUWnJZaBkRcGjqHzN4BsEnR6A8": {
+    "name": "\u0e23\u0e16\u0e16\u0e31\u0e07",
+    "symbol": "TANK",
+    "flagged_ts": 1790053630,
+    "liquidity_at_flag": 35842.83519680988,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "FqjggzmEdrgaN8TbTz8tdfwaXTLFsapw6yFTcz89dfag": {
+    "name": "\u0e23\u0e16\u0e16\u0e31\u0e07",
+    "symbol": "TANK",
+    "flagged_ts": 1790053631,
+    "liquidity_at_flag": 35302.574478970244,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
