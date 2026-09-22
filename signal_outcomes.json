@@ -21738,7 +21738,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "7qi57KtjUCoDqNpE3qq73RurWHmgYccpyZXNBkEdpump": {
@@ -21754,7 +21755,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "GR2Re2cnGZwYKeBeusD6e1oXwBC2AK3zD85oLXPEAEYc": {
@@ -21770,7 +21772,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "pUdosFwoJrsC1FkKuZwS5SwQPHLHEGns2gGpDUCFj5C": {
@@ -21786,7 +21789,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "D33RQSz5JQa9bpnDFm5r1adLNyxwtm12R3eDyUabpump": {
@@ -25894,7 +25898,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "4tu7aisufhaCAA5CMAtgubaxqzkfUcEQcg2r2VLBQ1MX": {
     "name": "GSTOCK",
@@ -25907,7 +25913,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "wCatSXqN7wrPPxJ2zFeoZSiZbVpXTCRKNBzrNj1yeBC": {
     "name": "WETCAT",
@@ -25920,7 +25928,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "6L7BJned7agCjjzaqum3pTc4XhWQN4YWVpy7fnMULWef": {
     "name": "Comet Garage",
@@ -26060,6 +26070,71 @@
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 75,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "4WQk9Xtq82SamCyXtrEpdRD896DHbGbFc2thPxBTkWLr": {
+    "name": "sol",
+    "symbol": "SOL",
+    "flagged_ts": 1790101516,
+    "liquidity_at_flag": 32747.804862920024,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "4PSGC3r6rtdAk8MWxpuZtjm4yY516tHCvhwK4xAxGa27": {
+    "name": "\u2803\u2807\u280a\u281d\u2819 \u2801\u280f\u2811",
+    "symbol": "\u2801\u280f\u2811",
+    "flagged_ts": 1790101517,
+    "liquidity_at_flag": 36008.4308425436,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "5taDFQ8JcnrdMWGeEC5k1RJJeQrVfUfnsjqyVsEkd56d": {
+    "name": "\u2803\u2807\u280a\u281d\u2819 \u2801\u280f\u2811",
+    "symbol": "\u2801\u280f\u2811",
+    "flagged_ts": 1790101518,
+    "liquidity_at_flag": 28804.304253558344,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "6fBCJQCXb8DaiQyChzoLDUmoWXihhUp8zLF33P3PMqKS": {
+    "name": "\u2803\u2807\u280a\u281d\u2819 \u2801\u280f\u2811",
+    "symbol": "\u2801\u280f\u2811",
+    "flagged_ts": 1790101518,
+    "liquidity_at_flag": 33129.389566356454,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "GXcMjn3h6dq1XgKkDJAoFkFrpUbpY8d9Nx7tYgkbW1o6": {
+    "name": "APE",
+    "symbol": "APE",
+    "flagged_ts": 1790101519,
+    "liquidity_at_flag": 30822.454529014132,
+    "breakdown": {
+      "MOMENTUM": 99,
+      "SAFETY": 60,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
