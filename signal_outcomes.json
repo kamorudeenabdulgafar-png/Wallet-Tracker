@@ -19885,7 +19885,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "cqFhQM1iYvyZdAsNax9kVQYvHm4vqahvXPVNbzeLPLh": {
@@ -19901,7 +19902,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "CjaAmmYRpJoFGAmsJDuwvibGroaXNCa8RBYWtd5vL7wh": {
@@ -19917,7 +19919,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "6N9VN124JW9aXzN3uRso7q3NgqXK3c7cKf8eXmDBqx9Y": {
@@ -19933,7 +19936,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "DHoZ6CrNynQaCvSyhk5rAzVyccfzWfvY7xxrooEtfCz6": {
@@ -23292,7 +23296,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "7f6BgFByqEvoVdRPA8XSADWaidUbRdpmQb1DoTMiwUpe": {
@@ -23307,7 +23312,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "6itWKNhCWaDEHjTBTGkEx2pk9CTieYNKtDaqz6JVbQrH": {
@@ -23876,7 +23882,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "DwDBQk32Q6kWAJHAdBMZAJyrBRHxsLaV4egNgs1Upump": {
     "name": "Sky Inu",
@@ -23889,7 +23897,9 @@
       "LIQUIDITY": 84,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "HTh9evgdjEDH8e2NWMW5VLW3D6Au1wDKqMsztdcMxWMi": {
     "name": "Grokification",
@@ -23902,7 +23912,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "9cSLL1x7dgyAgNpWhwKAQ1ZJ73EVy8EiHEiBJuJ3fRkB": {
     "name": "CLIPBACK",
@@ -23915,7 +23927,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "FQ4yfWDznQBGrfELrhrEQEwXaicWJbRisQXrKJM6PRd2": {
     "name": "Agent Wormhole",
@@ -24042,6 +24056,84 @@
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 75,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "AsH4PzMST7TuiMnVkqnGkrJDRpaLEP9xKLgya97B1wEQ": {
+    "name": "x7",
+    "symbol": "X7",
+    "flagged_ts": 1790065336,
+    "liquidity_at_flag": 32308.58860205736,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "Fskb3ypZhgDFRJuRSNEZ78bBFcixPiwzoFYEgioJpump": {
+    "name": "X7 Pad Stocks",
+    "symbol": "X7stocks",
+    "flagged_ts": 1790065337,
+    "liquidity_at_flag": 21377.21793746498,
+    "breakdown": {
+      "MOMENTUM": 54,
+      "SAFETY": 90,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "EV9qfjb2bGMXByQiS6vZ4n53HHCAcWdGzrbGXE8Wpump": {
+    "name": "Jean Bean",
+    "symbol": "JEANBEAN",
+    "flagged_ts": 1790065338,
+    "liquidity_at_flag": 59908.44451669904,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 100,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "f4KSfZDRrExPnFMmvFNxc4b2s2NHkbA5ye8Mt677jWH": {
+    "name": "x7 Cat",
+    "symbol": "X7CAT",
+    "flagged_ts": 1790065339,
+    "liquidity_at_flag": 39863.78257892806,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "EP94rUVrwfoCcQkDkVYmDzrWj1uy3j1H8M98P7ZDYJR": {
+    "name": "The Jean Phil Robin",
+    "symbol": "JEANROBIN",
+    "flagged_ts": 1790065341,
+    "liquidity_at_flag": 44552.30227086668,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "BsE3aa5FdE6FVEkWvA8ShAGpzZasEgJbfSqRC4LmErTK": {
+    "name": "x7",
+    "symbol": "X7",
+    "flagged_ts": 1790065342,
+    "liquidity_at_flag": 65177.386725638484,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
