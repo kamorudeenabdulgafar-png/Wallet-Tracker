@@ -1,18 +1,5 @@
 [
   {
-    "name": "Jev Desk",
-    "symbol": "JEVDESK",
-    "category": "fading",
-    "change_pct": -59.1,
-    "breakdown": {
-      "MOMENTUM": 100,
-      "SAFETY": 90,
-      "LIQUIDITY": 100,
-      "SMART MONEY": 0
-    },
-    "ts": 1790003969
-  },
-  {
     "name": "Spurdo",
     "symbol": "SPURDO",
     "category": "rug",
@@ -3898,5 +3885,18 @@
       "SMART MONEY": 0
     },
     "ts": 1790113287
+  },
+  {
+    "name": "DATACENTER",
+    "symbol": "DATACENTER",
+    "category": "rug",
+    "change_pct": -100.0,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "ts": 1790114019
   }
 ]

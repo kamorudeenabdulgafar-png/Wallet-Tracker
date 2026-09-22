@@ -22418,7 +22418,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "8xrwR3R7DTpZpLkXJduVCE2eRLCaGGfbBFVXmtrcpU3W": {
@@ -26017,7 +26018,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "E7oxZyvMkmUYQ14kCLbkR3ishavbSm4up9HGhf9LjGNy": {
@@ -26032,7 +26034,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "As7uiTKG2yuv7WEoMkgCkvNNx1pUsFQ2mC1Hmu8e3Nqk": {
@@ -26047,7 +26050,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "5Njz5z8Ax8exMGgq1Ep9k5H5jVzYrQQJJDXPyfyxUF2J": {
@@ -26062,7 +26066,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "DFmkM8ZhfvkuzWz5gyMEkH2ocLP7qxyCaSme9TYqGczN": {
@@ -26077,7 +26082,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "3ydQgY4zU1PqRxjKJc9YK4HoAjgBBXHbDXsU6SVc2VSD": {
@@ -26436,7 +26442,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "3rCRwgfxcyn3tpEdAyZHAzLVZsPgm9o83AyK5WW9pump": {
     "name": "GoPumpMe",
@@ -26449,7 +26457,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "FGAC5h4GHi8w2seLiZM6AKD4Jr9KUWxuGoXV54yhsDDq": {
     "name": "\u8783\u87f9",
@@ -26510,6 +26520,45 @@
     "liquidity_at_flag": 30219.257017700656,
     "breakdown": {
       "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "7jjTerm7hjga8Q1VgHzEkbNGUy7qTZca3i3tBGcEpump": {
+    "name": "Uptober",
+    "symbol": "Uptober",
+    "flagged_ts": 1790114017,
+    "liquidity_at_flag": 23236.344809666487,
+    "breakdown": {
+      "MOMENTUM": 72,
+      "SAFETY": 75,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "3B72iCu6FXMqN1fk5EKrkDxT4Er6cDomoo6Ym23Ypump": {
+    "name": "BFC",
+    "symbol": "BFC",
+    "flagged_ts": 1790114018,
+    "liquidity_at_flag": 39221.490153839426,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 90,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "5zcS6EGvzFSfMVyVwzEVHazkdvtuNuzdm3eGGMqGESha": {
+    "name": "musebook",
+    "symbol": "musebook",
+    "flagged_ts": 1790114019,
+    "liquidity_at_flag": 28418.445019214432,
+    "breakdown": {
+      "MOMENTUM": 91,
       "SAFETY": 60,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
