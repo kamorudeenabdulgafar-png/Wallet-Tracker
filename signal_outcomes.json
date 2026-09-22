@@ -19154,7 +19154,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "8Hy2EXTuNaxWYom3DRUjxr9pqiynd5vJDGf1DFxc1bSq": {
@@ -19170,7 +19171,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "8KrCrAfymAJsQmNQdTBb8VoZ5kn31a5KUfRnY2G82p8q": {
@@ -19186,7 +19188,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "J3CSbwYnpbnVXsW8y6vjTTyoAYCMGUaPrzypS2vgew5k": {
@@ -23034,7 +23037,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "6wmR5QJRetHqAkatM55ZzdzayWLAe2hEXqnP2URyySez": {
     "name": "\u5148\u5b9a\u5341\u4e2a\u5927\u76ee\u6807",
@@ -23047,7 +23052,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "6LPCgycY8Br7y2GL2KSmHd8xhtJbKuj6NHEmTfhswmkt": {
     "name": "retail",
@@ -23060,7 +23067,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "5qS9pfpYvRFTVDStAMND3TrKsrVuvFcYTzfMSb1CVxvS": {
     "name": "DOGCOIN",
@@ -23184,6 +23193,58 @@
     "symbol": "Kirkies",
     "flagged_ts": 1790050121,
     "liquidity_at_flag": 30069.14033582568,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "6itWKNhCWaDEHjTBTGkEx2pk9CTieYNKtDaqz6JVbQrH": {
+    "name": "Cashtag",
+    "symbol": "CASHTAG",
+    "flagged_ts": 1790050953,
+    "liquidity_at_flag": 15338.420263836248,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 77,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "Gx3fBiAPZHMXJf9tuyBQopxc4gCkRj3T5QM1dVfiGUfL": {
+    "name": "CLIPBACK",
+    "symbol": "CLIP",
+    "flagged_ts": 1790050955,
+    "liquidity_at_flag": 16082.669474041215,
+    "breakdown": {
+      "MOMENTUM": 91,
+      "SAFETY": 100,
+      "LIQUIDITY": 80,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "DrK9ci66pPJxi9ig327XcVRs8cDzs7frXXoHWwwKvsN5": {
+    "name": "\u30c1\u30fc\u30d0\u304f\u3093",
+    "symbol": "Chiiba",
+    "flagged_ts": 1790050956,
+    "liquidity_at_flag": 33454.641208099536,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 90,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "6Qp1LRpbjcySUssTNwDfXKVfESJdJqWGe16XiW7KUtbJ": {
+    "name": "Unconditional Support Dog Coin",
+    "symbol": "USDC",
+    "flagged_ts": 1790050958,
+    "liquidity_at_flag": 70821.19400494682,
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 60,
