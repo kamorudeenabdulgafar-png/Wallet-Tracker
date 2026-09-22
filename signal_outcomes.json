@@ -22265,7 +22265,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "2eeWHome1Pjy21sVXoVuJLB5qNV9jpMzeSebnCnAcGFK": {
@@ -25896,7 +25897,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "7NDC4UXwdPNTV6MTSWtNenS7rQY92vkJzoBAzeikpump": {
@@ -26330,7 +26332,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "BtY4q8QqBzmrhpoGxkQuPVchC3LtUEn4axvJFJe9jQ3Y": {
     "name": "The Disney Gorilla",
@@ -26343,7 +26347,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "735oDprAe1XRH8RgzxRotE3MVrR59VG9sAKiCApaTbMY": {
     "name": "The Memecoin Professor\uff0c",
@@ -26418,6 +26424,32 @@
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 90,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "FGAC5h4GHi8w2seLiZM6AKD4Jr9KUWxuGoXV54yhsDDq": {
+    "name": "\u8783\u87f9",
+    "symbol": "\u8783\u87f9",
+    "flagged_ts": 1790110508,
+    "liquidity_at_flag": 35409.38446583596,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 75,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "CSTwGRirAutXqSK5BtzF5fQkpRdGd2Rk36NJdx1Poqb9": {
+    "name": "miss the opportunity",
+    "symbol": "miss",
+    "flagged_ts": 1790110509,
+    "liquidity_at_flag": 52962.2796864753,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
