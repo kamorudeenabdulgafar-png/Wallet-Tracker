@@ -22435,7 +22435,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "FgU8hVMmCss3biVXvmsgBiDNdYLaDHtEcXXMcCSVpump": {
@@ -22451,7 +22452,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "DyzbDwSNxfAiQMubMPkYDxM7BYvAxyKJJiLgHtpD4PBk": {
@@ -22467,7 +22469,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "CVWLfLefUd1gw6ihdj4rAUcAVnVcS12PsmC7FfpyTLHe": {
@@ -26098,7 +26101,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "4Khvgf6mci58NGxUE8sys87sLBcF7DiyK8xxvUWfSqKg": {
@@ -26113,7 +26117,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "7UKbC9K3U4z3zJWd1JSC2K3v18qKdakMshv3sUvmD5am": {
@@ -26128,7 +26133,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "93xNM87MAA2NVSU5kiokDZQR3EYf4pMVLwUsjoqRwmuX": {
@@ -26143,7 +26149,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "EWhuEkc3qdj6ce987zXjkqfBu7gbm6MkSpvJU6sezdgM": {
@@ -26158,7 +26165,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "4WQk9Xtq82SamCyXtrEpdRD896DHbGbFc2thPxBTkWLr": {
@@ -26517,7 +26525,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "HByEs5GbRJVjkw5FPdSXXWTCJn43t28Sz3UX6QMXwmoG": {
     "name": "Super Inu",
@@ -26589,6 +26599,19 @@
     "symbol": "PQLN",
     "flagged_ts": 1790114685,
     "liquidity_at_flag": 29170.636785308525,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "EVg2Q4fXu4cVBQVGvHWYDvhSjQ7TSzX91hzLCGnmMPLR": {
+    "name": "Schlong",
+    "symbol": "Schlong",
+    "flagged_ts": 1790115555,
+    "liquidity_at_flag": 29122.645169720992,
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 60,
