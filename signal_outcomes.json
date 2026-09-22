@@ -20225,7 +20225,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "9qA5ySbS35S7uGq8iNYB7PHqiWmeCATgmVh7FoZxjwUz": {
@@ -20241,7 +20242,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "3rQbNDYYtPSJyKW36bDCjz9PJPvUZC3aRyv6vmYoVEZk": {
@@ -20257,7 +20259,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "RcZnXjxvPsG8jkD6PXSwyyxTmfw6DiQLfnL8hxbpump": {
@@ -23744,7 +23747,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "135XkNSuaAHhzsepNRWLx1ybRoiB916k13AEiBJXsKGS": {
@@ -23759,7 +23763,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "ChssKThs126nq9PB7hNRUyX96w6AJUiqkFkJfqokvtue": {
@@ -23774,7 +23779,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "7PDAotcRRWUNUubyweQbUFaJ1hZb9iEbcpxPxN3dpump": {
@@ -23789,7 +23795,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "GBS6hFShvPFh1DbzXNMJrGoxssWajMHQQWVEngRwUyiR": {
@@ -23804,7 +23811,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "AB5Y5X4E8gFFPSYekXscTFNwxMZJrp5G9iA9SyZviG5b": {
@@ -23819,7 +23827,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "EBywaqCruwHqireo2nWrBEaSSETgFkWWycgZ7QCDe3zS": {
@@ -24268,7 +24277,9 @@
       "LIQUIDITY": 68,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "4zJAGHapkoftXfVY8gbc197kAMxBnhYRFaKuqdanYrxr": {
     "name": "CLIPBACK",
@@ -24281,7 +24292,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "822ZTSSADQthA3PPqbjJ9S7RrWrqJWVRsJuffTHfomma": {
     "name": "Know Your Cat",
@@ -24470,6 +24483,84 @@
     "symbol": "?",
     "flagged_ts": 1790071076,
     "liquidity_at_flag": 31755.93394046399,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "CXyfU2MjxDWmAqFQQYdjDcGt8iDTjciJsvtyAkCzNwUw": {
+    "name": "Donated",
+    "symbol": "DONATED",
+    "flagged_ts": 1790071907,
+    "liquidity_at_flag": 39764.810738875494,
+    "breakdown": {
+      "MOMENTUM": 91,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "6gSnRayAuLDk4U935VosA1heKwkXsrCQA7uwWUa2Kzzs": {
+    "name": "RockStar",
+    "symbol": "RockStar",
+    "flagged_ts": 1790071908,
+    "liquidity_at_flag": 189232.59100964165,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "8T2Bt6cH3CXafWNDorWZurJcksY8KFn668H5vz9cKHUV": {
+    "name": "TikTokus",
+    "symbol": "TIKTOK",
+    "flagged_ts": 1790071909,
+    "liquidity_at_flag": 206595.43079811975,
+    "breakdown": {
+      "MOMENTUM": 97,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "J7V6EUuDe2vafXaZJngYQtVwP7tCGNdr48YWjdFimTyz": {
+    "name": "URANUS",
+    "symbol": "URANUS",
+    "flagged_ts": 1790071910,
+    "liquidity_at_flag": 33326.25987967401,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "HQ2FutsnrihyaiSs5qSpauGKPfnv3WK5GAwF8w97nAAR": {
+    "name": "CLIPBACK",
+    "symbol": "CLIP",
+    "flagged_ts": 1790071911,
+    "liquidity_at_flag": 37256.35372201922,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "CczZfTihtWEEyGWhaxskLVeaeuF5J4YU7S8ALnuxGrAB": {
+    "name": "Retard Jean",
+    "symbol": "jeantard",
+    "flagged_ts": 1790071912,
+    "liquidity_at_flag": 26824.92561087545,
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 60,
