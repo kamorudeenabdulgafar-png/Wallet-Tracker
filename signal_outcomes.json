@@ -20378,7 +20378,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "CNm1WJcZ13ttNGjcTygDvcmdinZP3L6dvpuBtAQAik6T": {
@@ -20394,7 +20395,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "FC8gEqKFtEVQaugHJMbD5N4u6ckXnu86f7JibN87fy4z": {
@@ -24009,7 +24011,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "2zTJCF3uwDCGpuzno3BP5FWffSityiQX76jZVbLJz7tB": {
@@ -24638,7 +24641,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "CX3SDSLMg2cNnTo3cG6UFoiQHaA9kx2KZ8xqn4ngFMc": {
     "name": "\u82af\u7247",
@@ -24651,7 +24656,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "2GZNFWfujLZza7XhYWtMceg8qLxYCJwguDY4tG36V9x3": {
     "name": "$STONKY",
@@ -24816,6 +24823,58 @@
     "liquidity_at_flag": 40042.86660746626,
     "breakdown": {
       "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "BMnXFaqBuBNVwmoRAssEd22emrNna3afDes8ryFSpump": {
+    "name": "Billie Jean",
+    "symbol": "BILLIEJEAN",
+    "flagged_ts": 1790076726,
+    "liquidity_at_flag": 12577.586905989854,
+    "breakdown": {
+      "MOMENTUM": 91,
+      "SAFETY": 100,
+      "LIQUIDITY": 63,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "AwsWZRy9CtZGsGqeKpVDNG7knnwZu98ThX4WP3FCpump": {
+    "name": "Cards Arena",
+    "symbol": "PULL",
+    "flagged_ts": 1790076726,
+    "liquidity_at_flag": 25266.985533582163,
+    "breakdown": {
+      "MOMENTUM": 79,
+      "SAFETY": 100,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "7qmtuPG9so7oN6M7e9JW53rKLxSkBgBbRBTrPRGVbi4j": {
+    "name": "\u4e2d\u56fd\u4eba\u80fd\u98de\u706b\u7bad",
+    "symbol": "\u4e2d\u56fd\u4eba\u80fd\u98de",
+    "flagged_ts": 1790076727,
+    "liquidity_at_flag": 21924.06307569699,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "Bhu4euSnuFuDc68hJ4fPA9x8g4vn1AArVuPRiNVJyhmu": {
+    "name": "just a circle",
+    "symbol": "CRCL",
+    "flagged_ts": 1790076728,
+    "liquidity_at_flag": 27509.493119488394,
+    "breakdown": {
+      "MOMENTUM": 82,
       "SAFETY": 60,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
