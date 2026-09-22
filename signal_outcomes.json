@@ -24298,7 +24298,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "9G6Q9wBog4m4ZZg6oyqvcDKYhFq7psJNawm1ewjmk5n5": {
@@ -24313,7 +24314,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "CLypAKGVEbxwjXzBUcQv8DvF7YucVxobZtyWqt1KAvA6": {
@@ -24957,7 +24959,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "AzEP9c7Kz1wm3RE35pG8g6yyetQqmZu2PSjVoiFAJrtt": {
     "name": "Cents",
@@ -24970,7 +24974,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "EePUVHWLJGzqbdmXfTpi9n3SZFNB2rs4z3gmw4bu4L2P": {
     "name": "Cents",
@@ -24983,7 +24989,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "3m1XAkYXD11rPz8sK2A5DC34CjtzdvewEAGjTq26v9a8": {
     "name": "Cents",
@@ -24996,7 +25004,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "EXUksXvn7qFGSsWMZKYAZuqwNY1UdcGFEKohLz9TQ2Fs": {
     "name": "Hotel Lobby",
@@ -25009,7 +25019,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "HPaHEibaJv3LDHRxsic9B3tg6Hr391yoi67AJ7dL8fcU": {
     "name": "FINAGOTCHI",
@@ -25133,6 +25145,71 @@
     "symbol": "MELI",
     "flagged_ts": 1790080926,
     "liquidity_at_flag": 341586.9237872802,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "Aj14CbQBZDfufFMVqjcfBMU3jy6K7hjAGAQXfy3ELuHu": {
+    "name": "RUNUP",
+    "symbol": "RUNUP",
+    "flagged_ts": 1790081853,
+    "liquidity_at_flag": 68999.78859025979,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "FVUhyeSMa3gs2vpELHtb4WqDRSNExzGNp9MonJZrYmAq": {
+    "name": "I identify as rich",
+    "symbol": "Transfina",
+    "flagged_ts": 1790081854,
+    "liquidity_at_flag": 43870.495374297505,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "FN1Qq2yxUoBbDHXtNtP2FL73vBZfCMGQtp5ffi5y6Y2X": {
+    "name": "JevMargin Agents",
+    "symbol": "JEVMFI",
+    "flagged_ts": 1790081855,
+    "liquidity_at_flag": 47886.719045081685,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 100,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "jyurFsb717v6kNJZLk9LRbHdN1y5ddHTyXP3yrZpump": {
+    "name": "ChatGPT",
+    "symbol": "ChatGPT",
+    "flagged_ts": 1790081855,
+    "liquidity_at_flag": 72066.80370527576,
+    "breakdown": {
+      "MOMENTUM": 46,
+      "SAFETY": 100,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "7s4CT6e9TTCv3kNTobr4sXveBJaPgbKJEhYUZPtaDku2": {
+    "name": "amazon",
+    "symbol": "Amazon",
+    "flagged_ts": 1790081856,
+    "liquidity_at_flag": 200751.86591374708,
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 60,
