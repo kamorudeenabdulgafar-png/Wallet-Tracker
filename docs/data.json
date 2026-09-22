@@ -1,5 +1,5 @@
 {
-  "last_updated": 1790047321,
+  "last_updated": 1790048271,
   "wallets": [
     {
       "label": "Dev wallet 1",
@@ -85,14 +85,69 @@
     "count": 2835,
     "up_count": 613,
     "total_change_pct": -155586.29928175083,
-    "rug": 785,
+    "rug": 788,
     "doing_well": 9,
     "steady": 6,
-    "fading": 8
+    "fading": 9
   },
   "learning_insight": "Coins that rugged averaged SAFETY 69; coins that did well averaged SAFETY 91.",
   "settings": {},
   "recent_alerts": [
+    {
+      "ts": 1790048271,
+      "type": "outcome",
+      "message": "\ud83d\udd34 Agent Wormhole (WORM) is dropping fast \u2014 down 100%, may be rugging."
+    },
+    {
+      "ts": 1790048270,
+      "type": "outcome",
+      "message": "\ud83d\udfe1 Grokification (GROK) is holding steady so far (+19%)."
+    },
+    {
+      "ts": 1790048269,
+      "type": "outcome",
+      "message": "\ud83d\udd34 URANUS (URANUS) is dropping fast \u2014 down 100%, may be rugging."
+    },
+    {
+      "ts": 1790048268,
+      "type": "outcome",
+      "message": "\ud83d\udd34 Raised (RAISED) is dropping fast \u2014 down 100%, may be rugging."
+    },
+    {
+      "ts": 1790048268,
+      "type": "outcome",
+      "message": "\ud83d\udd34 Claude Ai (claude) is dropping fast \u2014 down 100%, may be rugging."
+    },
+    {
+      "ts": 1790048267,
+      "type": "outcome",
+      "message": "\ud83d\udd34 PUMP CAT (PUMPCAT) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
+    },
+    {
+      "ts": 1790048266,
+      "type": "outcome",
+      "message": "\ud83d\udfe0 Zano Confidential Assets (HIDE) faded \u2014 liquidity down 60% after 24h."
+    },
+    {
+      "ts": 1790048265,
+      "type": "outcome",
+      "message": "\ud83d\udd34 Zano Confidential Assets (HIDE) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
+    },
+    {
+      "ts": 1790048265,
+      "type": "outcome",
+      "message": "\ud83d\udd34 SourBoy (SOUR) turned out to be a rug \u2014 liquidity dropped 75% over 24h."
+    },
+    {
+      "ts": 1790048264,
+      "type": "scanner",
+      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\nCatinu (Catinu)\nOpportunity: 76/100\n\nMOMENTUM     100\nSAFETY       60\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$38,799, 15 min since pool creation\n\u2022 Up +168% in the last hour, ~$569,321 in 24h volume (14.7x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 87% of supply (very concentrated)\n\nCA: 9mry4cuMLRjyNC9rv2iT3KfesDjdQRLwARzRDWXPqFcB\nhttps://dexscreener.com/solana/9mry4cuMLRjyNC9rv2iT3KfesDjdQRLwARzRDWXPqFcB\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
+    },
+    {
+      "ts": 1790048263,
+      "type": "scanner",
+      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\nDOGCOIN (DOG)\nOpportunity: 75/100\n\nMOMENTUM     97\nSAFETY       60\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$30,971, 7 min since pool creation\n\u2022 Up +65% in the last hour, ~$75,597 in 24h volume (2.4x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 85% of supply (very concentrated)\n\nCA: 5qS9pfpYvRFTVDStAMND3TrKsrVuvFcYTzfMSb1CVxvS\nhttps://dexscreener.com/solana/5qS9pfpYvRFTVDStAMND3TrKsrVuvFcYTzfMSb1CVxvS\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
+    },
     {
       "ts": 1790047321,
       "type": "outcome",
@@ -287,61 +342,6 @@
       "ts": 1790044639,
       "type": "outcome",
       "message": "\ud83d\udfe2 nuvexfamily (NUVEX) is still doing really good \u2014 up 201% so far!"
-    },
-    {
-      "ts": 1790044638,
-      "type": "outcome",
-      "message": "\ud83d\udd34 Claude Ai (claude) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
-    },
-    {
-      "ts": 1790044637,
-      "type": "scanner",
-      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\nAgent Wormhole (WORM)\nOpportunity: 70/100\n\nMOMENTUM     82\nSAFETY       60\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$37,197, 19 min since pool creation\n\u2022 Up +54% in the last hour, ~$74,403 in 24h volume (2.0x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 94% of supply (very concentrated)\n\nCA: HCQ4JZ1oTKp7kFUYRTAGts7o8JECDNLVobnUdRpj2gGG\nhttps://dexscreener.com/solana/HCQ4JZ1oTKp7kFUYRTAGts7o8JECDNLVobnUdRpj2gGG\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
-    },
-    {
-      "ts": 1790044636,
-      "type": "scanner",
-      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\nGrokification (GROK)\nOpportunity: 71/100\n\nMOMENTUM     85\nSAFETY       60\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$32,295, 18 min since pool creation\n\u2022 Up +57% in the last hour, ~$53,982 in 24h volume (1.7x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 83% of supply (very concentrated)\n\nCA: 64uxh2geYdEc1KTtcUk8GCvzoP9gWfTw1jVzP8jqhy7d\nhttps://dexscreener.com/solana/64uxh2geYdEc1KTtcUk8GCvzoP9gWfTw1jVzP8jqhy7d\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
-    },
-    {
-      "ts": 1790044634,
-      "type": "scanner",
-      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\nURANUS (URANUS)\nOpportunity: 74/100\n\nMOMENTUM     93\nSAFETY       60\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$30,797, 13 min since pool creation\n\u2022 Up +62% in the last hour, ~$26,293 in 24h volume (0.9x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 85% of supply (very concentrated)\n\nCA: F4Hidb3EX26Lwv8YYxc6fo4vX75VGTqqGT5VAhuGkkEd\nhttps://dexscreener.com/solana/F4Hidb3EX26Lwv8YYxc6fo4vX75VGTqqGT5VAhuGkkEd\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
-    },
-    {
-      "ts": 1790044633,
-      "type": "scanner",
-      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\nRaised (RAISED)\nOpportunity: 76/100\n\nMOMENTUM     100\nSAFETY       60\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$31,056, 8 min since pool creation\n\u2022 Up +84% in the last hour, ~$169,502 in 24h volume (5.5x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 79% of supply (very concentrated)\n\nCA: 83uqht3dkesK68aZTf8gE7U3tvGFZKQxrwdrsej2ur9P\nhttps://dexscreener.com/solana/83uqht3dkesK68aZTf8gE7U3tvGFZKQxrwdrsej2ur9P\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
-    },
-    {
-      "ts": 1790044632,
-      "type": "scanner",
-      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\nClaude Ai (claude)\nOpportunity: 76/100\n\nMOMENTUM     100\nSAFETY       60\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$31,751, 8 min since pool creation\n\u2022 Up +67% in the last hour, ~$28,922 in 24h volume (0.9x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 90% of supply (very concentrated)\n\nCA: 6d7ZuVYKVT7kLi7LzXtT5HJRShYTztm8icenXcbHv64M\nhttps://dexscreener.com/solana/6d7ZuVYKVT7kLi7LzXtT5HJRShYTztm8icenXcbHv64M\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
-    },
-    {
-      "ts": 1790043654,
-      "type": "outcome",
-      "message": "\ud83d\udd34 OWED (OWED) is dropping fast \u2014 down 68%, may be rugging."
-    },
-    {
-      "ts": 1790043653,
-      "type": "outcome",
-      "message": "\ud83d\udfe0 Privacy Agents (PROXY) is fading \u2014 down 53% so far."
-    },
-    {
-      "ts": 1790043652,
-      "type": "outcome",
-      "message": "\ud83d\udd34 Cult of Crypto ($) is dropping fast \u2014 down 100%, may be rugging."
-    },
-    {
-      "ts": 1790043651,
-      "type": "outcome",
-      "message": "\ud83d\udd34 Cult of Crypto ($) is dropping fast \u2014 down 100%, may be rugging."
-    },
-    {
-      "ts": 1790043650,
-      "type": "outcome",
-      "message": "\ud83d\udd34 Avax Cat (ACAT) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
     }
   ]
 }

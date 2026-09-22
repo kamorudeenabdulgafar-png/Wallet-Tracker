@@ -19001,7 +19001,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "8WsHGe9suXdakEnKeabRaZW9Vo5dRPeouHPSmKLfq4sf": {
@@ -19017,7 +19018,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "9TNvg1W6zQqFVC2ugZySzSmCQKtPbC1w9yoynx9Ppump": {
@@ -19033,7 +19035,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "Aq7BMsW1t59BXnDaD9rfbLZEXA1qhe7GtGXsKvkhwWJF": {
@@ -19049,7 +19052,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "4592KXH4haN8DwMEWQA73KvxprjcbR5H3z6B4EUG7gbU": {
@@ -22796,7 +22800,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "83uqht3dkesK68aZTf8gE7U3tvGFZKQxrwdrsej2ur9P": {
     "name": "Raised",
@@ -22809,7 +22815,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "F4Hidb3EX26Lwv8YYxc6fo4vX75VGTqqGT5VAhuGkkEd": {
     "name": "URANUS",
@@ -22822,7 +22830,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "64uxh2geYdEc1KTtcUk8GCvzoP9gWfTw1jVzP8jqhy7d": {
     "name": "Grokification",
@@ -22835,7 +22845,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "HCQ4JZ1oTKp7kFUYRTAGts7o8JECDNLVobnUdRpj2gGG": {
     "name": "Agent Wormhole",
@@ -22848,7 +22860,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "5tizYve8kVTiR6Jo7SwcqbZBeZyrvKL9crDJyt2VrbtT": {
     "name": "LONG",
@@ -23014,6 +23028,32 @@
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 75,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "5qS9pfpYvRFTVDStAMND3TrKsrVuvFcYTzfMSb1CVxvS": {
+    "name": "DOGCOIN",
+    "symbol": "DOG",
+    "flagged_ts": 1790048263,
+    "liquidity_at_flag": 30971.202287169635,
+    "breakdown": {
+      "MOMENTUM": 97,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "9mry4cuMLRjyNC9rv2iT3KfesDjdQRLwARzRDWXPqFcB": {
+    "name": "Catinu",
+    "symbol": "Catinu",
+    "flagged_ts": 1790048264,
+    "liquidity_at_flag": 38799.15849260292,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
