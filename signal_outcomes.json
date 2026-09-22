@@ -23609,7 +23609,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "FVR4EhJpxZBjqGdY5YqNTmAZDFBzX4Nxzf1J31MMuKKx": {
@@ -23624,7 +23625,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "A2GGQ5w5YPZ5JQQ51QxtzjLewGZdKCMSB4RCuzZiKvMx": {
@@ -23639,7 +23641,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "7q76MnFL8PBCueu9xDPFNJBKAuQCVp8QT5Jf9ahDccYH": {
@@ -24118,7 +24121,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "Fskb3ypZhgDFRJuRSNEZ78bBFcixPiwzoFYEgioJpump": {
     "name": "X7 Pad Stocks",
@@ -24131,7 +24136,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "EV9qfjb2bGMXByQiS6vZ4n53HHCAcWdGzrbGXE8Wpump": {
     "name": "Jean Bean",
@@ -24144,7 +24151,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "f4KSfZDRrExPnFMmvFNxc4b2s2NHkbA5ye8Mt677jWH": {
     "name": "x7 Cat",
@@ -24157,7 +24166,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "EP94rUVrwfoCcQkDkVYmDzrWj1uy3j1H8M98P7ZDYJR": {
     "name": "The Jean Phil Robin",
@@ -24170,7 +24181,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "BsE3aa5FdE6FVEkWvA8ShAGpzZasEgJbfSqRC4LmErTK": {
     "name": "x7",
@@ -24183,7 +24196,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "9pyR5w7Dt9iVAwfx2JLBjGcqvGAnErJJdC6c5fgeJH2F": {
     "name": "Agent Wormhole",
@@ -24322,6 +24337,45 @@
     "liquidity_at_flag": 31308.31402913692,
     "breakdown": {
       "MOMENTUM": 93,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "2BuGSvVKfN7kRFjafnGdYMkznQAh5nRLWrUwsTX9rmES": {
+    "name": "Know Your Cat",
+    "symbol": "KYC",
+    "flagged_ts": 1790069288,
+    "liquidity_at_flag": 44160.668423367926,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "HBw1UaSyyXKhn1tqUHoLMmESU9PSUUfEBdFTULojismA": {
+    "name": "Alibaba Inu",
+    "symbol": "AI",
+    "flagged_ts": 1790069290,
+    "liquidity_at_flag": 38172.49516927978,
+    "breakdown": {
+      "MOMENTUM": 91,
+      "SAFETY": 75,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "ARZ5FZtzSHbiFfZ9Gd4HGRNn1iGCwhFexgK5LG9U5JE7": {
+    "name": "The Perfect Memecoin",
+    "symbol": "FIBONACCI",
+    "flagged_ts": 1790069292,
+    "liquidity_at_flag": 44180.41371177243,
+    "breakdown": {
+      "MOMENTUM": 100,
       "SAFETY": 60,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
