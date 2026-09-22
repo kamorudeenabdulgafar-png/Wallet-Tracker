@@ -20667,7 +20667,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "CvYxavED3b5furYQQKC95iDEPhnpqBJPCkLUJ38pP57G": {
@@ -20683,7 +20684,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "335YVM5pRzEzuLznLBMDFLzZCaV32peq7UdPcpNjGV4z": {
@@ -20699,7 +20701,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "BfQyGZcvEzr2MVfQi85W9pbeuV1UWF6foWgUoB33pump": {
@@ -20715,7 +20718,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "967agyQVXvWGcvN9L7pwr3BwP7LhNzHUBQnaRSUGcuns": {
@@ -24330,7 +24334,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "4zJAGHapkoftXfVY8gbc197kAMxBnhYRFaKuqdanYrxr": {
@@ -24345,7 +24350,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "822ZTSSADQthA3PPqbjJ9S7RrWrqJWVRsJuffTHfomma": {
@@ -25034,7 +25040,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "3iHRVfWxtBrjyrwfZx48b8knnWhfbQUnuJDMVwR85d1K": {
     "name": "Cents",
@@ -25047,7 +25055,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "9zxJB8bW5oTt1G8tQ1LEMSdVdNc9Hzfp3wnqYqEwvZxF": {
     "name": "Agent Wormhole",
@@ -25060,7 +25070,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "86PVomurhJMHw32GE4aPbbtsmYSgRnE8LstfRAUcpump": {
     "name": "Wojak NPC",
@@ -25210,6 +25222,58 @@
     "symbol": "Amazon",
     "flagged_ts": 1790081856,
     "liquidity_at_flag": 200751.86591374708,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "2NGojV2jbDaeoKMC2FYKeNshdh2vPtwNRVCkRJ9aiQFy": {
+    "name": "RUNUP",
+    "symbol": "RUNUP",
+    "flagged_ts": 1790082649,
+    "liquidity_at_flag": 54287.24150731815,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "s2dFHkuLohifR6GBsgsGjGFkDxF6Vmh3uCwE3kzohw2": {
+    "name": "Finagotchi",
+    "symbol": "Finagotchi",
+    "flagged_ts": 1790082649,
+    "liquidity_at_flag": 25333.669892529862,
+    "breakdown": {
+      "MOMENTUM": 98,
+      "SAFETY": 90,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "5W7oSowoZ6SpYgjVVKZZJhTKaTHEDyCAqSJwEo2F7SY8": {
+    "name": "RUNUP",
+    "symbol": "RUNUP",
+    "flagged_ts": 1790082650,
+    "liquidity_at_flag": 60341.60321935668,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "HXShv6WWVSACgdeFaSpkGJ9Pa4367sAa3QgZ1VRZQPsw": {
+    "name": "JevMargin Agents",
+    "symbol": "JEVMFI",
+    "flagged_ts": 1790082651,
+    "liquidity_at_flag": 42765.18673956259,
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 60,
