@@ -20463,7 +20463,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "G6vymstuvHMNdLK54QFb3mi3KhUeJ28TKsZySKndpump": {
@@ -20479,7 +20480,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "2wNjCwniqYSdebGdgAhiWdiQ6nRH47sE2HvrgezNmTkD": {
@@ -20495,7 +20497,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "BhrQMPt88dqTAQ1yKzNxekhrNQPe3ZdKKwcEDmECitLD": {
@@ -24918,6 +24921,45 @@
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 90,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "EePUVHWLJGzqbdmXfTpi9n3SZFNB2rs4z3gmw4bu4L2P": {
+    "name": "Cents",
+    "symbol": "CENTS",
+    "flagged_ts": 1790078008,
+    "liquidity_at_flag": 44182.92991014567,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "3m1XAkYXD11rPz8sK2A5DC34CjtzdvewEAGjTq26v9a8": {
+    "name": "Cents",
+    "symbol": "CENTS",
+    "flagged_ts": 1790078010,
+    "liquidity_at_flag": 53822.66299535807,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "EXUksXvn7qFGSsWMZKYAZuqwNY1UdcGFEKohLz9TQ2Fs": {
+    "name": "Hotel Lobby",
+    "symbol": "Lobby",
+    "flagged_ts": 1790078012,
+    "liquidity_at_flag": 30294.461387960193,
+    "breakdown": {
+      "MOMENTUM": 92,
+      "SAFETY": 60,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
