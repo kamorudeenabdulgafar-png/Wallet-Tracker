@@ -20004,7 +20004,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "6EAPfDuXitXQq6uGvaoNE5kdEoTgAHa1TG1BP65YodS3": {
@@ -23459,7 +23460,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "CjX1TYup1FbR47Kxx9bbVoxeQbTZqoCi5GBDBEXXsddk": {
@@ -23474,7 +23476,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "7CdSoAVsN6kivhdSMA4iHyqGpKbsTENzSeSTgRbd8qst": {
@@ -23968,7 +23971,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "GzjLDJkRS33ipjzcBbsobmeJVDgghrrLvk46JrdP56JG": {
     "name": "Pyre",
@@ -23981,7 +23986,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "HR6LbsK4B8WVd7YBKBPuzAXpQqypabXWAbdWZUwwpump": {
     "name": "The Rogue AI",
@@ -23994,7 +24001,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "EiBNGjRZ52ps6y4AJij4ddc8HK2xEGfZpjYrqggADPLD": {
     "name": "A Meme",
@@ -24159,6 +24168,32 @@
     "liquidity_at_flag": 44608.8880833147,
     "breakdown": {
       "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "3tZGxMzdMeqUAgoXgcRt3cRmz9LcZRhrEj4q4bG3ZjQk": {
+    "name": "Pyre",
+    "symbol": "Pyre",
+    "flagged_ts": 1790067015,
+    "liquidity_at_flag": 39940.10491591468,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "9G6Q9wBog4m4ZZg6oyqvcDKYhFq7psJNawm1ewjmk5n5": {
+    "name": "Pok\u00e9mon",
+    "symbol": "Charizard",
+    "flagged_ts": 1790067016,
+    "liquidity_at_flag": 54364.356028485985,
+    "breakdown": {
+      "MOMENTUM": 97,
       "SAFETY": 60,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
