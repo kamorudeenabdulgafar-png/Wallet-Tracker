@@ -20616,7 +20616,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "8PByus5RSicfAZGkK2GtCgAiXjvBiS7u2K4dMq4UXn2r": {
@@ -20632,7 +20633,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "C6wMqwePG14uWPo185cRsFzvV9TmiSTEYGATFiAfFHt9": {
@@ -20648,7 +20650,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "GRgnMFAMvrKbbTSfzPHUmidaco9sJSDCMA2PRDRLQTQR": {
@@ -24279,7 +24282,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "3tZGxMzdMeqUAgoXgcRt3cRmz9LcZRhrEj4q4bG3ZjQk": {
@@ -24893,7 +24897,9 @@
       "LIQUIDITY": 63,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "AwsWZRy9CtZGsGqeKpVDNG7knnwZu98ThX4WP3FCpump": {
     "name": "Cards Arena",
@@ -24906,7 +24912,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "7qmtuPG9so7oN6M7e9JW53rKLxSkBgBbRBTrPRGVbi4j": {
     "name": "\u4e2d\u56fd\u4eba\u80fd\u98de\u706b\u7bad",
@@ -24919,7 +24927,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "Bhu4euSnuFuDc68hJ4fPA9x8g4vn1AArVuPRiNVJyhmu": {
     "name": "just a circle",
@@ -24932,7 +24942,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "DFiQVgJK5dTzsdR3hbYE3S14gjL6fuqPvzkGPM5LMz1A": {
     "name": "Cents",
@@ -25030,6 +25042,97 @@
     "symbol": "WORM",
     "flagged_ts": 1790078782,
     "liquidity_at_flag": 45225.70757278659,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "86PVomurhJMHw32GE4aPbbtsmYSgRnE8LstfRAUcpump": {
+    "name": "Wojak NPC",
+    "symbol": "NPC",
+    "flagged_ts": 1790080917,
+    "liquidity_at_flag": 51611.091806393015,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 100,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "DCtHgGtfQXGRYUK27RNcCyDAhn3kd3HhDGefS1Cz7d2P": {
+    "name": "Karate Cat",
+    "symbol": "KCAT",
+    "flagged_ts": 1790080918,
+    "liquidity_at_flag": 26517.203595541854,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "49eVXbTQ9gi28HpGPFU9ttQZUyhYTqSiH3zrusi2pump": {
+    "name": "DEEPSOLANA",
+    "symbol": "DEEPSOLANA",
+    "flagged_ts": 1790080919,
+    "liquidity_at_flag": 27234.815181468726,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 100,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "FM4o4YY3KnPTYVoipQmqep4bSBdbz3aiCQ8qyjoKQnQv": {
+    "name": "Haha yes",
+    "symbol": "Haha",
+    "flagged_ts": 1790080921,
+    "liquidity_at_flag": 39483.874054727945,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "FYwow2ZTvmHSCeoSXXKcyrpdU7XhZEaML3dC476iyCR6": {
+    "name": "Pok\u00e9mon",
+    "symbol": "Charizard",
+    "flagged_ts": 1790080923,
+    "liquidity_at_flag": 57121.5332197683,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "3CW4m1z1W6bbkocsyBTFyRAuw4YadAPCE4B5UKazobVZ": {
+    "name": "Digital Gold",
+    "symbol": "GOLD",
+    "flagged_ts": 1790080924,
+    "liquidity_at_flag": 72630.85694083959,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "oV7Kzmt3aaNC66z48Cqo6gm7MpVahNGFMEem1N67g6i": {
+    "name": "Mercado Libre",
+    "symbol": "MELI",
+    "flagged_ts": 1790080926,
+    "liquidity_at_flag": 341586.9237872802,
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 60,
