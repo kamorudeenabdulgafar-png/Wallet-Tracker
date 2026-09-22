@@ -18644,7 +18644,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "2aaTYejy2EkeRch4vuJGqKg1TLFZDiUe2br3Pj1vbz8d": {
@@ -22131,7 +22132,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "EQ8kbWKfvmGeCF4UFjqBftsvnuqCC1ejBxZTJX8opump": {
@@ -22146,7 +22148,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "Ab7Umf22M9UUiq7Jj3hG2XqoZDQkbLBUM8GpXnM7j9iS": {
@@ -22161,7 +22164,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "DXdM1YPjSM6Ah39oTvmnsHTFtPBkQ9T9iYRBVv68RVrH": {
@@ -22176,7 +22180,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "AABsD9xXyaHfuRWUEUrQP8JZkBbDfNEM3ahNXQ1ToVZ5": {
@@ -22191,7 +22196,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "8xrwR3R7DTpZpLkXJduVCE2eRLCaGGfbBFVXmtrcpU3W": {
@@ -22490,7 +22496,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "HhrSaoqysQBo8AdhxuA2hG8AWJb5hZieCi4AHgo1pump": {
     "name": "Privacy Agents",
@@ -22562,6 +22570,58 @@
     "symbol": "KOLCAT",
     "flagged_ts": 1790040644,
     "liquidity_at_flag": 30665.51990784588,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "8YZpTHNCdhjDuwTG4nawkPUfB4oAgNYpJyP7tSZQEzon": {
+    "name": "stonkerage.fun",
+    "symbol": "STONKERAGE",
+    "flagged_ts": 1790041500,
+    "liquidity_at_flag": 40018.849682840504,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "6PqgNCam4HBtJyBsoR99nB2GQHQAtCFfcPfzN4khdcrG": {
+    "name": "stonkerage.fun",
+    "symbol": "STONKERAGE",
+    "flagged_ts": 1790041503,
+    "liquidity_at_flag": 33467.38322726748,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "6XngSBF4uDGzzDTJAfDnQj642PAwUuupvz4ZfVXdyUH8": {
+    "name": "Argus",
+    "symbol": "ARGUS",
+    "flagged_ts": 1790041504,
+    "liquidity_at_flag": 58989.14800323867,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "53KPQu3xeHBReqhJ7vw4ZoXbZkmxtgeeYufZQEvqJP8t": {
+    "name": "Launchinu",
+    "symbol": "LAUNCHINU",
+    "flagged_ts": 1790041505,
+    "liquidity_at_flag": 39783.22767703103,
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 60,
