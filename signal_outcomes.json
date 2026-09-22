@@ -21857,7 +21857,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "sXkBZq77JtB999LVDT7NUrmWpJEuyjbUKyTrswZX8VB": {
@@ -21873,7 +21874,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "CDLfE4AXKtTRUT3JAn3A6gvhnicuQLCbtkAhpw5tYvnp": {
@@ -21889,7 +21891,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "BFnW18X9NPXEukNZB79V2ABywF2Y7mo3P7hzCgyypump": {
@@ -25979,7 +25982,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "As7uiTKG2yuv7WEoMkgCkvNNx1pUsFQ2mC1Hmu8e3Nqk": {
     "name": "BORED",
@@ -25992,7 +25997,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "5Njz5z8Ax8exMGgq1Ep9k5H5jVzYrQQJJDXPyfyxUF2J": {
     "name": "First Life on Mars",
@@ -26005,7 +26012,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "DFmkM8ZhfvkuzWz5gyMEkH2ocLP7qxyCaSme9TYqGczN": {
     "name": "First Life on Mars",
@@ -26018,7 +26027,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "3ydQgY4zU1PqRxjKJc9YK4HoAjgBBXHbDXsU6SVc2VSD": {
     "name": "First Life on Mars",
@@ -26144,6 +26155,58 @@
     "liquidity_at_flag": 30822.454529014132,
     "breakdown": {
       "MOMENTUM": 99,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "AbbMu7BKCuYgXuYErQ6TqBdmnzjKnhr6pyJAeucupump": {
+    "name": "WHITEOUT",
+    "symbol": "WHT",
+    "flagged_ts": 1790103867,
+    "liquidity_at_flag": 26419.449521085015,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 100,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "FaDbfTk9FgkUh3o6vxgA79tzww41TEkY2C9FSmqoLuQG": {
+    "name": "sol",
+    "symbol": "SOL",
+    "flagged_ts": 1790103868,
+    "liquidity_at_flag": 24401.63180534687,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "2DtKPf4VLUYACg1bWBPo1V7PURpDLE9FQAG688vSHbfM": {
+    "name": "Bet Markets",
+    "symbol": "BET",
+    "flagged_ts": 1790103869,
+    "liquidity_at_flag": 28983.635334243863,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "CQbfzp8SPDdqyz6oRzedkiDmuykWeijdi1o6eqs6zzc3": {
+    "name": "Agent Mode",
+    "symbol": "AGENT",
+    "flagged_ts": 1790103870,
+    "liquidity_at_flag": 38766.655746584416,
+    "breakdown": {
+      "MOMENTUM": 100,
       "SAFETY": 60,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
