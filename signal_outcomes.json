@@ -20344,7 +20344,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "HUUNgfzw1DdyTU99Xp3bRTk5AQg5bmnyKbnHCWQCpump": {
@@ -20360,7 +20361,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "7uATVYNgJsSgYMhDSPgFSU14gpX7kQUGqyzbgwP6Dnzc": {
@@ -23943,7 +23945,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "DwDBQk32Q6kWAJHAdBMZAJyrBRHxsLaV4egNgs1Upump": {
@@ -23958,7 +23961,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "HTh9evgdjEDH8e2NWMW5VLW3D6Au1wDKqMsztdcMxWMi": {
@@ -23973,7 +23977,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "9cSLL1x7dgyAgNpWhwKAQ1ZJ73EVy8EiHEiBJuJ3fRkB": {
@@ -23988,7 +23993,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "FQ4yfWDznQBGrfELrhrEQEwXaicWJbRisQXrKJM6PRd2": {
@@ -24542,7 +24548,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "6gSnRayAuLDk4U935VosA1heKwkXsrCQA7uwWUa2Kzzs": {
     "name": "RockStar",
@@ -24555,7 +24563,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "8T2Bt6cH3CXafWNDorWZurJcksY8KFn668H5vz9cKHUV": {
     "name": "TikTokus",
@@ -24568,7 +24578,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "J7V6EUuDe2vafXaZJngYQtVwP7tCGNdr48YWjdFimTyz": {
     "name": "URANUS",
@@ -24581,7 +24593,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "HQ2FutsnrihyaiSs5qSpauGKPfnv3WK5GAwF8w97nAAR": {
     "name": "CLIPBACK",
@@ -24594,7 +24608,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "CczZfTihtWEEyGWhaxskLVeaeuF5J4YU7S8ALnuxGrAB": {
     "name": "Retard Jean",
@@ -24607,7 +24623,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "6mNvwXGaMkHpTjj2hjVg3FUiZAZk7EdpEpNXfPTDnK9n": {
     "name": "Talking Memo",
@@ -24731,6 +24749,71 @@
     "symbol": "KCAT",
     "flagged_ts": 1790075100,
     "liquidity_at_flag": 33980.731395127,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "R1NWhpDLmEfFsbGuSSxDotrw1KHfLvh298mnfXZpump": {
+    "name": "BuffettCoin",
+    "symbol": "BUFFETT",
+    "flagged_ts": 1790076017,
+    "liquidity_at_flag": 33732.57348603713,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 100,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "8qycqFhWKkFeFzK5TLmsvwa19yFu9c4f7acPFe3Xpump": {
+    "name": "BRIM",
+    "symbol": "BRIM",
+    "flagged_ts": 1790076019,
+    "liquidity_at_flag": 20440.833339716035,
+    "breakdown": {
+      "MOMENTUM": 75,
+      "SAFETY": 90,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "4B1wyLwr8ijnPa26aWmhtp8YEb3e1fLyyEhD25dnHfWy": {
+    "name": "Karate Cat",
+    "symbol": "KCAT",
+    "flagged_ts": 1790076020,
+    "liquidity_at_flag": 38483.84874393115,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "FfLHw6c2ys3nHJXtfqnzENxYgFe5b7GxrFaw4UPipJVW": {
+    "name": "Karate Cat",
+    "symbol": "KCAT",
+    "flagged_ts": 1790076022,
+    "liquidity_at_flag": 122410.70689824419,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "cJhUSUNcRuEGbMLa9EnrGLjyYh7pm2XhEuifFWsKHhs": {
+    "name": "Karate Cat",
+    "symbol": "KCAT",
+    "flagged_ts": 1790076023,
+    "liquidity_at_flag": 40042.86660746626,
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 60,

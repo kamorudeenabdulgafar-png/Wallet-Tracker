@@ -1,18 +1,5 @@
 [
   {
-    "name": "The Buyback Machine",
-    "symbol": "BUYBACK",
-    "category": "rug",
-    "change_pct": -100.0,
-    "breakdown": {
-      "MOMENTUM": 83,
-      "SAFETY": 60,
-      "LIQUIDITY": 100,
-      "SMART MONEY": 0
-    },
-    "ts": 1789981913
-  },
-  {
     "name": "dogwifgcap",
     "symbol": "WIFG",
     "category": "rug",
@@ -3898,5 +3885,18 @@
       "SMART MONEY": 0
     },
     "ts": 1790075102
+  },
+  {
+    "name": "ZPAD",
+    "symbol": "ZPAD",
+    "category": "rug",
+    "change_pct": -87.2,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 90,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "ts": 1790076024
   }
 ]
