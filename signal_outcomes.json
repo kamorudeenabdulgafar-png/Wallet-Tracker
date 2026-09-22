@@ -21551,7 +21551,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "D6UKxcaqQWBsNM7CABTbNugqfQC42FpNrqxrvtUDaKEp": {
@@ -21567,7 +21568,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "FvD9WfLWcwk8pVNU4UKrb4WG8NeeYkhXHEK46ut2WNH7": {
@@ -25374,7 +25376,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "s2dFHkuLohifR6GBsgsGjGFkDxF6Vmh3uCwE3kzohw2": {
@@ -25389,7 +25392,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "5W7oSowoZ6SpYgjVVKZZJhTKaTHEDyCAqSJwEo2F7SY8": {
@@ -25404,7 +25408,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "HXShv6WWVSACgdeFaSpkGJ9Pa4367sAa3QgZ1VRZQPsw": {
@@ -25419,7 +25424,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "EPHynmm3NUC3CUbV1SBW2XJ4w61MWLGU5RcMHVkpK4Pt": {
@@ -25859,6 +25865,32 @@
     "breakdown": {
       "MOMENTUM": 90,
       "SAFETY": 90,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "4tu7aisufhaCAA5CMAtgubaxqzkfUcEQcg2r2VLBQ1MX": {
+    "name": "GSTOCK",
+    "symbol": "Gstock",
+    "flagged_ts": 1790097670,
+    "liquidity_at_flag": 33280.63960215554,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "wCatSXqN7wrPPxJ2zFeoZSiZbVpXTCRKNBzrNj1yeBC": {
+    "name": "WETCAT",
+    "symbol": "WETCAT",
+    "flagged_ts": 1790097672,
+    "liquidity_at_flag": 46448.77260765497,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 100,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
