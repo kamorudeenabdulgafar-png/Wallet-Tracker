@@ -20514,7 +20514,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "3QzJkAD6Tg1ZeUvF5SkrPYTqLV2yunR8VhNGqTYqpump": {
@@ -20530,7 +20531,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "8q6aSV7HsmHFSuVS6gwyxFQzLgohhtaNnrxWYvgJpump": {
@@ -24081,7 +24083,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "Btu1wVMcs7JxGDo1gQmaBGVssyK331T2413YWn8QD3ZP": {
@@ -24096,7 +24099,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "9SVJcc2zM44GS6WHcvqjeXT7uSv32vmFdwpKAfuYKaWZ": {
@@ -24111,7 +24115,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "AkCJB23ywMqK89Lrw8Tffm6aSsxttjnQ8w5e27MgCwsG": {
@@ -24126,7 +24131,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "Bx6F8mq9sCUGJJQvmADCHJ3NU17sLRcR6GbQHcm3uhBg": {
@@ -24141,7 +24147,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "A91WEhpVa4sNFZyDirmznWNpWSuvMoZeCAPzEq8oLUeH": {
@@ -24156,7 +24163,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "AsH4PzMST7TuiMnVkqnGkrJDRpaLEP9xKLgya97B1wEQ": {
@@ -24755,7 +24763,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "A1JxtVrDDzr4k5xNMEpWtcSy8u8PjaTairkxh19pobGS": {
     "name": "buy or die",
@@ -24768,7 +24778,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "CU8ZHeE5bwJG7tS3Uo1UpKe79xpxMBdTJZrWFzKJikim": {
     "name": "Karate Cat",
@@ -24781,7 +24793,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "R1NWhpDLmEfFsbGuSSxDotrw1KHfLvh298mnfXZpump": {
     "name": "BuffettCoin",
@@ -24959,6 +24973,45 @@
     "liquidity_at_flag": 30294.461387960193,
     "breakdown": {
       "MOMENTUM": 92,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "HPaHEibaJv3LDHRxsic9B3tg6Hr391yoi67AJ7dL8fcU": {
+    "name": "FINAGOTCHI",
+    "symbol": "Finagotchi",
+    "flagged_ts": 1790078778,
+    "liquidity_at_flag": 32019.655177207824,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "3iHRVfWxtBrjyrwfZx48b8knnWhfbQUnuJDMVwR85d1K": {
+    "name": "Cents",
+    "symbol": "CENTS",
+    "flagged_ts": 1790078781,
+    "liquidity_at_flag": 29985.49574761044,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "9zxJB8bW5oTt1G8tQ1LEMSdVdNc9Hzfp3wnqYqEwvZxF": {
+    "name": "Agent Wormhole",
+    "symbol": "WORM",
+    "flagged_ts": 1790078782,
+    "liquidity_at_flag": 45225.70757278659,
+    "breakdown": {
+      "MOMENTUM": 100,
       "SAFETY": 60,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
