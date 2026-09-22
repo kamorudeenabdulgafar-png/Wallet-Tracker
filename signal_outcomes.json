@@ -21636,7 +21636,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "AZhuQ2ncipAtpatTfhYtb9okriVHhpFEbfVfKoWuug9w": {
@@ -21652,7 +21653,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "8L7LUXyM69ebJNHHBT2QqeTfznjzCKpY35yL5WieeBL1": {
@@ -21668,7 +21670,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "CMwCjRsiyY8SKAFoAVExxCeTVn9Zt1ps9VjBfdxQru6u": {
@@ -25835,7 +25838,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "7NDC4UXwdPNTV6MTSWtNenS7rQY92vkJzoBAzeikpump": {
     "name": "BetBolt",
@@ -25923,6 +25928,58 @@
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "E7oxZyvMkmUYQ14kCLbkR3ishavbSm4up9HGhf9LjGNy": {
+    "name": "BORED",
+    "symbol": "BORED",
+    "flagged_ts": 1790099601,
+    "liquidity_at_flag": 29110.423728179274,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "As7uiTKG2yuv7WEoMkgCkvNNx1pUsFQ2mC1Hmu8e3Nqk": {
+    "name": "BORED",
+    "symbol": "BORED",
+    "flagged_ts": 1790099603,
+    "liquidity_at_flag": 26791.542922259454,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "5Njz5z8Ax8exMGgq1Ep9k5H5jVzYrQQJJDXPyfyxUF2J": {
+    "name": "First Life on Mars",
+    "symbol": "sPL.001",
+    "flagged_ts": 1790099605,
+    "liquidity_at_flag": 25638.415274724677,
+    "breakdown": {
+      "MOMENTUM": 82,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "DFmkM8ZhfvkuzWz5gyMEkH2ocLP7qxyCaSme9TYqGczN": {
+    "name": "First Life on Mars",
+    "symbol": "sPL.001",
+    "flagged_ts": 1790099606,
+    "liquidity_at_flag": 34940.90907213026,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 90,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
