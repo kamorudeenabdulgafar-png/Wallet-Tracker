@@ -18661,7 +18661,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "Dtm38kV6aTFvgnXPjcP4HA3rUoppAu16BFbtfp8W7E5u": {
@@ -22622,6 +22623,32 @@
     "symbol": "LAUNCHINU",
     "flagged_ts": 1790041505,
     "liquidity_at_flag": 39783.22767703103,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "Fj2y6wxefcJg5wgHEKZUBBwpxuznp86WkPkqUe2CemCY": {
+    "name": "suit",
+    "symbol": "suit",
+    "flagged_ts": 1790041970,
+    "liquidity_at_flag": 37383.76392894839,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "G3cKLYxtkCRDcNmfx9uwnHdUN4LwiDAi1zGUeMxvtB3o": {
+    "name": "Uranus",
+    "symbol": "URANUS",
+    "flagged_ts": 1790041972,
+    "liquidity_at_flag": 38576.232068556536,
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 60,
