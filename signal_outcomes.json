@@ -22772,7 +22772,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "8a2sNLCnptePVMAcnKdy9tsbRtoVJyecSPxFpfPFnJkZ": {
@@ -22787,7 +22788,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "67Xwch2ZZ18RZLDkcwNLLU5pJ2PCap1ufqdBnk2eBweK": {
@@ -22802,7 +22804,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "BjJyQFGTzu6JQfpdXEZ1mmFzhWgFYgEscRz472Zkpump": {
@@ -23416,7 +23419,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "A3ppMCw9yrN4a5M52AEaauandhCvmDUTFByUicbh9wWo": {
     "name": "CALI",
@@ -23429,7 +23434,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "ADAcPKDRFXiVV6Z3gC7KbgRggKsyNxjbqBih8m3EjJr7": {
     "name": "Allincuh",
@@ -23442,7 +23449,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "CvffVrhJs6zMnbvYR8rXmHSu3ihsXkeUZijivavgqCGE": {
     "name": "Super Inu",
@@ -23455,7 +23464,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "J5JYKxv78TBsYjpz4LtqBbZUFB8JRd3JW3jdWiBvW9pi": {
     "name": "\u9ed1\u9c7c",
@@ -23468,7 +23479,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "4BdnHSiq9WguJCZeS9eUWnJZaBkRcGjqHzN4BsEnR6A8": {
     "name": "\u0e23\u0e16\u0e16\u0e31\u0e07",
@@ -23481,7 +23494,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "FqjggzmEdrgaN8TbTz8tdfwaXTLFsapw6yFTcz89dfag": {
     "name": "\u0e23\u0e16\u0e16\u0e31\u0e07",
@@ -23494,7 +23509,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "hxUNKwqN9Zi154EgJTZwLyBMhtN1udXaCHZrWpipump": {
     "name": "The Blue Rio",
@@ -23594,6 +23611,84 @@
     "liquidity_at_flag": 34962.355593451815,
     "breakdown": {
       "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "671dNhKr12xRoPmfkevzG1daqi4c9KMAA9J83ExyMWJ7": {
+    "name": "The Owl Is Awake",
+    "symbol": "OWL",
+    "flagged_ts": 1790057235,
+    "liquidity_at_flag": 32113.78170640389,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "135XkNSuaAHhzsepNRWLx1ybRoiB916k13AEiBJXsKGS": {
+    "name": "HyperHood",
+    "symbol": "HH",
+    "flagged_ts": 1790057236,
+    "liquidity_at_flag": 38234.99178660054,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 100,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "ChssKThs126nq9PB7hNRUyX96w6AJUiqkFkJfqokvtue": {
+    "name": "Argus",
+    "symbol": "ARGUS",
+    "flagged_ts": 1790057237,
+    "liquidity_at_flag": 38724.37179253667,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "7PDAotcRRWUNUubyweQbUFaJ1hZb9iEbcpxPxN3dpump": {
+    "name": "KITTY COIN",
+    "symbol": "KITTY",
+    "flagged_ts": 1790057238,
+    "liquidity_at_flag": 29219.739275563406,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 75,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "GBS6hFShvPFh1DbzXNMJrGoxssWajMHQQWVEngRwUyiR": {
+    "name": "A Meme",
+    "symbol": "MEME",
+    "flagged_ts": 1790057239,
+    "liquidity_at_flag": 159193.63515523763,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "AB5Y5X4E8gFFPSYekXscTFNwxMZJrp5G9iA9SyZviG5b": {
+    "name": "URANUS",
+    "symbol": "URANUS",
+    "flagged_ts": 1790057239,
+    "liquidity_at_flag": 29216.24109783233,
+    "breakdown": {
+      "MOMENTUM": 88,
       "SAFETY": 60,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
