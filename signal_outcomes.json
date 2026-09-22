@@ -20072,7 +20072,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "6HUCjsXMMsLPXdCRxqEQbpmXDBYHsSwHzMxWTb9cKbnM": {
@@ -20088,7 +20089,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "Drz3YaW6RccH9quuT1DCmAQntd6QfV97PYk6bzMxs7hh": {
@@ -23527,7 +23529,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "CvffVrhJs6zMnbvYR8rXmHSu3ihsXkeUZijivavgqCGE": {
@@ -23542,7 +23545,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "J5JYKxv78TBsYjpz4LtqBbZUFB8JRd3JW3jdWiBvW9pi": {
@@ -23557,7 +23561,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "4BdnHSiq9WguJCZeS9eUWnJZaBkRcGjqHzN4BsEnR6A8": {
@@ -23572,7 +23577,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "FqjggzmEdrgaN8TbTz8tdfwaXTLFsapw6yFTcz89dfag": {
@@ -23587,7 +23593,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "hxUNKwqN9Zi154EgJTZwLyBMhtN1udXaCHZrWpipump": {
@@ -24036,7 +24043,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "9SVJcc2zM44GS6WHcvqjeXT7uSv32vmFdwpKAfuYKaWZ": {
     "name": "\u4e2d\u56fd\u4eba\u80fd\u98de\u706b\u7bad",
@@ -24049,7 +24058,9 @@
       "LIQUIDITY": 90,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "AkCJB23ywMqK89Lrw8Tffm6aSsxttjnQ8w5e27MgCwsG": {
     "name": "FOURSTD",
@@ -24062,7 +24073,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "Bx6F8mq9sCUGJJQvmADCHJ3NU17sLRcR6GbQHcm3uhBg": {
     "name": "CLIPBACK",
@@ -24075,7 +24088,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "A91WEhpVa4sNFZyDirmznWNpWSuvMoZeCAPzEq8oLUeH": {
     "name": "Pyre",
@@ -24088,7 +24103,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "AsH4PzMST7TuiMnVkqnGkrJDRpaLEP9xKLgya97B1wEQ": {
     "name": "x7",
@@ -24227,6 +24244,84 @@
     "liquidity_at_flag": 32312.532220369845,
     "breakdown": {
       "MOMENTUM": 83,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "822ZTSSADQthA3PPqbjJ9S7RrWrqJWVRsJuffTHfomma": {
+    "name": "Know Your Cat",
+    "symbol": "KYC",
+    "flagged_ts": 1790068384,
+    "liquidity_at_flag": 25965.89006271458,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "2SB9x7ikVyWq8wGFJDtAN58tQFeWBpL1ooj1sg1BcfX9": {
+    "name": "the flying cow",
+    "symbol": "Vahine",
+    "flagged_ts": 1790068385,
+    "liquidity_at_flag": 52483.38033171158,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "Fe5JWzVm6PzsMXTRZme76yHdzqt9BktnHSBReMcYQoQ8": {
+    "name": "Claude Ai",
+    "symbol": "claude",
+    "flagged_ts": 1790068387,
+    "liquidity_at_flag": 31105.993687369468,
+    "breakdown": {
+      "MOMENTUM": 82,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "87ZYzt9jFJ8ixA4VhTdzMrTy1rczz7CXynvXMXSvLU6w": {
+    "name": "CLIPBACK",
+    "symbol": "CLIP",
+    "flagged_ts": 1790068388,
+    "liquidity_at_flag": 30924.69973401461,
+    "breakdown": {
+      "MOMENTUM": 93,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "G2oMmE65RwJ3NXdwvfSeXYTrFYm8tspbAUmt77TRfHSD": {
+    "name": "\u4e2d\u56fd\u4eba\u80fd\u98de\u706b\u7bad",
+    "symbol": "\u4e2d\u56fd\u4eba\u80fd\u98de",
+    "flagged_ts": 1790068389,
+    "liquidity_at_flag": 17659.036675391864,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 88,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "Df2LhAJKYhXGbe6m65bkR54roTmYwi6yd69wFZMfBwM8": {
+    "name": "Jeep Phil",
+    "symbol": "JEEPPHIL",
+    "flagged_ts": 1790068390,
+    "liquidity_at_flag": 31308.31402913692,
+    "breakdown": {
+      "MOMENTUM": 93,
       "SAFETY": 60,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
