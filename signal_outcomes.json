@@ -25459,7 +25459,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "3ezXZa2tqCxq23pz4n3gymkSzhgJbqwFgpPRPywcjKzf": {
@@ -25474,7 +25475,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "EZHXDqG38i5PYc4oTYM9wFwmTkERgqDLKh6WbpZMZkPy": {
@@ -25907,6 +25909,19 @@
     "liquidity_at_flag": 26984.828044274233,
     "breakdown": {
       "MOMENTUM": 90,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "GGvpxMmorY8fPWALYvJpFTLP5XJ1pZXbYcFcHSEsBJtz": {
+    "name": "Claude Ai",
+    "symbol": "claude",
+    "flagged_ts": 1790099073,
+    "liquidity_at_flag": 32741.68638858399,
+    "breakdown": {
+      "MOMENTUM": 100,
       "SAFETY": 60,
       "LIQUIDITY": 100,
       "SMART MONEY": 0

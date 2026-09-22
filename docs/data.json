@@ -1,5 +1,5 @@
 {
-  "last_updated": 1790098535,
+  "last_updated": 1790099075,
   "wallets": [
     {
       "label": "Dev wallet 1",
@@ -67,7 +67,7 @@
         "USD1ttGY1N17NEEHLmELoaybftRBUSErhqYiQzvEmuB",
         "cbbtcf3aa214zXHbiAZQwf4122FBYbraNdFqgw4iMij"
       ],
-      "last_active": 1790095728,
+      "last_active": 1790099070,
       "positions": {},
       "realized_pnl_usd": 0.0
     }
@@ -94,6 +94,26 @@
   "learning_insight": "Coins that rugged averaged MOMENTUM 97; coins that did well averaged MOMENTUM 74.",
   "settings": {},
   "recent_alerts": [
+    {
+      "ts": 1790099075,
+      "type": "outcome",
+      "message": "\ud83d\udd34 Cents (CENTS) is dropping fast \u2014 down 100%, may be rugging."
+    },
+    {
+      "ts": 1790099074,
+      "type": "outcome",
+      "message": "\ud83d\udd34 0 Club by Virtuals (CLUB) is dropping fast \u2014 down 100%, may be rugging."
+    },
+    {
+      "ts": 1790099073,
+      "type": "scanner",
+      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\nClaude Ai (claude)\nOpportunity: 76/100\n\nMOMENTUM     100\nSAFETY       60\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$32,742, 17 min since pool creation\n\u2022 Up +90% in the last hour, ~$34,465 in 24h volume (1.1x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 88% of supply (very concentrated)\n\nCA: GGvpxMmorY8fPWALYvJpFTLP5XJ1pZXbYcFcHSEsBJtz\nhttps://dexscreener.com/solana/GGvpxMmorY8fPWALYvJpFTLP5XJ1pZXbYcFcHSEsBJtz\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
+    },
+    {
+      "ts": 1790099071,
+      "type": "wallet",
+      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: wifout -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/2Kd7nLP8nZXVU1VhWmjz9CkPmoU58NRYF7F47esgye9tNKyFtQMX2m176dJcu9pi13GYeXVZNne98QHPHyeJJq2u"
+    },
     {
       "ts": 1790098535,
       "type": "outcome",
@@ -323,26 +343,6 @@
       "ts": 1790094119,
       "type": "outcome",
       "message": "\ud83d\udd34 TikTok Official Token (TlKTOK) is dropping fast \u2014 down 100%, may be rugging."
-    },
-    {
-      "ts": 1790094113,
-      "type": "outcome",
-      "message": "\ud83d\udd34 Super Inu (SI) is dropping fast \u2014 down 100%, may be rugging."
-    },
-    {
-      "ts": 1790094107,
-      "type": "outcome",
-      "message": "\ud83d\udd34 4Dog (4Dog) is dropping fast \u2014 down 100%, may be rugging."
-    },
-    {
-      "ts": 1790094100,
-      "type": "outcome",
-      "message": "\ud83d\udd34 Circle (CIRCLE) is dropping fast \u2014 down 100%, may be rugging."
-    },
-    {
-      "ts": 1790094094,
-      "type": "outcome",
-      "message": "\ud83d\udd34 Agent Wormhole (WORM) is dropping fast \u2014 down 100%, may be rugging."
     }
   ]
 }
