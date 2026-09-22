@@ -21364,7 +21364,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "Hbc8UG4BcA8iX11C7PUQB3s7Mpz95nR7SDQDvyeJAe7X": {
@@ -21380,7 +21381,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "9UW2VhhuF4sENeKFvDWBKuswCrEkG9E6ZVE9NhEkJC5E": {
@@ -21396,7 +21398,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "CT4Dzg3PTnY6C6LmCg3w6WVsxc3tQWKgLhXvpE7vqy1P": {
@@ -21412,7 +21415,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "3daqXogy1Xi9q1WUtAdMoj3fjUxj5hgEKDc1c1M9Tbh6": {
@@ -21428,7 +21432,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "Aau8BNLyEpvzJ6GMadBHH7NtK3y1dKiuuePDMJYjKtGc": {
@@ -25715,6 +25720,45 @@
     "symbol": "FIBONACCI",
     "flagged_ts": 1790091996,
     "liquidity_at_flag": 27116.96053098132,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "2PHzARL38E7UfNiDnwhVZr8j6XPMmqhAXMuXehUXXbaR": {
+    "name": "\u8783\u87f9",
+    "symbol": "\u8783\u87f9",
+    "flagged_ts": 1790093133,
+    "liquidity_at_flag": 17488.287508453468,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 87,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "51R8zB5zPiy4VHC5t83dEpCs2pQExktyC5MHJftChvRP": {
+    "name": "Pokedex",
+    "symbol": "POKEDEX",
+    "flagged_ts": 1790093134,
+    "liquidity_at_flag": 28470.202063450066,
+    "breakdown": {
+      "MOMENTUM": 75,
+      "SAFETY": 90,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "5fFVVvhSXMAeDWytT1ayVdbxxM15C1Q7QmojDzqDNj77": {
+    "name": "musebook",
+    "symbol": "musebook",
+    "flagged_ts": 1790093135,
+    "liquidity_at_flag": 44506.36834576119,
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 60,
