@@ -20973,7 +20973,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "4KgF5f73S51YiMwUxPtA3trTDcVrYB8K4FAik5CyXUCm": {
@@ -20989,7 +20990,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "9hGoTV9jdBRiNYMcmcMB1dZkaxQpgx4Vd2CyCgMuJrHb": {
@@ -21005,7 +21007,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "FM3veeRmHG5HwP9fzyw1LU1aswmAc4bhLiE5kCbypump": {
@@ -21021,7 +21024,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "stckszzSEhZgCsLmmUpas1hmkggVMRtLGucDTTXLfHs": {
@@ -24716,7 +24720,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "CX3SDSLMg2cNnTo3cG6UFoiQHaA9kx2KZ8xqn4ngFMc": {
@@ -24731,7 +24736,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "2GZNFWfujLZza7XhYWtMceg8qLxYCJwguDY4tG36V9x3": {
@@ -25360,7 +25366,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "HNv8TBTDd7ev6DxehvMup5MKKrrnWTC7uoqZqgqdws2B": {
     "name": "0 Club by Virtuals",
@@ -25487,6 +25495,45 @@
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 90,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "HakuGJo7Sfxvcxxt32MYY3irQBQoeKC8jDtwZURYpump": {
+    "name": "Huddle",
+    "symbol": "Huddle",
+    "flagged_ts": 1790087994,
+    "liquidity_at_flag": 18391.35741751523,
+    "breakdown": {
+      "MOMENTUM": 62,
+      "SAFETY": 100,
+      "LIQUIDITY": 92,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "2LXvcZ2zqkTSzDfMibjYrZYSYABciWU7JAnYWzknGUmw": {
+    "name": "Block Cat",
+    "symbol": "BLOCKCAT",
+    "flagged_ts": 1790087995,
+    "liquidity_at_flag": 41651.277750171896,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "564C6MNPELt8Z5Xe1zuu8hiDej2SL5YBBg8njAvM6jTi": {
+    "name": "milno auto",
+    "symbol": "MILNO",
+    "flagged_ts": 1790087996,
+    "liquidity_at_flag": 35657.98664829939,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
