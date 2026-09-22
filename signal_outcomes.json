@@ -19766,7 +19766,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "25A1bmyk2fUUwmRxgDzZ5ZvBcTiCSSG4j4yTtBJoHSRh": {
@@ -19782,7 +19783,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "DCGkFzKUFeKTgTU97PZmkwCbqC3ogZiK77fipxWTpump": {
@@ -23109,7 +23111,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "6wmR5QJRetHqAkatM55ZzdzayWLAe2hEXqnP2URyySez": {
@@ -23124,7 +23127,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "6LPCgycY8Br7y2GL2KSmHd8xhtJbKuj6NHEmTfhswmkt": {
@@ -23139,7 +23143,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "5qS9pfpYvRFTVDStAMND3TrKsrVuvFcYTzfMSb1CVxvS": {
@@ -23879,6 +23884,19 @@
     "symbol": "CLIP",
     "flagged_ts": 1790061069,
     "liquidity_at_flag": 32069.38461880228,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "FQ4yfWDznQBGrfELrhrEQEwXaicWJbRisQXrKJM6PRd2": {
+    "name": "Agent Wormhole",
+    "symbol": "WORM",
+    "flagged_ts": 1790062125,
+    "liquidity_at_flag": 40745.27894676895,
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 60,
