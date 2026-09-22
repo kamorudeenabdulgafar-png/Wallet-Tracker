@@ -22537,7 +22537,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "3GgrWfUF6vRbH1iUxzqH7LABcZ8Mk2cdonKe61odpump": {
@@ -22553,7 +22554,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "4eyEnC9zR8dqbHbwy7f6yBampCMR6itF5Nr8Ui1rDkwg": {
@@ -22569,7 +22571,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "7P6VL1cpLZM6w1jGPHmfwxkgDAf2CPnh8oP6Q3sJXXWi": {
@@ -26612,7 +26615,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "AMF9L2uTbWEbS2hNnJ5mQ4e7HYVNCuC5d8CS6azLvJZ6": {
     "name": "Post-Quantum Lightning Network",
@@ -26625,7 +26630,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "EVg2Q4fXu4cVBQVGvHWYDvhSjQ7TSzX91hzLCGnmMPLR": {
     "name": "Schlong",
@@ -26723,6 +26730,45 @@
     "symbol": "EARNY",
     "flagged_ts": 1790118274,
     "liquidity_at_flag": 36907.617104281584,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "FskbpzbvmRbm8YPQVYEt63h19ivhbYV1GJTVhVrRYGzo": {
+    "name": "Chachamaru",
+    "symbol": "Chachamaru",
+    "flagged_ts": 1790119086,
+    "liquidity_at_flag": 16334.688245165422,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 82,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "4uBE6XzmS7qyCm6YKbqzjyFimELo81AQvRaok3fQEYGm": {
+    "name": "Chachamaru",
+    "symbol": "Chachamaru",
+    "flagged_ts": 1790119087,
+    "liquidity_at_flag": 39703.750926090805,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "CzHjqWbXRR4CGMYRD6dJnVTjCDzQhZFCzaeAvmmFT6FH": {
+    "name": "FreakerBell",
+    "symbol": "FreakerBe",
+    "flagged_ts": 1790119088,
+    "liquidity_at_flag": 36655.17041683234,
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 60,
