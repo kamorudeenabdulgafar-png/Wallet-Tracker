@@ -22333,7 +22333,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "HWQBaDrd1Srgp63kya4jHzQRZNA8Zi2uRMDooV8AHPsg": {
@@ -25964,7 +25965,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "wCatSXqN7wrPPxJ2zFeoZSiZbVpXTCRKNBzrNj1yeBC": {
@@ -25979,7 +25981,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "6L7BJned7agCjjzaqum3pTc4XhWQN4YWVpy7fnMULWef": {
@@ -26398,7 +26401,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "13f9ET7jEV4myA1z9kS8BtezBLZv1ZR6HdAiyvmAieWt": {
     "name": "The Disney Gorilla",
@@ -26483,6 +26488,19 @@
     "symbol": "PROZAC",
     "flagged_ts": 1790111920,
     "liquidity_at_flag": 37084.10469963709,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "HByEs5GbRJVjkw5FPdSXXWTCJn43t28Sz3UX6QMXwmoG": {
+    "name": "Super Inu",
+    "symbol": "SI",
+    "flagged_ts": 1790112598,
+    "liquidity_at_flag": 30219.257017700656,
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 60,

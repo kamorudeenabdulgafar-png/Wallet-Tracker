@@ -1,5 +1,5 @@
 {
-  "last_updated": 1790111926,
+  "last_updated": 1790112602,
   "wallets": [
     {
       "label": "Dev wallet 1",
@@ -9,7 +9,7 @@
   "wallet_stats": {
     "5CEbueQnq1Ym2uSSx2xXds3jQAqT1BDnkA59RZobSPAG": {
       "label": "Dev wallet 1",
-      "buy_count": 294,
+      "buy_count": 295,
       "sell_count": 178,
       "total_buy_usd": 15565.105837267645,
       "total_sell_usd": 0.0,
@@ -67,7 +67,7 @@
         "USD1ttGY1N17NEEHLmELoaybftRBUSErhqYiQzvEmuB",
         "cbbtcf3aa214zXHbiAZQwf4122FBYbraNdFqgw4iMij"
       ],
-      "last_active": 1790106011,
+      "last_active": 1790112597,
       "positions": {},
       "realized_pnl_usd": 0.0
     }
@@ -86,7 +86,7 @@
     "count": 2835,
     "up_count": 613,
     "total_change_pct": -155586.29928175083,
-    "rug": 943,
+    "rug": 944,
     "doing_well": 10,
     "steady": 6,
     "fading": 10
@@ -94,6 +94,41 @@
   "learning_insight": "Coins that rugged averaged MOMENTUM 97; coins that did well averaged MOMENTUM 74.",
   "settings": {},
   "recent_alerts": [
+    {
+      "ts": 1790112602,
+      "type": "outcome",
+      "message": "\ud83d\udd34 The Disney Gorilla (BAKARI) is dropping fast \u2014 down 100%, may be rugging."
+    },
+    {
+      "ts": 1790112601,
+      "type": "outcome",
+      "message": "\ud83d\udd34 WETCAT (WETCAT) is dropping fast \u2014 down 92%, may be rugging."
+    },
+    {
+      "ts": 1790112600,
+      "type": "outcome",
+      "message": "\ud83d\udd34 GSTOCK (Gstock) is dropping fast \u2014 down 100%, may be rugging."
+    },
+    {
+      "ts": 1790112599,
+      "type": "outcome",
+      "message": "\ud83d\udd34 Agemica (AGE) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
+    },
+    {
+      "ts": 1790112598,
+      "type": "scanner",
+      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\nSuper Inu (SI)\nOpportunity: 76/100\n\nMOMENTUM     100\nSAFETY       60\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$30,219, 16 min since pool creation\n\u2022 Up +91% in the last hour, ~$22,428 in 24h volume (0.7x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 75% of supply (very concentrated)\n\nCA: HByEs5GbRJVjkw5FPdSXXWTCJn43t28Sz3UX6QMXwmoG\nhttps://dexscreener.com/solana/HByEs5GbRJVjkw5FPdSXXWTCJn43t28Sz3UX6QMXwmoG\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
+    },
+    {
+      "ts": 1790112597,
+      "type": "wallet",
+      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: BP -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/4KtPf1KG5NbBD4X5rMsKfjAxZFg8DGkWfcNarjmjzJEUMWL8qECkyv3HCukoWaP4rbW5hUcbjs3G6EaRKpFqTXAv"
+    },
+    {
+      "ts": 1790112597,
+      "type": "wallet",
+      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: USDC -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/23X5GYqvmGxVqViqpb7ADm2fhfQDYT6HBcZcfLvv7cMLFjyvGcE8CRJ1hQFaMuRtiEQzEd1aHGKACt6by2433BPP"
+    },
     {
       "ts": 1790111926,
       "type": "outcome",
@@ -308,41 +343,6 @@
       "ts": 1790106799,
       "type": "outcome",
       "message": "\ud83d\udd34 Longcoin (LONG) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
-    },
-    {
-      "ts": 1790106798,
-      "type": "outcome",
-      "message": "\ud83d\udd34 Jeanchua (jeanchua) turned out to be a rug \u2014 liquidity dropped 92% over 24h."
-    },
-    {
-      "ts": 1790106797,
-      "type": "outcome",
-      "message": "\ud83d\udd34 LUNCHPAD (LUNCHPAD) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
-    },
-    {
-      "ts": 1790106796,
-      "type": "outcome",
-      "message": "\ud83d\udd34 LUNCHPAD (LUNCHPAD) turned out to be a rug \u2014 liquidity dropped 90% over 24h."
-    },
-    {
-      "ts": 1790106795,
-      "type": "scanner",
-      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\nThe Disney Gorilla (BAKARI)\nOpportunity: 76/100\n\nMOMENTUM     100\nSAFETY       60\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$25,448, 12 min since pool creation\n\u2022 Up +67% in the last hour, ~$113,715 in 24h volume (4.5x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 97% of supply (very concentrated)\n\nCA: BtY4q8QqBzmrhpoGxkQuPVchC3LtUEn4axvJFJe9jQ3Y\nhttps://dexscreener.com/solana/BtY4q8QqBzmrhpoGxkQuPVchC3LtUEn4axvJFJe9jQ3Y\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
-    },
-    {
-      "ts": 1790106795,
-      "type": "scanner",
-      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\nApe Cat (APECAT)\nOpportunity: 76/100\n\nMOMENTUM     100\nSAFETY       60\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$39,956, 10 min since pool creation\n\u2022 Up +223% in the last hour, ~$119,175 in 24h volume (3.0x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 94% of supply (very concentrated)\n\nCA: 6JWsGJYWSQ1BsHdMq2YLMDq2B96sm3JQdJom6pkGKh22\nhttps://dexscreener.com/solana/6JWsGJYWSQ1BsHdMq2YLMDq2B96sm3JQdJom6pkGKh22\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
-    },
-    {
-      "ts": 1790106019,
-      "type": "outcome",
-      "message": "\ud83d\udfe0 Sniper Cat (SCAT) is fading \u2014 down 53% so far."
-    },
-    {
-      "ts": 1790106018,
-      "type": "outcome",
-      "message": "\ud83d\udd34 Bat Inu (BI) is dropping fast \u2014 down 100%, may be rugging."
     }
   ]
 }
