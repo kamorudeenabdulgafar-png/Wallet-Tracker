@@ -20191,7 +20191,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "9bYXK1VKaqbJ7PHPtGtZipxAtaQyZiKC4p5bnyx8bLo4": {
@@ -20207,7 +20208,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "7tUzWNhDmuJDKWUrpHNRjv48i3wajnuERMdmtsHYKBGt": {
@@ -23710,7 +23712,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "6QjW62jPQEy5DB3qmjxrm6yeuPmsiAHx9TkRYJ9P7PeL": {
@@ -23725,7 +23728,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "671dNhKr12xRoPmfkevzG1daqi4c9KMAA9J83ExyMWJ7": {
@@ -24453,6 +24457,19 @@
     "symbol": "FIBONACCI",
     "flagged_ts": 1790070617,
     "liquidity_at_flag": 67177.78973373426,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "7rDzVaTMSxXesdSHrGEb5s2NRYh5ptkxzBRVD142PvkQ": {
+    "name": "Unknown",
+    "symbol": "?",
+    "flagged_ts": 1790071076,
+    "liquidity_at_flag": 31755.93394046399,
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 60,
