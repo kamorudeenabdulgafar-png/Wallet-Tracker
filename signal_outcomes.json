@@ -21483,7 +21483,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "zvSrjRNfrFALHzFeZgg9zWT3uZsuLPkE1b9YfTHpump": {
@@ -21499,7 +21500,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "HyabBio8GPY5iYjcMMv2KHxqDocxFC12Pma6tR2LGL4c": {
@@ -25805,6 +25807,32 @@
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 90,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "7NDC4UXwdPNTV6MTSWtNenS7rQY92vkJzoBAzeikpump": {
+    "name": "BetBolt",
+    "symbol": "betbolt",
+    "flagged_ts": 1790096208,
+    "liquidity_at_flag": 20385.148637608272,
+    "breakdown": {
+      "MOMENTUM": 78,
+      "SAFETY": 90,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "2HL4YqYjhY19648WzpNid6oQ7xxnndiv5JmoTLT44b2M": {
+    "name": "Group Project",
+    "symbol": "Project",
+    "flagged_ts": 1790096209,
+    "liquidity_at_flag": 40725.90977431406,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
