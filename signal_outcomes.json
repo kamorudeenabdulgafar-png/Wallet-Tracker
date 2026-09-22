@@ -21925,7 +21925,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "Bpvgugg2Z7cwpvS2tgDiibvGw9U16RKAeuG7ev7QBVfe": {
@@ -25684,7 +25685,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "BE3t3uoF71XhhQorXD3c7n3FckSgFiUNCT1wbthw3LiS": {
@@ -25699,7 +25701,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "Au7B1DXtC5UKf3QLTtiv2nbCpncJ6VaZm2o4jeQYiaZw": {
@@ -25714,7 +25717,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "HpzR1uoKLKuYaGeFbHYvNDW2sbtHudAjCMP1g1YkL8Jt": {
@@ -25729,7 +25733,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "638moDWrsE8Qfgb3ZmGAWfEgjTTcgmLPESjSKpgcRtTV": {
@@ -25744,7 +25749,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "A3VjwkLmbYwg7y2wzXUc9vpWCHQv3XKmQNDy5FF1k5jh": {
@@ -25759,7 +25765,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "9hBWUD6nVsbn7uLhiYk7c6A8PYxwR54e7bZrRaQBz4s4": {
@@ -26118,7 +26125,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "4PSGC3r6rtdAk8MWxpuZtjm4yY516tHCvhwK4xAxGa27": {
     "name": "\u2803\u2807\u280a\u281d\u2819 \u2801\u280f\u2811",
@@ -26131,7 +26140,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "5taDFQ8JcnrdMWGeEC5k1RJJeQrVfUfnsjqyVsEkd56d": {
     "name": "\u2803\u2807\u280a\u281d\u2819 \u2801\u280f\u2811",
@@ -26144,7 +26155,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "6fBCJQCXb8DaiQyChzoLDUmoWXihhUp8zLF33P3PMqKS": {
     "name": "\u2803\u2807\u280a\u281d\u2819 \u2801\u280f\u2811",
@@ -26157,7 +26170,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "GXcMjn3h6dq1XgKkDJAoFkFrpUbpY8d9Nx7tYgkbW1o6": {
     "name": "APE",
@@ -26170,7 +26185,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "AbbMu7BKCuYgXuYErQ6TqBdmnzjKnhr6pyJAeucupump": {
     "name": "WHITEOUT",
@@ -26231,6 +26248,19 @@
     "liquidity_at_flag": 26870.217457226037,
     "breakdown": {
       "MOMENTUM": 84,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "AhfpfEFkvdsN5NweFPyNCTmXzowQVHxyPHo11nSAjXSZ": {
+    "name": "Aeon",
+    "symbol": "AEON",
+    "flagged_ts": 1790105365,
+    "liquidity_at_flag": 50833.929901076335,
+    "breakdown": {
+      "MOMENTUM": 100,
       "SAFETY": 60,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
