@@ -18984,7 +18984,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "29j6RrRZPhfLLTYTJF4fBV1TMXzhqgkSa9pa2pQ8pump": {
@@ -22375,7 +22376,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "2kFVVpScFtPixZ8zrS6iF3ZiTCj9aKkzA1jRN2GeWDqR": {
@@ -22764,7 +22766,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "2FmYrTSXfak8js9ipoTa3ukH63TmevG19LY2XKCqVSaE": {
     "name": "stonkerage.fun",
@@ -22777,7 +22781,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "6d7ZuVYKVT7kLi7LzXtT5HJRShYTztm8icenXcbHv64M": {
     "name": "Claude Ai",
@@ -22969,6 +22975,45 @@
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 100,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "AKyyWLh6XKwGbLUkTb5HKvjdnNQ7tjdBCbK6B4aQUiDd": {
+    "name": "kirkinu",
+    "symbol": "kirkinu",
+    "flagged_ts": 1790047314,
+    "liquidity_at_flag": 30668.325857759963,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "6wmR5QJRetHqAkatM55ZzdzayWLAe2hEXqnP2URyySez": {
+    "name": "\u5148\u5b9a\u5341\u4e2a\u5927\u76ee\u6807",
+    "symbol": "\u5148\u5b9a\u5341\u4e2a\u5927\u76ee\u6807",
+    "flagged_ts": 1790047315,
+    "liquidity_at_flag": 41704.31894872153,
+    "breakdown": {
+      "MOMENTUM": 87,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "6LPCgycY8Br7y2GL2KSmHd8xhtJbKuj6NHEmTfhswmkt": {
+    "name": "retail",
+    "symbol": "RETAIL",
+    "flagged_ts": 1790047316,
+    "liquidity_at_flag": 43070.26141200434,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 75,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
