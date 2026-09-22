@@ -22146,7 +22146,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "59sSHCrimcVqVxwvnajfttcNKnbzRHAVpcKHzXm2uYNK": {
@@ -22162,7 +22163,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "A2CLBDH4zh5vUDviaZ3wMngGJWHRwk7XDq5fHRMphSnP": {
@@ -22178,7 +22180,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "EddpuxgNoExAJ3u6osQx2WXpbNH8mXJQVZCuaXm2nstD": {
@@ -26293,7 +26296,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "3y4KW6Yere8NAjVSPVVWEXkUoDfXV8b6t3EDGS2W5wP2": {
     "name": "The Disney Gorilla",
@@ -26365,6 +26370,19 @@
     "symbol": "BAKARI",
     "flagged_ts": 1790108361,
     "liquidity_at_flag": 27390.645482786138,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "13f9ET7jEV4myA1z9kS8BtezBLZv1ZR6HdAiyvmAieWt": {
+    "name": "The Disney Gorilla",
+    "symbol": "BAKARI",
+    "flagged_ts": 1790109103,
+    "liquidity_at_flag": 25708.32952160104,
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 60,
