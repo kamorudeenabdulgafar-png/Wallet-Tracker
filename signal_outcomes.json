@@ -26348,7 +26348,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "3y4KW6Yere8NAjVSPVVWEXkUoDfXV8b6t3EDGS2W5wP2": {
@@ -26662,7 +26663,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "Hrnb73ApR5nvz61g4ifEhRz9CLE9Njm4FbRaxi2Pafuw": {
     "name": "Schlong",
@@ -26675,7 +26678,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "F3ycuzZtFjbEQj3DWzXmnfS5xWLGBi4gnzaJsat7jBJF": {
     "name": "Betty",
@@ -26786,6 +26791,32 @@
     "symbol": "SOLPEPE",
     "flagged_ts": 1790119724,
     "liquidity_at_flag": 27722.989926112594,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 100,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "AzRo4CfMRFRasbMtYEJKvEpqiGPqDS9xi46we5azak5M": {
+    "name": "BillSmith",
+    "symbol": "BillSmith",
+    "flagged_ts": 1790120331,
+    "liquidity_at_flag": 29039.340964371095,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "zYiF3rA8aWYUuDek3Z3po9NF4V5UDky5nji7Wr6pump": {
+    "name": "BillSmith",
+    "symbol": "BillSmith",
+    "flagged_ts": 1790120335,
+    "liquidity_at_flag": 29414.31810698038,
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 100,
