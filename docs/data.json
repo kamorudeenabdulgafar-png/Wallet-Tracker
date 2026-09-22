@@ -1,5 +1,5 @@
 {
-  "last_updated": 1790037802,
+  "last_updated": 1790038567,
   "wallets": [
     {
       "label": "Dev wallet 1",
@@ -10,7 +10,7 @@
     "5CEbueQnq1Ym2uSSx2xXds3jQAqT1BDnkA59RZobSPAG": {
       "label": "Dev wallet 1",
       "buy_count": 266,
-      "sell_count": 165,
+      "sell_count": 167,
       "total_buy_usd": 15565.105837267645,
       "total_sell_usd": 0.0,
       "tokens_traded": [
@@ -66,7 +66,7 @@
         "suifhC9gU1VbJAPYPTBkHJyyyStKGLLYPVDTmPoqbvA",
         "USD1ttGY1N17NEEHLmELoaybftRBUSErhqYiQzvEmuB"
       ],
-      "last_active": 1790030705,
+      "last_active": 1790038562,
       "positions": {},
       "realized_pnl_usd": 0.0
     }
@@ -85,7 +85,7 @@
     "count": 2835,
     "up_count": 613,
     "total_change_pct": -155586.29928175083,
-    "rug": 768,
+    "rug": 769,
     "doing_well": 8,
     "steady": 6,
     "fading": 7
@@ -93,6 +93,36 @@
   "learning_insight": "Coins that rugged averaged MOMENTUM 96; coins that did well averaged MOMENTUM 73.",
   "settings": {},
   "recent_alerts": [
+    {
+      "ts": 1790038567,
+      "type": "outcome",
+      "message": "\ud83d\udd34 Jeansem (JEANSEM) is dropping fast \u2014 down 87%, may be rugging."
+    },
+    {
+      "ts": 1790038565,
+      "type": "outcome",
+      "message": "\ud83d\udd34 Layer 2 Cat (L2Cat) is dropping fast \u2014 down 100%, may be rugging."
+    },
+    {
+      "ts": 1790038564,
+      "type": "outcome",
+      "message": "\ud83d\udd34 Invisible, Nameless, Untraceable (INU) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
+    },
+    {
+      "ts": 1790038563,
+      "type": "wallet",
+      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: PTN -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/4qXNJyXjKE4atYoVKZGPdiYtPMSNCnpM811Wv7iNv7eS5zzaFCPVWPvy7QLsCLopUUEAzRoQGkh7YoGkMPgNdEe4"
+    },
+    {
+      "ts": 1790038562,
+      "type": "wallet",
+      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: SKHY -> USDC\nTrade size: unknown\nBought token: USD Coin (USDC)\nCA: EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v\nhttps://solscan.io/tx/fnVAYzHgJBMFZtSfpbYfC4Va3Hckyd3Bjhn2GR1avCdPaNCXtiHakBFTWyyt7UgeuhrJasg3XqZW3a4sN7uziEp"
+    },
+    {
+      "ts": 1790038561,
+      "type": "wallet",
+      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: SPYx -> USDC\nTrade size: unknown\nBought token: USD Coin (USDC)\nCA: EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v\nhttps://solscan.io/tx/5SkUiWdEUuadfP1rxsyXqSBGWYGHUsPSaY3g6eZcKpNXsaqC97FMHFcFFinbjuWZ5Nf41jt3r53sqHgxuZye3tYr"
+    },
     {
       "ts": 1790037802,
       "type": "outcome",
@@ -312,36 +342,6 @@
       "ts": 1790032756,
       "type": "outcome",
       "message": "\ud83d\udd34 Dumb meme coin (DUMBCOIN) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
-    },
-    {
-      "ts": 1790032755,
-      "type": "outcome",
-      "message": "\ud83d\udd34 STONKSOL (STONKSOL) turned out to be a rug \u2014 liquidity dropped 85% over 24h."
-    },
-    {
-      "ts": 1790032754,
-      "type": "scanner",
-      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\nmusebook (musebook)\nOpportunity: 76/100\n\nMOMENTUM     100\nSAFETY       60\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$33,531, 6 min since pool creation\n\u2022 Up +74% in the last hour, ~$19,436 in 24h volume (0.6x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 88% of supply (very concentrated)\n\nCA: 7P6VL1cpLZM6w1jGPHmfwxkgDAf2CPnh8oP6Q3sJXXWi\nhttps://dexscreener.com/solana/7P6VL1cpLZM6w1jGPHmfwxkgDAf2CPnh8oP6Q3sJXXWi\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
-    },
-    {
-      "ts": 1790031930,
-      "type": "outcome",
-      "message": "\ud83d\udd34 tradecat (tradecat) is dropping fast \u2014 down 100%, may be rugging."
-    },
-    {
-      "ts": 1790031929,
-      "type": "outcome",
-      "message": "\ud83d\udd34 Cult of Crypto ($) is dropping fast \u2014 down 82%, may be rugging."
-    },
-    {
-      "ts": 1790031928,
-      "type": "outcome",
-      "message": "\ud83d\udd34 XtraPad (XtraPad) is dropping fast \u2014 down 100%, may be rugging."
-    },
-    {
-      "ts": 1790031927,
-      "type": "outcome",
-      "message": "\ud83d\udd34 Crumb Paw ($CRPAW) is dropping fast \u2014 down 71%, may be rugging."
     }
   ]
 }
