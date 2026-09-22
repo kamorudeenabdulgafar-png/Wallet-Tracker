@@ -18542,7 +18542,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "GrqfgmE942PU2r4UyJp2arCXUw5PBFr8bJP2dxp33SKG": {
@@ -18558,7 +18559,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "6XNxnhMXcbiWLadfmeixckmEV3j8Lhf7yzU3adNpxHE9": {
@@ -18574,7 +18576,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "6XXjiyYeFeS49ArxZTxTbJa3w5wigMakGZUcjE6npump": {
@@ -18590,7 +18593,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "FDh1dt1AqdfYDFpv1RR41ncp9FcBN7Yv19GxmczR7qTk": {
@@ -22061,7 +22065,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "H9gWBoP8mgTdyrcgsP5e7H6zBMmKT5EXvEp2EWq2mV5F": {
@@ -22076,7 +22081,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "7CE4KH1W8SbfQpnTPE6Rn2DoQqsD23xi1iF1gkZ9pump": {
@@ -22091,7 +22097,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "DcKfDN3rN9amfyDe8KjS3TXkomnu9Kocu1LvySsLhNYb": {
@@ -22467,6 +22474,32 @@
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 100,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "HhrSaoqysQBo8AdhxuA2hG8AWJb5hZieCi4AHgo1pump": {
+    "name": "Privacy Agents",
+    "symbol": "PROXY",
+    "flagged_ts": 1790039153,
+    "liquidity_at_flag": 21431.945183755823,
+    "breakdown": {
+      "MOMENTUM": 67,
+      "SAFETY": 90,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "DgACXKn6kSopTrFAyAwvGaeTKicrqWzLvXRYuvKGpump": {
+    "name": "OWED",
+    "symbol": "OWED",
+    "flagged_ts": 1790039154,
+    "liquidity_at_flag": 31216.2713914783,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 90,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
