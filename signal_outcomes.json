@@ -22520,7 +22520,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "6FeQcP4PCv5nZbb94VXLK58fbEKFvmHRStycPcjC2LMC": {
@@ -26688,6 +26689,19 @@
     "liquidity_at_flag": 33833.746772017985,
     "breakdown": {
       "MOMENTUM": 84,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "4wLpoGkDaS117rBdp6Accqm6uc3QuFicn1Z6Ld9YieQG": {
+    "name": "Super Inu",
+    "symbol": "SI",
+    "flagged_ts": 1790117593,
+    "liquidity_at_flag": 27355.44577514017,
+    "breakdown": {
+      "MOMENTUM": 100,
       "SAFETY": 60,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
