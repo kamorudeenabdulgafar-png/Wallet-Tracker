@@ -26264,7 +26264,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "FaDbfTk9FgkUh3o6vxgA79tzww41TEkY2C9FSmqoLuQG": {
@@ -26279,7 +26280,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "2DtKPf4VLUYACg1bWBPo1V7PURpDLE9FQAG688vSHbfM": {
@@ -26294,7 +26296,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "CQbfzp8SPDdqyz6oRzedkiDmuykWeijdi1o6eqs6zzc3": {
@@ -26309,7 +26312,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "HrCpRnjFx4KDt3ZTv41i1cysNvL9MEHijZR8DSYZoX2D": {
@@ -26563,7 +26567,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "3B72iCu6FXMqN1fk5EKrkDxT4Er6cDomoo6Ym23Ypump": {
     "name": "BFC",
@@ -26576,7 +26582,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "5zcS6EGvzFSfMVyVwzEVHazkdvtuNuzdm3eGGMqGESha": {
     "name": "musebook",
@@ -26589,7 +26597,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "8XWWeuH5xMpLFsoLCKAibPvgsmPSRQBNAMEakiVNNo56": {
     "name": "tripskeleton",
@@ -26700,6 +26710,19 @@
     "symbol": "SI",
     "flagged_ts": 1790117593,
     "liquidity_at_flag": 27355.44577514017,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "FMfwJH21QACy7fvdF1pKfJUoMfzkKVh6YTDCEYKxGYun": {
+    "name": "Earny",
+    "symbol": "EARNY",
+    "flagged_ts": 1790118274,
+    "liquidity_at_flag": 36907.617104281584,
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 60,
