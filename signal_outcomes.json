@@ -20837,7 +20837,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "FmDURuykQP3QYcFDn8xf53idZ6oiHTmXmkUu6d249VKQ": {
@@ -24548,7 +24549,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "BaLU8Mu1mw1j98Siih6kcSH2j2SkNiLjKYUYgNFppump": {
@@ -24563,7 +24565,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "DrYXpu6BbVDLzcSeNoy7sf3xfgcGt8v8uG8V3Dfjfp4s": {
@@ -24578,7 +24581,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "7rDzVaTMSxXesdSHrGEb5s2NRYh5ptkxzBRVD142PvkQ": {
@@ -25344,6 +25348,58 @@
     "symbol": "CENTS",
     "flagged_ts": 1790084624,
     "liquidity_at_flag": 33065.103757685734,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "EZHXDqG38i5PYc4oTYM9wFwmTkERgqDLKh6WbpZMZkPy": {
+    "name": "Buttfuckcoin",
+    "symbol": "BUTTFUCK",
+    "flagged_ts": 1790085333,
+    "liquidity_at_flag": 31821.836826414707,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "4xxwmNeB484HYUPW5wi6Bsx1ArPgk2WErSNLRikML8T6": {
+    "name": "AIRCAT",
+    "symbol": "AIRCAT",
+    "flagged_ts": 1790085335,
+    "liquidity_at_flag": 37424.85577239556,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "NJepmur3JSzSerafFqQgtYcgXFziQ62Hi8NceXwsVJW": {
+    "name": "Grokification",
+    "symbol": "GROK",
+    "flagged_ts": 1790085338,
+    "liquidity_at_flag": 137462.79875842627,
+    "breakdown": {
+      "MOMENTUM": 97,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "FSzrdBek3riVNxTcSXGuGuitzEJC1VgHKb1ukTbBbKx3": {
+    "name": "There is no airdrop",
+    "symbol": "ily",
+    "flagged_ts": 1790085344,
+    "liquidity_at_flag": 70917.59844646367,
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 60,
