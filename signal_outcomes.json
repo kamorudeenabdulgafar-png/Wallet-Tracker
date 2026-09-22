@@ -21908,7 +21908,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "13sy9DtJsWiPZD1ETk6wiLdFjAbwj5fECsg8gcVLu18D": {
@@ -26042,7 +26043,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "4Khvgf6mci58NGxUE8sys87sLBcF7DiyK8xxvUWfSqKg": {
     "name": "First Life on Mars",
@@ -26055,7 +26058,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "7UKbC9K3U4z3zJWd1JSC2K3v18qKdakMshv3sUvmD5am": {
     "name": "APED",
@@ -26068,7 +26073,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "93xNM87MAA2NVSU5kiokDZQR3EYf4pMVLwUsjoqRwmuX": {
     "name": "NVIDIA",
@@ -26081,7 +26088,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "EWhuEkc3qdj6ce987zXjkqfBu7gbm6MkSpvJU6sezdgM": {
     "name": "GPU-Fi",
@@ -26094,7 +26103,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "4WQk9Xtq82SamCyXtrEpdRD896DHbGbFc2thPxBTkWLr": {
     "name": "sol",
@@ -26207,6 +26218,19 @@
     "liquidity_at_flag": 38766.655746584416,
     "breakdown": {
       "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "HrCpRnjFx4KDt3ZTv41i1cysNvL9MEHijZR8DSYZoX2D": {
+    "name": "Bet Markets",
+    "symbol": "BET",
+    "flagged_ts": 1790104727,
+    "liquidity_at_flag": 26870.217457226037,
+    "breakdown": {
+      "MOMENTUM": 84,
       "SAFETY": 60,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
