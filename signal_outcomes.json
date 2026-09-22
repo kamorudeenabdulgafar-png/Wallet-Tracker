@@ -19460,7 +19460,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "3VEbWt7Z8ECAT7xMosvFqQFdniHvzuxzXDFmuov4pump": {
@@ -22739,7 +22740,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "G3cKLYxtkCRDcNmfx9uwnHdUN4LwiDAi1zGUeMxvtB3o": {
@@ -22754,7 +22756,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "AQ5sEridYFNGuFYx6hyWaoXdMKr5M4KFyW91THFomVVS": {
@@ -23383,7 +23386,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "CjX1TYup1FbR47Kxx9bbVoxeQbTZqoCi5GBDBEXXsddk": {
     "name": "Laya",
@@ -23396,7 +23401,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "7CdSoAVsN6kivhdSMA4iHyqGpKbsTENzSeSTgRbd8qst": {
     "name": "Tesla",
@@ -23559,6 +23566,32 @@
     "symbol": "X6",
     "flagged_ts": 1790056025,
     "liquidity_at_flag": 44425.18836349238,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "FbnDGHTy67y6MnWzDJGzPC6egTKgCjeNmZsC1nM2gewJ": {
+    "name": "Nuts",
+    "symbol": "Nuts",
+    "flagged_ts": 1790056530,
+    "liquidity_at_flag": 38920.81516266594,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "6QjW62jPQEy5DB3qmjxrm6yeuPmsiAHx9TkRYJ9P7PeL": {
+    "name": "Pygoscelis kerguelensis",
+    "symbol": "Pygoscelis",
+    "flagged_ts": 1790056531,
+    "liquidity_at_flag": 34962.355593451815,
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 60,
