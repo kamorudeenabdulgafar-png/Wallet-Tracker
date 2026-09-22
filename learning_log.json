@@ -1,18 +1,5 @@
 [
   {
-    "name": "Pikachu",
-    "symbol": "PIKACHU",
-    "category": "rug",
-    "change_pct": -100.0,
-    "breakdown": {
-      "MOMENTUM": 83,
-      "SAFETY": 60,
-      "LIQUIDITY": 100,
-      "SMART MONEY": 0
-    },
-    "ts": 1789977939
-  },
-  {
     "name": "Stealth Cat",
     "symbol": "MCAT",
     "category": "rug",
@@ -3898,5 +3885,18 @@
       "SMART MONEY": 0
     },
     "ts": 1790070002
+  },
+  {
+    "name": "StampCat",
+    "symbol": "STAMPCAT",
+    "category": "rug",
+    "change_pct": -94.6,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 100,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "ts": 1790070618
   }
 ]

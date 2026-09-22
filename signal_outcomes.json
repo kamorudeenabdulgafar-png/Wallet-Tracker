@@ -20174,7 +20174,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "5acGmpWFNMEUmBYs941dDuL5pbyVtSL692aYP7EWjgRs": {
@@ -23661,7 +23662,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "Ck73uLikWmamoKPTtz2nTUFMCdXsZ2Hftc2kckoVsxRQ": {
@@ -23676,7 +23678,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "F4nDNJhy6ZHbj1iHKSAB7FPadpW7f2PmqhTF4mxHAcxd": {
@@ -23691,7 +23694,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "FbnDGHTy67y6MnWzDJGzPC6egTKgCjeNmZsC1nM2gewJ": {
@@ -24230,7 +24234,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "9G6Q9wBog4m4ZZg6oyqvcDKYhFq7psJNawm1ewjmk5n5": {
     "name": "Pok\u00e9mon",
@@ -24243,7 +24249,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "CLypAKGVEbxwjXzBUcQv8DvF7YucVxobZtyWqt1KAvA6": {
     "name": "Paid",
@@ -24406,6 +24414,45 @@
     "symbol": "ARGUS",
     "flagged_ts": 1790069996,
     "liquidity_at_flag": 35798.65791250055,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "6swUeMKbJN96A4arcHvByt6MbPgCFqiGGfL4vVLGsQQL": {
+    "name": "Claude Ai",
+    "symbol": "claude",
+    "flagged_ts": 1790070615,
+    "liquidity_at_flag": 39784.537563777296,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "BaLU8Mu1mw1j98Siih6kcSH2j2SkNiLjKYUYgNFppump": {
+    "name": "Retard Jean",
+    "symbol": "jeantard",
+    "flagged_ts": 1790070616,
+    "liquidity_at_flag": 25238.38191822011,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 100,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "DrYXpu6BbVDLzcSeNoy7sf3xfgcGt8v8uG8V3Dfjfp4s": {
+    "name": "The Perfect Memecoin",
+    "symbol": "FIBONACCI",
+    "flagged_ts": 1790070617,
+    "liquidity_at_flag": 67177.78973373426,
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 60,
