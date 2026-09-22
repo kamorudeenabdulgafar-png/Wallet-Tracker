@@ -18814,7 +18814,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "7MNSSAX831HSwT8RNaAAq99CCz7jbcYfjou2PFp4Q9v9": {
@@ -22301,7 +22302,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "6FeQcP4PCv5nZbb94VXLK58fbEKFvmHRStycPcjC2LMC": {
@@ -22615,7 +22617,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "6PqgNCam4HBtJyBsoR99nB2GQHQAtCFfcPfzN4khdcrG": {
     "name": "stonkerage.fun",
@@ -22628,7 +22632,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "6XngSBF4uDGzzDTJAfDnQj642PAwUuupvz4ZfVXdyUH8": {
     "name": "Argus",
@@ -22641,7 +22647,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "53KPQu3xeHBReqhJ7vw4ZoXbZkmxtgeeYufZQEvqJP8t": {
     "name": "Launchinu",
@@ -22654,7 +22662,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "Fj2y6wxefcJg5wgHEKZUBBwpxuznp86WkPkqUe2CemCY": {
     "name": "suit",
@@ -22807,6 +22817,71 @@
     "breakdown": {
       "MOMENTUM": 82,
       "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "5tizYve8kVTiR6Jo7SwcqbZBeZyrvKL9crDJyt2VrbtT": {
+    "name": "LONG",
+    "symbol": "LONG",
+    "flagged_ts": 1790045253,
+    "liquidity_at_flag": 28428.42785278643,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "7zTtZusfVkedDbCSbjCRoNsP4zHwxJEQoVj23nuaeZNA": {
+    "name": "Cashtag",
+    "symbol": "CASHTAG",
+    "flagged_ts": 1790045253,
+    "liquidity_at_flag": 35743.757224961184,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "5PHUX9T2dgeUktJyu6KKdcqtTF98T78spNyBFcotpump": {
+    "name": "fomodog",
+    "symbol": "fomodog",
+    "flagged_ts": 1790045254,
+    "liquidity_at_flag": 60169.70201940069,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 100,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "ChXsjdLXp2PWnq2QbidLmgZL2fjT8Az1JUecLKNwwHDM": {
+    "name": "Cashtag",
+    "symbol": "CASHTAG",
+    "flagged_ts": 1790045255,
+    "liquidity_at_flag": 40021.30379069241,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "8p2Aqhdvo6ZQx73yGA8Jv8chnmN9qT4AEr4pLyV3MoCd": {
+    "name": "CLIPBACK",
+    "symbol": "CLIP",
+    "flagged_ts": 1790045256,
+    "liquidity_at_flag": 31126.552704830472,
+    "breakdown": {
+      "MOMENTUM": 74,
+      "SAFETY": 100,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
