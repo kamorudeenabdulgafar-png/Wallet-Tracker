@@ -19205,7 +19205,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "EcMdVAqMcXJpMmQwJ7F71vQrnEeWS52cWSWZt63SYk5Q": {
@@ -19221,7 +19222,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "XUHrDqBUvcKy5S1k2MitbcFxvh2ABgfQYtoPhJFpump": {
@@ -22548,7 +22550,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "HhrSaoqysQBo8AdhxuA2hG8AWJb5hZieCi4AHgo1pump": {
@@ -23087,7 +23090,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "9mry4cuMLRjyNC9rv2iT3KfesDjdQRLwARzRDWXPqFcB": {
     "name": "Catinu",
@@ -23100,7 +23105,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "cwbqseTbt8HmXDc4F9bJBLyPzgwMsMUPoWNVrYCpump": {
     "name": "Guy",
@@ -23302,6 +23309,32 @@
     "symbol": "CHIIBA-KUN",
     "flagged_ts": 1790051841,
     "liquidity_at_flag": 29161.875514796968,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "CNbPAFd3B9rFgo4uYMBAcLgowABU698HLwACzqU3pump": {
+    "name": "ALWAYS PAID",
+    "symbol": "ALWAYSPAID",
+    "flagged_ts": 1790052450,
+    "liquidity_at_flag": 29527.11292972035,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 75,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "CjX1TYup1FbR47Kxx9bbVoxeQbTZqoCi5GBDBEXXsddk": {
+    "name": "Laya",
+    "symbol": "\u62c9\u96c5",
+    "flagged_ts": 1790052451,
+    "liquidity_at_flag": 30841.401698024616,
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 60,
