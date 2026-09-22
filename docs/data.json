@@ -1,5 +1,5 @@
 {
-  "last_updated": 1790074472,
+  "last_updated": 1790075104,
   "wallets": [
     {
       "label": "Dev wallet 1",
@@ -67,7 +67,7 @@
         "USD1ttGY1N17NEEHLmELoaybftRBUSErhqYiQzvEmuB",
         "cbbtcf3aa214zXHbiAZQwf4122FBYbraNdFqgw4iMij"
       ],
-      "last_active": 1790074463,
+      "last_active": 1790075096,
       "positions": {},
       "realized_pnl_usd": 0.0
     }
@@ -86,7 +86,7 @@
     "count": 2835,
     "up_count": 613,
     "total_change_pct": -155586.29928175083,
-    "rug": 853,
+    "rug": 854,
     "doing_well": 9,
     "steady": 6,
     "fading": 9
@@ -94,6 +94,56 @@
   "learning_insight": "Coins that rugged averaged SAFETY 69; coins that did well averaged SAFETY 95.",
   "settings": {},
   "recent_alerts": [
+    {
+      "ts": 1790075104,
+      "type": "outcome",
+      "message": "\ud83d\udd34 Unknown (?) is dropping fast \u2014 down 100%, may be rugging."
+    },
+    {
+      "ts": 1790075104,
+      "type": "outcome",
+      "message": "\ud83d\udd34 STONKPOT (STONKPOT) is dropping fast \u2014 down 100%, may be rugging."
+    },
+    {
+      "ts": 1790075103,
+      "type": "outcome",
+      "message": "\ud83d\udd34 Looong Anonymous Cat (ZLOOONG) is dropping fast \u2014 down 100%, may be rugging."
+    },
+    {
+      "ts": 1790075102,
+      "type": "outcome",
+      "message": "\ud83d\udd34 rekrobot (REK) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
+    },
+    {
+      "ts": 1790075100,
+      "type": "scanner",
+      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\nKarate Cat (KCAT)\nOpportunity: 76/100\n\nMOMENTUM     100\nSAFETY       60\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$33,981, 16 min since pool creation\n\u2022 Up +806% in the last hour, ~$310,087 in 24h volume (9.1x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 91% of supply (very concentrated)\n\nCA: CU8ZHeE5bwJG7tS3Uo1UpKe79xpxMBdTJZrWFzKJikim\nhttps://dexscreener.com/solana/CU8ZHeE5bwJG7tS3Uo1UpKe79xpxMBdTJZrWFzKJikim\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
+    },
+    {
+      "ts": 1790075098,
+      "type": "scanner",
+      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\nbuy or die (buy)\nOpportunity: 70/100\n\nMOMENTUM     82\nSAFETY       60\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$24,934, 6 min since pool creation\n\u2022 Up +54% in the last hour, ~$86,690 in 24h volume (3.5x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 92% of supply (very concentrated)\n\nCA: A1JxtVrDDzr4k5xNMEpWtcSy8u8PjaTairkxh19pobGS\nhttps://dexscreener.com/solana/A1JxtVrDDzr4k5xNMEpWtcSy8u8PjaTairkxh19pobGS\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
+    },
+    {
+      "ts": 1790075096,
+      "type": "wallet",
+      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: AVAX -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/5eM15H2f3mdG5Gn2oTpkuUE4F4GAF7oR8xYoXobaaD3WoQnw9ZsS8FnH5jhBqHZKxxSG6jftMRpxFxVDrAJwmSbm"
+    },
+    {
+      "ts": 1790075096,
+      "type": "wallet",
+      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: XMR -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/49oNsauquFunkpHhwBVHmkEtyE3hwNWoBajr2oCKMfpRUkBtbPNWabHXZZZKVQ5cptR6fdu4Ues4TkJtd8JG7sk3"
+    },
+    {
+      "ts": 1790075095,
+      "type": "wallet",
+      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: xBTC -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/55wxnyXQr8GacXugJwAjrousYaN3CD6uUacHdCmZ9VbcuMGww6bmjTU9qsoVWMBFv9Yobgd6JPEfVEEexHAFy8nK"
+    },
+    {
+      "ts": 1790075094,
+      "type": "wallet",
+      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: MSFTx -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/39CaSdc2MxfeD29YX1krueXn6UBEfVhPMSwjdFAmiVXc6oae1BEGv3WsR9XVhfKVtj24zdR3hD5VmrBuzhnEdJt6"
+    },
     {
       "ts": 1790074472,
       "type": "outcome",
@@ -293,56 +343,6 @@
       "ts": 1790072979,
       "type": "wallet",
       "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: SILV -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/3TMf7TKgFbo9cWSHonKZ9xafqBQpWjM8K8MkyJ3ZoT21MHNaBNaeEbqcbDiBW2S1jQQTF2jL4gvaepeMMLYtUZgo"
-    },
-    {
-      "ts": 1790071921,
-      "type": "outcome",
-      "message": "\ud83d\udd34 CLIPBACK (CLIP) is dropping fast \u2014 down 100%, may be rugging."
-    },
-    {
-      "ts": 1790071920,
-      "type": "outcome",
-      "message": "\ud83d\udd34 Paid (PAID) is dropping fast \u2014 down 100%, may be rugging."
-    },
-    {
-      "ts": 1790071919,
-      "type": "outcome",
-      "message": "\ud83d\udd34 URANUS (URANUS) is dropping fast \u2014 down 100%, may be rugging."
-    },
-    {
-      "ts": 1790071918,
-      "type": "outcome",
-      "message": "\ud83d\udd34 A Meme (MEME) is dropping fast \u2014 down 100%, may be rugging."
-    },
-    {
-      "ts": 1790071917,
-      "type": "outcome",
-      "message": "\ud83d\udfe2 KITTY COIN (KITTY) is still doing really good \u2014 up 77% so far!"
-    },
-    {
-      "ts": 1790071916,
-      "type": "outcome",
-      "message": "\ud83d\udd34 Argus (ARGUS) is dropping fast \u2014 down 100%, may be rugging."
-    },
-    {
-      "ts": 1790071916,
-      "type": "outcome",
-      "message": "\ud83d\udd34 HyperHood (HH) is dropping fast \u2014 down 100%, may be rugging."
-    },
-    {
-      "ts": 1790071915,
-      "type": "outcome",
-      "message": "\ud83d\udd34 The Owl Is Awake (OWL) is dropping fast \u2014 down 100%, may be rugging."
-    },
-    {
-      "ts": 1790071914,
-      "type": "outcome",
-      "message": "\ud83d\udd34 \u4e2d\u56fd\u4eba\u80fd\u98de\u706b\u7bad (\u4e2d\u56fd\u4eba\u80fd\u98de) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
-    },
-    {
-      "ts": 1790071913,
-      "type": "outcome",
-      "message": "\ud83d\udd34 \u4e2d\u56fd\u4eba\u80fd\u98de\u706b\u7bad (\u4e2d\u56fd\u4eba\u80fd\u98de) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
     }
   ]
 }

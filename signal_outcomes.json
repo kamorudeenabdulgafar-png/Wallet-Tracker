@@ -20327,7 +20327,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "FztLJ1p8SamxpzqgL3uVqyKphoAVHZA84ueWgfgNFKoY": {
@@ -23910,7 +23911,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "9xgGyS42E4aLZ2QsaYPEngA8UZxFwtYGST8Q7wi1qErJ": {
@@ -23925,7 +23927,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "C6TvCdpNp9nuP3wfzWBsRPsGwfhaEdT28Ava6ttjShZn": {
@@ -24524,7 +24527,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "CXyfU2MjxDWmAqFQQYdjDcGt8iDTjciJsvtyAkCzNwUw": {
     "name": "Donated",
@@ -24703,6 +24708,32 @@
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 100,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "A1JxtVrDDzr4k5xNMEpWtcSy8u8PjaTairkxh19pobGS": {
+    "name": "buy or die",
+    "symbol": "buy",
+    "flagged_ts": 1790075098,
+    "liquidity_at_flag": 24933.53311235719,
+    "breakdown": {
+      "MOMENTUM": 82,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "CU8ZHeE5bwJG7tS3Uo1UpKe79xpxMBdTJZrWFzKJikim": {
+    "name": "Karate Cat",
+    "symbol": "KCAT",
+    "flagged_ts": 1790075100,
+    "liquidity_at_flag": 33980.731395127,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
