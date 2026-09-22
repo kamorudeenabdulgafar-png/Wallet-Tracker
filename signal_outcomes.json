@@ -20412,7 +20412,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "C4Bwpk5QHcG4auPaVubzWjs3CmVFpofEL2GvDGB8pump": {
@@ -20428,7 +20429,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "7Q9hMzrVQMHD7qGBka9udetT7rDzvLh1N8xfjhgopump": {
@@ -20444,7 +20446,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "3JV8p4NxP5bQPupSt57rBMWP4SHaXeNwmxM7e1Sjpump": {
@@ -24027,7 +24030,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "GzjLDJkRS33ipjzcBbsobmeJVDgghrrLvk46JrdP56JG": {
@@ -24042,7 +24046,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "HR6LbsK4B8WVd7YBKBPuzAXpQqypabXWAbdWZUwwpump": {
@@ -24057,7 +24062,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "EiBNGjRZ52ps6y4AJij4ddc8HK2xEGfZpjYrqggADPLD": {
@@ -24671,7 +24677,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "HEySgLw42MDxfabirqnS6g56LjaNrwdoekwJmt1qnwYF": {
     "name": "Karate Cat",
@@ -24684,7 +24692,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "4VutHckvkFQvythThaiNv73EJdjY9dgphL6SmU4DjumR": {
     "name": "Jean Beam",
@@ -24697,7 +24707,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "BuFzmikk6d9Hzmwz3BPJTZx839s1svT8wy12DUxHxvbe": {
     "name": "Karate Cat",
@@ -24710,7 +24722,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "E2EdFy9stHAyA132U1MVnMJ83oCoLADvSyQetqvARPah": {
     "name": "Talking Memo",
@@ -24723,7 +24737,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "9Ghrf9nsp6xdt7RZ6RSU8Uoe4wtwPk87ngTzCzt6pump": {
     "name": "Tilcayo Aura",
@@ -24876,6 +24892,32 @@
     "breakdown": {
       "MOMENTUM": 82,
       "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "DFiQVgJK5dTzsdR3hbYE3S14gjL6fuqPvzkGPM5LMz1A": {
+    "name": "Cents",
+    "symbol": "CENTS",
+    "flagged_ts": 1790077552,
+    "liquidity_at_flag": 34029.10438466262,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "AzEP9c7Kz1wm3RE35pG8g6yyetQqmZu2PSjVoiFAJrtt": {
+    "name": "Cents",
+    "symbol": "CENTS",
+    "flagged_ts": 1790077555,
+    "liquidity_at_flag": 34603.61102206985,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 90,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
