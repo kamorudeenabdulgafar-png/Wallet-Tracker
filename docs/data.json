@@ -1,5 +1,5 @@
 {
-  "last_updated": 1790041974,
+  "last_updated": 1790042728,
   "wallets": [
     {
       "label": "Dev wallet 1",
@@ -66,7 +66,7 @@
         "suifhC9gU1VbJAPYPTBkHJyyyStKGLLYPVDTmPoqbvA",
         "USD1ttGY1N17NEEHLmELoaybftRBUSErhqYiQzvEmuB"
       ],
-      "last_active": 1790041498,
+      "last_active": 1790042718,
       "positions": {},
       "realized_pnl_usd": 0.0
     }
@@ -85,7 +85,7 @@
     "count": 2835,
     "up_count": 613,
     "total_change_pct": -155586.29928175083,
-    "rug": 772,
+    "rug": 775,
     "doing_well": 8,
     "steady": 6,
     "fading": 7
@@ -93,6 +93,56 @@
   "learning_insight": "Coins that rugged averaged MOMENTUM 96; coins that did well averaged MOMENTUM 73.",
   "settings": {},
   "recent_alerts": [
+    {
+      "ts": 1790042728,
+      "type": "outcome",
+      "message": "\ud83d\udd34 tradecat (tradecat) is dropping fast \u2014 down 100%, may be rugging."
+    },
+    {
+      "ts": 1790042727,
+      "type": "outcome",
+      "message": "\ud83d\udd34 Cult of Crypto ($) is dropping fast \u2014 down 86%, may be rugging."
+    },
+    {
+      "ts": 1790042726,
+      "type": "outcome",
+      "message": "\ud83d\udd34 XtraPad (XtraPad) is dropping fast \u2014 down 100%, may be rugging."
+    },
+    {
+      "ts": 1790042725,
+      "type": "outcome",
+      "message": "\ud83d\udd34 Avax Cat (ACAT) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
+    },
+    {
+      "ts": 1790042725,
+      "type": "outcome",
+      "message": "\ud83d\udd34 Argus (ARGUS) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
+    },
+    {
+      "ts": 1790042724,
+      "type": "outcome",
+      "message": "\ud83d\udd34 MOSS (MOSS) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
+    },
+    {
+      "ts": 1790042722,
+      "type": "scanner",
+      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\nSTONK (STONK)\nOpportunity: 76/100\n\nMOMENTUM     100\nSAFETY       60\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$53,991, 15 min since pool creation\n\u2022 Up +159% in the last hour, ~$127,007 in 24h volume (2.4x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 82% of supply (very concentrated)\n\nCA: 67Xwch2ZZ18RZLDkcwNLLU5pJ2PCap1ufqdBnk2eBweK\nhttps://dexscreener.com/solana/67Xwch2ZZ18RZLDkcwNLLU5pJ2PCap1ufqdBnk2eBweK\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
+    },
+    {
+      "ts": 1790042722,
+      "type": "scanner",
+      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\nLOOOOOOONG (LOOOOOOONG)\nOpportunity: 76/100\n\nMOMENTUM     100\nSAFETY       60\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$47,134, 13 min since pool creation\n\u2022 Up +360% in the last hour, ~$255,081 in 24h volume (5.4x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 92% of supply (very concentrated)\n\nCA: 8a2sNLCnptePVMAcnKdy9tsbRtoVJyecSPxFpfPFnJkZ\nhttps://dexscreener.com/solana/8a2sNLCnptePVMAcnKdy9tsbRtoVJyecSPxFpfPFnJkZ\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
+    },
+    {
+      "ts": 1790042721,
+      "type": "scanner",
+      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\nArgus (ARGUS)\nOpportunity: 76/100\n\nMOMENTUM     100\nSAFETY       60\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$40,412, 12 min since pool creation\n\u2022 Up +81% in the last hour, ~$91,272 in 24h volume (2.3x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 88% of supply (very concentrated)\n\nCA: AQ5sEridYFNGuFYx6hyWaoXdMKr5M4KFyW91THFomVVS\nhttps://dexscreener.com/solana/AQ5sEridYFNGuFYx6hyWaoXdMKr5M4KFyW91THFomVVS\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
+    },
+    {
+      "ts": 1790042719,
+      "type": "wallet",
+      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: ORE -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/4BUjmFoto6uBrMAtBWVxU72K6KGaWinfs75wdGMhdF6ZRZFVCxkWMVWoihY3NNMonhRGdtPcqLxPr17FiAwkkcrR"
+    },
     {
       "ts": 1790041974,
       "type": "outcome",
@@ -292,56 +342,6 @@
       "ts": 1790037802,
       "type": "outcome",
       "message": "\ud83d\udd34 sadog (SADOG) is dropping fast \u2014 down 86%, may be rugging."
-    },
-    {
-      "ts": 1790037801,
-      "type": "outcome",
-      "message": "\ud83d\udfe1 Tiktok Coin (TIKTOK) is holding steady so far (+15%)."
-    },
-    {
-      "ts": 1790037800,
-      "type": "outcome",
-      "message": "\ud83d\udd34 Fuck You Higher (Higher) is dropping fast \u2014 down 100%, may be rugging."
-    },
-    {
-      "ts": 1790037799,
-      "type": "outcome",
-      "message": "\ud83d\udd34 Fuck You Higher (Higher) is dropping fast \u2014 down 100%, may be rugging."
-    },
-    {
-      "ts": 1790037798,
-      "type": "outcome",
-      "message": "\ud83d\udd34 Invisible, Nameless, Untraceable (INU) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
-    },
-    {
-      "ts": 1790037797,
-      "type": "outcome",
-      "message": "\ud83d\udd34 Paid (PAID) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
-    },
-    {
-      "ts": 1790037796,
-      "type": "outcome",
-      "message": "\ud83d\udd34 TERMINATOR (TERMINATOR) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
-    },
-    {
-      "ts": 1790037795,
-      "type": "scanner",
-      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 EXCEPTIONAL\nJean Phil Paid (JEANPAID)\nOpportunity: 90/100\n\nMOMENTUM     100\nSAFETY       100\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$37,584, 16 min since pool creation\n\u2022 Up +103% in the last hour, ~$584,039 in 24h volume (15.5x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Low, 0/100):\n\u2022 No major red flags found\n\nCA: HLBz6WNdBJ2cWo81HFU898ddc5sZsvYZiSxRQXTtpump\nhttps://dexscreener.com/solana/HLBz6WNdBJ2cWo81HFU898ddc5sZsvYZiSxRQXTtpump\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
-    },
-    {
-      "ts": 1790036874,
-      "type": "outcome",
-      "message": "\ud83d\udd34 musebook (musebook) is dropping fast \u2014 down 100%, may be rugging."
-    },
-    {
-      "ts": 1790036873,
-      "type": "outcome",
-      "message": "\ud83d\udd34 cryptGO (GO) is dropping fast \u2014 down 100%, may be rugging."
-    },
-    {
-      "ts": 1790036872,
-      "type": "outcome",
-      "message": "\ud83d\udd34 Ea-Nasir (NASIR) is dropping fast \u2014 down 100%, may be rugging."
     }
   ]
 }
