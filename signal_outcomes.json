@@ -21585,7 +21585,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "2QPKsevBW7afQMSEpTHSiRwFQd1VDBjVyWgAEJpp9crf": {
@@ -21601,7 +21602,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "5aF6oY2vTkEaG7ravuvZjeeHAe25Bb8VQG5cdG3WXzd5": {
@@ -21617,7 +21619,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "69aouU2vETgerzK77DShtCyngNoJW97hMjbXV5UCDoee": {
@@ -25440,7 +25443,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "HNv8TBTDd7ev6DxehvMup5MKKrrnWTC7uoqZqgqdws2B": {
@@ -25891,6 +25895,19 @@
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 100,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "6L7BJned7agCjjzaqum3pTc4XhWQN4YWVpy7fnMULWef": {
+    "name": "Comet Garage",
+    "symbol": "CGRG",
+    "flagged_ts": 1790098531,
+    "liquidity_at_flag": 26984.828044274233,
+    "breakdown": {
+      "MOMENTUM": 90,
+      "SAFETY": 60,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
