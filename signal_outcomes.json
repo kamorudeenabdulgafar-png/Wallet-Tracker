@@ -20803,7 +20803,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "HqR22T1LvbgCL1ZdRJesFER1ukfR8eg9dewDG3QQVMK1": {
@@ -20819,7 +20820,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "6fesULSbSEF9ixG7HQ4c9wCGSfAKMoKb2LHcpxoSmyQh": {
@@ -24514,7 +24516,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "EKF3i4p6z4tvFWcZzNCTRTAmop693vyGvkEi7uSsHAzS": {
@@ -24529,7 +24532,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "6swUeMKbJN96A4arcHvByt6MbPgCFqiGGfL4vVLGsQQL": {
@@ -25098,7 +25102,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "DCtHgGtfQXGRYUK27RNcCyDAhn3kd3HhDGefS1Cz7d2P": {
     "name": "Karate Cat",
@@ -25111,7 +25117,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "49eVXbTQ9gi28HpGPFU9ttQZUyhYTqSiH3zrusi2pump": {
     "name": "DEEPSOLANA",
@@ -25124,7 +25132,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "FM4o4YY3KnPTYVoipQmqep4bSBdbz3aiCQ8qyjoKQnQv": {
     "name": "Haha yes",
@@ -25137,7 +25147,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "FYwow2ZTvmHSCeoSXXKcyrpdU7XhZEaML3dC476iyCR6": {
     "name": "Pok\u00e9mon",
@@ -25150,7 +25162,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "3CW4m1z1W6bbkocsyBTFyRAuw4YadAPCE4B5UKazobVZ": {
     "name": "Digital Gold",
@@ -25163,7 +25177,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "oV7Kzmt3aaNC66z48Cqo6gm7MpVahNGFMEem1N67g6i": {
     "name": "Mercado Libre",
@@ -25176,7 +25192,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "Aj14CbQBZDfufFMVqjcfBMU3jy6K7hjAGAQXfy3ELuHu": {
     "name": "RUNUP",
@@ -25300,6 +25318,32 @@
     "symbol": "SkyRelay",
     "flagged_ts": 1790083816,
     "liquidity_at_flag": 44573.41826681455,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "HNv8TBTDd7ev6DxehvMup5MKKrrnWTC7uoqZqgqdws2B": {
+    "name": "0 Club by Virtuals",
+    "symbol": "CLUB",
+    "flagged_ts": 1790084623,
+    "liquidity_at_flag": 31270.355633104904,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "3ezXZa2tqCxq23pz4n3gymkSzhgJbqwFgpPRPywcjKzf": {
+    "name": "Cents",
+    "symbol": "CENTS",
+    "flagged_ts": 1790084624,
+    "liquidity_at_flag": 33065.103757685734,
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 60,

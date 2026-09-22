@@ -1,18 +1,5 @@
 [
   {
-    "name": "Goatcoin",
-    "symbol": "GOAT",
-    "category": "rug",
-    "change_pct": -100.0,
-    "breakdown": {
-      "MOMENTUM": 100,
-      "SAFETY": 60,
-      "LIQUIDITY": 100,
-      "SMART MONEY": 0
-    },
-    "ts": 1789987010
-  },
-  {
     "name": "I Nuke U",
     "symbol": "INU",
     "category": "fading",
@@ -3898,5 +3885,18 @@
       "SMART MONEY": 0
     },
     "ts": 1790083841
+  },
+  {
+    "name": "Claude Ai",
+    "symbol": "claude",
+    "category": "rug",
+    "change_pct": -100.0,
+    "breakdown": {
+      "MOMENTUM": 85,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "ts": 1790084636
   }
 ]

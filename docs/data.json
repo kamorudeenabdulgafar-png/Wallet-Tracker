@@ -1,5 +1,5 @@
 {
-  "last_updated": 1790083858,
+  "last_updated": 1790084669,
   "wallets": [
     {
       "label": "Dev wallet 1",
@@ -10,7 +10,7 @@
     "5CEbueQnq1Ym2uSSx2xXds3jQAqT1BDnkA59RZobSPAG": {
       "label": "Dev wallet 1",
       "buy_count": 291,
-      "sell_count": 176,
+      "sell_count": 177,
       "total_buy_usd": 15565.105837267645,
       "total_sell_usd": 0.0,
       "tokens_traded": [
@@ -67,7 +67,7 @@
         "USD1ttGY1N17NEEHLmELoaybftRBUSErhqYiQzvEmuB",
         "cbbtcf3aa214zXHbiAZQwf4122FBYbraNdFqgw4iMij"
       ],
-      "last_active": 1790079960,
+      "last_active": 1790084616,
       "positions": {},
       "realized_pnl_usd": 0.0
     }
@@ -86,7 +86,7 @@
     "count": 2835,
     "up_count": 613,
     "total_change_pct": -155586.29928175083,
-    "rug": 874,
+    "rug": 875,
     "doing_well": 9,
     "steady": 6,
     "fading": 9
@@ -94,6 +94,76 @@
   "learning_insight": "Coins that rugged averaged MOMENTUM 97; coins that did well averaged MOMENTUM 65.",
   "settings": {},
   "recent_alerts": [
+    {
+      "ts": 1790084669,
+      "type": "outcome",
+      "message": "\ud83d\udfe1 Mercado Libre (MELI) is holding steady so far (+20%)."
+    },
+    {
+      "ts": 1790084668,
+      "type": "outcome",
+      "message": "\ud83d\udd34 Digital Gold (GOLD) is dropping fast \u2014 down 100%, may be rugging."
+    },
+    {
+      "ts": 1790084667,
+      "type": "outcome",
+      "message": "\ud83d\udd34 Pok\u00e9mon (Charizard) is dropping fast \u2014 down 100%, may be rugging."
+    },
+    {
+      "ts": 1790084666,
+      "type": "outcome",
+      "message": "\ud83d\udd34 Haha yes (Haha) is dropping fast \u2014 down 100%, may be rugging."
+    },
+    {
+      "ts": 1790084664,
+      "type": "outcome",
+      "message": "\ud83d\udd34 DEEPSOLANA (DEEPSOLANA) is dropping fast \u2014 down 90%, may be rugging."
+    },
+    {
+      "ts": 1790084662,
+      "type": "outcome",
+      "message": "\ud83d\udfe2 Karate Cat (KCAT) is still doing really good \u2014 up 50% so far!"
+    },
+    {
+      "ts": 1790084655,
+      "type": "outcome",
+      "message": "\ud83d\udd34 Wojak NPC (NPC) is dropping fast \u2014 down 95%, may be rugging."
+    },
+    {
+      "ts": 1790084649,
+      "type": "outcome",
+      "message": "\ud83d\udd34 Argus (ARGUS) is dropping fast \u2014 down 100%, may be rugging."
+    },
+    {
+      "ts": 1790084642,
+      "type": "outcome",
+      "message": "\ud83d\udd34 Know Your Cat (KYC) is dropping fast \u2014 down 100%, may be rugging."
+    },
+    {
+      "ts": 1790084636,
+      "type": "outcome",
+      "message": "\ud83d\udd34 Claude Ai (claude) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
+    },
+    {
+      "ts": 1790084624,
+      "type": "scanner",
+      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\nCents (CENTS)\nOpportunity: 76/100\n\nMOMENTUM     100\nSAFETY       60\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$33,065, 8 min since pool creation\n\u2022 Up +110% in the last hour, ~$51,093 in 24h volume (1.5x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 77% of supply (very concentrated)\n\nCA: 3ezXZa2tqCxq23pz4n3gymkSzhgJbqwFgpPRPywcjKzf\nhttps://dexscreener.com/solana/3ezXZa2tqCxq23pz4n3gymkSzhgJbqwFgpPRPywcjKzf\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
+    },
+    {
+      "ts": 1790084623,
+      "type": "scanner",
+      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\n0 Club by Virtuals (CLUB)\nOpportunity: 76/100\n\nMOMENTUM     100\nSAFETY       60\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$31,270, 5 min since pool creation\n\u2022 Up +73% in the last hour, ~$92,526 in 24h volume (3.0x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 73% of supply (very concentrated)\n\nCA: HNv8TBTDd7ev6DxehvMup5MKKrrnWTC7uoqZqgqdws2B\nhttps://dexscreener.com/solana/HNv8TBTDd7ev6DxehvMup5MKKrrnWTC7uoqZqgqdws2B\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
+    },
+    {
+      "ts": 1790084617,
+      "type": "wallet",
+      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: USDT -> USDC\nTrade size: unknown\nBought token: USD Coin (USDC)\nCA: EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v\nhttps://solscan.io/tx/toqHJgyPDgn3e2mw9kb9w7grKbMsB9tBaGsYDAq7uuKBWPwuqvJSZusHG2Cpsqc8nuGZReFSHSwGQyZ3ajuALrS"
+    },
+    {
+      "ts": 1790084616,
+      "type": "wallet",
+      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: MSTRx -> USDC\nTrade size: unknown\nBought token: USD Coin (USDC)\nCA: EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v\nhttps://solscan.io/tx/2hc45rHmyEuFWHQo4EBweyu1igmDvrQ1UX7Lg34u6Rhy4pCp7AE7AY2YXz8tggunBKhUyRHYJtEC4cvwFYXG59J1"
+    },
     {
       "ts": 1790083858,
       "type": "outcome",
@@ -273,76 +343,6 @@
       "ts": 1790081855,
       "type": "scanner",
       "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\nChatGPT (ChatGPT)\nOpportunity: 71/100\n\nMOMENTUM     46\nSAFETY       100\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$72,067, 16 min since pool creation\n\u2022 Up +31% in the last hour, ~$97,483 in 24h volume (1.4x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Low, 0/100):\n\u2022 No major red flags found\n\nCA: jyurFsb717v6kNJZLk9LRbHdN1y5ddHTyXP3yrZpump\nhttps://dexscreener.com/solana/jyurFsb717v6kNJZLk9LRbHdN1y5ddHTyXP3yrZpump\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
-    },
-    {
-      "ts": 1790081855,
-      "type": "scanner",
-      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 EXCEPTIONAL\nJevMargin Agents (JEVMFI)\nOpportunity: 90/100\n\nMOMENTUM     100\nSAFETY       100\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$47,887, 14 min since pool creation\n\u2022 Up +160% in the last hour, ~$169,998 in 24h volume (3.5x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Low, 0/100):\n\u2022 No major red flags found\n\nCA: FN1Qq2yxUoBbDHXtNtP2FL73vBZfCMGQtp5ffi5y6Y2X\nhttps://dexscreener.com/solana/FN1Qq2yxUoBbDHXtNtP2FL73vBZfCMGQtp5ffi5y6Y2X\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
-    },
-    {
-      "ts": 1790081854,
-      "type": "scanner",
-      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\nI identify as rich (Transfina)\nOpportunity: 76/100\n\nMOMENTUM     100\nSAFETY       60\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$43,870, 9 min since pool creation\n\u2022 Up +158% in the last hour, ~$267,744 in 24h volume (6.1x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 92% of supply (very concentrated)\n\nCA: FVUhyeSMa3gs2vpELHtb4WqDRSNExzGNp9MonJZrYmAq\nhttps://dexscreener.com/solana/FVUhyeSMa3gs2vpELHtb4WqDRSNExzGNp9MonJZrYmAq\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
-    },
-    {
-      "ts": 1790081853,
-      "type": "scanner",
-      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\nRUNUP (RUNUP)\nOpportunity: 76/100\n\nMOMENTUM     100\nSAFETY       60\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$69,000, 8 min since pool creation\n\u2022 Up +77% in the last hour, ~$1,537,167 in 24h volume (22.3x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 99% of supply (very concentrated)\n\nCA: Aj14CbQBZDfufFMVqjcfBMU3jy6K7hjAGAQXfy3ELuHu\nhttps://dexscreener.com/solana/Aj14CbQBZDfufFMVqjcfBMU3jy6K7hjAGAQXfy3ELuHu\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
-    },
-    {
-      "ts": 1790080932,
-      "type": "outcome",
-      "message": "\ud83d\udd34 just a circle (CRCL) is dropping fast \u2014 down 100%, may be rugging."
-    },
-    {
-      "ts": 1790080932,
-      "type": "outcome",
-      "message": "\ud83d\udd34 \u4e2d\u56fd\u4eba\u80fd\u98de\u706b\u7bad (\u4e2d\u56fd\u4eba\u80fd\u98de) is dropping fast \u2014 down 100%, may be rugging."
-    },
-    {
-      "ts": 1790080931,
-      "type": "outcome",
-      "message": "\ud83d\udd34 Cards Arena (PULL) is dropping fast \u2014 down 61%, may be rugging."
-    },
-    {
-      "ts": 1790080930,
-      "type": "outcome",
-      "message": "\ud83d\udd34 Billie Jean (BILLIEJEAN) is dropping fast \u2014 down 78%, may be rugging."
-    },
-    {
-      "ts": 1790080929,
-      "type": "outcome",
-      "message": "\ud83d\udd34 Agent Wormhole (WORM) is dropping fast \u2014 down 100%, may be rugging."
-    },
-    {
-      "ts": 1790080928,
-      "type": "outcome",
-      "message": "\ud83d\udd34 the black robin (karure) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
-    },
-    {
-      "ts": 1790080927,
-      "type": "outcome",
-      "message": "\ud83d\udd34 Anthropic (Anthropic) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
-    },
-    {
-      "ts": 1790080926,
-      "type": "outcome",
-      "message": "\ud83d\udd34 Jean Phil (JEANPHIL) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
-    },
-    {
-      "ts": 1790080926,
-      "type": "scanner",
-      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\nMercado Libre (MELI)\nOpportunity: 76/100\n\nMOMENTUM     100\nSAFETY       60\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$341,587, 27 min since pool creation\n\u2022 Up +86% in the last hour, ~$2,461,674 in 24h volume (7.2x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 97% of supply (very concentrated)\n\nCA: oV7Kzmt3aaNC66z48Cqo6gm7MpVahNGFMEem1N67g6i\nhttps://dexscreener.com/solana/oV7Kzmt3aaNC66z48Cqo6gm7MpVahNGFMEem1N67g6i\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
-    },
-    {
-      "ts": 1790080924,
-      "type": "scanner",
-      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\nDigital Gold (GOLD)\nOpportunity: 76/100\n\nMOMENTUM     100\nSAFETY       60\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$72,631, 26 min since pool creation\n\u2022 Up +206% in the last hour, ~$7,029,045 in 24h volume (96.8x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 96% of supply (very concentrated)\n\nCA: 3CW4m1z1W6bbkocsyBTFyRAuw4YadAPCE4B5UKazobVZ\nhttps://dexscreener.com/solana/3CW4m1z1W6bbkocsyBTFyRAuw4YadAPCE4B5UKazobVZ\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
-    },
-    {
-      "ts": 1790080923,
-      "type": "scanner",
-      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\nPok\u00e9mon (Charizard)\nOpportunity: 76/100\n\nMOMENTUM     100\nSAFETY       60\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$57,122, 25 min since pool creation\n\u2022 Up +78% in the last hour, ~$72,957 in 24h volume (1.3x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 79% of supply (very concentrated)\n\nCA: FYwow2ZTvmHSCeoSXXKcyrpdU7XhZEaML3dC476iyCR6\nhttps://dexscreener.com/solana/FYwow2ZTvmHSCeoSXXKcyrpdU7XhZEaML3dC476iyCR6\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
     }
   ]
 }
