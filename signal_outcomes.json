@@ -20854,7 +20854,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "C94cp6NTSjCfVskqZw3ULpVKPFuDgnZqAguKLXuCbAwp": {
@@ -20870,7 +20871,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "Fs2mtLj3r1JZBBELq5jxX8DEjj29fbYpWTUk6cJ3wZ6e": {
@@ -20886,7 +20888,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "DAnh5qeKMYJZeEYa67HnVx4Tgeq3BqJMRXoZ5pnvLumA": {
@@ -20902,7 +20905,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "FmgCeVHMygCroZGP1T4scqrM9oSHQmfRkeQjkbtheiPH": {
@@ -24597,7 +24601,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "CXyfU2MjxDWmAqFQQYdjDcGt8iDTjciJsvtyAkCzNwUw": {
@@ -25211,7 +25216,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "FVUhyeSMa3gs2vpELHtb4WqDRSNExzGNp9MonJZrYmAq": {
     "name": "I identify as rich",
@@ -25224,7 +25231,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "FN1Qq2yxUoBbDHXtNtP2FL73vBZfCMGQtp5ffi5y6Y2X": {
     "name": "JevMargin Agents",
@@ -25237,7 +25246,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "jyurFsb717v6kNJZLk9LRbHdN1y5ddHTyXP3yrZpump": {
     "name": "ChatGPT",
@@ -25250,7 +25261,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "7s4CT6e9TTCv3kNTobr4sXveBJaPgbKJEhYUZPtaDku2": {
     "name": "amazon",
@@ -25263,7 +25276,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "2NGojV2jbDaeoKMC2FYKeNshdh2vPtwNRVCkRJ9aiQFy": {
     "name": "RUNUP",
@@ -25403,6 +25418,58 @@
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "DVoLPX3s7HkgoKGWr1fYfY4MW5oFKEdCGJmqxF6t59Xo": {
+    "name": "Pump Avatar",
+    "symbol": "avatar",
+    "flagged_ts": 1790085928,
+    "liquidity_at_flag": 33817.38177401104,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "BAKCf4B7zyhftgya9xZi45PHRfPg86dsR3AhWp7VqVsw": {
+    "name": "AIRCAT",
+    "symbol": "AIRCAT",
+    "flagged_ts": 1790085928,
+    "liquidity_at_flag": 34049.27291699842,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "bRt3yf5Wee9Ro4A32SFyyNUEuutpfy22g6i74HPnrt6": {
+    "name": "AIRCAT",
+    "symbol": "AIRCAT",
+    "flagged_ts": 1790085929,
+    "liquidity_at_flag": 38316.102104887716,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "2vdBpwykNqd2GdrHP4PHUe7j6xXqSwNjxFc2fTgamrG3": {
+    "name": "Buttfuckcoin",
+    "symbol": "BUTTFUCK",
+    "flagged_ts": 1790085930,
+    "liquidity_at_flag": 66759.2548307156,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 90,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
