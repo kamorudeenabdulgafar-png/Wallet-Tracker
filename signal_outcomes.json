@@ -22605,7 +22605,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "8RxomBLg5qza83XA8zuUrQnhTZ3LRDzGqknwu8UDCrkX": {
@@ -22621,7 +22622,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "DqSpieUuFtJqKDuUiLYvBLVR2B8UYErSd2FhtknKpump": {
@@ -26364,7 +26366,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "6JWsGJYWSQ1BsHdMq2YLMDq2B96sm3JQdJom6pkGKh22": {
@@ -26693,7 +26696,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "Bc6MChJmsQYd3qayLbbeFG9u2umNVEo9Q776BJyjWMo6": {
     "name": "Pay Uber Driver",
@@ -26706,7 +26711,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "E2PkhpDd9eMbDyxr2Gdwm34Nr4ZVUtguHZzeSEcu9fDr": {
     "name": "AntFun",
@@ -26719,7 +26726,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "4wLpoGkDaS117rBdp6Accqm6uc3QuFicn1Z6Ld9YieQG": {
     "name": "Super Inu",
@@ -26820,6 +26829,32 @@
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 100,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "2z37Vk5RKzHPJpUbjSWdH1Zzsd1uFAZ5f7jPMHKRdx5K": {
+    "name": "Super Retarded Inu",
+    "symbol": "SRI",
+    "flagged_ts": 1790120780,
+    "liquidity_at_flag": 33730.6070788951,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "EU5h2TGPBniyZrQojZ8dRQUXn958zF9mWmQxaxyRixdy": {
+    "name": "Super Retarded Inu",
+    "symbol": "SRI",
+    "flagged_ts": 1790120781,
+    "liquidity_at_flag": 35462.547579786355,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 90,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
