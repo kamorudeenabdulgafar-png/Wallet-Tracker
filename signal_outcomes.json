@@ -22588,7 +22588,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "2kFVVpScFtPixZ8zrS6iF3ZiTCj9aKkzA1jRN2GeWDqR": {
@@ -26331,7 +26332,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "AhfpfEFkvdsN5NweFPyNCTmXzowQVHxyPHo11nSAjXSZ": {
@@ -26645,7 +26647,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "ApQxRdwTq6tTi2t7WgRfi9Joz6BAmdEhMb4gJ5rpump": {
     "name": "Pay Uber Driver",
@@ -26772,6 +26776,19 @@
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "9T78Uviyd6nLyEoDt6JWW9JbRaBohP5ibbwF7Sx2pump": {
+    "name": "SOLPEPE",
+    "symbol": "SOLPEPE",
+    "flagged_ts": 1790119724,
+    "liquidity_at_flag": 27722.989926112594,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 100,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
