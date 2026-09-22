@@ -22078,7 +22078,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "BnLaUm62FJuAzHHr3zsPrFNxoMLqUCsSvaJb7cALYvdA": {
@@ -22094,7 +22095,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "ECHocederiwNf36A2ASo96A3BgTXSZVCuv9VsheWkvqt": {
@@ -22110,7 +22112,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "AnWyLNg9exLfZ5MRJt43EhsSPXSguNSpLPdfhurSZ75h": {
@@ -22126,7 +22129,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "6Z12HSsuBk45HRaKU5x6DCd3ogWVf6tbGTu3WSDWpump": {
@@ -25837,7 +25841,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "51R8zB5zPiy4VHC5t83dEpCs2pQExktyC5MHJftChvRP": {
@@ -25852,7 +25857,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "5fFVVvhSXMAeDWytT1ayVdbxxM15C1Q7QmojDzqDNj77": {
@@ -25867,7 +25873,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "GJ6RSjJkWEo36UXtKp9zD6hq8oxbPaTx2RuubEbupump": {
@@ -26271,7 +26278,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "AhfpfEFkvdsN5NweFPyNCTmXzowQVHxyPHo11nSAjXSZ": {
     "name": "Aeon",
@@ -26343,6 +26352,19 @@
     "symbol": "POKEMON",
     "flagged_ts": 1790107501,
     "liquidity_at_flag": 340365.26916218555,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "2mV4aL2QFYyWPDj7Tv8iJL7XA3NAdN7GNFNQe5zv1zGH": {
+    "name": "The Disney Gorilla",
+    "symbol": "BAKARI",
+    "flagged_ts": 1790108361,
+    "liquidity_at_flag": 27390.645482786138,
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 60,
