@@ -22197,7 +22197,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "H1SuhAFnAne9dzFrAQPmY7K7t68s5KaB1i1tVQ8hYTJS": {
@@ -22213,7 +22214,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "8H2n523qpSiD2ift11aygCDZ4ZzYyhKX5Qms7zQ2jC3c": {
@@ -22229,7 +22231,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "yvCPyWixSyTNoxAMQWTeybjToSvXoWmbDMF49zDpump": {
@@ -22245,7 +22248,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "4Qrhe4LxKjb3ezAcJnAZtGgxLr7dDXzymNtMBqsRLwcM": {
@@ -26311,7 +26315,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "6JWsGJYWSQ1BsHdMq2YLMDq2B96sm3JQdJom6pkGKh22": {
     "name": "Ape Cat",
@@ -26386,6 +26392,32 @@
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "eNEeCdCUGGvXfaSpGNaG2fA6rL7GeMSyzUjT4XVpump": {
+    "name": "E-Commerce Trust Fund",
+    "symbol": "ECTF",
+    "flagged_ts": 1790109974,
+    "liquidity_at_flag": 41152.43848485283,
+    "breakdown": {
+      "MOMENTUM": 48,
+      "SAFETY": 100,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "3rCRwgfxcyn3tpEdAyZHAzLVZsPgm9o83AyK5WW9pump": {
+    "name": "GoPumpMe",
+    "symbol": "GoPump",
+    "flagged_ts": 1790109975,
+    "liquidity_at_flag": 20539.471951019575,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 90,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
