@@ -23030,7 +23030,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "2FmYrTSXfak8js9ipoTa3ukH63TmevG19LY2XKCqVSaE": {
@@ -23046,7 +23047,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "6d7ZuVYKVT7kLi7LzXtT5HJRShYTztm8icenXcbHv64M": {
@@ -26693,7 +26695,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "ApQxRdwTq6tTi2t7WgRfi9Joz6BAmdEhMb4gJ5rpump": {
@@ -27187,7 +27190,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "9Dvdu6rxNEqWWZaTTWgonHF7yFeUZGQWrvydk8JCWYB3": {
     "name": "TikTok Official Token",
@@ -27327,6 +27332,58 @@
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 100,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "479oPFizvo2hati4ZbN8vbBr43tjHB2QkbKqLhkd6bNX": {
+    "name": "Argus",
+    "symbol": "ARGUS",
+    "flagged_ts": 1790130062,
+    "liquidity_at_flag": 36434.71588561721,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "A5ZiQNqMPuNY2VvmwpbYJ9m4vpsbTnAqKSgvuCKFpump": {
+    "name": "Unijak",
+    "symbol": "UNIJAK",
+    "flagged_ts": 1790130063,
+    "liquidity_at_flag": 39349.39367465483,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 100,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "EoVc13TiwcPb42dTwxjHAcSSxDyTKuoe4EoK9T2VCEzJ": {
+    "name": "Agent Wormhole",
+    "symbol": "WORM",
+    "flagged_ts": 1790130064,
+    "liquidity_at_flag": 39029.814050605215,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "AaMAjVuLGtQzyS8uxXsbLjS6f6ppZ8YBXrMtAydJ6Y5H": {
+    "name": "based",
+    "symbol": "based",
+    "flagged_ts": 1790130065,
+    "liquidity_at_flag": 29309.86013497613,
+    "breakdown": {
+      "MOMENTUM": 88,
+      "SAFETY": 60,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
