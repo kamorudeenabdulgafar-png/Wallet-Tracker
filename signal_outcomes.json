@@ -26566,7 +26566,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "AhfpfEFkvdsN5NweFPyNCTmXzowQVHxyPHo11nSAjXSZ": {
@@ -30357,7 +30358,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "GReSjsbT6BYWKAbcyQEiToqsJJ8aMnWF5JwaA9dvFHua": {
@@ -30372,7 +30374,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "36jfeokWwR7VDT9eH29sPLgRV9Vjrq4VW5kmzWQ4ZX7v": {
@@ -30387,7 +30390,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "GzhS4vivcf3QicqDmRyqG4Vswuh5cmZ8u1kFRS4RUZHy": {
@@ -30851,7 +30855,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "6cxAA8HBYN1vsBYck46tGkEGVyg5ZvshU8PSHW2H48kA": {
     "name": "Max Leveraged",
@@ -30864,7 +30870,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "7xm3vqykDZVuYqiC2HcTf3VerfmhAieCPZmeJX8qpump": {
     "name": "BATARD",
@@ -30936,6 +30944,45 @@
     "symbol": "art",
     "flagged_ts": 1790190277,
     "liquidity_at_flag": 35349.627157680836,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 75,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "6j9vzjsuitqMg7o1b66AHTCDFj62pfZAWZpbMLX1daiY": {
+    "name": "Jean Phil",
+    "symbol": "JEANPHIL",
+    "flagged_ts": 1790191164,
+    "liquidity_at_flag": 49719.93662995116,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "6bt4RkPnDYDD3C8CdsGKMP4PZWzVed7yBq4jkXcipump": {
+    "name": "HYPERCAT",
+    "symbol": "HYPERCAT",
+    "flagged_ts": 1790191165,
+    "liquidity_at_flag": 19395.549791215322,
+    "breakdown": {
+      "MOMENTUM": 71,
+      "SAFETY": 75,
+      "LIQUIDITY": 97,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "B13BgNYJjj5sLmUdu24cn97eZLqzrfuCEYGbtFRXpEiz": {
+    "name": "ZecCat",
+    "symbol": "ZecCat",
+    "flagged_ts": 1790191166,
+    "liquidity_at_flag": 120435.241488575,
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 75,
