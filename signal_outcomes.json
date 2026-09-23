@@ -26243,7 +26243,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "E7oxZyvMkmUYQ14kCLbkR3ishavbSm4up9HGhf9LjGNy": {
@@ -30726,6 +30727,45 @@
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "5sGCyVHr4w4AwxTjATxXjpyDdXgp8aNKFcuaUukX6zvj": {
+    "name": "Pivot",
+    "symbol": "PIVOT",
+    "flagged_ts": 1790185536,
+    "liquidity_at_flag": 32926.80169401382,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "8WP2QJ2rz9BPBKtP155nWUDkThiPu5xxbvTxtXH2pump": {
+    "name": "The Muse Bull",
+    "symbol": "MUSESEM",
+    "flagged_ts": 1790185537,
+    "liquidity_at_flag": 28864.237899234664,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 100,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "9cNFxUmBVciKfd2fqAGvT8JLXH2YvWtvNQa6tN7Ypump": {
+    "name": "Solana Inu",
+    "symbol": "SI",
+    "flagged_ts": 1790185538,
+    "liquidity_at_flag": 28125.425141573953,
+    "breakdown": {
+      "MOMENTUM": 42,
+      "SAFETY": 100,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },

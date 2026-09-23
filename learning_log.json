@@ -1,18 +1,5 @@
 [
   {
-    "name": "Baby Jean Phil",
-    "symbol": "BABYJEAN",
-    "category": "rug",
-    "change_pct": -95.3,
-    "breakdown": {
-      "MOMENTUM": 100,
-      "SAFETY": 100,
-      "LIQUIDITY": 100,
-      "SMART MONEY": 0
-    },
-    "ts": 1790065343
-  },
-  {
     "name": "Lean",
     "symbol": "LEAN",
     "category": "rug",
@@ -3898,5 +3885,18 @@
       "SMART MONEY": 0
     },
     "ts": 1790184975
+  },
+  {
+    "name": "Claude Ai",
+    "symbol": "claude",
+    "category": "rug",
+    "change_pct": -100.0,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "ts": 1790185540
   }
 ]
