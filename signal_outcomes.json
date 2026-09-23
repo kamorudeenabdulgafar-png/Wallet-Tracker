@@ -26416,7 +26416,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "7t34JCMJNiMzZwKXy6ZZy4bih6Fjxqs8dokxUm7qNsxM": {
@@ -26431,7 +26432,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "2mV4aL2QFYyWPDj7Tv8iJL7XA3NAdN7GNFNQe5zv1zGH": {
@@ -26760,7 +26762,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "FskbpzbvmRbm8YPQVYEt63h19ivhbYV1GJTVhVrRYGzo": {
     "name": "Chachamaru",
@@ -26910,6 +26914,45 @@
     "symbol": "BillSmith",
     "flagged_ts": 1790121238,
     "liquidity_at_flag": 35832.622779031815,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "DpBxN1aQiwVJ15nT4VvtDbKrPfcxdrvgfrMZSx5pP3aU": {
+    "name": "Slightly Used Toyota",
+    "symbol": "TOYOTA",
+    "flagged_ts": 1790122015,
+    "liquidity_at_flag": 30045.971909705353,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "6oueuXdFcdvJgFi9r62mFbba6p1r5nbqfhFcbcZzSwWh": {
+    "name": "Groyper",
+    "symbol": "Groyper",
+    "flagged_ts": 1790122016,
+    "liquidity_at_flag": 27735.985978689194,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "FP58xzAdE4NkLEpepxHCJmuWB3RFWmPscj9tDMHpDxAj": {
+    "name": "\u6dd8\u6dd8",
+    "symbol": "\u6dd8\u6dd8",
+    "flagged_ts": 1790122017,
+    "liquidity_at_flag": 40478.135050849465,
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 60,
