@@ -26617,7 +26617,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "BtY4q8QqBzmrhpoGxkQuPVchC3LtUEn4axvJFJe9jQ3Y": {
@@ -26633,7 +26634,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "735oDprAe1XRH8RgzxRotE3MVrR59VG9sAKiCApaTbMY": {
@@ -30488,7 +30490,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "5fHuUXJ86DrUQHvZ1QtxJiG6HLMqXsSQQ94SRWUqwvrv": {
@@ -30503,7 +30506,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "J9kM81ULNmFiGL5tdVNBBrFYFom2RNAt8dGs49uHHhgL": {
@@ -30518,7 +30522,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "c4AtfqMRbC9FuHtVEHDhCm453tytU9E34MXXrp6bLuf": {
@@ -30922,7 +30927,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "5E5sZkGbin3bWSUx7jeF3fu29axA7RmrPtH3BTMV75KN": {
     "name": "zpad.dev",
@@ -30935,7 +30942,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "85L3quu4xFDQ5UEqNY2EtrwoVvvXJsC1Qvxz54hNhmiP": {
     "name": "$art \u00b7 Paired with",
@@ -31062,6 +31071,19 @@
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 100,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "APd55sf29YEaa42dhfcRh6KWjK45Xcgkcr2c6fGnE9Lv": {
+    "name": "chatwithjev",
+    "symbol": "jev",
+    "flagged_ts": 1790193258,
+    "liquidity_at_flag": 28744.50202757288,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
