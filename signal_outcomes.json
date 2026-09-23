@@ -23319,7 +23319,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "6wmR5QJRetHqAkatM55ZzdzayWLAe2hEXqnP2URyySez": {
@@ -23335,7 +23336,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "6LPCgycY8Br7y2GL2KSmHd8xhtJbKuj6NHEmTfhswmkt": {
@@ -23351,7 +23353,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "5qS9pfpYvRFTVDStAMND3TrKsrVuvFcYTzfMSb1CVxvS": {
@@ -26838,7 +26841,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "4uBE6XzmS7qyCm6YKbqzjyFimELo81AQvRaok3fQEYGm": {
@@ -26853,7 +26857,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "CzHjqWbXRR4CGMYRD6dJnVTjCDzQhZFCzaeAvmmFT6FH": {
@@ -26868,7 +26873,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "9T78Uviyd6nLyEoDt6JWW9JbRaBohP5ibbwF7Sx2pump": {
@@ -27392,7 +27398,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "A5ZiQNqMPuNY2VvmwpbYJ9m4vpsbTnAqKSgvuCKFpump": {
     "name": "Unijak",
@@ -27405,7 +27413,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "EoVc13TiwcPb42dTwxjHAcSSxDyTKuoe4EoK9T2VCEzJ": {
     "name": "Agent Wormhole",
@@ -27418,7 +27428,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "AaMAjVuLGtQzyS8uxXsbLjS6f6ppZ8YBXrMtAydJ6Y5H": {
     "name": "based",
@@ -27431,7 +27443,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "9AFExNuqiYsSXd7ZkMTQQqshXLYPmMsGmopJVh6bJ6K8": {
     "name": "MarsCoin",
@@ -27542,6 +27556,71 @@
     "symbol": "Fatigue",
     "flagged_ts": 1790132869,
     "liquidity_at_flag": 54042.72023208619,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "CAFtPzP4TnARbJvpf2srsxqiFXim1AUpeagL6CYiqgvb": {
+    "name": "Minecoin",
+    "symbol": "MINECOIN",
+    "flagged_ts": 1790133762,
+    "liquidity_at_flag": 46963.94941235104,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "HXrwDWEJgofZwki8k1nEy87meUWyq71ijNhHtWfkxwFW": {
+    "name": "PHAT",
+    "symbol": "PHAT",
+    "flagged_ts": 1790133763,
+    "liquidity_at_flag": 40220.18860636568,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "2sjtp7DPptkfwa518brCXEVtbY1n34HSHvq2v5PPpZGu": {
+    "name": "musebook",
+    "symbol": "musebook",
+    "flagged_ts": 1790133764,
+    "liquidity_at_flag": 81755.77034098,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "7KoBosSG8pBS2B1UiuvbtffW8Dqstj1ZibLwRPtjpump": {
+    "name": "Floofio",
+    "symbol": "FLOOF",
+    "flagged_ts": 1790133765,
+    "liquidity_at_flag": 47643.21554782607,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 100,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "CnXhLUVXeFh7Lz1eRXNJZVLCEd3QTzc9VXn6JrKw3rbR": {
+    "name": "CREDITS",
+    "symbol": "CREDITS",
+    "flagged_ts": 1790133766,
+    "liquidity_at_flag": 38947.85192177721,
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 60,
