@@ -24067,7 +24067,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "4epQ7U9qHpiaUbojDz5UPKdWx5Req74QsuvBjfFxpump": {
@@ -24083,7 +24084,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "FmsfyLgCPkdxe7HkgbgWJrrknfsCawua9thgV9B8pump": {
@@ -24099,7 +24101,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "FWGMQJD6U2uuTWoW7oz9nU41JCCX1yBf3WFsWxTMpRea": {
@@ -24115,7 +24118,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "765JL8AJBaygiU13BBCchZ7kqxbdq1JLoGjoGduSTpDJ": {
@@ -27538,7 +27542,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "HwyDsK6v99M9sfcFfVjxrrZA1ot8Dqyqhd8HKA97T9T4": {
@@ -27553,7 +27558,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "3TTWobUyMxhgK7NPeibKFU5XviJaSXCggLeMGBCzjVmV": {
@@ -28122,7 +28128,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "DogHi2ZyMVQGFmD99onW4bNNtdqSQb97dBcXLnza1pEG": {
     "name": "DOGMAN",
@@ -28298,6 +28306,32 @@
     "symbol": "musebook",
     "flagged_ts": 1790144876,
     "liquidity_at_flag": 35866.176163129065,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "RG8FXYdonbZYd42CF7bfu3Q1oSjoNtUiPqKereWLNDB": {
+    "name": "Agent Wormhole",
+    "symbol": "WORM",
+    "flagged_ts": 1790145799,
+    "liquidity_at_flag": 52091.56068159854,
+    "breakdown": {
+      "MOMENTUM": 88,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "5YpDMz4jJcyHK2oh3pGTeDxpNyDLWw3mpgx487HJ6MLc": {
+    "name": "Bonk",
+    "symbol": "Bonk",
+    "flagged_ts": 1790145800,
+    "liquidity_at_flag": 36895.681602437646,
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 60,
