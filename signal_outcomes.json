@@ -23234,7 +23234,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "F2vwmFqrpr76xRJ8aXL2g7WLmwArF6fDcYqAA5qLpump": {
@@ -23250,7 +23251,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "FK5A6eh7WJBjsk1GuRtkhcoDL72ca2UUynH98AEtN1Js": {
@@ -23266,7 +23268,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "FrgcUCoZ8k2savMy5d4uA6caRsxrVpZQNKDtEbeSQAoB": {
@@ -23282,7 +23285,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "DDaAZ5Nc8x9g3FQtEWkZ67StvrF7a7thBfWYxqftpump": {
@@ -23298,7 +23302,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "AKyyWLh6XKwGbLUkTb5HKvjdnNQ7tjdBCbK6B4aQUiDd": {
@@ -26817,7 +26822,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "FskbpzbvmRbm8YPQVYEt63h19ivhbYV1GJTVhVrRYGzo": {
@@ -27326,7 +27332,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "BQtbEDcZRciafnXk5t5pFFaAiDkBAGufsRV3Ms9GJbiU": {
     "name": "BASEDCAT",
@@ -27339,7 +27347,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "CUKJkyVs5F6RVfcHptLHJ9KLW42ME3so3vtWbF8fpump": {
     "name": "SNAKECAT",
@@ -27352,7 +27362,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "9RL1WFSXYyV4ZhdVbRyfm5zLFu1zPdkaPVQXo879pump": {
     "name": "Mister Frog",
@@ -27365,7 +27377,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "479oPFizvo2hati4ZbN8vbBr43tjHB2QkbKqLhkd6bNX": {
     "name": "Argus",
@@ -27476,6 +27490,58 @@
     "symbol": "WHITE",
     "flagged_ts": 1790132189,
     "liquidity_at_flag": 30321.977295330573,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "9Asc7gVQo7uc6QVeqnXzR44X1wUQdHmLCPiSX4CVpump": {
+    "name": "FRUFO",
+    "symbol": "FRUFO",
+    "flagged_ts": 1790132867,
+    "liquidity_at_flag": 27452.920057249,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 100,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "AgxyNjRhc2185eGATkQcanNG6J2pCQcdhxbaSrEXpump": {
+    "name": "LeoGuigna",
+    "symbol": "LeoGuigna",
+    "flagged_ts": 1790132867,
+    "liquidity_at_flag": 25808.434563862924,
+    "breakdown": {
+      "MOMENTUM": 78,
+      "SAFETY": 90,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "EzCg7J6waYRTAMHiCUoXFqfdsKUg9hepgQ1ttz4rQBJV": {
+    "name": "PHAT",
+    "symbol": "PHAT",
+    "flagged_ts": 1790132868,
+    "liquidity_at_flag": 38968.940045186275,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "GMhJiCfNQ4vuGZjdxmbgFnHcDkPUcgSZMZXtn9tfzGBW": {
+    "name": "Launchpad Fatigue",
+    "symbol": "Fatigue",
+    "flagged_ts": 1790132869,
+    "liquidity_at_flag": 54042.72023208619,
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 60,
