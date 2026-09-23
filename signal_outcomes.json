@@ -24781,7 +24781,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "BaLU8Mu1mw1j98Siih6kcSH2j2SkNiLjKYUYgNFppump": {
@@ -24797,7 +24798,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "DrYXpu6BbVDLzcSeNoy7sf3xfgcGt8v8uG8V3Dfjfp4s": {
@@ -24813,7 +24815,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "7rDzVaTMSxXesdSHrGEb5s2NRYh5ptkxzBRVD142PvkQ": {
@@ -28220,7 +28223,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "FpiJrucNh6QxJsJd2EEtoXTbDjvBqF8YhMNSVFRopump": {
@@ -28235,7 +28239,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "7UobTaZMwdLCDvFN2mFQcVRaqMqfP4BNxtCVDPuJ55xd": {
@@ -28250,7 +28255,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "GkemxFkQCkuDX2CsDSLXTWwpJgSDUJR2sKnXCqcWpump": {
@@ -28265,7 +28271,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "5GupMHC51kbvezLdNXtKMuVPSpYW7baGJsxwZpjEYBrS": {
@@ -28744,7 +28751,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "HaYRgD7rjwj1AwoWjafokj4196sufYm4vKFamLZVpump": {
     "name": "Archibald Brown",
@@ -28962,6 +28971,32 @@
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "CWrEbj4fD4BTSCu4TJFAgpYqMn2YewbrD3oD66uEeU61": {
+    "name": "Department Of AI",
+    "symbol": "DOAI",
+    "flagged_ts": 1790157319,
+    "liquidity_at_flag": 41595.87139531236,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "E66pKidAAKBpT2cNtMSCubAikkibroTDN8bGNBaeG7UG": {
+    "name": "Bonk",
+    "symbol": "Bonk",
+    "flagged_ts": 1790157320,
+    "liquidity_at_flag": 47375.24731889999,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 75,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
