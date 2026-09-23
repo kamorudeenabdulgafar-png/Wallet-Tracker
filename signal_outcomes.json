@@ -1,37 +1,4 @@
 {
-  "CNTyuwHDxmGGfZa8rqM3VZvteD8xgPKtMZ9dkBKW1GXV": {
-    "name": "A Meme Coin",
-    "symbol": "MEME",
-    "flagged_ts": 1789599916,
-    "liquidity_at_flag": 39174.48362813894,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "5gufFvC7sbrvVHmGGQD7aPKfzy69fUNa52X2Pk4vjEn1": {
-    "name": "Paid",
-    "symbol": "PAID",
-    "flagged_ts": 1789599917,
-    "liquidity_at_flag": 41996.78872026816,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "PpE6JcNj1RxK5Zntpy8zQdXViuAW4PESPSWWD6jk3uB": {
-    "name": "\u8df3\u86db",
-    "symbol": "\u8df3\u86db",
-    "flagged_ts": 1789599918,
-    "liquidity_at_flag": 26438.574005642113,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
   "DgoAtH2DS36pSJ2w7vdkzQ5FVpjwsuqsKjxTwaB57Vj2": {
     "name": "CrowBrain",
     "symbol": "CrowBrain",
@@ -26734,7 +26701,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "FskbpzbvmRbm8YPQVYEt63h19ivhbYV1GJTVhVrRYGzo": {
@@ -30701,7 +30669,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "AspeNGZkDv7ZFzo991nL3vjHcD6P8DeTLxchzU2YHcNU": {
@@ -30716,7 +30685,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "6j9vzjsuitqMg7o1b66AHTCDFj62pfZAWZpbMLX1daiY": {
@@ -31195,7 +31165,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "CUQScgAnRkE1pk1jHopaxaZy5k5ougCQ7bnKZojGVhV4": {
     "name": "32 Chunk",
@@ -31208,7 +31180,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "rGejF4pz1XW6DftreGqtMqhi1R2uYiSJe9sewTTQTnu": {
     "name": "clausius",
@@ -31221,7 +31195,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "G8TTWtBR6AqxzMC8nSwdVt7NCUDGvqjUEWRr5SXdpump": {
     "name": "Scanny",
@@ -31374,6 +31350,19 @@
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "AdZd56X3ZMshpb4ejsE1AKkxgBrqKLV3HmhGpMjxpump": {
+    "name": "Just Wuf",
+    "symbol": "WUF",
+    "flagged_ts": 1790205420,
+    "liquidity_at_flag": 26083.25698300943,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 90,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
