@@ -23404,7 +23404,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "7pvipKTvFLiCjKdxYrXwJFEi95yeSRCorm3ywWUznVB4": {
@@ -23420,7 +23421,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "CgTQLgjoskX1ezcAv84w1B9nxxvG5jmrhg32D3uSPcRQ": {
@@ -23436,7 +23438,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "EiVXuwu2PpgGgjc9sgg7GeP4He949bYePLmcWRzanpZ5": {
@@ -23452,7 +23455,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "2KGdj2oxQCMkWXkVUnV8JPpnjCiaX34GKnwwS5T1qLE2": {
@@ -23468,7 +23472,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "ANeq7KebEntXk4AksKipo8KjuMCftfj1GmLsL3XVkn23": {
@@ -23484,7 +23489,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "GFGN4T1L5G4kMo5MUgCnu2H6JFiQK7L8dMR36gEcsZ7X": {
@@ -26907,7 +26913,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "zYiF3rA8aWYUuDek3Z3po9NF4V5UDky5nji7Wr6pump": {
@@ -26922,7 +26929,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "2z37Vk5RKzHPJpUbjSWdH1Zzsd1uFAZ5f7jPMHKRdx5K": {
@@ -26937,7 +26945,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "EU5h2TGPBniyZrQojZ8dRQUXn958zF9mWmQxaxyRixdy": {
@@ -26952,7 +26961,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "6rtenJQARckxHzE5nrZoKJKWQfbygmSVHgMqDPvdpump": {
@@ -27491,7 +27501,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "2paAFwRtNo58HBGP6BjPAsDejyCr2Xaq4quk7chbvRxB": {
     "name": "Argus",
@@ -27504,7 +27516,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "EEQi9LkCEHEgJqZMCPBrUjZbTGcYEk2Mpw3GSGuVsdvh": {
     "name": "White Party Hat",
@@ -27670,6 +27684,19 @@
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "HA65Jz8YBBSFSFFdwJdJoCBG99iX7jWn2vSXYKyUpump": {
+    "name": "Kiro",
+    "symbol": "Kiro",
+    "flagged_ts": 1790135325,
+    "liquidity_at_flag": 29431.299447770383,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 100,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
