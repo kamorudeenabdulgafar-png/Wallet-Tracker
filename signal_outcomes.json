@@ -28753,7 +28753,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "FkZMpioeJPcxuYxPVfdTthrXQQcro8YV8kGBheR5hhzZ": {
@@ -28768,7 +28769,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "2ySjQh2LL8msX5ppfE1ZFenQVWK5QAmmznukQWbNpump": {
@@ -28783,7 +28785,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "D3bXjcmRKeUJNk5egWz6CkE1zQnLqLPVXUV5SQUXWRyC": {
@@ -29382,7 +29385,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "E8euPgFVYBFMy4yqvEkrgz1ydcaoYEhk1yDB9ZWJhYhc": {
     "name": "Magic Internet Witch",
@@ -29395,7 +29400,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "DcbsLyKFs5jhSAsdtwLZXgSwXMagpSnuxHFu83ekik9L": {
     "name": "\u4e56\u4e56",
@@ -29408,7 +29415,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "EkEj1PvTZbBPcgFk1vhminuoJGJfS8LwmDZqoxuqVVkV": {
     "name": "\uc548\ub155\ud558\uc138\uc694",
@@ -29421,7 +29430,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "FayncQvTUkCJxQN8gjiVTVgxPSJJdqwCA6AoBZsxoF1P": {
     "name": "OpenAI PreStocks",
@@ -29434,7 +29445,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "2UNgJybqQu6uxXFPSLTeQKST3pPGNeZ73FYeGTaR7cUc": {
     "name": "\u4e56\u4e56",
@@ -29545,6 +29558,84 @@
     "symbol": "SI",
     "flagged_ts": 1790165385,
     "liquidity_at_flag": 28871.15068318475,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "FdWgweu4TULjE6Vx9UDt44FZfpeVV3ixVFpthwtmWCWg": {
+    "name": "The Odyssean Bear",
+    "symbol": "Bear",
+    "flagged_ts": 1790166530,
+    "liquidity_at_flag": 18653.687043896047,
+    "breakdown": {
+      "MOMENTUM": 74,
+      "SAFETY": 90,
+      "LIQUIDITY": 93,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "5JCkzEwv7GQv3JBa1fhx2BNfeBabXYUQJfK3YA2WpMS6": {
+    "name": "The Odyssean Bear",
+    "symbol": "Bear",
+    "flagged_ts": 1790166530,
+    "liquidity_at_flag": 39689.656314601874,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "FHuLo8edT138Zsy4F7n8dshiY1Si4HSbmowwrS3gkh92": {
+    "name": "Pretape",
+    "symbol": "Pretape",
+    "flagged_ts": 1790166531,
+    "liquidity_at_flag": 72147.33619421624,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "EU6Fax54kW5qBM7EHczfFY4jpFQZBYrq8175s9LHKhuy": {
+    "name": "WALTER WORM",
+    "symbol": "WALTER",
+    "flagged_ts": 1790166532,
+    "liquidity_at_flag": 66658.29119780494,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "B7xCTPakLHAUxCqeA52HhFYRQbLApaLz7PfQdaNgeJrx": {
+    "name": "\u8783\u87f9",
+    "symbol": "\u8783\u87f9",
+    "flagged_ts": 1790166532,
+    "liquidity_at_flag": 54132.83635222919,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "c2WtX7R7doWYtcjtHA1Ngmu3bkkezBkdUQyHM5swtaf": {
+    "name": "Stupid Inu",
+    "symbol": "SI",
+    "flagged_ts": 1790166533,
+    "liquidity_at_flag": 43876.62127916578,
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 60,
