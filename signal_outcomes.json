@@ -25614,7 +25614,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "s2dFHkuLohifR6GBsgsGjGFkDxF6Vmh3uCwE3kzohw2": {
@@ -25630,7 +25631,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "5W7oSowoZ6SpYgjVVKZZJhTKaTHEDyCAqSJwEo2F7SY8": {
@@ -25646,7 +25648,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "HXShv6WWVSACgdeFaSpkGJ9Pa4367sAa3QgZ1VRZQPsw": {
@@ -25662,7 +25665,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "EPHynmm3NUC3CUbV1SBW2XJ4w61MWLGU5RcMHVkpK4Pt": {
@@ -28845,7 +28849,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "H4bVJBARq1fWsH2js4xvn3F8vp38h1ae64fSKtKLGnw8": {
@@ -28860,7 +28865,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "2GpTriEzFSr36YHc9Kuk9K7ncSChVsGvAM5RfGVPQQSZ": {
@@ -28875,7 +28881,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "2m5Z4BMngRmEdHyCsJ1i4dvQjai7se9uM1x59GQUj3gj": {
@@ -28890,7 +28897,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "JCfCQFkPcxYDP7Zm86Awz214in9w6JSdJPzzEVhphEpU": {
@@ -28905,7 +28913,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "14B91ALy7fmzRmatmSD7XyYTut9323E47WqGyLyopump": {
@@ -28920,7 +28929,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "Cg3Y6nvE82RpbwhPsx74vfeinN44V2ww9SsiHD8JZZYA": {
@@ -28935,7 +28945,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "HZTxssrFxjrza8W88zZb3SH45CiFo3e82DWjjhCXWCsZ": {
@@ -28950,7 +28961,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "Ay4P9yh8TzUf5fgcTLBuR8wqdmZoWdGgVjQp6bWmpump": {
@@ -29564,7 +29576,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "EK3tUjy1o8p1YiC7LE7FFytBH7KiL2tkyQ7ebTe9GRp6": {
     "name": "Claude Ai",
@@ -29577,7 +29591,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "4ayVL1f1AvLXGXG55DDKoD3XVyxcucZLmcGkSuaUweKc": {
     "name": "Stupid Inu",
@@ -29590,7 +29606,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "FdWgweu4TULjE6Vx9UDt44FZfpeVV3ixVFpthwtmWCWg": {
     "name": "The Odyssean Bear",
@@ -29743,6 +29761,45 @@
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 90,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "GLWR3sVCSMuL7ffjCnpjkgC862TV5R5b8ofr3i8bjjhM": {
+    "name": "Cysic",
+    "symbol": "CYS",
+    "flagged_ts": 1790169178,
+    "liquidity_at_flag": 63830.86499491938,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "2t1zn5GHwJhYzW9MqQPdaYTmpEnPYXHVzf3rjNX3dy7H": {
+    "name": "Genius Processing Unit",
+    "symbol": "GPU",
+    "flagged_ts": 1790169179,
+    "liquidity_at_flag": 50583.617668826075,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "9QTP8nZVsLAn9RcENiAHhwTqzQw8LP6HmxgtaWNR7Meu": {
+    "name": "The Mempool Muncher",
+    "symbol": "$MEMPOOL",
+    "flagged_ts": 1790169179,
+    "liquidity_at_flag": 34374.79535056953,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
