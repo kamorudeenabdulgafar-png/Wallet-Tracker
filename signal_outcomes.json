@@ -26600,7 +26600,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "6JWsGJYWSQ1BsHdMq2YLMDq2B96sm3JQdJom6pkGKh22": {
@@ -30423,7 +30424,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "CcxugZKPsg28s7xDVR7KrQjmmoKZgitPZBmjBvknpump": {
@@ -30438,7 +30440,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "Bz1ybXTZUgJraU8d2vkUNmLWTiTXaXcPaKbPvLvsBgtS": {
@@ -30453,7 +30456,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "FBMeHVHsLnWuDLFazegu9tJ4TeZYpwU1Xr5LPiX3T9nG": {
@@ -30468,7 +30472,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "ARTEvs8XSpVJRYPVHuTZz4bEJwfpNVVzgKbrfyWMtXuB": {
@@ -31005,6 +31010,58 @@
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "BAJhfyGj6HRaCU2UHATd9NVLR2SjWoAXS6aVayp2gjZh": {
+    "name": "pog",
+    "symbol": "pog",
+    "flagged_ts": 1790192740,
+    "liquidity_at_flag": 23166.115482712084,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "2tc4QBfE5KSngZ9qdKuEYLudL4YJD6vanH5DtrrDpump": {
+    "name": "AFTERIMAGE",
+    "symbol": "AFTERIMAGE",
+    "flagged_ts": 1790192741,
+    "liquidity_at_flag": 13341.87533131457,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 100,
+      "LIQUIDITY": 67,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "7NJquMZvupon6YC56UfnnZv6gjPfcjgoy1nfXXWagYst": {
+    "name": "CurveX",
+    "symbol": "CURVEX",
+    "flagged_ts": 1790192742,
+    "liquidity_at_flag": 35838.145953098,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "5os5VT4uK82kFDtrMvLnq1WmeGghF4DhmzxNftD1pump": {
+    "name": "Scooby Mode",
+    "symbol": "Scooby-Doo",
+    "flagged_ts": 1790192743,
+    "liquidity_at_flag": 25487.10229248838,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 100,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
