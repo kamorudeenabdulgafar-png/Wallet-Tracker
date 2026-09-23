@@ -28029,7 +28029,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "5zT1G7tWhew7GuLFKuiVwvvDv2z14kHG1dA7nt4Rpump": {
@@ -28044,7 +28045,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "AhtfvVGfmFgvoauuS8wgkePf2Eda2PMVt9EjzjZcgvcL": {
@@ -28059,7 +28061,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "33WNZtzEKKRAcAg9uxPxiPjdnd16TrtqtbdL4Uqzpump": {
@@ -28538,7 +28541,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "4mcHFUZr1bhJqECCKKeGxYbZYYgTB9d6DkmEThbFiarc": {
     "name": "BLEE",
@@ -28551,7 +28556,9 @@
       "LIQUIDITY": 97,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "JCvGrCbiHc84qCEDowgeuue7iXNoGgpCQstgoGYhFUCK": {
     "name": "HANDLES",
@@ -28675,6 +28682,19 @@
     "symbol": "musejak",
     "flagged_ts": 1790152715,
     "liquidity_at_flag": 35024.15433930503,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "DgEPPohACHw7EnGzSyEvMyiXFD6DP95ynUMzeiXnmzMz": {
+    "name": "BLEE",
+    "symbol": "BLEE",
+    "flagged_ts": 1790153409,
+    "liquidity_at_flag": 67368.27700431622,
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 60,

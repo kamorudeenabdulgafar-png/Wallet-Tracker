@@ -1,5 +1,5 @@
 {
-  "last_updated": 1790152725,
+  "last_updated": 1790153414,
   "wallets": [
     {
       "label": "Dev wallet 1",
@@ -10,7 +10,7 @@
     "5CEbueQnq1Ym2uSSx2xXds3jQAqT1BDnkA59RZobSPAG": {
       "label": "Dev wallet 1",
       "buy_count": 296,
-      "sell_count": 179,
+      "sell_count": 180,
       "total_buy_usd": 15565.105837267645,
       "total_sell_usd": 0.0,
       "tokens_traded": [
@@ -67,7 +67,7 @@
         "USD1ttGY1N17NEEHLmELoaybftRBUSErhqYiQzvEmuB",
         "cbbtcf3aa214zXHbiAZQwf4122FBYbraNdFqgw4iMij"
       ],
-      "last_active": 1790147483,
+      "last_active": 1790153406,
       "positions": {},
       "realized_pnl_usd": 0.0
     }
@@ -94,6 +94,41 @@
   "learning_insight": null,
   "settings": {},
   "recent_alerts": [
+    {
+      "ts": 1790153414,
+      "type": "outcome",
+      "message": "\ud83d\udd34 BLEE (BLEE) is dropping fast \u2014 down 100%, may be rugging."
+    },
+    {
+      "ts": 1790153413,
+      "type": "outcome",
+      "message": "\ud83d\udd34 Muse Dog (Euler) is dropping fast \u2014 down 100%, may be rugging."
+    },
+    {
+      "ts": 1790153412,
+      "type": "outcome",
+      "message": "\ud83d\udd34 Gold Pieces (RSGP) is dropping fast \u2014 down 100%, may be rugging."
+    },
+    {
+      "ts": 1790153411,
+      "type": "outcome",
+      "message": "\ud83d\udfe0 The Goat Fruits (DURIAN) is fading \u2014 down 18% so far."
+    },
+    {
+      "ts": 1790153410,
+      "type": "outcome",
+      "message": "\ud83d\udd34 RuneScape Gold (GP) is dropping fast \u2014 down 100%, may be rugging."
+    },
+    {
+      "ts": 1790153409,
+      "type": "scanner",
+      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\nBLEE (BLEE)\nOpportunity: 76/100\n\nMOMENTUM     100\nSAFETY       60\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$67,368, 16 min since pool creation\n\u2022 Up +161% in the last hour, ~$2,373,077 in 24h volume (35.2x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 96% of supply (very concentrated)\n\nCA: DgEPPohACHw7EnGzSyEvMyiXFD6DP95ynUMzeiXnmzMz\nhttps://dexscreener.com/solana/DgEPPohACHw7EnGzSyEvMyiXFD6DP95ynUMzeiXnmzMz\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
+    },
+    {
+      "ts": 1790153407,
+      "type": "wallet",
+      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: SPYx -> USDC\nTrade size: unknown\nBought token: USD Coin (USDC)\nCA: EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v\nhttps://solscan.io/tx/3j2MuEbnX3a9AtSzSFpq5TRKyNKQPeQic3664FxAAEQjuv68xzQYDZeijU22WymCR1WDydX59PyM8J8jfF2JR1Tp"
+    },
     {
       "ts": 1790152725,
       "type": "outcome",
@@ -308,41 +343,6 @@
       "ts": 1790149373,
       "type": "outcome",
       "message": "\ud83d\udd34 Minecoin (MINECOIN) is dropping fast \u2014 down 100%, may be rugging."
-    },
-    {
-      "ts": 1790149372,
-      "type": "outcome",
-      "message": "\ud83d\udfe1 Memeopedia (MEMEOPEDIA) is holding steady so far (+3%)."
-    },
-    {
-      "ts": 1790149371,
-      "type": "outcome",
-      "message": "\ud83d\udd34 The Rogue AI (RogueGPT) turned out to be a rug \u2014 liquidity dropped 94% over 24h."
-    },
-    {
-      "ts": 1790149369,
-      "type": "outcome",
-      "message": "\ud83d\udd34 Pyre (Pyre) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
-    },
-    {
-      "ts": 1790149368,
-      "type": "outcome",
-      "message": "\ud83d\udd34 URANUS (URANUS) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
-    },
-    {
-      "ts": 1790149367,
-      "type": "scanner",
-      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 STRONG\nBLEE (BLEE)\nOpportunity: 89/100\n\nMOMENTUM     100\nSAFETY       100\nLIQUIDITY    97\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$19,470, 18 min since pool creation\n\u2022 Up +239% in the last hour, ~$19,126 in 24h volume (1.0x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Low, 0/100):\n\u2022 No major red flags found\n\nCA: 4mcHFUZr1bhJqECCKKeGxYbZYYgTB9d6DkmEThbFiarc\nhttps://dexscreener.com/solana/4mcHFUZr1bhJqECCKKeGxYbZYYgTB9d6DkmEThbFiarc\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
-    },
-    {
-      "ts": 1790149366,
-      "type": "scanner",
-      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 EXCEPTIONAL\nMuse Dog (Euler)\nOpportunity: 90/100\n\nMOMENTUM     100\nSAFETY       100\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$40,230, 18 min since pool creation\n\u2022 Up +73% in the last hour, ~$44,967 in 24h volume (1.1x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Low, 0/100):\n\u2022 No major red flags found\n\nCA: J2kTZg5rXcrDyGzDZLHU13kbDVDkqu37bdT4FHk7gtoe\nhttps://dexscreener.com/solana/J2kTZg5rXcrDyGzDZLHU13kbDVDkqu37bdT4FHk7gtoe\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
-    },
-    {
-      "ts": 1790148587,
-      "type": "outcome",
-      "message": "\ud83d\udd34 musebook (musebook) is dropping fast \u2014 down 100%, may be rugging."
     }
   ]
 }
