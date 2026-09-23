@@ -26056,7 +26056,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "2PHzARL38E7UfNiDnwhVZr8j6XPMmqhAXMuXehUXXbaR": {
@@ -29591,7 +29592,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "AtbAaWSw6q4E4xSqVb6H1953Dq5HKF6WUAwpQdwdpump": {
@@ -29606,7 +29608,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "5qHRY1fbkreVZTEfFj9eZ7b81c8Y6mBpaZgmAwUTpump": {
@@ -29621,7 +29624,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "GeABsD8MByMY4tQfupxaVAco76ppvGVE8bwUUUe979AU": {
@@ -30357,6 +30361,45 @@
     "symbol": "Moonape",
     "flagged_ts": 1790177929,
     "liquidity_at_flag": 101519.12069436305,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "ARTEvs8XSpVJRYPVHuTZz4bEJwfpNVVzgKbrfyWMtXuB": {
+    "name": "auracat",
+    "symbol": "AURACAT",
+    "flagged_ts": 1790178600,
+    "liquidity_at_flag": 24209.122325933662,
+    "breakdown": {
+      "MOMENTUM": 68,
+      "SAFETY": 90,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "5fHuUXJ86DrUQHvZ1QtxJiG6HLMqXsSQQ94SRWUqwvrv": {
+    "name": "Cysic",
+    "symbol": "CYSIC",
+    "flagged_ts": 1790178602,
+    "liquidity_at_flag": 43750.36435577647,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "J9kM81ULNmFiGL5tdVNBBrFYFom2RNAt8dGs49uHHhgL": {
+    "name": "Duel Arena",
+    "symbol": "ARENA",
+    "flagged_ts": 1790178604,
+    "liquidity_at_flag": 35286.614991841336,
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 60,
