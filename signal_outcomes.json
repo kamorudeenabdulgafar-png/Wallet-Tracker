@@ -26583,7 +26583,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "3y4KW6Yere8NAjVSPVVWEXkUoDfXV8b6t3EDGS2W5wP2": {
@@ -30406,7 +30407,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "72UdqdCUeTGHhKZMZpyDzpujAFBp69HzeovL8jYSzqhm": {
@@ -30885,7 +30887,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "CZgtfCUQP74CXB2i26Ca8xJysS6gCvfCtvSCa7mXPTDf": {
     "name": "\u4eba\u751f\u597d\u7269",
@@ -30898,7 +30902,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "9gnnHoCwKsWjrmXqexWE6ggRVaxg2jwj6VWj3oJgqcYQ": {
     "name": "zpad.dev",
@@ -30986,6 +30992,19 @@
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 75,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "uxwu4WoFWBeH2Vh8BN2PCnY4TEJhT3SoY3TUhYvhmzA": {
+    "name": "HOWL",
+    "symbol": "HOWL",
+    "flagged_ts": 1790191873,
+    "liquidity_at_flag": 61135.84617103355,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
