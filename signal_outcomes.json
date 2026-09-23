@@ -25869,7 +25869,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "2LXvcZ2zqkTSzDfMibjYrZYSYABciWU7JAnYWzknGUmw": {
@@ -25885,7 +25886,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "564C6MNPELt8Z5Xe1zuu8hiDej2SL5YBBg8njAvM6jTi": {
@@ -25901,7 +25903,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "BXZ9aCHRuZ9qDtzvTdhFT3uzjkUwnoH5W6fpxVJmcbZz": {
@@ -29340,7 +29343,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "FjLjysmtJiGnR54k1Nf4q9mkGChW5wo5veK6mZBSw1fe": {
@@ -29355,7 +29359,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "JBmqjfxBBy4cH1qEo4L6XjBsTG17VLh1proesrsvjtXF": {
@@ -29969,7 +29974,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "8FnvxBNLwTSpqNHrNFYGgFPDNqyw7RNgiQwuqkbDSh7C": {
     "name": "The Roaring Puppy",
@@ -29982,7 +29989,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "GyB7ngVQkhP7JG6wtFVKz34hUsjXWoQvjHkTZCo8Wht8": {
     "name": "MemeFirm",
@@ -29995,7 +30004,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "2RU4CQj6bGkMtkG5HFaXiab93H3E9Rj5tSRhAuYFv5XK": {
     "name": "MemeFirm",
@@ -30008,7 +30019,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "4GscP6cRfXEGHVF4paeB1tWhsUgDNUMDXY1nuZG5B2CX": {
     "name": "\u2728Betty",
@@ -30145,6 +30158,58 @@
     "symbol": "BURRITO",
     "flagged_ts": 1790174328,
     "liquidity_at_flag": 35220.46070535354,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "34izpwCZcRwaMULTjBNdheEKm7qV4kAhUc5Q18Jyby5M": {
+    "name": "CHICK",
+    "symbol": "CHICK",
+    "flagged_ts": 1790175097,
+    "liquidity_at_flag": 22469.54266285236,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 90,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "HR6QZ1rF2QNJLxY8edJxFEYabzYNrtUBJVWc6H1TEVKD": {
+    "name": "\u2728Betty",
+    "symbol": "\u2728Betty",
+    "flagged_ts": 1790175098,
+    "liquidity_at_flag": 27919.662587436796,
+    "breakdown": {
+      "MOMENTUM": 88,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "CgXcb3dznDkzx8W243nTyJ8zxMybBnYjG5KEVmARCy29": {
+    "name": "Fund.app",
+    "symbol": "Fund",
+    "flagged_ts": 1790175099,
+    "liquidity_at_flag": 28782.489450988833,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "AwYDvarFLktzL4SypBc155CyipRQfuPx9hoxZmQfHwsX": {
+    "name": "Botify.Cloud",
+    "symbol": "BOTIFY",
+    "flagged_ts": 1790175100,
+    "liquidity_at_flag": 323376.631702528,
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 60,
