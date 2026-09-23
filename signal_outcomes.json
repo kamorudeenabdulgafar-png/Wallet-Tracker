@@ -25359,7 +25359,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "3iHRVfWxtBrjyrwfZx48b8knnWhfbQUnuJDMVwR85d1K": {
@@ -25375,7 +25376,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "9zxJB8bW5oTt1G8tQ1LEMSdVdNc9Hzfp3wnqYqEwvZxF": {
@@ -25391,7 +25393,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "86PVomurhJMHw32GE4aPbbtsmYSgRnE8LstfRAUcpump": {
@@ -28686,7 +28689,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "7dkCN3jVPSkpanG2Q1BRp58BpKSdXQqT3zXEND5iptPK": {
@@ -28701,7 +28705,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "Bso8UtYW8ktUQgTFegrrncTTYGXVQKinJybmZy5ddNw7": {
@@ -28716,7 +28721,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "7dPoC1oc4Z86e81HJfEhUh1cR5BoCgLoByQYSG7wUpB7": {
@@ -28731,7 +28737,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "525YHQG4P9a92a3EVXufvWy3KjhnHVpjbBXppwCoupyg": {
@@ -29300,7 +29307,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "Bq3DgzKVCaSXRoqQwGVLUbnVMBq1Y8CeD4KsV8SA7xpN": {
     "name": "Archibald Brown",
@@ -29313,7 +29322,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "Bbs2Y4bL4S4rCe3FY9EWtBpbo8a6LKcKhB7XLsdS56wf": {
     "name": "Ref",
@@ -29326,7 +29337,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "2FRHJpsvEbb5SoqNN1h7qQ7NmGkFDzHAWZYW5hsn2Tuy": {
     "name": "Uranus",
@@ -29339,7 +29352,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "7mYGKXHSUa1Dmifkx9ukxiFhMwAzNqdmYj7oBtNNkeMT": {
     "name": "Ref",
@@ -29352,7 +29367,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "1NeqpJNTR7LcxaTNtcrjFDcZxXgEQHwRWvQPDn4NVYJ": {
     "name": "WALTER WORM",
@@ -29492,6 +29509,45 @@
     "breakdown": {
       "MOMENTUM": 50,
       "SAFETY": 100,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "GeABsD8MByMY4tQfupxaVAco76ppvGVE8bwUUUe979AU": {
+    "name": "The Odyssean Bear",
+    "symbol": "Bear",
+    "flagged_ts": 1790165383,
+    "liquidity_at_flag": 46535.2088614978,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "EK3tUjy1o8p1YiC7LE7FFytBH7KiL2tkyQ7ebTe9GRp6": {
+    "name": "Claude Ai",
+    "symbol": "claude",
+    "flagged_ts": 1790165384,
+    "liquidity_at_flag": 33532.829882463906,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "4ayVL1f1AvLXGXG55DDKoD3XVyxcucZLmcGkSuaUweKc": {
+    "name": "Stupid Inu",
+    "symbol": "SI",
+    "flagged_ts": 1790165385,
+    "liquidity_at_flag": 28871.15068318475,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
