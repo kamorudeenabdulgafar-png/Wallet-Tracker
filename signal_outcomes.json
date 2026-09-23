@@ -1,48 +1,4 @@
 {
-  "CgJRGmnxmHa5xVdCqiPhxL1P5n1EAJ4vuU24cY2xapSV": {
-    "name": "Private Room",
-    "symbol": "ROOM",
-    "flagged_ts": 1789596317,
-    "liquidity_at_flag": 25344.102169484875,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "feAYAXPqRwq1C2b3qJ2mZQqz3yq4naeqR9rcwkYruSb": {
-    "name": "dono",
-    "symbol": "DONO",
-    "flagged_ts": 1789596318,
-    "liquidity_at_flag": 46735.33157671119,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "FwESc2y85CjdRYmwMPToQfDwXWc3ENZqPEHazPAtpump": {
-    "name": "maps",
-    "symbol": "maps",
-    "flagged_ts": 1789597183,
-    "liquidity_at_flag": 21185.119629698078,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "PyLMFBFbjcHsreQRh886YRv1v1kNdJ9UvbMBoSCRSvJ": {
-    "name": "All Finance on Binance",
-    "symbol": "\u4e07\u4e8b\u5e01\u5b89",
-    "flagged_ts": 1789597185,
-    "liquidity_at_flag": 41196.140157434944,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
   "6unf4HeFkU2wPkd4aq5vuy7sSkU74J36bHJREyt2iLzq": {
     "name": "Absolutely Retarded Chain",
     "symbol": "ARC",
@@ -26791,7 +26747,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "ApQxRdwTq6tTi2t7WgRfi9Joz6BAmdEhMb4gJ5rpump": {
@@ -30774,7 +30731,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "6cxAA8HBYN1vsBYck46tGkEGVyg5ZvshU8PSHW2H48kA": {
@@ -30789,7 +30747,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "7xm3vqykDZVuYqiC2HcTf3VerfmhAieCPZmeJX8qpump": {
@@ -31193,7 +31152,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "H2jAV8NJR9eRLQLysiLqfrC1aHW9cYV3n7A49vj9pump": {
     "name": "Buttlaunch",
@@ -31206,7 +31167,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "3AjiVRGs8SnbCeQJqMfH7GaeWCnWwnHTFmeudb5Aane7": {
     "name": "INU INVEST",
@@ -31219,7 +31182,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "3a638SPZQDiPHzbnf1zHLKRUEuPAC5b5H8STSQ3ByRUH": {
     "name": "Buttlaunch",
@@ -31359,6 +31324,45 @@
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 100,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "G8TTWtBR6AqxzMC8nSwdVt7NCUDGvqjUEWRr5SXdpump": {
+    "name": "Scanny",
+    "symbol": "SCANNY",
+    "flagged_ts": 1790201984,
+    "liquidity_at_flag": 23917.677657148786,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 90,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "CAqcebQonWgBVkxjB98ULJ5PXKfXwJxurpqqSsdwoLpk": {
+    "name": "Ape and Call",
+    "symbol": "AMARE",
+    "flagged_ts": 1790201986,
+    "liquidity_at_flag": 24612.34018884179,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "DtFb8Qu87XnH4jXcpAnTdiJUaffCKfqbzYCE9bNoBkVp": {
+    "name": "Ape and Call",
+    "symbol": "AMARE",
+    "flagged_ts": 1790201987,
+    "liquidity_at_flag": 30955.977046604137,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
