@@ -1,26 +1,4 @@
 {
-  "B1ZJQ5M5d4B16HZRSpTRvSEmoAwxYC9ZJssDsn2GKgCE": {
-    "name": "Clashy",
-    "symbol": "CLASHY",
-    "flagged_ts": 1789593840,
-    "liquidity_at_flag": 23129.079580457983,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "J7utqUbdd5XKL83zVdppM2q8CJbYdUFpzFodwnNvpump": {
-    "name": "Clashy",
-    "symbol": "CLASHY",
-    "flagged_ts": 1789593841,
-    "liquidity_at_flag": 38710.055391358386,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
   "hbnxyq25TdT8i3U4o6zvMprTaskS6DoqJpFxffbP5Kd": {
     "name": "dono",
     "symbol": "DONO",
@@ -26777,7 +26755,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "7jjTerm7hjga8Q1VgHzEkbNGUy7qTZca3i3tBGcEpump": {
@@ -31283,6 +31262,32 @@
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "7P1UwwN2HmMrBuXgiN1VPruLY7rsWmK6QHZ9bAoSpump": {
+    "name": "fomo fan",
+    "symbol": "FOMO",
+    "flagged_ts": 1790199353,
+    "liquidity_at_flag": 22005.67338613329,
+    "breakdown": {
+      "MOMENTUM": 97,
+      "SAFETY": 100,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "64FityyBGWXC1Rc89kBRT8dNEwrXCskGBCnfGy3Mpump": {
+    "name": "Fomo Game",
+    "symbol": "FomoGame",
+    "flagged_ts": 1790199355,
+    "liquidity_at_flag": 68002.62384356157,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 100,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
