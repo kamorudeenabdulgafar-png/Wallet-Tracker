@@ -25121,7 +25121,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "8qycqFhWKkFeFzK5TLmsvwa19yFu9c4f7acPFe3Xpump": {
@@ -25137,7 +25138,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "4B1wyLwr8ijnPa26aWmhtp8YEb3e1fLyyEhD25dnHfWy": {
@@ -25153,7 +25155,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "FfLHw6c2ys3nHJXtfqnzENxYgFe5b7GxrFaw4UPipJVW": {
@@ -25169,7 +25172,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "cJhUSUNcRuEGbMLa9EnrGLjyYh7pm2XhEuifFWsKHhs": {
@@ -25185,7 +25189,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "BMnXFaqBuBNVwmoRAssEd22emrNna3afDes8ryFSpump": {
@@ -29116,7 +29121,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "8cHoMMSGRM3G2hfPbHNcN186jLFz6haE5EQeFVWBjUdw": {
     "name": "Claude Ai",
@@ -29129,7 +29136,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "9TSR8LD9L2tywk3MokNXJBFqSY6CQHLFkZmxNTQovqex": {
     "name": "Ref",
@@ -29320,6 +29329,58 @@
     "liquidity_at_flag": 38453.17520504136,
     "breakdown": {
       "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "E8euPgFVYBFMy4yqvEkrgz1ydcaoYEhk1yDB9ZWJhYhc": {
+    "name": "Magic Internet Witch",
+    "symbol": "Witch",
+    "flagged_ts": 1790162638,
+    "liquidity_at_flag": 59939.57665012647,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "DcbsLyKFs5jhSAsdtwLZXgSwXMagpSnuxHFu83ekik9L": {
+    "name": "\u4e56\u4e56",
+    "symbol": "\u4e56\u4e56",
+    "flagged_ts": 1790162639,
+    "liquidity_at_flag": 65773.61353882853,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "EkEj1PvTZbBPcgFk1vhminuoJGJfS8LwmDZqoxuqVVkV": {
+    "name": "\uc548\ub155\ud558\uc138\uc694",
+    "symbol": "\uc548\ub155\ud558\uc138\uc694",
+    "flagged_ts": 1790162640,
+    "liquidity_at_flag": 60648.21778556574,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "FayncQvTUkCJxQN8gjiVTVgxPSJJdqwCA6AoBZsxoF1P": {
+    "name": "OpenAI PreStocks",
+    "symbol": "OpenAI",
+    "flagged_ts": 1790162642,
+    "liquidity_at_flag": 321871.56242712075,
+    "breakdown": {
+      "MOMENTUM": 89,
       "SAFETY": 60,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
