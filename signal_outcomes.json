@@ -23744,7 +23744,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "CvffVrhJs6zMnbvYR8rXmHSu3ihsXkeUZijivavgqCGE": {
@@ -23760,7 +23761,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "J5JYKxv78TBsYjpz4LtqBbZUFB8JRd3JW3jdWiBvW9pi": {
@@ -23776,7 +23778,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "4BdnHSiq9WguJCZeS9eUWnJZaBkRcGjqHzN4BsEnR6A8": {
@@ -23792,7 +23795,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "FqjggzmEdrgaN8TbTz8tdfwaXTLFsapw6yFTcz89dfag": {
@@ -23808,7 +23812,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "hxUNKwqN9Zi154EgJTZwLyBMhtN1udXaCHZrWpipump": {
@@ -27263,7 +27268,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "9Dvdu6rxNEqWWZaTTWgonHF7yFeUZGQWrvydk8JCWYB3": {
@@ -27993,6 +27999,19 @@
     "symbol": "Uranus",
     "flagged_ts": 1790139457,
     "liquidity_at_flag": 32461.58844778755,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "ARrg9we22RCMrYxSNkLb3eGz1usV19wXJqcn4FMwAChe": {
+    "name": "Grokification",
+    "symbol": "GROK",
+    "flagged_ts": 1790140182,
+    "liquidity_at_flag": 153546.9991501298,
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 60,
