@@ -25274,7 +25274,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "AzEP9c7Kz1wm3RE35pG8g6yyetQqmZu2PSjVoiFAJrtt": {
@@ -25290,7 +25291,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "EePUVHWLJGzqbdmXfTpi9n3SZFNB2rs4z3gmw4bu4L2P": {
@@ -28617,7 +28619,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "4mcHFUZr1bhJqECCKKeGxYbZYYgTB9d6DkmEThbFiarc": {
@@ -28632,7 +28635,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "JCvGrCbiHc84qCEDowgeuue7iXNoGgpCQstgoGYhFUCK": {
@@ -29156,7 +29160,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "B8TsRJFEVYDYqVK9VwrxxWJfc5jDjuhQcsaazxtLVBDd": {
     "name": "\u8783\u87f9",
@@ -29169,7 +29175,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "WKP7GwUaWJn7JpY7JdbS9yQ22r8X9XzzpUpCnXUKPVG": {
     "name": "CS18",
@@ -29182,7 +29190,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "SzWRxzLK1cz89eZ8S8hzPyEC8hY3nE5R945JKRfT9Be": {
     "name": "Ref",
@@ -29195,7 +29205,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "AQN88Wum2k1ni7rBmchMixLcLrMNqLaBY6zmWdZiUBpY": {
     "name": "Ref",
@@ -29208,7 +29220,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "FkfwSJRoUWZqQHcetttTqm6A6XiN4bmMwujq5hmYpump": {
     "name": "PIXELCAT",
@@ -29221,7 +29235,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "58TYyM2LTcex8juCuM4mDGcrAYY6bxumqUgJvbPepump": {
     "name": "MONKINU",
@@ -29234,7 +29250,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "78KHx4YFgqz6oCuE6oCGVCZNk2t4ZZypBEjgHGRynJnc": {
     "name": "\u8783\u87f9",
@@ -29425,6 +29443,45 @@
     "liquidity_at_flag": 33225.78340842401,
     "breakdown": {
       "MOMENTUM": 100,
+      "SAFETY": 100,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "DyJSo6uVhXGxNcRNpoRFUnzJw6ZTH5SBVzQbYuQwi9Fs": {
+    "name": "Kindercore Cat",
+    "symbol": "Kindercor",
+    "flagged_ts": 1790164078,
+    "liquidity_at_flag": 42009.385542873904,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "AtbAaWSw6q4E4xSqVb6H1953Dq5HKF6WUAwpQdwdpump": {
+    "name": "apeonzcat",
+    "symbol": "APEZCAT",
+    "flagged_ts": 1790164083,
+    "liquidity_at_flag": 38471.72434587496,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 100,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "5qHRY1fbkreVZTEfFj9eZ7b81c8Y6mBpaZgmAwUTpump": {
+    "name": "BASEDCAT",
+    "symbol": "BASEDCAT",
+    "flagged_ts": 1790164086,
+    "liquidity_at_flag": 39782.36001987592,
+    "breakdown": {
+      "MOMENTUM": 50,
       "SAFETY": 100,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
