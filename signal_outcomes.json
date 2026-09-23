@@ -24747,7 +24747,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "EKF3i4p6z4tvFWcZzNCTRTAmop693vyGvkEi7uSsHAzS": {
@@ -24763,7 +24764,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "6swUeMKbJN96A4arcHvByt6MbPgCFqiGGfL4vVLGsQQL": {
@@ -28202,7 +28204,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "DogHi2ZyMVQGFmD99onW4bNNtdqSQb97dBcXLnza1pEG": {
@@ -28726,7 +28729,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "DgEPPohACHw7EnGzSyEvMyiXFD6DP95ynUMzeiXnmzMz": {
     "name": "BLEE",
@@ -28915,6 +28920,45 @@
     "symbol": "chick",
     "flagged_ts": 1790155750,
     "liquidity_at_flag": 35625.70097091151,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "Ccpz9qyak3nTYQSjVzSRpiieesunpirWKcKPPNdwZN9K": {
+    "name": "chickwifmask",
+    "symbol": "chick",
+    "flagged_ts": 1790156511,
+    "liquidity_at_flag": 61882.64059191931,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "7U9LREkxb89qZ29q7HoHoVuD7PSmDRTp3xDQQ9Q1pump": {
+    "name": "chickwifmask",
+    "symbol": "chick",
+    "flagged_ts": 1790156514,
+    "liquidity_at_flag": 22317.12459910583,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 90,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "DNViNX5xo8TR2v9Ek7XFZYxuvFPaj1vAN9d7P8Ktgfxf": {
+    "name": "BUILDER HAT CULT",
+    "symbol": "BHC",
+    "flagged_ts": 1790156514,
+    "liquidity_at_flag": 42973.02339935623,
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 60,
