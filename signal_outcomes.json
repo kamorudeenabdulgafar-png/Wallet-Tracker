@@ -23149,7 +23149,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "7zTtZusfVkedDbCSbjCRoNsP4zHwxJEQoVj23nuaeZNA": {
@@ -23165,7 +23166,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "5PHUX9T2dgeUktJyu6KKdcqtTF98T78spNyBFcotpump": {
@@ -23181,7 +23183,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "ChXsjdLXp2PWnq2QbidLmgZL2fjT8Az1JUecLKNwwHDM": {
@@ -23197,7 +23200,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "8p2Aqhdvo6ZQx73yGA8Jv8chnmN9qT4AEr4pLyV3MoCd": {
@@ -23213,7 +23217,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "bZ6TpJ44KgM9kr3LKN9ttte3X2dW9afefCLn7vVMXd8": {
@@ -26748,7 +26753,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "Bc6MChJmsQYd3qayLbbeFG9u2umNVEo9Q776BJyjWMo6": {
@@ -26763,7 +26769,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "E2PkhpDd9eMbDyxr2Gdwm34Nr4ZVUtguHZzeSEcu9fDr": {
@@ -26778,7 +26785,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "4wLpoGkDaS117rBdp6Accqm6uc3QuFicn1Z6Ld9YieQG": {
@@ -27212,7 +27220,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "BqyH1jV9ZhPxfXMsL23Ht49zCfXksc4fWDfaY3Y7rczq": {
     "name": "butthole",
@@ -27225,7 +27235,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "SMCWMfwuoSq2PX6bnaRHuaun63aq8WyfXZQyNTKFovb": {
     "name": "based",
@@ -27414,6 +27426,32 @@
     "symbol": "based",
     "flagged_ts": 1790131036,
     "liquidity_at_flag": 35052.31868547025,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "3TTWobUyMxhgK7NPeibKFU5XviJaSXCggLeMGBCzjVmV": {
+    "name": "AntFun",
+    "symbol": "ANTFUN",
+    "flagged_ts": 1790131668,
+    "liquidity_at_flag": 41756.530795157414,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "2paAFwRtNo58HBGP6BjPAsDejyCr2Xaq4quk7chbvRxB": {
+    "name": "Argus",
+    "symbol": "ARGUS",
+    "flagged_ts": 1790131669,
+    "liquidity_at_flag": 39497.02119937546,
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 60,
