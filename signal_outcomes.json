@@ -26073,7 +26073,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "51R8zB5zPiy4VHC5t83dEpCs2pQExktyC5MHJftChvRP": {
@@ -26089,7 +26090,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "5fFVVvhSXMAeDWytT1ayVdbxxM15C1Q7QmojDzqDNj77": {
@@ -26105,7 +26107,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "GJ6RSjJkWEo36UXtKp9zD6hq8oxbPaTx2RuubEbupump": {
@@ -29640,7 +29643,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "EK3tUjy1o8p1YiC7LE7FFytBH7KiL2tkyQ7ebTe9GRp6": {
@@ -29655,7 +29659,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "4ayVL1f1AvLXGXG55DDKoD3XVyxcucZLmcGkSuaUweKc": {
@@ -29670,7 +29675,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "FdWgweu4TULjE6Vx9UDt44FZfpeVV3ixVFpthwtmWCWg": {
@@ -30284,7 +30290,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "GReSjsbT6BYWKAbcyQEiToqsJJ8aMnWF5JwaA9dvFHua": {
     "name": "GOWF",
@@ -30297,7 +30305,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "36jfeokWwR7VDT9eH29sPLgRV9Vjrq4VW5kmzWQ4ZX7v": {
     "name": "CHICK",
@@ -30310,7 +30320,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "GzhS4vivcf3QicqDmRyqG4Vswuh5cmZ8u1kFRS4RUZHy": {
     "name": "Ozzie",
@@ -30424,6 +30436,71 @@
     "breakdown": {
       "MOMENTUM": 57,
       "SAFETY": 100,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "4P4XggCiY9VdnZm5ia2moo7aU7YhcNWURiRhoh63bod5": {
+    "name": "Bluf",
+    "symbol": "BLUF",
+    "flagged_ts": 1790179886,
+    "liquidity_at_flag": 15817.539406707443,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 79,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "5sj7hGXQVG2DXFT2TketJV8k4NAPdWBimw7A7Uq87u2L": {
+    "name": "Large Language Model",
+    "symbol": "LLM",
+    "flagged_ts": 1790179887,
+    "liquidity_at_flag": 20095.952157569867,
+    "breakdown": {
+      "MOMENTUM": 53,
+      "SAFETY": 90,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "2DVhswHStSXsvdvCvMwK91qd92R7UajNiN2X5D8dnvq4": {
+    "name": "Bluf",
+    "symbol": "BLUF",
+    "flagged_ts": 1790179888,
+    "liquidity_at_flag": 30092.911626899142,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "2SJE5ksUjEYgMRz3BcModt3Uyci4jGaesrwGk9e6Pwy4": {
+    "name": "COOLCAT",
+    "symbol": "COOLCAT",
+    "flagged_ts": 1790179889,
+    "liquidity_at_flag": 24298.03476839908,
+    "breakdown": {
+      "MOMENTUM": 84,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "BLmLCKpBaHoyVwfgE4zyLUfeaP4AkKJvrucBbtivYznn": {
+    "name": "Semiconductor chips",
+    "symbol": "NVIDIA",
+    "flagged_ts": 1790179890,
+    "liquidity_at_flag": 30586.274652578824,
+    "breakdown": {
+      "MOMENTUM": 90,
+      "SAFETY": 60,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
