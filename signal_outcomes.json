@@ -23370,7 +23370,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "9mry4cuMLRjyNC9rv2iT3KfesDjdQRLwARzRDWXPqFcB": {
@@ -23386,7 +23387,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "cwbqseTbt8HmXDc4F9bJBLyPzgwMsMUPoWNVrYCpump": {
@@ -26889,7 +26891,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "AzRo4CfMRFRasbMtYEJKvEpqiGPqDS9xi46we5azak5M": {
@@ -27458,7 +27461,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "HwyDsK6v99M9sfcFfVjxrrZA1ot8Dqyqhd8HKA97T9T4": {
     "name": "based",
@@ -27471,7 +27476,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "3TTWobUyMxhgK7NPeibKFU5XviJaSXCggLeMGBCzjVmV": {
     "name": "AntFun",
@@ -27621,6 +27628,45 @@
     "symbol": "CREDITS",
     "flagged_ts": 1790133766,
     "liquidity_at_flag": 38947.85192177721,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "FDSbXaZMvd7Xf226Bu1WPZb4eX28WpsBcTtDcPh7pump": {
+    "name": "Memeopedia",
+    "symbol": "MEMEOPEDIA",
+    "flagged_ts": 1790134685,
+    "liquidity_at_flag": 9831.998866809727,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 75,
+      "LIQUIDITY": 49,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "C4dJnHfUfC72in2qr4FBPbCj1gniD2Y2Qx3QVTEfoqbm": {
+    "name": "Minecoin",
+    "symbol": "MINECOIN",
+    "flagged_ts": 1790134685,
+    "liquidity_at_flag": 46132.71437562773,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "6ioA5bopsMXTbgXh3WshD7F3FFfVS6XP85GEsreQqaKc": {
+    "name": "Yellow Partyhat",
+    "symbol": "YELLOW",
+    "flagged_ts": 1790134686,
+    "liquidity_at_flag": 29254.757056000337,
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 60,
