@@ -23608,7 +23608,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "Hep59F2gAW8X4DrefoEescXTmXKPY35bVgBqbzKJnSVL": {
@@ -23624,7 +23625,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "39AS6pTJ1uozRAcAGpY83n6Z1nE4Jvn8uaH9Dy1o35m1": {
@@ -23640,7 +23642,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "CZGJRJznVrtPMoWEv6qJZj51SEVh6w5xj5oEqMDo82HL": {
@@ -23656,7 +23659,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "CNbPAFd3B9rFgo4uYMBAcLgowABU698HLwACzqU3pump": {
@@ -27095,7 +27099,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "AjTU95ojaYxM6v4XYLbhNSD8ZHWwu56r2H1xKXf7tJZ4": {
@@ -27110,7 +27115,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "2Xb1xHUANM2pNHPMorsWBq1HksYcHJpvKdUQb7DSgC52": {
@@ -27125,7 +27131,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "DgLswkh4MVVaR5onQACgjAVbYg3zzf5kbPqueFne4qL": {
@@ -27694,7 +27701,9 @@
       "LIQUIDITY": 49,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "C4dJnHfUfC72in2qr4FBPbCj1gniD2Y2Qx3QVTEfoqbm": {
     "name": "Minecoin",
@@ -27707,7 +27716,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "6ioA5bopsMXTbgXh3WshD7F3FFfVS6XP85GEsreQqaKc": {
     "name": "Yellow Partyhat",
@@ -27720,7 +27731,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "HA65Jz8YBBSFSFFdwJdJoCBG99iX7jWn2vSXYKyUpump": {
     "name": "Kiro",
@@ -27847,6 +27860,32 @@
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 75,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "DN6MftWAbERGgNkbo7pTZzLD9GUj9VVxbKHTjovbeZEE": {
+    "name": "Agent Wormhole",
+    "symbol": "WORM",
+    "flagged_ts": 1790138303,
+    "liquidity_at_flag": 50051.76676234247,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "BxunyqNHFu8Ma3d7Y8FuQTHAFoxjoCaMTAM7F5EwVPdZ": {
+    "name": "Keyboard Horse",
+    "symbol": "KEYHORSE",
+    "flagged_ts": 1790138304,
+    "liquidity_at_flag": 33055.99787937921,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
