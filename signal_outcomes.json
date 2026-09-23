@@ -22928,7 +22928,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "Fj2y6wxefcJg5wgHEKZUBBwpxuznp86WkPkqUe2CemCY": {
@@ -22944,7 +22945,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "G3cKLYxtkCRDcNmfx9uwnHdUN4LwiDAi1zGUeMxvtB3o": {
@@ -22960,7 +22962,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "AQ5sEridYFNGuFYx6hyWaoXdMKr5M4KFyW91THFomVVS": {
@@ -27194,6 +27197,71 @@
     "liquidity_at_flag": 46882.87024471091,
     "breakdown": {
       "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "SMCWMfwuoSq2PX6bnaRHuaun63aq8WyfXZQyNTKFovb": {
+    "name": "based",
+    "symbol": "based",
+    "flagged_ts": 1790128395,
+    "liquidity_at_flag": 35285.17910755396,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "HMssSv5qWYsLJVDzpQbsrrN9HxR9mE4rUzg7YQwXaT9Y": {
+    "name": "ApeCoin",
+    "symbol": "APE",
+    "flagged_ts": 1790128396,
+    "liquidity_at_flag": 34006.65926907811,
+    "breakdown": {
+      "MOMENTUM": 66,
+      "SAFETY": 100,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "2NWQfwRFYjacyeVSCA56mW7Y5h1tkDG6Kz6zuVf3XzAC": {
+    "name": "Shield.fun",
+    "symbol": "SHIELD",
+    "flagged_ts": 1790128398,
+    "liquidity_at_flag": 28263.601483371884,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 100,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "C7TMDivZNDhnYDNe1qGqwC1LtZS37sVjf7cn6SCSHsZt": {
+    "name": "Ocula Pad",
+    "symbol": "OP",
+    "flagged_ts": 1790128399,
+    "liquidity_at_flag": 51604.228598547204,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "CPCR37Ti6Gfz834WjhEZ2NKw1HbCyUHFxgojvqqFAiuT": {
+    "name": "\ud83c\udf4cKEVIN",
+    "symbol": "\ud83c\udf4cKEVIN",
+    "flagged_ts": 1790128400,
+    "liquidity_at_flag": 56234.09828269674,
+    "breakdown": {
+      "MOMENTUM": 83,
       "SAFETY": 60,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
