@@ -25801,7 +25801,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "BAKCf4B7zyhftgya9xZi45PHRfPg86dsR3AhWp7VqVsw": {
@@ -25817,7 +25818,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "bRt3yf5Wee9Ro4A32SFyyNUEuutpfy22g6i74HPnrt6": {
@@ -25833,7 +25835,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "2vdBpwykNqd2GdrHP4PHUe7j6xXqSwNjxFc2fTgamrG3": {
@@ -25849,7 +25852,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "HakuGJo7Sfxvcxxt32MYY3irQBQoeKC8jDtwZURYpump": {
@@ -29160,7 +29164,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "AChYy8M1xMYfoUrZTf6cZc4yQStbVMW9ZweWPMMqnqA9": {
@@ -29175,7 +29180,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "Dio5RQH693EBHyp9FmUNM8RP2FHwHb4jnP9LLz8sspW1": {
@@ -29759,7 +29765,9 @@
       "LIQUIDITY": 77,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "8UswfwT6nRQx2GbYg5WFGKkxU8KwZPbqXw8Tax4b27ma": {
     "name": "Movie Tickets",
@@ -29772,7 +29780,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "8wsuv63icQUYL5J4GFpzN5kLT7KuZFmaS66rrJKMwRuz": {
     "name": "dwog",
@@ -29785,7 +29795,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "2RmsrB6XTWTkUZBCB5eoK5mExWQG52uTY2X3hqUbpump": {
     "name": "fric",
@@ -29798,7 +29810,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "GLWR3sVCSMuL7ffjCnpjkgC862TV5R5b8ofr3i8bjjhM": {
     "name": "Cysic",
@@ -29974,6 +29988,19 @@
     "symbol": "\u2728Betty",
     "flagged_ts": 1790171772,
     "liquidity_at_flag": 29103.958987040947,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "5Y4J1ndAQC7PEGHfVBB7gtNRAD4HMoMejJgUqFp4Yfom": {
+    "name": "kalron",
+    "symbol": "KAL",
+    "flagged_ts": 1790172455,
+    "liquidity_at_flag": 33016.29992343214,
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 60,
