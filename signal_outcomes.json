@@ -27574,7 +27574,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "2paAFwRtNo58HBGP6BjPAsDejyCr2Xaq4quk7chbvRxB": {
@@ -27589,7 +27590,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "EEQi9LkCEHEgJqZMCPBrUjZbTGcYEk2Mpw3GSGuVsdvh": {
@@ -27604,7 +27606,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "9Asc7gVQo7uc6QVeqnXzR44X1wUQdHmLCPiSX4CVpump": {
@@ -28143,7 +28146,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "FpiJrucNh6QxJsJd2EEtoXTbDjvBqF8YhMNSVFRopump": {
     "name": "Shiny Hunters",
@@ -28156,7 +28161,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "7UobTaZMwdLCDvFN2mFQcVRaqMqfP4BNxtCVDPuJ55xd": {
     "name": "DOGMAN",
@@ -28169,7 +28176,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "GkemxFkQCkuDX2CsDSLXTWwpJgSDUJR2sKnXCqcWpump": {
     "name": "Based Cat",
@@ -28182,7 +28191,9 @@
       "LIQUIDITY": 72,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "5GupMHC51kbvezLdNXtKMuVPSpYW7baGJsxwZpjEYBrS": {
     "name": "Jollybot",
@@ -28195,7 +28206,9 @@
       "LIQUIDITY": 80,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "ENCK19EXtY3w7LaVhguGHcypXvTJt1H4n59UEPcaJ5Gx": {
     "name": "\u9519\u7248\u5ba1\u7f8e\u5409\u86d9",
@@ -28334,6 +28347,84 @@
     "liquidity_at_flag": 36895.681602437646,
     "breakdown": {
       "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "913oNUU4Y3gVt2PmFACoYcJPy1SEgymFytchCKj8zJ4U": {
+    "name": "nigglykitty",
+    "symbol": "niggly",
+    "flagged_ts": 1790146664,
+    "liquidity_at_flag": 28336.662900089214,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "HZasd3q4H3oDkonKvBjSjX1ySFxmVoUGgkPQSa2TZ468": {
+    "name": "Agent Wormhole",
+    "symbol": "WORM",
+    "flagged_ts": 1790146665,
+    "liquidity_at_flag": 39943.931302319674,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "5rmtzMA9HpfstYfv544XhppMqcc9v9gL2e3CzCEppump": {
+    "name": "Jean OTC",
+    "symbol": "JOTC",
+    "flagged_ts": 1790146666,
+    "liquidity_at_flag": 32637.000704845326,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 100,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "8dsb852cDtVzF6DrdgS8Cfe31q6qMaGMxD65fXCHpump": {
+    "name": "Fomo Trump",
+    "symbol": "FomoTrump",
+    "flagged_ts": 1790146668,
+    "liquidity_at_flag": 27164.557861442416,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 90,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "6GH3fLq5W1wHGTE6m2jmUMqBgHtB7sUeeLzRKt7opump": {
+    "name": "Shiny Hunters",
+    "symbol": "SHINYHUNTERS",
+    "flagged_ts": 1790146669,
+    "liquidity_at_flag": 30027.428831544217,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 90,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "5DBVpP2k1pw3CrhpPhwjx52SXX8tHWomocoW5HvQnHnm": {
+    "name": "Dior",
+    "symbol": "DIOR",
+    "flagged_ts": 1790146670,
+    "liquidity_at_flag": 40115.08463886313,
+    "breakdown": {
+      "MOMENTUM": 90,
       "SAFETY": 60,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
