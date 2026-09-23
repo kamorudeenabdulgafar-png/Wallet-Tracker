@@ -29375,7 +29375,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "Bq3DgzKVCaSXRoqQwGVLUbnVMBq1Y8CeD4KsV8SA7xpN": {
@@ -29390,7 +29391,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "Bbs2Y4bL4S4rCe3FY9EWtBpbo8a6LKcKhB7XLsdS56wf": {
@@ -29405,7 +29407,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "2FRHJpsvEbb5SoqNN1h7qQ7NmGkFDzHAWZYW5hsn2Tuy": {
@@ -29420,7 +29423,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "7mYGKXHSUa1Dmifkx9ukxiFhMwAzNqdmYj7oBtNNkeMT": {
@@ -29435,7 +29439,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "1NeqpJNTR7LcxaTNtcrjFDcZxXgEQHwRWvQPDn4NVYJ": {
@@ -30034,7 +30039,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "5Y4J1ndAQC7PEGHfVBB7gtNRAD4HMoMejJgUqFp4Yfom": {
     "name": "kalron",
@@ -30210,6 +30217,45 @@
     "symbol": "BOTIFY",
     "flagged_ts": 1790175100,
     "liquidity_at_flag": 323376.631702528,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "7bx5PeuqCBxDtTbVp7RRWxZN1MyzxjunF1FxAPvWX6JW": {
+    "name": "Crypto X",
+    "symbol": "CX",
+    "flagged_ts": 1790175884,
+    "liquidity_at_flag": 66275.90086483757,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "GReSjsbT6BYWKAbcyQEiToqsJJ8aMnWF5JwaA9dvFHua": {
+    "name": "GOWF",
+    "symbol": "GOWF",
+    "flagged_ts": 1790175886,
+    "liquidity_at_flag": 58266.2548700242,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "36jfeokWwR7VDT9eH29sPLgRV9Vjrq4VW5kmzWQ4ZX7v": {
+    "name": "CHICK",
+    "symbol": "CHICK",
+    "flagged_ts": 1790175887,
+    "liquidity_at_flag": 52000.08476773086,
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 60,
