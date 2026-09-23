@@ -25410,7 +25410,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "DCtHgGtfQXGRYUK27RNcCyDAhn3kd3HhDGefS1Cz7d2P": {
@@ -25426,7 +25427,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "49eVXbTQ9gi28HpGPFU9ttQZUyhYTqSiH3zrusi2pump": {
@@ -25442,7 +25444,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "FM4o4YY3KnPTYVoipQmqep4bSBdbz3aiCQ8qyjoKQnQv": {
@@ -25458,7 +25461,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "FYwow2ZTvmHSCeoSXXKcyrpdU7XhZEaML3dC476iyCR6": {
@@ -25474,7 +25478,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "3CW4m1z1W6bbkocsyBTFyRAuw4YadAPCE4B5UKazobVZ": {
@@ -25490,7 +25495,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "oV7Kzmt3aaNC66z48Cqo6gm7MpVahNGFMEem1N67g6i": {
@@ -25506,7 +25512,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "Aj14CbQBZDfufFMVqjcfBMU3jy6K7hjAGAQXfy3ELuHu": {
@@ -28801,7 +28808,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "DgEPPohACHw7EnGzSyEvMyiXFD6DP95ynUMzeiXnmzMz": {
@@ -29460,7 +29468,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "3gmyj6B3TpBcihfsef3KNv1pJjC1xCPfsrAo1LcF8jK2": {
     "name": "\ud558\ub8e8",
@@ -29473,7 +29483,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "4EXKnYf7at8s5msWqZbjWd7DMvgV222L1dYsttCFpump": {
     "name": "LOOONGUY",
@@ -29486,7 +29498,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "DyJSo6uVhXGxNcRNpoRFUnzJw6ZTH5SBVzQbYuQwi9Fs": {
     "name": "Kindercore Cat",
@@ -29638,6 +29652,32 @@
     "liquidity_at_flag": 43876.62127916578,
     "breakdown": {
       "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "8ZYvkfb6PbZ7v2oh4shrw7LUSpXnxFtHPAehx9H1kBx1": {
+    "name": "Movie Tickets",
+    "symbol": "Tickets",
+    "flagged_ts": 1790167523,
+    "liquidity_at_flag": 31151.54502452889,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "CqLopD6mKRWBFr4us4HNYAd74DYqh6YoopiqsPz4nbXD": {
+    "name": "inu aura",
+    "symbol": "IA",
+    "flagged_ts": 1790167524,
+    "liquidity_at_flag": 32168.009566307177,
+    "breakdown": {
+      "MOMENTUM": 97,
       "SAFETY": 60,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
