@@ -1,26 +1,4 @@
 {
-  "HDB3grLPu5R4qgjuZRhbA5zfVRNJ5G8uhYqSu2CzgXko": {
-    "name": "American Reserve",
-    "symbol": "AR",
-    "flagged_ts": 1789595266,
-    "liquidity_at_flag": 47345.96277939497,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "3dHpr6p61q9jFgjp1aodkR7io52YhWuL6ig6Bn8kqwgp": {
-    "name": "DIVI",
-    "symbol": "DIVI",
-    "flagged_ts": 1789595266,
-    "liquidity_at_flag": 49336.061685974055,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
   "G16Qpr5tqyDndSgNMXcUWLpV1t258RJMtzEtqi9ssvHb": {
     "name": "Digital Investment & Crypto Keep",
     "symbol": "DICK",
@@ -30765,7 +30743,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "8WP2QJ2rz9BPBKtP155nWUDkThiPu5xxbvTxtXH2pump": {
@@ -30780,7 +30759,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "9cNFxUmBVciKfd2fqAGvT8JLXH2YvWtvNQa6tN7Ypump": {
@@ -30795,7 +30775,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "HacWL5zpCHQY5TDbD5ihJfvbZ4Gk7qDifsL1kHbHpump": {
@@ -31277,6 +31258,71 @@
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 100,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "DGg7WY4ZLvbGY3ds4id5fyKVxkH6HNGKEyFhSFY9Ena9": {
+    "name": "Grok 4.7",
+    "symbol": "GROK 4.7",
+    "flagged_ts": 1790200379,
+    "liquidity_at_flag": 17361.016079715853,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 87,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "7TAvPLKuo1FyM5hGxeEthxHk1LULRPvuKPhUKkTQ5p2v": {
+    "name": "EYE ON INTEL",
+    "symbol": "EYE",
+    "flagged_ts": 1790200380,
+    "liquidity_at_flag": 32761.41254415134,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "riZHJ5vigmqyvAEgqCcAQ1pD5FBRPV41gUVxgqkwzfG": {
+    "name": "Stocked",
+    "symbol": "STOCKED",
+    "flagged_ts": 1790200381,
+    "liquidity_at_flag": 48221.942478157296,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "euwCqqdorT6VCYgQjVg9jeT3dpXvjuv86EGQtBVpump": {
+    "name": "Solana Cate",
+    "symbol": "SCATE",
+    "flagged_ts": 1790200382,
+    "liquidity_at_flag": 20947.953789680872,
+    "breakdown": {
+      "MOMENTUM": 58,
+      "SAFETY": 90,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "7udmTJxAaEhX5zdT4MkAFxCYzLLwEyMegtwuVgBW2txG": {
+    "name": "Buttlaunch",
+    "symbol": "BUTT",
+    "flagged_ts": 1790200383,
+    "liquidity_at_flag": 26644.250120958015,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
