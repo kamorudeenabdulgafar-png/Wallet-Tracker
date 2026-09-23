@@ -23540,7 +23540,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "Gx3fBiAPZHMXJf9tuyBQopxc4gCkRj3T5QM1dVfiGUfL": {
@@ -23556,7 +23557,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "DrK9ci66pPJxi9ig327XcVRs8cDzs7frXXoHWwwKvsN5": {
@@ -23572,7 +23574,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "6Qp1LRpbjcySUssTNwDfXKVfESJdJqWGe16XiW7KUtbJ": {
@@ -23588,7 +23591,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "2AaAVpyYBVPoHNfcwpLf4prCXWdYJhDdq11ngfRUCA4T": {
@@ -27615,7 +27619,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "HXrwDWEJgofZwki8k1nEy87meUWyq71ijNhHtWfkxwFW": {
     "name": "PHAT",
@@ -27628,7 +27634,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "2sjtp7DPptkfwa518brCXEVtbY1n34HSHvq2v5PPpZGu": {
     "name": "musebook",
@@ -27641,7 +27649,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "7KoBosSG8pBS2B1UiuvbtffW8Dqstj1ZibLwRPtjpump": {
     "name": "Floofio",
@@ -27654,7 +27664,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "CnXhLUVXeFh7Lz1eRXNJZVLCEd3QTzc9VXn6JrKw3rbR": {
     "name": "CREDITS",
@@ -27667,7 +27679,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "FDSbXaZMvd7Xf226Bu1WPZb4eX28WpsBcTtDcPh7pump": {
     "name": "Memeopedia",
@@ -27781,6 +27795,58 @@
     "breakdown": {
       "MOMENTUM": 50,
       "SAFETY": 100,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "8SzCk5fqDuYN13MK8FszMEBgbcHFEKt76n3W6ApQjvKS": {
+    "name": "CREDITS",
+    "symbol": "CREDITS",
+    "flagged_ts": 1790137477,
+    "liquidity_at_flag": 17280.27720815201,
+    "breakdown": {
+      "MOMENTUM": 94,
+      "SAFETY": 60,
+      "LIQUIDITY": 86,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "GF7PqKBsQSK6FfAda8Lz4tFYfb1mNk7tCfNQUsw3mY7X": {
+    "name": "The Situation",
+    "symbol": "MONITOR",
+    "flagged_ts": 1790137480,
+    "liquidity_at_flag": 16980.88419798626,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 85,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "4XL5qdu9Dr8eUx4FLMFjePniBjyTqkH1sb5N1XL4yy5b": {
+    "name": "Stumble Stonks",
+    "symbol": "STONK",
+    "flagged_ts": 1790137482,
+    "liquidity_at_flag": 29235.529963878536,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "6Fq51BabijaWZ8pqrJcGXu2WoYWk4DuVorwH2j6acScS": {
+    "name": "CREDITS",
+    "symbol": "CREDITS",
+    "flagged_ts": 1790137483,
+    "liquidity_at_flag": 74530.7865321149,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 75,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
