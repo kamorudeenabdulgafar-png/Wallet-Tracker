@@ -1,5 +1,5 @@
 {
-  "last_updated": 1790164098,
+  "last_updated": 1790164582,
   "wallets": [
     {
       "label": "Dev wallet 1",
@@ -94,6 +94,16 @@
   "learning_insight": null,
   "settings": {},
   "recent_alerts": [
+    {
+      "ts": 1790164581,
+      "type": "outcome",
+      "message": "\ud83d\udd34 \u8783\u87f9 (\u8783\u87f9) is dropping fast \u2014 down 100%, may be rugging."
+    },
+    {
+      "ts": 1790164580,
+      "type": "outcome",
+      "message": "\ud83d\udfe2 A Meme Coin (MEME) is still doing really good \u2014 up 275% so far!"
+    },
     {
       "ts": 1790164098,
       "type": "outcome",
@@ -333,16 +343,6 @@
       "ts": 1790161803,
       "type": "wallet",
       "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: HIMS -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/z2PNpcn5BJjxyt7bxiCBbaVA89V8doPcAeaGTvxjswGDLpcdV8pc9ffhTKBLpEGvnU511ox5TKxLAFtNNVdCzNJ"
-    },
-    {
-      "ts": 1790161058,
-      "type": "outcome",
-      "message": "\ud83d\udd34 Bonk (Bonk) is dropping fast \u2014 down 100%, may be rugging."
-    },
-    {
-      "ts": 1790161057,
-      "type": "outcome",
-      "message": "\ud83d\udd34 Department Of AI (DOAI) is dropping fast \u2014 down 100%, may be rugging."
     }
   ]
 }
