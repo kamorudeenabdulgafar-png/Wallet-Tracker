@@ -26718,7 +26718,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "4uBE6XzmS7qyCm6YKbqzjyFimELo81AQvRaok3fQEYGm": {
@@ -26734,7 +26735,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "CzHjqWbXRR4CGMYRD6dJnVTjCDzQhZFCzaeAvmmFT6FH": {
@@ -26750,7 +26752,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "9T78Uviyd6nLyEoDt6JWW9JbRaBohP5ibbwF7Sx2pump": {
@@ -30701,7 +30704,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "6bt4RkPnDYDD3C8CdsGKMP4PZWzVed7yBq4jkXcipump": {
@@ -30716,7 +30720,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "B13BgNYJjj5sLmUdu24cn97eZLqzrfuCEYGbtFRXpEiz": {
@@ -30731,7 +30736,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "uxwu4WoFWBeH2Vh8BN2PCnY4TEJhT3SoY3TUhYvhmzA": {
@@ -31210,7 +31216,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "CAqcebQonWgBVkxjB98ULJ5PXKfXwJxurpqqSsdwoLpk": {
     "name": "Ape and Call",
@@ -31223,7 +31231,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "DtFb8Qu87XnH4jXcpAnTdiJUaffCKfqbzYCE9bNoBkVp": {
     "name": "Ape and Call",
@@ -31236,7 +31246,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "AyYcWNth3J17nQy611iHNvQ4Ue9VyDswveBn5ou4pump": {
     "name": "Agripepe",
@@ -31363,6 +31375,32 @@
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 90,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "B6SoEnXH3GHdEzJoeBgpvBfVMNHrG4PheeMNxD4pump": {
+    "name": "Peer Land",
+    "symbol": "PEER",
+    "flagged_ts": 1790205982,
+    "liquidity_at_flag": 28146.050787436292,
+    "breakdown": {
+      "MOMENTUM": 87,
+      "SAFETY": 90,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "sd3HcZrXLCnpqBCY4PU3LZswKYJsZrPtzHFzHvSpump": {
+    "name": "Pok\u00e9mon",
+    "symbol": "Pok\u00e9mon",
+    "flagged_ts": 1790205984,
+    "liquidity_at_flag": 30271.41695162938,
+    "breakdown": {
+      "MOMENTUM": 48,
+      "SAFETY": 100,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
