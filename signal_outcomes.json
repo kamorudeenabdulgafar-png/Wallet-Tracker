@@ -26801,7 +26801,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "FMfwJH21QACy7fvdF1pKfJUoMfzkKVh6YTDCEYKxGYun": {
@@ -27250,7 +27251,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "HMssSv5qWYsLJVDzpQbsrrN9HxR9mE4rUzg7YQwXaT9Y": {
     "name": "ApeCoin",
@@ -27263,7 +27266,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "2NWQfwRFYjacyeVSCA56mW7Y5h1tkDG6Kz6zuVf3XzAC": {
     "name": "Shield.fun",
@@ -27276,7 +27281,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "C7TMDivZNDhnYDNe1qGqwC1LtZS37sVjf7cn6SCSHsZt": {
     "name": "Ocula Pad",
@@ -27289,7 +27296,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "CPCR37Ti6Gfz834WjhEZ2NKw1HbCyUHFxgojvqqFAiuT": {
     "name": "\ud83c\udf4cKEVIN",
@@ -27302,7 +27311,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "XzgESZtntaSGx4TQY6jV6YS2jdaB7mPUddvXLhXdCAZ": {
     "name": "Compootcoin",
@@ -27452,6 +27463,19 @@
     "symbol": "ARGUS",
     "flagged_ts": 1790131669,
     "liquidity_at_flag": 39497.02119937546,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "EEQi9LkCEHEgJqZMCPBrUjZbTGcYEk2Mpw3GSGuVsdvh": {
+    "name": "White Party Hat",
+    "symbol": "WHITE",
+    "flagged_ts": 1790132189,
+    "liquidity_at_flag": 30321.977295330573,
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 60,
