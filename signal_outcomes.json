@@ -25529,7 +25529,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "FVUhyeSMa3gs2vpELHtb4WqDRSNExzGNp9MonJZrYmAq": {
@@ -25545,7 +25546,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "FN1Qq2yxUoBbDHXtNtP2FL73vBZfCMGQtp5ffi5y6Y2X": {
@@ -25561,7 +25563,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "jyurFsb717v6kNJZLk9LRbHdN1y5ddHTyXP3yrZpump": {
@@ -25577,7 +25580,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "7s4CT6e9TTCv3kNTobr4sXveBJaPgbKJEhYUZPtaDku2": {
@@ -25593,7 +25597,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "2NGojV2jbDaeoKMC2FYKeNshdh2vPtwNRVCkRJ9aiQFy": {
@@ -28824,7 +28829,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "HaYRgD7rjwj1AwoWjafokj4196sufYm4vKFamLZVpump": {
@@ -29513,7 +29519,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "AtbAaWSw6q4E4xSqVb6H1953Dq5HKF6WUAwpQdwdpump": {
     "name": "apeonzcat",
@@ -29526,7 +29534,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "5qHRY1fbkreVZTEfFj9eZ7b81c8Y6mBpaZgmAwUTpump": {
     "name": "BASEDCAT",
@@ -29539,7 +29549,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "GeABsD8MByMY4tQfupxaVAco76ppvGVE8bwUUUe979AU": {
     "name": "The Odyssean Bear",
@@ -29679,6 +29691,58 @@
     "breakdown": {
       "MOMENTUM": 97,
       "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "CFgYFu6zJRAbSTpcaL8fXb56KRtxF9cQVZnBq1vQpump": {
+    "name": "Jean Goth",
+    "symbol": "JEANGOTH",
+    "flagged_ts": 1790168289,
+    "liquidity_at_flag": 15407.410601122261,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 100,
+      "LIQUIDITY": 77,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "8UswfwT6nRQx2GbYg5WFGKkxU8KwZPbqXw8Tax4b27ma": {
+    "name": "Movie Tickets",
+    "symbol": "Tickets",
+    "flagged_ts": 1790168290,
+    "liquidity_at_flag": 42759.72732724934,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "8wsuv63icQUYL5J4GFpzN5kLT7KuZFmaS66rrJKMwRuz": {
+    "name": "dwog",
+    "symbol": "dwog",
+    "flagged_ts": 1790168292,
+    "liquidity_at_flag": 34202.704579114696,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "2RmsrB6XTWTkUZBCB5eoK5mExWQG52uTY2X3hqUbpump": {
+    "name": "fric",
+    "symbol": "FRIC",
+    "flagged_ts": 1790168293,
+    "liquidity_at_flag": 28391.428189854043,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 90,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
