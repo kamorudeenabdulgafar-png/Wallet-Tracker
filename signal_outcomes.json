@@ -26702,7 +26702,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "eNEeCdCUGGvXfaSpGNaG2fA6rL7GeMSyzUjT4XVpump": {
@@ -31041,7 +31042,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "BAJhfyGj6HRaCU2UHATd9NVLR2SjWoAXS6aVayp2gjZh": {
     "name": "pog",
@@ -31115,6 +31118,45 @@
     "liquidity_at_flag": 31042.760479119497,
     "breakdown": {
       "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "HWrudsAcGvyviNnkvBzf7EenubFjNB3b7Xwkw2Hv92LA": {
+    "name": "NightTrader",
+    "symbol": "NightTrade",
+    "flagged_ts": 1790195795,
+    "liquidity_at_flag": 33465.75043604482,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "7Rv4Z9mMSPX5Xjy4pmnRvAVM1DP584ySQtE2uMYmMg6K": {
+    "name": "Mommy Bonnie",
+    "symbol": "MOMMY",
+    "flagged_ts": 1790195796,
+    "liquidity_at_flag": 79659.52489817065,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "HCkeZL3A91m2einMGiFxD1UUWsvdikPErdzppK41ruam": {
+    "name": "hyENA",
+    "symbol": "hyENA",
+    "flagged_ts": 1790195797,
+    "liquidity_at_flag": 27901.69946053296,
+    "breakdown": {
+      "MOMENTUM": 84,
       "SAFETY": 60,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
