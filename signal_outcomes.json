@@ -23965,7 +23965,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "135XkNSuaAHhzsepNRWLx1ybRoiB916k13AEiBJXsKGS": {
@@ -23981,7 +23982,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "ChssKThs126nq9PB7hNRUyX96w6AJUiqkFkJfqokvtue": {
@@ -23997,7 +23999,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "7PDAotcRRWUNUubyweQbUFaJ1hZb9iEbcpxPxN3dpump": {
@@ -24013,7 +24016,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "GBS6hFShvPFh1DbzXNMJrGoxssWajMHQQWVEngRwUyiR": {
@@ -24029,7 +24033,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "AB5Y5X4E8gFFPSYekXscTFNwxMZJrp5G9iA9SyZviG5b": {
@@ -24045,7 +24050,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "EBywaqCruwHqireo2nWrBEaSSETgFkWWycgZ7QCDe3zS": {
@@ -27468,7 +27474,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "A5ZiQNqMPuNY2VvmwpbYJ9m4vpsbTnAqKSgvuCKFpump": {
@@ -27483,7 +27490,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "EoVc13TiwcPb42dTwxjHAcSSxDyTKuoe4EoK9T2VCEzJ": {
@@ -27498,7 +27506,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "AaMAjVuLGtQzyS8uxXsbLjS6f6ppZ8YBXrMtAydJ6Y5H": {
@@ -27513,7 +27522,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "9AFExNuqiYsSXd7ZkMTQQqshXLYPmMsGmopJVh6bJ6K8": {
@@ -28067,7 +28077,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "2Huhr8rHzgsiVF9zB9dBjECKwF4Le9TzBCoye4qGpump": {
     "name": "ShinyHunters",
@@ -28080,7 +28092,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "AAb3isNDDdb1LUz4F1gDFiUPjFb7t9ScWdnJ44ymSBuk": {
     "name": "PWNED PC",
@@ -28093,7 +28107,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "9Y2jtz7hUGYfC8GurFfnnorFE9m4fygNb5e26SkTCMqb": {
     "name": "jollybot",
@@ -28230,6 +28246,58 @@
     "symbol": "DigiCash",
     "flagged_ts": 1790143623,
     "liquidity_at_flag": 29702.323511828938,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "GGoKxFknXPWZhRysaRQLPfRWGeivtFRrygmXSZHXbHSo": {
+    "name": "Argus",
+    "symbol": "ARGUS",
+    "flagged_ts": 1790144873,
+    "liquidity_at_flag": 20771.548755806605,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "7ywxRE2usjANhVc6hzUg8jQkAjeyMtz8cwbL6JRawvtN": {
+    "name": "Nvidia Cat\u3002\u3002",
+    "symbol": "MAU",
+    "flagged_ts": 1790144874,
+    "liquidity_at_flag": 32145.403287867324,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "EUhEDPbDtKtSnSvfUbboNqMGEEY4uCE7Z4qPuYiAQrnb": {
+    "name": "\u9519\u7248\u5ba1\u7f8e\u5409\u86d9",
+    "symbol": "\u7532\u4ea2\u86d9",
+    "flagged_ts": 1790144875,
+    "liquidity_at_flag": 44177.84182792429,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "64BockhrqAdZtkdDtVbA2tPkT1TPMW75FBx7qYHpgFKm": {
+    "name": "musebook",
+    "symbol": "musebook",
+    "flagged_ts": 1790144876,
+    "liquidity_at_flag": 35866.176163129065,
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 60,
