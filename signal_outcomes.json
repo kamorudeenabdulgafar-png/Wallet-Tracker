@@ -24526,7 +24526,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "9G6Q9wBog4m4ZZg6oyqvcDKYhFq7psJNawm1ewjmk5n5": {
@@ -24542,7 +24543,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "CLypAKGVEbxwjXzBUcQv8DvF7YucVxobZtyWqt1KAvA6": {
@@ -28077,7 +28079,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "HA1otV5CfrgwP6fX8X3S7YyjTtKnQQBMgV9FN3mhBWMn": {
@@ -28092,7 +28095,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "G25MKsui7QauFYB3q3ppCUHLkB2gupxYQi2oejKKYefm": {
@@ -28107,7 +28111,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "3cCc2PBmQjc3VMgVLsnDDNzw6WxU4GKimxguAhMy2KXY": {
@@ -28122,7 +28127,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "ARrg9we22RCMrYxSNkLb3eGz1usV19wXJqcn4FMwAChe": {
@@ -28571,7 +28577,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "GEhVK32cTsLp6MLxHgjfnz5xucu9UEChHqeoTrNXkLnA": {
     "name": "A Meme Coin",
@@ -28584,7 +28592,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "2tkeTLSZvNJ2tf2YoLyHkFStji6xW1e7xfMDnTu1oMJk": {
     "name": "The Toad Pepe",
@@ -28695,6 +28705,58 @@
     "symbol": "BLEE",
     "flagged_ts": 1790153409,
     "liquidity_at_flag": 67368.27700431622,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "HaYRgD7rjwj1AwoWjafokj4196sufYm4vKFamLZVpump": {
+    "name": "Archibald Brown",
+    "symbol": "ARCHIBROWN",
+    "flagged_ts": 1790153928,
+    "liquidity_at_flag": 45540.7910844689,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 90,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "H4bVJBARq1fWsH2js4xvn3F8vp38h1ae64fSKtKLGnw8": {
+    "name": "ARK",
+    "symbol": "ARK",
+    "flagged_ts": 1790153929,
+    "liquidity_at_flag": 36012.64934194529,
+    "breakdown": {
+      "MOMENTUM": 78,
+      "SAFETY": 100,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "2GpTriEzFSr36YHc9Kuk9K7ncSChVsGvAM5RfGVPQQSZ": {
+    "name": "Usavich",
+    "symbol": "\ud83d\udcb2Usavich",
+    "flagged_ts": 1790153930,
+    "liquidity_at_flag": 30557.5288443034,
+    "breakdown": {
+      "MOMENTUM": 93,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "2m5Z4BMngRmEdHyCsJ1i4dvQjai7se9uM1x59GQUj3gj": {
+    "name": "Gigacat",
+    "symbol": "GIGACAT",
+    "flagged_ts": 1790153932,
+    "liquidity_at_flag": 42894.256563776595,
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 60,
