@@ -26977,7 +26977,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "4jRg4s3cQRELT7BBKPZVrWwsemxgWhQZCGQjYzR6pump": {
@@ -26992,7 +26993,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "6Wr7KF4F1NZ3cMxCQzaSr3kEha2uLnCYKbEC3MD5pump": {
@@ -27007,7 +27009,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "6A1emS3pCr4DXXXWX7KaQUWwfxwKKXs1R5Ch386RK7Cy": {
@@ -27022,7 +27025,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "DpBxN1aQiwVJ15nT4VvtDbKrPfcxdrvgfrMZSx5pP3aU": {
@@ -27531,7 +27535,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "9Asc7gVQo7uc6QVeqnXzR44X1wUQdHmLCPiSX4CVpump": {
     "name": "FRUFO",
@@ -27697,6 +27703,45 @@
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 100,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "JssmnZtSMWJKwNWHMPcV6tucyJ2Jdknkc2RPcAmg6YM": {
+    "name": "Claude Ai",
+    "symbol": "claude",
+    "flagged_ts": 1790135830,
+    "liquidity_at_flag": 35059.74750367405,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "89TiYcehJ3C2Lxed4hEnvds5EoDPQdoa4R21WSHt4MVj": {
+    "name": "Strategic WinRar Bag Reserve",
+    "symbol": "SWBR",
+    "flagged_ts": 1790135832,
+    "liquidity_at_flag": 27938.627547042986,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "E7ve8kZp3EAuUWjA9MRmy51TBKmm6hkA3KQVWw5P2sbm": {
+    "name": "SHARK  CARDS",
+    "symbol": "SHARKCARDS",
+    "flagged_ts": 1790135833,
+    "liquidity_at_flag": 28165.99662979663,
+    "breakdown": {
+      "MOMENTUM": 87,
+      "SAFETY": 60,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
