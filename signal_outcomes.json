@@ -25733,7 +25733,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "4xxwmNeB484HYUPW5wi6Bsx1ArPgk2WErSNLRikML8T6": {
@@ -25749,7 +25750,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "NJepmur3JSzSerafFqQgtYcgXFziQ62Hi8NceXwsVJW": {
@@ -25765,7 +25767,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "FSzrdBek3riVNxTcSXGuGuitzEJC1VgHKb1ukTbBbKx3": {
@@ -25781,7 +25784,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "DVoLPX3s7HkgoKGWr1fYfY4MW5oFKEdCGJmqxF6t59Xo": {
@@ -29124,7 +29128,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "E66pKidAAKBpT2cNtMSCubAikkibroTDN8bGNBaeG7UG": {
@@ -29139,7 +29144,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "FZLwF9oz4et8eCpF8Ajq2xyhHWhLPQmvF6sk5LEv8BaB": {
@@ -29955,6 +29961,19 @@
     "symbol": "MemeFirm",
     "flagged_ts": 1790171273,
     "liquidity_at_flag": 44771.35276129177,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "4GscP6cRfXEGHVF4paeB1tWhsUgDNUMDXY1nuZG5B2CX": {
+    "name": "\u2728Betty",
+    "symbol": "\u2728Betty",
+    "flagged_ts": 1790171772,
+    "liquidity_at_flag": 29103.958987040947,
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 60,
