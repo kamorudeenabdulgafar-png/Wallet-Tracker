@@ -26651,7 +26651,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "7t34JCMJNiMzZwKXy6ZZy4bih6Fjxqs8dokxUm7qNsxM": {
@@ -26667,7 +26668,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "2mV4aL2QFYyWPDj7Tv8iJL7XA3NAdN7GNFNQe5zv1zGH": {
@@ -30538,7 +30540,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "4P4XggCiY9VdnZm5ia2moo7aU7YhcNWURiRhoh63bod5": {
@@ -30957,7 +30960,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "AspeNGZkDv7ZFzo991nL3vjHcD6P8DeTLxchzU2YHcNU": {
     "name": "artcoin",
@@ -30970,7 +30975,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "6j9vzjsuitqMg7o1b66AHTCDFj62pfZAWZpbMLX1daiY": {
     "name": "Jean Phil",
@@ -31081,6 +31088,19 @@
     "symbol": "jev",
     "flagged_ts": 1790193258,
     "liquidity_at_flag": 28744.50202757288,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "3L9RHgNPZYXWCEqFntjVEPLh4JSpWz2FDzbZwALsJz1m": {
+    "name": "Unreal Agent",
+    "symbol": "UNREAL",
+    "flagged_ts": 1790193943,
+    "liquidity_at_flag": 31042.760479119497,
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 60,
