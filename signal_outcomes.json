@@ -1,37 +1,4 @@
 {
-  "6unf4HeFkU2wPkd4aq5vuy7sSkU74J36bHJREyt2iLzq": {
-    "name": "Absolutely Retarded Chain",
-    "symbol": "ARC",
-    "flagged_ts": 1789597902,
-    "liquidity_at_flag": 15512.374222820918,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "BFt7QKEL81QGSUTQrXL2hLcZyviuhp3KL7qAsbAtpump": {
-    "name": "Pill Rick",
-    "symbol": "PILLRICK",
-    "flagged_ts": 1789597903,
-    "liquidity_at_flag": 22567.84608239241,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "3CVtmYCK7QvuXuQcKgrvwqvEizeWGBJw3K9DceVPPWfZ": {
-    "name": "maps",
-    "symbol": "maps",
-    "flagged_ts": 1789597905,
-    "liquidity_at_flag": 35618.624556711766,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
   "EWU4W2goCBRSEHdk7Ap7tv5wqDXRjE4rKYeaDvdo47HX": {
     "name": "Solana",
     "symbol": "Solana",
@@ -26798,7 +26765,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "Bc6MChJmsQYd3qayLbbeFG9u2umNVEo9Q776BJyjWMo6": {
@@ -26814,7 +26782,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "E2PkhpDd9eMbDyxr2Gdwm34Nr4ZVUtguHZzeSEcu9fDr": {
@@ -26830,7 +26799,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "4wLpoGkDaS117rBdp6Accqm6uc3QuFicn1Z6Ld9YieQG": {
@@ -31216,7 +31186,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "64FityyBGWXC1Rc89kBRT8dNEwrXCskGBCnfGy3Mpump": {
     "name": "Fomo Game",
@@ -31229,7 +31201,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "DGg7WY4ZLvbGY3ds4id5fyKVxkH6HNGKEyFhSFY9Ena9": {
     "name": "Grok 4.7",
@@ -31383,6 +31357,58 @@
       "MOMENTUM": 100,
       "SAFETY": 100,
       "LIQUIDITY": 67,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "C3uakVCDvytaVH4NaStoTwfdVjY5ocnWZS2kDimfFfjK": {
+    "name": "nuvexfamily",
+    "symbol": "NUVEX",
+    "flagged_ts": 1790203513,
+    "liquidity_at_flag": 44021.35772989201,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "36ApigLuDzrr2kacn33Q32oierqhAb41rme4ZWTkkQ36": {
+    "name": "Scanny",
+    "symbol": "SCANNY",
+    "flagged_ts": 1790203515,
+    "liquidity_at_flag": 58092.77009699693,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "HSUMi4rMgjrx7zRUabw3ogGu1pa5hmF2eVcXj9Apump": {
+    "name": "goon",
+    "symbol": "goon",
+    "flagged_ts": 1790203516,
+    "liquidity_at_flag": 62279.6535548556,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 100,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "DYoamZdsSymXu1LswAHu3JjX6iNk9rEiPjojHdoC8My2": {
+    "name": "\u7389\u5154",
+    "symbol": "\u7389\u5154",
+    "flagged_ts": 1790203518,
+    "liquidity_at_flag": 37538.15486251839,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
     "checkpoints_done": []
