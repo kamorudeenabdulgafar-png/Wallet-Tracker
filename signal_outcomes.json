@@ -22877,7 +22877,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "6PqgNCam4HBtJyBsoR99nB2GQHQAtCFfcPfzN4khdcrG": {
@@ -22893,7 +22894,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "6XngSBF4uDGzzDTJAfDnQj642PAwUuupvz4ZfVXdyUH8": {
@@ -22909,7 +22911,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "53KPQu3xeHBReqhJ7vw4ZoXbZkmxtgeeYufZQEvqJP8t": {
@@ -27068,7 +27071,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "E227QbhX34dGo7fc1sqpZxDc8jgNZbU8ybvvxfUyxmrL": {
     "name": "Layers",
@@ -27081,7 +27086,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "3i43bRLKSomUXyin1jgGsd3y9MgBW1cdX3nh43YD3W4R": {
     "name": "Shield.fun",
@@ -27094,7 +27101,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "2KzwVRgds7S1y25iPVpdGgeY8rBi898gCyJWK5mUWEqo": {
     "name": "Charizard",
@@ -27107,7 +27116,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "CV7zWsQzwachDCqivRrXdzSzUbPxcvUVuKLzQU52Ly5g": {
     "name": "Layers",
@@ -27120,7 +27131,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "5UdD5iWvBCotYteT9cg7d3iGpPcQYZFbaARYtUXRmjNL": {
     "name": "Shield.fun",
@@ -27153,6 +27166,32 @@
     "symbol": "SHIELD",
     "flagged_ts": 1790125638,
     "liquidity_at_flag": 61671.655379114556,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "9Dvdu6rxNEqWWZaTTWgonHF7yFeUZGQWrvydk8JCWYB3": {
+    "name": "TikTok Official Token",
+    "symbol": "TlKTOK",
+    "flagged_ts": 1790127903,
+    "liquidity_at_flag": 192172.7276540207,
+    "breakdown": {
+      "MOMENTUM": 89,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "BqyH1jV9ZhPxfXMsL23Ht49zCfXksc4fWDfaY3Y7rczq": {
+    "name": "butthole",
+    "symbol": "BUTTHOLE",
+    "flagged_ts": 1790127904,
+    "liquidity_at_flag": 46882.87024471091,
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 60,
