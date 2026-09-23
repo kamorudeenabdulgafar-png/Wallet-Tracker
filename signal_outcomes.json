@@ -26124,7 +26124,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "7NDC4UXwdPNTV6MTSWtNenS7rQY92vkJzoBAzeikpump": {
@@ -30418,7 +30419,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "5fHuUXJ86DrUQHvZ1QtxJiG6HLMqXsSQQ94SRWUqwvrv": {
     "name": "Cysic",
@@ -30431,7 +30434,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "J9kM81ULNmFiGL5tdVNBBrFYFom2RNAt8dGs49uHHhgL": {
     "name": "Duel Arena",
@@ -30444,7 +30449,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "c4AtfqMRbC9FuHtVEHDhCm453tytU9E34MXXrp6bLuf": {
     "name": "Bluf",
@@ -30558,6 +30565,71 @@
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 75,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "56oZenCiJWDoNb415jEWUTSs1L73jdFr2pGtR2DhHWPY": {
+    "name": "BotFamily",
+    "symbol": "BFM",
+    "flagged_ts": 1790182563,
+    "liquidity_at_flag": 38412.18307032881,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 90,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "5GXKdfzyetJ81qnP2LzLdWxtT8EM6Z6K2CBSEoNRpump": {
+    "name": "Go Birds",
+    "symbol": "$BIRDS",
+    "flagged_ts": 1790182564,
+    "liquidity_at_flag": 22628.08795834629,
+    "breakdown": {
+      "MOMENTUM": 79,
+      "SAFETY": 100,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "CBWWB7gLcnSBoYZa3uwBYhoboB4iVp6yKuB81FHXU4vR": {
+    "name": "BLEHJAK",
+    "symbol": "BLEHJAK",
+    "flagged_ts": 1790182566,
+    "liquidity_at_flag": 27307.114643600187,
+    "breakdown": {
+      "MOMENTUM": 89,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "DZQsWjxozDYdBjB1qYvrNnzE72GjzAfTYYbp7VV2dU57": {
+    "name": "StonkGO",
+    "symbol": "SGO",
+    "flagged_ts": 1790182568,
+    "liquidity_at_flag": 45569.19659823476,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "M8TQxBWgV4VqQhiEcFDDXX1Z9kyUVe1eVkhfr5kpump": {
+    "name": "just a chill agrippa",
+    "symbol": "CHILLAGRI",
+    "flagged_ts": 1790182569,
+    "liquidity_at_flag": 30973.053816888514,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 90,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
