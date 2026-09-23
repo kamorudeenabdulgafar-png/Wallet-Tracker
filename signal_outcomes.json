@@ -26764,7 +26764,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "Hrnb73ApR5nvz61g4ifEhRz9CLE9Njm4FbRaxi2Pafuw": {
@@ -26780,7 +26781,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "F3ycuzZtFjbEQj3DWzXmnfS5xWLGBi4gnzaJsat7jBJF": {
@@ -30763,7 +30765,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "CZgtfCUQP74CXB2i26Ca8xJysS6gCvfCtvSCa7mXPTDf": {
@@ -30778,7 +30781,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "9gnnHoCwKsWjrmXqexWE6ggRVaxg2jwj6VWj3oJgqcYQ": {
@@ -31197,7 +31201,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "7P1UwwN2HmMrBuXgiN1VPruLY7rsWmK6QHZ9bAoSpump": {
     "name": "fomo fan",
@@ -31364,6 +31370,19 @@
       "MOMENTUM": 100,
       "SAFETY": 60,
       "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "AyYcWNth3J17nQy611iHNvQ4Ue9VyDswveBn5ou4pump": {
+    "name": "Agripepe",
+    "symbol": "Agripepe",
+    "flagged_ts": 1790202655,
+    "liquidity_at_flag": 13429.787382193947,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 100,
+      "LIQUIDITY": 67,
       "SMART MONEY": 0
     },
     "checkpoints_done": []
