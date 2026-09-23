@@ -23931,7 +23931,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "6QjW62jPQEy5DB3qmjxrm6yeuPmsiAHx9TkRYJ9P7PeL": {
@@ -23947,7 +23948,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "671dNhKr12xRoPmfkevzG1daqi4c9KMAA9J83ExyMWJ7": {
@@ -27402,7 +27404,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "BQtbEDcZRciafnXk5t5pFFaAiDkBAGufsRV3Ms9GJbiU": {
@@ -27417,7 +27420,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "CUKJkyVs5F6RVfcHptLHJ9KLW42ME3so3vtWbF8fpump": {
@@ -27432,7 +27436,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "9RL1WFSXYyV4ZhdVbRyfm5zLFu1zPdkaPVQXo879pump": {
@@ -27447,7 +27452,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "479oPFizvo2hati4ZbN8vbBr43tjHB2QkbKqLhkd6bNX": {
@@ -28001,7 +28007,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "HA1otV5CfrgwP6fX8X3S7YyjTtKnQQBMgV9FN3mhBWMn": {
     "name": "Shield.fun",
@@ -28014,7 +28022,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "G25MKsui7QauFYB3q3ppCUHLkB2gupxYQi2oejKKYefm": {
     "name": "FXD",
@@ -28027,7 +28037,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "3cCc2PBmQjc3VMgVLsnDDNzw6WxU4GKimxguAhMy2KXY": {
     "name": "Uranus",
@@ -28040,7 +28052,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "ARrg9we22RCMrYxSNkLb3eGz1usV19wXJqcn4FMwAChe": {
     "name": "Grokification",
@@ -28155,6 +28169,71 @@
       "MOMENTUM": 66,
       "SAFETY": 100,
       "LIQUIDITY": 80,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "ENCK19EXtY3w7LaVhguGHcypXvTJt1H4n59UEPcaJ5Gx": {
+    "name": "\u9519\u7248\u5ba1\u7f8e\u5409\u86d9",
+    "symbol": "\u7532\u4ea2\u86d9",
+    "flagged_ts": 1790143618,
+    "liquidity_at_flag": 29883.879330056538,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "6LUk3hkWckoUucAECyTy7qkBCDV3iqri3RL1iSJ75eg7": {
+    "name": "\u9519\u7248\u5ba1\u7f8e\u5409\u86d9",
+    "symbol": "\u7532\u4ea2\u86d9",
+    "flagged_ts": 1790143620,
+    "liquidity_at_flag": 29011.42398946114,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "DYGt9Aaow8ibTwBAvT9cEAMvC4eC7PeDxFXycBn165E": {
+    "name": "Starbucks Corporation",
+    "symbol": "STARBUCKS",
+    "flagged_ts": 1790143621,
+    "liquidity_at_flag": 117735.84377799547,
+    "breakdown": {
+      "MOMENTUM": 95,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "PsN5zoDCuwAJWoT35By27dwLLWw9HZJVMeJxbAXyAdn": {
+    "name": "Tesla",
+    "symbol": "TSLA",
+    "flagged_ts": 1790143622,
+    "liquidity_at_flag": 151945.7551675531,
+    "breakdown": {
+      "MOMENTUM": 98,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "77tee1K3ReEnLwhodBidfjE7RiffaGQAZyLmXqRi2j3x": {
+    "name": "DigiCash",
+    "symbol": "DigiCash",
+    "flagged_ts": 1790143623,
+    "liquidity_at_flag": 29702.323511828938,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
     "checkpoints_done": []
