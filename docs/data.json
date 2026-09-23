@@ -1,5 +1,5 @@
 {
-  "last_updated": 1790161058,
+  "last_updated": 1790161818,
   "wallets": [
     {
       "label": "Dev wallet 1",
@@ -10,7 +10,7 @@
     "5CEbueQnq1Ym2uSSx2xXds3jQAqT1BDnkA59RZobSPAG": {
       "label": "Dev wallet 1",
       "buy_count": 302,
-      "sell_count": 180,
+      "sell_count": 181,
       "total_buy_usd": 15565.105837267645,
       "total_sell_usd": 0.0,
       "tokens_traded": [
@@ -67,7 +67,7 @@
         "USD1ttGY1N17NEEHLmELoaybftRBUSErhqYiQzvEmuB",
         "cbbtcf3aa214zXHbiAZQwf4122FBYbraNdFqgw4iMij"
       ],
-      "last_active": 1790160550,
+      "last_active": 1790161804,
       "positions": {},
       "realized_pnl_usd": 0.0
     }
@@ -86,7 +86,7 @@
     "count": 2835,
     "up_count": 613,
     "total_change_pct": -155586.29928175083,
-    "rug": 1077,
+    "rug": 1078,
     "doing_well": 10,
     "steady": 6,
     "fading": 10
@@ -94,6 +94,66 @@
   "learning_insight": null,
   "settings": {},
   "recent_alerts": [
+    {
+      "ts": 1790161818,
+      "type": "outcome",
+      "message": "\ud83d\udfe0 butthole coin (BUTTHOLE) is fading \u2014 down 48% so far."
+    },
+    {
+      "ts": 1790161816,
+      "type": "outcome",
+      "message": "\ud83d\udd34 BUILDER HAT CULT (BHC) is dropping fast \u2014 down 100%, may be rugging."
+    },
+    {
+      "ts": 1790161815,
+      "type": "outcome",
+      "message": "\ud83d\udd34 Dior (DIOR) is dropping fast \u2014 down 100%, may be rugging."
+    },
+    {
+      "ts": 1790161814,
+      "type": "outcome",
+      "message": "\ud83d\udd34 Shiny Hunters (SHINYHUNTERS) is dropping fast \u2014 down 66%, may be rugging."
+    },
+    {
+      "ts": 1790161813,
+      "type": "outcome",
+      "message": "\ud83d\udd34 Fomo Trump (FomoTrump) is dropping fast \u2014 down 88%, may be rugging."
+    },
+    {
+      "ts": 1790161812,
+      "type": "outcome",
+      "message": "\ud83d\udd34 Jean OTC (JOTC) is dropping fast \u2014 down 90%, may be rugging."
+    },
+    {
+      "ts": 1790161811,
+      "type": "outcome",
+      "message": "\ud83d\udd34 Agent Wormhole (WORM) is dropping fast \u2014 down 100%, may be rugging."
+    },
+    {
+      "ts": 1790161810,
+      "type": "outcome",
+      "message": "\ud83d\udd34 nigglykitty (niggly) is dropping fast \u2014 down 100%, may be rugging."
+    },
+    {
+      "ts": 1790161809,
+      "type": "outcome",
+      "message": "\ud83d\udd34 Karate Cat (KCAT) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
+    },
+    {
+      "ts": 1790161808,
+      "type": "scanner",
+      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\nWALTER WORM (WALTER)\nOpportunity: 76/100\n\nMOMENTUM     100\nSAFETY       60\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$38,453, 11 min since pool creation\n\u2022 Up +116% in the last hour, ~$107,378 in 24h volume (2.8x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 95% of supply (very concentrated)\n\nCA: 1NeqpJNTR7LcxaTNtcrjFDcZxXgEQHwRWvQPDn4NVYJ\nhttps://dexscreener.com/solana/1NeqpJNTR7LcxaTNtcrjFDcZxXgEQHwRWvQPDn4NVYJ\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
+    },
+    {
+      "ts": 1790161804,
+      "type": "wallet",
+      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: SPYx -> USDC\nTrade size: unknown\nBought token: USD Coin (USDC)\nCA: EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v\nhttps://solscan.io/tx/G1n2wRnkRdVhgzqDDQ6S8r7kg4aMNoQ9YfHTjojqg4aZ1VPMmdMVkuswsZZ9DoUeDRoUyrBDdkd9tWVrxi2FbhP"
+    },
+    {
+      "ts": 1790161803,
+      "type": "wallet",
+      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: HIMS -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/z2PNpcn5BJjxyt7bxiCBbaVA89V8doPcAeaGTvxjswGDLpcdV8pc9ffhTKBLpEGvnU511ox5TKxLAFtNNVdCzNJ"
+    },
     {
       "ts": 1790161058,
       "type": "outcome",
@@ -283,66 +343,6 @@
       "ts": 1790159865,
       "type": "scanner",
       "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\nRef (Ref)\nOpportunity: 76/100\n\nMOMENTUM     100\nSAFETY       60\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$34,690, 19 min since pool creation\n\u2022 Up +159% in the last hour, ~$412,574 in 24h volume (11.9x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 94% of supply (very concentrated)\n\nCA: SzWRxzLK1cz89eZ8S8hzPyEC8hY3nE5R945JKRfT9Be\nhttps://dexscreener.com/solana/SzWRxzLK1cz89eZ8S8hzPyEC8hY3nE5R945JKRfT9Be\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
-    },
-    {
-      "ts": 1790159864,
-      "type": "scanner",
-      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\nCS18 (CS18)\nOpportunity: 76/100\n\nMOMENTUM     100\nSAFETY       60\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$75,696, 13 min since pool creation\n\u2022 Up +199% in the last hour, ~$644,253 in 24h volume (8.5x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 90% of supply (very concentrated)\n\nCA: WKP7GwUaWJn7JpY7JdbS9yQ22r8X9XzzpUpCnXUKPVG\nhttps://dexscreener.com/solana/WKP7GwUaWJn7JpY7JdbS9yQ22r8X9XzzpUpCnXUKPVG\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
-    },
-    {
-      "ts": 1790159863,
-      "type": "scanner",
-      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\n\u8783\u87f9 (\u8783\u87f9)\nOpportunity: 76/100\n\nMOMENTUM     100\nSAFETY       60\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$51,481, 12 min since pool creation\n\u2022 Up +160% in the last hour, ~$140,532 in 24h volume (2.7x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 84% of supply (very concentrated)\n\nCA: B8TsRJFEVYDYqVK9VwrxxWJfc5jDjuhQcsaazxtLVBDd\nhttps://dexscreener.com/solana/B8TsRJFEVYDYqVK9VwrxxWJfc5jDjuhQcsaazxtLVBDd\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
-    },
-    {
-      "ts": 1790159862,
-      "type": "scanner",
-      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\nRef (Ref)\nOpportunity: 76/100\n\nMOMENTUM     100\nSAFETY       60\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$71,060, 12 min since pool creation\n\u2022 Up +95% in the last hour, ~$263,234 in 24h volume (3.7x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 92% of supply (very concentrated)\n\nCA: 9TSR8LD9L2tywk3MokNXJBFqSY6CQHLFkZmxNTQovqex\nhttps://dexscreener.com/solana/9TSR8LD9L2tywk3MokNXJBFqSY6CQHLFkZmxNTQovqex\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
-    },
-    {
-      "ts": 1790158883,
-      "type": "outcome",
-      "message": "\ud83d\udd34 \u5f52\u96f6\u4e16\u754c (\u5f52\u96f6\u4e16\u754c) is dropping fast \u2014 down 100%, may be rugging."
-    },
-    {
-      "ts": 1790158881,
-      "type": "outcome",
-      "message": "\ud83d\udd34 PURRL (PURRL) is dropping fast \u2014 down 65%, may be rugging."
-    },
-    {
-      "ts": 1790158880,
-      "type": "outcome",
-      "message": "\ud83d\udd34 Archibald Brown (ARCHIBROWN) is dropping fast \u2014 down 100%, may be rugging."
-    },
-    {
-      "ts": 1790158880,
-      "type": "outcome",
-      "message": "\ud83d\udd34 DigiCash (DigiCash) is dropping fast \u2014 down 100%, may be rugging."
-    },
-    {
-      "ts": 1790158879,
-      "type": "outcome",
-      "message": "\ud83d\udd34 Tesla (TSLA) is dropping fast \u2014 down 100%, may be rugging."
-    },
-    {
-      "ts": 1790158878,
-      "type": "outcome",
-      "message": "\ud83d\udd34 Starbucks Corporation (STARBUCKS) is dropping fast \u2014 down 100%, may be rugging."
-    },
-    {
-      "ts": 1790158877,
-      "type": "outcome",
-      "message": "\ud83d\udd34 \u9519\u7248\u5ba1\u7f8e\u5409\u86d9 (\u7532\u4ea2\u86d9) is dropping fast \u2014 down 100%, may be rugging."
-    },
-    {
-      "ts": 1790158876,
-      "type": "outcome",
-      "message": "\ud83d\udd34 \u9519\u7248\u5ba1\u7f8e\u5409\u86d9 (\u7532\u4ea2\u86d9) is dropping fast \u2014 down 100%, may be rugging."
-    },
-    {
-      "ts": 1790158875,
-      "type": "outcome",
-      "message": "\ud83d\udd34 Retard Jean (jeantard) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
     }
   ]
 }
