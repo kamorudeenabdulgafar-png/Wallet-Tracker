@@ -1,26 +1,4 @@
 {
-  "3vbTYGKSKQotBFcKvBt8euA33hqm1NjxGXsPYpnUP9ax": {
-    "name": "Finally Rich Off Gambling",
-    "symbol": "FROG",
-    "flagged_ts": 1789592989,
-    "liquidity_at_flag": 44457.20445923117,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "FcDCPsm6omSRL87XYVnauf89bUbLpTKqqGDU7GdgePK9": {
-    "name": "ISHOWSPEED",
-    "symbol": "SPEED",
-    "flagged_ts": 1789592990,
-    "liquidity_at_flag": 25362.8211541828,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
   "B1ZJQ5M5d4B16HZRSpTRvSEmoAwxYC9ZJssDsn2GKgCE": {
     "name": "Clashy",
     "symbol": "CLASHY",
@@ -26782,7 +26760,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "HByEs5GbRJVjkw5FPdSXXWTCJn43t28Sz3UX6QMXwmoG": {
@@ -31123,7 +31102,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "HWrudsAcGvyviNnkvBzf7EenubFjNB3b7Xwkw2Hv92LA": {
     "name": "NightTrader",
@@ -31286,6 +31267,19 @@
     "symbol": "INUINVEST",
     "flagged_ts": 1790197541,
     "liquidity_at_flag": 34599.21196945979,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "3a638SPZQDiPHzbnf1zHLKRUEuPAC5b5H8STSQ3ByRUH": {
+    "name": "Buttlaunch",
+    "symbol": "BUTT",
+    "flagged_ts": 1790198445,
+    "liquidity_at_flag": 47276.758469014676,
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 60,

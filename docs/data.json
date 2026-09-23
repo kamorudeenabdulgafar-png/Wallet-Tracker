@@ -1,5 +1,5 @@
 {
-  "last_updated": 1790197547,
+  "last_updated": 1790198446,
   "wallets": [
     {
       "label": "Dev wallet 1",
@@ -86,7 +86,7 @@
     "count": 2835,
     "up_count": 613,
     "total_change_pct": -155586.29928175083,
-    "rug": 1158,
+    "rug": 1159,
     "doing_well": 10,
     "steady": 6,
     "fading": 11
@@ -94,6 +94,21 @@
   "learning_insight": null,
   "settings": {},
   "recent_alerts": [
+    {
+      "ts": 1790198446,
+      "type": "outcome",
+      "message": "\ud83d\udd34 Unreal Agent (UNREAL) is dropping fast \u2014 down 100%, may be rugging."
+    },
+    {
+      "ts": 1790198445,
+      "type": "outcome",
+      "message": "\ud83d\udd34 The Pumpfun Pill (PROZAC) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
+    },
+    {
+      "ts": 1790198445,
+      "type": "scanner",
+      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\nButtlaunch (BUTT)\nOpportunity: 76/100\n\nMOMENTUM     100\nSAFETY       60\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$47,277, 8 min since pool creation\n\u2022 Up +474% in the last hour, ~$67,741 in 24h volume (1.4x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 90% of supply (very concentrated)\n\nCA: 3a638SPZQDiPHzbnf1zHLKRUEuPAC5b5H8STSQ3ByRUH\nhttps://dexscreener.com/solana/3a638SPZQDiPHzbnf1zHLKRUEuPAC5b5H8STSQ3ByRUH\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
+    },
     {
       "ts": 1790197545,
       "type": "outcome",
@@ -328,21 +343,6 @@
       "ts": 1790192740,
       "type": "scanner",
       "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\npog (pog)\nOpportunity: 76/100\n\nMOMENTUM     100\nSAFETY       60\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$23,166, 7 min since pool creation\n\u2022 Up +73% in the last hour, ~$100,657 in 24h volume (4.3x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 96% of supply (very concentrated)\n\nCA: BAJhfyGj6HRaCU2UHATd9NVLR2SjWoAXS6aVayp2gjZh\nhttps://dexscreener.com/solana/BAJhfyGj6HRaCU2UHATd9NVLR2SjWoAXS6aVayp2gjZh\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
-    },
-    {
-      "ts": 1790191877,
-      "type": "outcome",
-      "message": "\ud83d\udfe1 \u4eba\u751f\u597d\u7269 (\u4eba\u751f\u597d\u7269) is holding steady so far (+28%)."
-    },
-    {
-      "ts": 1790191877,
-      "type": "outcome",
-      "message": "\ud83d\udfe0 BATARD (BTRD) is fading \u2014 down 15% so far."
-    },
-    {
-      "ts": 1790191876,
-      "type": "outcome",
-      "message": "\ud83d\udd34 Ozzie (OZZIE) is dropping fast \u2014 down 100%, may be rugging."
     }
   ]
 }
