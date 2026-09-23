@@ -1,26 +1,4 @@
 {
-  "75gm8UzB7fVDBNqMCv2vBNrnATP6y2NfmAqqPEcAgFDb": {
-    "name": "ALLINU",
-    "symbol": "ALLINU",
-    "flagged_ts": 1789602254,
-    "liquidity_at_flag": 34409.93105246876,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "639rT6TkpuReUPaP6Xyc8fNeeB9uqi9ugPJc9z96zEv6": {
-    "name": "\u4e03\u9f99\u73e0",
-    "symbol": "\u5b59\u609f\u7a7a",
-    "flagged_ts": 1789602255,
-    "liquidity_at_flag": 29291.789568055767,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
   "9mENx54CEmXmp1JNhg5GJ8DfzwULnqCXZ4mcUeAMpump": {
     "name": "Paid the Robin",
     "symbol": "PAIDROBIN",
@@ -26731,7 +26709,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "zYiF3rA8aWYUuDek3Z3po9NF4V5UDky5nji7Wr6pump": {
@@ -26747,7 +26726,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "2z37Vk5RKzHPJpUbjSWdH1Zzsd1uFAZ5f7jPMHKRdx5K": {
@@ -31389,6 +31369,45 @@
     "breakdown": {
       "MOMENTUM": 60,
       "SAFETY": 90,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "8zatXqYeEs1aBM4pVT4AWqtjs4sJaV7AAZPFfzCfikbX": {
+    "name": "Lysios",
+    "symbol": "LYSIOS",
+    "flagged_ts": 1790207073,
+    "liquidity_at_flag": 38689.67382502058,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "8bbx8bPqP4xUwrkppLebhuYT1iBFFosXbZuXzkLnTtod": {
+    "name": "Broke Boy Obie",
+    "symbol": "OBIE",
+    "flagged_ts": 1790207074,
+    "liquidity_at_flag": 36148.94708875075,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "HVwVkGCxT7KFsnA8uwpUmxpLhB1NM73KgVjrR9iRedB4": {
+    "name": "goon",
+    "symbol": "goon",
+    "flagged_ts": 1790207076,
+    "liquidity_at_flag": 29261.369475610685,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
