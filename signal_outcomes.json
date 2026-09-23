@@ -23710,7 +23710,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "A3ppMCw9yrN4a5M52AEaauandhCvmDUTFByUicbh9wWo": {
@@ -23726,7 +23727,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "ADAcPKDRFXiVV6Z3gC7KbgRggKsyNxjbqBih8m3EjJr7": {
@@ -27229,7 +27231,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "3mTqyvxZiEB7stf4NpAh8BcZifTEEyzzxd4F7dCap929": {
@@ -27244,7 +27247,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "9V75R6r1CrsUyB1G3f4g7sDJTTKq3ry6ZrK8vZC8dRpf": {
@@ -27768,7 +27772,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "89TiYcehJ3C2Lxed4hEnvds5EoDPQdoa4R21WSHt4MVj": {
     "name": "Strategic WinRar Bag Reserve",
@@ -27781,7 +27787,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "E7ve8kZp3EAuUWjA9MRmy51TBKmm6hkA3KQVWw5P2sbm": {
     "name": "SHARK  CARDS",
@@ -27794,7 +27802,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "B9bMVfHaBE7fc2PPVsoy4npmiDEF3vHF6RR32Av3HAjN": {
     "name": "RuneScape Gold",
@@ -27931,6 +27941,58 @@
     "symbol": "RSGP",
     "flagged_ts": 1790138953,
     "liquidity_at_flag": 33623.79356473624,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "33WNZtzEKKRAcAg9uxPxiPjdnd16TrtqtbdL4Uqzpump": {
+    "name": "PWNED PC",
+    "symbol": "PWNED",
+    "flagged_ts": 1790139455,
+    "liquidity_at_flag": 38587.9528960268,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 100,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "HA1otV5CfrgwP6fX8X3S7YyjTtKnQQBMgV9FN3mhBWMn": {
+    "name": "Shield.fun",
+    "symbol": "SHIELD",
+    "flagged_ts": 1790139456,
+    "liquidity_at_flag": 28465.569379547713,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 100,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "G25MKsui7QauFYB3q3ppCUHLkB2gupxYQi2oejKKYefm": {
+    "name": "FXD",
+    "symbol": "FXD",
+    "flagged_ts": 1790139456,
+    "liquidity_at_flag": 30961.34476628572,
+    "breakdown": {
+      "MOMENTUM": 97,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "3cCc2PBmQjc3VMgVLsnDDNzw6WxU4GKimxguAhMy2KXY": {
+    "name": "Uranus",
+    "symbol": "Uranus",
+    "flagged_ts": 1790139457,
+    "liquidity_at_flag": 32461.58844778755,
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 60,
