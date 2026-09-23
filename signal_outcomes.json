@@ -22673,7 +22673,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "2EP2uFXeh62SDLR2YvMUFSeWHf83kUQnejS7NybzKLz2": {
@@ -22689,7 +22690,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "DbUT68CrvbHpSTwrrfXPfoo9BbtcFDR8kmiXauUfW6h2": {
@@ -22705,7 +22707,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "2dGP3hBRwKmP63LZ66gQ9e7hR87UgiP4vL8HDECU9Fba": {
@@ -22721,7 +22724,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "GDGcTTEs6qkRKaRn9LAbFZnbzqYsAquv8YmkDiKo1kaq": {
@@ -22737,7 +22741,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "HLBz6WNdBJ2cWo81HFU898ddc5sZsvYZiSxRQXTtpump": {
@@ -26464,7 +26469,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "eNEeCdCUGGvXfaSpGNaG2fA6rL7GeMSyzUjT4XVpump": {
@@ -26823,7 +26829,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "AzRo4CfMRFRasbMtYEJKvEpqiGPqDS9xi46we5azak5M": {
     "name": "BillSmith",
@@ -26836,7 +26844,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "zYiF3rA8aWYUuDek3Z3po9NF4V5UDky5nji7Wr6pump": {
     "name": "BillSmith",
@@ -26849,7 +26859,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "2z37Vk5RKzHPJpUbjSWdH1Zzsd1uFAZ5f7jPMHKRdx5K": {
     "name": "Super Retarded Inu",
@@ -26999,6 +27011,71 @@
     "symbol": "VASE",
     "flagged_ts": 1790123209,
     "liquidity_at_flag": 33370.31662954686,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "DgLswkh4MVVaR5onQACgjAVbYg3zzf5kbPqueFne4qL": {
+    "name": "Memory cow Moo",
+    "symbol": "MOO",
+    "flagged_ts": 1790124109,
+    "liquidity_at_flag": 30587.88962464255,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "E227QbhX34dGo7fc1sqpZxDc8jgNZbU8ybvvxfUyxmrL": {
+    "name": "Layers",
+    "symbol": "LAYERS",
+    "flagged_ts": 1790124110,
+    "liquidity_at_flag": 72406.37143897697,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "3i43bRLKSomUXyin1jgGsd3y9MgBW1cdX3nh43YD3W4R": {
+    "name": "Shield.fun",
+    "symbol": "SHIELD",
+    "flagged_ts": 1790124110,
+    "liquidity_at_flag": 44192.854830232594,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 90,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "2KzwVRgds7S1y25iPVpdGgeY8rBi898gCyJWK5mUWEqo": {
+    "name": "Charizard",
+    "symbol": "Charizard",
+    "flagged_ts": 1790124111,
+    "liquidity_at_flag": 60178.19203800346,
+    "breakdown": {
+      "MOMENTUM": 91,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "CV7zWsQzwachDCqivRrXdzSzUbPxcvUVuKLzQU52Ly5g": {
+    "name": "Layers",
+    "symbol": "LAYERS",
+    "flagged_ts": 1790124112,
+    "liquidity_at_flag": 42823.466073719545,
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 60,
