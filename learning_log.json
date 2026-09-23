@@ -1,18 +1,5 @@
 [
   {
-    "name": "Pump Family",
-    "symbol": "FAMILY",
-    "category": "rug",
-    "change_pct": -100.0,
-    "breakdown": {
-      "MOMENTUM": 100,
-      "SAFETY": 60,
-      "LIQUIDITY": 100,
-      "SMART MONEY": 0
-    },
-    "ts": 1790085955
-  },
-  {
     "name": "CLIPBACK",
     "symbol": "CLIP",
     "category": "rug",
@@ -3898,5 +3885,18 @@
       "SMART MONEY": 0
     },
     "ts": 1790205986
+  },
+  {
+    "name": "SOLPEPE",
+    "symbol": "SOLPEPE",
+    "category": "rug",
+    "change_pct": -90.4,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 100,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "ts": 1790206539
   }
 ]

@@ -1,59 +1,4 @@
 {
-  "DgoAtH2DS36pSJ2w7vdkzQ5FVpjwsuqsKjxTwaB57Vj2": {
-    "name": "CrowBrain",
-    "symbol": "CrowBrain",
-    "flagged_ts": 1789601430,
-    "liquidity_at_flag": 24236.269081698374,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "4hMvdY7KbsCzHnRE7Js6kNFyTdkqKMeTv9GPYD5ppump": {
-    "name": "zereblast",
-    "symbol": "ZEREBLAST",
-    "flagged_ts": 1789601431,
-    "liquidity_at_flag": 22418.768258055712,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "7tweqxu6DuNFGLPZN18NUCpVVSCvnrwgysuVxaWVpump": {
-    "name": "batonbook",
-    "symbol": "batonbook",
-    "flagged_ts": 1789601432,
-    "liquidity_at_flag": 21659.147101584225,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "4oQMktnpiyHstGKJqBcsCCAauvzdHtu94Wfoc3TdTch2": {
-    "name": "Doxpad",
-    "symbol": "DOX",
-    "flagged_ts": 1789601434,
-    "liquidity_at_flag": 32532.62272135901,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "B2mwJvyTKJcuzkGLUT82eoBszuVG74zVwydT9bVy1pfT": {
-    "name": "CrowBrain",
-    "symbol": "CrowBrain",
-    "flagged_ts": 1789601434,
-    "liquidity_at_flag": 38411.5215642557,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
   "75gm8UzB7fVDBNqMCv2vBNrnATP6y2NfmAqqPEcAgFDb": {
     "name": "ALLINU",
     "symbol": "ALLINU",
@@ -26769,7 +26714,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "AzRo4CfMRFRasbMtYEJKvEpqiGPqDS9xi46we5azak5M": {
@@ -30752,7 +30698,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "BAJhfyGj6HRaCU2UHATd9NVLR2SjWoAXS6aVayp2gjZh": {
@@ -31261,7 +31208,9 @@
       "LIQUIDITY": 67,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "C3uakVCDvytaVH4NaStoTwfdVjY5ocnWZS2kDimfFfjK": {
     "name": "nuvexfamily",
@@ -31401,6 +31350,45 @@
     "breakdown": {
       "MOMENTUM": 48,
       "SAFETY": 100,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "HHvM7LKkS6wvSkTkYBu6FRW7EEFhKAS2sVbV8yGxzuHc": {
+    "name": "goon",
+    "symbol": "goon",
+    "flagged_ts": 1790206536,
+    "liquidity_at_flag": 37724.653364454905,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "4n9fZ9zC1HBgeKEQD7nDKTk5GYatjuCV56WLocTdpump": {
+    "name": "Nyxen",
+    "symbol": "NYXEN",
+    "flagged_ts": 1790206537,
+    "liquidity_at_flag": 50973.98501992878,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 100,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "2PENPmfgJfq6CG3k4byj4oWwHf8SerqakmYHMkUupump": {
+    "name": "familiars.family",
+    "symbol": "familiars",
+    "flagged_ts": 1790206537,
+    "liquidity_at_flag": 23697.831285653992,
+    "breakdown": {
+      "MOMENTUM": 60,
+      "SAFETY": 90,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
