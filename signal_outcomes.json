@@ -23506,7 +23506,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "7f6BgFByqEvoVdRPA8XSADWaidUbRdpmQb1DoTMiwUpe": {
@@ -23522,7 +23523,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "6itWKNhCWaDEHjTBTGkEx2pk9CTieYNKtDaqz6JVbQrH": {
@@ -27041,7 +27043,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "6oueuXdFcdvJgFi9r62mFbba6p1r5nbqfhFcbcZzSwWh": {
@@ -27056,7 +27059,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "FP58xzAdE4NkLEpepxHCJmuWB3RFWmPscj9tDMHpDxAj": {
@@ -27071,7 +27075,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "6RoFAj5d6Fy4sSfv9daLNMKruvfsoakGKP9NpRuTCTBt": {
@@ -27550,7 +27555,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "AgxyNjRhc2185eGATkQcanNG6J2pCQcdhxbaSrEXpump": {
     "name": "LeoGuigna",
@@ -27563,7 +27570,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "EzCg7J6waYRTAMHiCUoXFqfdsKUg9hepgQ1ttz4rQBJV": {
     "name": "PHAT",
@@ -27576,7 +27585,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "GMhJiCfNQ4vuGZjdxmbgFnHcDkPUcgSZMZXtn9tfzGBW": {
     "name": "Launchpad Fatigue",
@@ -27589,7 +27600,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "CAFtPzP4TnARbJvpf2srsxqiFXim1AUpeagL6CYiqgvb": {
     "name": "Minecoin",
@@ -27742,6 +27755,32 @@
     "breakdown": {
       "MOMENTUM": 87,
       "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "B9bMVfHaBE7fc2PPVsoy4npmiDEF3vHF6RR32Av3HAjN": {
+    "name": "RuneScape Gold",
+    "symbol": "GP",
+    "flagged_ts": 1790136590,
+    "liquidity_at_flag": 39963.63529967979,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 100,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "F1kzi8tQaQdXhaJSyAX23gXGTRJqee4bfT8YEP3upump": {
+    "name": "NIKE TYSON",
+    "symbol": "niketyson",
+    "flagged_ts": 1790136591,
+    "liquidity_at_flag": 33919.78751026057,
+    "breakdown": {
+      "MOMENTUM": 50,
+      "SAFETY": 100,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
