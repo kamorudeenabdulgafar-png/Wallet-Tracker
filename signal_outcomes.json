@@ -23676,7 +23676,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "CjX1TYup1FbR47Kxx9bbVoxeQbTZqoCi5GBDBEXXsddk": {
@@ -23692,7 +23693,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "7CdSoAVsN6kivhdSMA4iHyqGpKbsTENzSeSTgRbd8qst": {
@@ -27147,7 +27149,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "E227QbhX34dGo7fc1sqpZxDc8jgNZbU8ybvvxfUyxmrL": {
@@ -27162,7 +27165,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "3i43bRLKSomUXyin1jgGsd3y9MgBW1cdX3nh43YD3W4R": {
@@ -27177,7 +27181,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "2KzwVRgds7S1y25iPVpdGgeY8rBi898gCyJWK5mUWEqo": {
@@ -27192,7 +27197,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "CV7zWsQzwachDCqivRrXdzSzUbPxcvUVuKLzQU52Ly5g": {
@@ -27207,7 +27213,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "5UdD5iWvBCotYteT9cg7d3iGpPcQYZFbaARYtUXRmjNL": {
@@ -27746,7 +27753,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "JssmnZtSMWJKwNWHMPcV6tucyJ2Jdknkc2RPcAmg6YM": {
     "name": "Claude Ai",
@@ -27883,6 +27892,45 @@
     "symbol": "KEYHORSE",
     "flagged_ts": 1790138304,
     "liquidity_at_flag": 33055.99787937921,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "3KonX1hvdC698JQNCZGugYkaNN2DDz8G6EffbnKETkr6": {
+    "name": "RuneScape Gold",
+    "symbol": "GP",
+    "flagged_ts": 1790138950,
+    "liquidity_at_flag": 32206.44525052722,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "5zT1G7tWhew7GuLFKuiVwvvDv2z14kHG1dA7nt4Rpump": {
+    "name": "The Goat Fruits",
+    "symbol": "DURIAN",
+    "flagged_ts": 1790138951,
+    "liquidity_at_flag": 25622.644664838066,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 90,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "AhtfvVGfmFgvoauuS8wgkePf2Eda2PMVt9EjzjZcgvcL": {
+    "name": "Gold Pieces",
+    "symbol": "RSGP",
+    "flagged_ts": 1790138953,
+    "liquidity_at_flag": 33623.79356473624,
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 60,
