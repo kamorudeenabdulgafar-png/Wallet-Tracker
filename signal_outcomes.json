@@ -24305,7 +24305,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "Btu1wVMcs7JxGDo1gQmaBGVssyK331T2413YWn8QD3ZP": {
@@ -27824,7 +27825,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "JssmnZtSMWJKwNWHMPcV6tucyJ2Jdknkc2RPcAmg6YM": {
@@ -28378,7 +28380,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "5YpDMz4jJcyHK2oh3pGTeDxpNyDLWw3mpgx487HJ6MLc": {
     "name": "Bonk",
@@ -28391,7 +28395,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "913oNUU4Y3gVt2PmFACoYcJPy1SEgymFytchCKj8zJ4U": {
     "name": "nigglykitty",
@@ -28506,6 +28512,32 @@
       "MOMENTUM": 100,
       "SAFETY": 100,
       "LIQUIDITY": 97,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "JCvGrCbiHc84qCEDowgeuue7iXNoGgpCQstgoGYhFUCK": {
+    "name": "HANDLES",
+    "symbol": "HANDLES",
+    "flagged_ts": 1790150104,
+    "liquidity_at_flag": 32739.465251547663,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 100,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "GEhVK32cTsLp6MLxHgjfnz5xucu9UEChHqeoTrNXkLnA": {
+    "name": "A Meme Coin",
+    "symbol": "MEME",
+    "flagged_ts": 1790150105,
+    "liquidity_at_flag": 36744.6809771923,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
     "checkpoints_done": []
