@@ -25682,7 +25682,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "HNv8TBTDd7ev6DxehvMup5MKKrrnWTC7uoqZqgqdws2B": {
@@ -25698,7 +25699,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "3ezXZa2tqCxq23pz4n3gymkSzhgJbqwFgpPRPywcjKzf": {
@@ -25714,7 +25716,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "EZHXDqG38i5PYc4oTYM9wFwmTkERgqDLKh6WbpZMZkPy": {
@@ -29073,7 +29076,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "7U9LREkxb89qZ29q7HoHoVuD7PSmDRTp3xDQQ9Q1pump": {
@@ -29088,7 +29092,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "DNViNX5xo8TR2v9Ek7XFZYxuvFPaj1vAN9d7P8Ktgfxf": {
@@ -29103,7 +29108,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "CWrEbj4fD4BTSCu4TJFAgpYqMn2YewbrD3oD66uEeU61": {
@@ -29717,7 +29723,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "CqLopD6mKRWBFr4us4HNYAd74DYqh6YoopiqsPz4nbXD": {
     "name": "inu aura",
@@ -29730,7 +29738,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "CFgYFu6zJRAbSTpcaL8fXb56KRtxF9cQVZnBq1vQpump": {
     "name": "Jean Goth",
@@ -29895,6 +29905,58 @@
     "liquidity_at_flag": 32882.24136230072,
     "breakdown": {
       "MOMENTUM": 82,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "3yMYH4mms8DurVWRfTXfAUaARuSF1SmudMmUKTqF5dum": {
+    "name": "Mdiam",
+    "symbol": "\ud83c\udf1eMdiam",
+    "flagged_ts": 1790171270,
+    "liquidity_at_flag": 34202.156417081496,
+    "breakdown": {
+      "MOMENTUM": 85,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "8FnvxBNLwTSpqNHrNFYGgFPDNqyw7RNgiQwuqkbDSh7C": {
+    "name": "The Roaring Puppy",
+    "symbol": "MIMI",
+    "flagged_ts": 1790171271,
+    "liquidity_at_flag": 22196.888723915243,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "GyB7ngVQkhP7JG6wtFVKz34hUsjXWoQvjHkTZCo8Wht8": {
+    "name": "MemeFirm",
+    "symbol": "MemeFirm",
+    "flagged_ts": 1790171272,
+    "liquidity_at_flag": 43242.2651799271,
+    "breakdown": {
+      "MOMENTUM": 94,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "2RU4CQj6bGkMtkG5HFaXiab93H3E9Rj5tSRhAuYFv5XK": {
+    "name": "MemeFirm",
+    "symbol": "MemeFirm",
+    "flagged_ts": 1790171273,
+    "liquidity_at_flag": 44771.35276129177,
+    "breakdown": {
+      "MOMENTUM": 100,
       "SAFETY": 60,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
