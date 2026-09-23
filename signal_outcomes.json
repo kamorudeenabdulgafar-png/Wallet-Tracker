@@ -23829,7 +23829,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "FVR4EhJpxZBjqGdY5YqNTmAZDFBzX4Nxzf1J31MMuKKx": {
@@ -23845,7 +23846,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "A2GGQ5w5YPZ5JQQ51QxtzjLewGZdKCMSB4RCuzZiKvMx": {
@@ -23861,7 +23863,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "7q76MnFL8PBCueu9xDPFNJBKAuQCVp8QT5Jf9ahDccYH": {
@@ -27823,7 +27826,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "F1kzi8tQaQdXhaJSyAX23gXGTRJqee4bfT8YEP3upump": {
     "name": "NIKE TYSON",
@@ -27836,7 +27841,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "8SzCk5fqDuYN13MK8FszMEBgbcHFEKt76n3W6ApQjvKS": {
     "name": "CREDITS",
@@ -28012,6 +28019,32 @@
     "symbol": "GROK",
     "flagged_ts": 1790140182,
     "liquidity_at_flag": 153546.9991501298,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "2Huhr8rHzgsiVF9zB9dBjECKwF4Le9TzBCoye4qGpump": {
+    "name": "ShinyHunters",
+    "symbol": "ShinyHunters",
+    "flagged_ts": 1790140967,
+    "liquidity_at_flag": 21836.04778537489,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 90,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "AAb3isNDDdb1LUz4F1gDFiUPjFb7t9ScWdnJ44ymSBuk": {
+    "name": "PWNED PC",
+    "symbol": "PWNED",
+    "flagged_ts": 1790140968,
+    "liquidity_at_flag": 32034.108474607936,
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 60,
