@@ -26743,7 +26743,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "EU5h2TGPBniyZrQojZ8dRQUXn958zF9mWmQxaxyRixdy": {
@@ -26759,7 +26760,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "6rtenJQARckxHzE5nrZoKJKWQfbygmSVHgMqDPvdpump": {
@@ -30694,7 +30696,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "2tc4QBfE5KSngZ9qdKuEYLudL4YJD6vanH5DtrrDpump": {
@@ -30709,7 +30712,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "7NJquMZvupon6YC56UfnnZv6gjPfcjgoy1nfXXWagYst": {
@@ -30724,7 +30728,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "5os5VT4uK82kFDtrMvLnq1WmeGghF4DhmzxNftD1pump": {
@@ -30739,7 +30744,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "APd55sf29YEaa42dhfcRh6KWjK45Xcgkcr2c6fGnE9Lv": {
@@ -31203,7 +31209,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "36ApigLuDzrr2kacn33Q32oierqhAb41rme4ZWTkkQ36": {
     "name": "Scanny",
@@ -31216,7 +31224,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "HSUMi4rMgjrx7zRUabw3ogGu1pa5hmF2eVcXj9Apump": {
     "name": "goon",
@@ -31229,7 +31239,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "DYoamZdsSymXu1LswAHu3JjX6iNk9rEiPjojHdoC8My2": {
     "name": "\u7389\u5154",
@@ -31242,7 +31254,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "HzKVjYHzE2hqGNEjYnaaW8jYwUGwfF1786WtDc5Z8MgJ": {
     "name": "goon",
@@ -31407,6 +31421,32 @@
     "liquidity_at_flag": 29261.369475610685,
     "breakdown": {
       "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "8quxcffZcXr7T8oWp7XH6Lc5Q3HmL2gvJMDULyL2pump": {
+    "name": "Philcate",
+    "symbol": "PHILCATE",
+    "flagged_ts": 1790207556,
+    "liquidity_at_flag": 20522.143805323438,
+    "breakdown": {
+      "MOMENTUM": 62,
+      "SAFETY": 90,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "6KDZXmLtZkM4ZHtUyRCnSHZ2dHSXxcUfPonwc6muSvVL": {
+    "name": "\u7389\u5154",
+    "symbol": "\u7389\u5154",
+    "flagged_ts": 1790207557,
+    "liquidity_at_flag": 32816.573347387486,
+    "breakdown": {
+      "MOMENTUM": 84,
       "SAFETY": 60,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
