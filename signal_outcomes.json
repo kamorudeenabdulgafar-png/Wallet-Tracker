@@ -1,37 +1,4 @@
 {
-  "Bh8LRRbq7GUJZGyzFRr9gjMN9n8SK7nGEo8VnPaHFaUR": {
-    "name": "Kevin Startup Fund",
-    "symbol": "KEVIN",
-    "flagged_ts": 1789609234,
-    "liquidity_at_flag": 16446.62733638878,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "HQZzCX2iok1RinbjNsJFSjCjcvfDGTko2rcANTfK8t4Z": {
-    "name": "Kevin Startup Fund",
-    "symbol": "KEVIN",
-    "flagged_ts": 1789609235,
-    "liquidity_at_flag": 28097.198875633727,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "6ad8MYAcZGwDmom7cqaLu9id8obsSCXtGXFKK5UQa2vK": {
-    "name": "Test Coin",
-    "symbol": "TC",
-    "flagged_ts": 1789609237,
-    "liquidity_at_flag": 51827.05765639909,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
   "6bAQ49jm9rtoXuEsp2W1fKSe1jczhus6fEbCaGmUpump": {
     "name": "Anonymous Dog",
     "symbol": "XDOG",
@@ -26852,7 +26819,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "BqyH1jV9ZhPxfXMsL23Ht49zCfXksc4fWDfaY3Y7rczq": {
@@ -26868,7 +26836,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "SMCWMfwuoSq2PX6bnaRHuaun63aq8WyfXZQyNTKFovb": {
@@ -31404,7 +31373,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "C8dEM4ipdKr7WYiD1j8wYXTBZjcoXKYaAHGoGB3uZA19": {
     "name": "familiars.family",
@@ -31584,6 +31555,45 @@
       "MOMENTUM": 98,
       "SAFETY": 60,
       "LIQUIDITY": 74,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "9wYcfZYT7RcTfPAgT9LYPFLc1H7jRrgaHDCvNyaApump": {
+    "name": "The Robot Embryo",
+    "symbol": "THING",
+    "flagged_ts": 1790214454,
+    "liquidity_at_flag": 27886.019109801313,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 75,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "4vfQJiDH2MXQT9UVNtr7m9FSFVbsqYPkSSyCBme1BCoM": {
+    "name": "Lily",
+    "symbol": "Lily",
+    "flagged_ts": 1790214455,
+    "liquidity_at_flag": 49860.11979709534,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 75,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "6Q2yD9Z1DXti8S9ot62BzsVCpnzP3r8P6ZCcjsrWQCeZ": {
+    "name": "LILY",
+    "symbol": "LILY",
+    "flagged_ts": 1790214457,
+    "liquidity_at_flag": 45170.875390628076,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
     "checkpoints_done": []
