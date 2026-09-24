@@ -1,26 +1,4 @@
 {
-  "2QsUQt6bGQ9zT6VQ1wewLZY87h8C9qVeE8f1fQJ8pump": {
-    "name": "NasWhale",
-    "symbol": "NasWhale",
-    "flagged_ts": 1789652585,
-    "liquidity_at_flag": 21943.42618283801,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "8kQ6pfgfQATpAjYq5jufdHEgRZ2U48NqVXJnmTrzdj5w": {
-    "name": "Inuvation",
-    "symbol": "INUVATION",
-    "flagged_ts": 1789652586,
-    "liquidity_at_flag": 60450.33989331534,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
   "AZ3rVyLvWFAF9tYVY9n6LeSuvAhfCGKr1tcGux3spump": {
     "name": "XPay",
     "symbol": "XPAY",
@@ -27665,7 +27643,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "8FnvxBNLwTSpqNHrNFYGgFPDNqyw7RNgiQwuqkbDSh7C": {
@@ -27681,7 +27660,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "GyB7ngVQkhP7JG6wtFVKz34hUsjXWoQvjHkTZCo8Wht8": {
@@ -27697,7 +27677,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "2RU4CQj6bGkMtkG5HFaXiab93H3E9Rj5tSRhAuYFv5XK": {
@@ -27713,7 +27694,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "4GscP6cRfXEGHVF4paeB1tWhsUgDNUMDXY1nuZG5B2CX": {
@@ -31776,7 +31758,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "A7buTa2icB9T5CdvKYueiHukQDY6hUzXTrwNdpvWwCnz": {
@@ -31791,7 +31774,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "Ab9YZoVwwiMXi3GkPcNfgTir33ZPBdsr1FQmQUDBiShi": {
@@ -31806,7 +31790,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "8GLTswQi7NjRWGsWH2dQA9Emujh5F8phu4cSuaLzAscb": {
@@ -31821,7 +31806,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "C7KefLmRNXvwdSsvQ4tGU7x4PGkuCQT6UEtJekMHEkKt": {
@@ -31836,7 +31822,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "zFmuEzsiZtvvfqSnJXHMtW4Gnwkkn4fvT7TFeMYpump": {
@@ -31851,7 +31838,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "6JofjxQ8KYN9tMevKxMWFg1A9XfXzjnk1u9NL7J1tjek": {
@@ -31866,7 +31854,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "7oGTbwRprjo2JKm9GUcGYLc7S5ktJ6aQcL5GxkQrvP9N": {
@@ -32300,7 +32289,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "7MsRE1uaSjdLGDfxmMegiwSX4au83sMVbsUN39jiCRoz": {
     "name": "PROM",
@@ -32427,6 +32418,32 @@
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "dxqSq2hQipTN249zjv78zujvaeEgYyHyYq88pNXpump": {
+    "name": "Onboard",
+    "symbol": "ONBOARD",
+    "flagged_ts": 1790257737,
+    "liquidity_at_flag": 39763.17583290908,
+    "breakdown": {
+      "MOMENTUM": 47,
+      "SAFETY": 100,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "28wmxjBuna3BFQQ1TQVJTHfmkjQwGgX6SbfoQ56Z29WY": {
+    "name": "Super Inu",
+    "symbol": "SI",
+    "flagged_ts": 1790257738,
+    "liquidity_at_flag": 40659.880122139446,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 100,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
