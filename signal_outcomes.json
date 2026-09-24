@@ -1,37 +1,4 @@
 {
-  "4YvXRPuqr2tifmMYSJvrqs6qwZHyWnqAcAGAVCFWTWG5": {
-    "name": "Mooncat",
-    "symbol": "MCAT",
-    "flagged_ts": 1789681983,
-    "liquidity_at_flag": 23204.22701522957,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "Cf5crwAiacJL5v8Vadd5XQqLaVQPVkBEaWr1BbuViF4B": {
-    "name": "Solana Dog",
-    "symbol": "SOLDOG",
-    "flagged_ts": 1789681983,
-    "liquidity_at_flag": 24207.480527095417,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "GWjsA4nquF4TAKcdhzG3Nvzo61ubXwyCm7rs6eUV8bjG": {
-    "name": "BarkCoin",
-    "symbol": "BARK",
-    "flagged_ts": 1789682715,
-    "liquidity_at_flag": 14559.755024104552,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
   "7MeBJDUVucow7WscyGwCf5UzVhvpaJ6wrwbt6E4tJ6Vf": {
     "name": "Trends",
     "symbol": "TRENDS",
@@ -28269,7 +28236,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "7TAvPLKuo1FyM5hGxeEthxHk1LULRPvuKPhUKkTQ5p2v": {
@@ -28285,7 +28253,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "riZHJ5vigmqyvAEgqCcAQ1pD5FBRPV41gUVxgqkwzfG": {
@@ -28301,7 +28270,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "euwCqqdorT6VCYgQjVg9jeT3dpXvjuv86EGQtBVpump": {
@@ -28317,7 +28287,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "7udmTJxAaEhX5zdT4MkAFxCYzLLwEyMegtwuVgBW2txG": {
@@ -28333,7 +28304,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "4EDTAVzdcMfmnudk6vjepeUH24HDcYaN45pKL9kTZfvu": {
@@ -28349,7 +28321,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "CUQScgAnRkE1pk1jHopaxaZy5k5ougCQ7bnKZojGVhV4": {
@@ -28365,7 +28338,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "rGejF4pz1XW6DftreGqtMqhi1R2uYiSJe9sewTTQTnu": {
@@ -28381,7 +28355,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "G8TTWtBR6AqxzMC8nSwdVt7NCUDGvqjUEWRr5SXdpump": {
@@ -32364,7 +32339,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "3N4zXUPMZgSh4ZBE4Ru1oWnLKdYXgmFeMBXAw7E2sxCZ": {
@@ -32379,7 +32355,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "3LxiRcXtia2LS5iBa9z9rvmdC6LdqrxMUbCCtFvuhWKA": {
@@ -32738,7 +32715,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "C1BvVswWdFN1fKxweuBQYXxeZj74WBBnjKknoctCui2H": {
     "name": "Attention Inu",
@@ -32751,7 +32730,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "Ah13cTAcf8XtLtHcfps81KsLFhLwCh4nKe32h6JuEeK5": {
     "name": "Holdoween",
@@ -32865,6 +32846,32 @@
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 100,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "DA5tD9pG6g9GbGkaSPwwcvdsTo941tUrpHTYKfyv2VCW": {
+    "name": "Stonked",
+    "symbol": "STONKED",
+    "flagged_ts": 1790287514,
+    "liquidity_at_flag": 41346.60650704989,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "8fzziiswWWta8K3H8YWUzxdHUuN2yDC47fQz17Jspump": {
+    "name": "Prism Foundation",
+    "symbol": "PRISM",
+    "flagged_ts": 1790287515,
+    "liquidity_at_flag": 21130.869448229536,
+    "breakdown": {
+      "MOMENTUM": 64,
+      "SAFETY": 90,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },

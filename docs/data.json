@@ -1,5 +1,5 @@
 {
-  "last_updated": 1790286767,
+  "last_updated": 1790287527,
   "wallets": [
     {
       "label": "Dev wallet 1",
@@ -87,14 +87,79 @@
     "count": 2835,
     "up_count": 613,
     "total_change_pct": -155586.29928175083,
-    "rug": 1418,
+    "rug": 1424,
     "doing_well": 12,
     "steady": 7,
-    "fading": 14
+    "fading": 15
   },
   "learning_insight": null,
   "settings": {},
   "recent_alerts": [
+    {
+      "ts": 1790287527,
+      "type": "outcome",
+      "message": "\ud83d\udfe2 Attention Inu (AI) is still doing really good \u2014 up 82% so far!"
+    },
+    {
+      "ts": 1790287526,
+      "type": "outcome",
+      "message": "\ud83d\udfe2 Super Inu (SI) is still doing really good \u2014 up 38% so far!"
+    },
+    {
+      "ts": 1790287525,
+      "type": "outcome",
+      "message": "\ud83d\udd34 sBadger (Shielded) is dropping fast \u2014 down 100%, may be rugging."
+    },
+    {
+      "ts": 1790287524,
+      "type": "outcome",
+      "message": "\ud83d\udd34 Honky Chonk Beardonkadonk (CHONK) is dropping fast \u2014 down 100%, may be rugging."
+    },
+    {
+      "ts": 1790287523,
+      "type": "outcome",
+      "message": "\ud83d\udd34 clausius (clausius) turned out to be a rug \u2014 liquidity dropped 92% over 24h."
+    },
+    {
+      "ts": 1790287522,
+      "type": "outcome",
+      "message": "\ud83d\udfe0 32 Chunk (CHUNK) faded \u2014 liquidity down 36% after 24h."
+    },
+    {
+      "ts": 1790287521,
+      "type": "outcome",
+      "message": "\ud83d\udd34 clausius (clausius) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
+    },
+    {
+      "ts": 1790287520,
+      "type": "outcome",
+      "message": "\ud83d\udd34 Buttlaunch (BUTT) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
+    },
+    {
+      "ts": 1790287519,
+      "type": "outcome",
+      "message": "\ud83d\udd34 Solana Cate (SCATE) turned out to be a rug \u2014 liquidity dropped 89% over 24h."
+    },
+    {
+      "ts": 1790287518,
+      "type": "outcome",
+      "message": "\ud83d\udd34 Stocked (STOCKED) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
+    },
+    {
+      "ts": 1790287516,
+      "type": "outcome",
+      "message": "\ud83d\udd34 Grok 4.7 (GROK 4.7) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
+    },
+    {
+      "ts": 1790287515,
+      "type": "scanner",
+      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\nPrism Foundation (PRISM)\nOpportunity: 74/100\n\nMOMENTUM     64\nSAFETY       90\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$21,131, 14 min since pool creation\n\u2022 Up +43% in the last hour, ~$68,224 in 24h volume (3.2x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Low, 10/100):\n\u2022 top 10 holders own 40% of supply\n\nCA: 8fzziiswWWta8K3H8YWUzxdHUuN2yDC47fQz17Jspump\nhttps://dexscreener.com/solana/8fzziiswWWta8K3H8YWUzxdHUuN2yDC47fQz17Jspump\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
+    },
+    {
+      "ts": 1790287514,
+      "type": "scanner",
+      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\nStonked (STONKED)\nOpportunity: 76/100\n\nMOMENTUM     100\nSAFETY       60\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$41,347, 8 min since pool creation\n\u2022 Up +370% in the last hour, ~$249,232 in 24h volume (6.0x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 92% of supply (very concentrated)\n\nCA: DA5tD9pG6g9GbGkaSPwwcvdsTo941tUrpHTYKfyv2VCW\nhttps://dexscreener.com/solana/DA5tD9pG6g9GbGkaSPwwcvdsTo941tUrpHTYKfyv2VCW\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
+    },
     {
       "ts": 1790286767,
       "type": "outcome",
@@ -279,71 +344,6 @@
       "ts": 1790283908,
       "type": "scanner",
       "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\nAttention Inu (AI)\nOpportunity: 76/100\n\nMOMENTUM     100\nSAFETY       60\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$40,513, 13 min since pool creation\n\u2022 Up +210% in the last hour, ~$84,575 in 24h volume (2.1x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 95% of supply (very concentrated)\n\nCA: C1BvVswWdFN1fKxweuBQYXxeZj74WBBnjKknoctCui2H\nhttps://dexscreener.com/solana/C1BvVswWdFN1fKxweuBQYXxeZj74WBBnjKknoctCui2H\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
-    },
-    {
-      "ts": 1790283907,
-      "type": "scanner",
-      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\nSuper Inu (SI)\nOpportunity: 76/100\n\nMOMENTUM     100\nSAFETY       60\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$31,079, 8 min since pool creation\n\u2022 Up +136% in the last hour, ~$107,002 in 24h volume (3.4x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 94% of supply (very concentrated)\n\nCA: EXxfp23WnkQ43u3mirUUp7Vtnszh64Q1L3YToqqTRX7Q\nhttps://dexscreener.com/solana/EXxfp23WnkQ43u3mirUUp7Vtnszh64Q1L3YToqqTRX7Q\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
-    },
-    {
-      "ts": 1790283905,
-      "type": "wallet",
-      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: USDC -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/2ZZq1NnaRGbrg4acCmvEjDYg2CgXQMQdhQgxnYgbYNLpnmDrTGitvRiB4L7hqq17ZpowBDpFuMXdheUXyFKu4A2G"
-    },
-    {
-      "ts": 1790283905,
-      "type": "wallet",
-      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: USDC -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/4ps3xqvrAzuRrdaBgJiZPw34aa4is4rGm7rr2psoqpAWYTwYxPvkzhy8Q9yhCJ6KiCWCvYkiyvadFdwqQhnUgpXs"
-    },
-    {
-      "ts": 1790283904,
-      "type": "wallet",
-      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: MCDx -> USDC\nTrade size: unknown\nBought token: USD Coin (USDC)\nCA: EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v\nhttps://solscan.io/tx/2PfzAqo7rjMitp7u7RRKPFKkATCzMkZMQ4TFfTqL7uSFc9yo12qgAvArgFCrUYAMeXhsdc3NPtwnecs16cdgRPqf"
-    },
-    {
-      "ts": 1790283903,
-      "type": "wallet",
-      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: SKR -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/4QvQ9nzuTrf1J7skFVcwczWvn6ia4Q7hMAXBD91ikJTLTvJ7HSAvpXMP8UimWk584F3CUezzNNfkvorPgq7TzeTm"
-    },
-    {
-      "ts": 1790283902,
-      "type": "wallet",
-      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: USDC -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/374GoyU4uyY3dkQ6yNsaSKekpizgsAi6C5c6ga9WksRhrruHb8cFiM2daaSdhd1boc6mP2VXtRGdSSEnRoyTnNbq"
-    },
-    {
-      "ts": 1790283902,
-      "type": "wallet",
-      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: USDC -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/2fzWCLtatHa4eE9jfYbLjmjh3VoyMWSpsqRJXwwsZJSJd9wM9Aet1FQHPToSZCzTaBPboDj8oTH3mK2VcdoH7oBU"
-    },
-    {
-      "ts": 1790283017,
-      "type": "outcome",
-      "message": "\ud83d\udfe1 Packly (PACKLY) is holding steady so far (+18%)."
-    },
-    {
-      "ts": 1790283016,
-      "type": "outcome",
-      "message": "\ud83d\udd34 Ping Ping and Fu Shuang (\u548c\u5e73\u718a\u732b) is dropping fast \u2014 down 100%, may be rugging."
-    },
-    {
-      "ts": 1790283015,
-      "type": "outcome",
-      "message": "\ud83d\udd34 STONKCAT (SCAT) is dropping fast \u2014 down 100%, may be rugging."
-    },
-    {
-      "ts": 1790283014,
-      "type": "outcome",
-      "message": "\ud83d\udd34 SCAT \u00b7 Paired with (STONKCAT) is dropping fast \u2014 down 100%, may be rugging."
-    },
-    {
-      "ts": 1790283013,
-      "type": "scanner",
-      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\nEP50 (EP50)\nOpportunity: 76/100\n\nMOMENTUM     100\nSAFETY       60\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$39,226, 14 min since pool creation\n\u2022 Up +84% in the last hour, ~$151,985 in 24h volume (3.9x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 81% of supply (very concentrated)\n\nCA: FFJaUXuBsg9CRUE3a5qKo1kVQixxUtmaSyGwDqvwSMPi\nhttps://dexscreener.com/solana/FFJaUXuBsg9CRUE3a5qKo1kVQixxUtmaSyGwDqvwSMPi\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
-    },
-    {
-      "ts": 1790283012,
-      "type": "scanner",
-      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\nPumpies (Pumpies)\nOpportunity: 76/100\n\nMOMENTUM     100\nSAFETY       60\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$26,525, 6 min since pool creation\n\u2022 Up +73% in the last hour, ~$117,649 in 24h volume (4.4x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 85% of supply (very concentrated)\n\nCA: ADuPiWtHDgrtgdrt3WJK27qkdU8nJCyrfErzhZ2UVbwQ\nhttps://dexscreener.com/solana/ADuPiWtHDgrtgdrt3WJK27qkdU8nJCyrfErzhZ2UVbwQ\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
     }
   ]
 }
