@@ -1,48 +1,4 @@
 {
-  "7MeBJDUVucow7WscyGwCf5UzVhvpaJ6wrwbt6E4tJ6Vf": {
-    "name": "Trends",
-    "symbol": "TRENDS",
-    "flagged_ts": 1789682717,
-    "liquidity_at_flag": 24738.81348627888,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "DyzjXKD6dt7iZX6h3NHAC7E41vzAWKTL7eCPnP98oVbt": {
-    "name": "Tiger Cat",
-    "symbol": "TILCAYO",
-    "flagged_ts": 1789683556,
-    "liquidity_at_flag": 14306.967979349918,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "KQJqMo6hBzFHaphkNyBv31LJizWwvmS7LFi45U9Rfkn": {
-    "name": "2386.ai",
-    "symbol": "2386",
-    "flagged_ts": 1789683562,
-    "liquidity_at_flag": 34908.04366514878,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "Hna7UWQjnQ1Aen1bKMeMSy9w1tJZgQJC3ncdx3bN8bUa": {
-    "name": "Mooncat",
-    "symbol": "MCAT",
-    "flagged_ts": 1789683562,
-    "liquidity_at_flag": 31989.72155233325,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
   "FJFXTLThAr3N8k7BtMjs2gjJsXZXZubCqTC9nzL8nrH9": {
     "name": "Ronnie",
     "symbol": "Ronnie",
@@ -28372,7 +28328,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "CAqcebQonWgBVkxjB98ULJ5PXKfXwJxurpqqSsdwoLpk": {
@@ -28388,7 +28345,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "DtFb8Qu87XnH4jXcpAnTdiJUaffCKfqbzYCE9bNoBkVp": {
@@ -28404,7 +28362,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "AyYcWNth3J17nQy611iHNvQ4Ue9VyDswveBn5ou4pump": {
@@ -32371,7 +32330,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "1gWWhs7qrd9sBHwppQdMU2h2fTnnyoCYCSuVjFBpump": {
@@ -32745,7 +32705,9 @@
       "LIQUIDITY": 90,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "DMioHeq1Upkn9UY3JbZKZRwFLtmuAuAENPg9HbpD4w6L": {
     "name": "Pumpies",
@@ -32758,7 +32720,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "FbJ3u9MV647bbFN3dTRuXkfurjSYysoijJ2mGN21JHLD": {
     "name": "American Reserved Oil Supply",
@@ -32771,7 +32735,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "2WpkftHtgsGXeWqsGfMeuFFHuFpoEipYDw5iEDWk2yTD": {
     "name": "StonkBlend",
@@ -32784,7 +32750,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "AMEZLDqkYJCZBEioNpncCUeq65P2tP2QW5zTWYksyc64": {
     "name": "Quotes",
@@ -32872,6 +32840,58 @@
     "breakdown": {
       "MOMENTUM": 64,
       "SAFETY": 90,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "sugEbczEKKMGdRidWFNRWXXGrByj4LSzejtfo8vndcC": {
+    "name": "Xi The Pooh Xi",
+    "symbol": "Xi",
+    "flagged_ts": 1790288447,
+    "liquidity_at_flag": 32231.767375441785,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "7iCqHkErYSm7it9eS7cbRHxyohPuJcTzwe3ZipKP1izi": {
+    "name": "Xi The Pooh",
+    "symbol": "Xi",
+    "flagged_ts": 1790288448,
+    "liquidity_at_flag": 30523.2622908545,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "HJuFJUun8JE8CsYLmAuErGThw7xyLRVGTvcpPLpRZSu3": {
+    "name": "SOL Escape",
+    "symbol": "RUNE",
+    "flagged_ts": 1790288448,
+    "liquidity_at_flag": 34745.75872058705,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "ApZc4DsuQwe34K46qdJRAFy3GnMRRcVEYw6a7etcfo5t": {
+    "name": "\u548c\u5e73\u53cb\u8c0a",
+    "symbol": "\u548c\u5e73\u53cb\u8c0a",
+    "flagged_ts": 1790288449,
+    "liquidity_at_flag": 37397.40545980254,
+    "breakdown": {
+      "MOMENTUM": 84,
+      "SAFETY": 60,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
