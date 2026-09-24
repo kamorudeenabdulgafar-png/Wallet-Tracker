@@ -1,92 +1,4 @@
 {
-  "6k3hhbSNDrQimT8gNrtuY4dN89BoKMotF2wcvNAN5xcW": {
-    "name": "Cube",
-    "symbol": "CUBE",
-    "flagged_ts": 1789639899,
-    "liquidity_at_flag": 24281.24112018958,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "B62E4afzNe6awfvBrsPdPnZzjqKP6Ji3rg2pJnTe8ntH": {
-    "name": "Cube",
-    "symbol": "CUBE",
-    "flagged_ts": 1789639900,
-    "liquidity_at_flag": 31741.67571766212,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "CFdwVi2QkkVaL9NeQXebA6xQdXmVb1dzDThtbc4bzArU": {
-    "name": "Argus",
-    "symbol": "ARGUS",
-    "flagged_ts": 1789639902,
-    "liquidity_at_flag": 64341.692048489305,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "5aQEnoivZDVdVjrXCDkayj4LFVcvbP9GR8gULiNUpump": {
-    "name": "Cube",
-    "symbol": "CUBE",
-    "flagged_ts": 1789639903,
-    "liquidity_at_flag": 19812.89984149814,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "8xg5icqnnCS8W525d1tnLskV4w6i26JpC2jW1An1ZPg9": {
-    "name": "musebook",
-    "symbol": "MUSEBOOK",
-    "flagged_ts": 1789639905,
-    "liquidity_at_flag": 61771.787661513335,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "HKdVc6PuntsAwnjAP8Bex9srFXFEJZx6CcTorkFS5jy3": {
-    "name": "TRUMP",
-    "symbol": "TRUMP",
-    "flagged_ts": 1789639906,
-    "liquidity_at_flag": 24849.00132387327,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "7Z1aVuKoBAMNoRwz4vduv25a1hhWaynEy6CAtM9ppump": {
-    "name": "Giga Anonimous",
-    "symbol": "GIAN",
-    "flagged_ts": 1789640935,
-    "liquidity_at_flag": 25019.72458282578,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "8MTXUpSoGhXMoYEjEEW5KvAdnfEQTCqZqwrw9gc7eiQg": {
-    "name": "paycat",
-    "symbol": "paycat",
-    "flagged_ts": 1789640935,
-    "liquidity_at_flag": 47611.799009421506,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
   "2XzmcH17nXjG2P9dAur1A1HXbEgjfwb1YJdQvucSr9sy": {
     "name": "Winnie",
     "symbol": "WINNIE",
@@ -27326,7 +27238,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "8cHoMMSGRM3G2hfPbHNcN186jLFz6haE5EQeFVWBjUdw": {
@@ -27342,7 +27255,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "9TSR8LD9L2tywk3MokNXJBFqSY6CQHLFkZmxNTQovqex": {
@@ -31453,7 +31367,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "84SYWrcymFCBEvdygGi3qihH18VkBHYAjQfyMDfkvrD2": {
@@ -31468,7 +31383,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "G73AxkSqNij1P3cVrsiPrAAGtFZwSvpe5fAWzuF4Xh8C": {
@@ -32329,6 +32245,32 @@
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "dwV5MBNYbx3jGHNTkDBhK6dWn5NxhmhKV8mJi9QMhB4": {
+    "name": "FLAPCAT",
+    "symbol": "FLAPCAT",
+    "flagged_ts": 1790245765,
+    "liquidity_at_flag": 32397.565302281328,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "G59zeXWwXMw2bb6UJD1ceELXRhNkLXHkYrtBYBV5agnt": {
+    "name": ".agent",
+    "symbol": ".agent",
+    "flagged_ts": 1790245766,
+    "liquidity_at_flag": 29558.150988540612,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 100,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
