@@ -1,37 +1,4 @@
 {
-  "GZik7vJSnDAao9tbbcLrMGKfxLu7VCjoAtkDhsv8A3iE": {
-    "name": "Kevin Startup Fund",
-    "symbol": "KEVIN",
-    "flagged_ts": 1789608498,
-    "liquidity_at_flag": 23086.358706064457,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "EhfAJ9kzHRJvwxeEvM26fkvFeoYs7QLyWjM6Gqd7PJDt": {
-    "name": "Mempool Moth",
-    "symbol": "MOTH",
-    "flagged_ts": 1789608503,
-    "liquidity_at_flag": 27668.483601284344,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "7YFjBsHiX1jWqhdds8j72TFqwjL4FnmfZLbPCh4t1zes": {
-    "name": "Mempool Moth",
-    "symbol": "Moth",
-    "flagged_ts": 1789608504,
-    "liquidity_at_flag": 37286.02691066831,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
   "Bh8LRRbq7GUJZGyzFRr9gjMN9n8SK7nGEo8VnPaHFaUR": {
     "name": "Kevin Startup Fund",
     "symbol": "KEVIN",
@@ -30836,7 +30803,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "64FityyBGWXC1Rc89kBRT8dNEwrXCskGBCnfGy3Mpump": {
@@ -30851,7 +30819,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "DGg7WY4ZLvbGY3ds4id5fyKVxkH6HNGKEyFhSFY9Ena9": {
@@ -31390,7 +31359,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "E8x1RrRrp63ESJ6AKq7MUqYBGibmtWZ4XKKJWJTYDdHt": {
     "name": "parafactual",
@@ -31403,7 +31374,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "DxEiYeTfHyYXKuQo3fqqcZ5bhweaznfCBj4u1cUNDfwX": {
     "name": "Bluf",
@@ -31416,7 +31389,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "58MCBuz9Dr5TjQ8DVc9HNxboU7G871z9obsMDKPUfdEu": {
     "name": "Met",
@@ -31570,6 +31545,45 @@
       "MOMENTUM": 74,
       "SAFETY": 90,
       "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "CmAxJkYLtHHZyKMk97m81a73s7JmHqTQRUdxh7oqyY3c": {
+    "name": "Gstock",
+    "symbol": "GSTOCK",
+    "flagged_ts": 1790213788,
+    "liquidity_at_flag": 31488.25929534883,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "AitkCAt1CKd89oFEKC9wFDjopy9x4hGXhu6dsT6ypump": {
+    "name": "Trade Teeth",
+    "symbol": "TradeTeeth",
+    "flagged_ts": 1790213790,
+    "liquidity_at_flag": 34011.12282644627,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 100,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "HJEiuKFABYBHKeJTZWmPwrwQC1Bj4APVDnf8TEU1aK3r": {
+    "name": "Lily",
+    "symbol": "LILY",
+    "flagged_ts": 1790213791,
+    "liquidity_at_flag": 14843.390292730617,
+    "breakdown": {
+      "MOMENTUM": 98,
+      "SAFETY": 60,
+      "LIQUIDITY": 74,
       "SMART MONEY": 0
     },
     "checkpoints_done": []
