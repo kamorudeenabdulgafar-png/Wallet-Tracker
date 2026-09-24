@@ -32171,7 +32171,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "F4rJVZAgLwuKGieSsPojDGn8yVUEfDE3hp7e23fNe5zc": {
@@ -32719,6 +32720,19 @@
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "8LHgAXXPbMVqd3wmAQbTu4NxuRRe3qowgUSLiKmFpump": {
+    "name": "launchdap",
+    "symbol": "dap",
+    "flagged_ts": 1790281358,
+    "liquidity_at_flag": 49645.03561519731,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 100,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
