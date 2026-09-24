@@ -1,18 +1,5 @@
 [
   {
-    "name": "JevMargin Agents",
-    "symbol": "JEVMFI",
-    "category": "rug",
-    "change_pct": -100.0,
-    "breakdown": {
-      "MOMENTUM": 100,
-      "SAFETY": 60,
-      "LIQUIDITY": 100,
-      "SMART MONEY": 0
-    },
-    "ts": 1790169183
-  },
-  {
     "name": "SkyRelay",
     "symbol": "SkyRelay",
     "category": "rug",
@@ -3898,5 +3885,18 @@
       "SMART MONEY": 0
     },
     "ts": 1790277627
+  },
+  {
+    "name": "HOWL",
+    "symbol": "HOWL",
+    "category": "rug",
+    "change_pct": -100.0,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "ts": 1790278536
   }
 ]
