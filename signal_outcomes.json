@@ -1,26 +1,4 @@
 {
-  "FNfzNmKKRrAjDEiUUa2CwAmGcKQ4rDejHnwBVGraby36": {
-    "name": "Solana Cat",
-    "symbol": "SOLCAT",
-    "flagged_ts": 1789674278,
-    "liquidity_at_flag": 22300.57454269413,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "61ERPndXPVZHcUyPcKp1pJ1Ces8ZkxUwbkZBy4vmpump": {
-    "name": "jewallinu",
-    "symbol": "jewallinu",
-    "flagged_ts": 1789674279,
-    "liquidity_at_flag": 31349.680414545437,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
   "FRYHjobpFy4sgUAqViE7siWMoERKKuZSjzGGaD4ypump": {
     "name": "FlyPaid",
     "symbol": "FlyP",
@@ -32611,7 +32589,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "5515dMQqfQ9Xbznc76Jn5W1wGdsqe51XvrpHZrHSgjHw": {
     "name": "Zama",
@@ -32624,7 +32604,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "2rRsyqAzPzx1x3vXLccg1Ufr1ixtHyhB9E9x1TAFpSqx": {
     "name": "meme",
@@ -32696,6 +32678,19 @@
     "symbol": "Fred",
     "flagged_ts": 1790278535,
     "liquidity_at_flag": 29111.674187271376,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "Dzpm645JhXi18HtDwynhvRwz19zGQCAS37Pj1BdthYkA": {
+    "name": "Packly",
+    "symbol": "PACKLY",
+    "flagged_ts": 1790279134,
+    "liquidity_at_flag": 28012.04176529488,
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 60,
