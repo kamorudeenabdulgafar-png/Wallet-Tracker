@@ -1,15 +1,4 @@
 {
-  "EMpDUWywbN878QjR3QGrZGNp3WHQcp2qBDr8qvVmKWVh": {
-    "name": "Swoledoge",
-    "symbol": "SWOGE",
-    "flagged_ts": 1789677914,
-    "liquidity_at_flag": 29321.472988324123,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
   "E7AymCqqQBuhqmL2HekUE6NNsgQnMc4R2zseG1RYkTrq": {
     "name": "Mooncat",
     "symbol": "MCAT",
@@ -32301,7 +32290,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "w1FcpRzp5Aeb9bE5WUBDqaTVDjzzMUNQhzMFjKMJzRj": {
@@ -32316,7 +32306,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "F6KKacQoBm5Mxr6drB6ct8cpFsfsqJiUQmBHUqUHCB3f": {
@@ -32331,7 +32322,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "7g7cHJ2aXAikcPCnWsKJCm8i9GjoyseUVRLhhynEoVVm": {
@@ -32675,7 +32667,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "Dieo9HsRZuQxccuHkdNSH44LUnfL5anhU3ZA3h4ypump": {
     "name": "Reddit Paid",
@@ -32747,6 +32741,45 @@
     "symbol": "dap",
     "flagged_ts": 1790282324,
     "liquidity_at_flag": 27601.63139206147,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "D4NvkcZ7U8TSkMnGGfgB24Dv2J6ZQX48ki3odCjQpump": {
+    "name": "Pumpies",
+    "symbol": "Pumpies",
+    "flagged_ts": 1790283011,
+    "liquidity_at_flag": 22613.15995804585,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 100,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "ADuPiWtHDgrtgdrt3WJK27qkdU8nJCyrfErzhZ2UVbwQ": {
+    "name": "Pumpies",
+    "symbol": "Pumpies",
+    "flagged_ts": 1790283012,
+    "liquidity_at_flag": 26525.00098232511,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "FFJaUXuBsg9CRUE3a5qKo1kVQixxUtmaSyGwDqvwSMPi": {
+    "name": "EP50",
+    "symbol": "EP50",
+    "flagged_ts": 1790283013,
+    "liquidity_at_flag": 39225.539753295685,
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 60,
