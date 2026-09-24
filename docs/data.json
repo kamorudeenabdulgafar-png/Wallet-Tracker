@@ -1,5 +1,5 @@
 {
-  "last_updated": 1790215048,
+  "last_updated": 1790215701,
   "wallets": [
     {
       "label": "Dev wallet 1",
@@ -67,7 +67,7 @@
         "USD1ttGY1N17NEEHLmELoaybftRBUSErhqYiQzvEmuB",
         "cbbtcf3aa214zXHbiAZQwf4122FBYbraNdFqgw4iMij"
       ],
-      "last_active": 1790206531,
+      "last_active": 1790215689,
       "positions": {},
       "realized_pnl_usd": 0.0
     }
@@ -86,7 +86,7 @@
     "count": 2835,
     "up_count": 613,
     "total_change_pct": -155586.29928175083,
-    "rug": 1200,
+    "rug": 1204,
     "doing_well": 10,
     "steady": 7,
     "fading": 12
@@ -94,6 +94,56 @@
   "learning_insight": null,
   "settings": {},
   "recent_alerts": [
+    {
+      "ts": 1790215701,
+      "type": "outcome",
+      "message": "\ud83d\udd34 clausius (clausius) is dropping fast \u2014 down 71%, may be rugging."
+    },
+    {
+      "ts": 1790215700,
+      "type": "outcome",
+      "message": "\ud83d\udfe0 32 Chunk (CHUNK) is fading \u2014 down 31% so far."
+    },
+    {
+      "ts": 1790215699,
+      "type": "outcome",
+      "message": "\ud83d\udd34 clausius (clausius) is dropping fast \u2014 down 100%, may be rugging."
+    },
+    {
+      "ts": 1790215698,
+      "type": "outcome",
+      "message": "\ud83d\udd34 Mister Frog (FROG) turned out to be a rug \u2014 liquidity dropped 95% over 24h."
+    },
+    {
+      "ts": 1790215697,
+      "type": "outcome",
+      "message": "\ud83d\udd34 SNAKECAT (SNAKECAT) turned out to be a rug \u2014 liquidity dropped 90% over 24h."
+    },
+    {
+      "ts": 1790215696,
+      "type": "outcome",
+      "message": "\ud83d\udd34 BASEDCAT (BASEDCAT) turned out to be a rug \u2014 liquidity dropped 80% over 24h."
+    },
+    {
+      "ts": 1790215695,
+      "type": "outcome",
+      "message": "\ud83d\udd34 Compootcoin (COMPOOT) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
+    },
+    {
+      "ts": 1790215694,
+      "type": "scanner",
+      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\nGenuine Stupidity (GS)\nOpportunity: 76/100\n\nMOMENTUM     100\nSAFETY       60\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$54,984, 8 min since pool creation\n\u2022 Up +125% in the last hour, ~$255,239 in 24h volume (4.6x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 91% of supply (very concentrated)\n\nCA: 2jPe4jtqMAz66VKkJtE5kqoHGxNuJZ7BGphAFm3RqDfj\nhttps://dexscreener.com/solana/2jPe4jtqMAz66VKkJtE5kqoHGxNuJZ7BGphAFm3RqDfj\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
+    },
+    {
+      "ts": 1790215692,
+      "type": "scanner",
+      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\nfamiliars.family (familiars)\nOpportunity: 76/100\n\nMOMENTUM     100\nSAFETY       60\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$39,735, 5 min since pool creation\n\u2022 Up +192% in the last hour, ~$84,363 in 24h volume (2.1x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 97% of supply (very concentrated)\n\nCA: CXrMW6Zd128bCmkYu6b7aWBvRt2Qpd6ziC1gs45HHm9q\nhttps://dexscreener.com/solana/CXrMW6Zd128bCmkYu6b7aWBvRt2Qpd6ziC1gs45HHm9q\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
+    },
+    {
+      "ts": 1790215690,
+      "type": "wallet",
+      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: GOOGLx -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/Zt2UMi8AYYBrMb82ajRNg94xX3sKsiAnBDcmNYVdwM2SiBgwKhsXx3TSUxF2VTQR4xLHCPT2znhmxLJtRYKYvff"
+    },
     {
       "ts": 1790215047,
       "type": "outcome",
@@ -293,56 +343,6 @@
       "ts": 1790212108,
       "type": "scanner",
       "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\nMet (MET)\nOpportunity: 76/100\n\nMOMENTUM     100\nSAFETY       60\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$67,792, 13 min since pool creation\n\u2022 Up +141% in the last hour, ~$439,347 in 24h volume (6.5x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 98% of supply (very concentrated)\n\nCA: 29PD7dBhzbTs2rBnxa8s4G4RWzaEdbFBFszvJPVA5YkY\nhttps://dexscreener.com/solana/29PD7dBhzbTs2rBnxa8s4G4RWzaEdbFBFszvJPVA5YkY\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
-    },
-    {
-      "ts": 1790212107,
-      "type": "scanner",
-      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\nTicker (TICKER)\nOpportunity: 76/100\n\nMOMENTUM     100\nSAFETY       60\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$27,328, 11 min since pool creation\n\u2022 Up +81% in the last hour, ~$75,010 in 24h volume (2.7x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 83% of supply (very concentrated)\n\nCA: 4KoT5z47UVxks1utibF3xMu2fMDbXcg2Kasfsv2TFfsE\nhttps://dexscreener.com/solana/4KoT5z47UVxks1utibF3xMu2fMDbXcg2Kasfsv2TFfsE\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
-    },
-    {
-      "ts": 1790212105,
-      "type": "scanner",
-      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\nSolanaBroker (SOLBROKER)\nOpportunity: 76/100\n\nMOMENTUM     100\nSAFETY       60\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$27,533, 10 min since pool creation\n\u2022 Up +71% in the last hour, ~$227,591 in 24h volume (8.3x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 83% of supply (very concentrated)\n\nCA: 9b4HdxBQSjLFvSFxnfoBzrYkCkZ6kjncr1fkrfu845Er\nhttps://dexscreener.com/solana/9b4HdxBQSjLFvSFxnfoBzrYkCkZ6kjncr1fkrfu845Er\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
-    },
-    {
-      "ts": 1790212104,
-      "type": "scanner",
-      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\nTicker (TICKER)\nOpportunity: 74/100\n\nMOMENTUM     100\nSAFETY       60\nLIQUIDITY    88\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$17,619, 10 min since pool creation\n\u2022 Up +128% in the last hour, ~$133,113 in 24h volume (7.6x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 74% of supply (very concentrated)\n\nCA: A1cH6aVdVypahaCJJAko1NvNbrR1BoZYotDhdWbwEmg8\nhttps://dexscreener.com/solana/A1cH6aVdVypahaCJJAko1NvNbrR1BoZYotDhdWbwEmg8\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
-    },
-    {
-      "ts": 1790212103,
-      "type": "scanner",
-      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\nGrail (GRAIL)\nOpportunity: 76/100\n\nMOMENTUM     100\nSAFETY       60\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$53,732, 10 min since pool creation\n\u2022 Up +345% in the last hour, ~$452,431 in 24h volume (8.4x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 90% of supply (very concentrated)\n\nCA: 7bVx6mh5ixZeoy6A33EVMQpo1uZM3ZBCjpbm9ar6KWtN\nhttps://dexscreener.com/solana/7bVx6mh5ixZeoy6A33EVMQpo1uZM3ZBCjpbm9ar6KWtN\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
-    },
-    {
-      "ts": 1790212102,
-      "type": "scanner",
-      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 STRONG\nfamiliars.family (familiars)\nOpportunity: 83/100\n\nMOMENTUM     100\nSAFETY       90\nLIQUIDITY    82\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$16,492, 9 min since pool creation\n\u2022 Up +106% in the last hour, ~$35,714 in 24h volume (2.2x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Low, 10/100):\n\u2022 top 10 holders own 35% of supply\n\nCA: DWz7Sf1GnoEvURopQFPGcq3EaVpGVxVSihqeehYopump\nhttps://dexscreener.com/solana/DWz7Sf1GnoEvURopQFPGcq3EaVpGVxVSihqeehYopump\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
-    },
-    {
-      "ts": 1790212101,
-      "type": "scanner",
-      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\nTicker (TICKER)\nOpportunity: 74/100\n\nMOMENTUM     95\nSAFETY       60\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$26,585, 8 min since pool creation\n\u2022 Up +63% in the last hour, ~$161,939 in 24h volume (6.1x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 85% of supply (very concentrated)\n\nCA: EpjokPCaft9je7NsaX2qsYRuaTtX8QtcYiY7Th6mi6Sq\nhttps://dexscreener.com/solana/EpjokPCaft9je7NsaX2qsYRuaTtX8QtcYiY7Th6mi6Sq\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
-    },
-    {
-      "ts": 1790211432,
-      "type": "outcome",
-      "message": "\ud83d\udd34 \u7389\u5154 (\u7389\u5154) is dropping fast \u2014 down 100%, may be rugging."
-    },
-    {
-      "ts": 1790211432,
-      "type": "outcome",
-      "message": "\ud83d\udfe0 Philcate (PHILCATE) is fading \u2014 down 52% so far."
-    },
-    {
-      "ts": 1790211431,
-      "type": "outcome",
-      "message": "\ud83d\udd34 goon (goon) is dropping fast \u2014 down 100%, may be rugging."
-    },
-    {
-      "ts": 1790211430,
-      "type": "outcome",
-      "message": "\ud83d\udd34 Broke Boy Obie (OBIE) is dropping fast \u2014 down 100%, may be rugging."
     }
   ]
 }
