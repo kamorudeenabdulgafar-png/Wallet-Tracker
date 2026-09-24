@@ -31063,7 +31063,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "6TcFqnzyxFE6bZPqNL7MimUsvggheDQrjwKUhGUKJFXY": {
@@ -31078,7 +31079,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "AuQibGjNSMLbH2Aq4NizpsGAH9w9Tg3UdirFJex4SxEt": {
@@ -31737,7 +31739,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "5KjPUU8oSpivdfPXdvgVrPDmcgsXk1y9L1ZvP9W6f4TG": {
     "name": "funkos",
@@ -31750,7 +31754,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "5PuD9RYTVSbe3N6uXJTAujYVpHkkttpykS5QpQ2wwa2r": {
     "name": "funkos",
@@ -31763,7 +31769,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "NZWMvLX4PYYWonh7mDEr7AdwooJHbtopGpwZwsTa77C": {
     "name": "NPCs",
@@ -31776,7 +31784,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "2pMn4TA3ndozn2Jq6nsQ4QVa8B5CPyKTXJ1XaUd3GMq6": {
     "name": "MOGGED",
@@ -31926,6 +31936,45 @@
     "symbol": "Hybrid cat",
     "flagged_ts": 1790233146,
     "liquidity_at_flag": 55050.69615053439,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "4GVJiepCery4Lu2xBYH3u7jvMSqZMpgevbDsg3xykEvN": {
+    "name": "market maker agents",
+    "symbol": "mm",
+    "flagged_ts": 1790234007,
+    "liquidity_at_flag": 16098.68004699886,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 90,
+      "LIQUIDITY": 80,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "AzyZTkSFVQdKh68U3yF1oyhxyNpktG6LGZ5qdXJY8aZp": {
+    "name": "Claude Ai",
+    "symbol": "claude",
+    "flagged_ts": 1790234008,
+    "liquidity_at_flag": 34935.05186787328,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "B9eB38gSFV2LfkZJU1mNXNyvCnmbngaWG63shTicmvT6": {
+    "name": "market maker agents",
+    "symbol": "mm",
+    "flagged_ts": 1790234009,
+    "liquidity_at_flag": 28549.2821489835,
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 60,
