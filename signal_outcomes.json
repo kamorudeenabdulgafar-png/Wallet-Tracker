@@ -1,37 +1,4 @@
 {
-  "FxaYoptzmpq1aE7eruDE61a24osTZ8WsHfEAVKHrCJUv": {
-    "name": "Dividend Hounds",
-    "symbol": "HOUND",
-    "flagged_ts": 1789680008,
-    "liquidity_at_flag": 29017.877965389795,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "EZCkquQFJUBjNEibUhs43aQuR5kRf9tHqi87p2V64fpJ": {
-    "name": "Zillions",
-    "symbol": "ZILLIONS",
-    "flagged_ts": 1789680010,
-    "liquidity_at_flag": 44063.56171926294,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "7rgySLWihMEQ8zk5kYZTBQj4w8RthwxzYnSzsBqcGiwB": {
-    "name": "Mooncat",
-    "symbol": "MCAT",
-    "flagged_ts": 1789680653,
-    "liquidity_at_flag": 32686.5729899705,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
   "DvVxzdyB5Q3Zp6Kk5gAEKxnKCroxdJCY7MM52hcogLuJ": {
     "name": "JupCat",
     "symbol": "JupCat",
@@ -28273,7 +28240,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "7P1UwwN2HmMrBuXgiN1VPruLY7rsWmK6QHZ9bAoSpump": {
@@ -32352,7 +32320,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "spwn3Mwjuig2wWfuG2LwzHPZTeZU3J3KtrPdkf11bpk": {
@@ -32367,7 +32336,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "7hpQb1uZN8VajnPnekQwTq7un9vbezsTLgpmoGnEpNGj": {
@@ -32696,7 +32666,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "4VLthERW6Htu8KppewYyxFLPKmknugZiDAFRw2D4UxLU": {
     "name": "launchdap",
@@ -32833,6 +32805,32 @@
     "symbol": "STONKBLEND",
     "flagged_ts": 1790284805,
     "liquidity_at_flag": 31839.669309409306,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "AMEZLDqkYJCZBEioNpncCUeq65P2tP2QW5zTWYksyc64": {
+    "name": "Quotes",
+    "symbol": "Quotes",
+    "flagged_ts": 1790285468,
+    "liquidity_at_flag": 31130.336190349622,
+    "breakdown": {
+      "MOMENTUM": 89,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "5RTkLTMY99f57riCGzkVXoyD69Z1uXPzwVR1zd3xG2bT": {
+    "name": "Rockstar Games",
+    "symbol": "Rockstar",
+    "flagged_ts": 1790285469,
+    "liquidity_at_flag": 32358.644378884495,
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 60,
