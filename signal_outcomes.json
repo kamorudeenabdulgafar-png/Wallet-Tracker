@@ -1,37 +1,4 @@
 {
-  "A7iQ8N5jKDrg1YUxJ7v8aN5AtkwJaUTNhq1jZ8YLFrAJ": {
-    "name": "Alx",
-    "symbol": "ALX",
-    "flagged_ts": 1789621122,
-    "liquidity_at_flag": 33150.888702858116,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "8LYNayZN3wakPYuLskeKCaNeERwkJ9xTB827SP6ehVoU": {
-    "name": "arc",
-    "symbol": "Arc",
-    "flagged_ts": 1789621124,
-    "liquidity_at_flag": 281959.4620336389,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "DK9KaYGVnhgAmV9yJx4UFcENw8TVagQFtMRXBzTmoU6R": {
-    "name": "Memory cow Moo",
-    "symbol": "MOO",
-    "flagged_ts": 1789621125,
-    "liquidity_at_flag": 51582.85441819536,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
   "96FAWt4BTyucuMdGsCeoTwkDri34SowjcB9Rotdiv2N1": {
     "name": "THICC",
     "symbol": "THICC",
@@ -27070,7 +27037,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "2Huhr8rHzgsiVF9zB9dBjECKwF4Le9TzBCoye4qGpump": {
@@ -30909,7 +30877,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "DWz7Sf1GnoEvURopQFPGcq3EaVpGVxVSihqeehYopump": {
@@ -30924,7 +30893,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "7bVx6mh5ixZeoy6A33EVMQpo1uZM3ZBCjpbm9ar6KWtN": {
@@ -30939,7 +30909,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "A1cH6aVdVypahaCJJAko1NvNbrR1BoZYotDhdWbwEmg8": {
@@ -30954,7 +30925,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "9b4HdxBQSjLFvSFxnfoBzrYkCkZ6kjncr1fkrfu845Er": {
@@ -30969,7 +30941,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "4KoT5z47UVxks1utibF3xMu2fMDbXcg2Kasfsv2TFfsE": {
@@ -30984,7 +30957,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "29PD7dBhzbTs2rBnxa8s4G4RWzaEdbFBFszvJPVA5YkY": {
@@ -30999,7 +30973,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "7WrA2qXv5p6WAT7JBWGm74UjGv7u3v41stJwP4KUpump": {
@@ -31014,7 +30989,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "CmAxJkYLtHHZyKMk97m81a73s7JmHqTQRUdxh7oqyY3c": {
@@ -31734,6 +31710,58 @@
     "breakdown": {
       "MOMENTUM": 86,
       "SAFETY": 90,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "Dw4BLqvS4jRXibH5vqnbDXDFdyWHcDhMBxL1yvgjdNc4": {
+    "name": "funkos",
+    "symbol": "FUNKOS",
+    "flagged_ts": 1790226581,
+    "liquidity_at_flag": 55672.25972991752,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "H6gRV8Qsn3ENrwdoCtjnusyHF9UNz453xzVE2SsuXrY": {
+    "name": "Genius Processing Unit",
+    "symbol": "GPU",
+    "flagged_ts": 1790226582,
+    "liquidity_at_flag": 149731.9230399508,
+    "breakdown": {
+      "MOMENTUM": 84,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "4RquHZNy5R3vtFW5wAFZcPvzorfuz46ha626kjEDqPn6": {
+    "name": "Ethernity Chain",
+    "symbol": "ERN",
+    "flagged_ts": 1790226583,
+    "liquidity_at_flag": 35864.83668915553,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "6YZFZjYamiPFZufXycWNW95LaqFB6ZVjcxaL2xERdcNC": {
+    "name": "\u6d4e\u516c",
+    "symbol": "\u6d4e\u516c",
+    "flagged_ts": 1790226584,
+    "liquidity_at_flag": 33461.36605345918,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
