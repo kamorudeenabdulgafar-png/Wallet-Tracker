@@ -1,37 +1,4 @@
 {
-  "4qEUfQ6qwjqPTLQsxohbfxCV3xR5dKKh3pCThrVEpump": {
-    "name": "Unstable All Inu Coin",
-    "symbol": "USDAU",
-    "flagged_ts": 1789627525,
-    "liquidity_at_flag": 22418.926319158207,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "7ti4myKYPEJpwN1iV5UNc5gGto61jT92yhrxKNNXM1GX": {
-    "name": "Deflock",
-    "symbol": "FLOCK",
-    "flagged_ts": 1789627527,
-    "liquidity_at_flag": 39959.30718395312,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "7WG3cSP6DEtD1YwZHXqSfXJqaf7C7qAopcdXUPKmpump": {
-    "name": "RuneScape Gold",
-    "symbol": "GP",
-    "flagged_ts": 1789627529,
-    "liquidity_at_flag": 19949.689836105004,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
   "akQTQLBKL4JPuZ5RqWEkqyLn5ndwJq5gS5YG1uy9RNS": {
     "name": "RuneScape Gold",
     "symbol": "GP",
@@ -27101,7 +27068,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "5YpDMz4jJcyHK2oh3pGTeDxpNyDLWw3mpgx487HJ6MLc": {
@@ -27117,7 +27085,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "913oNUU4Y3gVt2PmFACoYcJPy1SEgymFytchCKj8zJ4U": {
@@ -31036,7 +31005,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "rSqnoL3X5v8ysCubqHLWAxCEyybw9R387FSzKWMpump": {
@@ -31650,7 +31620,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "U436GSY3hVkiDKXMCemJPjSo69giLwv7ZHNw5iP71qm": {
     "name": "Pok\u00e9mon",
@@ -31663,7 +31635,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "GJ8QDVAJ6TswTCpSQiEMVTXTxQvZBeuFeuMYEZRpg5t3": {
     "name": "Butthole",
@@ -31676,7 +31650,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "3HX5xA7SLPgy7Hx4HFj82pp3sw5fdQWRpFskkZK8s3n8": {
     "name": "POLAR",
@@ -31689,7 +31665,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "DpYkieBVTDjibpNqSa7qcfREip5RCrpdoguK6shkJqx5": {
     "name": "Ballsack Supreme",
@@ -31839,6 +31817,71 @@
     "symbol": "Monkey",
     "flagged_ts": 1790231367,
     "liquidity_at_flag": 35671.63604010569,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "G73AxkSqNij1P3cVrsiPrAAGtFZwSvpe5fAWzuF4Xh8C": {
+    "name": "\u672c\u660c\u6210\u4f5b",
+    "symbol": "\u672c\u660c\u6210\u4f5b",
+    "flagged_ts": 1790232401,
+    "liquidity_at_flag": 21422.23101528479,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "wjt29Fap6WrP8yLX1BosrYoDU3QpZZAcdTvtW8KQWMT": {
+    "name": "Real-life Assets",
+    "symbol": "GOODS",
+    "flagged_ts": 1790232402,
+    "liquidity_at_flag": 40281.67564746531,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "97bgrxPak2EKZPMSDchD3gh6CnBCXPpY4wjitS14jaaN": {
+    "name": "NPCs",
+    "symbol": "NPC",
+    "flagged_ts": 1790232403,
+    "liquidity_at_flag": 18888.634651465574,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 94,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "GCdiWuRagkHuD3edSkc6GPzg3q42ojU2wZBQSbtoZHPq": {
+    "name": "helmet",
+    "symbol": "helmet",
+    "flagged_ts": 1790232404,
+    "liquidity_at_flag": 20566.443537202118,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 90,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "9dbnH1M42QmXJkAiAgrbJGXTifWM4wq4aPjS72nEkKW2": {
+    "name": "MOGGED",
+    "symbol": "MOGGED",
+    "flagged_ts": 1790232404,
+    "liquidity_at_flag": 37536.8680618004,
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 60,
