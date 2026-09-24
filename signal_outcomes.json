@@ -1,15 +1,4 @@
 {
-  "FRYHjobpFy4sgUAqViE7siWMoERKKuZSjzGGaD4ypump": {
-    "name": "FlyPaid",
-    "symbol": "FlyP",
-    "flagged_ts": 1789674775,
-    "liquidity_at_flag": 20994.663658020538,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
   "J9YnSZgvVQ1wkv2dcKnySoi39amPVSEyRv4xgM67Boj8": {
     "name": "musebook",
     "symbol": "musebook",
@@ -28060,7 +28049,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "2tc4QBfE5KSngZ9qdKuEYLudL4YJD6vanH5DtrrDpump": {
@@ -28076,7 +28066,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "7NJquMZvupon6YC56UfnnZv6gjPfcjgoy1nfXXWagYst": {
@@ -28092,7 +28083,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "5os5VT4uK82kFDtrMvLnq1WmeGghF4DhmzxNftD1pump": {
@@ -28108,7 +28100,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "APd55sf29YEaa42dhfcRh6KWjK45Xcgkcr2c6fGnE9Lv": {
@@ -28124,7 +28117,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "3L9RHgNPZYXWCEqFntjVEPLh4JSpWz2FDzbZwALsJz1m": {
@@ -32155,7 +32149,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "FdqSN23y37qLrykLJ8yj9yo7TJHKqVXq1RdvKiknhd4c": {
@@ -32694,6 +32689,32 @@
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "Dieo9HsRZuQxccuHkdNSH44LUnfL5anhU3ZA3h4ypump": {
+    "name": "Reddit Paid",
+    "symbol": "REDDIT",
+    "flagged_ts": 1790279660,
+    "liquidity_at_flag": 43764.17650577983,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 100,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "36sXP4TobquwgkfNDNa4r5gDxoLZdJmy3cJNUgUXpump": {
+    "name": "More Knowledge",
+    "symbol": "MOREKNOW",
+    "flagged_ts": 1790279662,
+    "liquidity_at_flag": 27841.168050790464,
+    "breakdown": {
+      "MOMENTUM": 59,
+      "SAFETY": 90,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
