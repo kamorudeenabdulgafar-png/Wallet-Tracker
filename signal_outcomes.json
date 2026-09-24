@@ -1,15 +1,4 @@
 {
-  "53jEy4dmEwA9xsCuiNZp1syPmEbs6FGKWQoxmMFs3Xpo": {
-    "name": "INUmanoid",
-    "symbol": "INUMANOID",
-    "flagged_ts": 1789653986,
-    "liquidity_at_flag": 26682.68543612423,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
   "3cXm9cFoPrc12BKaEnmADEHxGA2hNtKYuQryjpZW96jT": {
     "name": "Fly Trader",
     "symbol": "Fly",
@@ -27695,7 +27684,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "FqRZnV1Z1aVXTBLxzZtdj8BCjDNMq1BLEwQP6z9Lpump": {
@@ -31870,7 +31860,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "4LMgCxNmLyAEnjrkcQtBxN1RLibQgfaHHsfwPcksFCJc": {
@@ -31885,7 +31876,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "dwV5MBNYbx3jGHNTkDBhK6dWn5NxhmhKV8mJi9QMhB4": {
@@ -32274,7 +32266,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "5n25ktEsiZtW2zF6wdQHVx18ZniHKi4XpXMUnDNCDRtA": {
     "name": "\u4e03\u5915\u725b\u90ce",
@@ -32437,6 +32431,71 @@
     "symbol": "HUNTINGDON",
     "flagged_ts": 1790258318,
     "liquidity_at_flag": 43890.00191123286,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 75,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "8DfGtYASuK64E38k5AuEheKzbKJ765Cuz21G5uWH9YHX": {
+    "name": "WinRAR",
+    "symbol": "WINRAR",
+    "flagged_ts": 1790259184,
+    "liquidity_at_flag": 30392.47351496534,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "6qiuczTAnQHPosgBgXAFRsifmSWHbVLDogMU7uhyAnh8": {
+    "name": "Onboard",
+    "symbol": "ONBOARD",
+    "flagged_ts": 1790259185,
+    "liquidity_at_flag": 44638.95700014432,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 75,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "uyeqnkuDZb2JBaLyWCvzkGQCCPZxpYgdG3HLJwJpump": {
+    "name": "DeepSeek",
+    "symbol": "DeepSeek",
+    "flagged_ts": 1790259186,
+    "liquidity_at_flag": 40316.5147109855,
+    "breakdown": {
+      "MOMENTUM": 90,
+      "SAFETY": 100,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "7GP6bs9gGoroz3w1R8vFwkhrETCGEQDU9G1sGnVhDJHM": {
+    "name": "MCNAPOLEON",
+    "symbol": "MCNAP",
+    "flagged_ts": 1790259187,
+    "liquidity_at_flag": 36578.728509160486,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "Gu31x8RGUQuUkRv44tRbQwQt67PMB5o17gUPyuLtWeC8": {
+    "name": "Onboard",
+    "symbol": "ONBOARD",
+    "flagged_ts": 1790259188,
+    "liquidity_at_flag": 31263.496182695635,
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 75,
