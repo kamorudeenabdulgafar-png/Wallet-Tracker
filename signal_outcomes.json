@@ -1,37 +1,4 @@
 {
-  "7UWa4YR5h97e85mP3neBpW4FF6tXk9BwVWv9pUR2HZeK": {
-    "name": "Grokbook",
-    "symbol": "GrokBOOK",
-    "flagged_ts": 1789649906,
-    "liquidity_at_flag": 37432.324813473264,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "AwmAK9poRY369G5BdhKF6ibLFchHetVanfUBwvL6tUH7": {
-    "name": "FomoBook",
-    "symbol": "FomoBook",
-    "flagged_ts": 1789649907,
-    "liquidity_at_flag": 36409.28021308347,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "4a2RWi2J7brkpWdMoNsFrJa6xTDaSRaiMjQsSiEvRW72": {
-    "name": "FomoBook",
-    "symbol": "FomoBook",
-    "flagged_ts": 1789649908,
-    "liquidity_at_flag": 58503.05822082084,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
   "2GBAtvtJYmmeSBeAESsUMfBFspXnAo6RPAdgHLgFHDNT": {
     "name": "Kojo The Squirrel",
     "symbol": "KOJO",
@@ -27554,7 +27521,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "8UswfwT6nRQx2GbYg5WFGKkxU8KwZPbqXw8Tax4b27ma": {
@@ -27570,7 +27538,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "8wsuv63icQUYL5J4GFpzN5kLT7KuZFmaS66rrJKMwRuz": {
@@ -27586,7 +27555,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "2RmsrB6XTWTkUZBCB5eoK5mExWQG52uTY2X3hqUbpump": {
@@ -27602,7 +27572,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "GLWR3sVCSMuL7ffjCnpjkgC862TV5R5b8ofr3i8bjjhM": {
@@ -32197,7 +32168,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "5zp3owqdmwevn413p2nMJwYt179GtLkdzgiD1kE8exy3": {
     "name": "\u4e2d\u79cb\u4f73\u8282",
@@ -32210,7 +32183,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "aqkFr3SrHLHTxkfjZknvejjMZAVATtzJ9trqtw4RiXe": {
     "name": "Last pack magic",
@@ -32223,7 +32198,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "FLu5nfSwiHnxaeEPZA3W9fx6znVNZxHPk5ytRKtuWGmX": {
     "name": "Gamblepad",
@@ -32362,6 +32339,19 @@
     "liquidity_at_flag": 178486.76057860404,
     "breakdown": {
       "MOMENTUM": 83,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "7MsRE1uaSjdLGDfxmMegiwSX4au83sMVbsUN39jiCRoz": {
+    "name": "PROM",
+    "symbol": "PROM",
+    "flagged_ts": 1790254730,
+    "liquidity_at_flag": 26742.988896391267,
+    "breakdown": {
+      "MOMENTUM": 100,
       "SAFETY": 60,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
