@@ -1,5 +1,5 @@
 {
-  "last_updated": 1790247924,
+  "last_updated": 1790248834,
   "wallets": [
     {
       "label": "Dev wallet 1",
@@ -87,7 +87,7 @@
     "count": 2835,
     "up_count": 613,
     "total_change_pct": -155586.29928175083,
-    "rug": 1308,
+    "rug": 1309,
     "doing_well": 11,
     "steady": 7,
     "fading": 13
@@ -95,6 +95,41 @@
   "learning_insight": null,
   "settings": {},
   "recent_alerts": [
+    {
+      "ts": 1790248834,
+      "type": "outcome",
+      "message": "\ud83d\udfe2 Hyperliquid (HYPE) is still doing really good \u2014 up 244% so far!"
+    },
+    {
+      "ts": 1790248833,
+      "type": "outcome",
+      "message": "\ud83d\udd34 TURF (TURF) is dropping fast \u2014 down 100%, may be rugging."
+    },
+    {
+      "ts": 1790248833,
+      "type": "outcome",
+      "message": "\ud83d\udd34 market maker agents (mm) is dropping fast \u2014 down 100%, may be rugging."
+    },
+    {
+      "ts": 1790248832,
+      "type": "outcome",
+      "message": "\ud83d\udd34 Claude Ai (claude) is dropping fast \u2014 down 100%, may be rugging."
+    },
+    {
+      "ts": 1790248831,
+      "type": "outcome",
+      "message": "\ud83d\udfe0 market maker agents (mm) is fading \u2014 down 39% so far."
+    },
+    {
+      "ts": 1790248831,
+      "type": "outcome",
+      "message": "\ud83d\udd34 WALTER WORM (WALTER) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
+    },
+    {
+      "ts": 1790248829,
+      "type": "scanner",
+      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\nRABBIT (RABBIT)\nOpportunity: 76/100\n\nMOMENTUM     100\nSAFETY       60\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$26,028, 9 min since pool creation\n\u2022 Up +79% in the last hour, ~$30,233 in 24h volume (1.2x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 78% of supply (very concentrated)\n\nCA: Bk3WH2jhRrw2bTyjT833ebWvhmgiEjGRY6GZLMUSUdUf\nhttps://dexscreener.com/solana/Bk3WH2jhRrw2bTyjT833ebWvhmgiEjGRY6GZLMUSUdUf\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
+    },
     {
       "ts": 1790247924,
       "type": "outcome",
@@ -309,41 +344,6 @@
       "ts": 1790245762,
       "type": "wallet",
       "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: RAY -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/4fLQGYFmBKguZMnoKEmN1VF9TdkRSYhjDhekAcrMkqMBxZEadnAFNuHCRCUY7PnTY2ZMHF2mhBhPfSWUhiZJynWK"
-    },
-    {
-      "ts": 1790245762,
-      "type": "wallet",
-      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: xHYPE -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/3ks4MwGVeHJuJnELVUPGb5Xvhcmw4E4MQUHK9GBMSb1QTTz5FTduwkwMCGKGhMWjNkC38YuoALZ14VATgwBqL2je"
-    },
-    {
-      "ts": 1790244660,
-      "type": "outcome",
-      "message": "\ud83d\udd34 Sitting Dog (SDOG) is dropping fast \u2014 down 100%, may be rugging."
-    },
-    {
-      "ts": 1790244659,
-      "type": "outcome",
-      "message": "\ud83d\udd34 Nerd Toast (NERD) is dropping fast \u2014 down 77%, may be rugging."
-    },
-    {
-      "ts": 1790244658,
-      "type": "outcome",
-      "message": "\ud83d\udd34 \u5e01\u5b89\u4e2d\u79cb (\u5e01\u5b89\u4e2d\u79cb) is dropping fast \u2014 down 100%, may be rugging."
-    },
-    {
-      "ts": 1790244657,
-      "type": "outcome",
-      "message": "\ud83d\udd34 IshiGoCoin (IshiGo) is dropping fast \u2014 down 100%, may be rugging."
-    },
-    {
-      "ts": 1790244657,
-      "type": "outcome",
-      "message": "\ud83d\udfe2 \u8fdb\u5316 (\u8fdb\u5316) is still doing really good \u2014 up 341% so far!"
-    },
-    {
-      "ts": 1790244656,
-      "type": "outcome",
-      "message": "\ud83d\udd34 NPCs (NPC) is dropping fast \u2014 down 100%, may be rugging."
     }
   ]
 }
