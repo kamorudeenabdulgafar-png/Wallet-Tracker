@@ -1,26 +1,4 @@
 {
-  "2ALpMAJaRWB5kB2cbRbjA8SZ4PAfdd3sSTCpnjssbq6A": {
-    "name": "Bob The Builder",
-    "symbol": "Bob",
-    "flagged_ts": 1789613335,
-    "liquidity_at_flag": 32260.084221243553,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "2GXrrjnmGoPQ1RmJfG2mRAkKmBqZY2ynS48AMhtJTQ4w": {
-    "name": "Errol Coin",
-    "symbol": "ERROL",
-    "flagged_ts": 1789613336,
-    "liquidity_at_flag": 40707.445726989274,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
   "BawkRqNzcw6DpNN73vVj1v6cQtKSVrzC3qwuRrt18cVU": {
     "name": "stonkscreener",
     "symbol": "stonks",
@@ -27021,7 +26999,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "9Asc7gVQo7uc6QVeqnXzR44X1wUQdHmLCPiSX4CVpump": {
@@ -30956,7 +30935,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "6ExbrYvL5FYaQWfY9LzUKDACrL8SEd37Xi9L6UfLpnVJ": {
@@ -30971,7 +30951,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "3T8qUfDVFGhcuaHdJDbs5VUzpstWYfa2v8xCG6nLjJ9v": {
@@ -31721,6 +31702,32 @@
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "86VXQ7uUZVRRcQmz6qV5eCwV5PmfNXyFBEf6Dsetciti": {
+    "name": "Polar",
+    "symbol": "\u5b9d\u62c9",
+    "flagged_ts": 1790218630,
+    "liquidity_at_flag": 30610.544386686917,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "2DCrL14LiNAFZhzMKuw7aEEXkW1nQgzXBpm4XtZGhNBa": {
+    "name": "The Sisyphean Marmot",
+    "symbol": "Marmot",
+    "flagged_ts": 1790218631,
+    "liquidity_at_flag": 62096.40235572002,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 75,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
