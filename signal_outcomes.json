@@ -1,15 +1,4 @@
 {
-  "5aavAAbCf7AtCyCc8hac5GQu6KBAg1vBJDz4XME6ecRd": {
-    "name": "MouseMind",
-    "symbol": "MOUSE",
-    "flagged_ts": 1789639089,
-    "liquidity_at_flag": 44102.05574779235,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
   "6k3hhbSNDrQimT8gNrtuY4dN89BoKMotF2wcvNAN5xcW": {
     "name": "Cube",
     "symbol": "CUBE",
@@ -27303,7 +27292,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "AChYy8M1xMYfoUrZTf6cZc4yQStbVMW9ZweWPMMqnqA9": {
@@ -27319,7 +27309,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "Dio5RQH693EBHyp9FmUNM8RP2FHwHb4jnP9LLz8sspW1": {
@@ -31398,7 +31389,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "5KjPUU8oSpivdfPXdvgVrPDmcgsXk1y9L1ZvP9W6f4TG": {
@@ -31413,7 +31405,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "5PuD9RYTVSbe3N6uXJTAujYVpHkkttpykS5QpQ2wwa2r": {
@@ -31428,7 +31421,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "NZWMvLX4PYYWonh7mDEr7AdwooJHbtopGpwZwsTa77C": {
@@ -31443,7 +31437,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "2pMn4TA3ndozn2Jq6nsQ4QVa8B5CPyKTXJ1XaUd3GMq6": {
@@ -32132,7 +32127,9 @@
       "LIQUIDITY": 86,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "ELTD9sw25GfvEAd6nzGdoiKRnwpm4onE2z39G9BbDRQy": {
     "name": "IshiGoCoin",
@@ -32145,7 +32142,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "5ozpZeQBVRaeSCt5ZyWsjyPz4BAP83UYABWBSexjUR2f": {
     "name": "\u5e01\u5b89\u4e2d\u79cb",
@@ -32158,7 +32157,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "5kdbTqWKajFMwTc2Mg1EiAeFzndWN7bX79BykGhNpump": {
     "name": "Nerd Toast",
@@ -32171,7 +32172,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "vpccb9DNXYDumuryMK2Sg2FLbeCvDgXwduZAyjJfmci": {
     "name": "Sitting Dog",
@@ -32184,7 +32187,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "53cP7xBj9CVYxovaHMYpnAaPtuR3yQprMpcrFxJ38Zuf": {
     "name": "\u672c\u660c\u6210\u4f5b",
@@ -32295,6 +32300,32 @@
     "symbol": "ARGUS",
     "flagged_ts": 1790243874,
     "liquidity_at_flag": 164327.20254843158,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "AmqJXEbQzbztsg75ExMxNgMgEoNGLihCCLJwqHMVaCoh": {
+    "name": "TURF",
+    "symbol": "TURF",
+    "flagged_ts": 1790244650,
+    "liquidity_at_flag": 33223.972133587515,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "4LMgCxNmLyAEnjrkcQtBxN1RLibQgfaHHsfwPcksFCJc": {
+    "name": "Hyperliquid",
+    "symbol": "HYPE",
+    "flagged_ts": 1790244651,
+    "liquidity_at_flag": 41721.83113280004,
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 60,
