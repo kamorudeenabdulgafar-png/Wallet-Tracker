@@ -28147,7 +28147,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "D6RLmexYgdqs2DMVDE1ePNvqFPGGruNyZAcZLiNYwYWS": {
@@ -28163,7 +28164,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "4JPBtY1FSkrggWbYurfyWBYEDHPQonMjhkjLpmjQpump": {
@@ -28179,7 +28181,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "7Lt3RiC8AW78MEbVJ9DrbXmXyWvpwmDBHfZdpGKEGQnL": {
@@ -28195,7 +28198,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "8tvV9J3ch5gZ4MhpJuwa2yh81wJi6mUgueGSKBFMUoLe": {
@@ -28211,7 +28215,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "DoFaX1sDRmLeyEYQ2ajwPFmAxZtkNbCsYqcrgWqAjcvE": {
@@ -28227,7 +28232,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "7XjGWryMgw71c4njzy1hcn829XigHc2YbCYDL7m75bFg": {
@@ -28243,7 +28249,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "HCah3mYH8U49TK44KFPCoSFoHFSJYWuyaMnZnsJ8t7Br": {
@@ -32338,7 +32345,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "5QBxMxRfx6i1pwN1VvjGU2UtxtRdfLGa9QR6NGvApump": {
@@ -32682,7 +32690,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "36sXP4TobquwgkfNDNa4r5gDxoLZdJmy3cJNUgUXpump": {
     "name": "More Knowledge",
@@ -32695,7 +32705,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "F8skPJiz8eLdDCsVfDh1Mnmx7W9dmMHJSEJApH8muMy6": {
     "name": "Beenz",
@@ -32780,6 +32792,32 @@
     "symbol": "EP50",
     "flagged_ts": 1790283013,
     "liquidity_at_flag": 39225.539753295685,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "EXxfp23WnkQ43u3mirUUp7Vtnszh64Q1L3YToqqTRX7Q": {
+    "name": "Super Inu",
+    "symbol": "SI",
+    "flagged_ts": 1790283907,
+    "liquidity_at_flag": 31079.331502779685,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "C1BvVswWdFN1fKxweuBQYXxeZj74WBBnjKknoctCui2H": {
+    "name": "Attention Inu",
+    "symbol": "AI",
+    "flagged_ts": 1790283908,
+    "liquidity_at_flag": 40512.90473581099,
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 60,
