@@ -1,26 +1,4 @@
 {
-  "3cXm9cFoPrc12BKaEnmADEHxGA2hNtKYuQryjpZW96jT": {
-    "name": "Fly Trader",
-    "symbol": "Fly",
-    "flagged_ts": 1789655056,
-    "liquidity_at_flag": 25956.900913615144,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "5fsmd2SyouDMZiKyDcKnZkw2LT6aH3dZESzJzqD5aUS1": {
-    "name": "Ninja",
-    "symbol": "NInja",
-    "flagged_ts": 1789655058,
-    "liquidity_at_flag": 48138.3750259674,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
   "DTf7kiaJMnT3FFNnJmymcvwjEpKWXbx2Qp75tvhn6MCH": {
     "name": "Fly Trader",
     "symbol": "Fly",
@@ -27701,7 +27679,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "Ebf9RCEtv4oqCPwJJUDRjsj31TVQP6tLPRH58STdQ3j6": {
@@ -27717,7 +27696,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "J5obi6Yr2JdeA4xxzcCgTbezweNVT3rqZpPT2yZoFjqD": {
@@ -27733,7 +27713,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "2EJtHn2vm4v8K86Hu5p4HBPZnPVzCSm8mzaNGVehSLZK": {
@@ -27749,7 +27730,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "Hr869SD59dJ5EwNuLxK6jESU8mhqxJjGd62hsufHbt4e": {
@@ -27765,7 +27747,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "54Mos1vXK9DVpmBPX16DBtWDewpncZA2Vm5kShefESF1": {
@@ -31892,7 +31875,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "G59zeXWwXMw2bb6UJD1ceELXRhNkLXHkYrtBYBV5agnt": {
@@ -31907,7 +31891,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "D5PWvFsjMYVjGHEax9wYD6KWXcVAjK3T2xQicqvSpump": {
@@ -32281,7 +32266,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "75yjyxFfCo34zarLppqLhS13E6hvH6CEQKxH7TgiNmJz": {
     "name": "Meowdge Cat",
@@ -32294,7 +32281,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "hycYxx4mSKC1df6EJq18migjZ5sfBY3a2xHYjmhpump": {
     "name": "Felis margarita",
@@ -32307,7 +32296,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "CVn6Qdgcpj89yyBW3o38K1PBnFEouAenQS47NF4gJStG": {
     "name": "\u6d4e\u516c\u6e38\u8001\u5e08",
@@ -32320,7 +32311,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "CjuFLo6UcVko34FkwJNH1RAY9QP9yKWevzAoFkDrpump": {
     "name": "PROM CAT",
@@ -32333,7 +32326,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "23d5EtiLeT1t6seccoNNADa82yUeKrch8g6ei9tVpump": {
     "name": "MCNAPOLEON",
@@ -32499,6 +32494,19 @@
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 75,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "HkxWQvAanQmif9U1MVLxCxBV54ewNrfqBoYwKygZ95c1": {
+    "name": "Gamby",
+    "symbol": "Gamby",
+    "flagged_ts": 1790260248,
+    "liquidity_at_flag": 26657.027654915633,
+    "breakdown": {
+      "MOMENTUM": 82,
+      "SAFETY": 60,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
