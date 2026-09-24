@@ -32332,7 +32332,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "7tUGtgZ9aAWUqPhAUUdLqTK2ryTimcPGQMs9A9to7nDT": {
@@ -32347,7 +32348,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "2RL2wEYr9QoP8WGe7EDAHnXUf3Ut36bd9A3NN1RvubrN": {
@@ -32691,7 +32693,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "ADuPiWtHDgrtgdrt3WJK27qkdU8nJCyrfErzhZ2UVbwQ": {
     "name": "Pumpies",
@@ -32704,7 +32708,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "FFJaUXuBsg9CRUE3a5qKo1kVQixxUtmaSyGwDqvwSMPi": {
     "name": "EP50",
@@ -32717,7 +32723,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "EXxfp23WnkQ43u3mirUUp7Vtnszh64Q1L3YToqqTRX7Q": {
     "name": "Super Inu",
@@ -32841,6 +32849,19 @@
     "symbol": "TRTF",
     "flagged_ts": 1790286256,
     "liquidity_at_flag": 39335.87606975392,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 100,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "6FDw6jns8g7czuRucp5993RBNRPvqtMfv5Jv3hjnpump": {
+    "name": "Parlay Trade",
+    "symbol": "PARLAY",
+    "flagged_ts": 1790286763,
+    "liquidity_at_flag": 24274.46748649559,
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 100,
