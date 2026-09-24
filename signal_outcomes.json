@@ -27008,7 +27008,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "HwyDsK6v99M9sfcFfVjxrrZA1ot8Dqyqhd8HKA97T9T4": {
@@ -27024,7 +27025,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "3TTWobUyMxhgK7NPeibKFU5XviJaSXCggLeMGBCzjVmV": {
@@ -30927,7 +30929,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "C3uakVCDvytaVH4NaStoTwfdVjY5ocnWZS2kDimfFfjK": {
@@ -31511,7 +31514,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "AitkCAt1CKd89oFEKC9wFDjopy9x4hGXhu6dsT6ypump": {
     "name": "Trade Teeth",
@@ -31524,7 +31529,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "HJEiuKFABYBHKeJTZWmPwrwQC1Bj4APVDnf8TEU1aK3r": {
     "name": "Lily",
@@ -31537,7 +31544,9 @@
       "LIQUIDITY": 74,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "9wYcfZYT7RcTfPAgT9LYPFLc1H7jRrgaHDCvNyaApump": {
     "name": "The Robot Embryo",
@@ -31703,6 +31712,19 @@
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "HHHpaQMdZBdxjGevNhd3ShuEL2tKnrqA62JTuaX2K9j": {
+    "name": "Fly Inu",
+    "symbol": "FLY",
+    "flagged_ts": 1790217450,
+    "liquidity_at_flag": 35306.05066925046,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 100,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
