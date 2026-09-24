@@ -32140,7 +32140,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "EqN95TCFfHQzQ86VHRNoVnvn96py41Nagk2JyDRY7D3o": {
@@ -32529,7 +32530,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "spwn3Mwjuig2wWfuG2LwzHPZTeZU3J3KtrPdkf11bpk": {
     "name": "SPAWN",
@@ -32542,7 +32545,9 @@
       "LIQUIDITY": 51,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "7hpQb1uZN8VajnPnekQwTq7un9vbezsTLgpmoGnEpNGj": {
     "name": "Ping Ping and Fuhuan",
@@ -32653,6 +32658,32 @@
     "symbol": "METSUMI",
     "flagged_ts": 1790274333,
     "liquidity_at_flag": 36524.69399491482,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "3jtdaqoD1DMWzsvc33N2Fzd2d1pSKhFdQCDfBKWF6Xnu": {
+    "name": "Metsumi404",
+    "symbol": "METSUMI",
+    "flagged_ts": 1790275217,
+    "liquidity_at_flag": 28843.864601735833,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "5515dMQqfQ9Xbznc76Jn5W1wGdsqe51XvrpHZrHSgjHw": {
+    "name": "Zama",
+    "symbol": "ZAMA",
+    "flagged_ts": 1790275218,
+    "liquidity_at_flag": 48372.53325590048,
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 60,
