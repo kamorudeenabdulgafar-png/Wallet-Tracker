@@ -1,15 +1,4 @@
 {
-  "JE3ZdZEJw6BEiiAwEj34AQJkVy11USvL8Ci2hsZXyhnW": {
-    "name": "SUUB",
-    "symbol": "SUUB",
-    "flagged_ts": 1789663731,
-    "liquidity_at_flag": 31631.986695758213,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
   "3BScRHaAnjsUrL6T2vu7XUhg1qugyhR1rjkSH7CSEmXE": {
     "name": "SUUB",
     "symbol": "SUUB",
@@ -27914,7 +27903,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "774EtztiMf6Je8HQPhcioNCbv4sXVsp33FJVKGygpump": {
@@ -27930,7 +27920,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "DhTzU7zkoMgNvrm3DJxbWXEJ9fpbKaZmwwaKYBQcsMPJ": {
@@ -27946,7 +27937,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "56oZenCiJWDoNb415jEWUTSs1L73jdFr2pGtR2DhHWPY": {
@@ -32009,7 +32001,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "7MsRE1uaSjdLGDfxmMegiwSX4au83sMVbsUN39jiCRoz": {
@@ -32428,7 +32421,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "FdqSN23y37qLrykLJ8yj9yo7TJHKqVXq1RdvKiknhd4c": {
     "name": "Hyperliquid",
@@ -32565,6 +32560,45 @@
     "symbol": "PENIS",
     "flagged_ts": 1790267899,
     "liquidity_at_flag": 38581.2849434892,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "DJugtNZR9DyfrV4YJXNXwP4CDEa72o7dZih4xuvA4y6Y": {
+    "name": "SCAT \u00b7 Paired with",
+    "symbol": "STONKCAT",
+    "flagged_ts": 1790268588,
+    "liquidity_at_flag": 29478.584746440763,
+    "breakdown": {
+      "MOMENTUM": 85,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "w1FcpRzp5Aeb9bE5WUBDqaTVDjzzMUNQhzMFjKMJzRj": {
+    "name": "STONKCAT",
+    "symbol": "SCAT",
+    "flagged_ts": 1790268589,
+    "liquidity_at_flag": 26658.49457587084,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "F6KKacQoBm5Mxr6drB6ct8cpFsfsqJiUQmBHUqUHCB3f": {
+    "name": "Ping Ping and Fu Shuang",
+    "symbol": "\u548c\u5e73\u718a\u732b",
+    "flagged_ts": 1790268590,
+    "liquidity_at_flag": 29533.40139113579,
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 60,
