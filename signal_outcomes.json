@@ -1,37 +1,4 @@
 {
-  "4HqMTQbkCypzg3Zy6pMNUD3B9KybJS6kwtBbaoHb1kX5": {
-    "name": "just a chip",
-    "symbol": "CHIP",
-    "flagged_ts": 1789657945,
-    "liquidity_at_flag": 22928.222712621624,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "3VCXQj6uCtrT4oQV3yRKVZjpDhz6JC9BAbstrUX8XyRL": {
-    "name": "hey.lol",
-    "symbol": "HEY",
-    "flagged_ts": 1789657948,
-    "liquidity_at_flag": 42328.25941964486,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "A7zBSFdsuhZgY4Q9qFMAt4CsaGUbRdb3274gBXBF3uRS": {
-    "name": "just a chip",
-    "symbol": "CHIP",
-    "flagged_ts": 1789657949,
-    "liquidity_at_flag": 30045.90190166789,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
   "BG9L6Lx4ztjNoqifB8vYQwjyky6gwwoF9p5UVDdmnsyW": {
     "name": "Pons ALL INU",
     "symbol": "PONSALLINU",
@@ -27823,7 +27790,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "GReSjsbT6BYWKAbcyQEiToqsJJ8aMnWF5JwaA9dvFHua": {
@@ -27839,7 +27807,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "36jfeokWwR7VDT9eH29sPLgRV9Vjrq4VW5kmzWQ4ZX7v": {
@@ -27855,7 +27824,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "GzhS4vivcf3QicqDmRyqG4Vswuh5cmZ8u1kFRS4RUZHy": {
@@ -31870,7 +31840,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "8sVFcYcnPPU8H1sJiF1L7hYQwHiXBcrQRjDoARZ4qVEu": {
@@ -31885,7 +31856,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "Bk3WH2jhRrw2bTyjT833ebWvhmgiEjGRY6GZLMUSUdUf": {
@@ -32394,7 +32366,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "6qiuczTAnQHPosgBgXAFRsifmSWHbVLDogMU7uhyAnh8": {
     "name": "Onboard",
@@ -32407,7 +32381,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "uyeqnkuDZb2JBaLyWCvzkGQCCPZxpYgdG3HLJwJpump": {
     "name": "DeepSeek",
@@ -32420,7 +32396,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "7GP6bs9gGoroz3w1R8vFwkhrETCGEQDU9G1sGnVhDJHM": {
     "name": "MCNAPOLEON",
@@ -32433,7 +32411,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "Gu31x8RGUQuUkRv44tRbQwQt67PMB5o17gUPyuLtWeC8": {
     "name": "Onboard",
@@ -32446,7 +32426,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "HkxWQvAanQmif9U1MVLxCxBV54ewNrfqBoYwKygZ95c1": {
     "name": "Gamby",
@@ -32492,6 +32474,32 @@
     "symbol": "CTNT",
     "flagged_ts": 1790262005,
     "liquidity_at_flag": 44041.65027523945,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "SWynQ2kirgwxNoTR1gZLspJTTU1ctajt4MD84A5jsFb": {
+    "name": "\u548c\u5e73\u718a\u732b",
+    "symbol": "\u718a\u732b",
+    "flagged_ts": 1790262965,
+    "liquidity_at_flag": 230446.44455590943,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "F7ijAD5hd6t6bvDXzao5WsNtFW6ijbD6PGupbAhu3Q69": {
+    "name": "confidential cat",
+    "symbol": "ccat",
+    "flagged_ts": 1790262966,
+    "liquidity_at_flag": 27557.882309814493,
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 60,
