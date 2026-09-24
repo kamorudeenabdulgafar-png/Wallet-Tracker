@@ -1,48 +1,4 @@
 {
-  "CeM6TPqsHL7bauQ4L81E6xZ75iac4am3D1BsMqNFuyYw": {
-    "name": "Argus",
-    "symbol": "ARGUS",
-    "flagged_ts": 1789631798,
-    "liquidity_at_flag": 61466.30900940847,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "DSxCx7w9tvVjbD3ZCmMzJMVHC7a4uvMBuvYAHaB6Sui7": {
-    "name": "Justice For Lilly",
-    "symbol": "Lilly",
-    "flagged_ts": 1789631799,
-    "liquidity_at_flag": 30342.246228762546,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "G5ntCWdPf57at16dfsBNZpk5Rh5edJ6ehTpRHA6NaNwS": {
-    "name": "Neymar",
-    "symbol": "Neymar",
-    "flagged_ts": 1789631800,
-    "liquidity_at_flag": 44082.62045601431,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "CTVyRmFkCToNe7gm8WtMo4eP2xNUngsCV36BHjYs8iH": {
-    "name": "\u8df3\u86db",
-    "symbol": "\u8df3\u86db",
-    "flagged_ts": 1789631803,
-    "liquidity_at_flag": 197105.66435422105,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
   "LYgTbnZ3FwpFC361FQzaq1SCDJhBuw3LzrpCn2enDfi": {
     "name": "Huawei Pura X Max",
     "symbol": "HUAWEI",
@@ -27135,7 +27091,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "7dkCN3jVPSkpanG2Q1BRp58BpKSdXQqT3zXEND5iptPK": {
@@ -27151,7 +27108,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "Bso8UtYW8ktUQgTFegrrncTTYGXVQKinJybmZy5ddNw7": {
@@ -31166,7 +31124,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "HB8nmMAJpShTobPJUzPpkQhFDq4K4UBks9q7pRmMUtph": {
@@ -31810,7 +31769,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "2r1QzuF3qG3Xq5NTNYG5XkPTsbUF3zWrdTs2JvGHpump": {
     "name": "on the computer",
@@ -31823,7 +31784,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "9VDoZKJsj7B7snuGtV9JJV3djmMTkYL2e3oihCi62gt3": {
     "name": "Real-life Assets",
@@ -31836,7 +31799,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "HbgDEkgP5aQoMGKqUoAVUBUEosPTTcppTGmqK3LtoDAt": {
     "name": "funkos",
@@ -31849,7 +31814,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "Gz6xXboGxBZ3VRQa5SfZGhg6uiHSZMXEXvfxo3m3vzEQ": {
     "name": "Penguin Cat",
@@ -31862,7 +31829,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "4GVJiepCery4Lu2xBYH3u7jvMSqZMpgevbDsg3xykEvN": {
     "name": "market maker agents",
@@ -32119,6 +32088,45 @@
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "CNipSKBtp5FVHrvHHGkHHYrbPk4yhDb1g3jaGcVftP8n": {
+    "name": "\u6d4e\u516c",
+    "symbol": "\u6d4e\u516c",
+    "flagged_ts": 1790237125,
+    "liquidity_at_flag": 33407.3903076596,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "3uJhcxrYEAzf7epifwYwaGDH32F27nzKyRH4kHixpump": {
+    "name": "desks.fun",
+    "symbol": "DESKS",
+    "flagged_ts": 1790237126,
+    "liquidity_at_flag": 20208.016465114284,
+    "breakdown": {
+      "MOMENTUM": 69,
+      "SAFETY": 90,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "2YshkjBAop3Ng88eBsvgbYTxKBtPTP8KqKFGbigEgiT1": {
+    "name": "MetaFox",
+    "symbol": "MFX",
+    "flagged_ts": 1790237127,
+    "liquidity_at_flag": 27250.883566969198,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 100,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
