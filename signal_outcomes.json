@@ -27755,7 +27755,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "HR6QZ1rF2QNJLxY8edJxFEYabzYNrtUBJVWc6H1TEVKD": {
@@ -27771,7 +27772,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "CgXcb3dznDkzx8W243nTyJ8zxMybBnYjG5KEVmARCy29": {
@@ -27787,7 +27789,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "AwYDvarFLktzL4SypBc155CyipRQfuPx9hoxZmQfHwsX": {
@@ -27803,7 +27806,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "7bx5PeuqCBxDtTbVp7RRWxZN1MyzxjunF1FxAPvWX6JW": {
@@ -31850,7 +31854,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "2jcvjkRxupsYgSEXbdYdjcT2VL1u6R9t4yBSPfgFUkGT": {
@@ -32359,7 +32364,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "2yyjWMjN56ZbTRznfbFh7SkgjZNs2wDCr745zHt8rvCR": {
     "name": "Earl of Huntingdon",
@@ -32372,7 +32379,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "8DfGtYASuK64E38k5AuEheKzbKJ765Cuz21G5uWH9YHX": {
     "name": "WinRAR",
@@ -32470,6 +32479,19 @@
     "symbol": "\u5e01\u5b89\u4e2d\u79cb",
     "flagged_ts": 1790261370,
     "liquidity_at_flag": 38977.00055429339,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "CcwAn1oi8GwDwRNKKtTx6z9MYvoRa21pyq1YGCpmCUCF": {
+    "name": "The Cheetah Fund",
+    "symbol": "CTNT",
+    "flagged_ts": 1790262005,
+    "liquidity_at_flag": 44041.65027523945,
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 60,
