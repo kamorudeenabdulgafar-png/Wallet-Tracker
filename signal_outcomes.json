@@ -1,26 +1,4 @@
 {
-  "3BScRHaAnjsUrL6T2vu7XUhg1qugyhR1rjkSH7CSEmXE": {
-    "name": "SUUB",
-    "symbol": "SUUB",
-    "flagged_ts": 1789664249,
-    "liquidity_at_flag": 27007.288695649077,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "ET32uH5MLWxYrLhLZZRku4J1dgr8f9MzLZaZZ9ZzBTR": {
-    "name": "SUUB",
-    "symbol": "SUUB",
-    "flagged_ts": 1789664251,
-    "liquidity_at_flag": 57769.93384473752,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
   "3KP5dcQFG7sK6Kv6TKkfXnP2vMPAMbCgjEKwabPULmWM": {
     "name": "PairCountry",
     "symbol": "PC",
@@ -27954,7 +27932,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "5GXKdfzyetJ81qnP2LzLdWxtT8EM6Z6K2CBSEoNRpump": {
@@ -27970,7 +27949,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "CBWWB7gLcnSBoYZa3uwBYhoboB4iVp6yKuB81FHXU4vR": {
@@ -27986,7 +27966,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "DZQsWjxozDYdBjB1qYvrNnzE72GjzAfTYYbp7VV2dU57": {
@@ -28002,7 +27983,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "M8TQxBWgV4VqQhiEcFDDXX1Z9kyUVe1eVkhfr5kpump": {
@@ -28018,7 +28000,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "RUJAESB22k9kpxHpXE4zWDuXkoVnd2tajx56CpZr8cL": {
@@ -32017,7 +32000,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "5n25ktEsiZtW2zF6wdQHVx18ZniHKi4XpXMUnDNCDRtA": {
@@ -32436,7 +32420,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "H4gcnpMsYR8mw53ZZLeVif7WYUfcLkM7aTbFtTr2rTbo": {
     "name": "Claude Ai",
@@ -32599,6 +32585,19 @@
     "symbol": "\u548c\u5e73\u718a\u732b",
     "flagged_ts": 1790268590,
     "liquidity_at_flag": 29533.40139113579,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "7g7cHJ2aXAikcPCnWsKJCm8i9GjoyseUVRLhhynEoVVm": {
+    "name": "STONKCAT",
+    "symbol": "SCAT",
+    "flagged_ts": 1790269137,
+    "liquidity_at_flag": 53478.640693933965,
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 60,
