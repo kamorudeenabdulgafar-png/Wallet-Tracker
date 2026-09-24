@@ -27028,7 +27028,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "FpiJrucNh6QxJsJd2EEtoXTbDjvBqF8YhMNSVFRopump": {
@@ -27044,7 +27045,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "7UobTaZMwdLCDvFN2mFQcVRaqMqfP4BNxtCVDPuJ55xd": {
@@ -30979,7 +30981,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "4vfQJiDH2MXQT9UVNtr7m9FSFVbsqYPkSSyCBme1BCoM": {
@@ -30994,7 +30997,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "6Q2yD9Z1DXti8S9ot62BzsVCpnzP3r8P6ZCcjsrWQCeZ": {
@@ -31009,7 +31013,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "9mKDten5LqQXWycvSJfWAPmqTnu6ytKWu3cmrAvsUpxL": {
@@ -31563,7 +31568,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "5LoR5T8bso3EXm1eR3BR2qxy2cVA89GmVzmwerc4J1jv": {
     "name": "Quanta Pools",
@@ -31576,7 +31583,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "FpWnkixioKZTV4ZDH5sPXQNA45RBkpNEcKgfd35Zpump": {
     "name": "Everyone get in",
@@ -31793,6 +31802,45 @@
     "liquidity_at_flag": 32037.861011752422,
     "breakdown": {
       "MOMENTUM": 87,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "DpYkieBVTDjibpNqSa7qcfREip5RCrpdoguK6shkJqx5": {
+    "name": "Ballsack Supreme",
+    "symbol": "BALLSACK",
+    "flagged_ts": 1790228860,
+    "liquidity_at_flag": 21014.023657739344,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 90,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "HYmWcM4ox5LSwNM8b7ZvkCVCh8jfbTrgwiR6qJSSv5mc": {
+    "name": "Moorix",
+    "symbol": "MORX",
+    "flagged_ts": 1790228862,
+    "liquidity_at_flag": 58217.05293312042,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "BAFgQqHXpxF3dqcRC7dGd841EKKyKKVZnryypo5CMQyG": {
+    "name": "\u7389\u5154",
+    "symbol": "\u7389\u5154",
+    "flagged_ts": 1790228862,
+    "liquidity_at_flag": 38332.33326625284,
+    "breakdown": {
+      "MOMENTUM": 100,
       "SAFETY": 60,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
