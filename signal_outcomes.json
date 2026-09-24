@@ -1,37 +1,4 @@
 {
-  "rBbi8SYHTgMeeF8jBWKfEeT3wdKogHZabqEoZXy8BvR": {
-    "name": "The UnderDog",
-    "symbol": "UNDERDOG",
-    "flagged_ts": 1789638603,
-    "liquidity_at_flag": 25380.30379180277,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "5woXy4BFz6iQ7fwmqeYh9uLibYk3huUCdVF9M8eupump": {
-    "name": "TRUMP",
-    "symbol": "TRUMP",
-    "flagged_ts": 1789638604,
-    "liquidity_at_flag": 26535.668984245043,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "EyJdYYYfknCNJr2kYQUQPfKfzfK7aBTBTWBxZvuu2T7E": {
-    "name": "MILKERS",
-    "symbol": "MILKERS",
-    "flagged_ts": 1789638605,
-    "liquidity_at_flag": 53221.63537523734,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
   "5aavAAbCf7AtCyCc8hac5GQu6KBAg1vBJDz4XME6ecRd": {
     "name": "MouseMind",
     "symbol": "MOUSE",
@@ -27302,7 +27269,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "E66pKidAAKBpT2cNtMSCubAikkibroTDN8bGNBaeG7UG": {
@@ -27318,7 +27286,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "FZLwF9oz4et8eCpF8Ajq2xyhHWhLPQmvF6sk5LEv8BaB": {
@@ -31381,7 +31350,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "6s99X4845TjGkyqR35VY6zvHXCrvRWBzCzNURCHTuBBD": {
@@ -31396,7 +31366,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "k8bWpT522B5MSohAGePwD4SJVV3GNCmLuiND9eypump": {
@@ -31411,7 +31382,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "CDgZ5rz2N9k8ZPGfukVzNG6K6WMwiPFx6jT5qrLHLxjP": {
@@ -32313,6 +32285,19 @@
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 75,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "689VL9JsJaxt38uvgkNBMP5sCh6yqAuHjYLDjSMdrHd": {
+    "name": "Argus",
+    "symbol": "ARGUS",
+    "flagged_ts": 1790243874,
+    "liquidity_at_flag": 164327.20254843158,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },

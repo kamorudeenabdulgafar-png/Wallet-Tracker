@@ -1,5 +1,5 @@
 {
-  "last_updated": 1790243370,
+  "last_updated": 1790243879,
   "wallets": [
     {
       "label": "Dev wallet 1",
@@ -68,7 +68,7 @@
         "cbbtcf3aa214zXHbiAZQwf4122FBYbraNdFqgw4iMij",
         "Xsa62P5mvPszXL1krVUnU5ar38bBSVcWAB6fmPCo5Zu"
       ],
-      "last_active": 1790242686,
+      "last_active": 1790243871,
       "positions": {},
       "realized_pnl_usd": 0.0
     }
@@ -87,7 +87,7 @@
     "count": 2835,
     "up_count": 613,
     "total_change_pct": -155586.29928175083,
-    "rug": 1290,
+    "rug": 1292,
     "doing_well": 11,
     "steady": 7,
     "fading": 13
@@ -95,6 +95,51 @@
   "learning_insight": null,
   "settings": {},
   "recent_alerts": [
+    {
+      "ts": 1790243879,
+      "type": "outcome",
+      "message": "\ud83d\udd34 Pok\u00e9mon  Dollar (\u20bd) is dropping fast \u2014 down 64%, may be rugging."
+    },
+    {
+      "ts": 1790243878,
+      "type": "outcome",
+      "message": "\ud83d\udd34 health (HEALTH) is dropping fast \u2014 down 100%, may be rugging."
+    },
+    {
+      "ts": 1790243877,
+      "type": "outcome",
+      "message": "\ud83d\udd34 Ballsack Supreme (BALLSACK) is dropping fast \u2014 down 100%, may be rugging."
+    },
+    {
+      "ts": 1790243876,
+      "type": "outcome",
+      "message": "\ud83d\udd34 Bonk (Bonk) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
+    },
+    {
+      "ts": 1790243876,
+      "type": "outcome",
+      "message": "\ud83d\udd34 Department Of AI (DOAI) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
+    },
+    {
+      "ts": 1790243874,
+      "type": "scanner",
+      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\nArgus (ARGUS)\nOpportunity: 76/100\n\nMOMENTUM     100\nSAFETY       60\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$164,327, 22 min since pool creation\n\u2022 Up +74% in the last hour, ~$1,815,084 in 24h volume (11.0x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 85% of supply (very concentrated)\n\nCA: 689VL9JsJaxt38uvgkNBMP5sCh6yqAuHjYLDjSMdrHd\nhttps://dexscreener.com/solana/689VL9JsJaxt38uvgkNBMP5sCh6yqAuHjYLDjSMdrHd\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
+    },
+    {
+      "ts": 1790243872,
+      "type": "wallet",
+      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: USDT -> USDC\nTrade size: unknown\nBought token: USD Coin (USDC)\nCA: EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v\nhttps://solscan.io/tx/5VChZPT6yUQkAFXMn4uEZNNnZXprzTfZiJzu8VjKJ12PPqFNQQK1KMjegEEqxwixJQszeY3KGMF517SFLRqfqW7z"
+    },
+    {
+      "ts": 1790243871,
+      "type": "wallet",
+      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: 0.0842 SOL (~$9.54) -> USDC\nTrade size: ~$9.54\nBought token: USD Coin (USDC)\nCA: EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v\nhttps://solscan.io/tx/56inCGu3xJftkwJ9dEZe7Cu1HoCjH4DDdFdNh4wz4j7jRQvAJBVmHodP7JB2xE1FZR8YaibTioWZcq2kkuPeAFmW"
+    },
+    {
+      "ts": 1790243870,
+      "type": "wallet",
+      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: 0.0526 SOL (~$5.96) -> USDC\nTrade size: ~$5.96\nBought token: USD Coin (USDC)\nCA: EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v\nhttps://solscan.io/tx/2prDzx7ZpppNSRksqEvbK7nqzrRJDX6VkKjqMPZFTgrZRq6fPDHry9LnjAMNNYGzYnxfP9MJ9PMzef1s8bwDphef"
+    },
     {
       "ts": 1790243370,
       "type": "outcome",
@@ -299,51 +344,6 @@
       "ts": 1790240750,
       "type": "outcome",
       "message": "\ud83d\udd34 NPCs (NPC) is dropping fast \u2014 down 100%, may be rugging."
-    },
-    {
-      "ts": 1790240749,
-      "type": "outcome",
-      "message": "\ud83d\udd34 CUMINU (CUMINU) is dropping fast \u2014 down 100%, may be rugging."
-    },
-    {
-      "ts": 1790240747,
-      "type": "outcome",
-      "message": "\ud83d\udd34 \u5e01\u5b89\u4e2d\u79cb (\u5e01\u5b89\u4e2d\u79cb) is dropping fast \u2014 down 100%, may be rugging."
-    },
-    {
-      "ts": 1790240746,
-      "type": "outcome",
-      "message": "\ud83d\udd34 \u4e2d\u79cb\u8282 (\u56e2\u5706) is dropping fast \u2014 down 100%, may be rugging."
-    },
-    {
-      "ts": 1790240745,
-      "type": "outcome",
-      "message": "\ud83d\udfe2 funkos (FUNKOS) is still doing really good \u2014 up 86% so far!"
-    },
-    {
-      "ts": 1790240744,
-      "type": "outcome",
-      "message": "\ud83d\udd34 Gigacat (GIGACAT) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
-    },
-    {
-      "ts": 1790240743,
-      "type": "outcome",
-      "message": "\ud83d\udd34 Usavich (\ud83d\udcb2Usavich) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
-    },
-    {
-      "ts": 1790240741,
-      "type": "outcome",
-      "message": "\ud83d\udfe2 Archibald Brown (ARCHIBROWN) did really well \u2014 liquidity up 34% after 24h!"
-    },
-    {
-      "ts": 1790240740,
-      "type": "scanner",
-      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\nSitting Dog (SDOG)\nOpportunity: 71/100\n\nMOMENTUM     86\nSAFETY       60\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$29,751, 18 min since pool creation\n\u2022 Up +58% in the last hour, ~$228,954 in 24h volume (7.7x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 98% of supply (very concentrated)\n\nCA: vpccb9DNXYDumuryMK2Sg2FLbeCvDgXwduZAyjJfmci\nhttps://dexscreener.com/solana/vpccb9DNXYDumuryMK2Sg2FLbeCvDgXwduZAyjJfmci\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
-    },
-    {
-      "ts": 1790240738,
-      "type": "scanner",
-      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 EXCEPTIONAL\nNerd Toast (NERD)\nOpportunity: 90/100\n\nMOMENTUM     100\nSAFETY       100\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$41,600, 17 min since pool creation\n\u2022 Up +133% in the last hour, ~$652,429 in 24h volume (15.7x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Low, 0/100):\n\u2022 No major red flags found\n\nCA: 5kdbTqWKajFMwTc2Mg1EiAeFzndWN7bX79BykGhNpump\nhttps://dexscreener.com/solana/5kdbTqWKajFMwTc2Mg1EiAeFzndWN7bX79BykGhNpump\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
     }
   ]
 }
