@@ -27470,7 +27470,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "AtbAaWSw6q4E4xSqVb6H1953Dq5HKF6WUAwpQdwdpump": {
@@ -27486,7 +27487,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "5qHRY1fbkreVZTEfFj9eZ7b81c8Y6mBpaZgmAwUTpump": {
@@ -27502,7 +27504,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "GeABsD8MByMY4tQfupxaVAco76ppvGVE8bwUUUe979AU": {
@@ -31501,7 +31504,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "Ayz74ZU3RNshyWEK3oq7C2cZjCgRRkaKFBAFDeocRXYw": {
@@ -31516,7 +31520,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "8i1a7QABkMtjk7U4roqSkVk7YzxVdS1ingvSTKxBvXT1": {
@@ -31531,7 +31536,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "3prU6LwoaTGEDksZgYafjBoPK2B2E3M7Z4KAo9Ajpump": {
@@ -31546,7 +31552,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "ApPBsMt8GYQmEnLqAzL9TYMiDpyXwwX4jwe5bu3JphB": {
@@ -31561,7 +31568,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "H6eKrmxUVujT6DAV3RUqnCpNXA9m98uypNDGT32Z3yiZ": {
@@ -32175,7 +32183,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "CQFN28cSDWVttgVLGwb8fK2kkgF4s4fYck2FSxNop85x": {
     "name": "Sisyphean Penguin",
@@ -32275,6 +32285,45 @@
     "liquidity_at_flag": 55069.33126876732,
     "breakdown": {
       "MOMENTUM": 96,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "v37mycX2RXQtLhEQkHnW29foSXJAwH1eNf9xAwJTwvg": {
+    "name": "meow",
+    "symbol": "meow",
+    "flagged_ts": 1790250499,
+    "liquidity_at_flag": 28372.748424298257,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "5zp3owqdmwevn413p2nMJwYt179GtLkdzgiD1kE8exy3": {
+    "name": "\u4e2d\u79cb\u4f73\u8282",
+    "symbol": "\u4e03\u5915",
+    "flagged_ts": 1790250500,
+    "liquidity_at_flag": 29263.42743213289,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "aqkFr3SrHLHTxkfjZknvejjMZAVATtzJ9trqtw4RiXe": {
+    "name": "Last pack magic",
+    "symbol": "JIRACHI",
+    "flagged_ts": 1790250501,
+    "liquidity_at_flag": 34465.68608153943,
+    "breakdown": {
+      "MOMENTUM": 100,
       "SAFETY": 60,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
