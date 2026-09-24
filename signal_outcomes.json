@@ -1,26 +1,4 @@
 {
-  "AnJ8uaRKGA4iGq9r8usz5yRveXYoD96UXPk53pd2Cdqa": {
-    "name": "Thursday Arena",
-    "symbol": "THURSDAY",
-    "flagged_ts": 1789667707,
-    "liquidity_at_flag": 38382.496764786934,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "9n8rBV1L917EUSVDa9KTX2uMxvPfKZxLLtwKnYs8pump": {
-    "name": "PAIDCAT",
-    "symbol": "PAIDCAT",
-    "flagged_ts": 1789667708,
-    "liquidity_at_flag": 33677.269063006555,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
   "DcsLnCezECN49bNowJdtPc7mKrMLJ1PaVDXtTDvtmVk4": {
     "name": "THURSDAY ARENA",
     "symbol": "THURSDAY",
@@ -32080,7 +32058,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "28wmxjBuna3BFQQ1TQVJTHfmkjQwGgX6SbfoQ56Z29WY": {
@@ -32095,7 +32074,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "7MBW6xaScvpYT82cLShYZCdy2P7RbnoiyjRhax2nSgfe": {
@@ -32514,7 +32494,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "w1FcpRzp5Aeb9bE5WUBDqaTVDjzzMUNQhzMFjKMJzRj": {
     "name": "STONKCAT",
@@ -32527,7 +32509,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "F6KKacQoBm5Mxr6drB6ct8cpFsfsqJiUQmBHUqUHCB3f": {
     "name": "Ping Ping and Fu Shuang",
@@ -32540,7 +32524,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "7g7cHJ2aXAikcPCnWsKJCm8i9GjoyseUVRLhhynEoVVm": {
     "name": "STONKCAT",
@@ -32625,6 +32611,32 @@
     "symbol": "\u53cb\u8c0a\u4f7f\u8005",
     "flagged_ts": 1790272087,
     "liquidity_at_flag": 29306.91239557576,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "2RL2wEYr9QoP8WGe7EDAHnXUf3Ut36bd9A3NN1RvubrN": {
+    "name": "Honky Chonk Beardonkadonk",
+    "symbol": "CHONK",
+    "flagged_ts": 1790272548,
+    "liquidity_at_flag": 19121.492805627568,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 96,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "3N4zXUPMZgSh4ZBE4Ru1oWnLKdYXgmFeMBXAw7E2sxCZ": {
+    "name": "sBadger",
+    "symbol": "Shielded",
+    "flagged_ts": 1790272550,
+    "liquidity_at_flag": 26125.55601202151,
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 60,
