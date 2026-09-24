@@ -1,26 +1,4 @@
 {
-  "3KP5dcQFG7sK6Kv6TKkfXnP2vMPAMbCgjEKwabPULmWM": {
-    "name": "PairCountry",
-    "symbol": "PC",
-    "flagged_ts": 1789664895,
-    "liquidity_at_flag": 23166.355168860413,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "G4hgryWhpNchZsjXZeiwNtGnAL6NjgLDLQx7KHCpump": {
-    "name": "the unexpected runner",
-    "symbol": "PRECUM",
-    "flagged_ts": 1789664900,
-    "liquidity_at_flag": 17693.841660063423,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
   "5dDeBvYERiX7Vks5TU6aaSxQeYJk5jHncHwBaVqTpump": {
     "name": "Trade",
     "symbol": "TRADE",
@@ -32435,7 +32413,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "F4rJVZAgLwuKGieSsPojDGn8yVUEfDE3hp7e23fNe5zc": {
     "name": "SocialsFun",
@@ -32598,6 +32578,32 @@
     "symbol": "SCAT",
     "flagged_ts": 1790269137,
     "liquidity_at_flag": 53478.640693933965,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "5QBxMxRfx6i1pwN1VvjGU2UtxtRdfLGa9QR6NGvApump": {
+    "name": "Clones",
+    "symbol": "CLONES",
+    "flagged_ts": 1790269909,
+    "liquidity_at_flag": 26653.51557397278,
+    "breakdown": {
+      "MOMENTUM": 92,
+      "SAFETY": 90,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "Am5mh7kHfPic59EHgTaJQuu3dhnwYXnGgrzCtSbzw6Q": {
+    "name": "Ping Ping and Fu Shuang",
+    "symbol": "\u548c\u5e73\u718a\u732b",
+    "flagged_ts": 1790269910,
+    "liquidity_at_flag": 31096.995346036376,
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 60,
