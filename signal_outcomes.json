@@ -1,26 +1,4 @@
 {
-  "H3NCnjazuZomcp26Zb8Jhbyy2SmzA6VaPDdNfsS8oJXQ": {
-    "name": "Jupiter",
-    "symbol": "JUP",
-    "flagged_ts": 1789645000,
-    "liquidity_at_flag": 43728.15046617969,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "HywbjMyRvWKmFtbyXowJw6s5u1KXaoXP8v24SZdLpump": {
-    "name": "InuPaid",
-    "symbol": "InuPaid",
-    "flagged_ts": 1789645001,
-    "liquidity_at_flag": 17577.819573411936,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
   "9HHi8UsBb72e6xaoXwpsZDJ2jiC2h1oG8zE5ZQ5Spump": {
     "name": "SAD DONK",
     "symbol": "SADD",
@@ -27373,7 +27351,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "DcbsLyKFs5jhSAsdtwLZXgSwXMagpSnuxHFu83ekik9L": {
@@ -27389,7 +27368,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "EkEj1PvTZbBPcgFk1vhminuoJGJfS8LwmDZqoxuqVVkV": {
@@ -27405,7 +27385,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "FayncQvTUkCJxQN8gjiVTVgxPSJJdqwCA6AoBZsxoF1P": {
@@ -27421,7 +27402,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "2UNgJybqQu6uxXFPSLTeQKST3pPGNeZ73FYeGTaR7cUc": {
@@ -27437,7 +27419,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "3gmyj6B3TpBcihfsef3KNv1pJjC1xCPfsrAo1LcF8jK2": {
@@ -27453,7 +27436,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "4EXKnYf7at8s5msWqZbjWd7DMvgV222L1dYsttCFpump": {
@@ -27469,7 +27453,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "DyJSo6uVhXGxNcRNpoRFUnzJw6ZTH5SBVzQbYuQwi9Fs": {
@@ -31468,7 +31453,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "6bfPnfUb3xYYtWJkTANDWULPN2bvonY3LFgeuDtqWCw8": {
@@ -31483,7 +31469,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "DQMskgRLWVRScgf5rAQFVJZ9deCg9aspfS2cTaEUxV8V": {
@@ -31498,7 +31485,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "5YrcQr4bjoiPjbiYtwiJsaMvrBgdwfcmFrkwyzPE9uto": {
@@ -32157,7 +32145,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "G59zeXWwXMw2bb6UJD1ceELXRhNkLXHkYrtBYBV5agnt": {
     "name": ".agent",
@@ -32170,7 +32160,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "D5PWvFsjMYVjGHEax9wYD6KWXcVAjK3T2xQicqvSpump": {
     "name": "Pactolon",
@@ -32231,6 +32223,58 @@
     "liquidity_at_flag": 26027.6397457477,
     "breakdown": {
       "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "3zPHBgUDygzf5To5q6uQcT9QwsLHgrPhwZVops4Spump": {
+    "name": "The White Agrippa",
+    "symbol": "WHITEGRIPP",
+    "flagged_ts": 1790249861,
+    "liquidity_at_flag": 26577.15898062486,
+    "breakdown": {
+      "MOMENTUM": 75,
+      "SAFETY": 100,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "CPcfbKDZHEPLw5Hk43nbAKjVmJmzhj4qfS8CpZQdK1FC": {
+    "name": ".agent",
+    "symbol": ".agent",
+    "flagged_ts": 1790249863,
+    "liquidity_at_flag": 53869.394479191,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "727Qb38oBpvfzhzuMwfpgTHk9BixPMWnbK9o1ehu1njG": {
+    "name": "Last pack magic",
+    "symbol": "JIRACHI",
+    "flagged_ts": 1790249864,
+    "liquidity_at_flag": 31414.58217988954,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "FxbDhJEbzAAM8fbUhNX9rUzCWjK8VYduHWt2k71Rp7GT": {
+    "name": "Penguin Cat",
+    "symbol": "Hybrid cat",
+    "flagged_ts": 1790249865,
+    "liquidity_at_flag": 55069.33126876732,
+    "breakdown": {
+      "MOMENTUM": 96,
       "SAFETY": 60,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
