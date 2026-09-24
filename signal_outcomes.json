@@ -1,48 +1,4 @@
 {
-  "E7AymCqqQBuhqmL2HekUE6NNsgQnMc4R2zseG1RYkTrq": {
-    "name": "Mooncat",
-    "symbol": "MCAT",
-    "flagged_ts": 1789679111,
-    "liquidity_at_flag": 24611.106059742022,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "D4V8u5doS6N5XDUfy6BUVynjufJUjpGYJZmqwcjvkTEH": {
-    "name": "Mooncat",
-    "symbol": "MCAT",
-    "flagged_ts": 1789679112,
-    "liquidity_at_flag": 15162.12464983427,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "DFMzzY4cWogW3qeFVb7B1QmaZW8iq1agBLS9iFQysp66": {
-    "name": "Mooncat",
-    "symbol": "MCAT",
-    "flagged_ts": 1789679113,
-    "liquidity_at_flag": 32553.904591258673,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "C4688vwpupAvM1oVLsc9BGhkSRTGYDroXC9KXpGnjH9o": {
-    "name": "Mooncat",
-    "symbol": "MCAT",
-    "flagged_ts": 1789679115,
-    "liquidity_at_flag": 41527.83422982121,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
   "FxaYoptzmpq1aE7eruDE61a24osTZ8WsHfEAVKHrCJUv": {
     "name": "Dividend Hounds",
     "symbol": "HOUND",
@@ -28266,7 +28222,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "H2jAV8NJR9eRLQLysiLqfrC1aHW9cYV3n7A49vj9pump": {
@@ -28282,7 +28239,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "3AjiVRGs8SnbCeQJqMfH7GaeWCnWwnHTFmeudb5Aane7": {
@@ -28298,7 +28256,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "3a638SPZQDiPHzbnf1zHLKRUEuPAC5b5H8STSQ3ByRUH": {
@@ -32361,7 +32320,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "Am5mh7kHfPic59EHgTaJQuu3dhnwYXnGgrzCtSbzw6Q": {
@@ -32376,7 +32336,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "C2tJKxhrS9Mu7VvEbTsvyCX7HmovvhHzrex7aaHteowC": {
@@ -32720,7 +32681,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "8LHgAXXPbMVqd3wmAQbTu4NxuRRe3qowgUSLiKmFpump": {
     "name": "launchdap",
@@ -32818,6 +32781,58 @@
     "symbol": "AI",
     "flagged_ts": 1790283908,
     "liquidity_at_flag": 40512.90473581099,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "Ah13cTAcf8XtLtHcfps81KsLFhLwCh4nKe32h6JuEeK5": {
+    "name": "Holdoween",
+    "symbol": "Holdoween",
+    "flagged_ts": 1790284800,
+    "liquidity_at_flag": 17900.491377232156,
+    "breakdown": {
+      "MOMENTUM": 92,
+      "SAFETY": 100,
+      "LIQUIDITY": 90,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "DMioHeq1Upkn9UY3JbZKZRwFLtmuAuAENPg9HbpD4w6L": {
+    "name": "Pumpies",
+    "symbol": "Pumpies",
+    "flagged_ts": 1790284802,
+    "liquidity_at_flag": 40505.99819247576,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "FbJ3u9MV647bbFN3dTRuXkfurjSYysoijJ2mGN21JHLD": {
+    "name": "American Reserved Oil Supply",
+    "symbol": "AROS",
+    "flagged_ts": 1790284804,
+    "liquidity_at_flag": 66211.17497572085,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "2WpkftHtgsGXeWqsGfMeuFFHuFpoEipYDw5iEDWk2yTD": {
+    "name": "StonkBlend",
+    "symbol": "STONKBLEND",
+    "flagged_ts": 1790284805,
+    "liquidity_at_flag": 31839.669309409306,
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 60,
