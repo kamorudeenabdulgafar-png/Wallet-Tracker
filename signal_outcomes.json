@@ -27358,7 +27358,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "FjLjysmtJiGnR54k1Nf4q9mkGChW5wo5veK6mZBSw1fe": {
@@ -27374,7 +27375,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "JBmqjfxBBy4cH1qEo4L6XjBsTG17VLh1proesrsvjtXF": {
@@ -31373,7 +31375,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "wjt29Fap6WrP8yLX1BosrYoDU3QpZZAcdTvtW8KQWMT": {
@@ -31388,7 +31391,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "97bgrxPak2EKZPMSDchD3gh6CnBCXPpY4wjitS14jaaN": {
@@ -31403,7 +31407,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "GCdiWuRagkHuD3edSkc6GPzg3q42ojU2wZBQSbtoZHPq": {
@@ -31418,7 +31423,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "9dbnH1M42QmXJkAiAgrbJGXTifWM4wq4aPjS72nEkKW2": {
@@ -31433,7 +31439,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "BepscBL6kDJW4D6HHPYsue83rUP69aye7MJSbcJzzY8M": {
@@ -32197,7 +32204,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "689VL9JsJaxt38uvgkNBMP5sCh6yqAuHjYLDjSMdrHd": {
     "name": "Argus",
@@ -32272,6 +32281,19 @@
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "CQFN28cSDWVttgVLGwb8fK2kkgF4s4fYck2FSxNop85x": {
+    "name": "Sisyphean Penguin",
+    "symbol": "PENGUIN",
+    "flagged_ts": 1790247293,
+    "liquidity_at_flag": 41288.052623704025,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 75,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
