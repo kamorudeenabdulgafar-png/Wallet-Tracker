@@ -1,31 +1,5 @@
 [
   {
-    "name": "Pok\u00e9mon",
-    "symbol": "Charizard",
-    "category": "rug",
-    "change_pct": -100.0,
-    "breakdown": {
-      "MOMENTUM": 100,
-      "SAFETY": 60,
-      "LIQUIDITY": 100,
-      "SMART MONEY": 0
-    },
-    "ts": 1790167528
-  },
-  {
-    "name": "Digital Gold",
-    "symbol": "GOLD",
-    "category": "rug",
-    "change_pct": -100.0,
-    "breakdown": {
-      "MOMENTUM": 100,
-      "SAFETY": 60,
-      "LIQUIDITY": 100,
-      "SMART MONEY": 0
-    },
-    "ts": 1790167529
-  },
-  {
     "name": "Mercado Libre",
     "symbol": "MELI",
     "category": "rug",
@@ -3898,5 +3872,31 @@
       "SMART MONEY": 0
     },
     "ts": 1790272089
+  },
+  {
+    "name": "Tickset App",
+    "symbol": "TICKER",
+    "category": "rug",
+    "change_pct": -85.4,
+    "breakdown": {
+      "MOMENTUM": 55,
+      "SAFETY": 90,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "ts": 1790273275
+  },
+  {
+    "name": "Max Leveraged",
+    "symbol": "MAX",
+    "category": "rug",
+    "change_pct": -100.0,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 75,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "ts": 1790273275
   }
 ]

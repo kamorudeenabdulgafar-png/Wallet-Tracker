@@ -1,5 +1,5 @@
 {
-  "last_updated": 1790272554,
+  "last_updated": 1790273278,
   "wallets": [
     {
       "label": "Dev wallet 1",
@@ -87,7 +87,7 @@
     "count": 2835,
     "up_count": 613,
     "total_change_pct": -155586.29928175083,
-    "rug": 1388,
+    "rug": 1390,
     "doing_well": 12,
     "steady": 7,
     "fading": 13
@@ -95,6 +95,36 @@
   "learning_insight": null,
   "settings": {},
   "recent_alerts": [
+    {
+      "ts": 1790273278,
+      "type": "outcome",
+      "message": "\ud83d\udfe1 STONKCAT (SCAT) is holding steady so far (+29%)."
+    },
+    {
+      "ts": 1790273277,
+      "type": "outcome",
+      "message": "\ud83d\udd34 Earl of Huntingdon (HUNTINGDON) is dropping fast \u2014 down 100%, may be rugging."
+    },
+    {
+      "ts": 1790273276,
+      "type": "outcome",
+      "message": "\ud83d\udd34 Onboard (ONBOARD) is dropping fast \u2014 down 100%, may be rugging."
+    },
+    {
+      "ts": 1790273275,
+      "type": "outcome",
+      "message": "\ud83d\udd34 Max Leveraged (MAX) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
+    },
+    {
+      "ts": 1790273275,
+      "type": "outcome",
+      "message": "\ud83d\udd34 Tickset App (TICKER) turned out to be a rug \u2014 liquidity dropped 85% over 24h."
+    },
+    {
+      "ts": 1790273272,
+      "type": "scanner",
+      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\nsolana zama (ZAMA)\nOpportunity: 76/100\n\nMOMENTUM     100\nSAFETY       60\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$31,051, 8 min since pool creation\n\u2022 Up +89% in the last hour, ~$151,372 in 24h volume (4.9x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 98% of supply (very concentrated)\n\nCA: 3LxiRcXtia2LS5iBa9z9rvmdC6LdqrxMUbCCtFvuhWKA\nhttps://dexscreener.com/solana/3LxiRcXtia2LS5iBa9z9rvmdC6LdqrxMUbCCtFvuhWKA\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
+    },
     {
       "ts": 1790272552,
       "type": "outcome",
@@ -314,36 +344,6 @@
       "ts": 1790269137,
       "type": "scanner",
       "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\nSTONKCAT (SCAT)\nOpportunity: 76/100\n\nMOMENTUM     100\nSAFETY       60\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$53,479, 10 min since pool creation\n\u2022 Up +418% in the last hour, ~$118,342 in 24h volume (2.2x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 95% of supply (very concentrated)\n\nCA: 7g7cHJ2aXAikcPCnWsKJCm8i9GjoyseUVRLhhynEoVVm\nhttps://dexscreener.com/solana/7g7cHJ2aXAikcPCnWsKJCm8i9GjoyseUVRLhhynEoVVm\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
-    },
-    {
-      "ts": 1790269135,
-      "type": "wallet",
-      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: BP -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/4LMjGBS2aRbQ9s2zsHYPkWopNCGBeVnUP2mXMW8YYh7Ha9CmwLCx2LNfZwg3xdbjhruNE6f68n69abhY3fpJzzAV"
-    },
-    {
-      "ts": 1790269135,
-      "type": "wallet",
-      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: USDC -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/2qUhRCwwZ2XSZ1VaJEgjc7h5WPDfyMSBwry8VMmdTmJjBEN3dUtG1FNxmbLhhxeaXDB8hzn2jBKCPfU2gPGr4aiu"
-    },
-    {
-      "ts": 1790269134,
-      "type": "wallet",
-      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: USDC -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/3ASvMmoggP2LREmvwSifgypRbw3SVC3FhHfPirdtF4FmQdZXHUGryMmBngYCewkK5B4hkDkKGMASHi1FxX5Yonr2"
-    },
-    {
-      "ts": 1790269133,
-      "type": "wallet",
-      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: USDC -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/2RMG523mdcp8U93PRRqtvSuBZjGdrwPWsWgUWpyvjkReqTZ7SHoKCv83fv5z84DUNoyhLzF2VtzwmJR9AZEhQcZX"
-    },
-    {
-      "ts": 1790269133,
-      "type": "wallet",
-      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: USDC -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/2iwf9S6Vobn35zDVJBoCUZ4SeX5ZHm7SrocA1vLw19B4Jgazd3YmfUtnRUvnJcGWc7iqyxnmQfnTUVrVRFb81w6S"
-    },
-    {
-      "ts": 1790268594,
-      "type": "outcome",
-      "message": "\ud83d\udd34 Macca the Gator (MACCA) is dropping fast \u2014 down 100%, may be rugging."
     }
   ]
 }

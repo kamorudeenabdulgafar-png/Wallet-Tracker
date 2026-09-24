@@ -1,26 +1,4 @@
 {
-  "DcsLnCezECN49bNowJdtPc7mKrMLJ1PaVDXtTDvtmVk4": {
-    "name": "THURSDAY ARENA",
-    "symbol": "THURSDAY",
-    "flagged_ts": 1789668389,
-    "liquidity_at_flag": 30875.527066995342,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "EsVaD5Y6s9exURgcyUM4WWDb6hvrjd3XroDHmemVL3o5": {
-    "name": "Donald John Trump",
-    "symbol": "Trump",
-    "flagged_ts": 1789668390,
-    "liquidity_at_flag": 26670.094349385094,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
   "EDSbodwSAwNMxAeiMixahG5rcTjjjfdfVMqbQvfNpump": {
     "name": "NetronX Games",
     "symbol": "NetronX",
@@ -28043,7 +28021,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "6cxAA8HBYN1vsBYck46tGkEGVyg5ZvshU8PSHW2H48kA": {
@@ -28059,7 +28038,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "7xm3vqykDZVuYqiC2HcTf3VerfmhAieCPZmeJX8qpump": {
@@ -32090,7 +32070,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "2yyjWMjN56ZbTRznfbFh7SkgjZNs2wDCr745zHt8rvCR": {
@@ -32105,7 +32086,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "8DfGtYASuK64E38k5AuEheKzbKJ765Cuz21G5uWH9YHX": {
@@ -32539,7 +32521,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "5QBxMxRfx6i1pwN1VvjGU2UtxtRdfLGa9QR6NGvApump": {
     "name": "Clones",
@@ -32637,6 +32621,19 @@
     "symbol": "Shielded",
     "flagged_ts": 1790272550,
     "liquidity_at_flag": 26125.55601202151,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "3LxiRcXtia2LS5iBa9z9rvmdC6LdqrxMUbCCtFvuhWKA": {
+    "name": "solana zama",
+    "symbol": "ZAMA",
+    "flagged_ts": 1790273272,
+    "liquidity_at_flag": 31051.387602892457,
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 60,
