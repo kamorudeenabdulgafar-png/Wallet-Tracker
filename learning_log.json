@@ -1,18 +1,5 @@
 [
   {
-    "name": "PStock Markets",
-    "symbol": "PSTOCK",
-    "category": "rug",
-    "change_pct": -84.5,
-    "breakdown": {
-      "MOMENTUM": 100,
-      "SAFETY": 100,
-      "LIQUIDITY": 100,
-      "SMART MONEY": 0
-    },
-    "ts": 1790088742
-  },
-  {
     "name": "Advanced Micro Dog",
     "symbol": "AMD",
     "category": "rug",
@@ -3898,5 +3885,18 @@
       "SMART MONEY": 0
     },
     "ts": 1790207559
+  },
+  {
+    "name": "Archibald Brown",
+    "symbol": "Archi",
+    "category": "rug",
+    "change_pct": -80.5,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 75,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "ts": 1790208398
   }
 ]

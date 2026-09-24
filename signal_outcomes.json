@@ -26777,7 +26777,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "4jRg4s3cQRELT7BBKPZVrWwsemxgWhQZCGQjYzR6pump": {
@@ -26793,7 +26794,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "6Wr7KF4F1NZ3cMxCQzaSr3kEha2uLnCYKbEC3MD5pump": {
@@ -26809,7 +26811,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "6A1emS3pCr4DXXXWX7KaQUWwfxwKKXs1R5Ch386RK7Cy": {
@@ -26825,7 +26828,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "DpBxN1aQiwVJ15nT4VvtDbKrPfcxdrvgfrMZSx5pP3aU": {
@@ -30760,7 +30764,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "3L9RHgNPZYXWCEqFntjVEPLh4JSpWz2FDzbZwALsJz1m": {
@@ -30775,7 +30780,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "HWrudsAcGvyviNnkvBzf7EenubFjNB3b7Xwkw2Hv92LA": {
@@ -31269,7 +31275,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "6ExbrYvL5FYaQWfY9LzUKDACrL8SEd37Xi9L6UfLpnVJ": {
     "name": "goon",
@@ -31282,7 +31290,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "3T8qUfDVFGhcuaHdJDbs5VUzpstWYfa2v8xCG6nLjJ9v": {
     "name": "goon",
@@ -31295,7 +31305,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "3TNk3J5ktyXZ2sufyWY3TZ8yU4qhB3ZWa3YbBNzC9tGp": {
     "name": "goon",
@@ -31308,7 +31320,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "AdZd56X3ZMshpb4ejsE1AKkxgBrqKLV3HmhGpMjxpump": {
     "name": "Just Wuf",
@@ -31448,6 +31462,58 @@
     "breakdown": {
       "MOMENTUM": 84,
       "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "EP2gk2RYmzKxqvWV3oTLUW1mMNZcnYoVFSuzGb342LcP": {
+    "name": "Untaxed App",
+    "symbol": "UNTXD",
+    "flagged_ts": 1790208393,
+    "liquidity_at_flag": 31469.57483517862,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "Ew3ogZaKMLPBkSLofThyizVEaLbMPZJgvtwnxVKmBoG9": {
+    "name": "Untaxed App",
+    "symbol": "UNTXD",
+    "flagged_ts": 1790208394,
+    "liquidity_at_flag": 28523.602493928793,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "BYdmTyDPEdQuGKt91EEfiBQ2SXGh8CXKgi4b2F2ooMRw": {
+    "name": "The Art of Pump",
+    "symbol": "ART",
+    "flagged_ts": 1790208395,
+    "liquidity_at_flag": 70541.84261315932,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "3tzkdxJ1qVCaPAuWmd8FjRFKUbwMYpLUAq5gg4Vopump": {
+    "name": "Untaxed App",
+    "symbol": "UNTXD",
+    "flagged_ts": 1790208396,
+    "liquidity_at_flag": 34329.53134515832,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 100,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
