@@ -1,26 +1,4 @@
 {
-  "99wkUqrEX5jQsoidGPzeinXctDwMvJiLrei596bNpump": {
-    "name": "XSEND",
-    "symbol": "XSEND",
-    "flagged_ts": 1789660492,
-    "liquidity_at_flag": 32125.95399624245,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "9Sb9VEUQEeoZnSJ63c7KP7MfGaTKNYgZArUH5Wrsis5n": {
-    "name": "Rogecoin",
-    "symbol": "ROGE",
-    "flagged_ts": 1789660494,
-    "liquidity_at_flag": 47752.856093596085,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
   "DpWyEY3sJzaG977umeoDCqkTmbWdgncRhbLJ1rqdKyUJ": {
     "name": "ONCHAIN",
     "symbol": "ONCHAIN",
@@ -27860,7 +27838,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "5fHuUXJ86DrUQHvZ1QtxJiG6HLMqXsSQQ94SRWUqwvrv": {
@@ -27876,7 +27855,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "J9kM81ULNmFiGL5tdVNBBrFYFom2RNAt8dGs49uHHhgL": {
@@ -27892,7 +27872,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "c4AtfqMRbC9FuHtVEHDhCm453tytU9E34MXXrp6bLuf": {
@@ -31891,7 +31872,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "5zp3owqdmwevn413p2nMJwYt179GtLkdzgiD1kE8exy3": {
@@ -31906,7 +31888,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "aqkFr3SrHLHTxkfjZknvejjMZAVATtzJ9trqtw4RiXe": {
@@ -31921,7 +31904,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "FLu5nfSwiHnxaeEPZA3W9fx6znVNZxHPk5ytRKtuWGmX": {
@@ -32400,7 +32384,9 @@
       "LIQUIDITY": 92,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "2JFQiSs3fykWsBZ72jSBaXDnqN6vMqN9gMoaVy9UUrwh": {
     "name": "\u5e01\u5b89\u4e2d\u79cb",
@@ -32413,7 +32399,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "CcwAn1oi8GwDwRNKKtTx6z9MYvoRa21pyq1YGCpmCUCF": {
     "name": "The Cheetah Fund",
@@ -32487,6 +32475,19 @@
     "liquidity_at_flag": 46155.19031486127,
     "breakdown": {
       "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "FdqSN23y37qLrykLJ8yj9yo7TJHKqVXq1RdvKiknhd4c": {
+    "name": "Hyperliquid",
+    "symbol": "HYPE",
+    "flagged_ts": 1790265392,
+    "liquidity_at_flag": 43105.48103864472,
+    "breakdown": {
+      "MOMENTUM": 91,
       "SAFETY": 60,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
