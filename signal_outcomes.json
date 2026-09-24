@@ -1,26 +1,4 @@
 {
-  "DvVxzdyB5Q3Zp6Kk5gAEKxnKCroxdJCY7MM52hcogLuJ": {
-    "name": "JupCat",
-    "symbol": "JupCat",
-    "flagged_ts": 1789681403,
-    "liquidity_at_flag": 38491.62964092869,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "3gHwCMKmRFJB49PhGaYXWP96LRQuk5hZXsC8hd7rpump": {
-    "name": "Grok in Blender",
-    "symbol": "GIB",
-    "flagged_ts": 1789681405,
-    "liquidity_at_flag": 20686.259955245314,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
   "4YvXRPuqr2tifmMYSJvrqs6qwZHyWnqAcAGAVCFWTWG5": {
     "name": "Mooncat",
     "symbol": "MCAT",
@@ -28257,7 +28235,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "64FityyBGWXC1Rc89kBRT8dNEwrXCskGBCnfGy3Mpump": {
@@ -28273,7 +28252,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "DGg7WY4ZLvbGY3ds4id5fyKVxkH6HNGKEyFhSFY9Ena9": {
@@ -32681,7 +32661,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "7bWe19bJssSZjJ2bWcZdfgiXLy5bL9vAv5D5y19P5V5x": {
     "name": "launchdap",
@@ -32694,7 +32676,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "D4NvkcZ7U8TSkMnGGfgB24Dv2J6ZQX48ki3odCjQpump": {
     "name": "Pumpies",
@@ -32834,6 +32818,32 @@
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "89pbF33GWWvAsjuRR6Zm7URm4QBPBcVHRqcGQHszBgcv": {
+    "name": "STONKED",
+    "symbol": "Stonked",
+    "flagged_ts": 1790286255,
+    "liquidity_at_flag": 27469.204355825794,
+    "breakdown": {
+      "MOMENTUM": 96,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "8AK9hV4NF2omQojZsV7Pry4iCFWmQarp2iR8NyUTpump": {
+    "name": "The Road to Fomo",
+    "symbol": "TRTF",
+    "flagged_ts": 1790286256,
+    "liquidity_at_flag": 39335.87606975392,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 100,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
