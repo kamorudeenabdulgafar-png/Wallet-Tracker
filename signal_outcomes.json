@@ -1,26 +1,4 @@
 {
-  "BaEwMAXzkjFkAUXTHnVYyzjgPy7YevXBTaFBHqSRpump": {
-    "name": "catch the runner",
-    "symbol": "runner",
-    "flagged_ts": 1789629282,
-    "liquidity_at_flag": 21900.04610131341,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "FUdVyU854w1GkHL2hrsGHmEQgK7sawfFVzZn5w37i4BF": {
-    "name": "AGRIPPA",
-    "symbol": "AGRIPPA",
-    "flagged_ts": 1789629284,
-    "liquidity_at_flag": 34422.86520806138,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
   "9uKkHPLFovRg9ecrxwjheK38KejKsLbtKTytwvd9pump": {
     "name": "Justice For Lilly",
     "symbol": "Lilly",
@@ -27160,7 +27138,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "J2kTZg5rXcrDyGzDZLHU13kbDVDkqu37bdT4FHk7gtoe": {
@@ -31095,7 +31074,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "CXJwsoLUxmFmwCrXHtmuwYe7YXcfCNpNpjsifBuPFzzi": {
@@ -31110,7 +31090,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "zNNXka85hxrK6uPyFYEVSWnmh8wqSAcHT2LfGCMz53A": {
@@ -31799,7 +31780,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "84SYWrcymFCBEvdygGi3qihH18VkBHYAjQfyMDfkvrD2": {
     "name": "The Depressed Monkey",
@@ -31812,7 +31795,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "G73AxkSqNij1P3cVrsiPrAAGtFZwSvpe5fAWzuF4Xh8C": {
     "name": "\u672c\u660c\u6210\u4f5b",
@@ -31975,6 +31960,45 @@
     "symbol": "mm",
     "flagged_ts": 1790234009,
     "liquidity_at_flag": 28549.2821489835,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "9DiakoiVieAhQ6SbkuKrz69fMAaTiKiGMeBWYXikZHMk": {
+    "name": "Hellcat",
+    "symbol": "HELLCAT",
+    "flagged_ts": 1790234987,
+    "liquidity_at_flag": 22552.434345516507,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "6bfPnfUb3xYYtWJkTANDWULPN2bvonY3LFgeuDtqWCw8": {
+    "name": "\u5e01\u5b89\u4e2d\u79cb",
+    "symbol": "\u5e01\u5b89\u4e2d\u79cb",
+    "flagged_ts": 1790234989,
+    "liquidity_at_flag": 78278.44470975126,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 75,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "DQMskgRLWVRScgf5rAQFVJZ9deCg9aspfS2cTaEUxV8V": {
+    "name": "market maker agents",
+    "symbol": "mm",
+    "flagged_ts": 1790234990,
+    "liquidity_at_flag": 36666.98379014307,
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 60,
