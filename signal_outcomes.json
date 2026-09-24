@@ -1,37 +1,4 @@
 {
-  "AZ3rVyLvWFAF9tYVY9n6LeSuvAhfCGKr1tcGux3spump": {
-    "name": "XPay",
-    "symbol": "XPAY",
-    "flagged_ts": 1789653331,
-    "liquidity_at_flag": 31387.288913631295,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "6GewNzedSYD8d4U87ekZzLCPmNTV9o9D8GrV5T3wkgP4": {
-    "name": "Memefighter",
-    "symbol": "MEMEFIGHTER",
-    "flagged_ts": 1789653332,
-    "liquidity_at_flag": 29641.47023515575,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "4fG5Y6rQgtUjpoo6uc9cVjhvZv2jWfwkR33UYR2wBbFA": {
-    "name": "Google",
-    "symbol": "Google",
-    "flagged_ts": 1789653335,
-    "liquidity_at_flag": 30489.587528255484,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
   "53jEy4dmEwA9xsCuiNZp1syPmEbs6FGKWQoxmMFs3Xpo": {
     "name": "INUmanoid",
     "symbol": "INUMANOID",
@@ -27711,7 +27678,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "5Y4J1ndAQC7PEGHfVBB7gtNRAD4HMoMejJgUqFp4Yfom": {
@@ -31870,7 +31838,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "689VL9JsJaxt38uvgkNBMP5sCh6yqAuHjYLDjSMdrHd": {
@@ -31885,7 +31854,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "AmqJXEbQzbztsg75ExMxNgMgEoNGLihCCLJwqHMVaCoh": {
@@ -32444,6 +32414,32 @@
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 100,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "7MBW6xaScvpYT82cLShYZCdy2P7RbnoiyjRhax2nSgfe": {
+    "name": "Onboard",
+    "symbol": "ONBOARD",
+    "flagged_ts": 1790258317,
+    "liquidity_at_flag": 39582.34943801535,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "2yyjWMjN56ZbTRznfbFh7SkgjZNs2wDCr745zHt8rvCR": {
+    "name": "Earl of Huntingdon",
+    "symbol": "HUNTINGDON",
+    "flagged_ts": 1790258318,
+    "liquidity_at_flag": 43890.00191123286,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 75,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
