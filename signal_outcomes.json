@@ -1,37 +1,4 @@
 {
-  "7UFkamK3RY2oKXL9EZhgQ4iqxwM9KLxp8DadJFVYEyX3": {
-    "name": "everybdy",
-    "symbol": "everybdy",
-    "flagged_ts": 1789689171,
-    "liquidity_at_flag": 51300.940635916326,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "9wuySuPDAMydD2ko7FuSreQAJM91xGC17Aoje2o2pump": {
-    "name": "OnlyCat",
-    "symbol": "OnlyCat",
-    "flagged_ts": 1789689173,
-    "liquidity_at_flag": 33901.64197929732,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "4zv9pgsqM3Ey1pputaKj8mXw1kgzR2QJkZRhgmmspump": {
-    "name": "Minions",
-    "symbol": "MINIONS",
-    "flagged_ts": 1789689174,
-    "liquidity_at_flag": 38610.15054632376,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
   "2ubhzKPouTyA3yrzo7DfptPvDHsr1NBUcYPvDkR3FNut": {
     "name": "Regain Your Humanity",
     "symbol": "WYND",
@@ -28476,7 +28443,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "6KDZXmLtZkM4ZHtUyRCnSHZ2dHSXxcUfPonwc6muSvVL": {
@@ -28492,7 +28460,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "EP2gk2RYmzKxqvWV3oTLUW1mMNZcnYoVFSuzGb342LcP": {
@@ -32347,7 +32316,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "Dieo9HsRZuQxccuHkdNSH44LUnfL5anhU3ZA3h4ypump": {
@@ -32815,6 +32785,32 @@
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 90,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "2A6MxU3bJ6EziBH4g3wH1Q8N9JNGZNarx4W1TJegadot": {
+    "name": "dot",
+    "symbol": "dot",
+    "flagged_ts": 1790293972,
+    "liquidity_at_flag": 20598.904438791382,
+    "breakdown": {
+      "MOMENTUM": 75,
+      "SAFETY": 90,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "CgMTyUGeUhz7qsbxr46Uw2vjkEXioWEtJUoMcpgUpump": {
+    "name": "Wojak Jean",
+    "symbol": "Jeanjak",
+    "flagged_ts": 1790293973,
+    "liquidity_at_flag": 22861.07437811908,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 100,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
