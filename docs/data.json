@@ -1,5 +1,5 @@
 {
-  "last_updated": 1790290488,
+  "last_updated": 1790291105,
   "wallets": [
     {
       "label": "Dev wallet 1",
@@ -10,7 +10,7 @@
     "5CEbueQnq1Ym2uSSx2xXds3jQAqT1BDnkA59RZobSPAG": {
       "label": "Dev wallet 1",
       "buy_count": 329,
-      "sell_count": 197,
+      "sell_count": 198,
       "total_buy_usd": 15628.984658586525,
       "total_sell_usd": 0.0,
       "tokens_traded": [
@@ -68,7 +68,7 @@
         "cbbtcf3aa214zXHbiAZQwf4122FBYbraNdFqgw4iMij",
         "Xsa62P5mvPszXL1krVUnU5ar38bBSVcWAB6fmPCo5Zu"
       ],
-      "last_active": 1790288445,
+      "last_active": 1790291101,
       "positions": {},
       "realized_pnl_usd": 0.0
     }
@@ -87,7 +87,7 @@
     "count": 2835,
     "up_count": 613,
     "total_change_pct": -155586.29928175083,
-    "rug": 1433,
+    "rug": 1435,
     "doing_well": 13,
     "steady": 7,
     "fading": 15
@@ -95,6 +95,26 @@
   "learning_insight": "Coins that rugged averaged SAFETY 69; coins that did well averaged SAFETY 97.",
   "settings": {},
   "recent_alerts": [
+    {
+      "ts": 1790291105,
+      "type": "outcome",
+      "message": "\ud83d\udd34 goon (goon) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
+    },
+    {
+      "ts": 1790291104,
+      "type": "outcome",
+      "message": "\ud83d\udd34 goon (goon) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
+    },
+    {
+      "ts": 1790291104,
+      "type": "scanner",
+      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\nOn The Radar (OTR)\nOpportunity: 76/100\n\nMOMENTUM     100\nSAFETY       60\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$32,574, 15 min since pool creation\n\u2022 Up +117% in the last hour, ~$96,300 in 24h volume (3.0x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 98% of supply (very concentrated)\n\nCA: AVbsZ36shjXdQrjv8QNFEYvgU1Ptkvk47ozouAEFaCSs\nhttps://dexscreener.com/solana/AVbsZ36shjXdQrjv8QNFEYvgU1Ptkvk47ozouAEFaCSs\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
+    },
+    {
+      "ts": 1790291101,
+      "type": "wallet",
+      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: USD1 -> USDC\nTrade size: unknown\nBought token: USD Coin (USDC)\nCA: EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v\nhttps://solscan.io/tx/5J6NVATNzZnADcRmFvaRa3n9uJHcupge9kfPwso1U9tDQy7u7vvcnS1U8jcA5naiVfJoiJ7pxSio2RPjHGncPts8"
+    },
     {
       "ts": 1790290488,
       "type": "outcome",
@@ -324,26 +344,6 @@
       "ts": 1790287514,
       "type": "scanner",
       "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\nStonked (STONKED)\nOpportunity: 76/100\n\nMOMENTUM     100\nSAFETY       60\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$41,347, 8 min since pool creation\n\u2022 Up +370% in the last hour, ~$249,232 in 24h volume (6.0x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 92% of supply (very concentrated)\n\nCA: DA5tD9pG6g9GbGkaSPwwcvdsTo941tUrpHTYKfyv2VCW\nhttps://dexscreener.com/solana/DA5tD9pG6g9GbGkaSPwwcvdsTo941tUrpHTYKfyv2VCW\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
-    },
-    {
-      "ts": 1790286767,
-      "type": "outcome",
-      "message": "\ud83d\udfe2 EP50 (EP50) is still doing really good \u2014 up 122% so far!"
-    },
-    {
-      "ts": 1790286766,
-      "type": "outcome",
-      "message": "\ud83d\udd34 Pumpies (Pumpies) is dropping fast \u2014 down 100%, may be rugging."
-    },
-    {
-      "ts": 1790286765,
-      "type": "outcome",
-      "message": "\ud83d\udfe0 Pumpies (Pumpies) is fading \u2014 down 21% so far."
-    },
-    {
-      "ts": 1790286765,
-      "type": "outcome",
-      "message": "\ud83d\udd34 Ping Ping and Fu Shuang (\u53cb\u8c0a\u4f7f\u8005) is dropping fast \u2014 down 100%, may be rugging."
     }
   ]
 }

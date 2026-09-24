@@ -1,48 +1,4 @@
 {
-  "5mYMFpZyWtfA3fuQRp2JUEdHNV8tcgDnK7oxS9vYep1e": {
-    "name": "real internet money",
-    "symbol": "RIM",
-    "flagged_ts": 1789686256,
-    "liquidity_at_flag": 15179.614804415936,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "2FGnCG48aSBpAgTBdrAZ3URnWF2dg4XMWM6wRLYLpump": {
-    "name": "Solana Pepe",
-    "symbol": "SOLPEPE",
-    "flagged_ts": 1789686257,
-    "liquidity_at_flag": 21829.135547765538,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "2k8RPPsjgsZeYr7hpaT7XxTJ3NFYsyZv7W2TRSEgVjNx": {
-    "name": "Phantom Cat",
-    "symbol": "PCAT",
-    "flagged_ts": 1789686259,
-    "liquidity_at_flag": 25749.061110515046,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "73nBoTeEAJAWaNP8ayTDUZbx6ag3JcHm4CPxGi8Tpump": {
-    "name": "MOONSHOT",
-    "symbol": "MOONSHOT",
-    "flagged_ts": 1789686260,
-    "liquidity_at_flag": 33960.12839644373,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
   "25JwcBZvEDdqhZMXXobr8UTUywgxfcfDeDy75X58d5SR": {
     "name": "JupCat",
     "symbol": "MEOW",
@@ -28421,7 +28377,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "3TNk3J5ktyXZ2sufyWY3TZ8yU4qhB3ZWa3YbBNzC9tGp": {
@@ -28437,7 +28394,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "AdZd56X3ZMshpb4ejsE1AKkxgBrqKLV3HmhGpMjxpump": {
@@ -32864,6 +32822,19 @@
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 75,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "AVbsZ36shjXdQrjv8QNFEYvgU1Ptkvk47ozouAEFaCSs": {
+    "name": "On The Radar",
+    "symbol": "OTR",
+    "flagged_ts": 1790291104,
+    "liquidity_at_flag": 32574.237834509477,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
