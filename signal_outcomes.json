@@ -1,26 +1,4 @@
 {
-  "BG9L6Lx4ztjNoqifB8vYQwjyky6gwwoF9p5UVDdmnsyW": {
-    "name": "Pons ALL INU",
-    "symbol": "PONSALLINU",
-    "flagged_ts": 1789658922,
-    "liquidity_at_flag": 23569.925603714546,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "AyYNfPtftg2zDP4ZbgcoQMggQtwLh4zpfVVmUJs2thto": {
-    "name": "Leopardus tilcayo",
-    "symbol": "Tilcayo",
-    "flagged_ts": 1789658923,
-    "liquidity_at_flag": 54840.58229777924,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
   "FKaJuPmxjYm9u4iDHxdYvA947vbjBQjpevQsBBVLns8z": {
     "name": "Tigrino the Weird Cat",
     "symbol": "TIGRINO",
@@ -27841,7 +27819,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "72UdqdCUeTGHhKZMZpyDzpujAFBp69HzeovL8jYSzqhm": {
@@ -31872,7 +31851,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "3zPHBgUDygzf5To5q6uQcT9QwsLHgrPhwZVops4Spump": {
@@ -32441,7 +32421,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "EqN95TCFfHQzQ86VHRNoVnvn96py41Nagk2JyDRY7D3o": {
     "name": "The Cheetah Fund",
@@ -32500,6 +32482,32 @@
     "symbol": "ccat",
     "flagged_ts": 1790262966,
     "liquidity_at_flag": 27557.882309814493,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "YZtJFRpAHmidNCRgm3ChMBPYWhdEXjaWxAdr4DzCPXq": {
+    "name": "Ping Ping and Fu Shuang",
+    "symbol": "\u548c\u5e73\u718a\u732b",
+    "flagged_ts": 1790263853,
+    "liquidity_at_flag": 34446.109475883364,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "6vELScxVfnXD1vBWRstkhgXRAV2BvJReHjuhb2tGi6Nd": {
+    "name": "Index",
+    "symbol": "Index",
+    "flagged_ts": 1790263854,
+    "liquidity_at_flag": 29080.698678006025,
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 60,
