@@ -1,15 +1,4 @@
 {
-  "9LaHiExwbwGDGnrmVHKFi83cZEsMkJbCrmoEcqfaPAJ2": {
-    "name": "Quality Coin",
-    "symbol": "QUALITY",
-    "flagged_ts": 1789611690,
-    "liquidity_at_flag": 29780.216416800336,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
   "HS6EP6nVeKr6R6w99RDizUbjatJSjhHhEQZddiL5FnfQ": {
     "name": "Bob The Builder",
     "symbol": "Bob",
@@ -26951,7 +26940,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "A5ZiQNqMPuNY2VvmwpbYJ9m4vpsbTnAqKSgvuCKFpump": {
@@ -26967,7 +26957,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "EoVc13TiwcPb42dTwxjHAcSSxDyTKuoe4EoK9T2VCEzJ": {
@@ -26983,7 +26974,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "AaMAjVuLGtQzyS8uxXsbLjS6f6ppZ8YBXrMtAydJ6Y5H": {
@@ -26999,7 +26991,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "9AFExNuqiYsSXd7ZkMTQQqshXLYPmMsGmopJVh6bJ6K8": {
@@ -30886,7 +30879,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "CAqcebQonWgBVkxjB98ULJ5PXKfXwJxurpqqSsdwoLpk": {
@@ -30901,7 +30895,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "DtFb8Qu87XnH4jXcpAnTdiJUaffCKfqbzYCE9bNoBkVp": {
@@ -30916,7 +30911,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "AyYcWNth3J17nQy611iHNvQ4Ue9VyDswveBn5ou4pump": {
@@ -31395,7 +31391,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "DWz7Sf1GnoEvURopQFPGcq3EaVpGVxVSihqeehYopump": {
     "name": "familiars.family",
@@ -31408,7 +31406,9 @@
       "LIQUIDITY": 82,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "7bVx6mh5ixZeoy6A33EVMQpo1uZM3ZBCjpbm9ar6KWtN": {
     "name": "Grail",
@@ -31421,7 +31421,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "A1cH6aVdVypahaCJJAko1NvNbrR1BoZYotDhdWbwEmg8": {
     "name": "Ticker",
@@ -31434,7 +31436,9 @@
       "LIQUIDITY": 88,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "9b4HdxBQSjLFvSFxnfoBzrYkCkZ6kjncr1fkrfu845Er": {
     "name": "SolanaBroker",
@@ -31447,7 +31451,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "4KoT5z47UVxks1utibF3xMu2fMDbXcg2Kasfsv2TFfsE": {
     "name": "Ticker",
@@ -31460,7 +31466,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "29PD7dBhzbTs2rBnxa8s4G4RWzaEdbFBFszvJPVA5YkY": {
     "name": "Met",
@@ -31473,7 +31481,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "7WrA2qXv5p6WAT7JBWGm74UjGv7u3v41stJwP4KUpump": {
     "name": "Ticker",
@@ -31486,7 +31496,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "CmAxJkYLtHHZyKMk97m81a73s7JmHqTQRUdxh7oqyY3c": {
     "name": "Gstock",
@@ -31649,6 +31661,45 @@
     "symbol": "GS",
     "flagged_ts": 1790215694,
     "liquidity_at_flag": 54984.05826631024,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "A6qqSNn19aD5bJK3g7QZ5xfWzi772yx37HdyfvR3CPmx": {
+    "name": "zenhttps://x.com/AMAZlNGNATURE/status/2102922211237536221",
+    "symbol": "zen",
+    "flagged_ts": 1790216541,
+    "liquidity_at_flag": 41759.1818091568,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "ENLXGNW7kSXHpALRCuHpshN4MmDFRpMKVwPEgYxgBi4L": {
+    "name": "zen",
+    "symbol": "zen",
+    "flagged_ts": 1790216542,
+    "liquidity_at_flag": 28858.95577547294,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "FgB1X9xza7X8m1GFtRWVr44oz9CvE36FWWhuHR5vMdmk": {
+    "name": "\u6d41\u6d6a\u72d7",
+    "symbol": "\u6d41\u6d6a\u72d7",
+    "flagged_ts": 1790216544,
+    "liquidity_at_flag": 28069.177270016797,
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 60,
