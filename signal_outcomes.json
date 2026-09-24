@@ -1,81 +1,4 @@
 {
-  "2HxUhER7GZKxjUkGnUhaBgWSRVijoK5M9igpKhpzpump": {
-    "name": "Pepe Paid",
-    "symbol": "PEPEPAID",
-    "flagged_ts": 1789617339,
-    "liquidity_at_flag": 20120.653855072855,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "rAcpQeStncDMCf3zpCqW9uikUqoCxMsiRzbHhmHorH2": {
-    "name": "Bob The Builder",
-    "symbol": "BOB",
-    "flagged_ts": 1789617340,
-    "liquidity_at_flag": 25750.414698387372,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "FTgjQ5YJSp4SDYF89ek95Zqp5g4AgiHTS5TLpR8Pa94S": {
-    "name": "Bitcoin Pizza",
-    "symbol": "PIZZA",
-    "flagged_ts": 1789617340,
-    "liquidity_at_flag": 34243.49878708145,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "EawrtPx8cHDQr7z2rcDCXnRhq9sM9epdCVyqMzSAcEkd": {
-    "name": "Bitcoin Pizza",
-    "symbol": "PIZZA",
-    "flagged_ts": 1789617341,
-    "liquidity_at_flag": 26033.848960557632,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "GtCy5J5ZCVcdc8on9UKvaMF5de7CrvnKP9o4JdkpBLh": {
-    "name": "Vlad Tenev",
-    "symbol": "VLAD",
-    "flagged_ts": 1789617342,
-    "liquidity_at_flag": 166448.02187727066,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "Ps8LJorfVMFG1qcPTbfJyNyNRRb4tJ1URxUp3tNkgUu": {
-    "name": "Errol Coin",
-    "symbol": "ELON",
-    "flagged_ts": 1789617343,
-    "liquidity_at_flag": 35338.78961516868,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "5hGrTrfBbcp194y5w1duT2UDeieHesqFddpJxq4wTeX5": {
-    "name": "xmonkey",
-    "symbol": "XMONKEY",
-    "flagged_ts": 1789617343,
-    "liquidity_at_flag": 34065.76531796987,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
   "8q2JNBGwqWZWUvyTFKHY7sqHi3MHTAGGrkcYCA5QAz4x": {
     "name": "xmonkey",
     "symbol": "XMONKEY",
@@ -27039,7 +26962,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "89TiYcehJ3C2Lxed4hEnvds5EoDPQdoa4R21WSHt4MVj": {
@@ -27055,7 +26979,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "E7ve8kZp3EAuUWjA9MRmy51TBKmm6hkA3KQVWw5P2sbm": {
@@ -27071,7 +26996,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "B9bMVfHaBE7fc2PPVsoy4npmiDEF3vHF6RR32Av3HAjN": {
@@ -30958,7 +30884,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "6KDZXmLtZkM4ZHtUyRCnSHZ2dHSXxcUfPonwc6muSvVL": {
@@ -30973,7 +30900,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "EP2gk2RYmzKxqvWV3oTLUW1mMNZcnYoVFSuzGb342LcP": {
@@ -31572,7 +31500,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "2DCrL14LiNAFZhzMKuw7aEEXkW1nQgzXBpm4XtZGhNBa": {
     "name": "The Sisyphean Marmot",
@@ -31585,7 +31515,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "8DCCsnxmT8ZM5DJ9poFRy6dF3Swr58Yo6EUWMwKRK2ZS": {
     "name": "Roo",
@@ -31751,6 +31683,19 @@
     "breakdown": {
       "MOMENTUM": 83,
       "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "JrUzdNLYM2PLtCSo9j9q7pr1WuG13wikfgRSgm6pump": {
+    "name": "Pok\u00e9mon  Dollar",
+    "symbol": "\u20bd",
+    "flagged_ts": 1790222246,
+    "liquidity_at_flag": 25867.32107300029,
+    "breakdown": {
+      "MOMENTUM": 66,
+      "SAFETY": 100,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
