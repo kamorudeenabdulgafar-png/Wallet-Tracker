@@ -1,26 +1,4 @@
 {
-  "LYgTbnZ3FwpFC361FQzaq1SCDJhBuw3LzrpCn2enDfi": {
-    "name": "Huawei Pura X Max",
-    "symbol": "HUAWEI",
-    "flagged_ts": 1789632533,
-    "liquidity_at_flag": 17140.28846211086,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "Ar9c4SGBxf53WA7ANGFdxgRoh7qm3LAXu1EqEA5PwHsj": {
-    "name": "Elon Coin",
-    "symbol": "ELON",
-    "flagged_ts": 1789632535,
-    "liquidity_at_flag": 26377.964150469874,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
   "AGcHhhcPhC6dXiWaSRoTN2qwD92yC3djHLz1ZYcppump": {
     "name": "tit",
     "symbol": "tit",
@@ -27125,7 +27103,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "7dPoC1oc4Z86e81HJfEhUh1cR5BoCgLoByQYSG7wUpB7": {
@@ -27141,7 +27120,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "525YHQG4P9a92a3EVXufvWy3KjhnHVpjbBXppwCoupyg": {
@@ -27157,7 +27137,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "FkZMpioeJPcxuYxPVfdTthrXQQcro8YV8kGBheR5hhzZ": {
@@ -27173,7 +27154,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "2ySjQh2LL8msX5ppfE1ZFenQVWK5QAmmznukQWbNpump": {
@@ -27189,7 +27171,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "D3bXjcmRKeUJNk5egWz6CkE1zQnLqLPVXUV5SQUXWRyC": {
@@ -31140,7 +31123,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "h8aUjirc7iT8Um9jj6Nr8pHSbCvL8EGwom7Ux5wM6Kg": {
@@ -31155,7 +31139,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "HxVY1TU1JtbYzXs3R4Vf8mNUjHaQUXgtbPmnPXxKMSgz": {
@@ -31844,7 +31829,9 @@
       "LIQUIDITY": 80,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "AzyZTkSFVQdKh68U3yF1oyhxyNpktG6LGZ5qdXJY8aZp": {
     "name": "Claude Ai",
@@ -31857,7 +31844,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "B9eB38gSFV2LfkZJU1mNXNyvCnmbngaWG63shTicmvT6": {
     "name": "market maker agents",
@@ -31870,7 +31859,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "9DiakoiVieAhQ6SbkuKrz69fMAaTiKiGMeBWYXikZHMk": {
     "name": "Hellcat",
@@ -32127,6 +32118,45 @@
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 100,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "HNi5iNx2sE9ydhL9naU72ocY7hDvuGCagSVd5ifLmoze": {
+    "name": "\u6d4e\u516c",
+    "symbol": "\u6d4e\u516c",
+    "flagged_ts": 1790238188,
+    "liquidity_at_flag": 31566.271230041115,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "22FEuB9cjqVhnMxUjyRB9TQBUP95uwzb5hVCFNjxQdbV": {
+    "name": "Infusion",
+    "symbol": "INFUSION",
+    "flagged_ts": 1790238190,
+    "liquidity_at_flag": 55895.16337340471,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "7jMAxNVduVyvhh3rvunfGAhH6u46Z2qopqH9vB4hpump": {
+    "name": "Infusion",
+    "symbol": "INFUSION",
+    "flagged_ts": 1790238190,
+    "liquidity_at_flag": 21430.08501581631,
+    "breakdown": {
+      "MOMENTUM": 72,
+      "SAFETY": 90,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
