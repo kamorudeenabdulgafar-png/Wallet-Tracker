@@ -1,37 +1,4 @@
 {
-  "5dDeBvYERiX7Vks5TU6aaSxQeYJk5jHncHwBaVqTpump": {
-    "name": "Trade",
-    "symbol": "TRADE",
-    "flagged_ts": 1789665595,
-    "liquidity_at_flag": 24599.685418079418,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "GDVxsWgdV539aCAFnmBvXRM9CURXiZoLZNZoyzV4UyGA": {
-    "name": "P(Doom) Perp",
-    "symbol": "P(DOOM)",
-    "flagged_ts": 1789665597,
-    "liquidity_at_flag": 26693.733446465958,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "EmZvDognfBw9vxDab3nwk719XcDvJwR35vfXG138gTJz": {
-    "name": "Genius",
-    "symbol": "Genius",
-    "flagged_ts": 1789665598,
-    "liquidity_at_flag": 52707.07395533296,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
   "8hQ3yr3rzG2Ln4NADYpUBPxvxJUv8KHSZ374QQvPKq3j": {
     "name": "Thursday Arena",
     "symbol": "THURSDAY",
@@ -31994,7 +31961,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "75yjyxFfCo34zarLppqLhS13E6hvH6CEQKxH7TgiNmJz": {
@@ -32009,7 +31977,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "hycYxx4mSKC1df6EJq18migjZ5sfBY3a2xHYjmhpump": {
@@ -32024,7 +31993,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "CVn6Qdgcpj89yyBW3o38K1PBnFEouAenQS47NF4gJStG": {
@@ -32039,7 +32009,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "CjuFLo6UcVko34FkwJNH1RAY9QP9yKWevzAoFkDrpump": {
@@ -32054,7 +32025,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "23d5EtiLeT1t6seccoNNADa82yUeKrch8g6ei9tVpump": {
@@ -32428,7 +32400,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "Gkf9oFCqVH9HBpXgLxEwdtHy6Q7PSmGGNBo6MJVvLEpR": {
     "name": "Human Inu",
@@ -32441,7 +32415,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "9kp2SNP17fuiAFdP7aEnFNH5LnrVR8yy4outinyypump": {
     "name": "Celestial Duo",
@@ -32454,7 +32430,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "DyH8KCT99eURNXfFxwcx1L5sKMVbrRhuCPYBGeSsQuR6": {
     "name": "Ping Ping and Fu Shuang",
@@ -32608,6 +32586,32 @@
       "MOMENTUM": 100,
       "SAFETY": 60,
       "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "C2tJKxhrS9Mu7VvEbTsvyCX7HmovvhHzrex7aaHteowC": {
+    "name": "Ping Ping and Fu Shuang",
+    "symbol": "\u53cb\u8c0a\u4f7f\u8005",
+    "flagged_ts": 1790270860,
+    "liquidity_at_flag": 36481.85668300011,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 75,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "spwn3Mwjuig2wWfuG2LwzHPZTeZU3J3KtrPdkf11bpk": {
+    "name": "SPAWN",
+    "symbol": "SPAWN",
+    "flagged_ts": 1790270861,
+    "liquidity_at_flag": 10277.297562990614,
+    "breakdown": {
+      "MOMENTUM": 84,
+      "SAFETY": 90,
+      "LIQUIDITY": 51,
       "SMART MONEY": 0
     },
     "checkpoints_done": []
