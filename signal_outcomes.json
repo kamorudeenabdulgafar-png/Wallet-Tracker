@@ -1,15 +1,4 @@
 {
-  "J9YnSZgvVQ1wkv2dcKnySoi39amPVSEyRv4xgM67Boj8": {
-    "name": "musebook",
-    "symbol": "musebook",
-    "flagged_ts": 1789675538,
-    "liquidity_at_flag": 51514.6538699253,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
   "HqZBXqUT92Ch5HbZQ6bJH9ztR97tyG1HPCLcS2EofBvm": {
     "name": "Grokforum",
     "symbol": "GROKFORUM",
@@ -28134,7 +28123,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "HWrudsAcGvyviNnkvBzf7EenubFjNB3b7Xwkw2Hv92LA": {
@@ -32165,7 +32155,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "H4gcnpMsYR8mw53ZZLeVif7WYUfcLkM7aTbFtTr2rTbo": {
@@ -32715,6 +32706,19 @@
     "breakdown": {
       "MOMENTUM": 59,
       "SAFETY": 90,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "F8skPJiz8eLdDCsVfDh1Mnmx7W9dmMHJSEJApH8muMy6": {
+    "name": "Beenz",
+    "symbol": "BEENZ",
+    "flagged_ts": 1790280358,
+    "liquidity_at_flag": 44257.24272739708,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
