@@ -1,37 +1,4 @@
 {
-  "25JwcBZvEDdqhZMXXobr8UTUywgxfcfDeDy75X58d5SR": {
-    "name": "JupCat",
-    "symbol": "MEOW",
-    "flagged_ts": 1789687025,
-    "liquidity_at_flag": 28985.074248103472,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "4eqMvHKukNQuxB8xdVjNJCgMgkehkhKfFKuruhgdXPy2": {
-    "name": "real internet money",
-    "symbol": "RIM",
-    "flagged_ts": 1789687027,
-    "liquidity_at_flag": 44448.511443884694,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "8Zs9XUYBjHWsw6VMf4rWgSsY8RJLZWtYYSmPPMmkUydF": {
-    "name": "claudeai",
-    "symbol": "Claude",
-    "flagged_ts": 1789687030,
-    "liquidity_at_flag": 301336.68634977005,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
   "4z5tbinfpTQgan1tLGqz68QV9vy1enXozkr9ybjxfho8": {
     "name": "WANKCOIN",
     "symbol": "WKC",
@@ -28411,7 +28378,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "B6SoEnXH3GHdEzJoeBgpvBfVMNHrG4PheeMNxD4pump": {
@@ -32734,7 +32702,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "8fzziiswWWta8K3H8YWUzxdHUuN2yDC47fQz17Jspump": {
     "name": "Prism Foundation",
@@ -32747,7 +32717,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "sugEbczEKKMGdRidWFNRWXXGrByj4LSzejtfo8vndcC": {
     "name": "Xi The Pooh Xi",
@@ -32835,6 +32807,19 @@
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "Bg75GaeTN7uVqtUEsquh61hwENeaA8TD5K8HwX4Lfomo": {
+    "name": "FomoFantasy",
+    "symbol": "FomoFantasy",
+    "flagged_ts": 1790291943,
+    "liquidity_at_flag": 41781.51241233468,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 100,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
