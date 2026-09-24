@@ -1,26 +1,4 @@
 {
-  "96FAWt4BTyucuMdGsCeoTwkDri34SowjcB9Rotdiv2N1": {
-    "name": "THICC",
-    "symbol": "THICC",
-    "flagged_ts": 1789621922,
-    "liquidity_at_flag": 48080.17295327843,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "LMYJ6T1MxeojgW4imqKGcuMYraLhqsWV2uFG4MSVmX6": {
-    "name": "Nikita Boar",
-    "symbol": "BOAR",
-    "flagged_ts": 1789621924,
-    "liquidity_at_flag": 113640.17216239878,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
   "CYJqEaUrQ2TAhgkZzNpBM1f6tyuxoDLoikdGvfPmpump": {
     "name": "Orangie",
     "symbol": "Orangie",
@@ -27054,7 +27032,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "AAb3isNDDdb1LUz4F1gDFiUPjFb7t9ScWdnJ44ymSBuk": {
@@ -27070,7 +27049,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "9Y2jtz7hUGYfC8GurFfnnorFE9m4fygNb5e26SkTCMqb": {
@@ -31544,7 +31524,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "h8aUjirc7iT8Um9jj6Nr8pHSbCvL8EGwom7Ux5wM6Kg": {
     "name": "NPCs",
@@ -31557,7 +31539,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "HxVY1TU1JtbYzXs3R4Vf8mNUjHaQUXgtbPmnPXxKMSgz": {
     "name": "\u5e01\u5b89\u4e2d\u79cb",
@@ -31762,6 +31746,45 @@
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "G7dN9DLQNhRbqZ5eThVwX2UFJqJ2AjHz9HeVd6RoH8Qe": {
+    "name": "Super Intelligence",
+    "symbol": "SI",
+    "flagged_ts": 1790227376,
+    "liquidity_at_flag": 29946.562588788172,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "7igcEeb2JVdcguPrKZdD9kzv3W7n3t1G5EG9pQJKV9KP": {
+    "name": "Genius Processing Unit",
+    "symbol": "GPU",
+    "flagged_ts": 1790227377,
+    "liquidity_at_flag": 65877.76564920525,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "BDXQvxgpBLLfC5V4LfuWJg24Cwp3NM7Wk5SieemBF3nk": {
+    "name": "\u4eba\u751f\u597d\u7269",
+    "symbol": "\u4eba\u751f\u597d\u7269",
+    "flagged_ts": 1790227378,
+    "liquidity_at_flag": 32358.302555642127,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 100,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
