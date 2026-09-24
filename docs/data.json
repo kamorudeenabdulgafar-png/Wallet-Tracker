@@ -1,5 +1,5 @@
 {
-  "last_updated": 1790265402,
+  "last_updated": 1790266111,
   "wallets": [
     {
       "label": "Dev wallet 1",
@@ -68,7 +68,7 @@
         "cbbtcf3aa214zXHbiAZQwf4122FBYbraNdFqgw4iMij",
         "Xsa62P5mvPszXL1krVUnU5ar38bBSVcWAB6fmPCo5Zu"
       ],
-      "last_active": 1790262002,
+      "last_active": 1790266097,
       "positions": {},
       "realized_pnl_usd": 0.0
     }
@@ -88,13 +88,33 @@
     "up_count": 613,
     "total_change_pct": -155586.29928175083,
     "rug": 1369,
-    "doing_well": 11,
+    "doing_well": 12,
     "steady": 7,
     "fading": 13
   },
   "learning_insight": null,
   "settings": {},
   "recent_alerts": [
+    {
+      "ts": 1790266111,
+      "type": "outcome",
+      "message": "\ud83d\udd34 The Cheetah Fund (CTNT) is dropping fast \u2014 down 100%, may be rugging."
+    },
+    {
+      "ts": 1790266110,
+      "type": "outcome",
+      "message": "\ud83d\udfe2 Bluf (BLUF) did really well \u2014 liquidity up 64% after 24h!"
+    },
+    {
+      "ts": 1790266107,
+      "type": "scanner",
+      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\nClaude Ai (claude)\nOpportunity: 76/100\n\nMOMENTUM     100\nSAFETY       60\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$20,800, 10 min since pool creation\n\u2022 Up +135% in the last hour, ~$39,202 in 24h volume (1.9x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 80% of supply (very concentrated)\n\nCA: H4gcnpMsYR8mw53ZZLeVif7WYUfcLkM7aTbFtTr2rTbo\nhttps://dexscreener.com/solana/H4gcnpMsYR8mw53ZZLeVif7WYUfcLkM7aTbFtTr2rTbo\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
+    },
+    {
+      "ts": 1790266098,
+      "type": "wallet",
+      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: SPYx -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/bNPFJeVJo7Q9nPgLHJRqj4bTkZFnDf6CDQxs9LqEAdqGc6nBCcRX1tjdNjKLeHSDm6q1kN9Xi5LBvdn3vhFQFQe"
+    },
     {
       "ts": 1790265402,
       "type": "outcome",
@@ -324,26 +344,6 @@
       "ts": 1790261374,
       "type": "outcome",
       "message": "\ud83d\udd34 Pactolon (PAC) is dropping fast \u2014 down 94%, may be rugging."
-    },
-    {
-      "ts": 1790261373,
-      "type": "outcome",
-      "message": "\ud83d\udd34 Zcash Burrito (BURRITO) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
-    },
-    {
-      "ts": 1790261372,
-      "type": "outcome",
-      "message": "\ud83d\udd34 PENISCOIN (PENIS) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
-    },
-    {
-      "ts": 1790261371,
-      "type": "outcome",
-      "message": "\ud83d\udd34 GOWF (GOWF) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
-    },
-    {
-      "ts": 1790261371,
-      "type": "outcome",
-      "message": "\ud83d\udd34 PUPPET (PUPPET) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
     }
   ]
 }

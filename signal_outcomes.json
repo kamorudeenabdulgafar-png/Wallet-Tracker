@@ -1,37 +1,4 @@
 {
-  "DpWyEY3sJzaG977umeoDCqkTmbWdgncRhbLJ1rqdKyUJ": {
-    "name": "ONCHAIN",
-    "symbol": "ONCHAIN",
-    "flagged_ts": 1789661147,
-    "liquidity_at_flag": 23023.33757537442,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "7NsHnRBS95CgS2z4Ki4WPJGfPiYe1uBscAWeNDWCpump": {
-    "name": "Small Inu",
-    "symbol": "smallinu",
-    "flagged_ts": 1789661152,
-    "liquidity_at_flag": 28977.33875716218,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "58MhdYud8MZK9RV1dk8C2M1zdgRyzXgCfe1Frfbfxmw7": {
-    "name": "Ladder",
-    "symbol": "LADDER",
-    "flagged_ts": 1789661152,
-    "liquidity_at_flag": 58218.21665591858,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
   "HHAYnxnfrR3wra2HtHKy6fxXkhD8RSEipXT1mW8vpump": {
     "name": "Gifts",
     "symbol": "GIFTS",
@@ -27889,7 +27856,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "4P4XggCiY9VdnZm5ia2moo7aU7YhcNWURiRhoh63bod5": {
@@ -32414,7 +32382,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "SWynQ2kirgwxNoTR1gZLspJTTU1ctajt4MD84A5jsFb": {
     "name": "\u548c\u5e73\u718a\u732b",
@@ -32488,6 +32458,19 @@
     "liquidity_at_flag": 43105.48103864472,
     "breakdown": {
       "MOMENTUM": 91,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "H4gcnpMsYR8mw53ZZLeVif7WYUfcLkM7aTbFtTr2rTbo": {
+    "name": "Claude Ai",
+    "symbol": "claude",
+    "flagged_ts": 1790266107,
+    "liquidity_at_flag": 20800.191456869015,
+    "breakdown": {
+      "MOMENTUM": 100,
       "SAFETY": 60,
       "LIQUIDITY": 100,
       "SMART MONEY": 0

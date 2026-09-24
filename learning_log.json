@@ -1,18 +1,5 @@
 [
   {
-    "name": "Karate Cat",
-    "symbol": "KCAT",
-    "category": "rug",
-    "change_pct": -100.0,
-    "breakdown": {
-      "MOMENTUM": 100,
-      "SAFETY": 60,
-      "LIQUIDITY": 100,
-      "SMART MONEY": 0
-    },
-    "ts": 1790160559
-  },
-  {
     "name": "Talking Memo",
     "symbol": "Memo",
     "category": "rug",
@@ -3898,5 +3885,18 @@
       "SMART MONEY": 0
     },
     "ts": 1790265396
+  },
+  {
+    "name": "Bluf",
+    "symbol": "BLUF",
+    "category": "doing_well",
+    "change_pct": 64.0,
+    "breakdown": {
+      "MOMENTUM": 57,
+      "SAFETY": 100,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "ts": 1790266110
   }
 ]
