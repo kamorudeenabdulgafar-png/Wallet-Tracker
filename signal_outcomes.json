@@ -1,59 +1,4 @@
 {
-  "E8mALE1zhRFgpWsaRaenQMnasUaLrAVJKynEiRQVZvuN": {
-    "name": "Leopardus Tilcayo",
-    "symbol": "TIGRINO",
-    "flagged_ts": 1789774183,
-    "liquidity_at_flag": 33612.03572282228,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "88af3ZpeEYVYt1YSysWL5fayy3FtgWhXYHmAhT4qUy7W": {
-    "name": "Optimus Prime",
-    "symbol": "Prime",
-    "flagged_ts": 1789774184,
-    "liquidity_at_flag": 34067.594074563036,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "yWp5jYJevDi1bWAZxq1aKaDFpMytHZaN7hVJXAypump": {
-    "name": "Paid Chips",
-    "symbol": "PAIDCHIPS",
-    "flagged_ts": 1789774185,
-    "liquidity_at_flag": 26422.679633929474,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "RbUE5mVB2HjDuyVEquhSjjZkrGg68d1vcswfpcK1LJr": {
-    "name": "Feels Good Man",
-    "symbol": "FEELSGOOD",
-    "flagged_ts": 1789774767,
-    "liquidity_at_flag": 206348.7673006531,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "9WdDrJ6Q94bKMgyWMkQyKSpSn6k1GcrnZFJijDZh9uoH": {
-    "name": "Catecoin",
-    "symbol": "CATE",
-    "flagged_ts": 1789774768,
-    "liquidity_at_flag": 16302.626672527142,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
   "Px7zV5J94atQn6VXKhsNig6kkhHboj9YUfmt372ynCL": {
     "name": "Feels Good Man",
     "symbol": "FEELSGOOD",
@@ -29608,7 +29553,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "36FbaZEe2P1dA82QQw6psmLKvTRGfRzrbAEKMmeg7rdR": {
@@ -33511,7 +33457,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "BhAZuBvzvEGxk2jfaQVw92LGQJg836u3fxEUxCuSpump": {
@@ -34230,7 +34177,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "6CkL28M95m7sC7Th5M3UxrpDFzfaDVxRzsGfFEBh6ZXb": {
     "name": "Effective Accelerationism",
@@ -34243,7 +34192,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "6x1op3TpFm29AYBwk3HVXZSuXST3EZ3H8ogCyLpwWNah": {
     "name": "Effective Accelerationism",
@@ -34256,7 +34207,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "D9SbNccYYUvyVPF63aD6AQwp49RXkiXVVgbMnfmEKRkG": {
     "name": "Phantom Cat",
@@ -34369,6 +34322,32 @@
     "liquidity_at_flag": 44500.78310421115,
     "breakdown": {
       "MOMENTUM": 88,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "DVbyFeAZCaLjg1SrjyF4M6nPj1B3MvVH4Ue8Gmwbpump": {
+    "name": "MuseXT",
+    "symbol": "MuseXT",
+    "flagged_ts": 1790379620,
+    "liquidity_at_flag": 43692.930015021135,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 100,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "2HYTBu2YCLf7PK4GXNqsWn4NTtURKND9otxuy8qGrev3": {
+    "name": "51\u5403\u74dc\u7f51\u5b98\u65b9\u9996\u53d1Meme",
+    "symbol": "51X",
+    "flagged_ts": 1790379620,
+    "liquidity_at_flag": 36292.41452171761,
+    "breakdown": {
+      "MOMENTUM": 100,
       "SAFETY": 60,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
