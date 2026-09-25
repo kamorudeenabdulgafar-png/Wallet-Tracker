@@ -1,26 +1,4 @@
 {
-  "HQQgg3RmQTsmXAitLE1SNE29poHGiQ1bbpdEn9FEpump": {
-    "name": "Goblin Bags",
-    "symbol": "GBAGS",
-    "flagged_ts": 1789723424,
-    "liquidity_at_flag": 27098.851969502553,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "FfnrjpS4oKVcRTEx5vTQwenefFN2699bmKaaoA4bpump": {
-    "name": "Maya The Samoyed",
-    "symbol": "MAYA",
-    "flagged_ts": 1789723425,
-    "liquidity_at_flag": 32656.442319363123,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
   "D8GZ5sEMiqKTVXHntAr1cvqr7ts3JmK8PHvFvSeYpump": {
     "name": "unstable argus",
     "symbol": "unstargus",
@@ -32542,7 +32520,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "A9fYf723a7U4NEyTtt4zAwFqr8PqtsFKM6FfjD3ERC46": {
@@ -32557,7 +32536,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "7GWq7MNuRWasxDAUUmKwtVanQAV8jhAVSBfdEAhk7fvR": {
@@ -32572,7 +32552,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "82UYHzhtZFGn5eSfT9ncydboomXTS8XA4oVvN66eL8rK": {
@@ -32587,7 +32568,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "EkZbhrdfxJ3QjNtAWrtuoepz5etGodpxXWYSm45n9uMs": {
@@ -32602,7 +32584,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "6sEf597zqUxoJeW1znjtx8MUPsXFFF7zjjH2KSG8zF9y": {
@@ -33081,7 +33064,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "2gvkyBiQori6hu5TsqYFnSAe7YoRhEewdgrA4E7Vs9NH": {
     "name": "Clocked Out",
@@ -33094,7 +33079,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "7un4q77jc3QoTpaxRVCYmBT1Pb1awQb1JYbXd9kUQDcJ": {
     "name": "Clocked Out",
@@ -33107,7 +33094,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "Ap7u8gVb8kK1zNwGdiG6WkFEKwaWVWGR23rDpHCxJJ3G": {
     "name": "The Smol Pudu",
@@ -33283,6 +33272,84 @@
     "symbol": "claude",
     "flagged_ts": 1790327456,
     "liquidity_at_flag": 31542.606964273735,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "8Xm4qW2F9QtygSnMigaz8qJww3eRLq8hsrpafvqfcezv": {
+    "name": "Shillpad",
+    "symbol": "Shillpad",
+    "flagged_ts": 1790328613,
+    "liquidity_at_flag": 38598.712373972,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "7gLhSoVzXxq6xuYD2CbTksDhWFTxbQdrYhEoqydrbh9E": {
+    "name": "\u5e01\u5b89\u4e2d\u79cb",
+    "symbol": "\u5e01\u5b89\u4e2d\u79cb",
+    "flagged_ts": 1790328614,
+    "liquidity_at_flag": 34063.98709635559,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "2jduEBzoBu7A6xLySWkbQe4GE2mgAejRoEEQok2dVrCv": {
+    "name": "Swarmed",
+    "symbol": "SWARM",
+    "flagged_ts": 1790328615,
+    "liquidity_at_flag": 26504.909425284055,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "CsypoDbUc2a2DxjFsSgzX8nrRfndJCRbfUE6t7Kj9SHn": {
+    "name": "8080.life",
+    "symbol": "8080",
+    "flagged_ts": 1790328616,
+    "liquidity_at_flag": 20999.762028852747,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 90,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "ECiaFcbCL5jQSd2LmJd1foHCpefmXGuci7CbagU4QXpT": {
+    "name": "51\u5403\u74dc\u7f51\u5b98\u65b9\u9996\u53d1Meme",
+    "symbol": "51X",
+    "flagged_ts": 1790328617,
+    "liquidity_at_flag": 35519.93625740758,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "3qb2PdKgYwjtQUDFyikgk1vgWm8GSyniJrkELq5CMsAt": {
+    "name": "penguin wif backpack",
+    "symbol": "TAOTAO",
+    "flagged_ts": 1790328618,
+    "liquidity_at_flag": 34350.91102573355,
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 60,
