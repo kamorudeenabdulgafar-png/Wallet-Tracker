@@ -1,5 +1,5 @@
 {
-  "last_updated": 1790311464,
+  "last_updated": 1790312151,
   "wallets": [
     {
       "label": "Dev wallet 1",
@@ -9,7 +9,7 @@
   "wallet_stats": {
     "5CEbueQnq1Ym2uSSx2xXds3jQAqT1BDnkA59RZobSPAG": {
       "label": "Dev wallet 1",
-      "buy_count": 330,
+      "buy_count": 332,
       "sell_count": 198,
       "total_buy_usd": 15628.984658586525,
       "total_sell_usd": 0.0,
@@ -68,7 +68,7 @@
         "cbbtcf3aa214zXHbiAZQwf4122FBYbraNdFqgw4iMij",
         "Xsa62P5mvPszXL1krVUnU5ar38bBSVcWAB6fmPCo5Zu"
       ],
-      "last_active": 1790310585,
+      "last_active": 1790312146,
       "positions": {},
       "realized_pnl_usd": 0.0
     }
@@ -95,6 +95,21 @@
   "learning_insight": "Coins that rugged averaged SAFETY 69; coins that did well averaged SAFETY 94.",
   "settings": {},
   "recent_alerts": [
+    {
+      "ts": 1790312146,
+      "type": "wallet",
+      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: xHYPE -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/42JTEHNEJGbWc2JK6K6ArRCCf1kw61kG413HUYKaoZomQmZhY17mHgZuKMCUpCmpXwCP7LSECXmxD7K5xj5ycqNE"
+    },
+    {
+      "ts": 1790312146,
+      "type": "wallet",
+      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: USDC -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/38eurFzY3suD675fo5VqQz1M9HT2C5mjMnviwHNXX1Hbfp3tCVxurFCXqHKjAX6z5ahHn8Ex6PsCRnwfKwK4Ue3z"
+    },
+    {
+      "ts": 1790312145,
+      "type": "wallet",
+      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: USDC -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/58dojbb2ySi41kbWKzEX47nZRY5wpPrUroTHujizABdoLYhyWH2A4ZX555GhXjxogcXvefNyMSCrz9YGcxesWP57"
+    },
     {
       "ts": 1790311464,
       "type": "outcome",
@@ -329,21 +344,6 @@
       "ts": 1790308660,
       "type": "scanner",
       "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\nAgrippa (Agrippa)\nOpportunity: 76/100\n\nMOMENTUM     100\nSAFETY       60\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$30,895, 8 min since pool creation\n\u2022 Up +96% in the last hour, ~$59,492 in 24h volume (1.9x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 78% of supply (very concentrated)\n\nCA: FxCM5DHuokQUrpBNYfb5wCAcukWvN68G7LP34EBjJMQ2\nhttps://dexscreener.com/solana/FxCM5DHuokQUrpBNYfb5wCAcukWvN68G7LP34EBjJMQ2\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
-    },
-    {
-      "ts": 1790308132,
-      "type": "outcome",
-      "message": "\ud83d\udd34 Wumpus (Wumpus) is dropping fast \u2014 down 61%, may be rugging."
-    },
-    {
-      "ts": 1790308131,
-      "type": "outcome",
-      "message": "\ud83d\udd34 SpaceBunny (SpaceBunny) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
-    },
-    {
-      "ts": 1790308129,
-      "type": "outcome",
-      "message": "\ud83d\udd34 \u7389\u5154 (\u7389\u5154) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
     }
   ]
 }
