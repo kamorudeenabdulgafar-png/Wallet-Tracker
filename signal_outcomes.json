@@ -1,37 +1,4 @@
 {
-  "G947QjTa7Vc27aZXER55BDzVSNKQmMfwYdYa6o5Tpump": {
-    "name": "Mochi",
-    "symbol": "Mochi",
-    "flagged_ts": 1789757734,
-    "liquidity_at_flag": 11908.65647845012,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "2nunUL625drmh3W1eS4r9mxiHCzxhWpG9PURq4FmbfHH": {
-    "name": "Board",
-    "symbol": "BOARD",
-    "flagged_ts": 1789757735,
-    "liquidity_at_flag": 26270.97452588645,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "88QnRc3UGq26hYJFeDnc8RcHJW5AhBjgKeKa3RPepump": {
-    "name": "NASCAT",
-    "symbol": "NASCAT",
-    "flagged_ts": 1789757737,
-    "liquidity_at_flag": 31709.478663447953,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
   "C95xzXeN2kK9iYSbwHH65oA3VwAne8gJgGMfxF4kUs5r": {
     "name": "Github Cat",
     "symbol": "GITCAT",
@@ -33277,7 +33244,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "5DYfe78yu86T2ZbuG3Xy4TRYewuJ85mAr13aA7DS13qo": {
@@ -33292,7 +33260,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "ACrPTFpLFztpUVv9XqMtT1B3XGzegmgAebvFpAPS5Zoe": {
@@ -33906,7 +33875,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "9N9tAT19ncQvxtjpQNevrGP3zmWRNrAZZtonTygMpump": {
     "name": "Etch",
@@ -34046,6 +34017,19 @@
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 75,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "BcrQYbuzuA9xJaZVCeJce5jNwhPuRHhpt7LEx3DpitEH": {
+    "name": "america.gov",
+    "symbol": "AMERICA",
+    "flagged_ts": 1790363094,
+    "liquidity_at_flag": 34042.63507798264,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
