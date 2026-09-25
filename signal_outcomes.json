@@ -1,48 +1,4 @@
 {
-  "C95xzXeN2kK9iYSbwHH65oA3VwAne8gJgGMfxF4kUs5r": {
-    "name": "Github Cat",
-    "symbol": "GITCAT",
-    "flagged_ts": 1789758374,
-    "liquidity_at_flag": 27917.841483852953,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "CzwfdC5GAUFvTP39e5vsCtmEDUDicNn7KuNBREL2fRAp": {
-    "name": "Board",
-    "symbol": "BOARD",
-    "flagged_ts": 1789758375,
-    "liquidity_at_flag": 64455.78942362129,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "9qCvrV5NWVmnEoSCMprjx5SbfgRP1nuXM9NKcQaCpump": {
-    "name": "19stocks",
-    "symbol": "19STOCKS",
-    "flagged_ts": 1789758376,
-    "liquidity_at_flag": 50417.3463544518,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "AaQthUGX3QZ4WfL418jTFGi538UEgrwrbNTC5YpQmLzC": {
-    "name": "Ha Husky",
-    "symbol": "\ud83d\udcb2Ha Husky",
-    "flagged_ts": 1789758377,
-    "liquidity_at_flag": 37028.46788270269,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
   "MQtt2L1cM22mC9Q3T1cUgQeZavRsScFcgEw4bFf347i": {
     "name": "Pumpdog",
     "symbol": "PDOG",
@@ -33276,7 +33232,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "F96D5HUupUF5Gn6vb6PiKh8z6fDukV7SySSVHRW9B1Qa": {
@@ -33291,7 +33248,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "7nsjHyLLzY5w3Sn2Z3eTfQLS7BQoDB7z2bu3WjdbjTNc": {
@@ -33306,7 +33264,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "8GTbcDBUb2q8BGvWcCd4bfkKVEUDDcLLQM8txYCQu8tG": {
@@ -33321,7 +33280,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "DyFbBtNfCXs2rLvopxGTj4VyyRyfDcNYJ6Cef6tN316c": {
@@ -33890,7 +33850,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "3vfotUQ2yQeYqwtzR4GNuRbDLDN8vPLe4KNzV2pNpTfX": {
     "name": "Blueprint",
@@ -33903,7 +33865,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "ErLRZgvirvJB1KABcKgEJ67WYevTA2jVp1kJnU4VqqUK": {
     "name": "HackGPT",
@@ -33916,7 +33880,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "GS2peW9ZrVnwZoPtYCo3PigSxdXLkGXJRtkkcNEjVAUj": {
     "name": "YASHMODE",
@@ -33929,7 +33895,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "5zqieXNJj9fcqiuy4JTYfTQkSFwxdJ39JXhh1JPY6YPB": {
     "name": "Aerodrome Finance",
@@ -33942,7 +33910,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "NYX9pX5t8ibpWWJZkpVKgpqsFAEnJnmgNnQSqvz5AJF": {
     "name": "Blueprint",
@@ -34029,6 +33999,32 @@
     "liquidity_at_flag": 34042.63507798264,
     "breakdown": {
       "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "LnxKmGehVJKRbviSwEjVRpvwSfsaNfsdAN2okPayi5D": {
+    "name": "america.gov",
+    "symbol": "AMERICA",
+    "flagged_ts": 1790363925,
+    "liquidity_at_flag": 36437.11172055445,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "HSTpSMBiSsPBpAnjhD7so4Hpmv687SsZcsjJsNZBHCVK": {
+    "name": "Bitget Relief Fund",
+    "symbol": "BRF",
+    "flagged_ts": 1790363926,
+    "liquidity_at_flag": 27438.95175356994,
+    "breakdown": {
+      "MOMENTUM": 84,
       "SAFETY": 60,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
