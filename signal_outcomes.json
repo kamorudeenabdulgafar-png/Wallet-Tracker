@@ -1,37 +1,4 @@
 {
-  "CVQVACSxXQg7niKgVhwHBTZbBKt8XwcT7RTgL4aYpump": {
-    "name": "ZMINE",
-    "symbol": "ZMINE",
-    "flagged_ts": 1789747536,
-    "liquidity_at_flag": 20151.644078791032,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "5Gr4uEUduhouzSN6Gfbd5PmxsdW4uZooPPwx9mhRJxkH": {
-    "name": "Lucky Dog Holding",
-    "symbol": "LUCKydog",
-    "flagged_ts": 1789747537,
-    "liquidity_at_flag": 24661.708664869584,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "HLyiqBeLThwLBPs3myjnJvhAuM9utpHWSrPubHaqia4d": {
-    "name": "Lucky Dog Holding",
-    "symbol": "LUCKYDOG",
-    "flagged_ts": 1789747538,
-    "liquidity_at_flag": 37280.536277069215,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
   "CZt4gx4QUpccTdrEr2SboQdwQtjQjvZhortrFAbMYWuD": {
     "name": "brrr",
     "symbol": "brrr",
@@ -29635,7 +29602,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "H4gcnpMsYR8mw53ZZLeVif7WYUfcLkM7aTbFtTr2rTbo": {
@@ -33090,7 +33058,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "4LNqfbBG4JkATj3RbyH47Xty8MWqNchdC1kKH36PTf5P": {
@@ -33105,7 +33074,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "5aRKEy1yVBXFpgKrXcN16DDuNUAMviPX8EeoYXFkcgY1": {
@@ -33120,7 +33090,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "Fc3mEZq3SjR8QGfJu9bbVJBbJKnRejLiGyt2QtQ86x8V": {
@@ -33135,7 +33106,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "2t5mvibJVt86VE3q1km3u3oP4RVbyguvy69e8M9gpump": {
@@ -33150,7 +33122,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "8URwaBpSHoxVntZvw4ShDX5wxG2XLxPmm8LaX9XkTcbx": {
@@ -33659,7 +33632,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "5DYfe78yu86T2ZbuG3Xy4TRYewuJ85mAr13aA7DS13qo": {
     "name": "Return To Memes",
@@ -33672,7 +33647,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "ACrPTFpLFztpUVv9XqMtT1B3XGzegmgAebvFpAPS5Zoe": {
     "name": "urmomcoin",
@@ -33848,6 +33825,58 @@
     "symbol": "Mooncake",
     "flagged_ts": 1790351665,
     "liquidity_at_flag": 34065.02801539272,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "2kWYDMNdYmnMxi8pwsvX845F82AYrxnHE7zqT6P8egbB": {
+    "name": "Ronald Sakoosky",
+    "symbol": "Sakoos",
+    "flagged_ts": 1790352346,
+    "liquidity_at_flag": 25756.841094212206,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "8UX98HG8J9eHJ28UJwhMQhrCvEuuaW6pDTeW5W4Qetpc": {
+    "name": "urmomcoin",
+    "symbol": "urmom",
+    "flagged_ts": 1790352346,
+    "liquidity_at_flag": 52098.26229188994,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "139WGR9ah9Nfd3iDCaD2QiTjeC4TeUy3BuswM3ehpump": {
+    "name": "PepeBot",
+    "symbol": "PEPEBOT",
+    "flagged_ts": 1790352347,
+    "liquidity_at_flag": 37672.820280250395,
+    "breakdown": {
+      "MOMENTUM": 62,
+      "SAFETY": 100,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "NEe4U78kydHLfsyKZ7ramYapU1gatngqcvytSzMp2Cx": {
+    "name": "Gstock",
+    "symbol": "GSTOCK",
+    "flagged_ts": 1790352348,
+    "liquidity_at_flag": 217194.413844124,
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 60,
