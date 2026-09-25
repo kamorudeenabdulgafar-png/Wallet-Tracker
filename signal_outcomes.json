@@ -29531,7 +29531,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "DA5tD9pG6g9GbGkaSPwwcvdsTo941tUrpHTYKfyv2VCW": {
@@ -33370,7 +33371,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "9N9tAT19ncQvxtjpQNevrGP3zmWRNrAZZtonTygMpump": {
@@ -33924,7 +33926,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "DFx7Rww2Njg4P4Bv3SUHaN5pkFbB4zR23nGthjSBpump": {
     "name": "PAPOI",
@@ -34126,6 +34130,32 @@
     "symbol": "e/acc",
     "flagged_ts": 1790372890,
     "liquidity_at_flag": 28521.565843239718,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "13vVSQALeSk5MLuFsGfg1ywDMsFjU1nYHYS6ZWYL7bsN": {
+    "name": "Effective Accelerationism",
+    "symbol": "e/acc",
+    "flagged_ts": 1790373402,
+    "liquidity_at_flag": 103149.7340352234,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "7UQ8FKbJ3f2HQ9i8uD2vjoVM54ZnhgrxJcm8ZXa1ZzWv": {
+    "name": "Just a ghost guy",
+    "symbol": "GHOSTGUY",
+    "flagged_ts": 1790373404,
+    "liquidity_at_flag": 32259.020093800005,
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 60,
