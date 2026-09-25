@@ -1,48 +1,4 @@
 {
-  "76K5Ct2r2nBTeW8czr3uox3X9aQx133VvPZD7z5TDTjX": {
-    "name": "Hedgehog",
-    "symbol": "HEDGE",
-    "flagged_ts": 1789740394,
-    "liquidity_at_flag": 28157.243463902436,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "7KMNPoBDdXiwsttyV7W9SsBUWR2RFm74gugmR4JfdqYD": {
-    "name": "AI Google Coi",
-    "symbol": "Google AI",
-    "flagged_ts": 1789740396,
-    "liquidity_at_flag": 66612.30031591331,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "4dZENDXq4BbKwgk8No3QchUGfanXku1ZpGjVaQsa9i3d": {
-    "name": "nlightenment",
-    "symbol": "Tesla",
-    "flagged_ts": 1789740397,
-    "liquidity_at_flag": 40506.35636242379,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "AVToNi32taxYrBVsErH4RvNFQsX5VKgw1esTtWcwxP4n": {
-    "name": "Paid",
-    "symbol": "PAID",
-    "flagged_ts": 1789740398,
-    "liquidity_at_flag": 163422.58215389922,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
   "5VWKjf4UeiEvQLmkgwV5HApYP3ispyse4QxMYK6K4nHs": {
     "name": "Pump",
     "symbol": "Pump",
@@ -29572,7 +29528,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "2yyjWMjN56ZbTRznfbFh7SkgjZNs2wDCr745zHt8rvCR": {
@@ -29588,7 +29545,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "8DfGtYASuK64E38k5AuEheKzbKJ765Cuz21G5uWH9YHX": {
@@ -32915,7 +32873,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "8tZZyp1TF6nrhTDXxrGEsX95jNywSCwcUReEnZh5g5SD": {
@@ -32930,7 +32889,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "DLnCRd7Crc59WGifkzYWGKiKGZAASwuKACETGbrsHnV": {
@@ -32945,7 +32905,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "RpcRKxmTmdR8bF6F8XWMaVaCRZbtvwd2zJecMssiwYA": {
@@ -32960,7 +32921,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "3hWpZf2er2qr55qB26Jh5F3vGUn1H5ioXgPrtSRUpump": {
@@ -33454,7 +33416,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "3uQYun8gwBZWr9iqWcehRZygpFXReGpRTWh9QVkaKyLo": {
     "name": "Backpack Cat",
@@ -33467,7 +33431,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "9w1SZfxDVTQ5FbC2xPpdHXrENZPV8Ve9FjKvCUoKea7u": {
     "name": "Backpack Cat",
@@ -33480,7 +33446,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "3C4izUmGYWv8fqDxz35T3oVHbAxwdsfsv92cbXCJpump": {
     "name": "We are one",
@@ -33578,6 +33546,32 @@
     "symbol": "\ud83c\udf89\u9616\u5bb6\u6b22\u4e50",
     "flagged_ts": 1790344692,
     "liquidity_at_flag": 59650.13480246496,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "dHK7wjroEPNfyCpezMowfB7Jf68eE4ADbJAsjhkpump": {
+    "name": "Trump Cat",
+    "symbol": "TRUMPCAT",
+    "flagged_ts": 1790345534,
+    "liquidity_at_flag": 32574.012648853342,
+    "breakdown": {
+      "MOMENTUM": 48,
+      "SAFETY": 100,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "zw1A6W16bCijJigUMqKh6BXonPsvxRw3z3LxoNS48Yx": {
+    "name": "\u30d4\u30ba\u30ea\u30fc",
+    "symbol": "Pizzly",
+    "flagged_ts": 1790345536,
+    "liquidity_at_flag": 33016.89395176983,
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 60,
