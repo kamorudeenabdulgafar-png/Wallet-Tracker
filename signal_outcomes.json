@@ -1,26 +1,4 @@
 {
-  "GZ4s4rwLwb6qjwJVEFMtJBLDDhadz6Reery9boXsYSGP": {
-    "name": "Coby The Cat",
-    "symbol": "Coby",
-    "flagged_ts": 1789728882,
-    "liquidity_at_flag": 27859.048004728826,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "2PHj8aGThPd546tE4xQYeXdbWMHu4dExfM5dVVbzpump": {
-    "name": "Tokenz",
-    "symbol": "TOKENZ",
-    "flagged_ts": 1789728884,
-    "liquidity_at_flag": 23006.441747111574,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
   "aVBHrxhGJc1oFc1SHU6mqbxkwV4XNn8yE1MdMBtpump": {
     "name": "PAIN",
     "symbol": "PAIN",
@@ -29511,7 +29489,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "2jcvjkRxupsYgSEXbdYdjcT2VL1u6R9t4yBSPfgFUkGT": {
@@ -32710,7 +32689,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "DMhjq6DTRNiiXnsN8URTtg33UW4vswL5BdExoY6Hpump": {
@@ -32725,7 +32705,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "3jFetZX1pE6AN5YFy5ab41Cux8XwtQJpYF4NVGoZcbUq": {
@@ -33294,7 +33275,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "B5s2qXhJKkHaQ3izSwxuogj43mPwxA7EUGMhwiUxYcW8": {
     "name": "51\u5403\u74dc\u7f51\u5b98\u65b9\u9996\u53d1Meme",
@@ -33307,7 +33290,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "Gio6egLnmU4tRRB46XxjN6nhFWu4NoXsf4UQnRyGmj8n": {
     "name": "Swarmed",
@@ -33320,7 +33305,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "EnQeYVztWuxdQcqGeNZbTd5rYdVcrCQxVS1mh7ktW1WJ": {
     "name": "\u4e2d\u79cb\u7389\u5154",
@@ -33333,7 +33320,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "9Fh5fE9W6NzyiX8s5f3He2c8TzSbWUE9ucdMXuyGyY2g": {
     "name": "ForeverOnlineMissingOut",
@@ -33472,6 +33461,58 @@
     "liquidity_at_flag": 31684.14573060622,
     "breakdown": {
       "MOMENTUM": 91,
+      "SAFETY": 90,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "3ejomgbHDEZ6pobynzabdpwT11pg47ZZV5MLYGtee2dE": {
+    "name": "The White Hat",
+    "symbol": "0xquit",
+    "flagged_ts": 1790333872,
+    "liquidity_at_flag": 28811.766175504035,
+    "breakdown": {
+      "MOMENTUM": 96,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "22Z9VYAuV7G56v9DtJw6hMCPftgVM4embC5izsiYU5qf": {
+    "name": "51\u5403\u74dc\u7f51\u5b98\u65b9\u9996\u53d1Meme",
+    "symbol": "51X",
+    "flagged_ts": 1790333873,
+    "liquidity_at_flag": 34166.67086649702,
+    "breakdown": {
+      "MOMENTUM": 96,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "9hxUGCHeu4ed8cXntoHt5d1FqN26vgZ7NretMT9Jjq5": {
+    "name": "\u5bcc\u8d35",
+    "symbol": "\u5bcc\u8d35",
+    "flagged_ts": 1790333875,
+    "liquidity_at_flag": 203667.94645046946,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "J141JCiXKGcrhDCgWUTCL9qz7h943iCibNiLNfqZpump": {
+    "name": "The White Hat",
+    "symbol": "0xquit",
+    "flagged_ts": 1790333876,
+    "liquidity_at_flag": 21036.441428526352,
+    "breakdown": {
+      "MOMENTUM": 53,
       "SAFETY": 90,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
