@@ -1,26 +1,4 @@
 {
-  "8TZeE6sud8NUWmRYtRAotgTii5bXMb9Bog7wpHcfpump": {
-    "name": "The Reply Coin",
-    "symbol": "REPLY",
-    "flagged_ts": 1789767801,
-    "liquidity_at_flag": 22773.881943885786,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "Ea9TZ2XC7AkgfKrFV5MnTKig5YWJoZH7xt4d4BnYpump": {
-    "name": "Crossr",
-    "symbol": "CROSSR",
-    "flagged_ts": 1789767802,
-    "liquidity_at_flag": 51421.09922096455,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
   "5wJER1FReQLS4tPF7f991F1zjHYkc5T2mLd23Yz8pump": {
     "name": "Farming Sim",
     "symbol": "FARSIM",
@@ -29519,7 +29497,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "8AK9hV4NF2omQojZsV7Pry4iCFWmQarp2iR8NyUTpump": {
@@ -29535,7 +29514,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "6FDw6jns8g7czuRucp5993RBNRPvqtMfv5Jv3hjnpump": {
@@ -33358,7 +33338,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "CKKqMDJnBexD1N1BCi8L4wvVjw6Zk7YVjWB2KDkC3fvm": {
@@ -33373,7 +33354,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "FeSBGcJtBG2pajkXkauxmGq3b6mfE5PfiNsb3HDMpump": {
@@ -33912,7 +33894,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "JDNxXt6Egcmqhhg22UUbYZhLFGwirV5fDxHcxYhmZNvK": {
     "name": "51\u5403\u74dc\u7f51\u5b98\u65b9\u9996\u53d1Meme",
@@ -33925,7 +33909,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "D7UUAfqiqyW84HXVGnMRLJy5bdihkQcN4LCL5hDb58SK": {
     "name": "BREW",
@@ -34090,6 +34076,58 @@
     "liquidity_at_flag": 57937.841382249346,
     "breakdown": {
       "MOMENTUM": 87,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "3m7Bhp7GUtBpcDvbpvCaE5SMWzF7CrUmM2Kz8esAXZcU": {
+    "name": "Effective Accelerationism",
+    "symbol": "e/acc",
+    "flagged_ts": 1790372887,
+    "liquidity_at_flag": 43333.36284505539,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "26JCsJvgj7Yp59cgLzP5p4194S18JgfYN6k5KYTypump": {
+    "name": "The Agents",
+    "symbol": "Agents",
+    "flagged_ts": 1790372888,
+    "liquidity_at_flag": 26428.773663558168,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 90,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "4z74i8Jo5zTWkFyyrx5zuusLasgKu6JtREVKgKVSpump": {
+    "name": "Jean Phil Trump",
+    "symbol": "JEANTRUMP",
+    "flagged_ts": 1790372889,
+    "liquidity_at_flag": 24736.882583181417,
+    "breakdown": {
+      "MOMENTUM": 87,
+      "SAFETY": 90,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "DseCuJgAmSs61BKr2mD6sn9TPwam4gBGxVuE6b7CD8v2": {
+    "name": "Effective Accelerationism",
+    "symbol": "e/acc",
+    "flagged_ts": 1790372890,
+    "liquidity_at_flag": 28521.565843239718,
+    "breakdown": {
+      "MOMENTUM": 100,
       "SAFETY": 60,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
