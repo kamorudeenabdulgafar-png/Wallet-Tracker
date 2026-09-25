@@ -32459,7 +32459,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "5RTkLTMY99f57riCGzkVXoyD69Z1uXPzwVR1zd3xG2bT": {
@@ -32474,7 +32475,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "89pbF33GWWvAsjuRR6Zm7URm4QBPBcVHRqcGQHszBgcv": {
@@ -32773,7 +32775,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "4tKvrN5mhanCowMKcNmiM2pYADVX9uN6JQW2HruCpump": {
     "name": "1 Sol And A Dream",
@@ -32786,7 +32790,9 @@
       "LIQUIDITY": 53,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "5iqjhP5ig6JWdXQf6hYAwojZeMf11pTCvH87gCQtpump": {
     "name": "TrendTrader Pro",
@@ -32861,6 +32867,45 @@
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 100,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "5KLnbKmYJhjAtE4ETLWy7GMBMrAdMwHoEtc3DQyWvVBi": {
+    "name": "GG Market",
+    "symbol": "GG",
+    "flagged_ts": 1790300105,
+    "liquidity_at_flag": 33850.85194420905,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "AJptdzQJESribvtb8mNuc4ArfUz66TUxQgoenKZrpump": {
+    "name": "cummin",
+    "symbol": "cummin",
+    "flagged_ts": 1790300106,
+    "liquidity_at_flag": 27922.13028540484,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 90,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "HujKt5e48d81UufxyrDZKATwDRLyaEQpEgzvRg43GCKq": {
+    "name": "GoCollect",
+    "symbol": "COLLECT",
+    "flagged_ts": 1790300107,
+    "liquidity_at_flag": 75006.68188307388,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
