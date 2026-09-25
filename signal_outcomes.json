@@ -28811,7 +28811,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "6TcFqnzyxFE6bZPqNL7MimUsvggheDQrjwKUhGUKJFXY": {
@@ -28827,7 +28828,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "AuQibGjNSMLbH2Aq4NizpsGAH9w9Tg3UdirFJex4SxEt": {
@@ -32474,7 +32476,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "6Ua9gLjWFdooXz1z7X9Fnx5de1Cs7qhy95vsXjL1nhVa": {
@@ -32848,7 +32851,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "5qUT9ZwKhn6N1auaLLYQhR6hqn8uJwH1rLvrjFHczfB2": {
     "name": "\u4e2d\u79cb\u7389\u5154",
@@ -32861,7 +32866,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "EceTFYrHRTmDPJ5gE7EyJUE76stTzaowALKjMdyGpump": {
     "name": "Muse",
@@ -32959,6 +32966,58 @@
     "symbol": "\u62c9\u5e03\u5e03",
     "flagged_ts": 1790305574,
     "liquidity_at_flag": 31347.184949897535,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "EUteVf9Qpu6af4Wd8DdrRqBHgdV1BCRzgcPCegffpump": {
+    "name": "LESGOPEPE",
+    "symbol": "GOPEPE",
+    "flagged_ts": 1790306434,
+    "liquidity_at_flag": 10701.54183638299,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 90,
+      "LIQUIDITY": 54,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "fartfUL2yJSiv5eHcDgu5FMhynupMiM7oGzAP9unnJ9": {
+    "name": "Fartcoin Inu",
+    "symbol": "FARTCOINU",
+    "flagged_ts": 1790306435,
+    "liquidity_at_flag": 19336.986708801487,
+    "breakdown": {
+      "MOMENTUM": 55,
+      "SAFETY": 90,
+      "LIQUIDITY": 97,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "8UMV9XtaoxjvyXTFkPRAGfsVkwAHYWKSb5Zr7v1oJQmw": {
+    "name": "Agrippa",
+    "symbol": "Agrippa",
+    "flagged_ts": 1790306437,
+    "liquidity_at_flag": 25306.546384481633,
+    "breakdown": {
+      "MOMENTUM": 97,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "QpbJezP9o6YaMZYUjFcki5xSzw6B19N2AX161UpPFEL": {
+    "name": "Litterbox",
+    "symbol": "Litterbox",
+    "flagged_ts": 1790306438,
+    "liquidity_at_flag": 41644.044571786566,
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 60,
