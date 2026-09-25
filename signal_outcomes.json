@@ -1,26 +1,4 @@
 {
-  "5wJER1FReQLS4tPF7f991F1zjHYkc5T2mLd23Yz8pump": {
-    "name": "Farming Sim",
-    "symbol": "FARSIM",
-    "flagged_ts": 1789769143,
-    "liquidity_at_flag": 13776.87397729505,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "9uxeqRrYvXU4LPzrZTXepgMW27wApS9pGnvxRZ6JK2iP": {
-    "name": "Crossr",
-    "symbol": "CROSSR",
-    "flagged_ts": 1789769159,
-    "liquidity_at_flag": 49462.39077949299,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
   "GS7vsaYyooaJn95uRVsyea8E2VMPiCKKfwXqQv8w6n7K": {
     "name": "Crossr",
     "symbol": "CROSSR",
@@ -29548,7 +29526,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "8fzziiswWWta8K3H8YWUzxdHUuN2yDC47fQz17Jspump": {
@@ -29564,7 +29543,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "sugEbczEKKMGdRidWFNRWXXGrByj4LSzejtfo8vndcC": {
@@ -33941,7 +33921,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "CdzTirjnTy3HNt5mBrFBWGdt7Wida9RcsWUmRSEFLzd3": {
     "name": "merci",
@@ -33954,7 +33936,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "9UpKDiG2tcFmKi6tcx4amqWuky4x7jfiXT4fAMxYBjZd": {
     "name": "merci",
@@ -33967,7 +33951,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "CpG8dEmLitJqkTrA1HcTpsQqZV8opjExqrnLDP6fXLFT": {
     "name": "merci",
@@ -33980,7 +33966,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "CbcyNo7m1amFWqEQm2m4PLv1UNvpcL3C1Ujm6AkzpKoU": {
     "name": "Effective Accelerationism",
@@ -34158,6 +34146,45 @@
     "liquidity_at_flag": 32259.020093800005,
     "breakdown": {
       "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "FBeUGxNT5Tc1WTrrTBWevwdPoEBwGhrHuN9SGvejHrv": {
+    "name": "The Hero",
+    "symbol": "Cassie",
+    "flagged_ts": 1790374073,
+    "liquidity_at_flag": 32924.32193081209,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "DZTzGWfGuw1CvcXJvT9PB44iXsypFUbLWDDMANf9ZabS": {
+    "name": "The Colony",
+    "symbol": "COLONY",
+    "flagged_ts": 1790374074,
+    "liquidity_at_flag": 53813.98666797951,
+    "breakdown": {
+      "MOMENTUM": 95,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "AFwS8ui9ACcHf78nFEk6nfGNZoSniqMLFLLszL1gWiWu": {
+    "name": "\u8f66\u5398\u5b50",
+    "symbol": "\ud83c\udf52\u8f66\u5398\u5b50",
+    "flagged_ts": 1790374074,
+    "liquidity_at_flag": 42875.73427221473,
+    "breakdown": {
+      "MOMENTUM": 82,
       "SAFETY": 60,
       "LIQUIDITY": 100,
       "SMART MONEY": 0

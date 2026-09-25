@@ -1,5 +1,5 @@
 {
-  "last_updated": 1790373407,
+  "last_updated": 1790374079,
   "wallets": [
     {
       "label": "Dev wallet 1",
@@ -87,14 +87,59 @@
     "count": 2835,
     "up_count": 613,
     "total_change_pct": -155586.29928175083,
-    "rug": 1661,
+    "rug": 1663,
     "doing_well": 16,
     "steady": 8,
     "fading": 19
   },
-  "learning_insight": "Coins that rugged averaged SAFETY 69; coins that did well averaged SAFETY 92.",
+  "learning_insight": "Coins that rugged averaged SAFETY 70; coins that did well averaged SAFETY 92.",
   "settings": {},
   "recent_alerts": [
+    {
+      "ts": 1790374079,
+      "type": "outcome",
+      "message": "\ud83d\udd34 merci (merci) is dropping fast \u2014 down 100%, may be rugging."
+    },
+    {
+      "ts": 1790374078,
+      "type": "outcome",
+      "message": "\ud83d\udfe1 merci (merci) is holding steady so far (-1%)."
+    },
+    {
+      "ts": 1790374077,
+      "type": "outcome",
+      "message": "\ud83d\udd34 merci (merci) is dropping fast \u2014 down 100%, may be rugging."
+    },
+    {
+      "ts": 1790374077,
+      "type": "outcome",
+      "message": "\ud83d\udfe0 PAPOI (PAPOI) is fading \u2014 down 19% so far."
+    },
+    {
+      "ts": 1790374076,
+      "type": "outcome",
+      "message": "\ud83d\udd34 Prism Foundation (PRISM) turned out to be a rug \u2014 liquidity dropped 88% over 24h."
+    },
+    {
+      "ts": 1790374075,
+      "type": "outcome",
+      "message": "\ud83d\udd34 Stonked (STONKED) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
+    },
+    {
+      "ts": 1790374074,
+      "type": "scanner",
+      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\n\u8f66\u5398\u5b50 (\ud83c\udf52\u8f66\u5398\u5b50)\nOpportunity: 70/100\n\nMOMENTUM     82\nSAFETY       60\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$42,876, 21 min since pool creation\n\u2022 Up +55% in the last hour, ~$64,640 in 24h volume (1.5x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 78% of supply (very concentrated)\n\nCA: AFwS8ui9ACcHf78nFEk6nfGNZoSniqMLFLLszL1gWiWu\nhttps://dexscreener.com/solana/AFwS8ui9ACcHf78nFEk6nfGNZoSniqMLFLLszL1gWiWu\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
+    },
+    {
+      "ts": 1790374074,
+      "type": "scanner",
+      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\nThe Colony (COLONY)\nOpportunity: 74/100\n\nMOMENTUM     95\nSAFETY       60\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$53,814, 19 min since pool creation\n\u2022 Up +64% in the last hour, ~$62,772 in 24h volume (1.2x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 80% of supply (very concentrated)\n\nCA: DZTzGWfGuw1CvcXJvT9PB44iXsypFUbLWDDMANf9ZabS\nhttps://dexscreener.com/solana/DZTzGWfGuw1CvcXJvT9PB44iXsypFUbLWDDMANf9ZabS\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
+    },
+    {
+      "ts": 1790374073,
+      "type": "scanner",
+      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\nThe Hero (Cassie)\nOpportunity: 76/100\n\nMOMENTUM     100\nSAFETY       60\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$32,924, 19 min since pool creation\n\u2022 Up +80% in the last hour, ~$181,256 in 24h volume (5.5x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 93% of supply (very concentrated)\n\nCA: FBeUGxNT5Tc1WTrrTBWevwdPoEBwGhrHuN9SGvejHrv\nhttps://dexscreener.com/solana/FBeUGxNT5Tc1WTrrTBWevwdPoEBwGhrHuN9SGvejHrv\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
+    },
     {
       "ts": 1790373407,
       "type": "outcome",
@@ -299,51 +344,6 @@
       "ts": 1790371294,
       "type": "scanner",
       "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\nPok\u00e9mon  Dollar (\u20bd)\nOpportunity: 72/100\n\nMOMENTUM     50\nSAFETY       100\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$68,651, 11 min since pool creation\n\u2022 Up +33% in the last hour, ~$47,399 in 24h volume (0.7x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Low, 0/100):\n\u2022 No major red flags found\n\nCA: irmTbVMnuA99UanBdDNnREZXiGhUX1vD8eTx2ZApump\nhttps://dexscreener.com/solana/irmTbVMnuA99UanBdDNnREZXiGhUX1vD8eTx2ZApump\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
-    },
-    {
-      "ts": 1790371293,
-      "type": "scanner",
-      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 STRONG\nPAPOI (PAPOI)\nOpportunity: 81/100\n\nMOMENTUM     100\nSAFETY       75\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$40,074, 11 min since pool creation\n\u2022 Up +286% in the last hour, ~$221,071 in 24h volume (5.5x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 25/100):\n\u2022 top 10 holders own 55% of supply (concentrated)\n\nCA: 3npP2YWFPHU7NS4hRQoX5jRNXkTMRSpwoXnK3dSj2XVQ\nhttps://dexscreener.com/solana/3npP2YWFPHU7NS4hRQoX5jRNXkTMRSpwoXnK3dSj2XVQ\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
-    },
-    {
-      "ts": 1790371292,
-      "type": "scanner",
-      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 EXCEPTIONAL\nEffective Accelerationism (e/acc)\nOpportunity: 90/100\n\nMOMENTUM     100\nSAFETY       100\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$39,045, 6 min since pool creation\n\u2022 Up +147% in the last hour, ~$35,127 in 24h volume (0.9x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Low, 0/100):\n\u2022 No major red flags found\n\nCA: CbcyNo7m1amFWqEQm2m4PLv1UNvpcL3C1Ujm6AkzpKoU\nhttps://dexscreener.com/solana/CbcyNo7m1amFWqEQm2m4PLv1UNvpcL3C1Ujm6AkzpKoU\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
-    },
-    {
-      "ts": 1790370464,
-      "type": "outcome",
-      "message": "\ud83d\udd34 unpeg (UNPEG) is dropping fast \u2014 down 100%, may be rugging."
-    },
-    {
-      "ts": 1790370463,
-      "type": "outcome",
-      "message": "\ud83d\udd34 america.gov (AMERICA) is dropping fast \u2014 down 100%, may be rugging."
-    },
-    {
-      "ts": 1790370462,
-      "type": "outcome",
-      "message": "\ud83d\udd34 getbags.fun (BAGS) is dropping fast \u2014 down 100%, may be rugging."
-    },
-    {
-      "ts": 1790370461,
-      "type": "outcome",
-      "message": "\ud83d\udd34 The Sphere (SPHERE) is dropping fast \u2014 down 100%, may be rugging."
-    },
-    {
-      "ts": 1790370459,
-      "type": "outcome",
-      "message": "\ud83d\udfe0 DOGRILLA (DOGRILLA) is fading \u2014 down 15% so far."
-    },
-    {
-      "ts": 1790370458,
-      "type": "outcome",
-      "message": "\ud83d\udd34 Attention Inu (AI) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
-    },
-    {
-      "ts": 1790370457,
-      "type": "outcome",
-      "message": "\ud83d\udd34 Super Inu (SI) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
     }
   ]
 }
