@@ -1,15 +1,4 @@
 {
-  "AbGqfLjhnUWMYEG7hCULVbFdeLx5TzAPEaxGcjSZx2AH": {
-    "name": "Cigarette",
-    "symbol": "CIG",
-    "flagged_ts": 1789703750,
-    "liquidity_at_flag": 28553.830337526255,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
   "3cXkSeeCgvmtj4o7TVhh4HkQ57wjbm8doM4sopwccrdU": {
     "name": "\ud83d\udd25Cigarette",
     "symbol": "CIG",
@@ -28865,7 +28854,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "ARjwcyVXCWYmNnF6wvjfpCvJgiAeinrh2CdWJ4zsVjTs": {
@@ -28881,7 +28871,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "5yvR5VPEwQGPfsUQnWWjuNhxnPpJULRxuHYc87Rb9CNp": {
@@ -28897,7 +28888,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "6ePR8zBtk7jMwrv8kjDrq8mJGK85MS5cRsVrXWfd9S9m": {
@@ -28913,7 +28905,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "JrUzdNLYM2PLtCSo9j9q7pr1WuG13wikfgRSgm6pump": {
@@ -28929,7 +28922,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "HB8nmMAJpShTobPJUzPpkQhFDq4K4UBks9q7pRmMUtph": {
@@ -32432,7 +32426,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "CgMTyUGeUhz7qsbxr46Uw2vjkEXioWEtJUoMcpgUpump": {
@@ -32447,7 +32442,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "4cDrSbA9mofmbMoupzyWxoygN3BTxqNfyBN583bepump": {
@@ -32821,7 +32817,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "9A5c2fdL6o4xhucWphfqMNs2Xo8fFMv8SohBVERHpump": {
     "name": "STOCKCOIN",
@@ -33052,6 +33050,32 @@
     "breakdown": {
       "MOMENTUM": 88,
       "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "FxCM5DHuokQUrpBNYfb5wCAcukWvN68G7LP34EBjJMQ2": {
+    "name": "Agrippa",
+    "symbol": "Agrippa",
+    "flagged_ts": 1790308660,
+    "liquidity_at_flag": 30894.691525665912,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "GavQxkBXLg9Qwvxgni8SLJAnxLL592j55jVS2fnFpump": {
+    "name": "Runfolio",
+    "symbol": "SRUN",
+    "flagged_ts": 1790308661,
+    "liquidity_at_flag": 32871.43603251768,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 90,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
