@@ -1,15 +1,4 @@
 {
-  "2Fx6HnTE7fZg8c2iydyzWCyuPQqGe8ze4ZWz8QFUz4qQ": {
-    "name": "donut fade",
-    "symbol": "DNUT",
-    "flagged_ts": 1789756693,
-    "liquidity_at_flag": 35068.60544322489,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
   "BUjb3VxipFWUqunCKURfeDR2Fg3mqsS8GU9uVHkZBfiP": {
     "name": "aGRIPPA",
     "symbol": "AGRIPPA",
@@ -29625,7 +29614,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "2t8JsJPcBu9fmDRJNZmsWNfdGMvx3GsJcohKcxSS8bFo": {
@@ -29641,7 +29631,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "F8BTnFMCaajnrRYfmVGqJrvm4PYcFb1AiTwLxCpSpump": {
@@ -29657,7 +29648,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "H1ZjP8ccTGTVbapzcSeRaEojhhTcAESUDDTvmyNgVGZU": {
@@ -29673,7 +29665,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "3jtdaqoD1DMWzsvc33N2Fzd2d1pSKhFdQCDfBKWF6Xnu": {
@@ -33112,7 +33105,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "Azdjzw3iZhzNm7Rx1REU8Mgo9cEXhaDXBrtziWRV634Y": {
@@ -33127,7 +33121,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "3ZcfHfLoXmDFWEQgyF3HNzuHUBWF8s8B8cTeVzeAE4NE": {
@@ -33142,7 +33137,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "5NhN6zzDkzwXFGPFqtpTopV4ttBeZ6CWy1oRL9Rkpump": {
@@ -33157,7 +33153,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "2iVsT4kpheQJkLRABYWpqgQi5LbTAqr1PmJv2ekWniTp": {
@@ -33172,7 +33169,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "5tyLFaE7H8NfxpvWauoy8Jhar5hJADDTSpMnMPNRnv8A": {
@@ -33187,7 +33185,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "F1f6t9MAsiRkhj5tGSu6i9nCA9An7mg8QMW3KHa3pxCr": {
@@ -33861,7 +33860,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "F6jP4cZn6yL84c1afzftvjtAFHxuQsgxHZSaMoEeqMdg": {
     "name": "SATAN",
@@ -33874,7 +33875,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "2vhFEfAZ2DD1kUjx8RiApjnxzio9ntsytQHWPBrioDWm": {
     "name": "Blueprint",
@@ -33987,6 +33990,19 @@
     "liquidity_at_flag": 34183.38843346662,
     "breakdown": {
       "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "B5b4LPJVm7HgDDYkaiHmgH5v2fpzU8Q6AxzskbAKEjTz": {
+    "name": "YASHMODE",
+    "symbol": "YASHMODE",
+    "flagged_ts": 1790361554,
+    "liquidity_at_flag": 31721.75788117342,
+    "breakdown": {
+      "MOMENTUM": 90,
       "SAFETY": 60,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
