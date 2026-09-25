@@ -1,15 +1,4 @@
 {
-  "67ogYWmtqGpkhiWp4dYJDV8N4iXnwhVLm9bNPettr9Cp": {
-    "name": "BONKCAT",
-    "symbol": "BONKCAT",
-    "flagged_ts": 1789735240,
-    "liquidity_at_flag": 44589.32657745965,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
   "13kxaphsHmboj2CHYFE1vy4e1WffZoGNJg996eKjCf9Y": {
     "name": "Pons",
     "symbol": "PONS",
@@ -29448,7 +29437,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "8xhSYeD6CwWZgUBnvSvfSBmEGipYX1eA2KpN2Y619nK9": {
@@ -29464,7 +29454,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "EFW3VwqYPzoc58reVMy2GxEjv78xQ765pQy1JMdBVoB9": {
@@ -29480,7 +29471,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "7rfsnmGqx3nFXK71SaavEr4TYDeKVgKv8Lx9oBaf8AMh": {
@@ -29496,7 +29488,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "Ak6aSR5M7vMxZnVBR4hwXAzmqm6TjEUZUrAAMnChRSJ": {
@@ -32647,7 +32640,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "Echspq9eXz1ozaw2ADQSMLhn5s2QqB1zdpMJkxkMV8zv": {
@@ -33291,7 +33285,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "Ge97qam8oFenNdRk3MYTceJdyGpgUG1jS89EyRRddj9S": {
     "name": "Cheetah Net Supply Chain",
@@ -33304,7 +33300,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "8NeH6SCPe15ZYAkSC2x6M3dW2VJhGPYWMsywfiG4ZKwK": {
     "name": "Bitty",
@@ -33317,7 +33315,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "AsdcxrSyqMFvjBL5qL3JfFR2VcDJsGo4Q1ffz2CRcUwn": {
     "name": "51\u5403\u74dc\u7f51\u5b98\u65b9\u9996\u53d1Meme",
@@ -33330,7 +33330,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "7nQdFKJhMpRp4784pFVrPqcAPgjLaaDTs4EgUi6zv6Jj": {
     "name": "Launch Lab",
@@ -33343,7 +33345,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "9gqrtDLHmwY8kzU2iKjb2uRZZuoUTafJuTRXApy7Vci7": {
     "name": "\u73a9\u5e01\u5f52\u8d75",
@@ -33356,7 +33360,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "7oVENwv3xHkf7rjbr2d2MHGU9eNeVbFsXaXTKuKGgugd": {
     "name": "\u5e01\u5b89\u4e2d\u79cb",
@@ -33480,6 +33486,45 @@
     "symbol": "Launch Lab",
     "flagged_ts": 1790339229,
     "liquidity_at_flag": 35726.61718539153,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "5ATPVa1yYAoT1Mia6omzvPKMxcFcgYvRWJPj58LMQtLF": {
+    "name": "51\u5403\u74dc\u7f51\u5b98\u65b9\u9996\u53d1Meme",
+    "symbol": "51X",
+    "flagged_ts": 1790340214,
+    "liquidity_at_flag": 34943.74177571955,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "BR6dQGidKX2veXEfbr9Sr5BdWPj8DwZseujfqxPYYC5e": {
+    "name": "OpenGap",
+    "symbol": "OPENGAP",
+    "flagged_ts": 1790340216,
+    "liquidity_at_flag": 34841.1408665039,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "3pXgLWZZMt581BG8i3EZJNdteZFEWRGH9JzRwhCw6xZR": {
+    "name": "Brick By Brick",
+    "symbol": "BRICK",
+    "flagged_ts": 1790340217,
+    "liquidity_at_flag": 41163.92491944638,
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 60,
