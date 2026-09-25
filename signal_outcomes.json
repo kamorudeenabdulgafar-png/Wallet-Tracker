@@ -28962,7 +28962,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "8VyjKUKKe6FRNRAiCpUvPKdwX5b7goCB67rnHUEpMucr": {
@@ -28978,7 +28979,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "8XphziKNCQNAQHA266pGVKs6JUqaXDRj3SV3FK4tPCzt": {
@@ -28994,7 +28996,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "82ezhRLKdKwkSC9jkM3js1yf93VbmvLXNMPkBmompump": {
@@ -29010,7 +29013,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "2kftZTzeM28rybphHwp2zgrtoaRA8TEC2YF5MoFL2sEy": {
@@ -32900,7 +32904,9 @@
       "LIQUIDITY": 54,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "fartfUL2yJSiv5eHcDgu5FMhynupMiM7oGzAP9unnJ9": {
     "name": "Fartcoin Inu",
@@ -32913,7 +32919,9 @@
       "LIQUIDITY": 97,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "8UMV9XtaoxjvyXTFkPRAGfsVkwAHYWKSb5Zr7v1oJQmw": {
     "name": "Agrippa",
@@ -32926,7 +32934,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "QpbJezP9o6YaMZYUjFcki5xSzw6B19N2AX161UpPFEL": {
     "name": "Litterbox",
@@ -32939,7 +32949,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "FetwSQiV7ASqcsqWxPxgxpjazrge2eh3tRgfKBVShZms": {
     "name": "swarms",
@@ -33102,6 +33114,45 @@
     "symbol": "51X",
     "flagged_ts": 1790309433,
     "liquidity_at_flag": 56762.30107344595,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "2U6h3hq8vhFzLyB9oooh96AJejH7wB1h2SifqxgCio9c": {
+    "name": "ONBOARD",
+    "symbol": "ONBOARD",
+    "flagged_ts": 1790310589,
+    "liquidity_at_flag": 29772.048601201088,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "9dAbCu7Phmgss31haeCHtTXSf6TjzG3GdGgFvqK5pump": {
+    "name": "ONBOARD",
+    "symbol": "ONBOARD",
+    "flagged_ts": 1790310589,
+    "liquidity_at_flag": 21792.65231132072,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 90,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "B75Q3EhzfjjJhC3URK2cRaNhisnWREetyrv2SPqNW43A": {
+    "name": "99 Construction",
+    "symbol": "POH",
+    "flagged_ts": 1790310590,
+    "liquidity_at_flag": 36115.02688698436,
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 60,
