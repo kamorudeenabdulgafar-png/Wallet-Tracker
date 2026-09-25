@@ -1,37 +1,4 @@
 {
-  "6h8tQb5tYq5Dp3NQcxeq1b5Riosy79hnjrs4DKqVL5YA": {
-    "name": "Public Cat",
-    "symbol": "PCAT",
-    "flagged_ts": 1789692142,
-    "liquidity_at_flag": 28265.20867435744,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "ApWvRAsLKpaazTznjUominUBTN6rbW3LnQUpiyHdixYT": {
-    "name": "ALLINU",
-    "symbol": "ALLINU",
-    "flagged_ts": 1789692145,
-    "liquidity_at_flag": 34779.47165020273,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "GHCQSt74Fv4fSBntHkKYxFTxwMUxEZYtLpzY1hbvivX3": {
-    "name": "Regain Your Humanity",
-    "symbol": "STOPAI",
-    "flagged_ts": 1789692146,
-    "liquidity_at_flag": 45734.71815965097,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
   "CPuYaD6gdgDmjfbUUX3ye5RERCLuCxnmPgNqcwr4oGYf": {
     "name": "perk.money",
     "symbol": "PERK",
@@ -28585,7 +28552,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "C8dEM4ipdKr7WYiD1j8wYXTBZjcoXKYaAHGoGB3uZA19": {
@@ -32392,7 +32360,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "7bWe19bJssSZjJ2bWcZdfgiXLy5bL9vAv5D5y19P5V5x": {
@@ -32407,7 +32376,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "D4NvkcZ7U8TSkMnGGfgB24Dv2J6ZQX48ki3odCjQpump": {
@@ -32781,7 +32751,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "36FbaZEe2P1dA82QQw6psmLKvTRGfRzrbAEKMmeg7rdR": {
     "name": "Wumpus",
@@ -32794,7 +32766,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "2A6MxU3bJ6EziBH4g3wH1Q8N9JNGZNarx4W1TJegadot": {
     "name": "dot",
@@ -32870,6 +32844,45 @@
       "MOMENTUM": 100,
       "SAFETY": 75,
       "LIQUIDITY": 53,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "5iqjhP5ig6JWdXQf6hYAwojZeMf11pTCvH87gCQtpump": {
+    "name": "TrendTrader Pro",
+    "symbol": "TTP",
+    "flagged_ts": 1790297155,
+    "liquidity_at_flag": 28817.195086094165,
+    "breakdown": {
+      "MOMENTUM": 60,
+      "SAFETY": 90,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "73gypQU6EDhYCSd7qVZ9sPGDSZica4Q9t1PHg2h192vK": {
+    "name": "Les Goh",
+    "symbol": "LESGOH",
+    "flagged_ts": 1790297155,
+    "liquidity_at_flag": 33147.401526937014,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "5AhLUczZ42qDyiZ92V4zj62tQ8SRjuP4PTLAdGFEj8qG": {
+    "name": "BRAIN",
+    "symbol": "BRAIN",
+    "flagged_ts": 1790297157,
+    "liquidity_at_flag": 55094.22340505052,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
     "checkpoints_done": []
