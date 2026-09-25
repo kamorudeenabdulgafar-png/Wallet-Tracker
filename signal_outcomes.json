@@ -29606,7 +29606,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "4N6QEVqSDTAnWPaJ2pzvQ2uWXqTbvUPdgN6BCQ8rN1Eo": {
@@ -33429,7 +33430,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "B5b4LPJVm7HgDDYkaiHmgH5v2fpzU8Q6AxzskbAKEjTz": {
@@ -34233,6 +34235,45 @@
     "breakdown": {
       "MOMENTUM": 79,
       "SAFETY": 100,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "arpmqKuWcVQ4Q9M4LPLaMPmvP55NdnLxdjecSPfRgv6": {
+    "name": "Nomad Arena",
+    "symbol": "Arena",
+    "flagged_ts": 1790375807,
+    "liquidity_at_flag": 24778.29632976791,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 90,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "6CkL28M95m7sC7Th5M3UxrpDFzfaDVxRzsGfFEBh6ZXb": {
+    "name": "Effective Accelerationism",
+    "symbol": "e/acc",
+    "flagged_ts": 1790375808,
+    "liquidity_at_flag": 40451.86320966056,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "6x1op3TpFm29AYBwk3HVXZSuXST3EZ3H8ogCyLpwWNah": {
+    "name": "Effective Accelerationism",
+    "symbol": "e/acc",
+    "flagged_ts": 1790375810,
+    "liquidity_at_flag": 36588.87630851132,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
