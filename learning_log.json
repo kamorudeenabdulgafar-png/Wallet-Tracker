@@ -1,18 +1,5 @@
 [
   {
-    "name": "Archibald Brown",
-    "symbol": "ARCHIBROWN",
-    "category": "doing_well",
-    "change_pct": 33.6,
-    "breakdown": {
-      "MOMENTUM": 100,
-      "SAFETY": 90,
-      "LIQUIDITY": 100,
-      "SMART MONEY": 0
-    },
-    "ts": 1790240741
-  },
-  {
     "name": "Usavich",
     "symbol": "\ud83d\udcb2Usavich",
     "category": "rug",
@@ -3898,5 +3885,18 @@
       "SMART MONEY": 0
     },
     "ts": 1790334641
+  },
+  {
+    "name": "RABBIT",
+    "symbol": "RABBIT",
+    "category": "rug",
+    "change_pct": -100.0,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "ts": 1790335733
   }
 ]
