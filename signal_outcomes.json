@@ -1,37 +1,4 @@
 {
-  "He1SSigVymqtFAx7S2QWgX4gAejyozxRhCgvvaVc3R8L": {
-    "name": "SPONK",
-    "symbol": "SPONK",
-    "flagged_ts": 1789707348,
-    "liquidity_at_flag": 18988.811103939028,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "2x41u4773ts7SNkWxMkQW8ZYk6bxryMq7dyVgWqvGKcD": {
-    "name": "baton",
-    "symbol": "baton",
-    "flagged_ts": 1789707349,
-    "liquidity_at_flag": 35262.48386504295,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "9mvaEsYFD9vNpLRzdoRALk9t6cRTwpKjLNLBdBRsZQmv": {
-    "name": "BNB Standard",
-    "symbol": "BNBS",
-    "flagged_ts": 1789707350,
-    "liquidity_at_flag": 29552.481424299367,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
   "4n9NKxzYRoiCuHCn2r9ifNMWdrEgQZZNiJfPKWi8kXdR": {
     "name": "NEVER",
     "symbol": "NEVER",
@@ -29072,7 +29039,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "Dw4BLqvS4jRXibH5vqnbDXDFdyWHcDhMBxL1yvgjdNc4": {
@@ -32495,7 +32463,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "FCzrePTURSdS44x2w2siE9BguAHs7BaCyKeCPp42SfjJ": {
@@ -32510,7 +32479,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "5aL8e14oZ1RWzZR9R6gmjpxQuRCX29bW9wPGhy4Hpump": {
@@ -33034,7 +33004,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "GavQxkBXLg9Qwvxgni8SLJAnxLL592j55jVS2fnFpump": {
     "name": "Runfolio",
@@ -33047,7 +33019,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "4Rzc7moWLmor8AzVLpD5TY4u5UtYAVViKoCDZzQobuzV": {
     "name": "Usachi",
@@ -33171,6 +33145,32 @@
     "symbol": "POH",
     "flagged_ts": 1790311453,
     "liquidity_at_flag": 35999.80701112296,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "HR4KSgoGTqmbZhaonwLm8UR2Hdupx3XCZ4NycS1SvdPk": {
+    "name": "Vanguard Strategic Oil Fund",
+    "symbol": "VSOF",
+    "flagged_ts": 1790312740,
+    "liquidity_at_flag": 31607.94558635621,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "FYL2epdnWGmLBH8YjY1Bv6a1JMcmmqT3XjtdwBd5nbiW": {
+    "name": "\u5e01\u5b89\u4e2d\u79cb",
+    "symbol": "\u5e01\u5b89\u4e2d\u79cb",
+    "flagged_ts": 1790312741,
+    "liquidity_at_flag": 38418.13829578049,
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 60,
