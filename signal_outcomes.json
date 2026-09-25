@@ -29595,7 +29595,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "6vELScxVfnXD1vBWRstkhgXRAV2BvJReHjuhb2tGi6Nd": {
@@ -29611,7 +29612,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "3GswVxaj22Cfz3zqrQUeGkxvVoeQNgEw2jZtE9RuSyDD": {
@@ -33050,7 +33052,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "7nQdFKJhMpRp4784pFVrPqcAPgjLaaDTs4EgUi6zv6Jj": {
@@ -33065,7 +33068,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "9gqrtDLHmwY8kzU2iKjb2uRZZuoUTafJuTRXApy7Vci7": {
@@ -33080,7 +33084,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "7oVENwv3xHkf7rjbr2d2MHGU9eNeVbFsXaXTKuKGgugd": {
@@ -33484,7 +33489,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "Azdjzw3iZhzNm7Rx1REU8Mgo9cEXhaDXBrtziWRV634Y": {
     "name": "Bagwork",
@@ -33497,7 +33504,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "3ZcfHfLoXmDFWEQgyF3HNzuHUBWF8s8B8cTeVzeAE4NE": {
     "name": "Bagwork",
@@ -33510,7 +33519,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "5NhN6zzDkzwXFGPFqtpTopV4ttBeZ6CWy1oRL9Rkpump": {
     "name": "Bagwork",
@@ -33523,7 +33534,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "2iVsT4kpheQJkLRABYWpqgQi5LbTAqr1PmJv2ekWniTp": {
     "name": "YAP",
@@ -33536,7 +33549,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "5tyLFaE7H8NfxpvWauoy8Jhar5hJADDTSpMnMPNRnv8A": {
     "name": "Claude Opus5.5",
@@ -33549,7 +33564,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "F1f6t9MAsiRkhj5tGSu6i9nCA9An7mg8QMW3KHa3pxCr": {
     "name": "Moon",
@@ -33767,6 +33784,32 @@
     "breakdown": {
       "MOMENTUM": 62,
       "SAFETY": 90,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "4AFMeAqC5zBcMK8WQDwL9zhb3TdV1NoiWwkGCxV67fUY": {
+    "name": "The Whitehouse Squirrel",
+    "symbol": "\u548c\u5e73\u677e\u9f20",
+    "flagged_ts": 1790350928,
+    "liquidity_at_flag": 47310.98688796401,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 75,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "BFXAeXNJhrqkyEoTv3SxmrxHZrEHRoP7ijsmWHAqYUnZ": {
+    "name": "CZ Mooncake",
+    "symbol": "Mooncake",
+    "flagged_ts": 1790350929,
+    "liquidity_at_flag": 34380.646734619666,
+    "breakdown": {
+      "MOMENTUM": 67,
+      "SAFETY": 75,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
