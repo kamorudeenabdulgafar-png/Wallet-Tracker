@@ -1,15 +1,4 @@
 {
-  "AkNKtpW6jVkuJraEWYBkGU6gMZem3Gv98YKMwGZ5K4y": {
-    "name": "narrahood",
-    "symbol": "NARRA",
-    "flagged_ts": 1789749911,
-    "liquidity_at_flag": 31982.87584719583,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
   "HBb8oauZq562PTmqpjFKjz1ueqHAbqbcp6aa9fcuUWA3": {
     "name": "NASDOG",
     "symbol": "NASDOG",
@@ -29701,7 +29690,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "w1FcpRzp5Aeb9bE5WUBDqaTVDjzzMUNQhzMFjKMJzRj": {
@@ -29717,7 +29707,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "F6KKacQoBm5Mxr6drB6ct8cpFsfsqJiUQmBHUqUHCB3f": {
@@ -29733,7 +29724,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "7g7cHJ2aXAikcPCnWsKJCm8i9GjoyseUVRLhhynEoVVm": {
@@ -33140,7 +33132,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "BR6dQGidKX2veXEfbr9Sr5BdWPj8DwZseujfqxPYYC5e": {
@@ -33155,7 +33148,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "3pXgLWZZMt581BG8i3EZJNdteZFEWRGH9JzRwhCw6xZR": {
@@ -33170,7 +33164,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "CRPFrirRWx79WDvNJAnwjY7V6Xt7Bf2KTTW4s9VmEBCa": {
@@ -33724,7 +33719,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "BFXAeXNJhrqkyEoTv3SxmrxHZrEHRoP7ijsmWHAqYUnZ": {
     "name": "CZ Mooncake",
@@ -33737,7 +33734,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "8Yx3dyHBpeCpJL8wzYFrYAe8Wgj289SH2W6mRFpvMyrZ": {
     "name": "Mysterious Source Of Income Cat",
@@ -33926,6 +33925,58 @@
     "symbol": "SATURNCOIN",
     "flagged_ts": 1790354382,
     "liquidity_at_flag": 43601.946299899224,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "HbwgbNWoUFGdM8vgNJVePMSqhwrC4qH3EuNHBcZuVFAR": {
+    "name": "SaturnCoin",
+    "symbol": "SATURNCOIN",
+    "flagged_ts": 1790355128,
+    "liquidity_at_flag": 60167.88240075958,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "75oGLoEaQweNuMd6pwYcneRho6ZYpujvMKTzwMrpdESr": {
+    "name": "DOCK",
+    "symbol": "DOCK",
+    "flagged_ts": 1790355129,
+    "liquidity_at_flag": 48591.72902938051,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "CeKooAq9fbP72aXE3Hxt8RRJ8GocC34MmdzPyrJdPxYH": {
+    "name": "Jumper",
+    "symbol": "JUMP",
+    "flagged_ts": 1790355129,
+    "liquidity_at_flag": 57823.275193921785,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "89sbcpCKgaerPAvVVbSH7VrcuXPPxn6oZXHKDU2mcM2F": {
+    "name": "Onit Protocol",
+    "symbol": "ONIT",
+    "flagged_ts": 1790355130,
+    "liquidity_at_flag": 38323.159581872744,
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 60,
