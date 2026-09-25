@@ -1,15 +1,4 @@
 {
-  "6MXygsP9QDJiEqGCuHjbsru6vU1YmtynDWnTsx6uWbTv": {
-    "name": "TartSwap",
-    "symbol": "TART",
-    "flagged_ts": 1789760286,
-    "liquidity_at_flag": 149013.1854356646,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
   "9z5RYm9dCiWiGH59rSMpKA6G31AejPPb55Pi2KDVwC9u": {
     "name": "microsoft",
     "symbol": "microsoft",
@@ -29529,7 +29518,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "5pvhhaFh8g7XMBtKeRYDXzzV5ifMbP6d5ANz34jkjXUR": {
@@ -29545,7 +29535,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "D8aHDLTQtDqMLAghU6KKVGtgFEDvJU1NAkn6vbKVpump": {
@@ -29561,7 +29552,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "6xG63nZeQf19Mv1jQVzK4CZFMGNuJ4zQB8jWcS3d26JM": {
@@ -29577,7 +29569,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "8xcA2SqFw1LXodBdueqf4ZMRRAoyFtGAY9SNJrvBFoFW": {
@@ -29593,7 +29586,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "5URBHFpVpQHCNzWVb4apLYT134hfSeRqnEpRckLwGtye": {
@@ -29609,7 +29603,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "Dzpm645JhXi18HtDwynhvRwz19zGQCAS37Pj1BdthYkA": {
@@ -33208,7 +33203,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "1XD7WJahUdvv5Tx5DfRnmCs8RS7iyCmSSc9HVowSHdS": {
@@ -33223,7 +33219,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "Fc1dpgWr816SuPoMUVtpb8nJgrBytPJ8fsApttgifTjs": {
@@ -33238,7 +33235,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "t8prMDgEZn1WsuS75N3qxK9DEGKMUnmhyPbMWXxpump": {
@@ -33253,7 +33251,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "12rgUrX6g3nd2G6oXMz657mys5DFfyoLWm8YTL57pump": {
@@ -33268,7 +33267,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "4AFMeAqC5zBcMK8WQDwL9zhb3TdV1NoiWwkGCxV67fUY": {
@@ -33852,7 +33852,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "3ctA6DxbqXT89guFEgj76Sw5pSXkeNV8zeB1NwgzpgZ4": {
     "name": "Etch",
@@ -33953,6 +33955,32 @@
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "BhAZuBvzvEGxk2jfaQVw92LGQJg836u3fxEUxCuSpump": {
+    "name": "MANDATE OF HEAVEN",
+    "symbol": "MOH",
+    "flagged_ts": 1790365224,
+    "liquidity_at_flag": 15697.856800321895,
+    "breakdown": {
+      "MOMENTUM": 64,
+      "SAFETY": 90,
+      "LIQUIDITY": 78,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "HFzBj1HR6qH4JdSwntAjMfmAmxk93U2PQwQN9Wmdpump": {
+    "name": "KBR WORLD",
+    "symbol": "KBR",
+    "flagged_ts": 1790365225,
+    "liquidity_at_flag": 29522.248342263847,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 90,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
