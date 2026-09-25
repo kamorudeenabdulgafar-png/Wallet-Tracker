@@ -1,48 +1,4 @@
 {
-  "CZt4gx4QUpccTdrEr2SboQdwQtjQjvZhortrFAbMYWuD": {
-    "name": "brrr",
-    "symbol": "brrr",
-    "flagged_ts": 1789748380,
-    "liquidity_at_flag": 24457.60251710954,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "8d6oFtc8CWunsgyTSffBc96pJZPZuzQ9fHPPUehDRbhd": {
-    "name": "WENDYS CO",
-    "symbol": "WEN",
-    "flagged_ts": 1789748381,
-    "liquidity_at_flag": 31614.364618739295,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "DJBJNSdUnsRfo7712sGZCCe9GQLrWr88oeLSorD5rLxD": {
-    "name": "WENDYS CO",
-    "symbol": "WEN",
-    "flagged_ts": 1789748382,
-    "liquidity_at_flag": 53828.137656690524,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "H159fr97x959eKMU662VHL6SYpqAgsBPtiB1fYZCQ7sm": {
-    "name": "Reserve Currency of Socialcom",
-    "symbol": "RCSC",
-    "flagged_ts": 1789748383,
-    "liquidity_at_flag": 150819.61972597564,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
   "2ZQmqyyrtP2TkZvCA5W6yfCLatsnTuXeY81Gf3ngpump": {
     "name": "Winu",
     "symbol": "WINU",
@@ -29619,7 +29575,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "F4rJVZAgLwuKGieSsPojDGn8yVUEfDE3hp7e23fNe5zc": {
@@ -33662,7 +33619,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "F96D5HUupUF5Gn6vb6PiKh8z6fDukV7SySSVHRW9B1Qa": {
     "name": "Bagwork",
@@ -33675,7 +33634,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "7nsjHyLLzY5w3Sn2Z3eTfQLS7BQoDB7z2bu3WjdbjTNc": {
     "name": "Claude Opus5.5",
@@ -33688,7 +33649,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "8GTbcDBUb2q8BGvWcCd4bfkKVEUDDcLLQM8txYCQu8tG": {
     "name": "Get Funded",
@@ -33701,7 +33664,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "DyFbBtNfCXs2rLvopxGTj4VyyRyfDcNYJ6Cef6tN316c": {
     "name": "urmomcoin",
@@ -33877,6 +33842,58 @@
     "symbol": "GSTOCK",
     "flagged_ts": 1790352348,
     "liquidity_at_flag": 217194.413844124,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "G7CAK8RMxPjotQ5EHCsrQppWBU2HeSkTtYpAKbxMaB1L": {
+    "name": "Grokbook",
+    "symbol": "GROKBOOK",
+    "flagged_ts": 1790353377,
+    "liquidity_at_flag": 34430.29951608242,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "Gi7vAEFxUWcJMNtaywJ24qHH1BcGMcBv4Jm6yAHY7bim": {
+    "name": "Explosion Cat",
+    "symbol": "Ecat",
+    "flagged_ts": 1790353377,
+    "liquidity_at_flag": 25392.392923719075,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "EvQCkQfLUYx9eQtUtgR1VKvVEvUkaypwHWBP1sVewwPQ": {
+    "name": "Bagwork",
+    "symbol": "Bagwork",
+    "flagged_ts": 1790353378,
+    "liquidity_at_flag": 36742.436682459775,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 75,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "3ErzqY86pjVR1baYmgTL7w9bf4td2LAuUaaidihfeYHB": {
+    "name": "Grokbook",
+    "symbol": "GROKBOOK",
+    "flagged_ts": 1790353379,
+    "liquidity_at_flag": 38170.585687446204,
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 60,
