@@ -28477,7 +28477,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "Ew3ogZaKMLPBkSLofThyizVEaLbMPZJgvtwnxVKmBoG9": {
@@ -28493,7 +28494,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "BYdmTyDPEdQuGKt91EEfiBQ2SXGh8CXKgi4b2F2ooMRw": {
@@ -28509,7 +28511,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "3tzkdxJ1qVCaPAuWmd8FjRFKUbwMYpLUAq5gg4Vopump": {
@@ -28525,7 +28528,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "CcrPUvfLkmzNcbEkZyX6uzpYdxa3cDefv9Gv3T2eEKR7": {
@@ -32332,7 +32336,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "36sXP4TobquwgkfNDNa4r5gDxoLZdJmy3cJNUgUXpump": {
@@ -32347,7 +32352,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "F8skPJiz8eLdDCsVfDh1Mnmx7W9dmMHJSEJApH8muMy6": {
@@ -32362,7 +32368,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "8LHgAXXPbMVqd3wmAQbTu4NxuRRe3qowgUSLiKmFpump": {
@@ -32736,7 +32743,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "AVbsZ36shjXdQrjv8QNFEYvgU1Ptkvk47ozouAEFaCSs": {
     "name": "On The Radar",
@@ -32749,7 +32758,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "Bg75GaeTN7uVqtUEsquh61hwENeaA8TD5K8HwX4Lfomo": {
     "name": "FomoFantasy",
@@ -32811,6 +32822,32 @@
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 100,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "4cDrSbA9mofmbMoupzyWxoygN3BTxqNfyBN583bepump": {
+    "name": "Two in a Basket",
+    "symbol": "TIB",
+    "flagged_ts": 1790294835,
+    "liquidity_at_flag": 23418.306894397727,
+    "breakdown": {
+      "MOMENTUM": 77,
+      "SAFETY": 100,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "77DmKFW1Y54KQjWuhZE8xDoUBzZC84yQfA3Ea459nBkv": {
+    "name": "Stonk & Pump 500",
+    "symbol": "S&P500",
+    "flagged_ts": 1790294837,
+    "liquidity_at_flag": 37811.16771815361,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
