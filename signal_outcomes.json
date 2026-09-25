@@ -1,15 +1,4 @@
 {
-  "6i3Xj7fRaPkR6kLsokepEGGuRyYDLt4q5SXAtx74jTUS": {
-    "name": "NASDOG",
-    "symbol": "NASDOG",
-    "flagged_ts": 1789752485,
-    "liquidity_at_flag": 60372.95068701972,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
   "j7WkJE5CgnN58rgcAoCgg9Q7BLrWrZMHxRG1nDJeywF": {
     "name": "nub",
     "symbol": "nub",
@@ -29704,7 +29693,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "spwn3Mwjuig2wWfuG2LwzHPZTeZU3J3KtrPdkf11bpk": {
@@ -29720,7 +29710,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "7hpQb1uZN8VajnPnekQwTq7un9vbezsTLgpmoGnEpNGj": {
@@ -33191,7 +33182,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "5ShJu21KbvrbSkmcaeVk8jfqhaiyf7VyD3cizU7wWjxP": {
@@ -33206,7 +33198,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "DezTzm86gwBNqZgJzvUZD5oJ8MR69uLphfsT75gHmxS1": {
@@ -33221,7 +33214,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "DjUwjdo4eujo8wq9hjdiz8o54hxgGaQ6U61JHixqpump": {
@@ -33775,7 +33769,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "Gi7vAEFxUWcJMNtaywJ24qHH1BcGMcBv4Jm6yAHY7bim": {
     "name": "Explosion Cat",
@@ -33788,7 +33784,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "EvQCkQfLUYx9eQtUtgR1VKvVEvUkaypwHWBP1sVewwPQ": {
     "name": "Bagwork",
@@ -33801,7 +33799,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "3ErzqY86pjVR1baYmgTL7w9bf4td2LAuUaaidihfeYHB": {
     "name": "Grokbook",
@@ -33814,7 +33814,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "BE1ebTnQ2HbNfc6hgfh4KxxYziKQ1ib7djxSHhCmtJCT": {
     "name": "Ping Ping and Fu Shuang",
@@ -33990,6 +33992,32 @@
     "symbol": "Compute",
     "flagged_ts": 1790356817,
     "liquidity_at_flag": 51299.92467118308,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "96DjEDuS5TFoq3R2iLsTSQjrbZXHvB8jXwbW5J9wAXB2": {
+    "name": "jef",
+    "symbol": "jef",
+    "flagged_ts": 1790357565,
+    "liquidity_at_flag": 37904.77897483375,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "F6jP4cZn6yL84c1afzftvjtAFHxuQsgxHZSaMoEeqMdg": {
+    "name": "SATAN",
+    "symbol": "\ud83d\udcb2SATAN",
+    "flagged_ts": 1790357566,
+    "liquidity_at_flag": 61761.799732368294,
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 60,
