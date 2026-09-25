@@ -1,48 +1,4 @@
 {
-  "Gnb1pi88cPw6FTpxyAK7XpM46Awmw881C7ShyBTxzFJU": {
-    "name": "wrappedcat",
-    "symbol": "wCat",
-    "flagged_ts": 1789695935,
-    "liquidity_at_flag": 27873.46253537068,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "4DBd2oVjAGZVKzBbpEQBqSPJGmvnE53tE9Y1Mbjix29Q": {
-    "name": "Paid Bear",
-    "symbol": "PBEAR",
-    "flagged_ts": 1789695936,
-    "liquidity_at_flag": 21173.797706385238,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "FYJ3vTffwZyF4vS93oddbVWcoqdHAgj7EbsNumgCVtBd": {
-    "name": "Mooncat.",
-    "symbol": "MCAT",
-    "flagged_ts": 1789695937,
-    "liquidity_at_flag": 24155.451142969116,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "C5P3vM4HZnPgyrsCE9UHiY8ckLdTjXZ5e487oT5PSvEF": {
-    "name": "BALLZ COIN",
-    "symbol": "BALLZ",
-    "flagged_ts": 1789695937,
-    "liquidity_at_flag": 33474.5995180396,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
   "GSuj2K9ehP7NZwdJL5cXVfwMtJhafuZ416cStbMVKqwq": {
     "name": "OTC",
     "symbol": "OTC",
@@ -28686,7 +28642,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "4vfQJiDH2MXQT9UVNtr7m9FSFVbsqYPkSSyCBme1BCoM": {
@@ -28702,7 +28659,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "6Q2yD9Z1DXti8S9ot62BzsVCpnzP3r8P6ZCcjsrWQCeZ": {
@@ -28718,7 +28676,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "9mKDten5LqQXWycvSJfWAPmqTnu6ytKWu3cmrAvsUpxL": {
@@ -32493,7 +32452,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "DA5tD9pG6g9GbGkaSPwwcvdsTo941tUrpHTYKfyv2VCW": {
@@ -32777,7 +32737,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "73gypQU6EDhYCSd7qVZ9sPGDSZica4Q9t1PHg2h192vK": {
     "name": "Les Goh",
@@ -32790,7 +32752,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "5AhLUczZ42qDyiZ92V4zj62tQ8SRjuP4PTLAdGFEj8qG": {
     "name": "BRAIN",
@@ -32803,7 +32767,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "9XFJmZUoVGDLJmWw8tYAgQWasgHQRv5rC9fZFXrqvNt": {
     "name": "Latrinas",
@@ -32888,6 +32854,19 @@
     "symbol": "\u4e2d\u79cb\u7389\u5154",
     "flagged_ts": 1790300707,
     "liquidity_at_flag": 41561.21914201777,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "2tRdP9du3h3Fv2nyvPzZru274mL6iQ3UuMovry4n1Hkj": {
+    "name": "GoCollect",
+    "symbol": "COLLECT",
+    "flagged_ts": 1790301199,
+    "liquidity_at_flag": 34246.99071571642,
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 60,
