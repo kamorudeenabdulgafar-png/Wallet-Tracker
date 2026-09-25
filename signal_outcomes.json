@@ -1,37 +1,4 @@
 {
-  "EWq46GzeYpYNxHByCfK9g71BxjijYiX7ATMYA8zoi6as": {
-    "name": "NASA",
-    "symbol": "NASA",
-    "flagged_ts": 1789744933,
-    "liquidity_at_flag": 16987.838964774495,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "5n8a5X1YGNCTTjqfWWUy1hqdU4UJAFB3FwaKUh5gDbLw": {
-    "name": "Terence Mandable",
-    "symbol": "Terence",
-    "flagged_ts": 1789744934,
-    "liquidity_at_flag": 60448.5862001857,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "4qbqQG2keSMAMm7KQ73keJfEf6wr3qLg9XSsLXrRZ87b": {
-    "name": "bBALL",
-    "symbol": "bBALL",
-    "flagged_ts": 1789744935,
-    "liquidity_at_flag": 36540.76529216497,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
   "XWAGcvvGn945HoNpYdcUUjkMyU3D9oW9bDdJHcDL79H": {
     "name": "Elon Musk",
     "symbol": "DOGE",
@@ -29594,7 +29561,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "F7ijAD5hd6t6bvDXzao5WsNtFW6ijbD6PGupbAhu3Q69": {
@@ -29610,7 +29578,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "YZtJFRpAHmidNCRgm3ChMBPYWhdEXjaWxAdr4DzCPXq": {
@@ -33033,7 +33002,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "Ge97qam8oFenNdRk3MYTceJdyGpgUG1jS89EyRRddj9S": {
@@ -33048,7 +33018,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "8NeH6SCPe15ZYAkSC2x6M3dW2VJhGPYWMsywfiG4ZKwK": {
@@ -33063,7 +33034,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "AsdcxrSyqMFvjBL5qL3JfFR2VcDJsGo4Q1ffz2CRcUwn": {
@@ -33729,6 +33701,71 @@
     "liquidity_at_flag": 28240.472750383353,
     "breakdown": {
       "MOMENTUM": 100,
+      "SAFETY": 90,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "DyFbBtNfCXs2rLvopxGTj4VyyRyfDcNYJ6Cef6tN316c": {
+    "name": "urmomcoin",
+    "symbol": "urmom",
+    "flagged_ts": 1790350188,
+    "liquidity_at_flag": 54725.33634966679,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 75,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "1XD7WJahUdvv5Tx5DfRnmCs8RS7iyCmSSc9HVowSHdS": {
+    "name": "urmomcoin",
+    "symbol": "urmom",
+    "flagged_ts": 1790350189,
+    "liquidity_at_flag": 215463.60155798274,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "Fc1dpgWr816SuPoMUVtpb8nJgrBytPJ8fsApttgifTjs": {
+    "name": "Get Funded",
+    "symbol": "FUNDED",
+    "flagged_ts": 1790350190,
+    "liquidity_at_flag": 30053.97675121449,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "t8prMDgEZn1WsuS75N3qxK9DEGKMUnmhyPbMWXxpump": {
+    "name": "PokeStrategy",
+    "symbol": "POKESTRTGY",
+    "flagged_ts": 1790350191,
+    "liquidity_at_flag": 67815.80940096633,
+    "breakdown": {
+      "MOMENTUM": 57,
+      "SAFETY": 100,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "12rgUrX6g3nd2G6oXMz657mys5DFfyoLWm8YTL57pump": {
+    "name": "ZPad",
+    "symbol": "ZPAD",
+    "flagged_ts": 1790350192,
+    "liquidity_at_flag": 24783.701956353947,
+    "breakdown": {
+      "MOMENTUM": 62,
       "SAFETY": 90,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
