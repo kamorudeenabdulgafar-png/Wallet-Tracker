@@ -1,59 +1,4 @@
 {
-  "GCtyyoad6JM2QzoTEq4SdLEpeZexX1PAiuPU3H4uYFyB": {
-    "name": "\u30a2\u30cb\u30e1",
-    "symbol": "\u30a2\u30cb\u30e1",
-    "flagged_ts": 1789761906,
-    "liquidity_at_flag": 25655.223168301563,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "GPfFNtKPZH2d97TB2Qs17wURCYLoXqmXUbfpR64HXiBt": {
-    "name": "\u0425\u0443\u0430\u043d",
-    "symbol": "\u0425\u0443\u0430\u043d",
-    "flagged_ts": 1789761907,
-    "liquidity_at_flag": 17306.43574073587,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "9uYSBSUivJKWqEZ2jnPBZPUSzFvLPgduQdWcaEnqJRbZ": {
-    "name": "Looma",
-    "symbol": "LOOMA",
-    "flagged_ts": 1789761908,
-    "liquidity_at_flag": 14645.545809349895,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "CLfsrkR1uLWAY6Aj2UMt6dBv8pgapRZ3GrjyMDoKRv5o": {
-    "name": "FAITH",
-    "symbol": "FAITH",
-    "flagged_ts": 1789761916,
-    "liquidity_at_flag": 42794.501210291295,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "8vKVH77BUc13BajJjSvVHGEie8xBsC9oHNoqrXPhcJcr": {
-    "name": "microsoft",
-    "symbol": "microsoft",
-    "flagged_ts": 1789761917,
-    "liquidity_at_flag": 59103.39869035584,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
   "9A6D58gfCEmbvhdvQHsgpR25BcWAiFb5QiM288wQD7c5": {
     "name": "rattery experiment",
     "symbol": "RATTERY",
@@ -29572,7 +29517,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "8LHgAXXPbMVqd3wmAQbTu4NxuRRe3qowgUSLiKmFpump": {
@@ -33267,7 +33213,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "8UX98HG8J9eHJ28UJwhMQhrCvEuuaW6pDTeW5W4Qetpc": {
@@ -33282,7 +33229,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "139WGR9ah9Nfd3iDCaD2QiTjeC4TeUy3BuswM3ehpump": {
@@ -33297,7 +33245,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "NEe4U78kydHLfsyKZ7ramYapU1gatngqcvytSzMp2Cx": {
@@ -33312,7 +33261,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "G7CAK8RMxPjotQ5EHCsrQppWBU2HeSkTtYpAKbxMaB1L": {
@@ -33836,7 +33786,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "LnxKmGehVJKRbviSwEjVRpvwSfsaNfsdAN2okPayi5D": {
     "name": "america.gov",
@@ -33849,7 +33801,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "HSTpSMBiSsPBpAnjhD7so4Hpmv687SsZcsjJsNZBHCVK": {
     "name": "Bitget Relief Fund",
@@ -33862,7 +33816,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "46HFmg7MeaLmN6EqYeXFnTYmEhHRMgxEcaEkDiPvNpKm": {
     "name": "Loan",
@@ -33976,6 +33932,71 @@
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "3uk2wFQvmBj4tyLsDoCB98zBQt2LR4WQnBXMuh5BWEgQ": {
+    "name": "unpeg",
+    "symbol": "UNPEG",
+    "flagged_ts": 1790367598,
+    "liquidity_at_flag": 18224.155745104847,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 91,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "FzVLxoL3T2GQELH4fGDfgpvJw3ouyk8NUoPnvk81pump": {
+    "name": "rocky",
+    "symbol": "rocky",
+    "flagged_ts": 1790367598,
+    "liquidity_at_flag": 8636.633542609248,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 75,
+      "LIQUIDITY": 43,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "94pekrj2gpLDya3TA1Fsqt6Y7fAQ38VjotqGVpLLuw9K": {
+    "name": "america.gov",
+    "symbol": "AMERICA",
+    "flagged_ts": 1790367599,
+    "liquidity_at_flag": 31018.45739464963,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "4BQqSQjDJM7kogQwaGfEhik5u2UpvveaA4aFyKEv5s94": {
+    "name": "\u4e2d\u79cb\u5feb\u4e50",
+    "symbol": "\u5e73\u5e73",
+    "flagged_ts": 1790367600,
+    "liquidity_at_flag": 38587.184675546174,
+    "breakdown": {
+      "MOMENTUM": 84,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "79xB7iLghccAWuoab7qXkaDpQggmu6D2zrpKtfXipump": {
+    "name": "Apu",
+    "symbol": "Apu",
+    "flagged_ts": 1790367601,
+    "liquidity_at_flag": 87641.61431035753,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 90,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
