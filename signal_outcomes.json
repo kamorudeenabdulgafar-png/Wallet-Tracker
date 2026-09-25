@@ -1,26 +1,4 @@
 {
-  "HBb8oauZq562PTmqpjFKjz1ueqHAbqbcp6aa9fcuUWA3": {
-    "name": "NASDOG",
-    "symbol": "NASDOG",
-    "flagged_ts": 1789750360,
-    "liquidity_at_flag": 39618.89591413025,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "2mBi8oxxKaRnVLiLGQk3yvCTsRDArN8qN1bimjwFVsNi": {
-    "name": "EINSTEIN",
-    "symbol": "EINSTEIN",
-    "flagged_ts": 1789750361,
-    "liquidity_at_flag": 18452.568131998265,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
   "2pgA6Ckxr1VpZVyFuh5Wu2Q4NsD3XTmV13J4qGk1P6yf": {
     "name": "procat",
     "symbol": "pro",
@@ -29741,7 +29719,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "5QBxMxRfx6i1pwN1VvjGU2UtxtRdfLGa9QR6NGvApump": {
@@ -33180,7 +33159,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "3uQYun8gwBZWr9iqWcehRZygpFXReGpRTWh9QVkaKyLo": {
@@ -33195,7 +33175,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "9w1SZfxDVTQ5FbC2xPpdHXrENZPV8Ve9FjKvCUoKea7u": {
@@ -33210,7 +33191,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "3C4izUmGYWv8fqDxz35T3oVHbAxwdsfsv92cbXCJpump": {
@@ -33749,7 +33731,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "BxGdxqU1NSp9feCeMNizVh2gjQVSSyzzCBG2DBWK6PaM": {
     "name": "OnePump",
@@ -33762,7 +33746,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "J1qmiR7tjGacxwo9LNXDr3LQreAJib4MXA87gomuEZih": {
     "name": "CZ Mooncake",
@@ -33775,7 +33761,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "2kWYDMNdYmnMxi8pwsvX845F82AYrxnHE7zqT6P8egbB": {
     "name": "Ronald Sakoosky",
@@ -33980,6 +33968,19 @@
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "CyKDftwgNsifHhno7o2Ypz35238LYK4wrJruWq3Npump": {
+    "name": "DOGRILLA",
+    "symbol": "DOGRILLA",
+    "flagged_ts": 1790355865,
+    "liquidity_at_flag": 33364.32510137689,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 90,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
