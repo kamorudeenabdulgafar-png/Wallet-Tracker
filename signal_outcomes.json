@@ -28693,7 +28693,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "BXfvKbFTTfSBVhcWLH7dsx6KTm83h9GXaKrDawSJMjZP": {
@@ -28709,7 +28710,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "CF94NibEbuJvKVft9WfTFGE5oWiPT7PGTT9aDQe3ku9o": {
@@ -28725,7 +28727,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "FBtFhV1oydVyzPPq6EvW6n4HpN7tnmZu9VjenN8UEkjL": {
@@ -28741,7 +28744,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "DEZoqbSBT4GMnEyEGVih4eqYyJpSCMJcHUqMs6y6Tqyf": {
@@ -28757,7 +28761,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "CXrMW6Zd128bCmkYu6b7aWBvRt2Qpd6ziC1gs45HHm9q": {
@@ -32782,7 +32787,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "FCzrePTURSdS44x2w2siE9BguAHs7BaCyKeCPp42SfjJ": {
     "name": "LESGO",
@@ -32795,7 +32802,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "5aL8e14oZ1RWzZR9R6gmjpxQuRCX29bW9wPGhy4Hpump": {
     "name": "SolRain",
@@ -32867,6 +32876,71 @@
     "symbol": "COLLECT",
     "flagged_ts": 1790301199,
     "liquidity_at_flag": 34246.99071571642,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "73UdGDgdYhbk2JfhaU8qRjMUS7mxDg6so9pcSam9pump": {
+    "name": "PILLS",
+    "symbol": "PILLS",
+    "flagged_ts": 1790301891,
+    "liquidity_at_flag": 28099.32684279073,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 90,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "76Yhhr9rsVnTprUKampUKP8NPBcnTaarq6F6MnzpbVZu": {
+    "name": "Ping Ping and Fu Shuang",
+    "symbol": "\u53cb\u8c0a\u4f7f\u8005",
+    "flagged_ts": 1790301892,
+    "liquidity_at_flag": 24830.935373965636,
+    "breakdown": {
+      "MOMENTUM": 88,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "GuSaQbUpJhK5A3B4rwpcUpBjqaUE2QuEWkCWMoTa5uGe": {
+    "name": "\u8c37\u6b4c\u6708\u5154",
+    "symbol": "\u6708\u5154",
+    "flagged_ts": 1790301893,
+    "liquidity_at_flag": 26769.001323211665,
+    "breakdown": {
+      "MOMENTUM": 85,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "CyRqsXS21qvtDaGEXWHscQ8UGs34qcSatfyvvi32avJw": {
+    "name": "Backpack",
+    "symbol": "BP",
+    "flagged_ts": 1790301894,
+    "liquidity_at_flag": 23845.65900635439,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "FAaJkNmMF2JFy9WioMLWDS24NuTYMH72SFBdFfrge4r": {
+    "name": "GoCollect",
+    "symbol": "COLLECT",
+    "flagged_ts": 1790301895,
+    "liquidity_at_flag": 233979.99127688777,
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 60,
