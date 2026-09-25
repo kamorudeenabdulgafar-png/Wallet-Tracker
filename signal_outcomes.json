@@ -1,48 +1,4 @@
 {
-  "2eXQm5B2V9a8BPTGCjNyRkf6myPjY6VqxKnZWpu8jDwB": {
-    "name": "TEST",
-    "symbol": "TEST",
-    "flagged_ts": 1789699668,
-    "liquidity_at_flag": 25261.753709009543,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "CR3HCwUnm443F9AgsZumTpWXH2AdRVLiZQ9rDSVTowd": {
-    "name": "zpool.fun",
-    "symbol": "ZPOOL",
-    "flagged_ts": 1789699672,
-    "liquidity_at_flag": 36953.0480197369,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "3h83R4m1T6E4pBtXJhhoSdVwUTVJrgoHUfNq4nQasgsU": {
-    "name": "pill",
-    "symbol": "pill",
-    "flagged_ts": 1789699673,
-    "liquidity_at_flag": 41336.17506186515,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "8vUzSN7dHM6Q1GV991EWm2dwDVvN12rBWJhjFy9jh6Zj": {
-    "name": "The War of Resistance Against JP",
-    "symbol": "918",
-    "flagged_ts": 1789700132,
-    "liquidity_at_flag": 31203.918206335427,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
   "HYqhwCZJWYeFzi2pYFyZo6TBH6iAY2YW8e1pFLoZ9hD9": {
     "name": "The War of Resistance Against JP",
     "symbol": "918",
@@ -28825,7 +28781,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "GURXAxxGaR47jtdYHqn8khqzxxGgkhngTFBDffpUhybA": {
@@ -28841,7 +28798,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "E2yvjRR7AXUczdRPEvJfkFGJ7Lct3vkb3gKaUGnA9QRB": {
@@ -28857,7 +28815,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "86VXQ7uUZVRRcQmz6qV5eCwV5PmfNXyFBEf6Dsetciti": {
@@ -32536,7 +32495,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "AVbsZ36shjXdQrjv8QNFEYvgU1Ptkvk47ozouAEFaCSs": {
@@ -32850,7 +32810,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "73UdGDgdYhbk2JfhaU8qRjMUS7mxDg6so9pcSam9pump": {
     "name": "PILLS",
@@ -32964,6 +32926,19 @@
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "66p4gi1dvEEXmgFXjV5nLaR8D2EsMC39RHPNZ3vfpump": {
+    "name": "GORGUSA",
+    "symbol": "GORU",
+    "flagged_ts": 1790304939,
+    "liquidity_at_flag": 24645.91848662668,
+    "breakdown": {
+      "MOMENTUM": 70,
+      "SAFETY": 100,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
