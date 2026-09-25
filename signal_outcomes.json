@@ -1,59 +1,4 @@
 {
-  "D8BNpRy9FSNXjXRMxX2qV5KJcdg9rVsirHj2bfUyPGoq": {
-    "name": "donut fade",
-    "symbol": "DNUT",
-    "flagged_ts": 1789755761,
-    "liquidity_at_flag": 26384.86294433821,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "ZR3PxkevtBzrAvvcjqokt7ENyb7AVaQjMhD12uopump": {
-    "name": "GitHub Coin",
-    "symbol": "GitHub",
-    "flagged_ts": 1789755762,
-    "liquidity_at_flag": 186209.11195782333,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "7msWdgy8yqMm9Ra5LdhJioLxDNiPCDgbzyscyhwNzonM": {
-    "name": "Neuralink Cat",
-    "symbol": "LUCY",
-    "flagged_ts": 1789755766,
-    "liquidity_at_flag": 30676.3817731574,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "5CDxPgLR5wtH94B4Cr1kqnoj4mTj9S5ZgLReKdRk15Sy": {
-    "name": "Neuralink Cat",
-    "symbol": "LUCY",
-    "flagged_ts": 1789755768,
-    "liquidity_at_flag": 22549.85933090174,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "KfVtdu8LGeqguhtzT6kjYEw5K2GnCi57FE9Q66BZEK2": {
-    "name": "Cestus Network",
-    "symbol": "CEST",
-    "flagged_ts": 1789755769,
-    "liquidity_at_flag": 194463.5635700152,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
   "2Fx6HnTE7fZg8c2iydyzWCyuPQqGe8ze4ZWz8QFUz4qQ": {
     "name": "donut fade",
     "symbol": "DNUT",
@@ -33135,7 +33080,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "zw1A6W16bCijJigUMqKh6BXonPsvxRw3z3LxoNS48Yx": {
@@ -33150,7 +33096,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "C2VB1scXf8cPcPgQUyYewZpLvKRw2kFDJ1rsQNShuT4N": {
@@ -33839,7 +33786,9 @@
       "LIQUIDITY": 97,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "DubsuJ1BjVo4k15WGk7avLwxcVH1DWsbvfwJ1s3CqwFq": {
     "name": "Claude Opus5.5",
@@ -33852,7 +33801,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "BCe33NwxfdtX9j8eNtqnJSDSY6b94TDiaijUTj3CWRkA": {
     "name": "Bagwork",
@@ -33865,7 +33816,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "BHGbeLDCJCp73bYqXt2tvre28uSSCj6Wxj77noNRwtcL": {
     "name": "terrorist",
@@ -33878,7 +33831,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "DvEfY4DCyNMoXUgwfBU79LYWCJmkey6ArSnJ7iZgkEi": {
     "name": "Compute",
@@ -33891,7 +33846,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "96DjEDuS5TFoq3R2iLsTSQjrbZXHvB8jXwbW5J9wAXB2": {
     "name": "jef",
@@ -34015,6 +33972,19 @@
     "symbol": "AERO",
     "flagged_ts": 1790359767,
     "liquidity_at_flag": 48775.10104706387,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "NYX9pX5t8ibpWWJZkpVKgpqsFAEnJnmgNnQSqvz5AJF": {
+    "name": "Blueprint",
+    "symbol": "BLUEPRINT",
+    "flagged_ts": 1790360712,
+    "liquidity_at_flag": 34183.38843346662,
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 60,
