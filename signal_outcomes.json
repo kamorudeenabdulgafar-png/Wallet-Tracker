@@ -1,70 +1,4 @@
 {
-  "2pgA6Ckxr1VpZVyFuh5Wu2Q4NsD3XTmV13J4qGk1P6yf": {
-    "name": "procat",
-    "symbol": "pro",
-    "flagged_ts": 1789751116,
-    "liquidity_at_flag": 50119.375864920294,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "EAC5enpuFi4pCY7YGuPWztWjAhVKAoGWj84R9SAZNqNd": {
-    "name": "Solana Cat",
-    "symbol": "SCAT",
-    "flagged_ts": 1789751117,
-    "liquidity_at_flag": 29378.451751887726,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "AKzup8aAGt3N9rcDfVP6MDj2mywABqw4iEbEh1gUYyH": {
-    "name": "NASDOG",
-    "symbol": "NASDOG",
-    "flagged_ts": 1789751121,
-    "liquidity_at_flag": 223193.89349412898,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "Hz7GrKcQ8joDvw1ERCeHPUF6BYuLqDYTCda8VmDvSmou": {
-    "name": "NASDOG",
-    "symbol": "NASDOG",
-    "flagged_ts": 1789751878,
-    "liquidity_at_flag": 25456.45804429384,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "6GeLFqPKerrKR6mYeDsF68TN9g5j9Ruj93rmnQVQ3h3w": {
-    "name": "NASDOG",
-    "symbol": "NASDOG",
-    "flagged_ts": 1789751880,
-    "liquidity_at_flag": 58135.09760755888,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "Epw5BPBweoSXdMAsZYnx3Szmfv5oNvtb5tn4cULTYpMo": {
-    "name": "NASDOG",
-    "symbol": "NASDOG",
-    "flagged_ts": 1789751886,
-    "liquidity_at_flag": 54190.25116046567,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
   "6i3Xj7fRaPkR6kLsokepEGGuRyYDLt4q5SXAtx74jTUS": {
     "name": "NASDOG",
     "symbol": "NASDOG",
@@ -29736,7 +29670,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "Am5mh7kHfPic59EHgTaJQuu3dhnwYXnGgrzCtSbzw6Q": {
@@ -29752,7 +29687,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "C2tJKxhrS9Mu7VvEbTsvyCX7HmovvhHzrex7aaHteowC": {
@@ -33207,7 +33143,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "C2drFewRqbtb5TavVxGTKRA9yFufPQM7MBaGfinzbNMi": {
@@ -33222,7 +33159,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "HUfyUurF6UqmuFnHzGBWS3weAvtiScnQjMXRYssFzx9H": {
@@ -33237,7 +33175,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "CBkipNhPvYVJjfapo4XAKyUcZ1ofZQTim3hWYhNNsRcK": {
@@ -33776,7 +33715,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "8UX98HG8J9eHJ28UJwhMQhrCvEuuaW6pDTeW5W4Qetpc": {
     "name": "urmomcoin",
@@ -33789,7 +33730,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "139WGR9ah9Nfd3iDCaD2QiTjeC4TeUy3BuswM3ehpump": {
     "name": "PepeBot",
@@ -33802,7 +33745,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "NEe4U78kydHLfsyKZ7ramYapU1gatngqcvytSzMp2Cx": {
     "name": "Gstock",
@@ -33815,7 +33760,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "G7CAK8RMxPjotQ5EHCsrQppWBU2HeSkTtYpAKbxMaB1L": {
     "name": "Grokbook",
@@ -33981,6 +33928,71 @@
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 90,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "GgsSaetRZNCuP9HEWjbojtVWByRWFxpr93S1wtGFpump": {
+    "name": "Blueprint",
+    "symbol": "BLUEPRINT",
+    "flagged_ts": 1790356811,
+    "liquidity_at_flag": 19463.204484558963,
+    "breakdown": {
+      "MOMENTUM": 84,
+      "SAFETY": 90,
+      "LIQUIDITY": 97,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "DubsuJ1BjVo4k15WGk7avLwxcVH1DWsbvfwJ1s3CqwFq": {
+    "name": "Claude Opus5.5",
+    "symbol": "Claude",
+    "flagged_ts": 1790356812,
+    "liquidity_at_flag": 34060.2168448513,
+    "breakdown": {
+      "MOMENTUM": 82,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "BCe33NwxfdtX9j8eNtqnJSDSY6b94TDiaijUTj3CWRkA": {
+    "name": "Bagwork",
+    "symbol": "Bagwork",
+    "flagged_ts": 1790356815,
+    "liquidity_at_flag": 33272.92401080437,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "BHGbeLDCJCp73bYqXt2tvre28uSSCj6Wxj77noNRwtcL": {
+    "name": "terrorist",
+    "symbol": "TERRORIST",
+    "flagged_ts": 1790356816,
+    "liquidity_at_flag": 38126.59929294104,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "DvEfY4DCyNMoXUgwfBU79LYWCJmkey6ArSnJ7iZgkEi": {
+    "name": "Compute",
+    "symbol": "Compute",
+    "flagged_ts": 1790356817,
+    "liquidity_at_flag": 51299.92467118308,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
