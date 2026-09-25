@@ -1,59 +1,4 @@
 {
-  "9A6D58gfCEmbvhdvQHsgpR25BcWAiFb5QiM288wQD7c5": {
-    "name": "rattery experiment",
-    "symbol": "RATTERY",
-    "flagged_ts": 1789762803,
-    "liquidity_at_flag": 29284.956325915526,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "G7AGdS9F6EoKLWZ7hcjpdkNWT4L7YLVPxr93QcB88zH": {
-    "name": "Leopardus Tilcayo",
-    "symbol": "TIGRINO",
-    "flagged_ts": 1789762807,
-    "liquidity_at_flag": 41138.73628332845,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "AiSbQxXVyeUvHrmV8SAZRo4EuDTX6sBevwiu7PXqaGkk": {
-    "name": "USO",
-    "symbol": "USO",
-    "flagged_ts": 1789762808,
-    "liquidity_at_flag": 52155.4973173889,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "Gb1r7ReN8hpZmZH67kA5HbCCsQGReknkhiwuLFKKhtkq": {
-    "name": "Finn Bags",
-    "symbol": "FINN",
-    "flagged_ts": 1789763487,
-    "liquidity_at_flag": 36482.1688025599,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "G4m9kmVn4BBV1LEwxDdi2ZKFXr9R3vzNUVyr9K8JZYMk": {
-    "name": "Leopardus Tilcayo",
-    "symbol": "TIGRINO",
-    "flagged_ts": 1789763487,
-    "liquidity_at_flag": 62142.14047148879,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
   "Cca52zFK9RY9wFstk6eLxhq5R2BeBkqdKB8r8mHAvp9Z": {
     "name": "Fred",
     "symbol": "Fred",
@@ -29534,7 +29479,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "4VLthERW6Htu8KppewYyxFLPKmknugZiDAFRw2D4UxLU": {
@@ -33277,7 +33223,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "Gi7vAEFxUWcJMNtaywJ24qHH1BcGMcBv4Jm6yAHY7bim": {
@@ -33292,7 +33239,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "EvQCkQfLUYx9eQtUtgR1VKvVEvUkaypwHWBP1sVewwPQ": {
@@ -33307,7 +33255,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "3ErzqY86pjVR1baYmgTL7w9bf4td2LAuUaaidihfeYHB": {
@@ -33322,7 +33271,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "BE1ebTnQ2HbNfc6hgfh4KxxYziKQ1ib7djxSHhCmtJCT": {
@@ -33831,7 +33781,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "BhAZuBvzvEGxk2jfaQVw92LGQJg836u3fxEUxCuSpump": {
     "name": "MANDATE OF HEAVEN",
@@ -33997,6 +33949,84 @@
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 90,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "JE2Ns7bgzN5bCGBfdctfikpVtPuGCQfG4QMy8xP9kdtp": {
+    "name": "america.gov",
+    "symbol": "AMERICA",
+    "flagged_ts": 1790368337,
+    "liquidity_at_flag": 19052.282647906086,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 95,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "43S1zmubWfNVM2n11ndV5dYkwqnVJZbzYxMgPQpkxx2c": {
+    "name": "musestream",
+    "symbol": "MUSESTREAM",
+    "flagged_ts": 1790368338,
+    "liquidity_at_flag": 26970.433905438615,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "ApBcemZEKdrZsWtb8ybG8VyJhhq6ojnBtc71mYHsycpZ": {
+    "name": "Let\u2019s Get Bands Twin",
+    "symbol": "LGBT",
+    "flagged_ts": 1790368339,
+    "liquidity_at_flag": 38933.381327683936,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "3PKnVAhHtcn9Lcxxc4aRUq2UXrPihr1ia3QAuek4c6wx": {
+    "name": "Apu",
+    "symbol": "Apu",
+    "flagged_ts": 1790368341,
+    "liquidity_at_flag": 27197.08546174541,
+    "breakdown": {
+      "MOMENTUM": 96,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "B1fFdCihoDu4XpdDZmabPH6LjRLau1Z4vgh2DNXcpump": {
+    "name": "super paidinu",
+    "symbol": "SUPERPAID",
+    "flagged_ts": 1790368342,
+    "liquidity_at_flag": 29338.501328480925,
+    "breakdown": {
+      "MOMENTUM": 69,
+      "SAFETY": 100,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "DbNukPsAhGEtvgW5hiEFjHgdgwZEzYNFJKSZbNWTtHoQ": {
+    "name": "america.gov",
+    "symbol": "AMERICA",
+    "flagged_ts": 1790368343,
+    "liquidity_at_flag": 25499.64737054205,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
