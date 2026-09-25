@@ -1,26 +1,4 @@
 {
-  "9226dziAf1iaNsZ6ACCnTWAxvbbrMcmPDEUuLUUoU2xQ": {
-    "name": "Pepe",
-    "symbol": "PEPE",
-    "flagged_ts": 1789772685,
-    "liquidity_at_flag": 42981.19503702196,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "74Dw9PwrvAtjqMv83s4kE9BrQjryhxQ8Mn36VZdeyzpM": {
-    "name": "Reserve Currency of Socialcom",
-    "symbol": "RCSC",
-    "flagged_ts": 1789772687,
-    "liquidity_at_flag": 183832.7063524783,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
   "E8mALE1zhRFgpWsaRaenQMnasUaLrAVJKynEiRQVZvuN": {
     "name": "Leopardus Tilcayo",
     "symbol": "TIGRINO",
@@ -33483,7 +33461,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "LnxKmGehVJKRbviSwEjVRpvwSfsaNfsdAN2okPayi5D": {
@@ -34112,7 +34091,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "7UQ8FKbJ3f2HQ9i8uD2vjoVM54ZnhgrxJcm8ZXa1ZzWv": {
     "name": "Just a ghost guy",
@@ -34125,7 +34106,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "FBeUGxNT5Tc1WTrrTBWevwdPoEBwGhrHuN9SGvejHrv": {
     "name": "The Hero",
@@ -34291,6 +34274,45 @@
     "breakdown": {
       "MOMENTUM": 66,
       "SAFETY": 90,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "7pax2o5X7aWSCYm3xfAeMvhB7aXdzdWzuA6yycuAoeoZ": {
+    "name": "Mintlands",
+    "symbol": "MINT",
+    "flagged_ts": 1790377491,
+    "liquidity_at_flag": 23894.974675479574,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 90,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "5cyvgL5gyfVvh93VP3hgkAR4jkdCyxSTRNX3jGDv5fSj": {
+    "name": "america.gov",
+    "symbol": "AMERICA",
+    "flagged_ts": 1790377492,
+    "liquidity_at_flag": 31156.163927853362,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "A3wtHGm2WabLp5wwyXMSit85b4NoRBPDopkEeRDVsu5K": {
+    "name": "Restock Markets",
+    "symbol": "Restock",
+    "flagged_ts": 1790377494,
+    "liquidity_at_flag": 37386.55740444672,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
