@@ -1,37 +1,4 @@
 {
-  "DCj5KbtSMoA76wa4GSCWrMPBNazHrxS5Dr1dMJuEroLL": {
-    "name": "ROLLCALL.SO",
-    "symbol": "ROLLCALL",
-    "flagged_ts": 1789764774,
-    "liquidity_at_flag": 20072.511553264725,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "EbbQg6H4hNpCJDMsKYKxEJ7x7euajzNzEw3HPRHTEWSS": {
-    "name": "Churro",
-    "symbol": "CHURRO",
-    "flagged_ts": 1789764776,
-    "liquidity_at_flag": 46419.52080355032,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "HPemt9DaQ2XE8EmNJRDtLG9c1Yx5rmpA9RpuLWomsfeZ": {
-    "name": "Churro",
-    "symbol": "CHURRO",
-    "flagged_ts": 1789764777,
-    "liquidity_at_flag": 35781.8781462686,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
   "4NSaxtuMSMcWUnuu1AQ28U3pXGooVS3Wa32Xy8AvraKx": {
     "name": "kms",
     "symbol": "KMS",
@@ -29475,7 +29442,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "ADuPiWtHDgrtgdrt3WJK27qkdU8nJCyrfErzhZ2UVbwQ": {
@@ -29491,7 +29459,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "FFJaUXuBsg9CRUE3a5qKo1kVQixxUtmaSyGwDqvwSMPi": {
@@ -29507,7 +29476,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "EXxfp23WnkQ43u3mirUUp7Vtnszh64Q1L3YToqqTRX7Q": {
@@ -33298,7 +33268,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "75oGLoEaQweNuMd6pwYcneRho6ZYpujvMKTzwMrpdESr": {
@@ -33313,7 +33284,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "CeKooAq9fbP72aXE3Hxt8RRJ8GocC34MmdzPyrJdPxYH": {
@@ -33328,7 +33300,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "89sbcpCKgaerPAvVVbSH7VrcuXPPxn6oZXHKDU2mcM2F": {
@@ -33343,7 +33316,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "CyKDftwgNsifHhno7o2Ypz35238LYK4wrJruWq3Npump": {
@@ -33777,7 +33751,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "AnTwpTrEkRTDTpuxbY3qQ3qM4pESqYxZF74DWe1yxSdG": {
     "name": "\u4e2d\u56fd\u718a\u732b",
@@ -33790,7 +33766,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "967L2A9hahYuRiitN8EpQiGeXNgccHKPqbjZzc2goUwW": {
     "name": "The Sphere",
@@ -34005,6 +33983,19 @@
     "symbol": "51X",
     "flagged_ts": 1790369218,
     "liquidity_at_flag": 36343.35551787826,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "D7UUAfqiqyW84HXVGnMRLJy5bdihkQcN4LCL5hDb58SK": {
+    "name": "BREW",
+    "symbol": "BREW",
+    "flagged_ts": 1790369779,
+    "liquidity_at_flag": 31582.234851052195,
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 60,
