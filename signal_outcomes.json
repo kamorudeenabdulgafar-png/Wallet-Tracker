@@ -1,26 +1,4 @@
 {
-  "GSuj2K9ehP7NZwdJL5cXVfwMtJhafuZ416cStbMVKqwq": {
-    "name": "OTC",
-    "symbol": "OTC",
-    "flagged_ts": 1789697109,
-    "liquidity_at_flag": 31119.67888273271,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "Dj53AeVZLDPNhEoTbCtMi2M5qsYS2otnBWK9Ghrtwft2": {
-    "name": "Levity",
-    "symbol": "LEVITY",
-    "flagged_ts": 1789697111,
-    "liquidity_at_flag": 32747.331055847273,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
   "5cWydMiyMvnWk2csDsa1VqAZFSEPhR7FScGAnedACqYt": {
     "name": "zpool.fun",
     "symbol": "ZPOOL",
@@ -28778,7 +28756,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "2jPe4jtqMAz66VKkJtE5kqoHGxNuJZ7BGphAFm3RqDfj": {
@@ -28794,7 +28773,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "A6qqSNn19aD5bJK3g7QZ5xfWzi772yx37HdyfvR3CPmx": {
@@ -32473,7 +32453,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "8fzziiswWWta8K3H8YWUzxdHUuN2yDC47fQz17Jspump": {
@@ -32488,7 +32469,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "sugEbczEKKMGdRidWFNRWXXGrByj4LSzejtfo8vndcC": {
@@ -32817,7 +32799,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "5KLnbKmYJhjAtE4ETLWy7GMBMrAdMwHoEtc3DQyWvVBi": {
     "name": "GG Market",
@@ -32941,6 +32925,32 @@
     "symbol": "COLLECT",
     "flagged_ts": 1790301895,
     "liquidity_at_flag": 233979.99127688777,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "8GY4U1xixzqCiKLKiybo4yiMGTQqmJt8NbvtQ6UgvLuL": {
+    "name": "touch grASS",
+    "symbol": "GRASS",
+    "flagged_ts": 1790302786,
+    "liquidity_at_flag": 75311.97394028923,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "5qUT9ZwKhn6N1auaLLYQhR6hqn8uJwH1rLvrjFHczfB2": {
+    "name": "\u4e2d\u79cb\u7389\u5154",
+    "symbol": "\u4e2d\u79cb\u7389\u5154",
+    "flagged_ts": 1790302787,
+    "liquidity_at_flag": 39538.3536477148,
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 60,
