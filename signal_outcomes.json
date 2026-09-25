@@ -29538,7 +29538,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "36sXP4TobquwgkfNDNa4r5gDxoLZdJmy3cJNUgUXpump": {
@@ -29554,7 +29555,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "F8skPJiz8eLdDCsVfDh1Mnmx7W9dmMHJSEJApH8muMy6": {
@@ -33217,7 +33219,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "BxGdxqU1NSp9feCeMNizVh2gjQVSSyzzCBG2DBWK6PaM": {
@@ -33232,7 +33235,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "J1qmiR7tjGacxwo9LNXDr3LQreAJib4MXA87gomuEZih": {
@@ -33247,7 +33251,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "2kWYDMNdYmnMxi8pwsvX845F82AYrxnHE7zqT6P8egbB": {
@@ -33916,6 +33921,58 @@
     "symbol": "\u798f\u5e73",
     "flagged_ts": 1790366037,
     "liquidity_at_flag": 20580.63090346357,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "967L2A9hahYuRiitN8EpQiGeXNgccHKPqbjZzc2goUwW": {
+    "name": "The Sphere",
+    "symbol": "SPHERE",
+    "flagged_ts": 1790366686,
+    "liquidity_at_flag": 30905.832772346545,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "B2xsn9g9UyZXV38Xc818d16ArACZBvJjL1QTES4kqnxw": {
+    "name": "getbags.fun",
+    "symbol": "BAGS",
+    "flagged_ts": 1790366687,
+    "liquidity_at_flag": 25318.58463308293,
+    "breakdown": {
+      "MOMENTUM": 99,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "CjHeM5ZA3rMwkt71oMTjq7VgBnPEi6ZaoDniCJYkfeqg": {
+    "name": "america.gov",
+    "symbol": "AMERICA",
+    "flagged_ts": 1790366688,
+    "liquidity_at_flag": 37389.96779082275,
+    "breakdown": {
+      "MOMENTUM": 91,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "7J4NHtyFMzC9zKfirSnNe2JgzYTBVn8CEhvcwBKp7qi6": {
+    "name": "unpeg",
+    "symbol": "UNPEG",
+    "flagged_ts": 1790366690,
+    "liquidity_at_flag": 21412.949127319633,
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 60,
