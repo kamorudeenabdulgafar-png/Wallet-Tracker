@@ -29574,7 +29574,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "Bg75GaeTN7uVqtUEsquh61hwENeaA8TD5K8HwX4Lfomo": {
@@ -34121,7 +34122,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "DZTzGWfGuw1CvcXJvT9PB44iXsypFUbLWDDMANf9ZabS": {
     "name": "The Colony",
@@ -34134,7 +34137,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "AFwS8ui9ACcHf78nFEk6nfGNZoSniqMLFLLszL1gWiWu": {
     "name": "\u8f66\u5398\u5b50",
@@ -34147,7 +34152,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "Dcxiqsa4v2537izs3VBph9xL7nPViGWT7LDHatv58ssN": {
     "name": "\u8f66\u5398\u5b50",
@@ -34310,6 +34317,19 @@
     "symbol": "Restock",
     "flagged_ts": 1790377494,
     "liquidity_at_flag": 37386.55740444672,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "EPLBu9SHyWphRZedCniV8w6H5PkSvpuVH3MDv2oHKxn1": {
+    "name": "Nomad Arena",
+    "symbol": "Arena",
+    "flagged_ts": 1790378316,
+    "liquidity_at_flag": 53768.34298545611,
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 60,
