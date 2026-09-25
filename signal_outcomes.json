@@ -1,92 +1,4 @@
 {
-  "MQtt2L1cM22mC9Q3T1cUgQeZavRsScFcgEw4bFf347i": {
-    "name": "Pumpdog",
-    "symbol": "PDOG",
-    "flagged_ts": 1789759173,
-    "liquidity_at_flag": 33126.76386342448,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "5cNCHV5CuXvqL8Gno5giqGajZwU6T2FHXeNsuk5v3uV1": {
-    "name": "Pumpdog",
-    "symbol": "PDOG",
-    "flagged_ts": 1789759174,
-    "liquidity_at_flag": 27248.342831844868,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "6aW2CwGTUE5MKoUx4uEJXQaVXkvNm12RFmjinYd5RPWg": {
-    "name": "The One In A Million",
-    "symbol": "ONE",
-    "flagged_ts": 1789759175,
-    "liquidity_at_flag": 25218.356901369618,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "APBSqiCrVUGtA6ox1U3U5mLck23SFNmJcg7mndXehqgk": {
-    "name": "NASDOG",
-    "symbol": "NASDOG",
-    "flagged_ts": 1789759176,
-    "liquidity_at_flag": 36061.11349937253,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "HRdkeEVXBv5VS8KxHUF2HqCdHsdxpdJwqPkUBNiQD7Vw": {
-    "name": "Crates",
-    "symbol": "CRATES",
-    "flagged_ts": 1789759177,
-    "liquidity_at_flag": 37511.60723919238,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "J6km4Fbe49KEWc8E9qS4YoLXfwtPt3sjFZCfFqivmAfG": {
-    "name": "Leopardus Tilcayo",
-    "symbol": "TIGRINO",
-    "flagged_ts": 1789759179,
-    "liquidity_at_flag": 58567.49647036844,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "HeQWch8HSLzN94fuUkD64rZHuLnY1YDLj8CAhp9nLvE3": {
-    "name": "The One In A Million",
-    "symbol": "ONE",
-    "flagged_ts": 1789759766,
-    "liquidity_at_flag": 31104.281593479565,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "GXynkU5TM8TjJGvh2wyTuxQTAhZ5DbMzhmta6Bi5jP3a": {
-    "name": "Pumpdog",
-    "symbol": "PDOG",
-    "flagged_ts": 1789759767,
-    "liquidity_at_flag": 51827.18771725857,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
   "6MXygsP9QDJiEqGCuHjbsru6vU1YmtynDWnTsx6uWbTv": {
     "name": "TartSwap",
     "symbol": "TART",
@@ -33925,7 +33837,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "B5b4LPJVm7HgDDYkaiHmgH5v2fpzU8Q6AxzskbAKEjTz": {
     "name": "YASHMODE",
@@ -34025,6 +33939,19 @@
     "liquidity_at_flag": 27438.95175356994,
     "breakdown": {
       "MOMENTUM": 84,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "46HFmg7MeaLmN6EqYeXFnTYmEhHRMgxEcaEkDiPvNpKm": {
+    "name": "Loan",
+    "symbol": "LOAN",
+    "flagged_ts": 1790364574,
+    "liquidity_at_flag": 40597.40199824296,
+    "breakdown": {
+      "MOMENTUM": 100,
       "SAFETY": 60,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
