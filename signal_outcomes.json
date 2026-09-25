@@ -1,26 +1,4 @@
 {
-  "3KTsn9292VAiJpBdmQSzMFwYLfX76DqGpHAjWfrFAWbR": {
-    "name": "\u65e5\u672c\u6295\u964d\u7b7e\u5b57\u4eea\u5f0f\u7ed3\u675f\u65f6\u95f49\u65f618\u5206",
-    "symbol": "918",
-    "flagged_ts": 1789724834,
-    "liquidity_at_flag": 33413.67210695807,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "8siSty9KUy91wPpw9sF3WA28BpYEqvEUXjoso2wQnVfZ": {
-    "name": "Leopardus tilcayo",
-    "symbol": "Tilcayo",
-    "flagged_ts": 1789724837,
-    "liquidity_at_flag": 44760.830499977,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
   "87Mfb87oFpjzJv7styXR7EpF84bYFEptT7jVhUamPcMs": {
     "name": "Neko",
     "symbol": "Neko",
@@ -29491,7 +29469,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "689VL9JsJaxt38uvgkNBMP5sCh6yqAuHjYLDjSMdrHd": {
@@ -32562,7 +32541,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "FCHzXMULoUQUcRsmHV3F4c1soNLYRRNWAYjAzTm8vB2A": {
@@ -33056,7 +33036,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "6Cw4kWUaZHmh71E3YRiHFRvLA28EiYp4Px2GkUrXfvWM": {
     "name": "Shillpad",
@@ -33069,7 +33051,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "14LKB2UB9xqBgQyXdU7ikFUn4PWmdavbD8WZFjB7Cvcu": {
     "name": "TikTok US",
@@ -33310,6 +33294,58 @@
     "symbol": "FOMIES",
     "flagged_ts": 1790329424,
     "liquidity_at_flag": 35363.12850673287,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "6fzV6s6UUXN1v4UYzryXLPYm42mpTCarrWcuALr2pump": {
+    "name": "ForeverOnlineMissingOut",
+    "symbol": "FOMO",
+    "flagged_ts": 1790330126,
+    "liquidity_at_flag": 34685.09285163878,
+    "breakdown": {
+      "MOMENTUM": 92,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "B5s2qXhJKkHaQ3izSwxuogj43mPwxA7EUGMhwiUxYcW8": {
+    "name": "51\u5403\u74dc\u7f51\u5b98\u65b9\u9996\u53d1Meme",
+    "symbol": "51X",
+    "flagged_ts": 1790330127,
+    "liquidity_at_flag": 38235.731555448736,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "Gio6egLnmU4tRRB46XxjN6nhFWu4NoXsf4UQnRyGmj8n": {
+    "name": "Swarmed",
+    "symbol": "SWARM",
+    "flagged_ts": 1790330129,
+    "liquidity_at_flag": 38897.88014411951,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "EnQeYVztWuxdQcqGeNZbTd5rYdVcrCQxVS1mh7ktW1WJ": {
+    "name": "\u4e2d\u79cb\u7389\u5154",
+    "symbol": "\u4e2d\u79cb\u7389\u5154",
+    "flagged_ts": 1790330132,
+    "liquidity_at_flag": 41901.680522400304,
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 60,
