@@ -29486,7 +29486,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "AmqJXEbQzbztsg75ExMxNgMgEoNGLihCCLJwqHMVaCoh": {
@@ -32557,7 +32558,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "GLFyrr28AQp4uZ3qzhZqSdpbMTS1H6Usa7cKmJTb9RBQ": {
@@ -32572,7 +32574,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "EX4pUAsSssQtbXKnqLwLdDq21FJC2T2QqgSwYadYcNBs": {
@@ -33066,7 +33069,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "5g9PWcRUHpmqm5uKycpShKXJB18sGLeCEzgB3qrRpump": {
     "name": "Swarmed",
@@ -33079,7 +33084,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "AttLKdv1UaWeUa5F9grZMLmJakgdQR5eDajugijSxrP": {
     "name": "Muse Protocol",
@@ -33092,7 +33099,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "G1kJu24bp7fqgouQGi1YGfrHjMUuL1S2RKTNpj3rmQWA": {
     "name": "\u4e2d\u79cb\u7389\u5154",
@@ -33105,7 +33114,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "FdZfV66SZaB3o85Xs86arTVrCjpc7meVytwHiU9PpRVz": {
     "name": "Shillpad",
@@ -33118,7 +33129,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "3c5bKh36Hms7161bFmim8Qh4qJLpnD8oFF1JvRWMFwmj": {
     "name": "Kunashiri",
@@ -33348,6 +33361,58 @@
     "liquidity_at_flag": 41901.680522400304,
     "breakdown": {
       "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "9Fh5fE9W6NzyiX8s5f3He2c8TzSbWUE9ucdMXuyGyY2g": {
+    "name": "ForeverOnlineMissingOut",
+    "symbol": "FOMO",
+    "flagged_ts": 1790330743,
+    "liquidity_at_flag": 29361.394198204285,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "8tZZyp1TF6nrhTDXxrGEsX95jNywSCwcUReEnZh5g5SD": {
+    "name": "Bear",
+    "symbol": "\ud83d\udc3bBear",
+    "flagged_ts": 1790330744,
+    "liquidity_at_flag": 57870.624614667,
+    "breakdown": {
+      "MOMENTUM": 97,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "DLnCRd7Crc59WGifkzYWGKiKGZAASwuKACETGbrsHnV": {
+    "name": "Pons",
+    "symbol": "PONS",
+    "flagged_ts": 1790330745,
+    "liquidity_at_flag": 222835.4694258992,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "RpcRKxmTmdR8bF6F8XWMaVaCRZbtvwd2zJecMssiwYA": {
+    "name": "8080.life",
+    "symbol": "8080",
+    "flagged_ts": 1790330746,
+    "liquidity_at_flag": 32556.23181931053,
+    "breakdown": {
+      "MOMENTUM": 93,
       "SAFETY": 60,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
