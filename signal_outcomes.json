@@ -1,37 +1,4 @@
 {
-  "2ArFtiKr1s6eUCZPbYqLUSGNjq6tgGgq4NX1f15B5xjx": {
-    "name": "NASDOG",
-    "symbol": "NASDOG",
-    "flagged_ts": 1789753963,
-    "liquidity_at_flag": 36155.98656160159,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "HvD7b9ZnBHWAJTvnKSKWN2Mof2EeU1APX51n63q2vJ2n": {
-    "name": "Github Cat",
-    "symbol": "GITCAT",
-    "flagged_ts": 1789753964,
-    "liquidity_at_flag": 29129.131411662478,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "Aiyv93vEdUUY3KsCVDSAfhn726KrcMr9biofiro9FHdx": {
-    "name": "Github Cat",
-    "symbol": "GITCAT",
-    "flagged_ts": 1789753965,
-    "liquidity_at_flag": 28068.268679912537,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
   "VQ8j7T4N9PsTDreAsTV5Wt6myonpsjZXCrpRTbHQRVB": {
     "name": "fwub",
     "symbol": "fwub",
@@ -29650,7 +29617,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "7tUGtgZ9aAWUqPhAUUdLqTK2ryTimcPGQMs9A9to7nDT": {
@@ -29666,7 +29634,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "2RL2wEYr9QoP8WGe7EDAHnXUf3Ut36bd9A3NN1RvubrN": {
@@ -29682,7 +29651,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "3N4zXUPMZgSh4ZBE4Ru1oWnLKdYXgmFeMBXAw7E2sxCZ": {
@@ -29698,7 +29668,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "3LxiRcXtia2LS5iBa9z9rvmdC6LdqrxMUbCCtFvuhWKA": {
@@ -33812,7 +33783,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "75oGLoEaQweNuMd6pwYcneRho6ZYpujvMKTzwMrpdESr": {
     "name": "DOCK",
@@ -33825,7 +33798,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "CeKooAq9fbP72aXE3Hxt8RRJ8GocC34MmdzPyrJdPxYH": {
     "name": "Jumper",
@@ -33838,7 +33813,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "89sbcpCKgaerPAvVVbSH7VrcuXPPxn6oZXHKDU2mcM2F": {
     "name": "Onit Protocol",
@@ -33851,7 +33828,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "CyKDftwgNsifHhno7o2Ypz35238LYK4wrJruWq3Npump": {
     "name": "DOGRILLA",
@@ -33978,6 +33957,19 @@
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "FeSBGcJtBG2pajkXkauxmGq3b6mfE5PfiNsb3HDMpump": {
+    "name": "HackGPT",
+    "symbol": "HACKGPT",
+    "flagged_ts": 1790359004,
+    "liquidity_at_flag": 23646.641811381327,
+    "breakdown": {
+      "MOMENTUM": 60,
+      "SAFETY": 90,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
