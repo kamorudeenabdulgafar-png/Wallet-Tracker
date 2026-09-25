@@ -1,37 +1,4 @@
 {
-  "4pFqLknRHBKAa9Ao58T7CEeLxkVazXW3oKo6pBAKxA3q": {
-    "name": "Cat in a box",
-    "symbol": "xcat",
-    "flagged_ts": 1789710819,
-    "liquidity_at_flag": 23588.568353176408,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "3rGDdJk7GP8ekSPAe7kvrLdNMsKNkNbJxXyWnBypyJan": {
-    "name": "Anonymous Musebook",
-    "symbol": "Zmusebook",
-    "flagged_ts": 1789710822,
-    "liquidity_at_flag": 39507.44086594481,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "2y4nGeu8VDNmn23vQKPtNY5QzKYUzL3Rw4RTj5GNJWDb": {
-    "name": "Circled",
-    "symbol": "CIRCLED",
-    "flagged_ts": 1789710823,
-    "liquidity_at_flag": 59845.06979017723,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
   "GVdg6p41Znadq8fTVj1QzGggQspLVAvz8eLS68NgozSP": {
     "name": "\u8d75\u5bb6\u9a79",
     "symbol": "\u8d75\u5bb6\u9a79",
@@ -29118,7 +29085,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "6s99X4845TjGkyqR35VY6zvHXCrvRWBzCzNURCHTuBBD": {
@@ -29134,7 +29102,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "k8bWpT522B5MSohAGePwD4SJVV3GNCmLuiND9eypump": {
@@ -29150,7 +29119,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "CDgZ5rz2N9k8ZPGfukVzNG6K6WMwiPFx6jT5qrLHLxjP": {
@@ -32413,7 +32383,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "73UdGDgdYhbk2JfhaU8qRjMUS7mxDg6so9pcSam9pump": {
@@ -33138,6 +33109,32 @@
     "symbol": "\u6a21\u56e0\u4eba\u751f",
     "flagged_ts": 1790315337,
     "liquidity_at_flag": 32101.671566354988,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "FCHzXMULoUQUcRsmHV3F4c1soNLYRRNWAYjAzTm8vB2A": {
+    "name": "company",
+    "symbol": "company",
+    "flagged_ts": 1790315846,
+    "liquidity_at_flag": 28858.83638040042,
+    "breakdown": {
+      "MOMENTUM": 82,
+      "SAFETY": 75,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "GLFyrr28AQp4uZ3qzhZqSdpbMTS1H6Usa7cKmJTb9RBQ": {
+    "name": "\u73a9\u5e01\u5f52\u8d75",
+    "symbol": "\u73a9\u5e01\u5f52\u8d75",
+    "flagged_ts": 1790315847,
+    "liquidity_at_flag": 58373.46188384844,
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 60,
