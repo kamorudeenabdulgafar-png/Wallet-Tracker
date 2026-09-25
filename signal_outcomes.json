@@ -29576,7 +29576,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "2JFQiSs3fykWsBZ72jSBaXDnqN6vMqN9gMoaVy9UUrwh": {
@@ -29592,7 +29593,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "CcwAn1oi8GwDwRNKKtTx6z9MYvoRa21pyq1YGCpmCUCF": {
@@ -32935,7 +32937,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "BQrawv7f3Uf7k5FJHJStjy2WwTJg1G8H2YXVVwmpump": {
@@ -32950,7 +32953,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "3ejomgbHDEZ6pobynzabdpwT11pg47ZZV5MLYGtee2dE": {
@@ -32965,7 +32969,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "22Z9VYAuV7G56v9DtJw6hMCPftgVM4embC5izsiYU5qf": {
@@ -32980,7 +32985,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "9hxUGCHeu4ed8cXntoHt5d1FqN26vgZ7NretMT9Jjq5": {
@@ -32995,7 +33001,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "J141JCiXKGcrhDCgWUTCL9qz7h943iCibNiLNfqZpump": {
@@ -33010,7 +33017,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "8niutqnseHru3ELHb7v9XMvWyJDzqe32czz4LeAN1yfe": {
@@ -33474,7 +33482,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "7gpUjzk2GqjgKkzfgYGbaYMxkpFviFgViXmBhGDyp551": {
     "name": "\u82b1\u597d\u6708\u5706\u591c",
@@ -33487,7 +33497,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "dHK7wjroEPNfyCpezMowfB7Jf68eE4ADbJAsjhkpump": {
     "name": "Trump Cat",
@@ -33663,6 +33675,32 @@
     "symbol": "Bagwork",
     "flagged_ts": 1790347713,
     "liquidity_at_flag": 34566.60608046608,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "8d6FRAKPvbr8inGe1C4NaEqd2GiBZXN2RE5ak7Qapump": {
+    "name": "CZ Mooncake",
+    "symbol": "Mooncake",
+    "flagged_ts": 1790348326,
+    "liquidity_at_flag": 36772.251413898426,
+    "breakdown": {
+      "MOMENTUM": 77,
+      "SAFETY": 100,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "5DYfe78yu86T2ZbuG3Xy4TRYewuJ85mAr13aA7DS13qo": {
+    "name": "Return To Memes",
+    "symbol": "MEMES",
+    "flagged_ts": 1790348328,
+    "liquidity_at_flag": 32358.30454019601,
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 60,
