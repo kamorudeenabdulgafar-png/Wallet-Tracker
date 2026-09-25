@@ -1,15 +1,4 @@
 {
-  "2ubhzKPouTyA3yrzo7DfptPvDHsr1NBUcYPvDkR3FNut": {
-    "name": "Regain Your Humanity",
-    "symbol": "WYND",
-    "flagged_ts": 1789691235,
-    "liquidity_at_flag": 23214.93349648658,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
   "6h8tQb5tYq5Dp3NQcxeq1b5Riosy79hnjrs4DKqVL5YA": {
     "name": "Public Cat",
     "symbol": "PCAT",
@@ -28545,7 +28534,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "E8x1RrRrp63ESJ6AKq7MUqYBGibmtWZ4XKKJWJTYDdHt": {
@@ -28561,7 +28551,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "DxEiYeTfHyYXKuQo3fqqcZ5bhweaznfCBj4u1cUNDfwX": {
@@ -28577,7 +28568,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "58MCBuz9Dr5TjQ8DVc9HNxboU7G871z9obsMDKPUfdEu": {
@@ -32384,7 +32376,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "4VLthERW6Htu8KppewYyxFLPKmknugZiDAFRw2D4UxLU": {
@@ -32773,7 +32766,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "6Ua9gLjWFdooXz1z7X9Fnx5de1Cs7qhy95vsXjL1nhVa": {
     "name": "SEVEN",
@@ -32849,6 +32844,32 @@
       "MOMENTUM": 100,
       "SAFETY": 60,
       "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "9PxibZ69bKh76EMXvQ6mESWiJvSx7NRmo4bngdxppump": {
+    "name": "Solana Castle",
+    "symbol": "CASTLE",
+    "flagged_ts": 1790296194,
+    "liquidity_at_flag": 43278.45848414637,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 100,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "4tKvrN5mhanCowMKcNmiM2pYADVX9uN6JQW2HruCpump": {
+    "name": "1 Sol And A Dream",
+    "symbol": "1SOL",
+    "flagged_ts": 1790296195,
+    "liquidity_at_flag": 10555.769850493041,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 75,
+      "LIQUIDITY": 53,
       "SMART MONEY": 0
     },
     "checkpoints_done": []

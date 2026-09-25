@@ -1,5 +1,5 @@
 {
-  "last_updated": 1790294846,
+  "last_updated": 1790296200,
   "wallets": [
     {
       "label": "Dev wallet 1",
@@ -68,7 +68,7 @@
         "cbbtcf3aa214zXHbiAZQwf4122FBYbraNdFqgw4iMij",
         "Xsa62P5mvPszXL1krVUnU5ar38bBSVcWAB6fmPCo5Zu"
       ],
-      "last_active": 1790292626,
+      "last_active": 1790296191,
       "positions": {},
       "realized_pnl_usd": 0.0
     }
@@ -87,7 +87,7 @@
     "count": 2835,
     "up_count": 613,
     "total_change_pct": -155586.29928175083,
-    "rug": 1448,
+    "rug": 1451,
     "doing_well": 14,
     "steady": 7,
     "fading": 16
@@ -95,6 +95,56 @@
   "learning_insight": "Coins that rugged averaged SAFETY 69; coins that did well averaged SAFETY 95.",
   "settings": {},
   "recent_alerts": [
+    {
+      "ts": 1790296200,
+      "type": "outcome",
+      "message": "\ud83d\udfe0 FomoFantasy (FomoFantasy) is fading \u2014 down 58% so far."
+    },
+    {
+      "ts": 1790296199,
+      "type": "outcome",
+      "message": "\ud83d\udd34 launchdap (dap) is dropping fast \u2014 down 69%, may be rugging."
+    },
+    {
+      "ts": 1790296198,
+      "type": "outcome",
+      "message": "\ud83d\udd34 Bluf (BLUF) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
+    },
+    {
+      "ts": 1790296197,
+      "type": "outcome",
+      "message": "\ud83d\udd34 parafactual (parafactua) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
+    },
+    {
+      "ts": 1790296196,
+      "type": "outcome",
+      "message": "\ud83d\udd34 Untaxed App (UNTXD) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
+    },
+    {
+      "ts": 1790296195,
+      "type": "scanner",
+      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\n1 Sol And A Dream (1SOL)\nOpportunity: 72/100\n\nMOMENTUM     100\nSAFETY       75\nLIQUIDITY    53\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$10,556, 19 min since pool creation\n\u2022 Up +93% in the last hour, ~$28,265 in 24h volume (2.7x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 25/100):\n\u2022 top 10 holders own 69% of supply (concentrated)\n\nCA: 4tKvrN5mhanCowMKcNmiM2pYADVX9uN6JQW2HruCpump\nhttps://dexscreener.com/solana/4tKvrN5mhanCowMKcNmiM2pYADVX9uN6JQW2HruCpump\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
+    },
+    {
+      "ts": 1790296194,
+      "type": "scanner",
+      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 EXCEPTIONAL\nSolana Castle (CASTLE)\nOpportunity: 90/100\n\nMOMENTUM     100\nSAFETY       100\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$43,278, 18 min since pool creation\n\u2022 Up +96% in the last hour, ~$1,562,678 in 24h volume (36.1x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Low, 0/100):\n\u2022 No major red flags found\n\nCA: 9PxibZ69bKh76EMXvQ6mESWiJvSx7NRmo4bngdxppump\nhttps://dexscreener.com/solana/9PxibZ69bKh76EMXvQ6mESWiJvSx7NRmo4bngdxppump\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
+    },
+    {
+      "ts": 1790296191,
+      "type": "wallet",
+      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: USDC -> 0.0790 SOL (~$9.27)\nTrade size: ~$9.27\nBought token: SOL (SOL)\nCA: So11111111111111111111111111111111111111112\nhttps://solscan.io/tx/4RKVTHjqPts5Unvy5fx2BErj94E43EHXoziixSWAFXeTB6Vvfc6i3KGcHr3R1cdztntN6fV6EWRa3EYMZtGG5xWJ"
+    },
+    {
+      "ts": 1790296191,
+      "type": "wallet",
+      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: USDC -> 0.2312 SOL (~$27.15)\nTrade size: ~$27.15\nBought token: SOL (SOL)\nCA: So11111111111111111111111111111111111111112\nhttps://solscan.io/tx/28wymx3yuXRGoQtB1kPeFPUFgPTnd7PgMu8CG5PVEMFyj9PUgpZhongMCgS57TLMWfu15zMUqYvTpM2BAaCzF9Gf"
+    },
+    {
+      "ts": 1790296190,
+      "type": "wallet",
+      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: USDC -> 0.1021 SOL (~$11.98)\nTrade size: ~$11.98\nBought token: SOL (SOL)\nCA: So11111111111111111111111111111111111111112\nhttps://solscan.io/tx/ab96XsjRgqqDvNXGcJFcuPYW8fCMz49FmLNvnzJbD9R7jh9g9iyXpzxhkBEXh94iUoTzkCJ33n9QrWGo5cNAzwr"
+    },
     {
       "ts": 1790294846,
       "type": "outcome",
@@ -294,56 +344,6 @@
       "ts": 1790291945,
       "type": "outcome",
       "message": "\ud83d\udd34 Stonked (STONKED) is dropping fast \u2014 down 100%, may be rugging."
-    },
-    {
-      "ts": 1790291945,
-      "type": "outcome",
-      "message": "\ud83d\udd34 Just Wuf (WUF) turned out to be a rug \u2014 liquidity dropped 88% over 24h."
-    },
-    {
-      "ts": 1790291943,
-      "type": "scanner",
-      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 EXCEPTIONAL\nFomoFantasy (FomoFantasy)\nOpportunity: 90/100\n\nMOMENTUM     100\nSAFETY       100\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$41,782, 12 min since pool creation\n\u2022 Up +96% in the last hour, ~$210,640 in 24h volume (5.0x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Low, 0/100):\n\u2022 No major red flags found\n\nCA: Bg75GaeTN7uVqtUEsquh61hwENeaA8TD5K8HwX4Lfomo\nhttps://dexscreener.com/solana/Bg75GaeTN7uVqtUEsquh61hwENeaA8TD5K8HwX4Lfomo\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
-    },
-    {
-      "ts": 1790291105,
-      "type": "outcome",
-      "message": "\ud83d\udd34 goon (goon) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
-    },
-    {
-      "ts": 1790291104,
-      "type": "outcome",
-      "message": "\ud83d\udd34 goon (goon) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
-    },
-    {
-      "ts": 1790291104,
-      "type": "scanner",
-      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\nOn The Radar (OTR)\nOpportunity: 76/100\n\nMOMENTUM     100\nSAFETY       60\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$32,574, 15 min since pool creation\n\u2022 Up +117% in the last hour, ~$96,300 in 24h volume (3.0x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 98% of supply (very concentrated)\n\nCA: AVbsZ36shjXdQrjv8QNFEYvgU1Ptkvk47ozouAEFaCSs\nhttps://dexscreener.com/solana/AVbsZ36shjXdQrjv8QNFEYvgU1Ptkvk47ozouAEFaCSs\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
-    },
-    {
-      "ts": 1790291101,
-      "type": "wallet",
-      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: USD1 -> USDC\nTrade size: unknown\nBought token: USD Coin (USDC)\nCA: EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v\nhttps://solscan.io/tx/5J6NVATNzZnADcRmFvaRa3n9uJHcupge9kfPwso1U9tDQy7u7vvcnS1U8jcA5naiVfJoiJ7pxSio2RPjHGncPts8"
-    },
-    {
-      "ts": 1790290488,
-      "type": "outcome",
-      "message": "\ud83d\udfe0 Parlay Trade (PARLAY) is fading \u2014 down 44% so far."
-    },
-    {
-      "ts": 1790290487,
-      "type": "outcome",
-      "message": "\ud83d\udd34 goon (goon) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
-    },
-    {
-      "ts": 1790290486,
-      "type": "outcome",
-      "message": "\ud83d\udd34 goon (goon) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
-    },
-    {
-      "ts": 1790290485,
-      "type": "outcome",
-      "message": "\ud83d\udd34 \u7389\u5154 (\u7389\u5154) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
     }
   ]
 }
