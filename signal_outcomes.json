@@ -1,59 +1,4 @@
 {
-  "2UYFf4eJjaw8pFwRf8AftBgC1Y1rheFnD9unMorgpump": {
-    "name": "Privacy Cat",
-    "symbol": "PCAT",
-    "flagged_ts": 1789719708,
-    "liquidity_at_flag": 22205.76684468115,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "5hmWwRNw66m1YtQKbnFvfSerhkgD3pdmuQ4JZywepump": {
-    "name": "SPONK",
-    "symbol": "SPONK",
-    "flagged_ts": 1789719709,
-    "liquidity_at_flag": 21121.78697309739,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "FqSh33bSC8FtacMEFmNUMhQUtrqZGUJqbDH35BUBuSCb": {
-    "name": "UiPath",
-    "symbol": "PATH",
-    "flagged_ts": 1789719709,
-    "liquidity_at_flag": 71937.14030178076,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "Cp4TnX6VTcReXpiyV8veadrzPPcVrYtXwzRBDv2DRGV": {
-    "name": "Bytecoin",
-    "symbol": "BCN",
-    "flagged_ts": 1789719710,
-    "liquidity_at_flag": 43392.710389509615,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "B1Bs29e7mhZ3iEdorUfWdfFyN757zGgLnpMAQ5ac4BTp": {
-    "name": "PAID",
-    "symbol": "Paid",
-    "flagged_ts": 1789719711,
-    "liquidity_at_flag": 30824.440967151077,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
   "CsTGv59sd4DYwNXTDCSFQ5SNCZvsoWsGqcCDPfiepump": {
     "name": "MUSK PAID",
     "symbol": "MUSKPAID",
@@ -29381,7 +29326,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "22FEuB9cjqVhnMxUjyRB9TQBUP95uwzb5hVCFNjxQdbV": {
@@ -29397,7 +29343,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "7jMAxNVduVyvhh3rvunfGAhH6u46Z2qopqH9vB4hpump": {
@@ -29413,7 +29360,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "DDCA6XE4PpYN2Ckx9St7iGA8xFftyNyo3R28ia4ypump": {
@@ -32532,7 +32480,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "9dAbCu7Phmgss31haeCHtTXSf6TjzG3GdGgFvqK5pump": {
@@ -32547,7 +32496,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "B75Q3EhzfjjJhC3URK2cRaNhisnWREetyrv2SPqNW43A": {
@@ -32562,7 +32512,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "H6PTesYXD1iaMQMH8DQBDvFy3UUkH7e6wEwAu4x9adY5": {
@@ -33041,7 +32992,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "E3x7UmiR5spGzoD6xEypoZ51HwxWg4n75qkqNeR1CPxj": {
     "name": "Bankroll",
@@ -33054,7 +33007,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "FWd9yEKy1SP7unRKyyoQznepeJwCuWAHKijvG9tB5jAp": {
     "name": "Non Fungible Tits",
@@ -33067,7 +33022,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "FTg9UuFjeKK72wycCEBRRTL96vqxG6g2Wx7hjynPkwz": {
     "name": "Fomo NPC",
@@ -33217,6 +33174,19 @@
     "symbol": "CLOCKOUT",
     "flagged_ts": 1790323886,
     "liquidity_at_flag": 57296.79048154091,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 75,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "Ap7u8gVb8kK1zNwGdiG6WkFEKwaWVWGR23rDpHCxJJ3G": {
+    "name": "The Smol Pudu",
+    "symbol": "Yenai",
+    "flagged_ts": 1790325065,
+    "liquidity_at_flag": 34643.92336815709,
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 75,
