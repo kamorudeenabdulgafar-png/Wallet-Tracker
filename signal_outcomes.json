@@ -1,37 +1,4 @@
 {
-  "EeXkDTLRDu6E6KmSLbPiRDE2mR9gNLrFLRw9VtN39ogh": {
-    "name": "scam coin",
-    "symbol": "SCAM",
-    "flagged_ts": 1789744114,
-    "liquidity_at_flag": 26590.95886214486,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "HBrCLqeJsp13ouAVE9HEUmv1MHEij4ZXtUsAsReGpump": {
-    "name": "Paidtard",
-    "symbol": "Paidtard",
-    "flagged_ts": 1789744115,
-    "liquidity_at_flag": 30754.410336668785,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "CoGPaMudTJaihnAjDEo8N8DMyDC5U5J5TQ9Aow3DQG1E": {
-    "name": "pat0",
-    "symbol": "pat0",
-    "flagged_ts": 1789744117,
-    "liquidity_at_flag": 43057.212086107524,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
   "EWq46GzeYpYNxHByCfK9g71BxjijYiX7ATMYA8zoi6as": {
     "name": "NASA",
     "symbol": "NASA",
@@ -29610,7 +29577,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "SWynQ2kirgwxNoTR1gZLspJTTU1ctajt4MD84A5jsFb": {
@@ -33033,7 +33001,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "5cSvmJKzT7Xm93HQQLm4D3qANuPFe99BDuKH7m6UqjYw": {
@@ -33048,7 +33017,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "6kJDQQvQWMnUDb17aPKc45EkJNHMrgu6189n5FGJdcaU": {
@@ -33512,7 +33482,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "zw1A6W16bCijJigUMqKh6BXonPsvxRw3z3LxoNS48Yx": {
     "name": "\u30d4\u30ba\u30ea\u30fc",
@@ -33525,7 +33497,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "C2VB1scXf8cPcPgQUyYewZpLvKRw2kFDJ1rsQNShuT4N": {
     "name": "fomofied",
@@ -33704,6 +33678,58 @@
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "ACrPTFpLFztpUVv9XqMtT1B3XGzegmgAebvFpAPS5Zoe": {
+    "name": "urmomcoin",
+    "symbol": "urmom",
+    "flagged_ts": 1790349218,
+    "liquidity_at_flag": 37646.50622613415,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 75,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "F96D5HUupUF5Gn6vb6PiKh8z6fDukV7SySSVHRW9B1Qa": {
+    "name": "Bagwork",
+    "symbol": "Bagwork",
+    "flagged_ts": 1790349219,
+    "liquidity_at_flag": 27722.70203530889,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "7nsjHyLLzY5w3Sn2Z3eTfQLS7BQoDB7z2bu3WjdbjTNc": {
+    "name": "Claude Opus5.5",
+    "symbol": "claude5.5",
+    "flagged_ts": 1790349222,
+    "liquidity_at_flag": 33766.74276287986,
+    "breakdown": {
+      "MOMENTUM": 92,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "8GTbcDBUb2q8BGvWcCd4bfkKVEUDDcLLQM8txYCQu8tG": {
+    "name": "Get Funded",
+    "symbol": "FUNDED",
+    "flagged_ts": 1790349223,
+    "liquidity_at_flag": 28240.472750383353,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 90,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
