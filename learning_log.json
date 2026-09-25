@@ -1,31 +1,5 @@
 [
   {
-    "name": "CREDITS",
-    "symbol": "CREDITS",
-    "category": "rug",
-    "change_pct": -100.0,
-    "breakdown": {
-      "MOMENTUM": 100,
-      "SAFETY": 75,
-      "LIQUIDITY": 100,
-      "SMART MONEY": 0
-    },
-    "ts": 1790223890
-  },
-  {
-    "name": "Agent Wormhole",
-    "symbol": "WORM",
-    "category": "rug",
-    "change_pct": -100.0,
-    "breakdown": {
-      "MOMENTUM": 100,
-      "SAFETY": 60,
-      "LIQUIDITY": 100,
-      "SMART MONEY": 0
-    },
-    "ts": 1790225340
-  },
-  {
     "name": "Keyboard Horse",
     "symbol": "KEYHORSE",
     "category": "rug",
@@ -3898,5 +3872,31 @@
       "SMART MONEY": 0
     },
     "ts": 1790319964
+  },
+  {
+    "name": "market maker agents",
+    "symbol": "mm",
+    "category": "rug",
+    "change_pct": -84.3,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 90,
+      "LIQUIDITY": 80,
+      "SMART MONEY": 0
+    },
+    "ts": 1790320945
+  },
+  {
+    "name": "Claude Ai",
+    "symbol": "claude",
+    "category": "rug",
+    "change_pct": -100.0,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "ts": 1790320946
   }
 ]
