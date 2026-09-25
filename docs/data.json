@@ -1,5 +1,5 @@
 {
-  "last_updated": 1790365233,
+  "last_updated": 1790366043,
   "wallets": [
     {
       "label": "Dev wallet 1",
@@ -10,7 +10,7 @@
     "5CEbueQnq1Ym2uSSx2xXds3jQAqT1BDnkA59RZobSPAG": {
       "label": "Dev wallet 1",
       "buy_count": 342,
-      "sell_count": 200,
+      "sell_count": 201,
       "total_buy_usd": 15628.984658586525,
       "total_sell_usd": 0.0,
       "tokens_traded": [
@@ -68,7 +68,7 @@
         "cbbtcf3aa214zXHbiAZQwf4122FBYbraNdFqgw4iMij",
         "Xsa62P5mvPszXL1krVUnU5ar38bBSVcWAB6fmPCo5Zu"
       ],
-      "last_active": 1790364572,
+      "last_active": 1790366034,
       "positions": {},
       "realized_pnl_usd": 0.0
     }
@@ -87,7 +87,7 @@
     "count": 2835,
     "up_count": 613,
     "total_change_pct": -155586.29928175083,
-    "rug": 1642,
+    "rug": 1643,
     "doing_well": 16,
     "steady": 8,
     "fading": 19
@@ -95,6 +95,56 @@
   "learning_insight": "Coins that rugged averaged SAFETY 69; coins that did well averaged SAFETY 94.",
   "settings": {},
   "recent_alerts": [
+    {
+      "ts": 1790366043,
+      "type": "outcome",
+      "message": "\ud83d\udd34 MuseFi (MuseFi) is dropping fast \u2014 down 100%, may be rugging."
+    },
+    {
+      "ts": 1790366042,
+      "type": "outcome",
+      "message": "\ud83d\udd34 YASHMODE (YASHMODE) is dropping fast \u2014 down 100%, may be rugging."
+    },
+    {
+      "ts": 1790366041,
+      "type": "outcome",
+      "message": "\ud83d\udd34 STONK (STONK) is dropping fast \u2014 down 100%, may be rugging."
+    },
+    {
+      "ts": 1790366041,
+      "type": "outcome",
+      "message": "\ud83d\udfe1 Etch (ETCH) is holding steady so far (+9%)."
+    },
+    {
+      "ts": 1790366040,
+      "type": "outcome",
+      "message": "\ud83d\udd34 CZ Mooncake (Mooncake) is dropping fast \u2014 down 100%, may be rugging."
+    },
+    {
+      "ts": 1790366039,
+      "type": "outcome",
+      "message": "\ud83d\udd34 The Whitehouse Squirrel (\u548c\u5e73\u677e\u9f20) is dropping fast \u2014 down 100%, may be rugging."
+    },
+    {
+      "ts": 1790366038,
+      "type": "outcome",
+      "message": "\ud83d\udd34 Packly (PACKLY) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
+    },
+    {
+      "ts": 1790366037,
+      "type": "scanner",
+      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\n\u4e2d\u56fd\u718a\u732b (\u798f\u5e73)\nOpportunity: 76/100\n\nMOMENTUM     100\nSAFETY       60\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$20,581, 11 min since pool creation\n\u2022 Up +77% in the last hour, ~$31,691 in 24h volume (1.5x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 78% of supply (very concentrated)\n\nCA: AnTwpTrEkRTDTpuxbY3qQ3qM4pESqYxZF74DWe1yxSdG\nhttps://dexscreener.com/solana/AnTwpTrEkRTDTpuxbY3qQ3qM4pESqYxZF74DWe1yxSdG\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
+    },
+    {
+      "ts": 1790366036,
+      "type": "scanner",
+      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 EXCEPTIONAL\nSOL MAGICK (SOLMAGICK)\nOpportunity: 90/100\n\nMOMENTUM     100\nSAFETY       100\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$25,870, 7 min since pool creation\n\u2022 Up +82% in the last hour, ~$363,417 in 24h volume (14.0x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Low, 0/100):\n\u2022 No major red flags found\n\nCA: GGB5L233rnc4DceAcc5vTTNdhjC6rXSzcSioK8Jmpump\nhttps://dexscreener.com/solana/GGB5L233rnc4DceAcc5vTTNdhjC6rXSzcSioK8Jmpump\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
+    },
+    {
+      "ts": 1790366035,
+      "type": "wallet",
+      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: NEAR -> USDC\nTrade size: unknown\nBought token: USD Coin (USDC)\nCA: EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v\nhttps://solscan.io/tx/53iynZy5wPhhi5zb71D68P2Ekp3GqmH5i68wV5Lj2R1bPRVpbUKRpEVa7cdXZbWgBFnNrFiawxSvk383ByRDyU8X"
+    },
     {
       "ts": 1790365233,
       "type": "outcome",
@@ -294,56 +344,6 @@
       "ts": 1790362291,
       "type": "outcome",
       "message": "\ud83d\udd34 Zama (ZAMA) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
-    },
-    {
-      "ts": 1790362290,
-      "type": "outcome",
-      "message": "\ud83d\udd34 Metsumi404 (METSUMI) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
-    },
-    {
-      "ts": 1790362288,
-      "type": "scanner",
-      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 STRONG\nMuseFi (MuseFi)\nOpportunity: 81/100\n\nMOMENTUM     100\nSAFETY       75\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$36,006, 14 min since pool creation\n\u2022 Up +76% in the last hour, ~$168,053 in 24h volume (4.7x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 25/100):\n\u2022 top 10 holders own 68% of supply (concentrated)\n\nCA: 25ZJusrPTbEJnxu8tezfCyfrQa7gsweGzukCJ4kwr6We\nhttps://dexscreener.com/solana/25ZJusrPTbEJnxu8tezfCyfrQa7gsweGzukCJ4kwr6We\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
-    },
-    {
-      "ts": 1790362287,
-      "type": "scanner",
-      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\nYASHMODE (YASHMODE)\nOpportunity: 76/100\n\nMOMENTUM     100\nSAFETY       60\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$222,707, 13 min since pool creation\n\u2022 Up +114% in the last hour, ~$1,950,254 in 24h volume (8.8x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 82% of supply (very concentrated)\n\nCA: 5kwr11X35KLoKBXH4w5yGzEkSS3UesZhHuUp3Kxbnup\nhttps://dexscreener.com/solana/5kwr11X35KLoKBXH4w5yGzEkSS3UesZhHuUp3Kxbnup\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
-    },
-    {
-      "ts": 1790362286,
-      "type": "scanner",
-      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\nSTONK (STONK)\nOpportunity: 76/100\n\nMOMENTUM     100\nSAFETY       60\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$27,140, 11 min since pool creation\n\u2022 Up +69% in the last hour, ~$24,314 in 24h volume (0.9x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 82% of supply (very concentrated)\n\nCA: 6kE6xyyPAJFJdw1kLPa5JLAFedgsiTDAMgXWf7CgbJU9\nhttps://dexscreener.com/solana/6kE6xyyPAJFJdw1kLPa5JLAFedgsiTDAMgXWf7CgbJU9\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
-    },
-    {
-      "ts": 1790362285,
-      "type": "scanner",
-      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\nEtch (ETCH)\nOpportunity: 76/100\n\nMOMENTUM     100\nSAFETY       60\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$34,009, 9 min since pool creation\n\u2022 Up +71% in the last hour, ~$185,679 in 24h volume (5.5x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 96% of supply (very concentrated)\n\nCA: 3ctA6DxbqXT89guFEgj76Sw5pSXkeNV8zeB1NwgzpgZ4\nhttps://dexscreener.com/solana/3ctA6DxbqXT89guFEgj76Sw5pSXkeNV8zeB1NwgzpgZ4\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
-    },
-    {
-      "ts": 1790361567,
-      "type": "outcome",
-      "message": "\ud83d\udd34 SATAN (\ud83d\udcb2SATAN) is dropping fast \u2014 down 100%, may be rugging."
-    },
-    {
-      "ts": 1790361566,
-      "type": "outcome",
-      "message": "\ud83d\udfe2 jef (jef) is still doing really good \u2014 up 98% so far!"
-    },
-    {
-      "ts": 1790361565,
-      "type": "outcome",
-      "message": "\ud83d\udd34 Claude Opus5.5 (claude5.5) is dropping fast \u2014 down 100%, may be rugging."
-    },
-    {
-      "ts": 1790361564,
-      "type": "outcome",
-      "message": "\ud83d\udd34 YAP (YAP) is dropping fast \u2014 down 100%, may be rugging."
-    },
-    {
-      "ts": 1790361563,
-      "type": "outcome",
-      "message": "\ud83d\udfe2 Bagwork (Bagwork) is still doing really good \u2014 up 172% so far!"
     }
   ]
 }
