@@ -1,15 +1,4 @@
 {
-  "HLrySRwgP7ZbBhGB2FBm7TKjYQEhZV3g4XFJaX7fUEEY": {
-    "name": "Neko",
-    "symbol": "Neko",
-    "flagged_ts": 1789728420,
-    "liquidity_at_flag": 21031.819311443935,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
   "GZ4s4rwLwb6qjwJVEFMtJBLDDhadz6Reery9boXsYSGP": {
     "name": "Coby The Cat",
     "symbol": "Coby",
@@ -29505,7 +29494,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "CQFN28cSDWVttgVLGwb8fK2kkgF4s4fYck2FSxNop85x": {
@@ -33274,7 +33264,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "E3okcG5A71RJdZALygcYTjKEF7x4asXcLYKVZsBafMJX": {
     "name": "Fomies",
@@ -33287,7 +33279,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "6fzV6s6UUXN1v4UYzryXLPYm42mpTCarrWcuALr2pump": {
     "name": "ForeverOnlineMissingOut",
@@ -33450,6 +33444,32 @@
     "symbol": "MOON",
     "flagged_ts": 1790332705,
     "liquidity_at_flag": 39381.56668648789,
+    "breakdown": {
+      "MOMENTUM": 91,
+      "SAFETY": 90,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "5qmxGpnjRuvSi5sGqMSMKey6TWkzNnYFaLTyCfmapump": {
+    "name": "Neet Bull",
+    "symbol": "NEETBULL",
+    "flagged_ts": 1790333375,
+    "liquidity_at_flag": 42752.630988817225,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 100,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "BQrawv7f3Uf7k5FJHJStjy2WwTJg1G8H2YXVVwmpump": {
+    "name": "DORA THE NIGGER",
+    "symbol": "DORNIGGER",
+    "flagged_ts": 1790333376,
+    "liquidity_at_flag": 31684.14573060622,
     "breakdown": {
       "MOMENTUM": 91,
       "SAFETY": 90,
