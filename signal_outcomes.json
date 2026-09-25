@@ -1,26 +1,4 @@
 {
-  "VQ8j7T4N9PsTDreAsTV5Wt6myonpsjZXCrpRTbHQRVB": {
-    "name": "fwub",
-    "symbol": "fwub",
-    "flagged_ts": 1789754743,
-    "liquidity_at_flag": 33686.204811532836,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "6s3ATQzMBKFRxopKMwjGg5kiiUdWFH8gVLhX6kRUQzE5": {
-    "name": "\u30a2\u30cb\u30e1",
-    "symbol": "\u30a2\u30cb\u30e1",
-    "flagged_ts": 1789754749,
-    "liquidity_at_flag": 31839.37619718698,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
   "D8BNpRy9FSNXjXRMxX2qV5KJcdg9rVsirHj2bfUyPGoq": {
     "name": "donut fade",
     "symbol": "DNUT",
@@ -29685,7 +29663,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "1gWWhs7qrd9sBHwppQdMU2h2fTnnyoCYCSuVjFBpump": {
@@ -33124,7 +33103,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "7gpUjzk2GqjgKkzfgYGbaYMxkpFviFgViXmBhGDyp551": {
@@ -33139,7 +33119,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "dHK7wjroEPNfyCpezMowfB7Jf68eE4ADbJAsjhkpump": {
@@ -33843,7 +33824,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "GgsSaetRZNCuP9HEWjbojtVWByRWFxpr93S1wtGFpump": {
     "name": "Blueprint",
@@ -33970,6 +33953,71 @@
     "breakdown": {
       "MOMENTUM": 60,
       "SAFETY": 90,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "9N9tAT19ncQvxtjpQNevrGP3zmWRNrAZZtonTygMpump": {
+    "name": "Etch",
+    "symbol": "ETCH",
+    "flagged_ts": 1790359763,
+    "liquidity_at_flag": 33862.046117934326,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 90,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "3vfotUQ2yQeYqwtzR4GNuRbDLDN8vPLe4KNzV2pNpTfX": {
+    "name": "Blueprint",
+    "symbol": "BLUEPRINT",
+    "flagged_ts": 1790359764,
+    "liquidity_at_flag": 37308.4160492593,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "ErLRZgvirvJB1KABcKgEJ67WYevTA2jVp1kJnU4VqqUK": {
+    "name": "HackGPT",
+    "symbol": "HACKGPT",
+    "flagged_ts": 1790359765,
+    "liquidity_at_flag": 43158.0999291607,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "GS2peW9ZrVnwZoPtYCo3PigSxdXLkGXJRtkkcNEjVAUj": {
+    "name": "YASHMODE",
+    "symbol": "YASHMODE",
+    "flagged_ts": 1790359766,
+    "liquidity_at_flag": 37353.9664083374,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "5zqieXNJj9fcqiuy4JTYfTQkSFwxdJ39JXhh1JPY6YPB": {
+    "name": "Aerodrome Finance",
+    "symbol": "AERO",
+    "flagged_ts": 1790359767,
+    "liquidity_at_flag": 48775.10104706387,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
