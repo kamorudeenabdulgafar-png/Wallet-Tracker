@@ -29575,7 +29575,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "E8PBGnPDxvA8dY1jd6EQ27qSnACDYndXF4cdtop9V2CL": {
@@ -29591,7 +29592,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "jHX9wsVmqbLfoxSgrqfQTzeo9rWHNXbNnZMcy1Apump": {
@@ -29607,7 +29609,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "3LSMoJ9tXqnVZz5qeuHDV9CGQS3ZK2GzecYD3Mt4MyLg": {
@@ -29623,7 +29626,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "HbwgbNWoUFGdM8vgNJVePMSqhwrC4qH3EuNHBcZuVFAR": {
@@ -33846,7 +33850,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "7haJedyf6kQbiDNqzg31pyKQULm1qdeKAYd5VfAhpump": {
@@ -34070,7 +34075,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "ExTwCDVSEkzbQzfdTpf6MbzDdHrWzsWJd5qTxu4cpump": {
     "name": "Harvard University",
@@ -34083,7 +34090,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "5wGZXX9Q5uwNSTC9k9VK4A5GxnPgyuwEqjDCmTxW9bRy": {
     "name": "Frogecoin",
@@ -34103,6 +34112,19 @@
     "symbol": "LUMMIS",
     "flagged_ts": 1790440649,
     "liquidity_at_flag": 26446.911966767708,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "8ERwFAPJPYASZSmdJ8srgsrEjHBvyUiJjTMyYKuCoQZ": {
+    "name": "boar",
+    "symbol": "boar",
+    "flagged_ts": 1790441246,
+    "liquidity_at_flag": 155807.12308838655,
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 60,
