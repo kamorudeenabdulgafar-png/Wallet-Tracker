@@ -1,21 +1,4 @@
 {
-  "AobaVzsZG1AX7Z52GnfaYDjSo46ZaX7LSYfD9Fsd6oK4": {
-    "name": "TIPPED CAT",
-    "symbol": "TIPPEDCAT",
-    "flagged_ts": 1789840384,
-    "liquidity_at_flag": 39945.851531488384,
-    "breakdown": {
-      "MOMENTUM": 100,
-      "SAFETY": 60,
-      "LIQUIDITY": 100,
-      "SMART MONEY": 0
-    },
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
   "41TwuyMCnermaJiLwTp6JPKsGpsLV2815sFA7Jwr5tjC": {
     "name": "TIPCOIN",
     "symbol": "Tipcoin",
@@ -29626,7 +29609,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "CKKqMDJnBexD1N1BCi8L4wvVjw6Zk7YVjWB2KDkC3fvm": {
@@ -29642,7 +29626,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "FeSBGcJtBG2pajkXkauxmGq3b6mfE5PfiNsb3HDMpump": {
@@ -33721,7 +33706,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "4Td7hswYAHw6pyRVVWesTvgXrUATNjmyDLaLJCaBbLH3": {
@@ -33930,7 +33916,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "Gs8f8yPJbkBmwU1QqwNrdSoC5XQWqJs5kCk74YmKpump": {
     "name": "Paidrop",
@@ -34044,6 +34032,19 @@
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "j7HvTmrr9QGbiz1gwiSuB4QbyfnfwRuYkvUphncpump": {
+    "name": "e/cat",
+    "symbol": "e/cat",
+    "flagged_ts": 1790445202,
+    "liquidity_at_flag": 25932.66537898734,
+    "breakdown": {
+      "MOMENTUM": 95,
+      "SAFETY": 75,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
