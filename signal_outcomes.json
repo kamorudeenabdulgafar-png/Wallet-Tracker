@@ -1,26 +1,4 @@
 {
-  "CZJ5qSEzZdPpF2WmUh1DraL1CcnDMK8q7QfD7ACTcZSK": {
-    "name": "What",
-    "symbol": "IF",
-    "flagged_ts": 1789777748,
-    "liquidity_at_flag": 35708.78213581577,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "YKuByrHAHAarEpdYijKo1vB2GoCi8AXwFmNmeQWUVhX": {
-    "name": "\u5b59\u5c0f\u5723",
-    "symbol": "\u5b59\u5c0f\u5723",
-    "flagged_ts": 1789777749,
-    "liquidity_at_flag": 47331.01551612039,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
   "8r26dyaSS7QCQEADVeMyw5CtqxuEEp7QZdo56aZSsbGo": {
     "name": "Getbiddy.fun",
     "symbol": "BIDDY",
@@ -29600,7 +29578,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "4tKvrN5mhanCowMKcNmiM2pYADVX9uN6JQW2HruCpump": {
@@ -29616,7 +29595,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "5iqjhP5ig6JWdXQf6hYAwojZeMf11pTCvH87gCQtpump": {
@@ -33631,7 +33611,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "43S1zmubWfNVM2n11ndV5dYkwqnVJZbzYxMgPQpkxx2c": {
@@ -33646,7 +33627,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "ApBcemZEKdrZsWtb8ybG8VyJhhq6ojnBtc71mYHsycpZ": {
@@ -33661,7 +33643,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "3PKnVAhHtcn9Lcxxc4aRUq2UXrPihr1ia3QAuek4c6wx": {
@@ -33676,7 +33659,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "B1fFdCihoDu4XpdDZmabPH6LjRLau1Z4vgh2DNXcpump": {
@@ -33691,7 +33675,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "DbNukPsAhGEtvgW5hiEFjHgdgwZEzYNFJKSZbNWTtHoQ": {
@@ -33706,7 +33691,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "HE3sA1xPuND7nn5dM1dwS8ff8HzH6Gv5aN4cYyTkgR3M": {
@@ -34290,7 +34276,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "2uaLD3TZ8cz9JQoyujCoxgdhcdmPC3znTMT24N73c9iP": {
     "name": "\u732a\u54aa",
@@ -34303,7 +34291,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "DVbyFeAZCaLjg1SrjyF4M6nPj1B3MvVH4Ue8Gmwbpump": {
     "name": "MuseXT",
@@ -34316,7 +34306,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "2HYTBu2YCLf7PK4GXNqsWn4NTtURKND9otxuy8qGrev3": {
     "name": "51\u5403\u74dc\u7f51\u5b98\u65b9\u9996\u53d1Meme",
@@ -34329,7 +34321,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "7r5vK4XiFVuk9ZSBb55iy3Stc2xqWgLiGxsPCZUpVHdY": {
     "name": "america.gov",
@@ -34390,6 +34384,45 @@
     "liquidity_at_flag": 30379.480010836494,
     "breakdown": {
       "MOMENTUM": 96,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "BKBJo6hHVQCpfsVmHn3CgRRbKdpFWzzGYAJZ1v8L7ae2": {
+    "name": "American Reserved Oil Supply",
+    "symbol": "AROS",
+    "flagged_ts": 1790383432,
+    "liquidity_at_flag": 65693.18385351682,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "DdGEjyBWzJp1VbPVYNMiwSURdaKk97GUVpWkJd8177ia": {
+    "name": "Cream",
+    "symbol": "Cream",
+    "flagged_ts": 1790383434,
+    "liquidity_at_flag": 35131.36802243287,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "66RvsdYAcTxcQcDjCG1zjSU5h5qwp7jaD3qdiTEmyxmS": {
+    "name": "Cream",
+    "symbol": "Cream",
+    "flagged_ts": 1790383435,
+    "liquidity_at_flag": 33087.811761274636,
+    "breakdown": {
+      "MOMENTUM": 100,
       "SAFETY": 60,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
