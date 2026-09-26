@@ -1,48 +1,4 @@
 {
-  "CB7YwRu1u7HZGvZ95u5ESHN2m62EdD9PDxijiHhmpump": {
-    "name": "Fomopardus Tilcayo",
-    "symbol": "FOMINO",
-    "flagged_ts": 1789815184,
-    "liquidity_at_flag": 22377.856920047456,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "B146ahrmx31QJvdZzQuBi3KGCjw4Rg6zXsKAZjdzimtT": {
-    "name": "OLANAS",
-    "symbol": "OLANAS",
-    "flagged_ts": 1789815185,
-    "liquidity_at_flag": 37015.705966387,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "9NzFPitN27dddRJ5tuDoEatiBZo53oPv2XKrnY6asfKm": {
-    "name": "Clawdy",
-    "symbol": "CLAWDY",
-    "flagged_ts": 1789815186,
-    "liquidity_at_flag": 34467.21554418425,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "5jbSbyAbsaVKjDD87o7uQMmJFizJSdFCzu19z8mh21N": {
-    "name": "wildebeest",
-    "symbol": "wildebeest",
-    "flagged_ts": 1789815187,
-    "liquidity_at_flag": 162352.59126351352,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
   "86HPkQxF9aD43LdiZcdSB6VnpavHY6vdqnunHkv5JMZ9": {
     "name": "Equitty",
     "symbol": "Equitty",
@@ -29857,7 +29813,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "BQrawv7f3Uf7k5FJHJStjy2WwTJg1G8H2YXVVwmpump": {
@@ -29873,7 +29830,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "3ejomgbHDEZ6pobynzabdpwT11pg47ZZV5MLYGtee2dE": {
@@ -34648,7 +34606,9 @@
       "LIQUIDITY": 96,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "6MuHiXEAG8RL73PacmMb9PKKx43xeJEiV6rpx3rkyRgL": {
     "name": "Kardashev Research",
@@ -34661,7 +34621,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "4nSGua5p19amJUzpV5cichfhyShztp8hXc531NMfBTE2": {
     "name": "YAP",
@@ -34866,6 +34828,32 @@
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 75,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "EbTgKBqS5sQkFuekWC5kvu2yWKPKKE2wMYtS1TcYzdAX": {
+    "name": "DebtCoin",
+    "symbol": "DEBT",
+    "flagged_ts": 1790419986,
+    "liquidity_at_flag": 29310.746429923376,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "DTJvPczWWdkAuiqLEfMyDZLpPQfYaeQiQBDMXYXa4pfK": {
+    "name": "Housecoin",
+    "symbol": "House",
+    "flagged_ts": 1790419987,
+    "liquidity_at_flag": 35328.20045728063,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
