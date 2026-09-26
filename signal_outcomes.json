@@ -29609,7 +29609,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "FHxEUqZNDJg9hPrHFn6PwcYgGMn9LQu6GsYbWY8fjyLQ": {
@@ -29625,7 +29626,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "6uv4GYbVB2MQvHfarQLvqV87Fui5eKmstZVqzkghnbyJ": {
@@ -29641,7 +29643,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "CtFc55to2syfMCnihwB2yW7p8DGDz6UCNYdBJkMtpump": {
@@ -29657,7 +29660,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "arpmqKuWcVQ4Q9M4LPLaMPmvP55NdnLxdjecSPfRgv6": {
@@ -33176,7 +33180,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "GDT8UZGGuaa9YAevWxh7yBcNvj4otQUv4xf6j4RsForK": {
@@ -33191,7 +33196,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "2EkmxYe1vS9eTN6vHExWRYFE5w1KD4fJdw6NXBexAszS": {
@@ -33206,7 +33212,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "gsDC8WbXwtyEmbh8f8HfvpPEJ7nG4FV4zX4GWXzSjyD": {
@@ -33670,7 +33677,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "DPjmT9P5YXm5qvFbyBwGrdS9KXqgARVCtHpSrPgnjtM": {
     "name": "Split",
@@ -33683,7 +33692,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "J3YKxkHpsj5MoxmBzHAHmbVK5U668QsFEamD5kdSpump": {
     "name": "Mine Accelerationism",
@@ -33822,6 +33833,58 @@
     "liquidity_at_flag": 36984.883461344725,
     "breakdown": {
       "MOMENTUM": 93,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "8DwNVMzpcc3mq7Tk4gyWeTkvmFhnXcnDDCLayFFhXvex": {
+    "name": "Heisenberg",
+    "symbol": "HEISENBERG",
+    "flagged_ts": 1790461897,
+    "liquidity_at_flag": 41465.651943206554,
+    "breakdown": {
+      "MOMENTUM": 60,
+      "SAFETY": 100,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "AR655GVhZ3QY6BQSShHPEWYKfAujs82nav7kBBHhwpBV": {
+    "name": "Monetized",
+    "symbol": "MONETIZED",
+    "flagged_ts": 1790461898,
+    "liquidity_at_flag": 27839.902737440545,
+    "breakdown": {
+      "MOMENTUM": 99,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "5zdzBi2qe4oxL7mTwiLGyrjdJdELUa6Zv5cxsZJisYy6": {
+    "name": "CZ Coin",
+    "symbol": "CZ",
+    "flagged_ts": 1790461898,
+    "liquidity_at_flag": 30720.076944206827,
+    "breakdown": {
+      "MOMENTUM": 92,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "EUFrMexps44JhquN6bECZXGJwS7NsnYpwxMXLV1Qgzqv": {
+    "name": "Finra.fun",
+    "symbol": "FINRA",
+    "flagged_ts": 1790461899,
+    "liquidity_at_flag": 231453.70009279228,
+    "breakdown": {
+      "MOMENTUM": 100,
       "SAFETY": 60,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
