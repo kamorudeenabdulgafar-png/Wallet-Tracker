@@ -1,15 +1,4 @@
 {
-  "FKcie3DQ6euUi3hVEVquMD3BPGe3gxnAB6Ddyd6WYcBi": {
-    "name": "\u725b\u6765",
-    "symbol": "\u725b\u6765",
-    "flagged_ts": 1789803639,
-    "liquidity_at_flag": 38638.44172621035,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
   "2jDRomDaFYqt4j3yd79GspPp4ZpQtDfx6zXprguapump": {
     "name": "Mochi",
     "symbol": "MOCHI",
@@ -29729,7 +29718,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "DPySV255X2qqfwmccCfqE4NXfA7bRoqmz3fQY1ohKobA": {
@@ -29745,7 +29735,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "3nEhpK8YxYSTwWpeSAyunpZvGnsf9G5vM6feWfa7pFQU": {
@@ -29761,7 +29752,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "6VEAgjgMbnyNAo5WTcZAGKbDF4izF6VbfExUuewVegvq": {
@@ -34629,7 +34621,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "4qLLkjMktmxLdA7DdzLBxhP6PNwJd4aiuuLwKQKHpump": {
     "name": "roon",
@@ -34743,6 +34737,45 @@
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "2z8dNFZGpX566ojbDRnH6wsrrwGYfSpVaouAdNWcudUw": {
+    "name": "Kardashev Research",
+    "symbol": "KARDASHEV",
+    "flagged_ts": 1790408718,
+    "liquidity_at_flag": 43518.77144191429,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "HBDCdfDAYAi124A5ssqi4KN17Bgs15SBUrCoa1e2pump": {
+    "name": "BUTTPHIL",
+    "symbol": "BUTTPHIL",
+    "flagged_ts": 1790408718,
+    "liquidity_at_flag": 36720.88257245809,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 100,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "92APrCpFWEoeuPTyw3ryjS3WYy13reamePLzuqqTM2Mw": {
+    "name": "Paid",
+    "symbol": "PAID",
+    "flagged_ts": 1790408719,
+    "liquidity_at_flag": 30347.06512034726,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 100,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
