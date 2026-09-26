@@ -1,5 +1,5 @@
 {
-  "last_updated": 1790393572,
+  "last_updated": 1790394388,
   "wallets": [
     {
       "label": "Dev wallet 1",
@@ -87,7 +87,7 @@
     "count": 2835,
     "up_count": 613,
     "total_change_pct": -155586.29928175083,
-    "rug": 1696,
+    "rug": 1698,
     "doing_well": 16,
     "steady": 8,
     "fading": 19
@@ -95,6 +95,16 @@
   "learning_insight": "Coins that rugged averaged SAFETY 70; coins that did well averaged SAFETY 92.",
   "settings": {},
   "recent_alerts": [
+    {
+      "ts": 1790394387,
+      "type": "outcome",
+      "message": "\ud83d\udd34 51\u5403\u74dc\u7f51\u5b98\u65b9\u9996\u53d1Meme (51X) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
+    },
+    {
+      "ts": 1790394386,
+      "type": "outcome",
+      "message": "\ud83d\udd34 Agrippa (Agrippa) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
+    },
     {
       "ts": 1790393572,
       "type": "outcome",
@@ -334,16 +344,6 @@
       "ts": 1790390800,
       "type": "outcome",
       "message": "\ud83d\udd34 Muse (Muse) turned out to be a rug \u2014 liquidity dropped 87% over 24h."
-    },
-    {
-      "ts": 1790390799,
-      "type": "scanner",
-      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\naffective autism (a/aut)\nOpportunity: 70/100\n\nMOMENTUM     84\nSAFETY       60\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$25,432, 12 min since pool creation\n\u2022 Up +56% in the last hour, ~$36,926 in 24h volume (1.5x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 94% of supply (very concentrated)\n\nCA: GkCn2HLXdcfpmxZuLViQZn23DJC3Ufpnq2fWRUKnV8Gx\nhttps://dexscreener.com/solana/GkCn2HLXdcfpmxZuLViQZn23DJC3Ufpnq2fWRUKnV8Gx\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
-    },
-    {
-      "ts": 1790389945,
-      "type": "outcome",
-      "message": "\ud83d\udd34 O (O) is dropping fast \u2014 down 100%, may be rugging."
     }
   ]
 }
