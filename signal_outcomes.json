@@ -1,15 +1,4 @@
 {
-  "8dfX8oUskUxYJJbJUpB4gFDw54rPY8o3qphYD36MixW": {
-    "name": "Uranus",
-    "symbol": "URANUS",
-    "flagged_ts": 1789796878,
-    "liquidity_at_flag": 207537.59852397436,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
   "9dcCdZrDFq2jn39kfueLD4RiMhcoCwedxgDJREk3DfLa": {
     "name": "ARK",
     "symbol": "ARK",
@@ -29642,7 +29631,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "FCHzXMULoUQUcRsmHV3F4c1soNLYRRNWAYjAzTm8vB2A": {
@@ -34413,7 +34403,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "HwBXCLDdvDYBWDbTNh9tiftaJh3hxAZVZN5tp86jyRCf": {
     "name": "dropping dollars on strangers",
@@ -34696,6 +34688,19 @@
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "EC9CztYxdZ8jTsa8fmwuDFddCz1yunUddcN8Exk3pump": {
+    "name": "ddoscat",
+    "symbol": "ddoscat",
+    "flagged_ts": 1790402035,
+    "liquidity_at_flag": 35077.38054261322,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 100,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
