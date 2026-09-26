@@ -1,37 +1,4 @@
 {
-  "EqCnCHQaNZySxAHPCguqRXVDqpvHqj7sY6f3ivzWjHRz": {
-    "name": "Crossr",
-    "symbol": "CROSSR",
-    "flagged_ts": 1789776559,
-    "liquidity_at_flag": 24986.692337861416,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "2jjXDQGaH57fmr9JvssrKffQxuwZsg7cBpEvzCXawoKJ": {
-    "name": "Prism",
-    "symbol": "Prism",
-    "flagged_ts": 1789776560,
-    "liquidity_at_flag": 31413.443599394206,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "Jaf4YZwHD3X4KAZN82RkR9hBUZo3AoUJ21zvS1zCMsX": {
-    "name": "Feels Good Man",
-    "symbol": "FEELSGOOD",
-    "flagged_ts": 1789776561,
-    "liquidity_at_flag": 235768.20812789068,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
   "CZJ5qSEzZdPpF2WmUh1DraL1CcnDMK8q7QfD7ACTcZSK": {
     "name": "What",
     "symbol": "IF",
@@ -29599,7 +29566,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "77DmKFW1Y54KQjWuhZE8xDoUBzZC84yQfA3Ea459nBkv": {
@@ -29615,7 +29583,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "9PxibZ69bKh76EMXvQ6mESWiJvSx7NRmo4bngdxppump": {
@@ -33582,7 +33551,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "FzVLxoL3T2GQELH4fGDfgpvJw3ouyk8NUoPnvk81pump": {
@@ -33597,7 +33567,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "94pekrj2gpLDya3TA1Fsqt6Y7fAQ38VjotqGVpLLuw9K": {
@@ -33612,7 +33583,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "4BQqSQjDJM7kogQwaGfEhik5u2UpvveaA4aFyKEv5s94": {
@@ -33627,7 +33599,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "79xB7iLghccAWuoab7qXkaDpQggmu6D2zrpKtfXipump": {
@@ -33642,7 +33615,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "JE2Ns7bgzN5bCGBfdctfikpVtPuGCQfG4QMy8xP9kdtp": {
@@ -34301,7 +34275,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "9aNLh34XYJPYvjP2pxV619WnQvA7KqYs4bw3VL4Z9978": {
     "name": "Let\u2019s Get Bands Twin",
@@ -34375,6 +34351,45 @@
     "liquidity_at_flag": 52821.160558682925,
     "breakdown": {
       "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "CMuvWQ6qQbSt7NUQdPGcVKCoDgETieuqS68qu6BaeVgR": {
+    "name": "Cream",
+    "symbol": "Cream",
+    "flagged_ts": 1790382433,
+    "liquidity_at_flag": 24119.194764769156,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 100,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "6dXG3jjvy56ECiL86NoM7aJ7TxyyKGzD9CStYhUrpump": {
+    "name": "Harvard University",
+    "symbol": "Harvard",
+    "flagged_ts": 1790382433,
+    "liquidity_at_flag": 13979.938800312113,
+    "breakdown": {
+      "MOMENTUM": 78,
+      "SAFETY": 100,
+      "LIQUIDITY": 70,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "dJ8V5v7znhDH8iCesZgGFhpvDBtaVN39siPWarkDAN3": {
+    "name": "Cr\u00e9mieux",
+    "symbol": "Cr\u00e9mieux",
+    "flagged_ts": 1790382434,
+    "liquidity_at_flag": 30379.480010836494,
+    "breakdown": {
+      "MOMENTUM": 96,
       "SAFETY": 60,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
