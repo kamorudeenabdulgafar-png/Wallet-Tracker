@@ -1,5 +1,5 @@
 {
-  "last_updated": 1790447993,
+  "last_updated": 1790448697,
   "wallets": [
     {
       "label": "Dev wallet 1",
@@ -87,7 +87,7 @@
     "count": 2835,
     "up_count": 613,
     "total_change_pct": -155586.29928175083,
-    "rug": 1842,
+    "rug": 1844,
     "doing_well": 21,
     "steady": 9,
     "fading": 19
@@ -95,6 +95,26 @@
   "learning_insight": "Coins that rugged averaged SAFETY 69; coins that did well averaged SAFETY 86.",
   "settings": {},
   "recent_alerts": [
+    {
+      "ts": 1790448697,
+      "type": "outcome",
+      "message": "\ud83d\udd34 freethepeople (FTP) is dropping fast \u2014 down 100%, may be rugging."
+    },
+    {
+      "ts": 1790448696,
+      "type": "outcome",
+      "message": "\ud83d\udfe1 Chill House (CHILLHOUSE) is holding steady so far (+16%)."
+    },
+    {
+      "ts": 1790448695,
+      "type": "outcome",
+      "message": "\ud83d\udd34 YASHMODE (YASHMODE) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
+    },
+    {
+      "ts": 1790448694,
+      "type": "outcome",
+      "message": "\ud83d\udd34 STONK (STONK) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
+    },
     {
       "ts": 1790447993,
       "type": "outcome",
@@ -324,26 +344,6 @@
       "ts": 1790443120,
       "type": "wallet",
       "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: MSFTx -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/4FqBFfobsLy7x5wfqmM2s3eDqtHs4n96Au8g3r28VKyMdTbwnkpxhU96vwZqypYECzDKs1hTZ4duyFonNsadpTAX"
-    },
-    {
-      "ts": 1790443120,
-      "type": "wallet",
-      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: BOT -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/4YXbSzUsn4NAWUGMcxfgWi3Pwh327JD7FSD7kK2eCzUiNw99jUX6ddEw5Lm1kre8bpkviFUWHXzJRFJM63Ads6WG"
-    },
-    {
-      "ts": 1790443119,
-      "type": "wallet",
-      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: 0.0595 SOL (~$7.20) -> USDC\nTrade size: ~$7.20\nBought token: USD Coin (USDC)\nCA: EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v\nhttps://solscan.io/tx/3N7EjRz3G4VsB9AYoQxcGcEeTyyPC2hNaESzWYjZvPNqZ8HWNbTXGo2Pedn148cEoqrn9s41w4n9YVo92wF7tyA9"
-    },
-    {
-      "ts": 1790443119,
-      "type": "wallet",
-      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: USDC -> 0.0417 SOL (~$5.04)\nTrade size: ~$5.04\nBought token: SOL (SOL)\nCA: So11111111111111111111111111111111111111112\nhttps://solscan.io/tx/3Z7KH7KENTe5h2cJiKDioSGRiCss1urTxCeqXz88pCdDczLmjzDyKncPjXSsGyYMTJM7gqUkZvJCYrt2dnYQzHbZ"
-    },
-    {
-      "ts": 1790442366,
-      "type": "outcome",
-      "message": "\ud83d\udd34 DOGRILLA (DOGRILLA) turned out to be a rug \u2014 liquidity dropped 78% over 24h."
     }
   ]
 }
