@@ -33932,7 +33932,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "6MuHiXEAG8RL73PacmMb9PKKx43xeJEiV6rpx3rkyRgL": {
@@ -33947,7 +33948,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "4nSGua5p19amJUzpV5cichfhyShztp8hXc531NMfBTE2": {
@@ -34561,7 +34563,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "9pDW7FLqyjNrkngRhfv7axkeK1GsMtJ7RKxpXoTkjp8o": {
     "name": "Clavicular",
@@ -34597,6 +34601,19 @@
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 90,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "7s3Ca4venTWSQ8PcKaC1tjkoEUKixLeW72JpbPDfp4vt": {
+    "name": "tinycat",
+    "symbol": "tinycat",
+    "flagged_ts": 1790430764,
+    "liquidity_at_flag": 31312.695200956456,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
