@@ -1,59 +1,4 @@
 {
-  "6BGvJMgyTYkt6AWryTMmYdHhYa547xfk72bBAxAzn65w": {
-    "name": "Argus",
-    "symbol": "ARGUS",
-    "flagged_ts": 1789802340,
-    "liquidity_at_flag": 34191.65524939635,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "HLC3tBurM8bHr928FtW5wbArHFiGHHg9iozCcYBXA3LM": {
-    "name": "\u00a5\u30a2\u30cb\u30e1",
-    "symbol": "\ud83d\udcb2\u30a2\u30cb\u30e1",
-    "flagged_ts": 1789802341,
-    "liquidity_at_flag": 31036.709218881184,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "2TqMkSTqMpxACay3j8Cjt7uqUAWTG8HYqwWJ3xmbpump": {
-    "name": "XCrypto",
-    "symbol": "XCrypto",
-    "flagged_ts": 1789802342,
-    "liquidity_at_flag": 14810.039865850598,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "ERLuKw9V2TVZ8rph6nB1vu7fABtGg6dTgwsgLbGApump": {
-    "name": "POOPAID",
-    "symbol": "POOPAID",
-    "flagged_ts": 1789802342,
-    "liquidity_at_flag": 27588.170620465025,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "AE7CTgcBu4Ggwm2FtcpL3sUNB4WcCzeXUgu8rvkPdUa": {
-    "name": "Vlad Coin",
-    "symbol": "VLAD",
-    "flagged_ts": 1789802343,
-    "liquidity_at_flag": 254440.0347260738,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
   "F3Q793wvmnk17StiiSUhQe8Xr1n5P1wzRsL47JsaSr3j": {
     "name": "The Pok\u00e9dex",
     "symbol": "POK\u00c9DEX",
@@ -33919,7 +33864,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "3N8YeK6V2r5vuPZ5s1ZsxL2Q9exW551kbi14qsvCpump": {
@@ -33934,7 +33880,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "4wgmUcwDHFzgb3SScAxSTXpHcZZ72etffUaUVTAysNPV": {
@@ -33949,7 +33896,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "4RqBcUAWhWNSeRxM5Az8NyvBuakRqZUwe1AVRe7PuVFV": {
@@ -33964,7 +33912,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "91vPo5L7MKKjz8jHLQapcSPQAEmdV6HfADAQ8PsyiZzW": {
@@ -33979,7 +33928,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "5kKMMFz2je2rp1upgreeVuSnorriuG6UUJy2VGUkQoax": {
@@ -33994,7 +33944,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "AqQZjngn5zpjjVBJYoHQjwSwWvx5MJghryqpA9N1NiKT": {
@@ -34009,7 +33960,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "3ZSuVu3KUJwhs8TtuJ5vuYocUBsw5BJdc8JjFHPZpump": {
@@ -34728,6 +34680,58 @@
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "CDQ5mky5fWsiRNNHnpepm6agm4EBk3WFVDFh23rXpump": {
+    "name": "Wall Street Bets",
+    "symbol": "WSB",
+    "flagged_ts": 1790407248,
+    "liquidity_at_flag": 19131.04709585698,
+    "breakdown": {
+      "MOMENTUM": 64,
+      "SAFETY": 90,
+      "LIQUIDITY": 96,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "7ga2r6k1LPHMES54btX6wB128D6PNavZdwr4qDR1cWB": {
+    "name": "Kylian Mbapp\u00e9",
+    "symbol": "KMbappe",
+    "flagged_ts": 1790407250,
+    "liquidity_at_flag": 24206.857224414343,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "GwgDEoL13HVj4nsgWCFcmDvkH6XgGby7oZTiRtf5hmW3": {
+    "name": "\u5218\u6b22\u8d70\u597d",
+    "symbol": "\u5218\u6b22",
+    "flagged_ts": 1790407251,
+    "liquidity_at_flag": 38364.14146010033,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "ENe7tRKyk6CcwoitA8vqUaTg2DDbfQ9sAEGYLXXyxFnp": {
+    "name": "Effective Accelerationism",
+    "symbol": "e/acc",
+    "flagged_ts": 1790407252,
+    "liquidity_at_flag": 37038.24861756338,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 100,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
