@@ -1,5 +1,5 @@
 {
-  "last_updated": 1790430766,
+  "last_updated": 1790431522,
   "wallets": [
     {
       "label": "Dev wallet 1",
@@ -68,7 +68,7 @@
         "cbbtcf3aa214zXHbiAZQwf4122FBYbraNdFqgw4iMij",
         "Xsa62P5mvPszXL1krVUnU5ar38bBSVcWAB6fmPCo5Zu"
       ],
-      "last_active": 1790429413,
+      "last_active": 1790431510,
       "positions": {},
       "realized_pnl_usd": 0.0
     }
@@ -87,14 +87,74 @@
     "count": 2835,
     "up_count": 613,
     "total_change_pct": -155586.29928175083,
-    "rug": 1788,
+    "rug": 1790,
     "doing_well": 18,
     "steady": 9,
     "fading": 19
   },
-  "learning_insight": "Coins that rugged averaged SAFETY 69; coins that did well averaged SAFETY 93.",
+  "learning_insight": null,
   "settings": {},
   "recent_alerts": [
+    {
+      "ts": 1790431522,
+      "type": "outcome",
+      "message": "\ud83d\udd34 hold instead of getting a job (holdcat) is dropping fast \u2014 down 100%, may be rugging."
+    },
+    {
+      "ts": 1790431521,
+      "type": "outcome",
+      "message": "\ud83d\udd34 xRent (XRENT) is dropping fast \u2014 down 100%, may be rugging."
+    },
+    {
+      "ts": 1790431520,
+      "type": "outcome",
+      "message": "\ud83d\udd34 p(doom) (P(DOOM)) is dropping fast \u2014 down 100%, may be rugging."
+    },
+    {
+      "ts": 1790431520,
+      "type": "outcome",
+      "message": "\ud83d\udd34 Paid (PAID) is dropping fast \u2014 down 100%, may be rugging."
+    },
+    {
+      "ts": 1790431519,
+      "type": "outcome",
+      "message": "\ud83d\udd34 The Liquidator (LIQ) is dropping fast \u2014 down 71%, may be rugging."
+    },
+    {
+      "ts": 1790431518,
+      "type": "outcome",
+      "message": "\ud83d\udd34 Extropians (Extropians) is dropping fast \u2014 down 100%, may be rugging."
+    },
+    {
+      "ts": 1790431517,
+      "type": "outcome",
+      "message": "\ud83d\udd34 YAP (YAP) is dropping fast \u2014 down 100%, may be rugging."
+    },
+    {
+      "ts": 1790431516,
+      "type": "outcome",
+      "message": "\ud83d\udd34 \u82b1\u597d\u6708\u5706\u591c (\ud83c\udf89\u9616\u5bb6\u6b22\u4e50) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
+    },
+    {
+      "ts": 1790431515,
+      "type": "outcome",
+      "message": "\ud83d\udd34 Shaolin Meow (MEOWLIN) turned out to be a rug \u2014 liquidity dropped 87% over 24h."
+    },
+    {
+      "ts": 1790431513,
+      "type": "scanner",
+      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\nFranklin The Turtle (Franklin)\nOpportunity: 75/100\n\nMOMENTUM     99\nSAFETY       60\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$33,477, 13 min since pool creation\n\u2022 Up +66% in the last hour, ~$241,778 in 24h volume (7.2x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 97% of supply (very concentrated)\n\nCA: HkRDnfDNBwo74Ama197mXNUBXpkRw9CMhgP5kSTsaMth\nhttps://dexscreener.com/solana/HkRDnfDNBwo74Ama197mXNUBXpkRw9CMhgP5kSTsaMth\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
+    },
+    {
+      "ts": 1790431512,
+      "type": "scanner",
+      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\nunipcs (UNIPCS)\nOpportunity: 74/100\n\nMOMENTUM     95\nSAFETY       60\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$33,507, 11 min since pool creation\n\u2022 Up +63% in the last hour, ~$160,084 in 24h volume (4.8x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 79% of supply (very concentrated)\n\nCA: 4Td7hswYAHw6pyRVVWesTvgXrUATNjmyDLaLJCaBbLH3\nhttps://dexscreener.com/solana/4Td7hswYAHw6pyRVVWesTvgXrUATNjmyDLaLJCaBbLH3\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
+    },
+    {
+      "ts": 1790431510,
+      "type": "wallet",
+      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: BABA -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/2eDPmLErVjLKhvTRwULD8N1zcMgvc1Ji7M9NiPVfu72G3NXAWY5tBvvxw639eMue6yBAYHhLGWxENvsjKsXhFfWf"
+    },
     {
       "ts": 1790430766,
       "type": "outcome",
@@ -284,66 +344,6 @@
       "ts": 1790427882,
       "type": "outcome",
       "message": "\ud83d\udd34 Backpack Cat (BackCat) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
-    },
-    {
-      "ts": 1790427881,
-      "type": "outcome",
-      "message": "\ud83d\udd34 Backpack Cat (BackCat) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
-    },
-    {
-      "ts": 1790427880,
-      "type": "outcome",
-      "message": "\ud83d\udd34 Brick By Brick (BRICK) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
-    },
-    {
-      "ts": 1790427875,
-      "type": "wallet",
-      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: SKHY -> USDC\nTrade size: unknown\nBought token: USD Coin (USDC)\nCA: EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v\nhttps://solscan.io/tx/23imLHVsWEatQkD1iWBCE2XXGbsm38CVsCY9Pu85SnTFJvCxPuCA1pDJqWGdoAwka4uVv9mwvTWpGpjJ38TDAr12"
-    },
-    {
-      "ts": 1790427143,
-      "type": "outcome",
-      "message": "\ud83d\udd34 The Delusional Bull (MURAD) is dropping fast \u2014 down 64%, may be rugging."
-    },
-    {
-      "ts": 1790427142,
-      "type": "outcome",
-      "message": "\ud83d\udd34 Effective Accelerationism (e/acc) is dropping fast \u2014 down 100%, may be rugging."
-    },
-    {
-      "ts": 1790427141,
-      "type": "outcome",
-      "message": "\ud83d\udd34 Kardashev Research (KARDASHEV) is dropping fast \u2014 down 100%, may be rugging."
-    },
-    {
-      "ts": 1790427140,
-      "type": "outcome",
-      "message": "\ud83d\udd34 Trump AI (Trump AI) is dropping fast \u2014 down 100%, may be rugging."
-    },
-    {
-      "ts": 1790427139,
-      "type": "outcome",
-      "message": "\ud83d\udd34 Gloop (GLOOP) is dropping fast \u2014 down 100%, may be rugging."
-    },
-    {
-      "ts": 1790427138,
-      "type": "outcome",
-      "message": "\ud83d\udd34 Paid (PAID) is dropping fast \u2014 down 100%, may be rugging."
-    },
-    {
-      "ts": 1790427137,
-      "type": "outcome",
-      "message": "\ud83d\udd34 Brick By Brick (BRICK) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
-    },
-    {
-      "ts": 1790427136,
-      "type": "outcome",
-      "message": "\ud83d\udd34 OpenGap (OPENGAP) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
-    },
-    {
-      "ts": 1790427135,
-      "type": "outcome",
-      "message": "\ud83d\udd34 51\u5403\u74dc\u7f51\u5b98\u65b9\u9996\u53d1Meme (51X) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
     }
   ]
 }
