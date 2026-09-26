@@ -1,55 +1,4 @@
 {
-  "3jUFoHhWoMbZVGQr4ANaHPMvLneRtfVYhe868vETDPLn": {
-    "name": "TIPPED",
-    "symbol": "TIPPED",
-    "flagged_ts": 1789850627,
-    "liquidity_at_flag": 25862.757728009587,
-    "breakdown": {
-      "MOMENTUM": 100,
-      "SAFETY": 60,
-      "LIQUIDITY": 100,
-      "SMART MONEY": 0
-    },
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "Hr98qKCpAcSvYhu5exMp3wLf1gmwgYwscBx5BrzNpump": {
-    "name": "Apu Apustaja",
-    "symbol": "Apu",
-    "flagged_ts": 1789850628,
-    "liquidity_at_flag": 33268.43039107578,
-    "breakdown": {
-      "MOMENTUM": 100,
-      "SAFETY": 100,
-      "LIQUIDITY": 100,
-      "SMART MONEY": 0
-    },
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "3Vi5wdAHvMZSpE1RNjz9zEZKBBfV83umH3tJRQ3Usgot": {
-    "name": "Feels Good Man",
-    "symbol": "FEELSGOOD",
-    "flagged_ts": 1789850629,
-    "liquidity_at_flag": 161314.62840858224,
-    "breakdown": {
-      "MOMENTUM": 100,
-      "SAFETY": 60,
-      "LIQUIDITY": 100,
-      "SMART MONEY": 0
-    },
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
   "8ZAnzSHHR1qTf9i6yGnWKFsr7qVJNfR9KcPFvfgs5irA": {
     "name": "MEMEMAN",
     "symbol": "MEMEMAN",
@@ -29541,7 +29490,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "43S1zmubWfNVM2n11ndV5dYkwqnVJZbzYxMgPQpkxx2c": {
@@ -29557,7 +29507,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "ApBcemZEKdrZsWtb8ybG8VyJhhq6ojnBtc71mYHsycpZ": {
@@ -29573,7 +29524,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "3PKnVAhHtcn9Lcxxc4aRUq2UXrPihr1ia3QAuek4c6wx": {
@@ -29589,7 +29541,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "B1fFdCihoDu4XpdDZmabPH6LjRLau1Z4vgh2DNXcpump": {
@@ -29605,7 +29558,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "DbNukPsAhGEtvgW5hiEFjHgdgwZEzYNFJKSZbNWTtHoQ": {
@@ -29621,7 +29575,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "HE3sA1xPuND7nn5dM1dwS8ff8HzH6Gv5aN4cYyTkgR3M": {
@@ -33348,7 +33303,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "8ERwFAPJPYASZSmdJ8srgsrEjHBvyUiJjTMyYKuCoQZ": {
@@ -33767,7 +33723,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "Gur8ZxKpAD9jQ7AnHhvWmocZxSxRmmbNpLPyGMHaa5nX": {
     "name": "Gentle Giant",
@@ -33780,7 +33738,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "BWFhX4dAUZvx8yYmKLRZfS5r2ch6M3LgEWkAD2bNAYoQ": {
     "name": "Split",
@@ -33904,6 +33864,45 @@
     "symbol": "LOTTO",
     "flagged_ts": 1790453960,
     "liquidity_at_flag": 27302.043667702703,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "PmoF4rLVamFD7Qbd3xeMjvVGfmyEYKvzsf8P2jscwRb": {
+    "name": "Lotto",
+    "symbol": "LOTTO",
+    "flagged_ts": 1790455526,
+    "liquidity_at_flag": 31597.638522898895,
+    "breakdown": {
+      "MOMENTUM": 92,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "84LnzmSzksyhceLbNdH62Vwa9U5Cfjw4iNo8bvEeZqdA": {
+    "name": "PaidTok",
+    "symbol": "PaidTok",
+    "flagged_ts": 1790455527,
+    "liquidity_at_flag": 26718.676866336416,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "Zx7AwaC4eLSA9htKZE4RMJJAduYXDbKVpbGhy1Ypump": {
+    "name": "Anthropic",
+    "symbol": "Anthropic",
+    "flagged_ts": 1790455528,
+    "liquidity_at_flag": 91928.26318298109,
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 60,
