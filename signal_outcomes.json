@@ -1,26 +1,4 @@
 {
-  "5WhchLwha9gBZYUuLGhqdLLRBWRYyffMGysZog8f8Qg6": {
-    "name": "Gstock",
-    "symbol": "GSTOCK",
-    "flagged_ts": 1789794292,
-    "liquidity_at_flag": 25369.754669385784,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "39frjCFkLeDVyvbQSGQee4134bBX1zWx8HSooyNSx2KQ": {
-    "name": "Keainu Reeves",
-    "symbol": "Keainu",
-    "flagged_ts": 1789794293,
-    "liquidity_at_flag": 15751.29538785158,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
   "BFjWqt99Hw3phXYhoZyG1nNAY2d9MofEcRX38B517i2": {
     "name": "MEMESTOCKS",
     "symbol": "MEMESTOCKS",
@@ -33766,7 +33744,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "FbNGng9eS2oa1dFZcEd4dPEvdJPidTioQsKCkhwsC4ve": {
@@ -33781,7 +33760,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "9FQeBK4Mh2EgYRJ28sYyfFGihvMbubbri7tFt7xwnkds": {
@@ -33796,7 +33776,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "9BkoS7UFRKWzUfir7BMpJ4dRwJVFe35Y8Wexr9nH95tM": {
@@ -33811,7 +33792,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "FHJmAM346aPNv9ffkhpjmTxdQRBYDErW3XHjUWMJtpN1": {
@@ -33826,7 +33808,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "MkmJdaxiDNKpYTBaHGoVghhNvc91deV6W4uhWMKpump": {
@@ -33841,7 +33824,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "3P4p47dZJwSAtye2ePMduebFWy35wJAnxkGyJu77fnWy": {
@@ -34410,7 +34394,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "6gwjFjApLXeK6EbnVwhJ6E7bJcaAWUwvdDMsgRzp6n7k": {
     "name": "A MEME COIN",
@@ -34423,7 +34409,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "ABNbjwfaiDLfomrLH21RzscZ8rnNkrDEHKfSC9vY7XZ6": {
     "name": "A MEME COIN",
@@ -34436,7 +34424,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "56UCBMNousmZwF9GAoGoztrs2LsavxoxBhbbPdJQpump": {
     "name": "RichardStrocher",
@@ -34641,6 +34631,58 @@
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 100,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "8MgdYusuhnjahcgef4gHhDDqo8GnpbkudFhGRwtZVaNa": {
+    "name": "Super inu",
+    "symbol": "Super inu",
+    "flagged_ts": 1790399124,
+    "liquidity_at_flag": 42164.30615746045,
+    "breakdown": {
+      "MOMENTUM": 95,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "vw1qZzhqdFCgRBWAgvmMJe1pqUy1Ddo7edF6ca2wKTJ": {
+    "name": "dropping dollars on strangers",
+    "symbol": "DDOS",
+    "flagged_ts": 1790399126,
+    "liquidity_at_flag": 37694.13490003397,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "E4DHn5co9AkTPUnVd9D95fzPVVtARysLe9Bf49ZxfwJ8": {
+    "name": "dropping dollars on strangers",
+    "symbol": "DDOS",
+    "flagged_ts": 1790399127,
+    "liquidity_at_flag": 53489.3273517074,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "7y2ebtpmFxwkCr4F9uemdByMJZyZAiYaxyygEmZs1B9R": {
+    "name": "dropping dollars on strangers",
+    "symbol": "DDOS",
+    "flagged_ts": 1790399127,
+    "liquidity_at_flag": 41344.827768561445,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 75,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
