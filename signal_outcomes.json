@@ -1,26 +1,4 @@
 {
-  "FtPqvT9exivoALnS4yJHQtKCwXmccAorCB9To7iSpump": {
-    "name": "PLUP",
-    "symbol": "PLUP",
-    "flagged_ts": 1789782841,
-    "liquidity_at_flag": 19420.86792983062,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "BnEdxx2CDmnrXd5FxtFZy4vn4NZp4u91Sx9heVQfahiy": {
-    "name": "TartSwap",
-    "symbol": "TART",
-    "flagged_ts": 1789782843,
-    "liquidity_at_flag": 143804.92540150555,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
   "9a3XPWhgPMjgE3xqYFLgo5Cvt8PyziNMP7Ca4zJobLoM": {
     "name": "DGAI",
     "symbol": "DGrid AI",
@@ -29562,7 +29540,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "73UdGDgdYhbk2JfhaU8qRjMUS7mxDg6so9pcSam9pump": {
@@ -33737,7 +33716,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "26JCsJvgj7Yp59cgLzP5p4194S18JgfYN6k5KYTypump": {
@@ -33752,7 +33732,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "4z74i8Jo5zTWkFyyrx5zuusLasgKu6JtREVKgKVSpump": {
@@ -33767,7 +33748,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "DseCuJgAmSs61BKr2mD6sn9TPwam4gBGxVuE6b7CD8v2": {
@@ -33782,7 +33764,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "13vVSQALeSk5MLuFsGfg1ywDMsFjU1nYHYS6ZWYL7bsN": {
@@ -34400,6 +34383,58 @@
     "liquidity_at_flag": 33073.262975640886,
     "breakdown": {
       "MOMENTUM": 88,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "H3RUSvJ5EAzVqXx19RuiYpnKmz5D2DRGskttUdXiqrQa": {
+    "name": "Degens Dollars On Solana",
+    "symbol": "DDOS",
+    "flagged_ts": 1790387702,
+    "liquidity_at_flag": 25737.89275548291,
+    "breakdown": {
+      "MOMENTUM": 91,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "7SzfLRKgRTo2GjPSDEyycD8FvNJ1TcVLUYNSpyTjApd3": {
+    "name": "Degens Dollars On Solana",
+    "symbol": "DDOS",
+    "flagged_ts": 1790387703,
+    "liquidity_at_flag": 17883.766738201284,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 89,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "BiPvcsmF45Jtmdsh5p1KAzEgoE3Sp7BR39mV52RVcK14": {
+    "name": "51\u5403\u74dc\u7f51\u5b98\u65b9\u9996\u53d1Meme",
+    "symbol": "51X",
+    "flagged_ts": 1790387703,
+    "liquidity_at_flag": 41029.65971356765,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "GVAHk9SpbQsPLa8UJ4EVeJcrgNmKjzicV18ZaQnHGxiy": {
+    "name": "CLAUDE AI",
+    "symbol": "CLAUDE",
+    "flagged_ts": 1790387704,
+    "liquidity_at_flag": 42455.06908172539,
+    "breakdown": {
+      "MOMENTUM": 100,
       "SAFETY": 60,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
