@@ -1,26 +1,4 @@
 {
-  "F6BCvEpdmyJTND83xQmL1QS85yBdMri983VonHoCAxJW": {
-    "name": "Prism Cat",
-    "symbol": "PRISMCAT",
-    "flagged_ts": 1789780749,
-    "liquidity_at_flag": 59148.84897295221,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "4q726UjuYgKjChXkKt7RPLuYRzQ1HVQBnpPLKaL9nAbM": {
-    "name": "\u304a\u3093\u304c\u304f",
-    "symbol": "\u304a\u3093\u304c\u304f",
-    "flagged_ts": 1789780751,
-    "liquidity_at_flag": 43301.80856657389,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
   "GaLegzK4bHUdDM5hjYkv9mPGi2YvvfnqbhAva49FCgTf": {
     "name": "Suica Rabbit",
     "symbol": "\u3046\u3055\u304e",
@@ -29587,7 +29565,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "5KLnbKmYJhjAtE4ETLWy7GMBMrAdMwHoEtc3DQyWvVBi": {
@@ -33650,7 +33629,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "CdzTirjnTy3HNt5mBrFBWGdt7Wida9RcsWUmRSEFLzd3": {
@@ -33665,7 +33645,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "9UpKDiG2tcFmKi6tcx4amqWuky4x7jfiXT4fAMxYBjZd": {
@@ -33680,7 +33661,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "CpG8dEmLitJqkTrA1HcTpsQqZV8opjExqrnLDP6fXLFT": {
@@ -33695,7 +33677,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "CbcyNo7m1amFWqEQm2m4PLv1UNvpcL3C1Ujm6AkzpKoU": {
@@ -34404,6 +34387,58 @@
     "breakdown": {
       "MOMENTUM": 52,
       "SAFETY": 90,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "3P4p47dZJwSAtye2ePMduebFWy35wJAnxkGyJu77fnWy": {
+    "name": "CLAUDE AI",
+    "symbol": "CLAUDE",
+    "flagged_ts": 1790385597,
+    "liquidity_at_flag": 22513.02260960526,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "pcWQwKUbNAhTCYRPqHwi4qgvowhQrPnLJbyyYzgW53h": {
+    "name": "Effective Accelerationism",
+    "symbol": "e/acc",
+    "flagged_ts": 1790385598,
+    "liquidity_at_flag": 29286.51959933174,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "2A9QBina44MzyS9HKG2GDPnhxrFrn75cv8evLKSuU3nk": {
+    "name": "Paid",
+    "symbol": "PAID",
+    "flagged_ts": 1790385599,
+    "liquidity_at_flag": 32398.326824521257,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "dNb4FrCymiFXuXXbiq4gRe8kF3P6EMRenZvsSgJpump": {
+    "name": "Effective Accelerationism",
+    "symbol": "e/acc",
+    "flagged_ts": 1790385600,
+    "liquidity_at_flag": 34467.824019118474,
+    "breakdown": {
+      "MOMENTUM": 97,
+      "SAFETY": 100,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
