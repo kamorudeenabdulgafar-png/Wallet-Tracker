@@ -1,5 +1,5 @@
 {
-  "last_updated": 1790438096,
+  "last_updated": 1790438725,
   "wallets": [
     {
       "label": "Dev wallet 1",
@@ -9,8 +9,8 @@
   "wallet_stats": {
     "5CEbueQnq1Ym2uSSx2xXds3jQAqT1BDnkA59RZobSPAG": {
       "label": "Dev wallet 1",
-      "buy_count": 357,
-      "sell_count": 206,
+      "buy_count": 358,
+      "sell_count": 208,
       "total_buy_usd": 15628.984658586525,
       "total_sell_usd": 0.0,
       "tokens_traded": [
@@ -68,7 +68,7 @@
         "cbbtcf3aa214zXHbiAZQwf4122FBYbraNdFqgw4iMij",
         "Xsa62P5mvPszXL1krVUnU5ar38bBSVcWAB6fmPCo5Zu"
       ],
-      "last_active": 1790437561,
+      "last_active": 1790438721,
       "positions": {},
       "realized_pnl_usd": 0.0
     }
@@ -95,6 +95,46 @@
   "learning_insight": "Coins that rugged averaged SAFETY 70; coins that did well averaged SAFETY 85.",
   "settings": {},
   "recent_alerts": [
+    {
+      "ts": 1790438725,
+      "type": "outcome",
+      "message": "\ud83d\udfe2 IP (IP) is still doing really good \u2014 up 40% so far!"
+    },
+    {
+      "ts": 1790438722,
+      "type": "wallet",
+      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: LINK -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/38bzoS6f71RapHrUXhaCnWdU6jciCEpAvMQeaWEhadvw3CNXsr4EbkAFp7bEzz15mm9LmfQi577gNPnb8EnctZGS"
+    },
+    {
+      "ts": 1790438721,
+      "type": "wallet",
+      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: STRCx -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/3mHtaLcaPDDFNARGKouBPiokX5DbGnUAHF6RY2SgpmUQBgge229GyS2GL1ArsuXAEyVs16hHTuQiCmvDHp6ySky7"
+    },
+    {
+      "ts": 1790438721,
+      "type": "wallet",
+      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: neet -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/4qKmfcXunmdzZ1348HC5BqNZFxXkKm2Xfg7nn4TGWF81VyfC39Niu9j5L5cxopnuCNy8sJDw9aYvr6gE8fp2aqCn"
+    },
+    {
+      "ts": 1790438720,
+      "type": "wallet",
+      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: USD1 -> USDC\nTrade size: unknown\nBought token: USD Coin (USDC)\nCA: EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v\nhttps://solscan.io/tx/4gustk2dj4AhfRz75yDLTmLQUfv2cgiZN4NxNC1BbcPoQxhMfoKsTScFmhELKEj6HkW6AMr8CQy6gNfJU65jHf3"
+    },
+    {
+      "ts": 1790438720,
+      "type": "wallet",
+      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: CARDS -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/3uQemAWrmChwo9oJw5zPSdspypwEm4XjMKYtU8g5SZgZx462tViSuJwd8JBmkHXTHQo5wT2nNh5ue8kahuDv6wbi"
+    },
+    {
+      "ts": 1790438719,
+      "type": "wallet",
+      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: wXRP -> USDC\nTrade size: unknown\nBought token: USD Coin (USDC)\nCA: EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v\nhttps://solscan.io/tx/4phcPSqxuFwQ3SKNXVb8p4XFuEjQYFJdFR23gEsDa8sda3gCbHg5iVYxchhq1uzQoxenPqySFBWjDYe27JUWLC85"
+    },
+    {
+      "ts": 1790438719,
+      "type": "wallet",
+      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: USDC -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/4C2XjWhaEBoLDHAXKP7eftVXZXA42zxQoKLDi7kDgcfrQLevfGMrKVGWeQ1EmrMemspeJb7BGjsZViiW3nCGH2ZU"
+    },
     {
       "ts": 1790438096,
       "type": "outcome",
@@ -304,46 +344,6 @@
       "ts": 1790435086,
       "type": "wallet",
       "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: ORE -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/z1C4ispcdCa7wiv2MJ5QLGqs1vDGinsYbcWYSVaWt8zo2azLtuGa2k53mHGAV3BKYyNn8zd2Sh7JMYX14ieazUA"
-    },
-    {
-      "ts": 1790434480,
-      "type": "outcome",
-      "message": "\ud83d\udd34 tinycat (tinycat) is dropping fast \u2014 down 100%, may be rugging."
-    },
-    {
-      "ts": 1790434479,
-      "type": "outcome",
-      "message": "\ud83d\udd34 Housecoin (House) is dropping fast \u2014 down 100%, may be rugging."
-    },
-    {
-      "ts": 1790434477,
-      "type": "outcome",
-      "message": "\ud83d\udd34 DebtCoin (DEBT) is dropping fast \u2014 down 100%, may be rugging."
-    },
-    {
-      "ts": 1790434476,
-      "type": "outcome",
-      "message": "\ud83d\udd34 Bagwork (Bagwork) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
-    },
-    {
-      "ts": 1790434475,
-      "type": "outcome",
-      "message": "\ud83d\udd34 Bagwork (Bagwork) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
-    },
-    {
-      "ts": 1790434473,
-      "type": "outcome",
-      "message": "\ud83d\udd34 Moon (Moon) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
-    },
-    {
-      "ts": 1790434472,
-      "type": "outcome",
-      "message": "\ud83d\udd34 \u02e2\u02b0\u1d52\u02b3\u1d57 (\u02e2\u02b0\u1d52\u02b3\u1d57) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
-    },
-    {
-      "ts": 1790434470,
-      "type": "outcome",
-      "message": "\ud83d\udd34 Fomo Jean (FOMOJEAN) turned out to be a rug \u2014 liquidity dropped 87% over 24h."
     }
   ]
 }
