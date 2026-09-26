@@ -1,37 +1,4 @@
 {
-  "CHShPMCL3A639M8Q6hEwwhJtPgtGU9HSxtG1e5GHdUnV": {
-    "name": "POKEDEX",
-    "symbol": "POKEDEX",
-    "flagged_ts": 1789811056,
-    "liquidity_at_flag": 24569.894093406823,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "BKKHWH2uYxDxp7xawHfQMewKTvQAXsEmUZ82H855xSzq": {
-    "name": "Argus",
-    "symbol": "ARGUS",
-    "flagged_ts": 1789811057,
-    "liquidity_at_flag": 42776.58576956857,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "6Q9RVApdFGx5pfQAeBQhjh6mPwP3ZYQ4AUB8FP3GRnDq": {
-    "name": "heyaskr",
-    "symbol": "ASKR",
-    "flagged_ts": 1789811058,
-    "liquidity_at_flag": 34637.62697720061,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
   "7GB23oQUkEAZEfDs9BsKUDTv31LGUhaRepgzuPuM7Cs3": {
     "name": "Uranus",
     "symbol": "URANUS",
@@ -29800,7 +29767,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "E3okcG5A71RJdZALygcYTjKEF7x4asXcLYKVZsBafMJX": {
@@ -29816,7 +29784,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "6fzV6s6UUXN1v4UYzryXLPYm42mpTCarrWcuALr2pump": {
@@ -34103,7 +34072,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "FK4JHuzEjdaneomCNXb6m28jwew8wwFWHpW3MzAeDpVi": {
@@ -34118,7 +34088,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "ELNEsch4Utg9FrvXiVKCcHeBjhHVWzRwnAvcHSTVYL1o": {
@@ -34133,7 +34104,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "EC9CztYxdZ8jTsa8fmwuDFddCz1yunUddcN8Exk3pump": {
@@ -34537,7 +34509,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "F99HRQeaZofSJ9bCo95AghDfAXbtsTp5jgwXDCn7uiGF": {
     "name": "New guy is chill",
@@ -34550,7 +34524,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "8HxxPBaE5XD1fi1Sxqmu3BGZJrED47J62WTSBKFy3MP7": {
     "name": "Effective Accelerationism",
@@ -34563,7 +34539,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "7zHBYzrcWEgykohJub1FqZ92r1arMzveqFxJ6nnESEi4": {
     "name": "Paid",
@@ -34767,6 +34745,32 @@
     "liquidity_at_flag": 59180.25648735758,
     "breakdown": {
       "MOMENTUM": 85,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "U2DcbVJm1FVkogaL9Ti2vU5XN7g1shvCFei3RjSpump": {
+    "name": "xRent",
+    "symbol": "XRENT",
+    "flagged_ts": 1790415939,
+    "liquidity_at_flag": 19213.72303890371,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 90,
+      "LIQUIDITY": 96,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "6MuHiXEAG8RL73PacmMb9PKKx43xeJEiV6rpx3rkyRgL": {
+    "name": "Kardashev Research",
+    "symbol": "KARDASHEV",
+    "flagged_ts": 1790415940,
+    "liquidity_at_flag": 61495.56444208209,
+    "breakdown": {
+      "MOMENTUM": 100,
       "SAFETY": 60,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
