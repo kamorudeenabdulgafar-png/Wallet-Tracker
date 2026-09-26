@@ -29456,7 +29456,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "AnTwpTrEkRTDTpuxbY3qQ3qM4pESqYxZF74DWe1yxSdG": {
@@ -29472,7 +29473,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "967L2A9hahYuRiitN8EpQiGeXNgccHKPqbjZzc2goUwW": {
@@ -29488,7 +29490,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "B2xsn9g9UyZXV38Xc818d16ArACZBvJjL1QTES4kqnxw": {
@@ -33423,7 +33426,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "876zScVtLUJ8RDsHmLnAFtRAN3UDgKY3KyDLYF3bYXTG": {
@@ -33896,6 +33900,45 @@
     "symbol": "SPLIT",
     "flagged_ts": 1790452426,
     "liquidity_at_flag": 27835.51882884064,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "D3EK5Uz9Nzx5huytDR569hbtyr1jmU4hCZMzno8NE6Mv": {
+    "name": "Split",
+    "symbol": "SPLIT",
+    "flagged_ts": 1790453084,
+    "liquidity_at_flag": 35040.39011068237,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 75,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "Ek8GUR6qEPe33PY2Z3kojEAcbE9MU9ySw1oawHJBuwg": {
+    "name": "Split",
+    "symbol": "SPLIT",
+    "flagged_ts": 1790453085,
+    "liquidity_at_flag": 259824.32127280964,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "DtVnUEZuNbdwryVaHpU6Cjs9GkexQeZWT3LrPjEUZNf7": {
+    "name": "SPLIT",
+    "symbol": "SPLIT",
+    "flagged_ts": 1790453086,
+    "liquidity_at_flag": 68773.09015574152,
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 60,
