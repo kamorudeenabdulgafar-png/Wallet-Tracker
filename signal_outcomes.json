@@ -1,15 +1,4 @@
 {
-  "F3Q793wvmnk17StiiSUhQe8Xr1n5P1wzRsL47JsaSr3j": {
-    "name": "The Pok\u00e9dex",
-    "symbol": "POK\u00c9DEX",
-    "flagged_ts": 1789802992,
-    "liquidity_at_flag": 33428.36117066421,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
   "FKcie3DQ6euUi3hVEVquMD3BPGe3gxnAB6Ddyd6WYcBi": {
     "name": "\u725b\u6765",
     "symbol": "\u725b\u6765",
@@ -29689,7 +29678,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "E3x7UmiR5spGzoD6xEypoZ51HwxWg4n75qkqNeR1CPxj": {
@@ -29705,7 +29695,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "FWd9yEKy1SP7unRKyyoQznepeJwCuWAHKijvG9tB5jAp": {
@@ -29721,7 +29712,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "FTg9UuFjeKK72wycCEBRRTL96vqxG6g2Wx7hjynPkwz": {
@@ -33976,7 +33968,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "GmjxzzngCBtF8uZwBkH2rRxAnxqrvvqSCvs6W5Cpump": {
@@ -33991,7 +33984,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "GmPuERh5xhjdH3zGKz1nJdZ7WsqXYMpdxTju9hdDpump": {
@@ -34605,7 +34599,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "E1h2Y21X2AzTQo2Gqm6sAeVnyx4un4EJckvSraXKpump": {
     "name": "Cycle Cat",
@@ -34618,7 +34614,9 @@
       "LIQUIDITY": 96,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "2U4R6E4SQju14EXJ4BkbhoMwjsEfre2h3J8WuQBFbHdz": {
     "name": "Clasp",
@@ -34732,6 +34730,19 @@
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 100,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "GWieesyY6rwi5uSJjUZauVhTpJdwzedyjQUhnsLsKgoV": {
+    "name": "\ud83d\udde1\ufe0fswordsman",
+    "symbol": "SWORDSMAM",
+    "flagged_ts": 1790408137,
+    "liquidity_at_flag": 60531.78407877197,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
