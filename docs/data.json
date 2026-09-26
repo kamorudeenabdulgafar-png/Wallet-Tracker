@@ -1,5 +1,5 @@
 {
-  "last_updated": 1790451513,
+  "last_updated": 1790451977,
   "wallets": [
     {
       "label": "Dev wallet 1",
@@ -9,7 +9,7 @@
   "wallet_stats": {
     "5CEbueQnq1Ym2uSSx2xXds3jQAqT1BDnkA59RZobSPAG": {
       "label": "Dev wallet 1",
-      "buy_count": 358,
+      "buy_count": 359,
       "sell_count": 209,
       "total_buy_usd": 15628.984658586525,
       "total_sell_usd": 0.0,
@@ -68,7 +68,7 @@
         "cbbtcf3aa214zXHbiAZQwf4122FBYbraNdFqgw4iMij",
         "Xsa62P5mvPszXL1krVUnU5ar38bBSVcWAB6fmPCo5Zu"
       ],
-      "last_active": 1790449487,
+      "last_active": 1790451972,
       "positions": {},
       "realized_pnl_usd": 0.0
     }
@@ -87,7 +87,7 @@
     "count": 2835,
     "up_count": 613,
     "total_change_pct": -155586.29928175083,
-    "rug": 1848,
+    "rug": 1849,
     "doing_well": 21,
     "steady": 9,
     "fading": 19
@@ -95,6 +95,36 @@
   "learning_insight": "Coins that rugged averaged SAFETY 69; coins that did well averaged SAFETY 86.",
   "settings": {},
   "recent_alerts": [
+    {
+      "ts": 1790451977,
+      "type": "outcome",
+      "message": "\ud83d\udd34 Meme Acceleration (m/acc) is dropping fast \u2014 down 100%, may be rugging."
+    },
+    {
+      "ts": 1790451976,
+      "type": "outcome",
+      "message": "\ud83d\udd34 MANDATE OF HEAVEN (MOH) turned out to be a rug \u2014 liquidity dropped 85% over 24h."
+    },
+    {
+      "ts": 1790451973,
+      "type": "wallet",
+      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: USDC -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/22vWUYd5543rENjo9TskaZjFtycvRpFB456jEdQFnUNWpkY72RL7KhTP7iCvcmHv6BDZW6xw4pEqT7UupSixRmw8"
+    },
+    {
+      "ts": 1790451972,
+      "type": "wallet",
+      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: SILV -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/45u6JaHGPfp3f9btnQ5XqQPLpLv3TaxYEN77qHc1JA4cEeNSJJdmoH3tsYaaypHGweTT7GGbX3rQ48YMziJ5dJFu"
+    },
+    {
+      "ts": 1790451972,
+      "type": "wallet",
+      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: MGM -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/49QPJL1ZpZ9kzxtZ2kEnikEfZPkCHQkWHfG8mURoksyJ47EL8qBi6Binmh3bT4Rf7vXnW5m5wEr3kiBExVSN6EmB"
+    },
+    {
+      "ts": 1790451971,
+      "type": "wallet",
+      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: 0.0985 SOL (~$11.92) -> USDC\nTrade size: ~$11.92\nBought token: USD Coin (USDC)\nCA: EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v\nhttps://solscan.io/tx/2FTp1NSwsbbNQ76RHeVNHWhUvrSUtaeZZXTZj2KhBDbBa2rQPz1VS6tMWzbyw4HfYSeZeWFjNARkvZzXJ1ZH5g2j"
+    },
     {
       "ts": 1790451513,
       "type": "outcome",
@@ -314,36 +344,6 @@
       "ts": 1790446994,
       "type": "outcome",
       "message": "\ud83d\udd34 Aerodrome Finance (AERO) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
-    },
-    {
-      "ts": 1790446993,
-      "type": "outcome",
-      "message": "\ud83d\udd34 YASHMODE (YASHMODE) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
-    },
-    {
-      "ts": 1790446992,
-      "type": "outcome",
-      "message": "\ud83d\udd34 HackGPT (HACKGPT) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
-    },
-    {
-      "ts": 1790446991,
-      "type": "outcome",
-      "message": "\ud83d\udd34 Blueprint (BLUEPRINT) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
-    },
-    {
-      "ts": 1790446990,
-      "type": "outcome",
-      "message": "\ud83d\udd34 Etch (ETCH) turned out to be a rug \u2014 liquidity dropped 81% over 24h."
-    },
-    {
-      "ts": 1790446989,
-      "type": "scanner",
-      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 STRONG\nColleague ($COLLEAGUE)\nOpportunity: 81/100\n\nMOMENTUM     100\nSAFETY       75\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$45,530, 13 min since pool creation\n\u2022 Up +292% in the last hour, ~$201,297 in 24h volume (4.4x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 25/100):\n\u2022 top 10 holders own 60% of supply (concentrated)\n\nCA: 2EkmxYe1vS9eTN6vHExWRYFE5w1KD4fJdw6NXBexAszS\nhttps://dexscreener.com/solana/2EkmxYe1vS9eTN6vHExWRYFE5w1KD4fJdw6NXBexAszS\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
-    },
-    {
-      "ts": 1790446987,
-      "type": "scanner",
-      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\nFork (FORK)\nOpportunity: 70/100\n\nMOMENTUM     53\nSAFETY       90\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$28,824, 6 min since pool creation\n\u2022 Up +35% in the last hour, ~$145,845 in 24h volume (5.1x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Low, 10/100):\n\u2022 top 10 holders own 40% of supply\n\nCA: GDT8UZGGuaa9YAevWxh7yBcNvj4otQUv4xf6j4RsForK\nhttps://dexscreener.com/solana/GDT8UZGGuaa9YAevWxh7yBcNvj4otQUv4xf6j4RsForK\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
     }
   ]
 }
