@@ -1,26 +1,4 @@
 {
-  "CAKJYWCH5A8KhXnxojiYCNcYF6oUYuYHQm2ctixipump": {
-    "name": "moo-ve.site",
-    "symbol": "MOO",
-    "flagged_ts": 1789806998,
-    "liquidity_at_flag": 35836.668337379226,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "ANZ4Ve7ZSasXAC4wBkVasCoJpvpgK3aGxtxqchiJ5ZN": {
-    "name": "\u5e2e\u52a9\u60a3\u764c\u5973\u751f",
-    "symbol": "Cookie",
-    "flagged_ts": 1789806999,
-    "liquidity_at_flag": 207194.70271110913,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
   "JBght52idMkdsMTDmz8PrQYYfmVqfAo7Ht7b5i3Cyd1B": {
     "name": "moo-ve.site",
     "symbol": "MOO",
@@ -29757,7 +29735,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "Echspq9eXz1ozaw2ADQSMLhn5s2QqB1zdpMJkxkMV8zv": {
@@ -34608,7 +34587,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "2z8dNFZGpX566ojbDRnH6wsrrwGYfSpVaouAdNWcudUw": {
     "name": "Kardashev Research",
@@ -34745,6 +34726,45 @@
     "symbol": "BUTTPHIL",
     "flagged_ts": 1790410945,
     "liquidity_at_flag": 31147.230771032875,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "96AcTP4cpvwNv4Zyi18JBy9iXBd6ACQtusGr2gfapo5c": {
+    "name": "Paid",
+    "symbol": "PAID",
+    "flagged_ts": 1790411851,
+    "liquidity_at_flag": 31957.201451399458,
+    "breakdown": {
+      "MOMENTUM": 87,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "F99HRQeaZofSJ9bCo95AghDfAXbtsTp5jgwXDCn7uiGF": {
+    "name": "New guy is chill",
+    "symbol": "NEWGUY",
+    "flagged_ts": 1790411853,
+    "liquidity_at_flag": 31160.720062743716,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "8HxxPBaE5XD1fi1Sxqmu3BGZJrED47J62WTSBKFy3MP7": {
+    "name": "Effective Accelerationism",
+    "symbol": "acc",
+    "flagged_ts": 1790411854,
+    "liquidity_at_flag": 54669.872166294736,
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 60,
