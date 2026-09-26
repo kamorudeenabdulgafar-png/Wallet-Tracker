@@ -1,31 +1,5 @@
 [
   {
-    "name": "DeepSeek",
-    "symbol": "DeepSeek",
-    "category": "steady",
-    "change_pct": -5.4,
-    "breakdown": {
-      "MOMENTUM": 90,
-      "SAFETY": 100,
-      "LIQUIDITY": 100,
-      "SMART MONEY": 0
-    },
-    "ts": 1790346658
-  },
-  {
-    "name": "Onboard",
-    "symbol": "ONBOARD",
-    "category": "rug",
-    "change_pct": -100.0,
-    "breakdown": {
-      "MOMENTUM": 100,
-      "SAFETY": 75,
-      "LIQUIDITY": 100,
-      "SMART MONEY": 0
-    },
-    "ts": 1790346659
-  },
-  {
     "name": "Gamby",
     "symbol": "Gamby",
     "category": "rug",
@@ -3898,5 +3872,31 @@
       "SMART MONEY": 0
     },
     "ts": 1790465391
+  },
+  {
+    "name": "MuseXT",
+    "symbol": "MuseXT",
+    "category": "fading",
+    "change_pct": -26.2,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 100,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "ts": 1790466032
+  },
+  {
+    "name": "51\u5403\u74dc\u7f51\u5b98\u65b9\u9996\u53d1Meme",
+    "symbol": "51X",
+    "category": "rug",
+    "change_pct": -100.0,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "ts": 1790466033
   }
 ]
