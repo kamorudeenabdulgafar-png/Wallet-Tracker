@@ -1,59 +1,4 @@
 {
-  "7Pzw35ogGEHiwhEubhfxcidAsy68xxPDFanh9TwMv7Ds": {
-    "name": "DeGods",
-    "symbol": "DEGODS",
-    "flagged_ts": 1789790003,
-    "liquidity_at_flag": 32293.246493884595,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "CqaRxoRRHT8ontugn7VFoPunxXhnwcQEW594c68hCqPE": {
-    "name": "\u9996\u4e2a\u5e26\u6760\u6746\u7684\u53d1\u5c04\u53f0\uff08\u652f\u6301\u6240\u6709\u80a1\u7968\u94fe\uff09",
-    "symbol": "LONG",
-    "flagged_ts": 1789790005,
-    "liquidity_at_flag": 30608.657180175145,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "FyeQ6Z7LuSAxez37GtuvEooNsMh3fDrRD7zeJTuDhPNB": {
-    "name": "DGrid AI",
-    "symbol": "DGAI",
-    "flagged_ts": 1789790005,
-    "liquidity_at_flag": 54729.81817612141,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "GGsygoqeG2GSpEMzeCuT7NYLkSHZJWjffnAhQF43V8C8": {
-    "name": "pill",
-    "symbol": "pill",
-    "flagged_ts": 1789790007,
-    "liquidity_at_flag": 39086.30721978177,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "9cfcefFEEfS64koA9ZkB1Jvnkssqcxv4CBk2Z4yccbBj": {
-    "name": "BUNNY",
-    "symbol": "\ud83d\udcb2BUNNY",
-    "flagged_ts": 1789790009,
-    "liquidity_at_flag": 62649.62051266513,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
   "WtsXrRqLDKCcHNPnGJwVvkPefTZ7FZigzkNxLJF3jS2": {
     "name": "TikTok",
     "symbol": "TikTok",
@@ -29685,7 +29630,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "t7Nr2J2BALBxFRRVHfRs2yFnyJCwbWKrh7rb4ajgNS7": {
@@ -29701,7 +29647,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "66kXpKjMJDHnUHZqKkcMHwMo1sKGhf2aa3EBoPCi1rYc": {
@@ -29717,7 +29664,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "FxCM5DHuokQUrpBNYfb5wCAcukWvN68G7LP34EBjJMQ2": {
@@ -34295,7 +34243,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "53FYaLNVQvaVSgrLRpbHUKPRcob9RzDbjCeQi8WeTyZQ": {
     "name": "SteveWillDoIt",
@@ -34549,6 +34499,32 @@
     "symbol": "0xPayment",
     "flagged_ts": 1790393564,
     "liquidity_at_flag": 31891.788134575014,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 100,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "GmPuERh5xhjdH3zGKz1nJdZ7WsqXYMpdxTju9hdDpump": {
+    "name": "T On Cat",
+    "symbol": "TOC",
+    "flagged_ts": 1790394920,
+    "liquidity_at_flag": 24164.198135412866,
+    "breakdown": {
+      "MOMENTUM": 96,
+      "SAFETY": 100,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "Dn8g84H83T7fTviuLzinkJG4CZp64YG5JrSJeYSBpump": {
+    "name": "USvsChina",
+    "symbol": "UVC",
+    "flagged_ts": 1790394921,
+    "liquidity_at_flag": 95276.14640306235,
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 100,
