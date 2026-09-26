@@ -1,18 +1,5 @@
 [
   {
-    "name": "Nerd Toast",
-    "symbol": "NERD",
-    "category": "rug",
-    "change_pct": -86.5,
-    "breakdown": {
-      "MOMENTUM": 100,
-      "SAFETY": 100,
-      "LIQUIDITY": 100,
-      "SMART MONEY": 0
-    },
-    "ts": 1790327459
-  },
-  {
     "name": "Sitting Dog",
     "symbol": "SDOG",
     "category": "rug",
@@ -3898,5 +3885,18 @@
       "SMART MONEY": 0
     },
     "ts": 1790450922
+  },
+  {
+    "name": "Loan",
+    "symbol": "LOAN",
+    "category": "rug",
+    "change_pct": -100.0,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "ts": 1790451511
   }
 ]
