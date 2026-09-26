@@ -1,5 +1,5 @@
 {
-  "last_updated": 1790443125,
+  "last_updated": 1790443867,
   "wallets": [
     {
       "label": "Dev wallet 1",
@@ -87,14 +87,54 @@
     "count": 2835,
     "up_count": 613,
     "total_change_pct": -155586.29928175083,
-    "rug": 1827,
-    "doing_well": 20,
+    "rug": 1831,
+    "doing_well": 21,
     "steady": 9,
     "fading": 19
   },
-  "learning_insight": "Coins that rugged averaged SAFETY 70; coins that did well averaged SAFETY 85.",
+  "learning_insight": "Coins that rugged averaged SAFETY 69; coins that did well averaged SAFETY 86.",
   "settings": {},
   "recent_alerts": [
+    {
+      "ts": 1790443867,
+      "type": "outcome",
+      "message": "\ud83d\udfe0 Stan Cancer Fund (STAN) is fading \u2014 down 58% so far."
+    },
+    {
+      "ts": 1790443866,
+      "type": "outcome",
+      "message": "\ud83d\udd34 Effective Pump (e/pump) is dropping fast \u2014 down 100%, may be rugging."
+    },
+    {
+      "ts": 1790443865,
+      "type": "outcome",
+      "message": "\ud83d\udd34 Clavicular (CLAVICULAR) is dropping fast \u2014 down 100%, may be rugging."
+    },
+    {
+      "ts": 1790443864,
+      "type": "outcome",
+      "message": "\ud83d\udd34 Compute (Compute) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
+    },
+    {
+      "ts": 1790443863,
+      "type": "outcome",
+      "message": "\ud83d\udd34 terrorist (TERRORIST) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
+    },
+    {
+      "ts": 1790443863,
+      "type": "outcome",
+      "message": "\ud83d\udd34 Bagwork (Bagwork) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
+    },
+    {
+      "ts": 1790443862,
+      "type": "outcome",
+      "message": "\ud83d\udd34 Claude Opus5.5 (Claude) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
+    },
+    {
+      "ts": 1790443861,
+      "type": "outcome",
+      "message": "\ud83d\udfe2 Blueprint (BLUEPRINT) did really well \u2014 liquidity up 119% after 24h!"
+    },
     {
       "ts": 1790443125,
       "type": "scanner",
@@ -304,46 +344,6 @@
       "ts": 1790440651,
       "type": "outcome",
       "message": "\ud83d\udd34 Grokbook (GROKBOOK) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
-    },
-    {
-      "ts": 1790440649,
-      "type": "scanner",
-      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\nCynthia Lummis (LUMMIS)\nOpportunity: 76/100\n\nMOMENTUM     100\nSAFETY       60\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$26,447, 12 min since pool creation\n\u2022 Up +116% in the last hour, ~$22,760 in 24h volume (0.9x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 95% of supply (very concentrated)\n\nCA: 876zScVtLUJ8RDsHmLnAFtRAN3UDgKY3KyDLYF3bYXTG\nhttps://dexscreener.com/solana/876zScVtLUJ8RDsHmLnAFtRAN3UDgKY3KyDLYF3bYXTG\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
-    },
-    {
-      "ts": 1790439656,
-      "type": "wallet",
-      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: $WIF -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/Q76VAzfjDWf2MwuCEmR38UqS82fmTbb5ZzjDVcgWp1pEtwrqnBUCHibv5rRBmbJP7661j8rqXzTM7ozX7xQUGwZ"
-    },
-    {
-      "ts": 1790438725,
-      "type": "outcome",
-      "message": "\ud83d\udfe2 IP (IP) is still doing really good \u2014 up 40% so far!"
-    },
-    {
-      "ts": 1790438722,
-      "type": "wallet",
-      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: LINK -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/38bzoS6f71RapHrUXhaCnWdU6jciCEpAvMQeaWEhadvw3CNXsr4EbkAFp7bEzz15mm9LmfQi577gNPnb8EnctZGS"
-    },
-    {
-      "ts": 1790438721,
-      "type": "wallet",
-      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: STRCx -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/3mHtaLcaPDDFNARGKouBPiokX5DbGnUAHF6RY2SgpmUQBgge229GyS2GL1ArsuXAEyVs16hHTuQiCmvDHp6ySky7"
-    },
-    {
-      "ts": 1790438721,
-      "type": "wallet",
-      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: neet -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/4qKmfcXunmdzZ1348HC5BqNZFxXkKm2Xfg7nn4TGWF81VyfC39Niu9j5L5cxopnuCNy8sJDw9aYvr6gE8fp2aqCn"
-    },
-    {
-      "ts": 1790438720,
-      "type": "wallet",
-      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: USD1 -> USDC\nTrade size: unknown\nBought token: USD Coin (USDC)\nCA: EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v\nhttps://solscan.io/tx/4gustk2dj4AhfRz75yDLTmLQUfv2cgiZN4NxNC1BbcPoQxhMfoKsTScFmhELKEj6HkW6AMr8CQy6gNfJU65jHf3"
-    },
-    {
-      "ts": 1790438720,
-      "type": "wallet",
-      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: CARDS -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/3uQemAWrmChwo9oJw5zPSdspypwEm4XjMKYtU8g5SZgZx462tViSuJwd8JBmkHXTHQo5wT2nNh5ue8kahuDv6wbi"
     }
   ]
 }
