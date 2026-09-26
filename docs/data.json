@@ -1,5 +1,5 @@
 {
-  "last_updated": 1790441749,
+  "last_updated": 1790442366,
   "wallets": [
     {
       "label": "Dev wallet 1",
@@ -87,14 +87,29 @@
     "count": 2835,
     "up_count": 613,
     "total_change_pct": -155586.29928175083,
-    "rug": 1826,
+    "rug": 1827,
     "doing_well": 20,
     "steady": 9,
     "fading": 19
   },
-  "learning_insight": "Coins that rugged averaged SAFETY 69; coins that did well averaged SAFETY 85.",
+  "learning_insight": "Coins that rugged averaged SAFETY 70; coins that did well averaged SAFETY 85.",
   "settings": {},
   "recent_alerts": [
+    {
+      "ts": 1790442366,
+      "type": "outcome",
+      "message": "\ud83d\udd34 DOGRILLA (DOGRILLA) turned out to be a rug \u2014 liquidity dropped 78% over 24h."
+    },
+    {
+      "ts": 1790442365,
+      "type": "scanner",
+      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\nRandomcoin (Randomcoin)\nOpportunity: 76/100\n\nMOMENTUM     100\nSAFETY       60\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$36,546, 12 min since pool creation\n\u2022 Up +220% in the last hour, ~$138,492 in 24h volume (3.8x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 72% of supply (very concentrated)\n\nCA: 5NUaSLke6KkxfydnhKnx7bcvwwWuf6j1L8tTX2XPoAyj\nhttps://dexscreener.com/solana/5NUaSLke6KkxfydnhKnx7bcvwwWuf6j1L8tTX2XPoAyj\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
+    },
+    {
+      "ts": 1790442363,
+      "type": "scanner",
+      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\nLabor Zero (L/0)\nOpportunity: 76/100\n\nMOMENTUM     100\nSAFETY       60\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$29,663, 8 min since pool creation\n\u2022 Up +107% in the last hour, ~$78,194 in 24h volume (2.6x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 73% of supply (very concentrated)\n\nCA: FwbaVRREkM3WSLB84n1qTvHnHqxaBcNCYjn6UpdRqa5S\nhttps://dexscreener.com/solana/FwbaVRREkM3WSLB84n1qTvHnHqxaBcNCYjn6UpdRqa5S\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
+    },
     {
       "ts": 1790441749,
       "type": "outcome",
@@ -329,21 +344,6 @@
       "ts": 1790437569,
       "type": "outcome",
       "message": "\ud83d\udd34 Effective Accelerationism (e/acc) is dropping fast \u2014 down 100%, may be rugging."
-    },
-    {
-      "ts": 1790437568,
-      "type": "outcome",
-      "message": "\ud83d\udd34 The Whitehouse Squirrel (\u548c\u5e73\u677e\u9f20) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
-    },
-    {
-      "ts": 1790437567,
-      "type": "scanner",
-      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 STRONG\nHarvard University (Harvard)\nOpportunity: 84/100\n\nMOMENTUM     83\nSAFETY       100\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$35,322, 10 min since pool creation\n\u2022 Up +55% in the last hour, ~$27,986 in 24h volume (0.8x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Low, 0/100):\n\u2022 No major red flags found\n\nCA: ExTwCDVSEkzbQzfdTpf6MbzDdHrWzsWJd5qTxu4cpump\nhttps://dexscreener.com/solana/ExTwCDVSEkzbQzfdTpf6MbzDdHrWzsWJd5qTxu4cpump\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
-    },
-    {
-      "ts": 1790437565,
-      "type": "scanner",
-      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\nMeme Acceleration (m/acc)\nOpportunity: 76/100\n\nMOMENTUM     100\nSAFETY       60\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$44,075, 9 min since pool creation\n\u2022 Up +376% in the last hour, ~$218,199 in 24h volume (5.0x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 92% of supply (very concentrated)\n\nCA: 3MTXBdWW3wqwWuNU1bpNuvRefFrN2Enjm9uGWz9DPDPb\nhttps://dexscreener.com/solana/3MTXBdWW3wqwWuNU1bpNuvRefFrN2Enjm9uGWz9DPDPb\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
     }
   ]
 }
