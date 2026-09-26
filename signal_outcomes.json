@@ -1,48 +1,4 @@
 {
-  "9a3XPWhgPMjgE3xqYFLgo5Cvt8PyziNMP7Ca4zJobLoM": {
-    "name": "DGAI",
-    "symbol": "DGrid AI",
-    "flagged_ts": 1789783498,
-    "liquidity_at_flag": 51361.92650352004,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "4cNw6oWoBpDHC7pkwrZoTgMePtzQ3suCjNbw2zAppump": {
-    "name": "Bootstrap Estate",
-    "symbol": "Botstrap",
-    "flagged_ts": 1789783499,
-    "liquidity_at_flag": 27404.3929644047,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "Ak6mUkt6175z38i9x7uWjYpP7nKb4HKSizW2TcRLaVCU": {
-    "name": "The Onboarder",
-    "symbol": "Brez",
-    "flagged_ts": 1789783501,
-    "liquidity_at_flag": 29230.17323773983,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "Bt58B6n847a7XVT99NtJNa1KihkLviEnCLKWUMerpump": {
-    "name": "mini tilcayo",
-    "symbol": "tilcayo",
-    "flagged_ts": 1789783502,
-    "liquidity_at_flag": 24748.583751154736,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
   "J1joqNdZ6h1B9SBZqXUHL17rQs24BUTfNLzxJK8tTj2P": {
     "name": "The Depressed Pigeon",
     "symbol": "Pigeon",
@@ -29642,7 +29598,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "5qUT9ZwKhn6N1auaLLYQhR6hqn8uJwH1rLvrjFHczfB2": {
@@ -29658,7 +29615,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "EceTFYrHRTmDPJ5gE7EyJUE76stTzaowALKjMdyGpump": {
@@ -33817,7 +33775,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "DZTzGWfGuw1CvcXJvT9PB44iXsypFUbLWDDMANf9ZabS": {
@@ -33832,7 +33791,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "AFwS8ui9ACcHf78nFEk6nfGNZoSniqMLFLLszL1gWiWu": {
@@ -33847,7 +33807,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "Dcxiqsa4v2537izs3VBph9xL7nPViGWT7LDHatv58ssN": {
@@ -34341,7 +34302,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "pcWQwKUbNAhTCYRPqHwi4qgvowhQrPnLJbyyYzgW53h": {
     "name": "Effective Accelerationism",
@@ -34354,7 +34317,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "2A9QBina44MzyS9HKG2GDPnhxrFrn75cv8evLKSuU3nk": {
     "name": "Paid",
@@ -34367,7 +34332,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "dNb4FrCymiFXuXXbiq4gRe8kF3P6EMRenZvsSgJpump": {
     "name": "Effective Accelerationism",
@@ -34380,7 +34347,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "C9uioBq4DGc97oEnJCKzjJUeXgiQbJRFeB4QoxhDhFNZ": {
     "name": "roon",
@@ -34452,6 +34421,32 @@
     "symbol": "CLAUDE",
     "flagged_ts": 1790387704,
     "liquidity_at_flag": 42455.06908172539,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "jntXwZZSYLPmepL1cTvjN9BVHobhwq1wHzUHtYK4KSv": {
+    "name": "e/cat",
+    "symbol": "E/CAT",
+    "flagged_ts": 1790389208,
+    "liquidity_at_flag": 19474.24443863477,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 75,
+      "LIQUIDITY": 97,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "8VBMEgoW4AhFXZHom8YmFAhEVpFdFhqatTKXeNA9yP4E": {
+    "name": "Cream",
+    "symbol": "Cream",
+    "flagged_ts": 1790389209,
+    "liquidity_at_flag": 33023.0728914082,
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 60,
