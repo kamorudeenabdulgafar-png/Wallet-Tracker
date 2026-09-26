@@ -1,21 +1,4 @@
 {
-  "CqrUWA9kDJzjff23W7uVKd6obCgMzkwtNy1U9teeqwQw": {
-    "name": "Credit Cat",
-    "symbol": "CC",
-    "flagged_ts": 1789836786,
-    "liquidity_at_flag": 78587.74749143692,
-    "breakdown": {
-      "MOMENTUM": 100,
-      "SAFETY": 60,
-      "LIQUIDITY": 100,
-      "SMART MONEY": 0
-    },
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
   "CxGAtnVCCcNTaymfGFFqbfp56pmq4Tmkuz7uX9eT25TN": {
     "name": "Noahcoin",
     "symbol": "Noah",
@@ -29643,7 +29626,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "75oGLoEaQweNuMd6pwYcneRho6ZYpujvMKTzwMrpdESr": {
@@ -29659,7 +29643,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "CeKooAq9fbP72aXE3Hxt8RRJ8GocC34MmdzPyrJdPxYH": {
@@ -29675,7 +29660,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "89sbcpCKgaerPAvVVbSH7VrcuXPPxn6oZXHKDU2mcM2F": {
@@ -29691,7 +29677,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "CyKDftwgNsifHhno7o2Ypz35238LYK4wrJruWq3Npump": {
@@ -33866,7 +33853,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "9pDW7FLqyjNrkngRhfv7axkeK1GsMtJ7RKxpXoTkjp8o": {
@@ -34105,7 +34093,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "876zScVtLUJ8RDsHmLnAFtRAN3UDgKY3KyDLYF3bYXTG": {
     "name": "Cynthia Lummis",
@@ -34127,6 +34117,32 @@
     "liquidity_at_flag": 155807.12308838655,
     "breakdown": {
       "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "Gs8f8yPJbkBmwU1QqwNrdSoC5XQWqJs5kCk74YmKpump": {
+    "name": "Paidrop",
+    "symbol": "Paidrop",
+    "flagged_ts": 1790441741,
+    "liquidity_at_flag": 37509.92033850802,
+    "breakdown": {
+      "MOMENTUM": 46,
+      "SAFETY": 100,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "Aik5FhSAPEPq1mYvFfx7K7LMLhFURVEgXDA2z762RFZM": {
+    "name": "roon",
+    "symbol": "roon",
+    "flagged_ts": 1790441742,
+    "liquidity_at_flag": 38130.347648275085,
+    "breakdown": {
+      "MOMENTUM": 97,
       "SAFETY": 60,
       "LIQUIDITY": 100,
       "SMART MONEY": 0

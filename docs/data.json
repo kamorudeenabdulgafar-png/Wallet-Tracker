@@ -1,5 +1,5 @@
 {
-  "last_updated": 1790441253,
+  "last_updated": 1790441749,
   "wallets": [
     {
       "label": "Dev wallet 1",
@@ -68,7 +68,7 @@
         "cbbtcf3aa214zXHbiAZQwf4122FBYbraNdFqgw4iMij",
         "Xsa62P5mvPszXL1krVUnU5ar38bBSVcWAB6fmPCo5Zu"
       ],
-      "last_active": 1790439655,
+      "last_active": 1790441738,
       "positions": {},
       "realized_pnl_usd": 0.0
     }
@@ -87,14 +87,59 @@
     "count": 2835,
     "up_count": 613,
     "total_change_pct": -155586.29928175083,
-    "rug": 1822,
+    "rug": 1826,
     "doing_well": 20,
     "steady": 9,
     "fading": 19
   },
-  "learning_insight": "Coins that rugged averaged SAFETY 70; coins that did well averaged SAFETY 85.",
+  "learning_insight": "Coins that rugged averaged SAFETY 69; coins that did well averaged SAFETY 85.",
   "settings": {},
   "recent_alerts": [
+    {
+      "ts": 1790441749,
+      "type": "outcome",
+      "message": "\ud83d\udfe2 Frogecoin (FROGE) is still doing really good \u2014 up 156% so far!"
+    },
+    {
+      "ts": 1790441748,
+      "type": "outcome",
+      "message": "\ud83d\udfe0 Effective Pump (e/pump) is fading \u2014 down 58% so far."
+    },
+    {
+      "ts": 1790441747,
+      "type": "outcome",
+      "message": "\ud83d\udd34 Onit Protocol (ONIT) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
+    },
+    {
+      "ts": 1790441745,
+      "type": "outcome",
+      "message": "\ud83d\udd34 Jumper (JUMP) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
+    },
+    {
+      "ts": 1790441744,
+      "type": "outcome",
+      "message": "\ud83d\udd34 DOCK (DOCK) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
+    },
+    {
+      "ts": 1790441744,
+      "type": "outcome",
+      "message": "\ud83d\udd34 SaturnCoin (SATURNCOIN) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
+    },
+    {
+      "ts": 1790441742,
+      "type": "scanner",
+      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\nroon (roon)\nOpportunity: 75/100\n\nMOMENTUM     97\nSAFETY       60\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$38,130, 18 min since pool creation\n\u2022 Up +64% in the last hour, ~$57,536 in 24h volume (1.5x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 75% of supply (very concentrated)\n\nCA: Aik5FhSAPEPq1mYvFfx7K7LMLhFURVEgXDA2z762RFZM\nhttps://dexscreener.com/solana/Aik5FhSAPEPq1mYvFfx7K7LMLhFURVEgXDA2z762RFZM\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
+    },
+    {
+      "ts": 1790441741,
+      "type": "scanner",
+      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\nPaidrop (Paidrop)\nOpportunity: 71/100\n\nMOMENTUM     46\nSAFETY       100\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$37,510, 14 min since pool creation\n\u2022 Up +31% in the last hour, ~$151,766 in 24h volume (4.0x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Low, 0/100):\n\u2022 No major red flags found\n\nCA: Gs8f8yPJbkBmwU1QqwNrdSoC5XQWqJs5kCk74YmKpump\nhttps://dexscreener.com/solana/Gs8f8yPJbkBmwU1QqwNrdSoC5XQWqJs5kCk74YmKpump\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
+    },
+    {
+      "ts": 1790441738,
+      "type": "wallet",
+      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: SPCXx -> SPCX\nTrade size: unknown\nBought token: SpaceX - Backpack Securities (SPCX)\nCA: SPCXxcqXj6e5dJDVNovHN8744zkbhM2bYudU45BimGb\nhttps://solscan.io/tx/4xiGi9J4vgh4LN2YnaVDLZ2cZpD5ag72ygBSEm2zVSm2tXPSvajgU3AfWqfr3QZCao2suCtrrcWAN53UbZANWjMb"
+    },
     {
       "ts": 1790441253,
       "type": "outcome",
@@ -299,51 +344,6 @@
       "ts": 1790437565,
       "type": "scanner",
       "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\nMeme Acceleration (m/acc)\nOpportunity: 76/100\n\nMOMENTUM     100\nSAFETY       60\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$44,075, 9 min since pool creation\n\u2022 Up +376% in the last hour, ~$218,199 in 24h volume (5.0x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 92% of supply (very concentrated)\n\nCA: 3MTXBdWW3wqwWuNU1bpNuvRefFrN2Enjm9uGWz9DPDPb\nhttps://dexscreener.com/solana/3MTXBdWW3wqwWuNU1bpNuvRefFrN2Enjm9uGWz9DPDPb\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
-    },
-    {
-      "ts": 1790437561,
-      "type": "wallet",
-      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: 0.0618 SOL (~$7.52) -> USDC\nTrade size: ~$7.52\nBought token: USD Coin (USDC)\nCA: EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v\nhttps://solscan.io/tx/599nP6a3G7JaY1KonoqMrZvervkAdZHShswTXXmqRjd7UzfVhfX28pL8aFyiNbAcTdPtVvqnw3vhWFMjaKm4Vk51"
-    },
-    {
-      "ts": 1790436778,
-      "type": "outcome",
-      "message": "\ud83d\udd34 Unicoin (Unicoin) is dropping fast \u2014 down 100%, may be rugging."
-    },
-    {
-      "ts": 1790436777,
-      "type": "outcome",
-      "message": "\ud83d\udd34 Unicoin (Unicoin) is dropping fast \u2014 down 100%, may be rugging."
-    },
-    {
-      "ts": 1790436777,
-      "type": "outcome",
-      "message": "\ud83d\udd34 51\u5403\u74dc\u7f51\u5b98\u65b9\u9996\u53d1Meme (51X) is dropping fast \u2014 down 100%, may be rugging."
-    },
-    {
-      "ts": 1790436776,
-      "type": "outcome",
-      "message": "\ud83d\udd34 ACT I: Effective Accelerationism (act/acc) is dropping fast \u2014 down 100%, may be rugging."
-    },
-    {
-      "ts": 1790436775,
-      "type": "outcome",
-      "message": "\ud83d\udd34 Unicoin (Unicoin) is dropping fast \u2014 down 100%, may be rugging."
-    },
-    {
-      "ts": 1790436774,
-      "type": "outcome",
-      "message": "\ud83d\udd34 Unicoin (Unicoin) is dropping fast \u2014 down 100%, may be rugging."
-    },
-    {
-      "ts": 1790436773,
-      "type": "outcome",
-      "message": "\ud83d\udd34 ZPad (ZPAD) turned out to be a rug \u2014 liquidity dropped 90% over 24h."
-    },
-    {
-      "ts": 1790436773,
-      "type": "outcome",
-      "message": "\ud83d\udd34 PokeStrategy (POKESTRTGY) turned out to be a rug \u2014 liquidity dropped 96% over 24h."
     }
   ]
 }
