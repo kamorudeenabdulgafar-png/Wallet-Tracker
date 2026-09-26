@@ -29473,7 +29473,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "HSTpSMBiSsPBpAnjhD7so4Hpmv687SsZcsjJsNZBHCVK": {
@@ -29489,7 +29490,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "46HFmg7MeaLmN6EqYeXFnTYmEhHRMgxEcaEkDiPvNpKm": {
@@ -33755,7 +33757,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "GDT8UZGGuaa9YAevWxh7yBcNvj4otQUv4xf6j4RsForK": {
     "name": "Fork",
@@ -33768,7 +33772,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "2EkmxYe1vS9eTN6vHExWRYFE5w1KD4fJdw6NXBexAszS": {
     "name": "Colleague",
@@ -33781,7 +33787,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "gsDC8WbXwtyEmbh8f8HfvpPEJ7nG4FV4zX4GWXzSjyD": {
     "name": "Dillinger",
@@ -33843,6 +33851,71 @@
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 75,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "7Pyhmi1QhVY4PsAd68KFh3GdGT4EFjJw3LPfwmxepump": {
+    "name": "Effective Accelerationism",
+    "symbol": "e/acc",
+    "flagged_ts": 1790450918,
+    "liquidity_at_flag": 65490.88265467729,
+    "breakdown": {
+      "MOMENTUM": 60,
+      "SAFETY": 100,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "54MKg9L7BrrFjv7zbiYdmAESpecUMJK4qFtS1bz4pQYs": {
+    "name": "Snowden",
+    "symbol": "SNOWDEN",
+    "flagged_ts": 1790450918,
+    "liquidity_at_flag": 27355.2107475176,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "FEamXZx6VAawJeM82Dan8gVKjEyk8Nd1xmic5Cxypump": {
+    "name": "Effective Send",
+    "symbol": "e/send",
+    "flagged_ts": 1790450919,
+    "liquidity_at_flag": 38305.555655677184,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 100,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "J2RKtqGFatz1f9vZkirheoVJU2w2yR17qL8XmVe9pump": {
+    "name": "The White House",
+    "symbol": "White House",
+    "flagged_ts": 1790450920,
+    "liquidity_at_flag": 52475.57430147692,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 100,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "2GptZmDrxtv1kRWCKyPvraVyhxcP7ii3Z5dEgZ9Yq2bi": {
+    "name": "the xdog",
+    "symbol": "xdog",
+    "flagged_ts": 1790450921,
+    "liquidity_at_flag": 34811.899575903895,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
