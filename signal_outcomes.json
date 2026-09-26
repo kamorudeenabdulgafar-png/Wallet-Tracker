@@ -1,37 +1,4 @@
 {
-  "2MgAoysysxBuN1fE9KUueCQg6fZcy9BztKiAcdq9txrC": {
-    "name": "luv",
-    "symbol": "luv",
-    "flagged_ts": 1789813851,
-    "liquidity_at_flag": 41163.26809504415,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "pJFJgWFRBAL6XittTTMEsFWY7ZMt7DTcqqYo5c2FHpW": {
-    "name": "Pigeon",
-    "symbol": "Pigeon",
-    "flagged_ts": 1789813852,
-    "liquidity_at_flag": 47514.23220580103,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "7Kio616HvMpEvnB56cRwW5Tdtko3Y7uhJHUisJTDFezJ": {
-    "name": "Achi",
-    "symbol": "ACHI",
-    "flagged_ts": 1789813852,
-    "liquidity_at_flag": 33244.4331642833,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
   "GmuAqD6imKg1MUfd9Sby3yFMXk8DZBA3Pz66UnrAPA6c": {
     "name": "Argus",
     "symbol": "ARGUS",
@@ -34110,7 +34077,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "E1h2Y21X2AzTQo2Gqm6sAeVnyx4un4EJckvSraXKpump": {
@@ -34125,7 +34093,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "2U4R6E4SQju14EXJ4BkbhoMwjsEfre2h3J8WuQBFbHdz": {
@@ -34634,7 +34603,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "6yENZ3LWyMHfcSKsjNmjUo2ccdj487yC2Fcv7Jh6ZNo5": {
     "name": "p(doom)",
@@ -34647,7 +34618,9 @@
       "LIQUIDITY": 98,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "H6GxSRkVqQMQ3cJPUgjqKx7RaSXAF2mdGVtoSqKQ29aP": {
     "name": "p(doom)",
@@ -34660,7 +34633,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "5R6cZQhegUzKQAn34MViQzyNEWNb8YJcs6o9TD2hn4Wv": {
     "name": "\u8611\u83c7\u5934\u548c\u6211\u768416\u5e74",
@@ -34673,7 +34648,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "96EWNeFBHB1sFsD1EDh96iq1JQwFTtW7GfJJZy4R3dNB": {
     "name": "YAP",
@@ -34686,7 +34663,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "5xwzFSPMWXJqWfYncENsf7KiPvGBaXXqkBuD1zGu8RLH": {
     "name": "Paid",
@@ -34864,6 +34843,58 @@
     "liquidity_at_flag": 37816.4290509148,
     "breakdown": {
       "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "Bra6JiKd11HDeB99j5vyCFbhoea29dkzukAqt7tZYPVu": {
+    "name": "p(doom)",
+    "symbol": "P(DOOM)",
+    "flagged_ts": 1790418695,
+    "liquidity_at_flag": 37740.87477604208,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 75,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "FPKbdy5UyZhpr7WCPosuJN3rKzHGJYoGbYi1WNb9VtPv": {
+    "name": "Trump AI",
+    "symbol": "Trump AI",
+    "flagged_ts": 1790418696,
+    "liquidity_at_flag": 39211.43922435392,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "9BroyFGVPhxqqWpY1rVdcS4F62kBasHsVxs9xVnyPWuh": {
+    "name": "Memetically-Engineered Product",
+    "symbol": "m/ep",
+    "flagged_ts": 1790418697,
+    "liquidity_at_flag": 35838.49147852159,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 75,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "5SgzC35doKMzC2MEioXf4FakURJaivXFhTmxoW9dyynP": {
+    "name": "Gummy Cat",
+    "symbol": "GUMMYCAT",
+    "flagged_ts": 1790418698,
+    "liquidity_at_flag": 31997.18231479625,
+    "breakdown": {
+      "MOMENTUM": 96,
       "SAFETY": 60,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
