@@ -1,15 +1,4 @@
 {
-  "3oAPDbGyLytmBaEfH9ouw3wXcHeSgDuYJgv9AQtQpump": {
-    "name": "buggy",
-    "symbol": "buggy",
-    "flagged_ts": 1789786436,
-    "liquidity_at_flag": 22515.846275159718,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
   "4U76PyCYwdqY3V9ydF4Cx4excixgy3ENDqQrpnoCpump": {
     "name": "LEOPARDUS PAID",
     "symbol": "LEOPAID",
@@ -33838,7 +33827,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "rht5eVPHXgVDp5z4Psz9QrpLA3eZzyMoTMU4LfuMcSq": {
@@ -33853,7 +33843,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "2EcfNjCiWWPD1UjACi2RKWwBm4hC3sxFRVJVAkfFpump": {
@@ -33868,7 +33859,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "7pax2o5X7aWSCYm3xfAeMvhB7aXdzdWzuA6yycuAoeoZ": {
@@ -34302,7 +34294,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "7SzfLRKgRTo2GjPSDEyycD8FvNJ1TcVLUYNSpyTjApd3": {
     "name": "Degens Dollars On Solana",
@@ -34315,7 +34309,9 @@
       "LIQUIDITY": 89,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "BiPvcsmF45Jtmdsh5p1KAzEgoE3Sp7BR39mV52RVcK14": {
     "name": "51\u5403\u74dc\u7f51\u5b98\u65b9\u9996\u53d1Meme",
@@ -34328,7 +34324,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "GVAHk9SpbQsPLa8UJ4EVeJcrgNmKjzicV18ZaQnHGxiy": {
     "name": "CLAUDE AI",
@@ -34341,7 +34339,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "jntXwZZSYLPmepL1cTvjN9BVHobhwq1wHzUHtYK4KSv": {
     "name": "e/cat",
@@ -34403,6 +34403,58 @@
     "breakdown": {
       "MOMENTUM": 84,
       "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "53FYaLNVQvaVSgrLRpbHUKPRcob9RzDbjCeQi8WeTyZQ": {
+    "name": "SteveWillDoIt",
+    "symbol": "\u53f2\u8482\u592b\u4f1a\u641e\u5b9a",
+    "flagged_ts": 1790391328,
+    "liquidity_at_flag": 43327.11235475788,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "71ndMxbRKDLsbquWf8wYnwbskcDfzvvxQESQYvumacTc": {
+    "name": "PsyopAnime",
+    "symbol": "PSYOPANIME",
+    "flagged_ts": 1790391329,
+    "liquidity_at_flag": 27603.962631218426,
+    "breakdown": {
+      "MOMENTUM": 82,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "Bkej2GfmWLDeMcRHU6KLUHi5XVXds3YNKWfZN1RQGFqp": {
+    "name": "Trump AI",
+    "symbol": "Trump AI",
+    "flagged_ts": 1790391330,
+    "liquidity_at_flag": 49316.00037266323,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "AzMaYSmHBqoLPmRRg5AqBr2zsw1MiXmTNaYtkj3wtqNg": {
+    "name": "Maxwell Ramstead",
+    "symbol": "MAX",
+    "flagged_ts": 1790391331,
+    "liquidity_at_flag": 46472.62441872112,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 90,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
