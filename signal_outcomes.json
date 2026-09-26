@@ -29801,7 +29801,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "B5s2qXhJKkHaQ3izSwxuogj43mPwxA7EUGMhwiUxYcW8": {
@@ -29817,7 +29818,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "Gio6egLnmU4tRRB46XxjN6nhFWu4NoXsf4UQnRyGmj8n": {
@@ -29833,7 +29835,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "EnQeYVztWuxdQcqGeNZbTd5rYdVcrCQxVS1mh7ktW1WJ": {
@@ -29849,7 +29852,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "9Fh5fE9W6NzyiX8s5f3He2c8TzSbWUE9ucdMXuyGyY2g": {
@@ -34120,7 +34124,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "4y2YbCEpt4kffZoh1TM5PvW4uTrY9JMAYHojV2APqg4y": {
@@ -34614,7 +34619,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "4gxeRFKNmRHmMSpGtgGE7as7kophLBdWGqtBGvBtTj93": {
     "name": "p(doom)",
@@ -34793,6 +34800,84 @@
     "breakdown": {
       "MOMENTUM": 47,
       "SAFETY": 100,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "7tgAfwawjdpqguKNc2wUNFgHQG5yG7Z5y1NQSpQoKT3h": {
+    "name": "Extropians",
+    "symbol": "Extropians",
+    "flagged_ts": 1790417090,
+    "liquidity_at_flag": 50652.82432795757,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "3zxxdUjwp5YY3T8VdNJzNEUZjFpCLDvu91vHkvcKpump": {
+    "name": "The Liquidator",
+    "symbol": "LIQ",
+    "flagged_ts": 1790417092,
+    "liquidity_at_flag": 35383.48291438031,
+    "breakdown": {
+      "MOMENTUM": 64,
+      "SAFETY": 90,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "1F9yjfrrVgNqiECdpSwocPnkkVrBCE1NkChp1v7wpQ7": {
+    "name": "Paid",
+    "symbol": "PAID",
+    "flagged_ts": 1790417093,
+    "liquidity_at_flag": 37529.14357249804,
+    "breakdown": {
+      "MOMENTUM": 95,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "Aq7rgnHV44UpyFsVvxV3JHjVMDcjEc9whQ4vbz6ZVqJQ": {
+    "name": "p(doom)",
+    "symbol": "P(DOOM)",
+    "flagged_ts": 1790417094,
+    "liquidity_at_flag": 42413.52365961534,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "3HEjM9aFGe2g2VxsR1yQ5rC9rgXgd5eyQwSGUGYrBjHr": {
+    "name": "xRent",
+    "symbol": "XRENT",
+    "flagged_ts": 1790417095,
+    "liquidity_at_flag": 36323.36626327346,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "FETXnu9BatsBVHutACy5dGDhJT81mFkRd97tggZppG6C": {
+    "name": "hold instead of getting a job",
+    "symbol": "holdcat",
+    "flagged_ts": 1790417096,
+    "liquidity_at_flag": 33117.730097540436,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 75,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
