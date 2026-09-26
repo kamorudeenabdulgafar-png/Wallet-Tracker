@@ -33693,7 +33693,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "3npP2YWFPHU7NS4hRQoX5jRNXkTMRSpwoXnK3dSj2XVQ": {
@@ -33708,7 +33709,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "irmTbVMnuA99UanBdDNnREZXiGhUX1vD8eTx2ZApump": {
@@ -33723,7 +33725,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "DmQDfFpbKHna4MgtsZgBQYmyMSNJjvLAj6XjduqRpump": {
@@ -33738,7 +33741,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "45bRFafNFLfYe4q9ksc1QiGSpV1L5vF7QkVNEUURXg4K": {
@@ -34247,7 +34251,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "6dXG3jjvy56ECiL86NoM7aJ7TxyyKGzD9CStYhUrpump": {
     "name": "Harvard University",
@@ -34260,7 +34266,9 @@
       "LIQUIDITY": 70,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "dJ8V5v7znhDH8iCesZgGFhpvDBtaVN39siPWarkDAN3": {
     "name": "Cr\u00e9mieux",
@@ -34273,7 +34281,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "BKBJo6hHVQCpfsVmHn3CgRRbKdpFWzzGYAJZ1v8L7ae2": {
     "name": "American Reserved Oil Supply",
@@ -34439,6 +34449,32 @@
     "breakdown": {
       "MOMENTUM": 97,
       "SAFETY": 100,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "C9uioBq4DGc97oEnJCKzjJUeXgiQbJRFeB4QoxhDhFNZ": {
+    "name": "roon",
+    "symbol": "roon",
+    "flagged_ts": 1790386266,
+    "liquidity_at_flag": 27621.189699676295,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "HeLtYEGBa8DWoHPZudWSMezsJqKrm3iw8c2Cvc1QE1cE": {
+    "name": "O",
+    "symbol": "O",
+    "flagged_ts": 1790386268,
+    "liquidity_at_flag": 33073.262975640886,
+    "breakdown": {
+      "MOMENTUM": 88,
+      "SAFETY": 60,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
