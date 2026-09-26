@@ -1,55 +1,4 @@
 {
-  "4xZbgbsbNFm1aBGDkB2gpbZUwkiYoG5cYHVkRpVK5D2N": {
-    "name": "TIPPED",
-    "symbol": "TPAD",
-    "flagged_ts": 1789839353,
-    "liquidity_at_flag": 37614.11394339826,
-    "breakdown": {
-      "MOMENTUM": 100,
-      "SAFETY": 60,
-      "LIQUIDITY": 100,
-      "SMART MONEY": 0
-    },
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "Bte2dbD9gh2HPCjxD6vcTkZ8sM3ysgxqffMd9Z94h6mo": {
-    "name": "TIPPED",
-    "symbol": "TIPPED",
-    "flagged_ts": 1789839816,
-    "liquidity_at_flag": 53778.42153700846,
-    "breakdown": {
-      "MOMENTUM": 100,
-      "SAFETY": 60,
-      "LIQUIDITY": 100,
-      "SMART MONEY": 0
-    },
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "77p5u2agnHHS2vZwnLC71y1gugLEdjzBgeLz2oLeVfjE": {
-    "name": "Fomo Bull",
-    "symbol": "FBULL",
-    "flagged_ts": 1789839818,
-    "liquidity_at_flag": 20451.052430462405,
-    "breakdown": {
-      "MOMENTUM": 55,
-      "SAFETY": 90,
-      "LIQUIDITY": 100,
-      "SMART MONEY": 0
-    },
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
   "AobaVzsZG1AX7Z52GnfaYDjSo46ZaX7LSYfD9Fsd6oK4": {
     "name": "TIPPED CAT",
     "symbol": "TIPPEDCAT",
@@ -29643,7 +29592,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "F6jP4cZn6yL84c1afzftvjtAFHxuQsgxHZSaMoEeqMdg": {
@@ -29659,7 +29609,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "2vhFEfAZ2DD1kUjx8RiApjnxzio9ntsytQHWPBrioDWm": {
@@ -33964,7 +33915,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "8ERwFAPJPYASZSmdJ8srgsrEjHBvyUiJjTMyYKuCoQZ": {
     "name": "boar",
@@ -34078,6 +34031,19 @@
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 100,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "Duy7pu28tigaaRsuXdnwFbDABaT6fk4RxLeTzeFKaxkt": {
+    "name": "freethepeople",
+    "symbol": "FTP",
+    "flagged_ts": 1790444710,
+    "liquidity_at_flag": 31634.61610427796,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
