@@ -1,5 +1,5 @@
 {
-  "last_updated": 1790466039,
+  "last_updated": 1790466815,
   "wallets": [
     {
       "label": "Dev wallet 1",
@@ -10,7 +10,7 @@
     "5CEbueQnq1Ym2uSSx2xXds3jQAqT1BDnkA59RZobSPAG": {
       "label": "Dev wallet 1",
       "buy_count": 363,
-      "sell_count": 210,
+      "sell_count": 211,
       "total_buy_usd": 15628.984658586525,
       "total_sell_usd": 0.0,
       "tokens_traded": [
@@ -68,7 +68,7 @@
         "cbbtcf3aa214zXHbiAZQwf4122FBYbraNdFqgw4iMij",
         "Xsa62P5mvPszXL1krVUnU5ar38bBSVcWAB6fmPCo5Zu"
       ],
-      "last_active": 1790463893,
+      "last_active": 1790466813,
       "positions": {},
       "realized_pnl_usd": 0.0
     }
@@ -95,6 +95,26 @@
   "learning_insight": "Coins that rugged averaged SAFETY 68; coins that did well averaged SAFETY 88.",
   "settings": {},
   "recent_alerts": [
+    {
+      "ts": 1790466814,
+      "type": "wallet",
+      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: GLDx -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/51E4PscvADtQVMdHmxkiAbBJyMdHbvweM6xs53aJ969HyFHoEHyJ2Yd45ZEZ92vTuELhBSwjKQ8wXYdQ6kPhVBHd"
+    },
+    {
+      "ts": 1790466813,
+      "type": "wallet",
+      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: AVAX -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/EW2bfzsMyfVnEDLPM5DTHAR7pL6vBhF4E6epernr4kCinKvRLS4S4Nn1Dx8c32MR8Sigrm9G8kZrKVZsdtmkyDT"
+    },
+    {
+      "ts": 1790466813,
+      "type": "wallet",
+      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: WULF -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/3PUS4NV7PLcDs7EsCgNBno1HZNhGtrCUnffNPvmQggmwBwZ9pXhsYWxR8T1HoRCPYXezpHYwX9xijLKQpdxJ3avi"
+    },
+    {
+      "ts": 1790466812,
+      "type": "wallet",
+      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: PONS -> USDC\nTrade size: unknown\nBought token: USD Coin (USDC)\nCA: EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v\nhttps://solscan.io/tx/2wcsmYvNtFEHwjF3HauHb8ZrGSGrwjEAhJ41mRijp79Lsm6HNkinHna8zFEMxHtawfeafNATnQbvBuDjCF4P9pJD"
+    },
     {
       "ts": 1790466039,
       "type": "outcome",
@@ -324,26 +344,6 @@
       "ts": 1790463288,
       "type": "wallet",
       "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: PONS -> USDC\nTrade size: unknown\nBought token: USD Coin (USDC)\nCA: EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v\nhttps://solscan.io/tx/4XKD4hTE1dBPqtcop3WTGQDZaBb5tvSVLqk2BWmHqAj3C7UJWS6BgeTkFeRsbgHRmb8mUsnPaX9jrSvSWZygTgxT"
-    },
-    {
-      "ts": 1790463287,
-      "type": "wallet",
-      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: MSFTx -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/39i85o7EfA8Wi72FwZTnWBuiQTRGYZFvC8XGYGt2JLAaiCRGL77psQcX3N7fBXFLhdsGACp9uYfdvxmfXE3EzUXz"
-    },
-    {
-      "ts": 1790463286,
-      "type": "wallet",
-      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: xSOL -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/4AGuTm5mQ3kcrzXaYdTp1FMVnDuTvbnS4vntDrQqQxUkMurqFPKDpZB8Foo77cotyaYnE4kVgK5Nen54KP7HMySZ"
-    },
-    {
-      "ts": 1790463286,
-      "type": "wallet",
-      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: SPCXx -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/DtCzbLEwSFQTCxH9E5N2932MevobKVgcHkKBfTx2GiD5T1UDNMv9fnJgP5rLLvyMeAjCgh16jBQizYsiXY34gew"
-    },
-    {
-      "ts": 1790463285,
-      "type": "wallet",
-      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: AAPLx -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/Hn1LRBmBC1sY7JS3HcbezqG7QJQ8s8QTMDUWL75AWeen9DFWjFAVLZsdwMksmksRBmpp1YwuQqYUrqF4RRz9LJk"
     }
   ]
 }
