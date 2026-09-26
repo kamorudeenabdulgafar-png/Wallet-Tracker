@@ -1,26 +1,4 @@
 {
-  "FwJNkgud84vQNq3zPycwhD6RAqSTP43f9HiVyKwJpump": {
-    "name": "Split.fun",
-    "symbol": "SPLIT",
-    "flagged_ts": 1789788697,
-    "liquidity_at_flag": 13422.924250174376,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "ChWF3ieS6yKqEGQyMbxaDtKXhkgkwDHEqLgnnYTgA2PU": {
-    "name": "\u5b59\u5c0f\u5723",
-    "symbol": "\u5b59\u5c0f\u5723",
-    "flagged_ts": 1789788698,
-    "liquidity_at_flag": 58136.95899933763,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
   "BCEumNHMk5YFh9G7WUjGk2yQhDjtbDZFRYPmA32CAF1F": {
     "name": "Rockstar\u2b50",
     "symbol": "RSTAR\u2b50",
@@ -29570,7 +29548,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "fartfUL2yJSiv5eHcDgu5FMhynupMiM7oGzAP9unnJ9": {
@@ -29586,7 +29565,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "8UMV9XtaoxjvyXTFkPRAGfsVkwAHYWKSb5Zr7v1oJQmw": {
@@ -29602,7 +29582,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "QpbJezP9o6YaMZYUjFcki5xSzw6B19N2AX161UpPFEL": {
@@ -29618,7 +29599,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "FetwSQiV7ASqcsqWxPxgxpjazrge2eh3tRgfKBVShZms": {
@@ -33857,7 +33839,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "2uaLD3TZ8cz9JQoyujCoxgdhcdmPC3znTMT24N73c9iP": {
@@ -33872,7 +33855,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "DVbyFeAZCaLjg1SrjyF4M6nPj1B3MvVH4Ue8Gmwbpump": {
@@ -34276,7 +34260,9 @@
       "LIQUIDITY": 97,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "8VBMEgoW4AhFXZHom8YmFAhEVpFdFhqatTKXeNA9yP4E": {
     "name": "Cream",
@@ -34289,7 +34275,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "3pVv9iav75CfaVb2YFLtX1ijYDXSEPLmweWxUYp8q8nG": {
     "name": "SteveWillDoIt",
@@ -34302,7 +34290,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "GL5yhrARKMw4xTuVSkYe3nFG5RxTzp7Y3DeKANHgULDf": {
     "name": "Reside",
@@ -34315,7 +34305,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "GkCn2HLXdcfpmxZuLViQZn23DJC3Ufpnq2fWRUKnV8Gx": {
     "name": "affective autism",
@@ -34559,6 +34551,32 @@
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "3ZSuVu3KUJwhs8TtuJ5vuYocUBsw5BJdc8JjFHPZpump": {
+    "name": "Rockstar Grand Theft Auto VI",
+    "symbol": "GTA VI",
+    "flagged_ts": 1790393562,
+    "liquidity_at_flag": 65092.761566989924,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 100,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "GmjxzzngCBtF8uZwBkH2rRxAnxqrvvqSCvs6W5Cpump": {
+    "name": "0xPayment",
+    "symbol": "0xPayment",
+    "flagged_ts": 1790393564,
+    "liquidity_at_flag": 31891.788134575014,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 100,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
