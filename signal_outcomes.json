@@ -1,21 +1,4 @@
 {
-  "2RSnd9sEt7kyLBtDr262xBNwBsgegz5qcSFtDeSkFLEX": {
-    "name": "Black Box",
-    "symbol": "JEV",
-    "flagged_ts": 1789856331,
-    "liquidity_at_flag": 53794.2381978305,
-    "breakdown": {
-      "MOMENTUM": 85,
-      "SAFETY": 90,
-      "LIQUIDITY": 100,
-      "SMART MONEY": 0
-    },
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
   "GDgU2A3RpuhyL7BEEHJumaZxVh6BUXMcXNBgyjUHdfbN": {
     "name": "JEANPHIL",
     "symbol": "JEANPHIL",
@@ -29575,7 +29558,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "DZTzGWfGuw1CvcXJvT9PB44iXsypFUbLWDDMANf9ZabS": {
@@ -29591,7 +29575,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "AFwS8ui9ACcHf78nFEk6nfGNZoSniqMLFLLszL1gWiWu": {
@@ -29607,7 +29592,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "Dcxiqsa4v2537izs3VBph9xL7nPViGWT7LDHatv58ssN": {
@@ -33142,7 +33128,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "5webd5T96YLJeSNXt8KTvPsZzWr2AF3kBtUiYPthpump": {
@@ -33157,7 +33144,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "6mkeRr4tvfNQW1AXHB9W3DiVcW7fdSoMZw5opMXxUYCF": {
@@ -33172,7 +33160,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "Ghvn5nKzvtmrT96YpwEq8dQq9eUaw9upjvDF5ZBypump": {
@@ -33636,7 +33625,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "8XeLRRhjgjjLAwTfUCAS7UyHQ2AQmPWV87jNV33Lpump": {
     "name": "Normie",
@@ -33649,7 +33640,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "GefotCB91xCMqeXyP1345sfBHkB1mKjDst4y1QPbd64i": {
     "name": "\u5218\u6b222026",
@@ -33662,7 +33655,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "8PJfHXeLUVcf24RQiBAa9Bj5mRSMQxyoPCzdL1aypump": {
     "name": "Molview",
@@ -33789,6 +33784,45 @@
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 100,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "EDdgqaeZqkfhXXtByqhF4vownfRHzXNdDuWdMdmmn5PQ": {
+    "name": "GIGGLE FUND",
+    "symbol": "GIGGLE",
+    "flagged_ts": 1790461161,
+    "liquidity_at_flag": 30698.282884066575,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "tXrTtmeeq6PAzZTMhoTGybyeZBHZHCTCzPGU32Wpump": {
+    "name": "Monetized",
+    "symbol": "MONETIZED",
+    "flagged_ts": 1790461162,
+    "liquidity_at_flag": 23038.571323932236,
+    "breakdown": {
+      "MOMENTUM": 77,
+      "SAFETY": 90,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "5pisy4iRuoBe39c54ptd3iDmEwoQdEjxVRY1RswZnQ3N": {
+    "name": "opcode.so",
+    "symbol": "OP",
+    "flagged_ts": 1790461163,
+    "liquidity_at_flag": 36984.883461344725,
+    "breakdown": {
+      "MOMENTUM": 93,
+      "SAFETY": 60,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
