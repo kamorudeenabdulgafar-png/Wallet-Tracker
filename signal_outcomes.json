@@ -1,37 +1,4 @@
 {
-  "BTpBb743gd2yn9bUc1Q2u7dbA77inLJ4bsXWA2vCpump": {
-    "name": "WhalePaid",
-    "symbol": "WhalePaid",
-    "flagged_ts": 1789792308,
-    "liquidity_at_flag": 27991.02415269366,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "FSdvEE9QRYQpqTo3YspbrU6Udv4vs1TscJC8qac9kZJT": {
-    "name": "Can I Put This Dick Inu",
-    "symbol": "DICKINU",
-    "flagged_ts": 1789792309,
-    "liquidity_at_flag": 30754.589600380386,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "9ambB7gMKFYysyNnVrz21Z7tiqVYJAE5v1NXaWPnrN1u": {
-    "name": "Paid",
-    "symbol": "PAID",
-    "flagged_ts": 1789792311,
-    "liquidity_at_flag": 146159.01377152052,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
   "DFQHUegJWE29Xu3BUxPezqi77uyHURRyxJpdtyvLpump": {
     "name": "PUMP CAT",
     "symbol": "PUMPCAT",
@@ -29650,7 +29617,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "9dAbCu7Phmgss31haeCHtTXSf6TjzG3GdGgFvqK5pump": {
@@ -29666,7 +29634,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "B75Q3EhzfjjJhC3URK2cRaNhisnWREetyrv2SPqNW43A": {
@@ -29682,7 +29651,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "H6PTesYXD1iaMQMH8DQBDvFy3UUkH7e6wEwAu4x9adY5": {
@@ -33761,7 +33731,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "6dXG3jjvy56ECiL86NoM7aJ7TxyyKGzD9CStYhUrpump": {
@@ -33776,7 +33747,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "dJ8V5v7znhDH8iCesZgGFhpvDBtaVN39siPWarkDAN3": {
@@ -33791,7 +33763,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "BKBJo6hHVQCpfsVmHn3CgRRbKdpFWzzGYAJZ1v8L7ae2": {
@@ -34435,7 +34408,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "GmjxzzngCBtF8uZwBkH2rRxAnxqrvvqSCvs6W5Cpump": {
     "name": "0xPayment",
@@ -34448,7 +34423,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "GmPuERh5xhjdH3zGKz1nJdZ7WsqXYMpdxTju9hdDpump": {
     "name": "T On Cat",
@@ -34549,6 +34526,84 @@
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "F1Zx9ye3wRxUmCVcbxgrW6raDh4F64zH25jQyW7Y1L1N": {
+    "name": "Anti-AI",
+    "symbol": "ANTI",
+    "flagged_ts": 1790397456,
+    "liquidity_at_flag": 35189.20380091865,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 90,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "G5BUjnyzsoRVeyiSq8WdmYB54bbbwnCwepoaGhLFpump": {
+    "name": "OFFICIAL TRUMP",
+    "symbol": "TRUMP",
+    "flagged_ts": 1790397457,
+    "liquidity_at_flag": 33130.80690323732,
+    "breakdown": {
+      "MOMENTUM": 78,
+      "SAFETY": 100,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "GD248ARWHndhREhaCEvZnsztZMqTxtsQwHd6Mt35Mpho": {
+    "name": "Trump AI",
+    "symbol": "Trump AI",
+    "flagged_ts": 1790397458,
+    "liquidity_at_flag": 58748.092343555094,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "BPaXaPgZA827dGE91SMPpeYwq43PvhRqQKrJbZWLHoiR": {
+    "name": "Bear",
+    "symbol": "\ud83d\udc3bBear",
+    "flagged_ts": 1790397459,
+    "liquidity_at_flag": 46853.773365700006,
+    "breakdown": {
+      "MOMENTUM": 99,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "76HkoDQMMb7Gno6ubKn5SVxhiVDFQ6dV2jh2DUpQktMW": {
+    "name": "Super inu",
+    "symbol": "Super inu",
+    "flagged_ts": 1790397460,
+    "liquidity_at_flag": 37458.32501238055,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "3daxM5p61oN6fNJLjmnLZBuHWUpbBbi19Dzfifjypump": {
+    "name": "america.gov",
+    "symbol": "AMERICA",
+    "flagged_ts": 1790397462,
+    "liquidity_at_flag": 31404.198074518783,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 100,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
