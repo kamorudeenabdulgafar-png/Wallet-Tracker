@@ -1,26 +1,4 @@
 {
-  "Px7zV5J94atQn6VXKhsNig6kkhHboj9YUfmt372ynCL": {
-    "name": "Feels Good Man",
-    "symbol": "FEELSGOOD",
-    "flagged_ts": 1789775764,
-    "liquidity_at_flag": 233416.55848733804,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "57VjqfGFVNT4nksBWNzfQJSR6ssdLLQ4pGdsYH8sJmVJ": {
-    "name": "Leopardus Tilcayo",
-    "symbol": "TIGRINO",
-    "flagged_ts": 1789775765,
-    "liquidity_at_flag": 28616.52887977103,
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
   "EqCnCHQaNZySxAHPCguqRXVDqpvHqj7sY6f3ivzWjHRz": {
     "name": "Crossr",
     "symbol": "CROSSR",
@@ -33508,7 +33486,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "AnTwpTrEkRTDTpuxbY3qQ3qM4pESqYxZF74DWe1yxSdG": {
@@ -33523,7 +33502,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "967L2A9hahYuRiitN8EpQiGeXNgccHKPqbjZzc2goUwW": {
@@ -33538,7 +33518,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "B2xsn9g9UyZXV38Xc818d16ArACZBvJjL1QTES4kqnxw": {
@@ -33553,7 +33534,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "CjHeM5ZA3rMwkt71oMTjq7VgBnPEi6ZaoDniCJYkfeqg": {
@@ -33568,7 +33550,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "7J4NHtyFMzC9zKfirSnNe2JgzYTBVn8CEhvcwBKp7qi6": {
@@ -33583,7 +33566,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "3uk2wFQvmBj4tyLsDoCB98zBQt2LR4WQnBXMuh5BWEgQ": {
@@ -34257,7 +34241,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "7pax2o5X7aWSCYm3xfAeMvhB7aXdzdWzuA6yycuAoeoZ": {
     "name": "Mintlands",
@@ -34270,7 +34256,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "5cyvgL5gyfVvh93VP3hgkAR4jkdCyxSTRNX3jGDv5fSj": {
     "name": "america.gov",
@@ -34283,7 +34271,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "A3wtHGm2WabLp5wwyXMSit85b4NoRBPDopkEeRDVsu5K": {
     "name": "Restock Markets",
@@ -34296,7 +34286,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "EPLBu9SHyWphRZedCniV8w6H5PkSvpuVH3MDv2oHKxn1": {
     "name": "Nomad Arena",
@@ -34355,6 +34347,32 @@
     "symbol": "51X",
     "flagged_ts": 1790379620,
     "liquidity_at_flag": 36292.41452171761,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "7r5vK4XiFVuk9ZSBb55iy3Stc2xqWgLiGxsPCZUpVHdY": {
+    "name": "america.gov",
+    "symbol": "AMERICA",
+    "flagged_ts": 1790381198,
+    "liquidity_at_flag": 182294.14209010854,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "C149AKBuKwF2vh6BCQeRabeb1z5PULj2muq9Usxou1ZB": {
+    "name": "Orbit",
+    "symbol": "ORBIT",
+    "flagged_ts": 1790381199,
+    "liquidity_at_flag": 52821.160558682925,
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 60,
