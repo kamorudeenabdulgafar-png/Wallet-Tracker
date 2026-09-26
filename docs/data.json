@@ -1,5 +1,5 @@
 {
-  "last_updated": 1790457606,
+  "last_updated": 1790458287,
   "wallets": [
     {
       "label": "Dev wallet 1",
@@ -87,14 +87,29 @@
     "count": 2835,
     "up_count": 613,
     "total_change_pct": -155586.29928175083,
-    "rug": 1864,
-    "doing_well": 21,
+    "rug": 1866,
+    "doing_well": 22,
     "steady": 9,
     "fading": 20
   },
-  "learning_insight": "Coins that rugged averaged SAFETY 68; coins that did well averaged SAFETY 86.",
+  "learning_insight": "Coins that rugged averaged SAFETY 68; coins that did well averaged SAFETY 88.",
   "settings": {},
   "recent_alerts": [
+    {
+      "ts": 1790458287,
+      "type": "outcome",
+      "message": "\ud83d\udd34 American Patriot (TRUMP) turned out to be a rug \u2014 liquidity dropped 93% over 24h."
+    },
+    {
+      "ts": 1790458286,
+      "type": "outcome",
+      "message": "\ud83d\udd34 Pok\u00e9mon  Dollar (\u20bd) turned out to be a rug \u2014 liquidity dropped 96% over 24h."
+    },
+    {
+      "ts": 1790458285,
+      "type": "outcome",
+      "message": "\ud83d\udfe2 Effective Accelerationism (e/acc) did really well \u2014 liquidity up 1469% after 24h!"
+    },
     {
       "ts": 1790457606,
       "type": "outcome",
@@ -329,21 +344,6 @@
       "ts": 1790455526,
       "type": "scanner",
       "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\nLotto (LOTTO)\nOpportunity: 73/100\n\nMOMENTUM     92\nSAFETY       60\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$31,598, 10 min since pool creation\n\u2022 Up +61% in the last hour, ~$119,783 in 24h volume (3.8x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 74% of supply (very concentrated)\n\nCA: PmoF4rLVamFD7Qbd3xeMjvVGfmyEYKvzsf8P2jscwRb\nhttps://dexscreener.com/solana/PmoF4rLVamFD7Qbd3xeMjvVGfmyEYKvzsf8P2jscwRb\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
-    },
-    {
-      "ts": 1790454668,
-      "type": "outcome",
-      "message": "\ud83d\udd34 Effective Send (e/send) is dropping fast \u2014 down 90%, may be rugging."
-    },
-    {
-      "ts": 1790454667,
-      "type": "outcome",
-      "message": "\ud83d\udd34 Effective Accelerationism (e/acc) is dropping fast \u2014 down 84%, may be rugging."
-    },
-    {
-      "ts": 1790453968,
-      "type": "outcome",
-      "message": "\ud83d\udfe2 AlphaAI (AlphaAI) is still doing really good \u2014 up 33% so far!"
     }
   ]
 }
