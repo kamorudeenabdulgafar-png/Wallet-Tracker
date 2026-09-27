@@ -29456,7 +29456,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "4gxeRFKNmRHmMSpGtgGE7as7kophLBdWGqtBGvBtTj93": {
@@ -32719,7 +32720,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "BZVzFb9S5WkG4pufDQdsfKA3nAboVnNWX7ReKEdmC17q": {
@@ -32734,7 +32736,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "FKCmcd8kVYy3L9P8bYWRXog97ne9cgUGPDZjnPYNWnUH": {
@@ -33468,7 +33471,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "J7aQdNnBxW91Qd3qiq3gyN7SMk2evyVKFBsynjcDSUyW": {
     "name": "lab rat experiment",
@@ -33481,7 +33486,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "3RPP8CJXQfVrbuWKoZvuurWcb5wcr5ynFkcWMxmkdou9": {
     "name": "lab rat experiment",
@@ -33494,7 +33501,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "46eqxHeECmFLE6a1LsgvBgpk7wqYAoSBQeNgBVMmv1kE": {
     "name": "MansaFi",
@@ -33634,6 +33643,19 @@
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 90,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "DtvoAMXHTegX9bHvYhPDwFfVzKC4WxRCXRvtYTTJSCKD": {
+    "name": "UNICEF",
+    "symbol": "UNICEF",
+    "flagged_ts": 1790499441,
+    "liquidity_at_flag": 43755.934220485105,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
