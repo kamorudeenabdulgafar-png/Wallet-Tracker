@@ -29422,7 +29422,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "vw1qZzhqdFCgRBWAgvmMJe1pqUy1Ddo7edF6ca2wKTJ": {
@@ -29438,7 +29439,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "E4DHn5co9AkTPUnVd9D95fzPVVtARysLe9Bf49ZxfwJ8": {
@@ -29454,7 +29456,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "7y2ebtpmFxwkCr4F9uemdByMJZyZAiYaxyygEmZs1B9R": {
@@ -29470,7 +29473,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "7aJH42KjPS4nwq24MKzx6ETt99Fj7FnYgmjkiZtdxKCP": {
@@ -32621,7 +32625,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "Aq79PYHWiorYqVK5yiCiw5xzbbCKp12gKyymqw62BdPR": {
@@ -32636,7 +32641,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "5EJdG2iYVXMocq4hsE42m4dk142jsK2iyT9cjrRjPSpM": {
@@ -32651,7 +32657,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "6cH589jL4gBrMxtKgGqei2DrMfWo6Hs1bfqZWPR4rFiw": {
@@ -33250,7 +33257,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "j9u6SfHXwVF1ug3VQuTMwTB8Fozyq3mpE4orEHfC2g7": {
     "name": "\u672c\u660c\u6210\u4f5b",
@@ -33263,7 +33272,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "Aeg12jwa3yMo2hYVSqdk6K9tJwNmtAXHrLG3sWBgH8wp": {
     "name": "The Laughing Cow",
@@ -33481,6 +33492,45 @@
     "breakdown": {
       "MOMENTUM": 61,
       "SAFETY": 100,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "gQTQfhcyeE44Cqp2H9CHZ9MmcoHFFUbBVXAh9TNpump": {
+    "name": "MrBeast Official Coin",
+    "symbol": "MrBeast",
+    "flagged_ts": 1790485795,
+    "liquidity_at_flag": 71010.84966122631,
+    "breakdown": {
+      "MOMENTUM": 43,
+      "SAFETY": 100,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "4Cwnu2YhU7zkdmYsNpCfiBmVmsBGgNE8Qs4mrreEK95t": {
+    "name": "Fomo NPC",
+    "symbol": "fomonpc",
+    "flagged_ts": 1790485796,
+    "liquidity_at_flag": 53476.715152399,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "BLdNtJ7A7TiGgcoZB4wDkYTdQZ6RPJphs4xgvUujySnH": {
+    "name": "wowcoin",
+    "symbol": "WOW",
+    "flagged_ts": 1790485797,
+    "liquidity_at_flag": 41585.87732534422,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
