@@ -32561,7 +32561,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "fcnivbt5rzhTXzRj5F61X3zTeH3jnizLg2dqeH1fkLU": {
@@ -33278,6 +33279,58 @@
     "breakdown": {
       "MOMENTUM": 92,
       "SAFETY": 90,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "39JRjoQBnxzMqGmieYf3Y22Hk58pUiTijmfyqt4Cpump": {
+    "name": "Thesis Arena",
+    "symbol": "THESIS",
+    "flagged_ts": 1790517896,
+    "liquidity_at_flag": 24696.26706769033,
+    "breakdown": {
+      "MOMENTUM": 91,
+      "SAFETY": 100,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "HrTiQK94EdzxdPiz817nyx58kgP1kbpVkqWAwow148U9": {
+    "name": "NEARCAT",
+    "symbol": "NEARCAT",
+    "flagged_ts": 1790517897,
+    "liquidity_at_flag": 38279.52725837589,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "CVAbrHuAjQhwrmbcZbh8hvmF662zQ4aG2DJ41rnTGtTF": {
+    "name": "nearpad.tech",
+    "symbol": "NEARPAD",
+    "flagged_ts": 1790517897,
+    "liquidity_at_flag": 31200.70248241641,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "GB7E5RJcyAQga7XfLLZx2pWhDYNsdswT2jk7TicDtPZK": {
+    "name": "IRL Crypto Drainer",
+    "symbol": "DRAINER",
+    "flagged_ts": 1790517898,
+    "liquidity_at_flag": 28805.537272722206,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
