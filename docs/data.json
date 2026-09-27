@@ -1,5 +1,5 @@
 {
-  "last_updated": 1790502941,
+  "last_updated": 1790503552,
   "wallets": [
     {
       "label": "Dev wallet 1",
@@ -9,7 +9,7 @@
   "wallet_stats": {
     "5CEbueQnq1Ym2uSSx2xXds3jQAqT1BDnkA59RZobSPAG": {
       "label": "Dev wallet 1",
-      "buy_count": 369,
+      "buy_count": 370,
       "sell_count": 212,
       "total_buy_usd": 15628.984658586525,
       "total_sell_usd": 0.0,
@@ -68,7 +68,7 @@
         "cbbtcf3aa214zXHbiAZQwf4122FBYbraNdFqgw4iMij",
         "Xsa62P5mvPszXL1krVUnU5ar38bBSVcWAB6fmPCo5Zu"
       ],
-      "last_active": 1790502935,
+      "last_active": 1790503546,
       "positions": {},
       "realized_pnl_usd": 0.0
     }
@@ -87,7 +87,7 @@
     "count": 2835,
     "up_count": 613,
     "total_change_pct": -155586.29928175083,
-    "rug": 1999,
+    "rug": 2000,
     "doing_well": 23,
     "steady": 9,
     "fading": 31
@@ -95,6 +95,36 @@
   "learning_insight": "Coins that rugged averaged SAFETY 69; coins that did well averaged SAFETY 90.",
   "settings": {},
   "recent_alerts": [
+    {
+      "ts": 1790503550,
+      "type": "outcome",
+      "message": "\ud83d\udd34 Extropians (Extropians) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
+    },
+    {
+      "ts": 1790503550,
+      "type": "scanner",
+      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 STRONG\nEffective Accelerationism (e/acc)\nOpportunity: 82/100\n\nMOMENTUM     77\nSAFETY       100\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$28,423, 32 min since pool creation\n\u2022 Up +51% in the last hour, ~$48,508 in 24h volume (1.7x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Low, 0/100):\n\u2022 No major red flags found\n\nCA: tCLtjHA3JR9TEwkeJCKEH7yGEu4qJNdiza5AS2Spump\nhttps://dexscreener.com/solana/tCLtjHA3JR9TEwkeJCKEH7yGEu4qJNdiza5AS2Spump\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
+    },
+    {
+      "ts": 1790503549,
+      "type": "scanner",
+      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\nRainbow Fish (FISH)\nOpportunity: 70/100\n\nMOMENTUM     82\nSAFETY       60\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$27,594, 9 min since pool creation\n\u2022 Up +55% in the last hour, ~$26,769 in 24h volume (1.0x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 82% of supply (very concentrated)\n\nCA: EcM37un536RBqgrmEsJ7RV4mbMGfQh7RRrz9tfatnvMH\nhttps://dexscreener.com/solana/EcM37un536RBqgrmEsJ7RV4mbMGfQh7RRrz9tfatnvMH\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
+    },
+    {
+      "ts": 1790503548,
+      "type": "scanner",
+      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\nFomoRelay (RELAY)\nOpportunity: 73/100\n\nMOMENTUM     100\nSAFETY       60\nLIQUIDITY    85\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$17,000, 7 min since pool creation\n\u2022 Up +86% in the last hour, ~$149,450 in 24h volume (8.8x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 94% of supply (very concentrated)\n\nCA: fcnivbt5rzhTXzRj5F61X3zTeH3jnizLg2dqeH1fkLU\nhttps://dexscreener.com/solana/fcnivbt5rzhTXzRj5F61X3zTeH3jnizLg2dqeH1fkLU\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
+    },
+    {
+      "ts": 1790503547,
+      "type": "wallet",
+      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: XMR -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/Ay7Wtiv6vZCrkWHLz2xzPx4DCncgLbR1sphwWV4S7E5yTSyXRdnXhyzFxGmBMbsi8pzairo51LpEGR5Fyy2Fm84"
+    },
+    {
+      "ts": 1790503546,
+      "type": "wallet",
+      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: USDC -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/3HayDJgsV8QGTAzzTp1WUTY8vtnEgLZaUoNJKXjFpVnAoFYrD2TeLRQteHimJnXEtuSsE127Wev8ZfSWvhEnswvt"
+    },
     {
       "ts": 1790502941,
       "type": "outcome",
@@ -314,36 +344,6 @@
       "ts": 1790500979,
       "type": "outcome",
       "message": "\ud83d\udd34 MrBeast Official Coin (MrBeast) is dropping fast \u2014 down 95%, may be rugging."
-    },
-    {
-      "ts": 1790500979,
-      "type": "outcome",
-      "message": "\ud83d\udd34 YAP (YAP) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
-    },
-    {
-      "ts": 1790500978,
-      "type": "outcome",
-      "message": "\ud83d\udd34 \u8611\u83c7\u5934\u548c\u6211\u768416\u5e74 (\u8611\u83c7\u5934) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
-    },
-    {
-      "ts": 1790500977,
-      "type": "outcome",
-      "message": "\ud83d\udd34 p(doom) (P(DOOM)) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
-    },
-    {
-      "ts": 1790500976,
-      "type": "outcome",
-      "message": "\ud83d\udd34 p(doom) (P(DOOM)) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
-    },
-    {
-      "ts": 1790500975,
-      "type": "outcome",
-      "message": "\ud83d\udd34 GO Agrippa (AGRIPPA) turned out to be a rug \u2014 liquidity dropped 86% over 24h."
-    },
-    {
-      "ts": 1790500974,
-      "type": "scanner",
-      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\nTheMarsSociety (MARTIANS)\nOpportunity: 76/100\n\nMOMENTUM     100\nSAFETY       60\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$34,512, 29 min since pool creation\n\u2022 Up +196% in the last hour, ~$135,153 in 24h volume (3.9x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 77% of supply (very concentrated)\n\nCA: 8gyoR2H1KjqfPeJvbyXDFMfMd7tzhTHxXdtjxBtLC39\nhttps://dexscreener.com/solana/8gyoR2H1KjqfPeJvbyXDFMfMd7tzhTHxXdtjxBtLC39\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
     }
   ]
 }
