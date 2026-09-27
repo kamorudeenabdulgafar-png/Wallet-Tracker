@@ -1,89 +1,4 @@
 {
-  "4CP8WyZzYpb9R5ZyxbVBCtvRcgHoK67cqYSbF8trpump": {
-    "name": "TAKO",
-    "symbol": "TAKO",
-    "flagged_ts": 1789879637,
-    "liquidity_at_flag": 23077.704724796065,
-    "breakdown": {
-      "MOMENTUM": 100,
-      "SAFETY": 90,
-      "LIQUIDITY": 100,
-      "SMART MONEY": 0
-    },
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "BQh47ydimCEV5KK2xcwiBBDZVDzS3UxyTGKjjDzvvH7T": {
-    "name": "BUNNY",
-    "symbol": "\ud83d\udcb2BUNNY",
-    "flagged_ts": 1789879639,
-    "liquidity_at_flag": 46100.29844967577,
-    "breakdown": {
-      "MOMENTUM": 84,
-      "SAFETY": 60,
-      "LIQUIDITY": 100,
-      "SMART MONEY": 0
-    },
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "6Ssh6RT2VZjC59DigDeCgQMYJTyKSui1mQgBSN6agq8H": {
-    "name": "Argus",
-    "symbol": "ARGUS",
-    "flagged_ts": 1789879640,
-    "liquidity_at_flag": 37351.53203531482,
-    "breakdown": {
-      "MOMENTUM": 100,
-      "SAFETY": 60,
-      "LIQUIDITY": 100,
-      "SMART MONEY": 0
-    },
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "83hbHHQiRMVwiETxWxzG7g2KHHrEZ2274n5SFXyqWszD": {
-    "name": "The Boring Company",
-    "symbol": "TBC",
-    "flagged_ts": 1789879640,
-    "liquidity_at_flag": 29356.60356402518,
-    "breakdown": {
-      "MOMENTUM": 100,
-      "SAFETY": 60,
-      "LIQUIDITY": 100,
-      "SMART MONEY": 0
-    },
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "5jMTGJTmAw5CVaUhSRxJpWdTqpbbmoJaMeD3DgxJ8Kqx": {
-    "name": "Donated",
-    "symbol": "DONATED",
-    "flagged_ts": 1789879641,
-    "liquidity_at_flag": 51949.55344157994,
-    "breakdown": {
-      "MOMENTUM": 100,
-      "SAFETY": 75,
-      "LIQUIDITY": 100,
-      "SMART MONEY": 0
-    },
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
   "VcD3NHLewdH5eycBBfexuBz1upieNvuCfcKd9n3M92C": {
     "name": "Seed",
     "symbol": "SEED",
@@ -29439,7 +29354,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "HwBXCLDdvDYBWDbTNh9tiftaJh3hxAZVZN5tp86jyRCf": {
@@ -33304,7 +33220,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "Kh44AaUnpYXCwMh9Z7oStBYL3uAFdTus2Ydy5hfFiAL": {
     "name": "JACK",
@@ -33317,7 +33235,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "CU7xTSri6a2RwSooegUVMz6nsX21DwjwQWXN4UHZpump": {
     "name": "GOONACC",
@@ -33330,7 +33250,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "HJxrmqDZT8k2d9knLmo35qRJQ2cH23vvLLDvUp1Ajb8": {
     "name": "JACK",
@@ -33497,6 +33419,32 @@
       "MOMENTUM": 100,
       "SAFETY": 90,
       "LIQUIDITY": 94,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "GdSzEfKuR7EU5x9RR1xgmwu848TagsYGzhQG2bRApump": {
+    "name": "HOOD",
+    "symbol": "Robinhood",
+    "flagged_ts": 1790484604,
+    "liquidity_at_flag": 155922.64123394346,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 100,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "BZVzFb9S5WkG4pufDQdsfKA3nAboVnNWX7ReKEdmC17q": {
+    "name": "TIPPED",
+    "symbol": "TIPPED",
+    "flagged_ts": 1790484605,
+    "liquidity_at_flag": 32569.323546050335,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
     "checkpoints_done": []
