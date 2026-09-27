@@ -1,5 +1,5 @@
 {
-  "last_updated": 1790539527,
+  "last_updated": 1790540403,
   "wallets": [
     {
       "label": "Dev wallet 1",
@@ -87,7 +87,7 @@
     "count": 2835,
     "up_count": 613,
     "total_change_pct": -155586.29928175083,
-    "rug": 2070,
+    "rug": 2073,
     "doing_well": 23,
     "steady": 9,
     "fading": 33
@@ -95,6 +95,36 @@
   "learning_insight": "Coins that rugged averaged SAFETY 70; coins that did well averaged SAFETY 88.",
   "settings": {},
   "recent_alerts": [
+    {
+      "ts": 1790540403,
+      "type": "outcome",
+      "message": "\ud83d\udd34 Steam (steam) is dropping fast \u2014 down 100%, may be rugging."
+    },
+    {
+      "ts": 1790540402,
+      "type": "outcome",
+      "message": "\ud83d\udd34 steam (steam) is dropping fast \u2014 down 100%, may be rugging."
+    },
+    {
+      "ts": 1790540401,
+      "type": "outcome",
+      "message": "\ud83d\udd34 Lotto (LOTTO) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
+    },
+    {
+      "ts": 1790540400,
+      "type": "outcome",
+      "message": "\ud83d\udd34 Split (SPLIT) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
+    },
+    {
+      "ts": 1790540399,
+      "type": "outcome",
+      "message": "\ud83d\udd34 Paid (PAID) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
+    },
+    {
+      "ts": 1790540398,
+      "type": "scanner",
+      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\nVaultStrategy (VAULT)\nOpportunity: 76/100\n\nMOMENTUM     100\nSAFETY       60\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$47,851, 10 min since pool creation\n\u2022 Up +362% in the last hour, ~$306,115 in 24h volume (6.4x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 92% of supply (very concentrated)\n\nCA: FiLrNu8Cee9naYei81XdsKBJDZNb5kJJsGWoK53WYVuF\nhttps://dexscreener.com/solana/FiLrNu8Cee9naYei81XdsKBJDZNb5kJJsGWoK53WYVuF\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
+    },
     {
       "ts": 1790539527,
       "type": "outcome",
@@ -314,36 +344,6 @@
       "ts": 1790537976,
       "type": "outcome",
       "message": "\ud83d\udfe0 Split (SPLIT) faded \u2014 liquidity down 29% after 24h."
-    },
-    {
-      "ts": 1790537975,
-      "type": "scanner",
-      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\nEarn (EARN)\nOpportunity: 75/100\n\nMOMENTUM     98\nSAFETY       60\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$24,912, 14 min since pool creation\n\u2022 Up +65% in the last hour, ~$195,424 in 24h volume (7.8x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 95% of supply (very concentrated)\n\nCA: 5rgeNi9wXSRyfj88Nx1Bu9dMvPyKsUtDLRRiAERVwZhH\nhttps://dexscreener.com/solana/5rgeNi9wXSRyfj88Nx1Bu9dMvPyKsUtDLRRiAERVwZhH\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
-    },
-    {
-      "ts": 1790537363,
-      "type": "outcome",
-      "message": "\ud83d\udd34 Zakura Zcash (ZAKURA) is dropping fast \u2014 down 100%, may be rugging."
-    },
-    {
-      "ts": 1790537362,
-      "type": "outcome",
-      "message": "\ud83d\udd34 moneropad.fun (moneropad) is dropping fast \u2014 down 100%, may be rugging."
-    },
-    {
-      "ts": 1790537362,
-      "type": "outcome",
-      "message": "\ud83d\udd34 the xdog (xdog) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
-    },
-    {
-      "ts": 1790537360,
-      "type": "outcome",
-      "message": "\ud83d\udd34 The White House (White House) turned out to be a rug \u2014 liquidity dropped 94% over 24h."
-    },
-    {
-      "ts": 1790537360,
-      "type": "outcome",
-      "message": "\ud83d\udd34 Effective Send (e/send) turned out to be a rug \u2014 liquidity dropped 90% over 24h."
     }
   ]
 }
