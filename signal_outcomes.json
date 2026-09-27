@@ -29354,7 +29354,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "2z8dNFZGpX566ojbDRnH6wsrrwGYfSpVaouAdNWcudUw": {
@@ -32569,7 +32570,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "ErSCBziu32r1muqcM91r8999wQu1v9TKCFPRYxXavwf3": {
@@ -32584,7 +32586,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "5VsctiSrpeUL1aTeJJVz4tLVncJovT2DYGvLif9dSZyN": {
@@ -32599,7 +32602,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "EQj6WdnwXY7TjCYRWGaChgpLQMurH2bUeK9LQtRBU59p": {
@@ -32614,7 +32618,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "FXbfs7xjZiNdHmpMkTrx8vN452ZMADL1hy3MAhFpKU27": {
@@ -32629,7 +32634,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "Jr2bvr79Pfq1dcCiRscqvsGZT71RATVHRkzMVTYSJSg": {
@@ -32644,7 +32650,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "4mW6NpGbEyypLNF8FoZT7avLE9XbEAdh6E1RofbebSQT": {
@@ -33546,6 +33553,58 @@
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 90,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "5HJoiizAbBQ2WgsMQ3cNswzyAFozb5p4RFkfsxoojZBq": {
+    "name": "The Laughing Cow",
+    "symbol": "\u7b11\u7b11\u725b",
+    "flagged_ts": 1790494837,
+    "liquidity_at_flag": 29639.288932669373,
+    "breakdown": {
+      "MOMENTUM": 83,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "GqYAFhrDAhcKyWabBpBCjfUPKr5pVYzcMXVpk4zFaBuZ": {
+    "name": "Luna",
+    "symbol": "Luna",
+    "flagged_ts": 1790494837,
+    "liquidity_at_flag": 43132.13073265915,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 75,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "96NErBfWZkC9xuV9Fn3HzWfPWx54zxf6mMebdrZNisph": {
+    "name": "TheMarsSociety",
+    "symbol": "MARTIANS",
+    "flagged_ts": 1790494839,
+    "liquidity_at_flag": 44992.92825646624,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "JvE6qDp62SjAdbTkvZEjpew6xahXMvkVU2XzwXPpump": {
+    "name": "0xPayment",
+    "symbol": "0xPayment",
+    "flagged_ts": 1790494841,
+    "liquidity_at_flag": 69889.64304229406,
+    "breakdown": {
+      "MOMENTUM": 44,
+      "SAFETY": 100,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
