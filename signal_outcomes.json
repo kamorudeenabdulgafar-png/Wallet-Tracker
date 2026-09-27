@@ -1,38 +1,4 @@
 {
-  "HrTHALcijdUuzGstBDDpiJAGBzp1HFkNxKPvn9RKio45": {
-    "name": "LaunchOnSF",
-    "symbol": "Stonk",
-    "flagged_ts": 1789872392,
-    "liquidity_at_flag": 58645.6793009729,
-    "breakdown": {
-      "MOMENTUM": 100,
-      "SAFETY": 60,
-      "LIQUIDITY": 100,
-      "SMART MONEY": 0
-    },
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "F1MGBFJtWUQkobURdsfbfuyekR3NbFxkMQk6KCzw47pS": {
-    "name": "xPad",
-    "symbol": "xPad",
-    "flagged_ts": 1789872393,
-    "liquidity_at_flag": 65770.99506167145,
-    "breakdown": {
-      "MOMENTUM": 100,
-      "SAFETY": 60,
-      "LIQUIDITY": 100,
-      "SMART MONEY": 0
-    },
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
   "BKda3ap94znK2UEGRQg37myyAJu1vZM6LuS1eLbFuD11": {
     "name": "Google",
     "symbol": "GOOGLAI",
@@ -29490,7 +29456,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "53FYaLNVQvaVSgrLRpbHUKPRcob9RzDbjCeQi8WeTyZQ": {
@@ -33465,7 +33432,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "CmMD2iTJGNAbYbeGQXQxHBiPkHYr7HfTdCRqzr1LEnhr": {
     "name": "Brainfuel",
@@ -33478,7 +33447,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "8kztxfoxV29YccrhVFJgyidv8WecZxhLWBLiQhbM1YJ7": {
     "name": "Telepad",
@@ -33491,7 +33462,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "Csn7v4WAUaVGFVMJYy2yGvJtq9c6c1FqKkfMYmzb6Sf3": {
     "name": "\u73a9\u5e01\u5f52\u8d75",
@@ -33657,6 +33630,32 @@
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 100,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "GTAqdpNuje7sxHoLgoMdPv7HMUetcRD4UkrBkPZvM5dV": {
+    "name": "cake.xmr",
+    "symbol": "CAKE",
+    "flagged_ts": 1790477339,
+    "liquidity_at_flag": 29669.355453769327,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "BsTiNV4unLn7P2HDGLMXDE5nuWmpVbZLk9w1xSBy4xZB": {
+    "name": "Mitsunakacoin",
+    "symbol": "MITSUNAKA",
+    "flagged_ts": 1790477342,
+    "liquidity_at_flag": 36783.381175113274,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
