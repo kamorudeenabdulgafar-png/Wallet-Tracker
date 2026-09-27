@@ -28096,7 +28096,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "13iZbQ7GHyUysNZA5uZX4vWuJSgwWWp4UmtRzCrbzekr": {
@@ -28112,7 +28113,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "9XoDQkrX1QyWLpTrizvSmutHUhRZxvyMoh6guM1t8jZW": {
@@ -32175,7 +32177,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "BgfNvyy15RrTMeEyVTsUBtGxAaDAtbEd87HqVtzJGfem": {
@@ -32190,7 +32193,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "Hyz8yHyYAJYXkKHmcyvWf7RmYX1iC3b51Gkqexm78Mbm": {
@@ -32706,6 +32710,32 @@
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 75,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "F6KMxgKC7Yes82dSz2Bm1RmKDxDKBiwCApynb81vUEbs": {
+    "name": "steam",
+    "symbol": "steam",
+    "flagged_ts": 1790536698,
+    "liquidity_at_flag": 42812.21971121944,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "52Rh93XVrn5ypBQjxfL6Dm2hkRtMpNU3vdBAvPf6a1j8": {
+    "name": "Steam",
+    "symbol": "steam",
+    "flagged_ts": 1790536698,
+    "liquidity_at_flag": 30084.511172704202,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
