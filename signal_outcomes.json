@@ -1,55 +1,4 @@
 {
-  "BA5p7KcFpsYqM6NobDRTwQfze69TiwKaU3fVvw9Zpdq9": {
-    "name": "Stonked",
-    "symbol": "STONKED",
-    "flagged_ts": 1789920297,
-    "liquidity_at_flag": 29220.57947365022,
-    "breakdown": {
-      "MOMENTUM": 100,
-      "SAFETY": 60,
-      "LIQUIDITY": 100,
-      "SMART MONEY": 0
-    },
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "7wmuRJE5BNHWg4p1JeWwFwjo163tQtyzVqzttyGY5Hsx": {
-    "name": "BUNNY",
-    "symbol": "\ud83d\udcb2BUNNY",
-    "flagged_ts": 1789920298,
-    "liquidity_at_flag": 47436.76691598975,
-    "breakdown": {
-      "MOMENTUM": 95,
-      "SAFETY": 60,
-      "LIQUIDITY": 100,
-      "SMART MONEY": 0
-    },
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "E3ZVevAkzhvnpUmp3A5dvZSghcwfu3ixXpuKe2dNYpuG": {
-    "name": "arbiStocks",
-    "symbol": "ARBISTOCKS",
-    "flagged_ts": 1789920299,
-    "liquidity_at_flag": 24774.530886769146,
-    "breakdown": {
-      "MOMENTUM": 100,
-      "SAFETY": 60,
-      "LIQUIDITY": 100,
-      "SMART MONEY": 0
-    },
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
   "J6SVJSW4cMZv1KJkuDw19MqqtYXA1bGqYEEKxQtBtxgA": {
     "name": "Hotel Lobby",
     "symbol": "Lobby",
@@ -28640,7 +28589,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "876zScVtLUJ8RDsHmLnAFtRAN3UDgKY3KyDLYF3bYXTG": {
@@ -32575,7 +32525,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "7ZnNNdeBb7QKQw2mue484Y4KGLVkPqySt1GETPzFSiMq": {
@@ -32590,7 +32541,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "9tScsEzn7Z8VbZrEnKYacXFamQjqwK3fikW7LT3fWsQg": {
@@ -32605,7 +32557,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "ECpJMF6AZJdMXtQV1ZEUTfHwurPDhtHp1LC1KNFaP7k4": {
@@ -32979,7 +32932,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "vsDTcShuQD45Fm5nM5UoLFhmaHAaBa3hQYk3NQopump": {
     "name": "Pump Accelerationism",
@@ -32992,7 +32947,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "BgfNvyy15RrTMeEyVTsUBtGxAaDAtbEd87HqVtzJGfem": {
     "name": "Doppler",
@@ -33005,7 +32962,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "Hyz8yHyYAJYXkKHmcyvWf7RmYX1iC3b51Gkqexm78Mbm": {
     "name": "moneropad.fun",
@@ -33107,6 +33066,45 @@
       "MOMENTUM": 100,
       "SAFETY": 60,
       "LIQUIDITY": 71,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "92y9FrtPTaKTNRm1AVvdG6KpKsKJvumYTGyKrAMmDMXh": {
+    "name": "Cure Cancer",
+    "symbol": "CURECANCER",
+    "flagged_ts": 1790525115,
+    "liquidity_at_flag": 34249.41146526416,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "ENvqYNu5tejTEErLg1rqSAF9KLGg1yFL7kzCh3ZZJK34": {
+    "name": "Cure Cancer",
+    "symbol": "CURECANCER",
+    "flagged_ts": 1790525116,
+    "liquidity_at_flag": 33283.851425536064,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "GvcustnNkM1SiPaFEURsX7H8yXy3hZ4N1b8QxB3aJKzP": {
+    "name": "Cure Cancer",
+    "symbol": "CURECANCER",
+    "flagged_ts": 1790525116,
+    "liquidity_at_flag": 35032.92596683854,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
     "checkpoints_done": []
