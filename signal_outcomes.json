@@ -1,38 +1,4 @@
 {
-  "6pjV2VH8h6kSngQGR2L3jttp9qD4x8YLB67yFQCLykRw": {
-    "name": "Blue Bitcoin",
-    "symbol": "BBTC",
-    "flagged_ts": 1789934021,
-    "liquidity_at_flag": 53635.18866478287,
-    "breakdown": {
-      "MOMENTUM": 100,
-      "SAFETY": 60,
-      "LIQUIDITY": 100,
-      "SMART MONEY": 0
-    },
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "7niLNwajdxf15THyhwSKKb4ZBr1ooKZMHmP4JMuDpump": {
-    "name": "Meals",
-    "symbol": "MEALS",
-    "flagged_ts": 1789934022,
-    "liquidity_at_flag": 19174.449353108284,
-    "breakdown": {
-      "MOMENTUM": 100,
-      "SAFETY": 90,
-      "LIQUIDITY": 96,
-      "SMART MONEY": 0
-    },
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
   "5d2eAFzjG7nyHhUG5bEA8Kt5qk1385BP437hajzNTgmS": {
     "name": "Shitcoin Futures Exchange",
     "symbol": "STX",
@@ -28181,7 +28147,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "Fyq7XSabhA9SSHsrsTabvG5vJvvbrV1Jc2uCvspz4xe2": {
@@ -28197,7 +28164,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "HkHp9epGMgsNaDFYfU32b8xBxZ6Dzpzp7df683dp4Udx": {
@@ -28213,7 +28181,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "DxAZrrCCDGvVVxTjbJHYL1w5cHgVTsbNE5ePn3ZfSxZ": {
@@ -28229,7 +28198,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "D3EK5Uz9Nzx5huytDR569hbtyr1jmU4hCZMzno8NE6Mv": {
@@ -32196,7 +32166,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "E6Ck2qyZ1thKwaL2H1i1soQu4S4df7PaYG1fhF4BrRYt": {
@@ -32211,7 +32182,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "92y9FrtPTaKTNRm1AVvdG6KpKsKJvumYTGyKrAMmDMXh": {
@@ -32525,7 +32497,9 @@
       "LIQUIDITY": 70,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "D1Xc8XrMmCaqfsHR9Mtq7iChKirQwDdbpZeoLHwHy8fb": {
     "name": "FX\u6218\u58eb\u4e45\u7559\u7f8e",
@@ -32538,7 +32512,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "4JQiFX1RWtJ7RfPHuhU29owJYkEcVGtmfJpCdx1utMwD": {
     "name": "Kurumi",
@@ -32551,7 +32527,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "H3WzbsKu8WTAY4Di1qHz5LCZkjA6pF4HGSLipkpNzidh": {
     "name": "Earn",
@@ -32730,6 +32708,45 @@
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "22tvrQBYfwgaHR12pzNZQ3UWZw1trisuA9HoSKyPpump": {
+    "name": "Gifted Pad",
+    "symbol": "GIFT",
+    "flagged_ts": 1790538902,
+    "liquidity_at_flag": 19970.40321415363,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 90,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "E944rK64mgtLB9c2X8cuaMEHVdfxMtr6HURMLAZ59zWC": {
+    "name": "The Lonely Pig",
+    "symbol": "Charlie",
+    "flagged_ts": 1790538903,
+    "liquidity_at_flag": 31580.946871068612,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "Gkwv9zzNtXBmcwVihD1ZD4bx9XiXRDhGRUpgyethpump": {
+    "name": "Aura Wars",
+    "symbol": "AURA",
+    "flagged_ts": 1790538904,
+    "liquidity_at_flag": 38693.52959589724,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 100,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
