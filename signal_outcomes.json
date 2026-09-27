@@ -31920,7 +31920,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "D1Xc8XrMmCaqfsHR9Mtq7iChKirQwDdbpZeoLHwHy8fb": {
@@ -31935,7 +31936,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "4JQiFX1RWtJ7RfPHuhU29owJYkEcVGtmfJpCdx1utMwD": {
@@ -31950,7 +31952,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "H3WzbsKu8WTAY4Di1qHz5LCZkjA6pF4HGSLipkpNzidh": {
@@ -32579,7 +32582,9 @@
       "LIQUIDITY": 91,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "nheVhBEu7aQgtZLbtLkzvZEhhQh9fctKXWWFPd8pump": {
     "name": "Pok\u00e9mon",
@@ -32667,6 +32672,32 @@
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "EhxGFdrH9NygyvGi5G79y9fqRoexbh5DLcu2TKAdAsZy": {
+    "name": "Koyuki",
+    "symbol": "\u3053\u3086\u304d",
+    "flagged_ts": 1790549687,
+    "liquidity_at_flag": 52728.58247025444,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "BVZVLTUSV6ftqHPqDEggag8crXJgJ6Cz5BCWmVvqpump": {
+    "name": "Koyuki",
+    "symbol": "\u3053\u3086\u304d",
+    "flagged_ts": 1790549688,
+    "liquidity_at_flag": 34213.89378569594,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 90,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
