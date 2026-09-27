@@ -1,5 +1,5 @@
 {
-  "last_updated": 1790523118,
+  "last_updated": 1790523922,
   "wallets": [
     {
       "label": "Dev wallet 1",
@@ -10,7 +10,7 @@
     "5CEbueQnq1Ym2uSSx2xXds3jQAqT1BDnkA59RZobSPAG": {
       "label": "Dev wallet 1",
       "buy_count": 376,
-      "sell_count": 214,
+      "sell_count": 215,
       "total_buy_usd": 15628.984658586525,
       "total_sell_usd": 0.0,
       "tokens_traded": [
@@ -68,7 +68,7 @@
         "cbbtcf3aa214zXHbiAZQwf4122FBYbraNdFqgw4iMij",
         "Xsa62P5mvPszXL1krVUnU5ar38bBSVcWAB6fmPCo5Zu"
       ],
-      "last_active": 1790517894,
+      "last_active": 1790523917,
       "positions": {},
       "realized_pnl_usd": 0.0
     }
@@ -87,7 +87,7 @@
     "count": 2835,
     "up_count": 613,
     "total_change_pct": -155586.29928175083,
-    "rug": 2035,
+    "rug": 2037,
     "doing_well": 23,
     "steady": 9,
     "fading": 31
@@ -95,6 +95,61 @@
   "learning_insight": "Coins that rugged averaged SAFETY 69; coins that did well averaged SAFETY 88.",
   "settings": {},
   "recent_alerts": [
+    {
+      "ts": 1790523922,
+      "type": "outcome",
+      "message": "\ud83d\udd34 IP (IP) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
+    },
+    {
+      "ts": 1790523921,
+      "type": "outcome",
+      "message": "\ud83d\udd34 IP (IP) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
+    },
+    {
+      "ts": 1790523920,
+      "type": "scanner",
+      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\nForexFun (FXFUN)\nOpportunity: 76/100\n\nMOMENTUM     100\nSAFETY       60\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$26,954, 9 min since pool creation\n\u2022 Up +98% in the last hour, ~$164,313 in 24h volume (6.1x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 94% of supply (very concentrated)\n\nCA: 4Yy38WkavvLowVy4Gp8MpzGyV3xhAXn9ePiyYZWG3tPC\nhttps://dexscreener.com/solana/4Yy38WkavvLowVy4Gp8MpzGyV3xhAXn9ePiyYZWG3tPC\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
+    },
+    {
+      "ts": 1790523919,
+      "type": "scanner",
+      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\nForexFun (FXFUN)\nOpportunity: 76/100\n\nMOMENTUM     100\nSAFETY       60\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$33,378, 9 min since pool creation\n\u2022 Up +127% in the last hour, ~$95,922 in 24h volume (2.9x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 75% of supply (very concentrated)\n\nCA: 7Vp8SuzskGGrdCccQPoCjXBbELpMzsU1gqjQxqTU3dDG\nhttps://dexscreener.com/solana/7Vp8SuzskGGrdCccQPoCjXBbELpMzsU1gqjQxqTU3dDG\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
+    },
+    {
+      "ts": 1790523917,
+      "type": "wallet",
+      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: GLDx -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/2mgnYZRcV9k9eH949BoYYmHHdFhs1QfeCyMEQyqdr6ew2ETgfiesrCAdvLos6457Jj9dBBgQdrbXoQiuXKEaSuKD"
+    },
+    {
+      "ts": 1790523916,
+      "type": "wallet",
+      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: SPCXx -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/5yrMG98LzW98beZpEdpcYHajYkn2Wn4mHwKsLGP5tvCgzCL9vZguNFhRLvCL9r45pdgDDTUkZmJDrwAmAkjiu9HY"
+    },
+    {
+      "ts": 1790523916,
+      "type": "wallet",
+      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: MSFTx -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/WyV1h8NegQqN9Q5mkuwt6CNEYmCWe5AbUJjA8DCETSY9y5WyPJSYJzr5gxAck8RmhWxuwbP8N3645bRZjZgXw4a"
+    },
+    {
+      "ts": 1790523915,
+      "type": "wallet",
+      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: MET -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/64BJMU5ppt7bVg61SUGA3RW9xdQ1cmPZd9dbtSCqktCPMVUWVFQowfc9hhsPSg7og75z2WdqvPrZUhYeaPqfpJz9"
+    },
+    {
+      "ts": 1790523915,
+      "type": "wallet",
+      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: DKNG -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/2417Vk1YdSfqeuiyTjV1zB9znpAFe4p2sEVV56Soj82bDR5CDayxhn5sZfDzFHNXDknuMEyqGR1hMyi3ekFsEsXD"
+    },
+    {
+      "ts": 1790523914,
+      "type": "wallet",
+      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: TTWO -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/48T35taB2BxRmPyU2Q6yPnmRSgXKchp7H4JSXkNzodVmGPYk5t9MwXbuAoRzxpmfWdTWbjgyrKE1Fc6D7m6CsUWJ"
+    },
+    {
+      "ts": 1790523914,
+      "type": "wallet",
+      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: AMZNx -> USDC\nTrade size: unknown\nBought token: USD Coin (USDC)\nCA: EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v\nhttps://solscan.io/tx/d74Yr4N8aRCYmrVLrm3Z1EwgXy2xX6ugxrQaVh181JHk8vLq9xhWJYFpQCQrnvRaoxGCh2bYSEN3ZstfJ7oAg2F"
+    },
     {
       "ts": 1790523118,
       "type": "outcome",
@@ -289,61 +344,6 @@
       "ts": 1790520345,
       "type": "outcome",
       "message": "\ud83d\udd34 pipedog (PIPEDOG) is dropping fast \u2014 down 100%, may be rugging."
-    },
-    {
-      "ts": 1790520344,
-      "type": "scanner",
-      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\nGoogle Gemini (Gemini AI)\nOpportunity: 76/100\n\nMOMENTUM     100\nSAFETY       60\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$69,467, 11 min since pool creation\n\u2022 Up +79% in the last hour, ~$71,745 in 24h volume (1.0x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 77% of supply (very concentrated)\n\nCA: 5S4wKdHGXqzTKubxdNFdw27Bhur7xHzewPTagQXQQ3jd\nhttps://dexscreener.com/solana/5S4wKdHGXqzTKubxdNFdw27Bhur7xHzewPTagQXQQ3jd\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
-    },
-    {
-      "ts": 1790519486,
-      "type": "outcome",
-      "message": "\ud83d\udd34 World of Warcraft (WOW) is dropping fast \u2014 down 100%, may be rugging."
-    },
-    {
-      "ts": 1790519485,
-      "type": "outcome",
-      "message": "\ud83d\udd34 lemon (lemon) is dropping fast \u2014 down 100%, may be rugging."
-    },
-    {
-      "ts": 1790519485,
-      "type": "outcome",
-      "message": "\ud83d\udd34 JACK (JACK) is dropping fast \u2014 down 100%, may be rugging."
-    },
-    {
-      "ts": 1790519484,
-      "type": "outcome",
-      "message": "\ud83d\udd34 Rainbow Fish (FISH) is dropping fast \u2014 down 100%, may be rugging."
-    },
-    {
-      "ts": 1790519483,
-      "type": "outcome",
-      "message": "\ud83d\udfe0 Repligate (REPLIGATE) is fading \u2014 down 52% so far."
-    },
-    {
-      "ts": 1790519482,
-      "type": "outcome",
-      "message": "\ud83d\udd34 bPay (bPay) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
-    },
-    {
-      "ts": 1790519480,
-      "type": "scanner",
-      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 STRONG\nNEARPADCAT (NEARCAT)\nOpportunity: 86/100\n\nMOMENTUM     100\nSAFETY       90\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$28,144, 11 min since pool creation\n\u2022 Up +108% in the last hour, ~$45,735 in 24h volume (1.6x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Low, 10/100):\n\u2022 top 10 holders own 44% of supply\n\nCA: 6Rhs8iuUiepGYpiP6ZEhNF9jRemVV8xYdD3hVuqtKTAR\nhttps://dexscreener.com/solana/6Rhs8iuUiepGYpiP6ZEhNF9jRemVV8xYdD3hVuqtKTAR\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
-    },
-    {
-      "ts": 1790519478,
-      "type": "scanner",
-      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\nCraft (CRAFT)\nOpportunity: 76/100\n\nMOMENTUM     100\nSAFETY       60\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$35,709, 8 min since pool creation\n\u2022 Up +237% in the last hour, ~$236,505 in 24h volume (6.6x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 92% of supply (very concentrated)\n\nCA: 2VbkwxPC29RRcYGjCYAD9FWsMtypBAPtAAnr2Wmafngs\nhttps://dexscreener.com/solana/2VbkwxPC29RRcYGjCYAD9FWsMtypBAPtAAnr2Wmafngs\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
-    },
-    {
-      "ts": 1790518770,
-      "type": "outcome",
-      "message": "\ud83d\udd34 Backpacknami-chan (NAMI) is dropping fast \u2014 down 100%, may be rugging."
-    },
-    {
-      "ts": 1790518769,
-      "type": "outcome",
-      "message": "\ud83d\udfe2 regulars (REGULARS) is still doing really good \u2014 up 133% so far!"
     }
   ]
 }
