@@ -1,89 +1,4 @@
 {
-  "BEHA1wDzBRamQ1FtoAS1YK8kMFpZibCFKXriPpdXHFaQ": {
-    "name": "xPad",
-    "symbol": "xPad",
-    "flagged_ts": 1789871790,
-    "liquidity_at_flag": 15935.119966666463,
-    "breakdown": {
-      "MOMENTUM": 100,
-      "SAFETY": 60,
-      "LIQUIDITY": 80,
-      "SMART MONEY": 0
-    },
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "A3dX2Pvzxkn2AwHdFHfikmWWpo8ip67wKhAsrn6pUuJt": {
-    "name": "Argus",
-    "symbol": "ARGUS",
-    "flagged_ts": 1789871792,
-    "liquidity_at_flag": 34384.71172400111,
-    "breakdown": {
-      "MOMENTUM": 100,
-      "SAFETY": 60,
-      "LIQUIDITY": 100,
-      "SMART MONEY": 0
-    },
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "o7DN9Lx4zAHaET1E6ptcmjnuKr8kQsbwmWrift6g2Qo": {
-    "name": "NVIDIA",
-    "symbol": "NVIDIA",
-    "flagged_ts": 1789871792,
-    "liquidity_at_flag": 56379.97432631909,
-    "breakdown": {
-      "MOMENTUM": 59,
-      "SAFETY": 100,
-      "LIQUIDITY": 100,
-      "SMART MONEY": 0
-    },
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "HEnK74uS5H3HzpkuSYuGNxuPGE7VGSEzDvxZXWGit9hs": {
-    "name": "WSOS",
-    "symbol": "WSOS",
-    "flagged_ts": 1789871794,
-    "liquidity_at_flag": 43696.34004574528,
-    "breakdown": {
-      "MOMENTUM": 100,
-      "SAFETY": 60,
-      "LIQUIDITY": 100,
-      "SMART MONEY": 0
-    },
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "37RVEGxL9RxNtKnxLCiiEQYjt7uJ8HTQ94uc7WocuGkM": {
-    "name": "heyaskr",
-    "symbol": "ASKR",
-    "flagged_ts": 1789871795,
-    "liquidity_at_flag": 39251.84581310724,
-    "breakdown": {
-      "MOMENTUM": 100,
-      "SAFETY": 100,
-      "LIQUIDITY": 100,
-      "SMART MONEY": 0
-    },
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
   "HrTHALcijdUuzGstBDDpiJAGBzp1HFkNxKPvn9RKio45": {
     "name": "LaunchOnSF",
     "symbol": "Stonk",
@@ -29541,7 +29456,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "GL5yhrARKMw4xTuVSkYe3nFG5RxTzp7Y3DeKANHgULDf": {
@@ -29557,7 +29473,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "GkCn2HLXdcfpmxZuLViQZn23DJC3Ufpnq2fWRUKnV8Gx": {
@@ -33140,7 +33057,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "AR655GVhZ3QY6BQSShHPEWYKfAujs82nav7kBBHhwpBV": {
@@ -33155,7 +33073,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "5zdzBi2qe4oxL7mTwiLGyrjdJdELUa6Zv5cxsZJisYy6": {
@@ -33170,7 +33089,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "EUFrMexps44JhquN6bECZXGJwS7NsnYpwxMXLV1Qgzqv": {
@@ -33185,7 +33105,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "AjXJKVFAvfm358NLnoUgRA1QzD2TKFBydVbuMdoKm7pt": {
@@ -33514,7 +33435,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "SLMy89moB9o2cfFCUY7k6kP5sSfS9vroN5hJsFjP1xv": {
     "name": "cake.xmr",
@@ -33527,7 +33450,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "9zriPbmELWGzEqEJH29qQY4TZ4xVMQLVLXV3RtSDpump": {
     "name": "XPay Day",
@@ -33680,6 +33605,58 @@
     "breakdown": {
       "MOMENTUM": 84,
       "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "AJaHwyub647xPacnAL8ysByhcf6Xc3HEywChsCBzpump": {
+    "name": "Cyber Paid",
+    "symbol": "CYBERPAID",
+    "flagged_ts": 1790476684,
+    "liquidity_at_flag": 32529.013163908756,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 100,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "6oH4Q3dbBxgmMu78d75LjyjeNfrM2Crpj7EfaEBhhPTB": {
+    "name": "Dogcz",
+    "symbol": "Dogcz",
+    "flagged_ts": 1790476686,
+    "liquidity_at_flag": 31006.262046450356,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "xPoq45GF7BoxVZausaY4jnJ1n1syQ8Buw7D3mvYpump": {
+    "name": "MrBeast Official Coin",
+    "symbol": "MrBeast",
+    "flagged_ts": 1790476687,
+    "liquidity_at_flag": 76833.32911629058,
+    "breakdown": {
+      "MOMENTUM": 85,
+      "SAFETY": 100,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "ESiCXV1NnNz1r3Uj1xQjD9VVdpcRCFmETBu2AWaLpump": {
+    "name": "cate.xmr",
+    "symbol": "CATE",
+    "flagged_ts": 1790476688,
+    "liquidity_at_flag": 46998.20972892683,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 100,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
