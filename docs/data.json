@@ -1,5 +1,5 @@
 {
-  "last_updated": 1790548378,
+  "last_updated": 1790549169,
   "wallets": [
     {
       "label": "Dev wallet 1",
@@ -69,7 +69,7 @@
         "Xsa62P5mvPszXL1krVUnU5ar38bBSVcWAB6fmPCo5Zu",
         "BPxxfRCXkUVhig4HS1Lh7kZqV6SPJhzfEk4x6fVBjPCy"
       ],
-      "last_active": 1790546695,
+      "last_active": 1790549166,
       "positions": {},
       "realized_pnl_usd": 0.0
     }
@@ -96,6 +96,16 @@
   "learning_insight": "Coins that rugged averaged SAFETY 70; coins that did well averaged SAFETY 97.",
   "settings": {},
   "recent_alerts": [
+    {
+      "ts": 1790549169,
+      "type": "outcome",
+      "message": "\ud83d\udfe1 meme + coin = (moin) is holding steady so far (-1%)."
+    },
+    {
+      "ts": 1790549167,
+      "type": "wallet",
+      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: CYPH -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/kKi74DqfhvBWtz9pCf1wXcHwQgTtC7oKhit9hNNouSmjdz1ZU25NAWv8y6PA3M6M6GedPUSVQNmD4i2kS4SGkip"
+    },
     {
       "ts": 1790548378,
       "type": "outcome",
@@ -335,16 +345,6 @@
       "ts": 1790545495,
       "type": "outcome",
       "message": "\ud83d\udd34 Split (SPLIT) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
-    },
-    {
-      "ts": 1790545494,
-      "type": "outcome",
-      "message": "\ud83d\udd34 PaidBot (PAIDBOT) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
-    },
-    {
-      "ts": 1790545493,
-      "type": "outcome",
-      "message": "\ud83d\udd34 Mine Accelerationism (mine/acc) turned out to be a rug \u2014 liquidity dropped 77% over 24h."
     }
   ]
 }
