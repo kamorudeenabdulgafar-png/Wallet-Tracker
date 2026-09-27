@@ -1,38 +1,4 @@
 {
-  "EqFG72Z35r8cAV8mKu3UK2L8NUTR1ZNyMr88E4BnwN8Q": {
-    "name": "Zebra",
-    "symbol": "ZEBRA",
-    "flagged_ts": 1789939794,
-    "liquidity_at_flag": 30368.095855086005,
-    "breakdown": {
-      "MOMENTUM": 100,
-      "SAFETY": 90,
-      "LIQUIDITY": 100,
-      "SMART MONEY": 0
-    },
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "BJ9mPPkCqnMisMiv7JQW7MJ2fgDyjm9udmwHZuJ2YcTf": {
-    "name": "Dogecoin",
-    "symbol": "DOGE",
-    "flagged_ts": 1789939795,
-    "liquidity_at_flag": 28193.551224017036,
-    "breakdown": {
-      "MOMENTUM": 100,
-      "SAFETY": 90,
-      "LIQUIDITY": 100,
-      "SMART MONEY": 0
-    },
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
   "FMEgrpXkJ9e4vUrLszibLn8iCxg4ynjBjKztCsE3pump": {
     "name": "Sushinu",
     "symbol": "SUSHINU",
@@ -28181,7 +28147,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "DPjmT9P5YXm5qvFbyBwGrdS9KXqgARVCtHpSrPgnjtM": {
@@ -28197,7 +28164,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "J3YKxkHpsj5MoxmBzHAHmbVK5U668QsFEamD5kdSpump": {
@@ -32116,7 +32084,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "3YctFnSKjqujVdMuNp22d9ZcCgyXxgbtcGmNSzg3WZgw": {
@@ -32131,7 +32100,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "B2kipu1WYBPBDQrCX5yv9p7dhjhG1FwwnxBjUDhSkbdG": {
@@ -32146,7 +32116,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "66Jcv8CmYzPAGZNdJEdUobrSrLgrdd1g351GMhPCpump": {
@@ -32595,7 +32566,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "3aX2LiRHxAZvyKD14s5cMSvzcNXVDbGPvE3A1qBvpump": {
     "name": "FOMOs",
@@ -32797,6 +32770,32 @@
     "symbol": "moin",
     "flagged_ts": 1790543112,
     "liquidity_at_flag": 27931.972038323504,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "2hwD3HEVmn3yZtiiJtiwCtDtpp3BrrCXnaSh2pxrU7SR": {
+    "name": "Vampify Pad",
+    "symbol": "Vampify",
+    "flagged_ts": 1790544698,
+    "liquidity_at_flag": 21637.720468410087,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 75,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "HekqQkCZgHp1ypv1BrEY45Viy1LEpWGGoTupgMdJQSrz": {
+    "name": "MS70 Coin",
+    "symbol": "MS70",
+    "flagged_ts": 1790544699,
+    "liquidity_at_flag": 32574.606900264465,
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 60,
