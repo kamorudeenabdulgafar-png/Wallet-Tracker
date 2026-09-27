@@ -1,21 +1,4 @@
 {
-  "2gTvNqq5wJeMY3KqWzPnRbeVZdfGE5UiGgjP1KCPThbg": {
-    "name": "BUNNY",
-    "symbol": "\ud83d\udcb2BUNNY",
-    "flagged_ts": 1789897968,
-    "liquidity_at_flag": 46861.859216937155,
-    "breakdown": {
-      "MOMENTUM": 97,
-      "SAFETY": 60,
-      "LIQUIDITY": 100,
-      "SMART MONEY": 0
-    },
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
   "yPrR8M5uqjypzeSDEkYUwa329uJbhrpcgPqDo7UH7nu": {
     "name": "$MSA",
     "symbol": "$MSA",
@@ -29456,7 +29439,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "7tgAfwawjdpqguKNc2wUNFgHQG5yG7Z5y1NQSpQoKT3h": {
@@ -33463,7 +33447,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "DtvoAMXHTegX9bHvYhPDwFfVzKC4WxRCXRvtYTTJSCKD": {
     "name": "UNICEF",
@@ -33681,6 +33667,19 @@
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "GQBMFdvwSiptmoGCp571beoz2fxjjEQbsBUkFZnDHdCJ": {
+    "name": "GIWA",
+    "symbol": "GIWA",
+    "flagged_ts": 1790502938,
+    "liquidity_at_flag": 28748.48936300203,
+    "breakdown": {
+      "MOMENTUM": 49,
+      "SAFETY": 100,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
