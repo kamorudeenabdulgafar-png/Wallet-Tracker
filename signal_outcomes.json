@@ -1,89 +1,4 @@
 {
-  "28s629AYevCB8T1GyaaHqGj28pX1PT9C5mmFf5nDNHn4": {
-    "name": "Kimbal Coin",
-    "symbol": "Kimbal",
-    "flagged_ts": 1789915962,
-    "liquidity_at_flag": 29624.9803381184,
-    "breakdown": {
-      "MOMENTUM": 100,
-      "SAFETY": 60,
-      "LIQUIDITY": 100,
-      "SMART MONEY": 0
-    },
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "ARWSiZ8SLYMjJVxVtmTvHci87GUw149gQ9TgDgKNTNd2": {
-    "name": "BoroToken",
-    "symbol": "BORO",
-    "flagged_ts": 1789915963,
-    "liquidity_at_flag": 41886.570663833205,
-    "breakdown": {
-      "MOMENTUM": 86,
-      "SAFETY": 60,
-      "LIQUIDITY": 100,
-      "SMART MONEY": 0
-    },
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "Cy9Je1QAQZUiXMH4cJ3GY32QLamCv3cSwFfHRd6cH4r7": {
-    "name": "JEAN INU",
-    "symbol": "JINU",
-    "flagged_ts": 1789915964,
-    "liquidity_at_flag": 39115.20858813445,
-    "breakdown": {
-      "MOMENTUM": 100,
-      "SAFETY": 60,
-      "LIQUIDITY": 100,
-      "SMART MONEY": 0
-    },
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "3xUdK3H1Uh4T6cBEyAQGMkEPgcoqfB5fTChNRPzXR97S": {
-    "name": "Baby Jean Phil",
-    "symbol": "BABYPHIL",
-    "flagged_ts": 1789915965,
-    "liquidity_at_flag": 46590.433313499954,
-    "breakdown": {
-      "MOMENTUM": 100,
-      "SAFETY": 60,
-      "LIQUIDITY": 100,
-      "SMART MONEY": 0
-    },
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "974HWs7SERGFFuyHmmdANqA8g5SAAMj2HHzvBiz3wN2D": {
-    "name": "Nasduck",
-    "symbol": "Nasduck",
-    "flagged_ts": 1789915966,
-    "liquidity_at_flag": 28999.769292756064,
-    "breakdown": {
-      "MOMENTUM": 86,
-      "SAFETY": 60,
-      "LIQUIDITY": 100,
-      "SMART MONEY": 0
-    },
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
   "FFczgQUsGQYoPgKDXiJzExVZ3wvxjP8bZg5CFJo4SPF3": {
     "name": "Truman World",
     "symbol": "TRUMAN",
@@ -28912,7 +28827,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "127AcbXjeLujzbu6Ms8NftPvEDAMp154TTyBsi6Apump": {
@@ -32735,7 +32651,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "HNazMWySREpLBoyEdsXPPzvvc4eZ6avQDwqBko3vpump": {
@@ -32750,7 +32667,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "GMuUrwFmpyEHEzS2zthWAz2mce2sQg6aj9Lhdk5sEXD9": {
@@ -32765,7 +32683,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "7ZDdhNBvt1nU59nRGQSUaYVhcP7KaPJLkmesMyLFMRHC": {
@@ -33199,7 +33118,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "65HzV1edSXxZcUdr3entxpW6NBKnrW8yeZPWTPZ2rHL4": {
     "name": "NEARCAT",
@@ -33212,7 +33133,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "39N6nzt3m1wcAGnSPXbmFadhbsLNrxbNqmZWNRTkEshm": {
     "name": "NEARCAT",
@@ -33225,7 +33148,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "39JRjoQBnxzMqGmieYf3Y22Hk58pUiTijmfyqt4Cpump": {
     "name": "Thesis Arena",
@@ -33325,6 +33250,19 @@
     "liquidity_at_flag": 69466.66797244457,
     "breakdown": {
       "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "2CxcPQ8Bitk22c8LYRaoCTtoBPhmSxydkPEnYrc2KE8V": {
+    "name": "Family",
+    "symbol": "Solana",
+    "flagged_ts": 1790520849,
+    "liquidity_at_flag": 31264.078741051908,
+    "breakdown": {
+      "MOMENTUM": 86,
       "SAFETY": 60,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
