@@ -29303,7 +29303,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "3pWTbsCHK8EhirsAogLWCQvV28C47MKCbaKK9DfTx7b3": {
@@ -29319,7 +29320,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "D6n6a4MvqDi8B2Sc7GAw1CHXPMpNLu7Wnv2antGjpump": {
@@ -32630,7 +32632,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "BNRLtBw6kDUeEsB6LNV6mKSuDj4ajhAsW2C6q5vLjbMb": {
@@ -32645,7 +32648,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "FMyTSmbmS3M5Yp7JpMMf13QcvV2Yc13wRXDkWWbX4Mfj": {
@@ -33304,7 +33308,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "fcnivbt5rzhTXzRj5F61X3zTeH3jnizLg2dqeH1fkLU": {
     "name": "FomoRelay",
@@ -33532,6 +33538,58 @@
     "symbol": "FOMOPAY",
     "flagged_ts": 1790506440,
     "liquidity_at_flag": 33347.16543373668,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "7ZDdhNBvt1nU59nRGQSUaYVhcP7KaPJLkmesMyLFMRHC": {
+    "name": "NUCLEAR EXPLOSLON",
+    "symbol": "EXPLOSLON",
+    "flagged_ts": 1790507124,
+    "liquidity_at_flag": 32961.11895393871,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "8jtH1VnCJWJLnWrmZ3WxNoFgFiACo54mbE9EQgZynhe7": {
+    "name": "FOMOPAY",
+    "symbol": "FOMOPAY",
+    "flagged_ts": 1790507125,
+    "liquidity_at_flag": 67138.87623818946,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "ESytTSzJC1APyUb6k7jxj1jmtZ9Jazk4179QJVndRHBu": {
+    "name": "Paid",
+    "symbol": "PAID",
+    "flagged_ts": 1790507126,
+    "liquidity_at_flag": 52894.68210256919,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "2cbzNvxnW3QTPodsW64cRNKm74ZYZWWgGndPfEW8Z8Qo": {
+    "name": "FomoRelay",
+    "symbol": "RELAY",
+    "flagged_ts": 1790507127,
+    "liquidity_at_flag": 33372.67416556874,
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 60,
