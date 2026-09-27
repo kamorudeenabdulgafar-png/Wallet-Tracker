@@ -1,38 +1,4 @@
 {
-  "8gAATJzrFFZX2HB3DoyhfGfHvVdF2XsfvwHbCa5hVgZA": {
-    "name": "Glimpse",
-    "symbol": "GIVE",
-    "flagged_ts": 1789936242,
-    "liquidity_at_flag": 29678.39333947385,
-    "breakdown": {
-      "MOMENTUM": 100,
-      "SAFETY": 60,
-      "LIQUIDITY": 100,
-      "SMART MONEY": 0
-    },
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "J7DonnMYQJcr91BKKajB6DFm1kFNGpGs7Rqwr4L3iA6Y": {
-    "name": "FluxCard",
-    "symbol": "FLUX",
-    "flagged_ts": 1789936243,
-    "liquidity_at_flag": 35095.188065224465,
-    "breakdown": {
-      "MOMENTUM": 100,
-      "SAFETY": 60,
-      "LIQUIDITY": 100,
-      "SMART MONEY": 0
-    },
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
   "FSJfPYF6VjuDuUxMFdUrCEkVr96bhC5oXKhv4o6JJxiK": {
     "name": "The Mentor",
     "symbol": "Mentor",
@@ -32184,7 +32150,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "2zjUHKAUmqk6faTARZWyaGNcjycJcTDues6gNR6yA63c": {
@@ -32588,7 +32555,9 @@
       "LIQUIDITY": 41,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "DPSd2TnEbCb7QQFpuVyQoHXks31LRpjqBEdWGpZhEuB": {
     "name": "Earn",
@@ -32601,7 +32570,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "BktmcCNmK6fxbFhA5HwtpDAtEZ3cfpr5zaoFMgWziUVG": {
     "name": "Earn",
@@ -32614,7 +32585,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "ChyCbmYAtbkzJbttDVrUJNDVXD1oxy5BrY18fkMq5wH5": {
     "name": "Earn",
@@ -32627,7 +32600,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "5rgeNi9wXSRyfj88Nx1Bu9dMvPyKsUtDLRRiAERVwZhH": {
     "name": "Earn",
@@ -32753,6 +32728,32 @@
     "liquidity_at_flag": 47851.062108614205,
     "breakdown": {
       "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "3aX2LiRHxAZvyKD14s5cMSvzcNXVDbGPvE3A1qBvpump": {
+    "name": "FOMOs",
+    "symbol": "FOMOs",
+    "flagged_ts": 1790541128,
+    "liquidity_at_flag": 30957.166192412267,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 100,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "A8gpnSqS3JAGvcdDNZNa7HCYSAFJTm9gKMHSEzDAvc1S": {
+    "name": "VaultStrategy",
+    "symbol": "VAULT",
+    "flagged_ts": 1790541129,
+    "liquidity_at_flag": 31841.79279744559,
+    "breakdown": {
+      "MOMENTUM": 83,
       "SAFETY": 60,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
