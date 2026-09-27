@@ -28844,7 +28844,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "86mk4yqoLsazu7SZ91RDbqc5bvfnzUKzhPs3xscvCEME": {
@@ -28860,7 +28861,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "eEGktGMDRroy52GyvBRcGofSMU7xSMdLN5hsKWh16ip": {
@@ -28876,7 +28878,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "B3cxY1RUzmrMtTuzQS8VcQSJ1pJED5LnDQEAYF1ezwxN": {
@@ -33163,7 +33166,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "HrTiQK94EdzxdPiz817nyx58kgP1kbpVkqWAwow148U9": {
     "name": "NEARCAT",
@@ -33176,7 +33181,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "CVAbrHuAjQhwrmbcZbh8hvmF662zQ4aG2DJ41rnTGtTF": {
     "name": "nearpad.tech",
@@ -33189,7 +33196,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "GB7E5RJcyAQga7XfLLZx2pWhDYNsdswT2jk7TicDtPZK": {
     "name": "IRL Crypto Drainer",
@@ -33202,7 +33211,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "FhPV2pShtgJB5xJRmhNvjdwAHHT4nERJk6Sge46y52zY": {
     "name": "Lucky Fish",
@@ -33263,6 +33274,32 @@
     "liquidity_at_flag": 31264.078741051908,
     "breakdown": {
       "MOMENTUM": 86,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "vsDTcShuQD45Fm5nM5UoLFhmaHAaBa3hQYk3NQopump": {
+    "name": "Pump Accelerationism",
+    "symbol": "pumpacc",
+    "flagged_ts": 1790521505,
+    "liquidity_at_flag": 26938.288813377974,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 100,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "BgfNvyy15RrTMeEyVTsUBtGxAaDAtbEd87HqVtzJGfem": {
+    "name": "Doppler",
+    "symbol": "XDP",
+    "flagged_ts": 1790521506,
+    "liquidity_at_flag": 44932.870107497874,
+    "breakdown": {
+      "MOMENTUM": 100,
       "SAFETY": 60,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
