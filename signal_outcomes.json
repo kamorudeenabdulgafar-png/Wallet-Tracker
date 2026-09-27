@@ -1,21 +1,4 @@
 {
-  "DZvMz2nKPTGrSkfyfif8pL6NB7WCMJEqZQUMn2xbumVK": {
-    "name": "BUNNY",
-    "symbol": "\ud83d\udcb2BUNNY",
-    "flagged_ts": 1789923197,
-    "liquidity_at_flag": 47719.45724128245,
-    "breakdown": {
-      "MOMENTUM": 96,
-      "SAFETY": 60,
-      "LIQUIDITY": 100,
-      "SMART MONEY": 0
-    },
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
   "GGovhNXuqsqMc2YyXsqTTtbt237NxJ2ekYck9DRKzx4": {
     "name": "Factory new",
     "symbol": "FN",
@@ -28436,7 +28419,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "Aik5FhSAPEPq1mYvFfx7K7LMLhFURVEgXDA2z762RFZM": {
@@ -28452,7 +28436,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "FwbaVRREkM3WSLB84n1qTvHnHqxaBcNCYjn6UpdRqa5S": {
@@ -32873,7 +32858,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "E6Ck2qyZ1thKwaL2H1i1soQu4S4df7PaYG1fhF4BrRYt": {
     "name": "\u3053\u3086\u304d",
@@ -32886,7 +32873,9 @@
       "LIQUIDITY": 71,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "92y9FrtPTaKTNRm1AVvdG6KpKsKJvumYTGyKrAMmDMXh": {
     "name": "Cure Cancer",
@@ -32973,6 +32962,45 @@
     "liquidity_at_flag": 29445.00551104855,
     "breakdown": {
       "MOMENTUM": 82,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "Fpp4gY88dxaxMkiVF43fxotPY5P1iRW43WyLQdarjUQx": {
+    "name": "Cure Cancer",
+    "symbol": "CURECANCER",
+    "flagged_ts": 1790528195,
+    "liquidity_at_flag": 43031.532869966584,
+    "breakdown": {
+      "MOMENTUM": 93,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "J2H7QoBkptUAx2HkixwXVYz6GF7GKirC3Leyqg5CQ7nL": {
+    "name": "GROK WORLD",
+    "symbol": "G/WORLD",
+    "flagged_ts": 1790528195,
+    "liquidity_at_flag": 31786.864773176334,
+    "breakdown": {
+      "MOMENTUM": 87,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "ALDuLxn2bYgKT7k2iyxo4JHGJuKgTgWp5Crbig1ku8SD": {
+    "name": "Bearn",
+    "symbol": "BEARN",
+    "flagged_ts": 1790528196,
+    "liquidity_at_flag": 55781.93624248203,
+    "breakdown": {
+      "MOMENTUM": 100,
       "SAFETY": 60,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
