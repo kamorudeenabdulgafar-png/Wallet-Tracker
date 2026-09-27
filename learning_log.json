@@ -1,18 +1,5 @@
 [
   {
-    "name": "Swarmed",
-    "symbol": "SWARM",
-    "category": "rug",
-    "change_pct": -100.0,
-    "breakdown": {
-      "MOMENTUM": 100,
-      "SAFETY": 60,
-      "LIQUIDITY": 100,
-      "SMART MONEY": 0
-    },
-    "ts": 1790415371
-  },
-  {
     "name": "unpeg",
     "symbol": "UNPEG",
     "category": "rug",
@@ -3898,5 +3885,18 @@
       "SMART MONEY": 0
     },
     "ts": 1790511950
+  },
+  {
+    "name": "DEBT COIN",
+    "symbol": "DEBT",
+    "category": "rug",
+    "change_pct": -100.0,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "ts": 1790512879
   }
 ]

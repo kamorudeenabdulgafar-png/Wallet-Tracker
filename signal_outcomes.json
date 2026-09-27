@@ -1,38 +1,4 @@
 {
-  "Cw28K9uycxGiXgC17k1jV8gGDo4nw1fH8MSWz1jm85qc": {
-    "name": "New Olympus",
-    "symbol": "Olympus",
-    "flagged_ts": 1789907971,
-    "liquidity_at_flag": 145087.5990269918,
-    "breakdown": {
-      "MOMENTUM": 100,
-      "SAFETY": 60,
-      "LIQUIDITY": 100,
-      "SMART MONEY": 0
-    },
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "HkxuXsp5fwteMiQ2YMvqSLCQEEzg6Hp1HjTZJkKdDKgo": {
-    "name": "Nasduck",
-    "symbol": "Nasduck",
-    "flagged_ts": 1789907972,
-    "liquidity_at_flag": 32506.67774182705,
-    "breakdown": {
-      "MOMENTUM": 96,
-      "SAFETY": 60,
-      "LIQUIDITY": 100,
-      "SMART MONEY": 0
-    },
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
   "CLHcTwBfcMim4pZwaMmdfKFvTaGb6LqBLoq3V7nkRyoq": {
     "name": "\u0424\u043e\u043a\u0441\u0438",
     "symbol": "Foxi",
@@ -29167,7 +29133,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "7haJedyf6kQbiDNqzg31pyKQULm1qdeKAYd5VfAhpump": {
@@ -32510,7 +32477,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "CGEysBUCPYD7Z5BriBzooMjyYZFTALXcFRa3uLbPC1jz": {
@@ -32525,7 +32493,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "Fe48MKzhgfTSH9X4UTKTiQmMtbXzqW3DaCqp1oT8UDLJ": {
@@ -32540,7 +32509,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "zym54dmrJzwHUXWqusDrkT2t7gQgc2aitjkMFZL4dSB": {
@@ -32555,7 +32525,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "2pqHkaTQw6C1C7DdxDH7FJ8H7azdsEpPg5dBbKqFscWq": {
@@ -32570,7 +32541,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "AuHt7PrmWVS9hsgpy967rKXWiMvc8ZFMKvRgm5W5BMRp": {
@@ -33244,7 +33216,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "5sua9FQCzaUc5ufR18HtypHkLV8CbVXBR1dqfvC8z1HX": {
     "name": "\u73a9\u5e01\u5f52\u8d75",
@@ -33257,7 +33231,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "Ga58fdqxdnHpWwRQCjf6qR4ooH4xBd5vZ1xuQHPAEQf1": {
     "name": "2026\u56fd\u5e86",
@@ -33270,7 +33246,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "BJp2yEbtkc8BDXTS6nMwgy7FSS2U4oJdc5Jb23Hypump": {
     "name": "Effective Dash",
@@ -33410,6 +33388,32 @@
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "4Y4BEmSidMBvoCVc3N1jt5Y8uAhthMRbD6vnavjJsvw3": {
+    "name": "Freedom of Coin",
+    "symbol": "\u8d27\u5e01\u81ea\u7531",
+    "flagged_ts": 1790512877,
+    "liquidity_at_flag": 15031.60539251907,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 75,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "5duVhiiafSvUrJ7GLMBKwyxwgy4CrVTvKt6C4jo7pump": {
+    "name": "Effective Aura",
+    "symbol": "e/aura",
+    "flagged_ts": 1790512878,
+    "liquidity_at_flag": 29181.195042181236,
+    "breakdown": {
+      "MOMENTUM": 96,
+      "SAFETY": 100,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
