@@ -1,5 +1,5 @@
 {
-  "last_updated": 1790486573,
+  "last_updated": 1790487394,
   "wallets": [
     {
       "label": "Dev wallet 1",
@@ -68,7 +68,7 @@
         "cbbtcf3aa214zXHbiAZQwf4122FBYbraNdFqgw4iMij",
         "Xsa62P5mvPszXL1krVUnU5ar38bBSVcWAB6fmPCo5Zu"
       ],
-      "last_active": 1790485792,
+      "last_active": 1790487384,
       "positions": {},
       "realized_pnl_usd": 0.0
     }
@@ -87,14 +87,64 @@
     "count": 2835,
     "up_count": 613,
     "total_change_pct": -155586.29928175083,
-    "rug": 1949,
+    "rug": 1951,
     "doing_well": 23,
     "steady": 9,
     "fading": 30
   },
-  "learning_insight": "Coins that rugged averaged SAFETY 69; coins that did well averaged SAFETY 90.",
+  "learning_insight": "Coins that rugged averaged SAFETY 68; coins that did well averaged SAFETY 90.",
   "settings": {},
   "recent_alerts": [
+    {
+      "ts": 1790487394,
+      "type": "outcome",
+      "message": "\ud83d\udd34 cake.xmr (CAKE) is dropping fast \u2014 down 100%, may be rugging."
+    },
+    {
+      "ts": 1790487393,
+      "type": "outcome",
+      "message": "\ud83d\udd34 Seven (7) is dropping fast \u2014 down 100%, may be rugging."
+    },
+    {
+      "ts": 1790487392,
+      "type": "outcome",
+      "message": "\ud83d\udd34 Bear (\ud83d\udc3bBear) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
+    },
+    {
+      "ts": 1790487391,
+      "type": "outcome",
+      "message": "\ud83d\udd34 p(doom) (p(doom)) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
+    },
+    {
+      "ts": 1790487390,
+      "type": "scanner",
+      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 EXCEPTIONAL\napeonfone (fone)\nOpportunity: 90/100\n\nMOMENTUM     100\nSAFETY       100\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$41,088, 21 min since pool creation\n\u2022 Up +85% in the last hour, ~$41,718 in 24h volume (1.0x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Low, 0/100):\n\u2022 No major red flags found\n\nCA: 5mXDY8AaKyj2F7R7oJYTNTqYmXBuk7HXBuVoEoVZmmVM\nhttps://dexscreener.com/solana/5mXDY8AaKyj2F7R7oJYTNTqYmXBuk7HXBuVoEoVZmmVM\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
+    },
+    {
+      "ts": 1790487389,
+      "type": "scanner",
+      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 STRONG\nSeed (SEED)\nOpportunity: 86/100\n\nMOMENTUM     100\nSAFETY       90\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$24,984, 18 min since pool creation\n\u2022 Up +82% in the last hour, ~$194,074 in 24h volume (7.8x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Low, 10/100):\n\u2022 top 10 holders own 38% of supply\n\nCA: 3fh64nSgzyWydisgVz7RdrYnSpRrjf9W3Ytbyx5Cpump\nhttps://dexscreener.com/solana/3fh64nSgzyWydisgVz7RdrYnSpRrjf9W3Ytbyx5Cpump\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
+    },
+    {
+      "ts": 1790487387,
+      "type": "scanner",
+      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 EXCEPTIONAL\nMonster Paid (MPAID)\nOpportunity: 90/100\n\nMOMENTUM     100\nSAFETY       100\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$31,632, 9 min since pool creation\n\u2022 Up +175% in the last hour, ~$490,956 in 24h volume (15.5x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Low, 0/100):\n\u2022 No major red flags found\n\nCA: Ab6CVmhqD3x1bvMZBnjJBJqeTLMm7tAapcZwSU6apump\nhttps://dexscreener.com/solana/Ab6CVmhqD3x1bvMZBnjJBJqeTLMm7tAapcZwSU6apump\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
+    },
+    {
+      "ts": 1790487386,
+      "type": "scanner",
+      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\nSeed (SEED)\nOpportunity: 76/100\n\nMOMENTUM     100\nSAFETY       60\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$31,730, 7 min since pool creation\n\u2022 Up +177% in the last hour, ~$117,531 in 24h volume (3.7x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 93% of supply (very concentrated)\n\nCA: 6ceuyU2WYZTgccyzGYdBWobHY12QMpYRGNiTkKczGtEV\nhttps://dexscreener.com/solana/6ceuyU2WYZTgccyzGYdBWobHY12QMpYRGNiTkKczGtEV\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
+    },
+    {
+      "ts": 1790487384,
+      "type": "wallet",
+      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: USDT -> USDC\nTrade size: unknown\nBought token: USD Coin (USDC)\nCA: EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v\nhttps://solscan.io/tx/2EcwQr26x293gKwJM78oneMtpk7dGzb9onykFbfuGouNHd1GC4adEVvEsn32u1LeiM2VtSFzjYvwLVQUstqba6FY"
+    },
+    {
+      "ts": 1790487384,
+      "type": "wallet",
+      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: AVAX -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/4GExjpiohWPEHNLYLDBbRd88pM7fNoSL24eB9wJZ3cr4TnSMoJtcDTMcUndC3HUrW5Rxe69C5Q5opCBc518cJfR2"
+    },
     {
       "ts": 1790486573,
       "type": "outcome",
@@ -294,56 +344,6 @@
       "ts": 1790485086,
       "type": "outcome",
       "message": "\ud83d\udd34 Trump AI (Trump AI) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
-    },
-    {
-      "ts": 1790485085,
-      "type": "outcome",
-      "message": "\ud83d\udd34 dropping dollars on strangers (DDOS) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
-    },
-    {
-      "ts": 1790485084,
-      "type": "outcome",
-      "message": "\ud83d\udd34 dropping dollars on strangers (DDOS) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
-    },
-    {
-      "ts": 1790485083,
-      "type": "scanner",
-      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\nBARRON TRUMP (BARRON)\nOpportunity: 76/100\n\nMOMENTUM     61\nSAFETY       100\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$86,971, 21 min since pool creation\n\u2022 Up +41% in the last hour, ~$81,332 in 24h volume (0.9x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Low, 0/100):\n\u2022 No major red flags found\n\nCA: BhdN7LGqJyExj2xdvPE9spVBw4b6k75FHFQTTJopump\nhttps://dexscreener.com/solana/BhdN7LGqJyExj2xdvPE9spVBw4b6k75FHFQTTJopump\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
-    },
-    {
-      "ts": 1790485082,
-      "type": "scanner",
-      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\n\u5218\u6b22 (\u5218\u6b22)\nOpportunity: 76/100\n\nMOMENTUM     100\nSAFETY       60\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$32,905, 17 min since pool creation\n\u2022 Up +86% in the last hour, ~$63,592 in 24h volume (1.9x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 92% of supply (very concentrated)\n\nCA: 3DNhaoLDvE6gC81BjPa1pDXT2VghX8yo5nHTVfNFfq8N\nhttps://dexscreener.com/solana/3DNhaoLDvE6gC81BjPa1pDXT2VghX8yo5nHTVfNFfq8N\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
-    },
-    {
-      "ts": 1790485081,
-      "type": "scanner",
-      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\nPaid (PAID)\nOpportunity: 71/100\n\nMOMENTUM     85\nSAFETY       60\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$68,276, 15 min since pool creation\n\u2022 Up +56% in the last hour, ~$4,102,571 in 24h volume (60.1x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 96% of supply (very concentrated)\n\nCA: 8KxCoCnWVriTiKH1yxEm2Js1nY1VSvg5cqWX2seFuaKt\nhttps://dexscreener.com/solana/8KxCoCnWVriTiKH1yxEm2Js1nY1VSvg5cqWX2seFuaKt\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
-    },
-    {
-      "ts": 1790485080,
-      "type": "scanner",
-      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\nBARRON TRUMP (BARRON)\nOpportunity: 70/100\n\nMOMENTUM     42\nSAFETY       100\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$69,006, 9 min since pool creation\n\u2022 Up +28% in the last hour, ~$235,841 in 24h volume (3.4x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Low, 0/100):\n\u2022 No major red flags found\n\nCA: WD1emTXbqCzqrgDnQpHWs7mcpLxfSkwprGF5cdqpump\nhttps://dexscreener.com/solana/WD1emTXbqCzqrgDnQpHWs7mcpLxfSkwprGF5cdqpump\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
-    },
-    {
-      "ts": 1790485079,
-      "type": "scanner",
-      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 EXCEPTIONAL\nwowcoin (WOW)\nOpportunity: 90/100\n\nMOMENTUM     100\nSAFETY       100\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$28,325, 9 min since pool creation\n\u2022 Up +111% in the last hour, ~$68,323 in 24h volume (2.4x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Low, 0/100):\n\u2022 No major red flags found\n\nCA: GmBgaMaafiwmVeNo3m5YMDqkBidnxmdFLJ8VTA6xYwow\nhttps://dexscreener.com/solana/GmBgaMaafiwmVeNo3m5YMDqkBidnxmdFLJ8VTA6xYwow\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
-    },
-    {
-      "ts": 1790485078,
-      "type": "scanner",
-      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\nsmurf jizz (jizz)\nOpportunity: 76/100\n\nMOMENTUM     100\nSAFETY       60\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$42,008, 7 min since pool creation\n\u2022 Up +218% in the last hour, ~$71,584 in 24h volume (1.7x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 94% of supply (very concentrated)\n\nCA: FKCmcd8kVYy3L9P8bYWRXog97ne9cgUGPDZjnPYNWnUH\nhttps://dexscreener.com/solana/FKCmcd8kVYy3L9P8bYWRXog97ne9cgUGPDZjnPYNWnUH\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
-    },
-    {
-      "ts": 1790485076,
-      "type": "wallet",
-      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: SPCXx -> SPCX\nTrade size: unknown\nBought token: SpaceX - Backpack Securities (SPCX)\nCA: SPCXxcqXj6e5dJDVNovHN8744zkbhM2bYudU45BimGb\nhttps://solscan.io/tx/24eTpCEKoaXyva7WUmKCoCKzUsGAYEFfq6mnSkCpt7cvrnhzAdGRkFdjt4MQ7Y9JGY8w2UKUVxKqZBFMgPq7JCBh"
-    },
-    {
-      "ts": 1790484608,
-      "type": "outcome",
-      "message": "\ud83d\udd34 GOONACC (GOONACC) is dropping fast \u2014 down 91%, may be rugging."
     }
   ]
 }
