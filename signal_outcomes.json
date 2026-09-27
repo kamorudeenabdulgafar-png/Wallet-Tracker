@@ -32228,7 +32228,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "2CxcPQ8Bitk22c8LYRaoCTtoBPhmSxydkPEnYrc2KE8V": {
@@ -32678,6 +32679,45 @@
     "liquidity_at_flag": 42862.67415230608,
     "breakdown": {
       "MOMENTUM": 86,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "ATf22Poj61L5Gaa6NXY6TXyHu8xQb8CxbfN7V3hDCQTq": {
+    "name": "Cat Takeover",
+    "symbol": "CTO",
+    "flagged_ts": 1790535116,
+    "liquidity_at_flag": 13911.651032926124,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 70,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "D1Xc8XrMmCaqfsHR9Mtq7iChKirQwDdbpZeoLHwHy8fb": {
+    "name": "FX\u6218\u58eb\u4e45\u7559\u7f8e",
+    "symbol": "\u4e45\u7559\u7f8e",
+    "flagged_ts": 1790535117,
+    "liquidity_at_flag": 20487.38142654855,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "4JQiFX1RWtJ7RfPHuhU29owJYkEcVGtmfJpCdx1utMwD": {
+    "name": "Kurumi",
+    "symbol": "\u4e45\u7559\u7f8e",
+    "flagged_ts": 1790535118,
+    "liquidity_at_flag": 37272.63747384095,
+    "breakdown": {
+      "MOMENTUM": 100,
       "SAFETY": 60,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
