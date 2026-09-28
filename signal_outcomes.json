@@ -1,38 +1,4 @@
 {
-  "Bpvgugg2Z7cwpvS2tgDiibvGw9U16RKAeuG7ev7QBVfe": {
-    "name": "Tipped",
-    "symbol": "Tipped",
-    "flagged_ts": 1790019096,
-    "liquidity_at_flag": 30339.72856961506,
-    "breakdown": {
-      "MOMENTUM": 100,
-      "SAFETY": 60,
-      "LIQUIDITY": 100,
-      "SMART MONEY": 0
-    },
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "23xGDFRGPb3vFHk9KxsXnVv8ZNDQc6AEzBsF63ykKL9c": {
-    "name": "Noul",
-    "symbol": "Noul",
-    "flagged_ts": 1790019097,
-    "liquidity_at_flag": 23054.941183494346,
-    "breakdown": {
-      "MOMENTUM": 95,
-      "SAFETY": 90,
-      "LIQUIDITY": 100,
-      "SMART MONEY": 0
-    },
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
   "9aw2tc2FdaCXzzzefYRDWek9cDP4YF2wYvx2Lhdfpump": {
     "name": "Collector Crypt",
     "symbol": "CARDS",
@@ -28691,7 +28657,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "DPSd2TnEbCb7QQFpuVyQoHXks31LRpjqBEdWGpZhEuB": {
@@ -28707,7 +28674,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "BktmcCNmK6fxbFhA5HwtpDAtEZ3cfpr5zaoFMgWziUVG": {
@@ -28723,7 +28691,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "ChyCbmYAtbkzJbttDVrUJNDVXD1oxy5BrY18fkMq5wH5": {
@@ -28739,7 +28708,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "5rgeNi9wXSRyfj88Nx1Bu9dMvPyKsUtDLRRiAERVwZhH": {
@@ -31570,7 +31540,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "NtLaGZ2s23obWyKornRUsr4CqkgVEZwMaxxNrm8pump": {
@@ -31585,7 +31556,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "4aMrifJyiQs9dZc2iRDWNEftyUMKy6igbtnCBYb1pump": {
@@ -31854,7 +31826,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "B7HbqBEFJaxWYKUPoMvcTQraxZf9prpr1qJQFr47NVUi": {
     "name": "Brain.site",
@@ -31867,7 +31841,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "7mP77b3RoMo69FJAh8xARRynAttK4DKzBKst2tqy2tiZ": {
     "name": "PERSONA",
@@ -31880,7 +31856,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "3i5xUxZm4gYN8gZMSZd3xhMxVS3vdGn33ETjK3g9ADhY": {
     "name": "Joe",
@@ -31903,6 +31881,58 @@
     "breakdown": {
       "MOMENTUM": 62,
       "SAFETY": 100,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "4mbsEeCZxu1sjwWZW5jJRSGoNsVBSy3DTENEaguxpump": {
+    "name": "ALL IN",
+    "symbol": "AI",
+    "flagged_ts": 1790624340,
+    "liquidity_at_flag": 15572.094017326617,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 78,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "HSQLvhTRRM3o2RonP9my43T3PPU9SayqKkLRkNqX4Y4p": {
+    "name": "The UFO",
+    "symbol": "UFO",
+    "flagged_ts": 1790624342,
+    "liquidity_at_flag": 30979.778307365592,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "4MSTRMpFXPa8bpiKJy8mpwgzNQr3KMsSdurubqUrZzVE": {
+    "name": "Froink",
+    "symbol": "FROINK",
+    "flagged_ts": 1790624343,
+    "liquidity_at_flag": 35354.94172111546,
+    "breakdown": {
+      "MOMENTUM": 75,
+      "SAFETY": 75,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "F6XR3a5ShPYURUVGjueadwoSp4QQSmi3J2Q6Fhzsxrg4": {
+    "name": "\ud83d\udd25Fo",
+    "symbol": "Fo",
+    "flagged_ts": 1790624346,
+    "liquidity_at_flag": 55816.9991347888,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
