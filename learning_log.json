@@ -1,18 +1,5 @@
 [
   {
-    "name": "DebtCoin",
-    "symbol": "DEBT",
-    "category": "rug",
-    "change_pct": -100.0,
-    "breakdown": {
-      "MOMENTUM": 100,
-      "SAFETY": 60,
-      "LIQUIDITY": 100,
-      "SMART MONEY": 0
-    },
-    "ts": 1790506442
-  },
-  {
     "name": "Housecoin",
     "symbol": "House",
     "category": "rug",
@@ -3898,5 +3885,18 @@
       "SMART MONEY": 0
     },
     "ts": 1790618336
+  },
+  {
+    "name": "Zakura Zcash",
+    "symbol": "ZAKURA",
+    "category": "rug",
+    "change_pct": -100.0,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "ts": 1790620482
   }
 ]
