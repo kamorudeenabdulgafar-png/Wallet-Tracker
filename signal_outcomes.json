@@ -1,21 +1,4 @@
 {
-  "7P6VL1cpLZM6w1jGPHmfwxkgDAf2CPnh8oP6Q3sJXXWi": {
-    "name": "musebook",
-    "symbol": "musebook",
-    "flagged_ts": 1790032754,
-    "liquidity_at_flag": 33531.36816105664,
-    "breakdown": {
-      "MOMENTUM": 100,
-      "SAFETY": 60,
-      "LIQUIDITY": 100,
-      "SMART MONEY": 0
-    },
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
   "2kFVVpScFtPixZ8zrS6iF3ZiTCj9aKkzA1jRN2GeWDqR": {
     "name": "Green Loom",
     "symbol": "GL",
@@ -28793,7 +28776,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "6UhUkSBc9RBB9gVJcjCWtcQv4t771rQF7bdn2qK7pump": {
@@ -28809,7 +28793,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "L3AkrXzxvigXwefBR5ov87BMsKVJTss76kDk8tLHihr": {
@@ -31336,7 +31321,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "4mbsEeCZxu1sjwWZW5jJRSGoNsVBSy3DTENEaguxpump": {
@@ -31665,7 +31651,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "DX9mc4dYccjkQ8wkHpLtL1ybvELU2peKGNEqsDzqpump": {
     "name": "PIMP",
@@ -31740,6 +31728,32 @@
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "6pvhR7Kchxa1kngkqJGF8V6HEB4fW5NdS1zmFuxQpump": {
+    "name": "Poteto",
+    "symbol": "POTETO",
+    "flagged_ts": 1790637712,
+    "liquidity_at_flag": 17996.51376347393,
+    "breakdown": {
+      "MOMENTUM": 70,
+      "SAFETY": 90,
+      "LIQUIDITY": 90,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "F6fdHpWJgqcwEbZQ5Zgmyz7491zLTQSjFS47HTxa59o7": {
+    "name": "poteto",
+    "symbol": "POTETO",
+    "flagged_ts": 1790637713,
+    "liquidity_at_flag": 31140.53649189594,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 75,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
