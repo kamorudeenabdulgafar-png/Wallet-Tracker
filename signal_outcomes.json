@@ -1,21 +1,4 @@
 {
-  "AABsD9xXyaHfuRWUEUrQP8JZkBbDfNEM3ahNXQ1ToVZ5": {
-    "name": "DATACENTER",
-    "symbol": "DATACENTER",
-    "flagged_ts": 1790027055,
-    "liquidity_at_flag": 34338.70852017302,
-    "breakdown": {
-      "MOMENTUM": 100,
-      "SAFETY": 60,
-      "LIQUIDITY": 100,
-      "SMART MONEY": 0
-    },
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
   "8xrwR3R7DTpZpLkXJduVCE2eRLCaGGfbBFVXmtrcpU3W": {
     "name": "XtraPad",
     "symbol": "XtraPad",
@@ -28759,7 +28742,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "HAQ6dJPHkPp5ea63Vhy6fQWTMLVeWPw7T1oj2qhTBo5T": {
@@ -28775,7 +28759,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "5uGSy15crXqbgxo8ZKkbaKGyFUcmE8Gdmoj2WQeSn8v6": {
@@ -31679,7 +31664,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "B6AhAi28xyTd4LVHAmG5UXZmEGxB3gpySsJkfUhUTFmf": {
     "name": "Hooked",
@@ -31692,7 +31679,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "9nwLzYqpTHnA64UL9a2m74qLYbNagXDeua1iBmorpump": {
     "name": "BIG NOSE INU",
@@ -31742,6 +31731,32 @@
       "MOMENTUM": 100,
       "SAFETY": 60,
       "LIQUIDITY": 93,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "pvzyoU9GDf3KK8Z9maAzx2GUFu9mwAh7WDokewg5inu": {
+    "name": "inu",
+    "symbol": "INU",
+    "flagged_ts": 1790632086,
+    "liquidity_at_flag": 31504.618858488633,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 90,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "Ex17UpeY1VjphPbeLrwrdQSjR39g9QdmksfavERUHeXX": {
+    "name": "Justice For Moon",
+    "symbol": "MOON",
+    "flagged_ts": 1790632087,
+    "liquidity_at_flag": 27876.099717238063,
+    "breakdown": {
+      "MOMENTUM": 91,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
     "checkpoints_done": []
