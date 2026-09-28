@@ -1,5 +1,5 @@
 {
-  "last_updated": 1790632092,
+  "last_updated": 1790632636,
   "wallets": [
     {
       "label": "Dev wallet 1",
@@ -89,7 +89,7 @@
     "count": 2835,
     "up_count": 613,
     "total_change_pct": -155586.29928175083,
-    "rug": 2338,
+    "rug": 2339,
     "doing_well": 27,
     "steady": 10,
     "fading": 35
@@ -97,6 +97,16 @@
   "learning_insight": "Coins that rugged averaged SAFETY 71; coins that did well averaged SAFETY 92.",
   "settings": {},
   "recent_alerts": [
+    {
+      "ts": 1790632636,
+      "type": "outcome",
+      "message": "\ud83d\udd34 MS70 Coin (MS70) turned out to be a rug \u2014 liquidity dropped 84% over 24h."
+    },
+    {
+      "ts": 1790632635,
+      "type": "scanner",
+      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\nGachaWatch (WATCH)\nOpportunity: 72/100\n\nMOMENTUM     64\nSAFETY       90\nLIQUIDITY    92\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$18,406, 18 min since pool creation\n\u2022 Up +43% in the last hour, ~$71,788 in 24h volume (3.9x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Low, 10/100):\n\u2022 top 10 holders own 48% of supply\n\nCA: 5otLYBKVqbPEVWtSDBVw1unSvBqXF8UqpJDJ6oHbDAa6\nhttps://dexscreener.com/solana/5otLYBKVqbPEVWtSDBVw1unSvBqXF8UqpJDJ6oHbDAa6\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
+    },
     {
       "ts": 1790632092,
       "type": "outcome",
@@ -336,16 +346,6 @@
       "ts": 1790626841,
       "type": "outcome",
       "message": "\ud83d\udd34 Vault Strategy (Vault) turned out to be a rug \u2014 liquidity dropped 91% over 24h."
-    },
-    {
-      "ts": 1790626840,
-      "type": "outcome",
-      "message": "\ud83d\udd34 orbio.so Coin (orbocoin) turned out to be a rug \u2014 liquidity dropped 90% over 24h."
-    },
-    {
-      "ts": 1790626837,
-      "type": "scanner",
-      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\nCLONES (CLONES)\nOpportunity: 76/100\n\nMOMENTUM     100\nSAFETY       60\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$28,035, 11 min since pool creation\n\u2022 Up +77% in the last hour, ~$158,181 in 24h volume (5.6x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 97% of supply (very concentrated)\n\nCA: 5heUmnR9mY3bmTrVaDGMushiUYp2pJ7umXttUSUXcg9c\nhttps://dexscreener.com/solana/5heUmnR9mY3bmTrVaDGMushiUYp2pJ7umXttUSUXcg9c\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
     }
   ]
 }

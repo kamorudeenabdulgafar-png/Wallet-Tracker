@@ -28776,7 +28776,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "nheVhBEu7aQgtZLbtLkzvZEhhQh9fctKXWWFPd8pump": {
@@ -31757,6 +31758,19 @@
       "MOMENTUM": 91,
       "SAFETY": 60,
       "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "5otLYBKVqbPEVWtSDBVw1unSvBqXF8UqpJDJ6oHbDAa6": {
+    "name": "GachaWatch",
+    "symbol": "WATCH",
+    "flagged_ts": 1790632635,
+    "liquidity_at_flag": 18406.076574446284,
+    "breakdown": {
+      "MOMENTUM": 64,
+      "SAFETY": 90,
+      "LIQUIDITY": 92,
       "SMART MONEY": 0
     },
     "checkpoints_done": []
