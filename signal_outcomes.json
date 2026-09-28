@@ -28810,7 +28810,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "GhRJXatdMGdDcGmfxZPKWyUW4FNvMM4fSHRquyvgpump": {
@@ -31666,7 +31667,9 @@
       "LIQUIDITY": 91,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "6U2YXyQjE6j865pGpFMRY6USCzNhFsyeCTpuVcLH4Ts8": {
     "name": "KodaPacks",
@@ -31679,7 +31682,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "GniebLFF4Nt9Gy3FF3zGKiCE4MtCwCR5jmnXpan4pump": {
     "name": "FOMOWATERMELON",
@@ -31754,6 +31759,45 @@
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 75,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "5kusrVu7PMxXNgd9oYb1xo5nETADF2BJd2cxX2NPRU5Y": {
+    "name": "Poke Trade",
+    "symbol": "POKETRADE",
+    "flagged_ts": 1790638647,
+    "liquidity_at_flag": 26176.023457619794,
+    "breakdown": {
+      "MOMENTUM": 85,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "6meKWqxrfcyTxgVGnVwjoLgs6oWAPWaBAFMVSLGdi87w": {
+    "name": "Doppler Finance",
+    "symbol": "XDP",
+    "flagged_ts": 1790638649,
+    "liquidity_at_flag": 60877.97075046554,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "EdYKmD6gwazdMQBeadHpSuSeTpjtnbxkpfXCax3Lpump": {
+    "name": "Dog Saved By Grok",
+    "symbol": "Loomer",
+    "flagged_ts": 1790638650,
+    "liquidity_at_flag": 24542.101107962495,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 90,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
