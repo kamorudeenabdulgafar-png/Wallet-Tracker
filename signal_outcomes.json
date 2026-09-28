@@ -28776,7 +28776,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "HxMCr429Y6U6ZkmDfKtBRo7UwAhuwkuZLUn2ZUHrVgpp": {
@@ -28792,7 +28793,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "XsUe3wWzziRnHhBMemzbqSJa86wJrwuSDDQAkbHdLv1": {
@@ -28808,7 +28810,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "7QX4FttfgVohXApiGPVxVURvL82zzi58ABM5N2VHPHET": {
@@ -28824,7 +28827,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "2JwsP9Yv12qVNewchLWAUi3LBdk6u9KjAucVJNgzb7WS": {
@@ -32265,7 +32269,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "9dNTfQNjcJj2rh1KWsUzs51XY5hwSuN1E2Fi9vBvvhAK": {
     "name": "PenguinCat",
@@ -32278,7 +32284,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "G2j4TeiibxmJPNT1jE5n8sTCjk152vn3oyscSda5Aanv": {
     "name": "Safe Inu",
@@ -32291,7 +32299,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "65uuu5fa8yKJRB9kwc5quf8eCn8A62p3Ms4j8nuvULsh": {
     "name": "Robin Pepe",
@@ -32304,7 +32314,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "BH2PVkGqyQDUUpAB1pdk75Q2zLh4dyfbfUsXUDvBX2FL": {
     "name": "Shork",
@@ -32469,6 +32481,32 @@
     "liquidity_at_flag": 37907.02959734025,
     "breakdown": {
       "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "Gayx6EofdFsx4wRtTv75kDNP2a4LWSwimKNLzHkqtjaD": {
+    "name": "HatchPad",
+    "symbol": "HATCHPAD",
+    "flagged_ts": 1790591949,
+    "liquidity_at_flag": 29750.76317092101,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "9ePoBVoKz3ftSTiqPmma3rtu37rFi4guKkMGy3vaxNs1": {
+    "name": "HatchPad",
+    "symbol": "HATCHPAD",
+    "flagged_ts": 1790591949,
+    "liquidity_at_flag": 30079.5049236427,
+    "breakdown": {
+      "MOMENTUM": 94,
       "SAFETY": 60,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
