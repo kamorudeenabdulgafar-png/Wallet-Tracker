@@ -1,5 +1,5 @@
 {
-  "last_updated": 1790622383,
+  "last_updated": 1790623288,
   "wallets": [
     {
       "label": "Dev wallet 1",
@@ -89,7 +89,7 @@
     "count": 2835,
     "up_count": 613,
     "total_change_pct": -155586.29928175083,
-    "rug": 2307,
+    "rug": 2309,
     "doing_well": 26,
     "steady": 10,
     "fading": 35
@@ -97,6 +97,36 @@
   "learning_insight": "Coins that rugged averaged SAFETY 71; coins that did well averaged SAFETY 93.",
   "settings": {},
   "recent_alerts": [
+    {
+      "ts": 1790623288,
+      "type": "outcome",
+      "message": "\ud83d\udd34 Super Intelligent Cat (SICAT) is dropping fast \u2014 down 100%, may be rugging."
+    },
+    {
+      "ts": 1790623288,
+      "type": "outcome",
+      "message": "\ud83d\udd34 BotBook (BotBook) is dropping fast \u2014 down 100%, may be rugging."
+    },
+    {
+      "ts": 1790623287,
+      "type": "outcome",
+      "message": "\ud83d\udd34 \u8c46\u52a9 Mamesuke (Mamesuke) is dropping fast \u2014 down 100%, may be rugging."
+    },
+    {
+      "ts": 1790623286,
+      "type": "outcome",
+      "message": "\ud83d\udd34 Steam (steam) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
+    },
+    {
+      "ts": 1790623285,
+      "type": "outcome",
+      "message": "\ud83d\udd34 steam (steam) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
+    },
+    {
+      "ts": 1790623284,
+      "type": "scanner",
+      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\nEffective Accelerationism 67 (e/acc67)\nOpportunity: 77/100\n\nMOMENTUM     62\nSAFETY       100\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$23,938, 5 min since pool creation\n\u2022 Up +41% in the last hour, ~$236,552 in 24h volume (9.9x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Low, 0/100):\n\u2022 No major red flags found\n\nCA: 4KPFYgMQg8Su7ZaqDduSYEZXPmh8fyUgot4yooZtpump\nhttps://dexscreener.com/solana/4KPFYgMQg8Su7ZaqDduSYEZXPmh8fyUgot4yooZtpump\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
+    },
     {
       "ts": 1790621524,
       "type": "outcome",
@@ -316,36 +346,6 @@
       "ts": 1790616628,
       "type": "wallet",
       "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: USDT -> USDC\nTrade size: unknown\nBought token: USD Coin (USDC)\nCA: EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v\nhttps://solscan.io/tx/3LPfpnh7WzxhP4jgLXTYWFtEUdioQ7u97HSdJvcQyruPefMWMHUot4ScbnomqmLnuPSaSRNrtcqSmBCiJ6sGL9Ji"
-    },
-    {
-      "ts": 1790616628,
-      "type": "wallet",
-      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: WBNB -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/5G3UbnobcA6uuY6QniEuhzuwpW9w1aFNFHESSVZEzq78tPXzSWNStKgFDNFnqNvgjUDctwnyvgAqLaaZJicff53E"
-    },
-    {
-      "ts": 1790616627,
-      "type": "wallet",
-      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: BP -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/5UjtM5PLq9qaSbZm1C5PpVcuedAy4o42ZUrLYpyT1ErbzUueT15YDJRMqE4LsYK5KuKTRbsWSYMMB6UysQiBKt1J"
-    },
-    {
-      "ts": 1790615745,
-      "type": "outcome",
-      "message": "\ud83d\udfe0 Fat Bear Coin (fatbear) is fading \u2014 down 59% so far."
-    },
-    {
-      "ts": 1790615743,
-      "type": "outcome",
-      "message": "\ud83d\udd34 CUE (CUE) is dropping fast \u2014 down 100%, may be rugging."
-    },
-    {
-      "ts": 1790615742,
-      "type": "outcome",
-      "message": "\ud83d\udd34 MAGA Coin (MAGACOIN) is dropping fast \u2014 down 87%, may be rugging."
-    },
-    {
-      "ts": 1790615741,
-      "type": "outcome",
-      "message": "\ud83d\udd34 Wormhole Liquidity (WORM) is dropping fast \u2014 down 100%, may be rugging."
     }
   ]
 }
