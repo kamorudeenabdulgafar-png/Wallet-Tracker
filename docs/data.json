@@ -1,5 +1,5 @@
 {
-  "last_updated": 1790557552,
+  "last_updated": 1790558467,
   "wallets": [
     {
       "label": "Dev wallet 1",
@@ -88,7 +88,7 @@
     "count": 2835,
     "up_count": 613,
     "total_change_pct": -155586.29928175083,
-    "rug": 2112,
+    "rug": 2114,
     "doing_well": 23,
     "steady": 9,
     "fading": 34
@@ -96,6 +96,21 @@
   "learning_insight": null,
   "settings": {},
   "recent_alerts": [
+    {
+      "ts": 1790558467,
+      "type": "outcome",
+      "message": "\ud83d\udfe1 GTA6 (GTA 6 Coin) is holding steady so far (+14%)."
+    },
+    {
+      "ts": 1790558466,
+      "type": "outcome",
+      "message": "\ud83d\udd34 Connect (CONNECT) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
+    },
+    {
+      "ts": 1790558465,
+      "type": "outcome",
+      "message": "\ud83d\udd34 Telepad (TPAD) turned out to be a rug \u2014 liquidity dropped 91% over 24h."
+    },
     {
       "ts": 1790557548,
       "type": "outcome",
@@ -330,21 +345,6 @@
       "ts": 1790551835,
       "type": "outcome",
       "message": "\ud83d\udd34 Earn (EARN) is dropping fast \u2014 down 100%, may be rugging."
-    },
-    {
-      "ts": 1790551835,
-      "type": "outcome",
-      "message": "\ud83d\udd34 Earn (EARN) is dropping fast \u2014 down 100%, may be rugging."
-    },
-    {
-      "ts": 1790551834,
-      "type": "outcome",
-      "message": "\ud83d\udd34 Normies (NORMIES) is dropping fast \u2014 down 63%, may be rugging."
-    },
-    {
-      "ts": 1790551833,
-      "type": "outcome",
-      "message": "\ud83d\udd34 Heisenberg Accelerationism (H/ACC) turned out to be a rug \u2014 liquidity dropped 92% over 24h."
     }
   ]
 }
