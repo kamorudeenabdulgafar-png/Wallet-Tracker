@@ -28929,7 +28929,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "CH574oNcY6BLgTTR6Q6tXSsZ2CsjNUVtMudrhZWzpump": {
@@ -28945,7 +28946,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "ARwDFen28wT7EYFtpzq5DFCAfYv4XzBtGRpwTCVbK5qH": {
@@ -28961,7 +28963,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "8fGr6znFQhbZfHyFHbMQNMtoukSVmJgLzJrQweAtGEzZ": {
@@ -28977,7 +28980,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "E7UrrgRHufjZBEdFecXvHQSSSQNou9whgRNFG7kL8KbB": {
@@ -28993,7 +28997,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "4Y4BEmSidMBvoCVc3N1jt5Y8uAhthMRbD6vnavjJsvw3": {
@@ -31824,7 +31829,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "HstH264S9NSVdiftgtTTYY4n5CA6aienJroExD5JKYLD": {
@@ -32348,7 +32354,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "Yq21TXmHSLPRmvMq7YmN6vEjXDi2cXvnbDomvhRpump": {
     "name": "MAGA Coin",
@@ -32433,6 +32441,32 @@
     "symbol": "PHI",
     "flagged_ts": 1790597449,
     "liquidity_at_flag": 28396.350776157284,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "EPRZ2vZaA57f3LiP8DkRHpmao1ZzuSFWYvKx3r5MM3vL": {
+    "name": "Nvidia Inu",
+    "symbol": "NINU",
+    "flagged_ts": 1790599076,
+    "liquidity_at_flag": 31522.19924654397,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "3yVT2BstjsNAhn9UT56b58chbyJX5rsnV3e1tKVwFqKX": {
+    "name": "PHI",
+    "symbol": "PHI",
+    "flagged_ts": 1790599078,
+    "liquidity_at_flag": 68230.52192931513,
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 60,
