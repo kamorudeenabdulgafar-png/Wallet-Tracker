@@ -1,18 +1,5 @@
 [
   {
-    "name": "Gummy Cat",
-    "symbol": "GUMMYCAT",
-    "category": "rug",
-    "change_pct": -100.0,
-    "breakdown": {
-      "MOMENTUM": 96,
-      "SAFETY": 60,
-      "LIQUIDITY": 100,
-      "SMART MONEY": 0
-    },
-    "ts": 1790505144
-  },
-  {
     "name": "\u8611\u83c7\u5934\u548c\u6211\u768416\u5e74",
     "symbol": "\u8611\u83c7\u5934",
     "category": "rug",
@@ -3898,5 +3885,18 @@
       "SMART MONEY": 0
     },
     "ts": 1790616631
+  },
+  {
+    "name": "Ramp Capital LLC",
+    "symbol": "RAMP",
+    "category": "fading",
+    "change_pct": -25.6,
+    "breakdown": {
+      "MOMENTUM": 50,
+      "SAFETY": 100,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "ts": 1790617703
   }
 ]
