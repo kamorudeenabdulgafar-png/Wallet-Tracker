@@ -1,5 +1,5 @@
 {
-  "last_updated": 1790564328,
+  "last_updated": 1790565202,
   "wallets": [
     {
       "label": "Dev wallet 1",
@@ -10,7 +10,7 @@
     "5CEbueQnq1Ym2uSSx2xXds3jQAqT1BDnkA59RZobSPAG": {
       "label": "Dev wallet 1",
       "buy_count": 385,
-      "sell_count": 218,
+      "sell_count": 219,
       "total_buy_usd": 15628.984658586525,
       "total_sell_usd": 0.0,
       "tokens_traded": [
@@ -67,9 +67,10 @@
         "USD1ttGY1N17NEEHLmELoaybftRBUSErhqYiQzvEmuB",
         "cbbtcf3aa214zXHbiAZQwf4122FBYbraNdFqgw4iMij",
         "Xsa62P5mvPszXL1krVUnU5ar38bBSVcWAB6fmPCo5Zu",
-        "BPxxfRCXkUVhig4HS1Lh7kZqV6SPJhzfEk4x6fVBjPCy"
+        "BPxxfRCXkUVhig4HS1Lh7kZqV6SPJhzfEk4x6fVBjPCy",
+        "27G8MtK7VtTcCHkpASjSDdkWWYfoqT6ggEuKidVJidD4"
       ],
-      "last_active": 1790564317,
+      "last_active": 1790565191,
       "positions": {},
       "realized_pnl_usd": 0.0
     }
@@ -88,7 +89,7 @@
     "count": 2835,
     "up_count": 613,
     "total_change_pct": -155586.29928175083,
-    "rug": 2136,
+    "rug": 2139,
     "doing_well": 23,
     "steady": 9,
     "fading": 34
@@ -96,6 +97,51 @@
   "learning_insight": null,
   "settings": {},
   "recent_alerts": [
+    {
+      "ts": 1790565202,
+      "type": "outcome",
+      "message": "\ud83d\udd34 all/in (all/in) is dropping fast \u2014 down 100%, may be rugging."
+    },
+    {
+      "ts": 1790565201,
+      "type": "outcome",
+      "message": "\ud83d\udfe2 CLAUDE AI (CLAUDE AI) is still doing really good \u2014 up 63% so far!"
+    },
+    {
+      "ts": 1790565200,
+      "type": "outcome",
+      "message": "\ud83d\udd34 Rockstar Games (GTA) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
+    },
+    {
+      "ts": 1790565199,
+      "type": "outcome",
+      "message": "\ud83d\udd34 Robinhood Wallet (Robinhood) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
+    },
+    {
+      "ts": 1790565198,
+      "type": "outcome",
+      "message": "\ud83d\udd34 wif accelerationism (w/acc) turned out to be a rug \u2014 liquidity dropped 73% over 24h."
+    },
+    {
+      "ts": 1790565196,
+      "type": "scanner",
+      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\nXPad (XPAD)\nOpportunity: 75/100\n\nMOMENTUM     56\nSAFETY       100\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$27,751, 18 min since pool creation\n\u2022 Up +38% in the last hour, ~$39,727 in 24h volume (1.4x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Low, 0/100):\n\u2022 No major red flags found\n\nCA: 5AB9kHNv4jwrE1yYAN4WKy7sDA6KJ8vcM5ePXcSATAYr\nhttps://dexscreener.com/solana/5AB9kHNv4jwrE1yYAN4WKy7sDA6KJ8vcM5ePXcSATAYr\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
+    },
+    {
+      "ts": 1790565195,
+      "type": "scanner",
+      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\nrobs.wtf (ROB)\nOpportunity: 76/100\n\nMOMENTUM     100\nSAFETY       60\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$40,382, 16 min since pool creation\n\u2022 Up +87% in the last hour, ~$133,562 in 24h volume (3.3x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 81% of supply (very concentrated)\n\nCA: 9WU3PVh2CxizczfmbeYaXUfFdBFnG37HxfVAaKyUQdY6\nhttps://dexscreener.com/solana/9WU3PVh2CxizczfmbeYaXUfFdBFnG37HxfVAaKyUQdY6\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
+    },
+    {
+      "ts": 1790565194,
+      "type": "scanner",
+      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\nArtificial Genius Inu (AGI)\nOpportunity: 76/100\n\nMOMENTUM     100\nSAFETY       60\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$36,650, 11 min since pool creation\n\u2022 Up +139% in the last hour, ~$147,220 in 24h volume (4.0x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 73% of supply (very concentrated)\n\nCA: Eg1tAfNchxx4c3uTcRssZeuuLrtfnHSLHHTab5HyTU9P\nhttps://dexscreener.com/solana/Eg1tAfNchxx4c3uTcRssZeuuLrtfnHSLHHTab5HyTU9P\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
+    },
+    {
+      "ts": 1790565191,
+      "type": "wallet",
+      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: JLP -> USDC\nTrade size: unknown\nBought token: USD Coin (USDC)\nCA: EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v\nhttps://solscan.io/tx/5aASZkZoByaogSN7VVMq3vkrx3ySN77hakGSchitncxJM6cVGJZ3egjTFBWZtutrhzGf1dewQijhMoj5SQiaB9wj"
+    },
     {
       "ts": 1790564328,
       "type": "outcome",
@@ -300,51 +346,6 @@
       "ts": 1790561428,
       "type": "outcome",
       "message": "\ud83d\udd34 meme + coin = (moin) is dropping fast \u2014 down 100%, may be rugging."
-    },
-    {
-      "ts": 1790561427,
-      "type": "outcome",
-      "message": "\ud83d\udfe0 dog wif fomo (wiffomo) is fading \u2014 down 46% so far."
-    },
-    {
-      "ts": 1790561426,
-      "type": "outcome",
-      "message": "\ud83d\udd34 meme + coin = (moin) is dropping fast \u2014 down 100%, may be rugging."
-    },
-    {
-      "ts": 1790561426,
-      "type": "outcome",
-      "message": "\ud83d\udd34 Pok\u00e9mon (Pok\u00e9mon) is dropping fast \u2014 down 91%, may be rugging."
-    },
-    {
-      "ts": 1790561425,
-      "type": "outcome",
-      "message": "\ud83d\udd34 cake.xmr (CAKE) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
-    },
-    {
-      "ts": 1790561424,
-      "type": "outcome",
-      "message": "\ud83d\udd34 still her here (shh) turned out to be a rug \u2014 liquidity dropped 86% over 24h."
-    },
-    {
-      "ts": 1790561423,
-      "type": "outcome",
-      "message": "\ud83d\udd34 \u73a9\u5e01\u5f52\u8d75 (\u73a9\u5e01\u5f52\u8d75) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
-    },
-    {
-      "ts": 1790561423,
-      "type": "scanner",
-      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 STRONG\nall/in (all/in)\nOpportunity: 81/100\n\nMOMENTUM     100\nSAFETY       75\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$43,372, 21 min since pool creation\n\u2022 Up +286% in the last hour, ~$279,112 in 24h volume (6.4x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 25/100):\n\u2022 top 10 holders own 67% of supply (concentrated)\n\nCA: 6k9e1EBVpSpDyPV6hiKM2xjS4ThfaJMsvFQJt7H1mUvw\nhttps://dexscreener.com/solana/6k9e1EBVpSpDyPV6hiKM2xjS4ThfaJMsvFQJt7H1mUvw\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
-    },
-    {
-      "ts": 1790561422,
-      "type": "scanner",
-      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\nCLAUDE AI (CLAUDE AI)\nOpportunity: 76/100\n\nMOMENTUM     100\nSAFETY       60\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$33,862, 14 min since pool creation\n\u2022 Up +70% in the last hour, ~$50,890 in 24h volume (1.5x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 88% of supply (very concentrated)\n\nCA: J71u7Ms2A28ojf62EZ8DuxpfxRdtZekFVDTxC1Xdm2kY\nhttps://dexscreener.com/solana/J71u7Ms2A28ojf62EZ8DuxpfxRdtZekFVDTxC1Xdm2kY\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
-    },
-    {
-      "ts": 1790561419,
-      "type": "wallet",
-      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: GLDx -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/2QG6EGGk8KoRfhs7fwUcsVyKvKt7iC7YJ6UkE5kbUGB63cmC4UQkuMs1uf5gAQyYjW3yg8rWDyE9optrWMDCDraV"
     }
   ]
 }

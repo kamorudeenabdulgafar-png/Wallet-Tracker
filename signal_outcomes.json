@@ -1,21 +1,4 @@
 {
-  "65cnQLD6do2oPtD1sBxnkgNAPYfTmnfT1kQjCdNGd3JL": {
-    "name": "Argus",
-    "symbol": "ARGUS",
-    "flagged_ts": 1789960210,
-    "liquidity_at_flag": 36042.06067528595,
-    "breakdown": {
-      "MOMENTUM": 100,
-      "SAFETY": 60,
-      "LIQUIDITY": 100,
-      "SMART MONEY": 0
-    },
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
   "29j6RrRZPhfLLTYTJF4fBV1TMXzhqgkSa9pa2pQ8pump": {
     "name": "SourBoy",
     "symbol": "SOUR",
@@ -28164,7 +28147,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "B9oACq5kByAsFyyQ4zYHRo2SEZuvMnrmxzceSfVxc2Jv": {
@@ -28180,7 +28164,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "FJSKEGcPde4AKxtYfRfbXwbcrwVh3he76EsDhkpYyTpR": {
@@ -28196,7 +28181,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "BFviZWDLHNtXYhGTTj1iQT9Yzpum3PskjycPei3RjTwc": {
@@ -32371,7 +32357,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "6k9e1EBVpSpDyPV6hiKM2xjS4ThfaJMsvFQJt7H1mUvw": {
     "name": "all/in",
@@ -32384,7 +32372,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "9VXMEkhYKcj9s4dvzz3GF4ZfHGc5oAURiSY7ftPpump": {
     "name": "peptober",
@@ -32433,6 +32423,45 @@
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "Eg1tAfNchxx4c3uTcRssZeuuLrtfnHSLHHTab5HyTU9P": {
+    "name": "Artificial Genius Inu",
+    "symbol": "AGI",
+    "flagged_ts": 1790565194,
+    "liquidity_at_flag": 36649.620604929674,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "9WU3PVh2CxizczfmbeYaXUfFdBFnG37HxfVAaKyUQdY6": {
+    "name": "robs.wtf",
+    "symbol": "ROB",
+    "flagged_ts": 1790565195,
+    "liquidity_at_flag": 40381.53407914791,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "5AB9kHNv4jwrE1yYAN4WKy7sDA6KJ8vcM5ePXcSATAYr": {
+    "name": "XPad",
+    "symbol": "XPAD",
+    "flagged_ts": 1790565196,
+    "liquidity_at_flag": 27750.699042051183,
+    "breakdown": {
+      "MOMENTUM": 56,
+      "SAFETY": 100,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
