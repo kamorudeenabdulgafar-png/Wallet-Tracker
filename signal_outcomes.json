@@ -1,55 +1,4 @@
 {
-  "CMwCjRsiyY8SKAFoAVExxCeTVn9Zt1ps9VjBfdxQru6u": {
-    "name": "WASH",
-    "symbol": "WASH",
-    "flagged_ts": 1790013980,
-    "liquidity_at_flag": 26924.97499805125,
-    "breakdown": {
-      "MOMENTUM": 100,
-      "SAFETY": 60,
-      "LIQUIDITY": 100,
-      "SMART MONEY": 0
-    },
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "5uStPLt6TK4g5ULd57C4kv4wTuYv7sFmDQwYonTHFMUo": {
-    "name": "CLIPBACK",
-    "symbol": "CLIP",
-    "flagged_ts": 1790013982,
-    "liquidity_at_flag": 39481.56886430051,
-    "breakdown": {
-      "MOMENTUM": 100,
-      "SAFETY": 60,
-      "LIQUIDITY": 100,
-      "SMART MONEY": 0
-    },
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "EqW8zD3JVqiAVd3UAdoHCVYmJgK9KSuoghpAX4Nnpump": {
-    "name": "fomocat",
-    "symbol": "fomocat",
-    "flagged_ts": 1790013983,
-    "liquidity_at_flag": 31623.88928874147,
-    "breakdown": {
-      "MOMENTUM": 75,
-      "SAFETY": 100,
-      "LIQUIDITY": 100,
-      "SMART MONEY": 0
-    },
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
   "3Z3htugNeEYd6ANKbX3FaTZii6sJb87uAWJvG4k8bDJi": {
     "name": "WASH",
     "symbol": "WASH",
@@ -31668,7 +31617,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "9sVsUgyKN86oa5ZqPGtZYkZBxVYESUmsjjtYQfYibMoq": {
@@ -32031,6 +31981,32 @@
     "breakdown": {
       "MOMENTUM": 61,
       "SAFETY": 100,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "ABhon8e1tRYUSRuyYDXrxrwWMHN1Y2QpiVo2DW8Ljyqa": {
+    "name": "BotBook",
+    "symbol": "BotBook",
+    "flagged_ts": 1790619322,
+    "liquidity_at_flag": 19156.397702941602,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 96,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "7VjqSyxuergcSAvWmcpwqFgrYKg64uxyXzhcaGvwKEeC": {
+    "name": "Super Intelligent Cat",
+    "symbol": "SICAT",
+    "flagged_ts": 1790619323,
+    "liquidity_at_flag": 51917.85228549942,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
