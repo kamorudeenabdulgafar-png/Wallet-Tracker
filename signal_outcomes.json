@@ -1,55 +1,4 @@
 {
-  "GMD2UpfqWQmg79DaT33Tq2u8za4h3A3mSmPJPp4fGaUF": {
-    "name": "Zcash Shielded Assets",
-    "symbol": "Stamp",
-    "flagged_ts": 1789964517,
-    "liquidity_at_flag": 39023.185039020915,
-    "breakdown": {
-      "MOMENTUM": 100,
-      "SAFETY": 100,
-      "LIQUIDITY": 100,
-      "SMART MONEY": 0
-    },
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "8Hy2EXTuNaxWYom3DRUjxr9pqiynd5vJDGf1DFxc1bSq": {
-    "name": "Uranus",
-    "symbol": "URANUS",
-    "flagged_ts": 1789964519,
-    "liquidity_at_flag": 33895.01667247515,
-    "breakdown": {
-      "MOMENTUM": 100,
-      "SAFETY": 60,
-      "LIQUIDITY": 100,
-      "SMART MONEY": 0
-    },
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "8KrCrAfymAJsQmNQdTBb8VoZ5kn31a5KUfRnY2G82p8q": {
-    "name": "\u00a5\u00a5RQ",
-    "symbol": "\u00a5\u00a5RQ",
-    "flagged_ts": 1789964520,
-    "liquidity_at_flag": 40494.67134486181,
-    "breakdown": {
-      "MOMENTUM": 100,
-      "SAFETY": 60,
-      "LIQUIDITY": 100,
-      "SMART MONEY": 0
-    },
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
   "J3CSbwYnpbnVXsW8y6vjTTyoAYCMGUaPrzypS2vgew5k": {
     "name": "Argus",
     "symbol": "ARGUS",
@@ -28266,7 +28215,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "6CEFrf53FNgTMJtWQxF6iJFwrXrBMkC5PPR4fF7zKyXB": {
@@ -28282,7 +28232,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "3bTuxLYG1qYqJ6G9M9v5m8RYiWncxTmfNWLyvotCU85e": {
@@ -28298,7 +28249,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "5S64CiuwdQemz1Yew86XFzTC7fsPP2jNdEvHwZn5ok4b": {
@@ -28314,7 +28266,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "HHhtrfLdxV8RJBn3VvL5PvPDsPiRCQjMcFyBvbfneZW": {
@@ -28330,7 +28283,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "47qcWpQkzEfU95M9JvrAR6LDEkX119vQUpLWSzdCzU27": {
@@ -32361,7 +32315,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "HKNrHJAzatAJFShTAYuLJRh6tuvxzsvnx7xjbdBCyZGW": {
     "name": "XPad",
@@ -32374,7 +32330,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "7XdqdQpDLJ7uKpoZZmUXLnbURpE6jQ8PPTzShsAY1vUM": {
     "name": "pump",
@@ -32420,6 +32378,45 @@
     "symbol": "two",
     "flagged_ts": 1790567990,
     "liquidity_at_flag": 31347.53325928459,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "7Zr7D2iyR5AiNYvXz5kSerRmivRNNWGbLBkM5kfEpump": {
+    "name": "discat",
+    "symbol": "discat",
+    "flagged_ts": 1790569963,
+    "liquidity_at_flag": 14482.360031032329,
+    "breakdown": {
+      "MOMENTUM": 86,
+      "SAFETY": 90,
+      "LIQUIDITY": 72,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "Fe8huUNMj1TUoqk4sWwJndwKZMQpqWm8Sh1fXvqFBpSk": {
+    "name": "BYTE",
+    "symbol": "BYTE",
+    "flagged_ts": 1790569964,
+    "liquidity_at_flag": 45983.65649143639,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "HkEs4VGBU9bKhsbmLTVc6A8bhghwVd1qacnSyC62TH32": {
+    "name": "BYTE",
+    "symbol": "BYTE",
+    "flagged_ts": 1790569965,
+    "liquidity_at_flag": 59483.40093412212,
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 60,
