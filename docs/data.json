@@ -1,5 +1,5 @@
 {
-  "last_updated": 1790567377,
+  "last_updated": 1790567993,
   "wallets": [
     {
       "label": "Dev wallet 1",
@@ -10,7 +10,7 @@
     "5CEbueQnq1Ym2uSSx2xXds3jQAqT1BDnkA59RZobSPAG": {
       "label": "Dev wallet 1",
       "buy_count": 385,
-      "sell_count": 219,
+      "sell_count": 220,
       "total_buy_usd": 15628.984658586525,
       "total_sell_usd": 0.0,
       "tokens_traded": [
@@ -70,7 +70,7 @@
         "BPxxfRCXkUVhig4HS1Lh7kZqV6SPJhzfEk4x6fVBjPCy",
         "27G8MtK7VtTcCHkpASjSDdkWWYfoqT6ggEuKidVJidD4"
       ],
-      "last_active": 1790565191,
+      "last_active": 1790567987,
       "positions": {},
       "realized_pnl_usd": 0.0
     }
@@ -89,7 +89,7 @@
     "count": 2835,
     "up_count": 613,
     "total_change_pct": -155586.29928175083,
-    "rug": 2147,
+    "rug": 2149,
     "doing_well": 23,
     "steady": 9,
     "fading": 34
@@ -97,6 +97,41 @@
   "learning_insight": null,
   "settings": {},
   "recent_alerts": [
+    {
+      "ts": 1790567993,
+      "type": "outcome",
+      "message": "\ud83d\udd34 Claude-chan (CLAUDECHAN) is dropping fast \u2014 down 100%, may be rugging."
+    },
+    {
+      "ts": 1790567992,
+      "type": "outcome",
+      "message": "\ud83d\udfe0 zmr (zmr) is fading \u2014 down 57% so far."
+    },
+    {
+      "ts": 1790567991,
+      "type": "outcome",
+      "message": "\ud83d\udd34 ARK (ARK) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
+    },
+    {
+      "ts": 1790567990,
+      "type": "outcome",
+      "message": "\ud83d\udd34 JACK (JACK) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
+    },
+    {
+      "ts": 1790567990,
+      "type": "scanner",
+      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\ntwo (two)\nOpportunity: 76/100\n\nMOMENTUM     100\nSAFETY       60\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$31,348, 17 min since pool creation\n\u2022 Up +102% in the last hour, ~$171,735 in 24h volume (5.5x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 85% of supply (very concentrated)\n\nCA: Dwn55ipmJ3xppHW7pS8EW91vXP9L78nPGAzRNFDaR27Q\nhttps://dexscreener.com/solana/Dwn55ipmJ3xppHW7pS8EW91vXP9L78nPGAzRNFDaR27Q\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
+    },
+    {
+      "ts": 1790567989,
+      "type": "scanner",
+      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\nSydney Sweeney's Boobs (BOOBS)\nOpportunity: 75/100\n\nMOMENTUM     96\nSAFETY       60\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$36,481, 12 min since pool creation\n\u2022 Up +64% in the last hour, ~$301,808 in 24h volume (8.3x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 81% of supply (very concentrated)\n\nCA: HjyW96uXnDPyehceFGwAGpL21JKBuZArpFrBm2g9Rxgn\nhttps://dexscreener.com/solana/HjyW96uXnDPyehceFGwAGpL21JKBuZArpFrBm2g9Rxgn\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
+    },
+    {
+      "ts": 1790567988,
+      "type": "wallet",
+      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: PUMP -> USDC\nTrade size: unknown\nBought token: USD Coin (USDC)\nCA: EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v\nhttps://solscan.io/tx/5sdY9xGqtDTTidPMEwTeJRm26RwBXnZMtxvH7Wc9UrBr5imeT1rVrBShXDNGL2mDgwwiFYQ3TmprR3p9pfM6Wpqv"
+    },
     {
       "ts": 1790567377,
       "type": "outcome",
@@ -311,41 +346,6 @@
       "ts": 1790563691,
       "type": "outcome",
       "message": "\ud83d\udd34 cate.xmr (CATE) turned out to be a rug \u2014 liquidity dropped 95% over 24h."
-    },
-    {
-      "ts": 1790563690,
-      "type": "outcome",
-      "message": "\ud83d\udd34 MrBeast Official Coin (MrBeast) turned out to be a rug \u2014 liquidity dropped 94% over 24h."
-    },
-    {
-      "ts": 1790563689,
-      "type": "outcome",
-      "message": "\ud83d\udd34 Dogcz (Dogcz) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
-    },
-    {
-      "ts": 1790563688,
-      "type": "outcome",
-      "message": "\ud83d\udd34 Cyber Paid (CYBERPAID) turned out to be a rug \u2014 liquidity dropped 86% over 24h."
-    },
-    {
-      "ts": 1790563685,
-      "type": "wallet",
-      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: 0.1532 SOL (~$18.43) -> USDC\nTrade size: ~$18.43\nBought token: USD Coin (USDC)\nCA: EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v\nhttps://solscan.io/tx/3LZphX9cdxmUHjbRkNPnaf58ZSRwB4XhqMBAyGc16Ewar55y5nvERVV93mnVdfXYbLLErxCENa4tfwxVn3TQTTop"
-    },
-    {
-      "ts": 1790563684,
-      "type": "wallet",
-      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: 0.0609 SOL (~$7.33) -> USDC\nTrade size: ~$7.33\nBought token: USD Coin (USDC)\nCA: EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v\nhttps://solscan.io/tx/dRjRsr9SxBzXKvBFfp6Qb5bpN1MVdJYDC422yUmRKBohSUmUR3PYVti117spRoiDfSf8U6cHyv334hra74BtKY4"
-    },
-    {
-      "ts": 1790563684,
-      "type": "wallet",
-      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: GLDx -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/39fzJu8cEjGey8tqJMYNMaCthwQXRw75p2yVxYpM5VEWbnfirCq94ycHyhR8SWPUrHdaDZP3K2bM9igQrGUiMV6k"
-    },
-    {
-      "ts": 1790563683,
-      "type": "wallet",
-      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: SPCXx -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/3sSkhjHhm376VrJxEEPKGG3ZFeF28KhUxrKemXJuruM3koF6Sk1fBFkHtKe622NSCZTtu4btFok8BXSGqc8sgoUW"
     }
   ]
 }
