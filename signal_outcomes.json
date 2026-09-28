@@ -1,21 +1,4 @@
 {
-  "stckszzSEhZgCsLmmUpas1hmkggVMRtLGucDTTXLfHs": {
-    "name": "PStock Markets",
-    "symbol": "PSTOCK",
-    "flagged_ts": 1790001735,
-    "liquidity_at_flag": 42360.86378726034,
-    "breakdown": {
-      "MOMENTUM": 100,
-      "SAFETY": 100,
-      "LIQUIDITY": 100,
-      "SMART MONEY": 0
-    },
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
   "Ap7S4TEmHKXzXaHyUDv9pYYjZW5WoiYrqwTC8sZoGz2F": {
     "name": "Claude Ai",
     "symbol": "claude",
@@ -28878,7 +28861,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "2CxcPQ8Bitk22c8LYRaoCTtoBPhmSxydkPEnYrc2KE8V": {
@@ -31885,7 +31869,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "9ePoBVoKz3ftSTiqPmma3rtu37rFi4guKkMGy3vaxNs1": {
@@ -31900,7 +31885,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "hd8543JY8sqr8Pk6aamWXzofafeBYERpK1nVMmUpump": {
@@ -31915,7 +31901,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "Ay2JyVxMpoq6agNzKq51yDypjes4EryjERaqv99TLZY2": {
@@ -32244,7 +32231,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "6qBR7sk15ZVdt1vx6j1JgtkuurK8WrapugFptWQCyzL6": {
     "name": "Pygoscelis kerguelensis",
@@ -32319,6 +32308,32 @@
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 90,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "EGbFtir6EDPNfdWrWt9TcEqksadqA1XenJXLhn7vGs8Z": {
+    "name": "\u8c46\u52a9 Mamesuke",
+    "symbol": "Mamesuke",
+    "flagged_ts": 1790607152,
+    "liquidity_at_flag": 45451.155311402035,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 75,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "DFsduLN1aFxhQ2rrBvFNYiQevvwECjbHLdFy6vvgWCyG": {
+    "name": "\u8c46\u52a9 Mamesuke",
+    "symbol": "Mamesuke",
+    "flagged_ts": 1790607152,
+    "liquidity_at_flag": 33401.75261943024,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
