@@ -1,38 +1,4 @@
 {
-  "5hfcpVNZs9bxjWTgGWK1ApGFJkh4rsNN1Ve1rBMcpump": {
-    "name": "Bald Jean",
-    "symbol": "BALDJEAN",
-    "flagged_ts": 1789967128,
-    "liquidity_at_flag": 37669.471224093475,
-    "breakdown": {
-      "MOMENTUM": 100,
-      "SAFETY": 100,
-      "LIQUIDITY": 100,
-      "SMART MONEY": 0
-    },
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "ZQDHKnFv84QJXCbEE1pF7PzgrRX5ogQC5dpebrtpump": {
-    "name": "SpaceX",
-    "symbol": "SPCX",
-    "flagged_ts": 1789967130,
-    "liquidity_at_flag": 67763.90615930624,
-    "breakdown": {
-      "MOMENTUM": 65,
-      "SAFETY": 100,
-      "LIQUIDITY": 100,
-      "SMART MONEY": 0
-    },
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
   "E2CaYPHmdmSbjrp9AgwjGFcQmsTcddqTpDYTKjVLVjcy": {
     "name": "The Wizard Cat",
     "symbol": "WIZARDCAT",
@@ -28402,7 +28368,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "4Cwnu2YhU7zkdmYsNpCfiBmVmsBGgNE8Qs4mrreEK95t": {
@@ -28418,7 +28385,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "BLdNtJ7A7TiGgcoZB4wDkYTdQZ6RPJphs4xgvUujySnH": {
@@ -28434,7 +28402,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "ByRxk9oCypi7rBTUrVryfSSH72EJSx6Ki3yHBXKRKg4q": {
@@ -32017,7 +31986,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "2Dq7aYGqiLWuadnGUXQmEAXnLpNpdrPDGM9GPSG6RB4r": {
@@ -32404,6 +32374,97 @@
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 100,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "BCjVYaiUVRQwus1KTgbY2drKk4ifB5iQJfKRPjj6Q7vj": {
+    "name": "Coined Frens",
+    "symbol": "COINED",
+    "flagged_ts": 1790572518,
+    "liquidity_at_flag": 31348.013860808554,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "TTwA29nT5v7Vti9xdvYrhMnHxo7mXNbx8aLcFLjpump": {
+    "name": "SOLFROG",
+    "symbol": "SOLFROG",
+    "flagged_ts": 1790572519,
+    "liquidity_at_flag": 26710.671765994804,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 90,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "G2UuN6mXeizsfBkiPcoZVCE4ciSLQoo9iC8FC8zRYeps": {
+    "name": "OpenAI bot",
+    "symbol": "o",
+    "flagged_ts": 1790572520,
+    "liquidity_at_flag": 36244.821327237834,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 75,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "8KKrkdpNJcsuSnywwVCsX7j93FJsTvWaBRcWAqsnEFKE": {
+    "name": "Space Bunny",
+    "symbol": "\u592a\u7a7a\u5154",
+    "flagged_ts": 1790572520,
+    "liquidity_at_flag": 36922.68525085942,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 75,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "3AaZhDQug7q7h6ZJtNUR5Y5j6u2isGi7huN9ni4Justq": {
+    "name": "Fast Internet Money",
+    "symbol": "FIM",
+    "flagged_ts": 1790572521,
+    "liquidity_at_flag": 36525.20639643009,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 75,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "Gr8L4W6UoXUukML1V6JBYvfZKvAEYWEJSNNRdKRAN6mC": {
+    "name": "CLAUDE AI",
+    "symbol": "CLAUDE AI",
+    "flagged_ts": 1790572522,
+    "liquidity_at_flag": 31400.685095087167,
+    "breakdown": {
+      "MOMENTUM": 82,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "87PNk1XAEiXsKVWzH9ve1LkeXzJj69oiko8AgjWB8Mkq": {
+    "name": "Meme Founder",
+    "symbol": "RICHARD",
+    "flagged_ts": 1790572523,
+    "liquidity_at_flag": 65853.09024355837,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
