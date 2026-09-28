@@ -1,18 +1,5 @@
 [
   {
-    "name": "Colleague",
-    "symbol": "$COLLEAGUE",
-    "category": "rug",
-    "change_pct": -100.0,
-    "breakdown": {
-      "MOMENTUM": 100,
-      "SAFETY": 75,
-      "LIQUIDITY": 100,
-      "SMART MONEY": 0
-    },
-    "ts": 1790533411
-  },
-  {
     "name": "Dillinger",
     "symbol": "DILLINGER",
     "category": "fading",
@@ -3898,5 +3885,18 @@
       "SMART MONEY": 0
     },
     "ts": 1790633370
+  },
+  {
+    "name": "Bagged",
+    "symbol": "BAGGED",
+    "category": "rug",
+    "change_pct": -90.0,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 90,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "ts": 1790634988
   }
 ]

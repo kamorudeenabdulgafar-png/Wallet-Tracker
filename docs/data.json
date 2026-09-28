@@ -1,5 +1,5 @@
 {
-  "last_updated": 1790634191,
+  "last_updated": 1790634991,
   "wallets": [
     {
       "label": "Dev wallet 1",
@@ -89,7 +89,7 @@
     "count": 2835,
     "up_count": 613,
     "total_change_pct": -155586.29928175083,
-    "rug": 2343,
+    "rug": 2344,
     "doing_well": 27,
     "steady": 10,
     "fading": 35
@@ -97,6 +97,31 @@
   "learning_insight": "Coins that rugged averaged SAFETY 71; coins that did well averaged SAFETY 92.",
   "settings": {},
   "recent_alerts": [
+    {
+      "ts": 1790634991,
+      "type": "outcome",
+      "message": "\ud83d\udd34 PERSONA (PERSONA) is dropping fast \u2014 down 74%, may be rugging."
+    },
+    {
+      "ts": 1790634990,
+      "type": "outcome",
+      "message": "\ud83d\udd34 Brain.site (BRAIN) is dropping fast \u2014 down 100%, may be rugging."
+    },
+    {
+      "ts": 1790634989,
+      "type": "outcome",
+      "message": "\ud83d\udd34 PUMPCOIN (PFC) is dropping fast \u2014 down 81%, may be rugging."
+    },
+    {
+      "ts": 1790634988,
+      "type": "outcome",
+      "message": "\ud83d\udd34 Bagged (BAGGED) turned out to be a rug \u2014 liquidity dropped 90% over 24h."
+    },
+    {
+      "ts": 1790634987,
+      "type": "scanner",
+      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\nKodaPacks (KP)\nOpportunity: 74/100\n\nMOMENTUM     93\nSAFETY       60\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$24,271, 5 min since pool creation\n\u2022 Up +62% in the last hour, ~$56,106 in 24h volume (2.3x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 91% of supply (very concentrated)\n\nCA: 6U2YXyQjE6j865pGpFMRY6USCzNhFsyeCTpuVcLH4Ts8\nhttps://dexscreener.com/solana/6U2YXyQjE6j865pGpFMRY6USCzNhFsyeCTpuVcLH4Ts8\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
+    },
     {
       "ts": 1790634191,
       "type": "outcome",
@@ -321,31 +346,6 @@
       "ts": 1790629540,
       "type": "wallet",
       "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: USO -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/5qm4Wbqz36UJEVBcUHqqPk4DNn7WL2k8Mw8AFTBTgBmtDoELVTAif34vtoKZ8XeBhR4Zfa5tar1ThK8Hym4JoPHp"
-    },
-    {
-      "ts": 1790629540,
-      "type": "wallet",
-      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: SPYx -> USDC\nTrade size: unknown\nBought token: USD Coin (USDC)\nCA: EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v\nhttps://solscan.io/tx/4XqLMRmfzcSWHyJrnSD8JQPM8wEWrTVkAyGt4GPuoEdVJzyAnMgDiq4xvHBueNTGpX3TDtx5dKEb4hSXkeVTqog"
-    },
-    {
-      "ts": 1790628760,
-      "type": "outcome",
-      "message": "\ud83d\udd34 p/xmr (p/xmr) is dropping fast \u2014 down 75%, may be rugging."
-    },
-    {
-      "ts": 1790628759,
-      "type": "outcome",
-      "message": "\ud83d\udd34 p/xmr (p/xmr) is dropping fast \u2014 down 100%, may be rugging."
-    },
-    {
-      "ts": 1790628758,
-      "type": "outcome",
-      "message": "\ud83d\udd34 Still City (STILL) is dropping fast \u2014 down 100%, may be rugging."
-    },
-    {
-      "ts": 1790628757,
-      "type": "outcome",
-      "message": "\ud83d\udd34 VaultStrategy (VAULT) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
     }
   ]
 }
