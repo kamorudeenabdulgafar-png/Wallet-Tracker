@@ -1,18 +1,5 @@
 [
   {
-    "name": "Blueprint",
-    "symbol": "BLUEPRINT",
-    "category": "doing_well",
-    "change_pct": 118.8,
-    "breakdown": {
-      "MOMENTUM": 84,
-      "SAFETY": 90,
-      "LIQUIDITY": 97,
-      "SMART MONEY": 0
-    },
-    "ts": 1790443861
-  },
-  {
     "name": "Claude Opus5.5",
     "symbol": "Claude",
     "category": "rug",
@@ -3898,5 +3885,18 @@
       "SMART MONEY": 0
     },
     "ts": 1790554078
+  },
+  {
+    "name": "Whale Accelerationism",
+    "symbol": "whale/acc",
+    "category": "rug",
+    "change_pct": -89.9,
+    "breakdown": {
+      "MOMENTUM": 78,
+      "SAFETY": 100,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "ts": 1790555514
   }
 ]
