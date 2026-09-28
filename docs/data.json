@@ -1,5 +1,5 @@
 {
-  "last_updated": 1790566310,
+  "last_updated": 1790567377,
   "wallets": [
     {
       "label": "Dev wallet 1",
@@ -89,7 +89,7 @@
     "count": 2835,
     "up_count": 613,
     "total_change_pct": -155586.29928175083,
-    "rug": 2144,
+    "rug": 2147,
     "doing_well": 23,
     "steady": 9,
     "fading": 34
@@ -97,6 +97,36 @@
   "learning_insight": null,
   "settings": {},
   "recent_alerts": [
+    {
+      "ts": 1790567377,
+      "type": "outcome",
+      "message": "\ud83d\udd34 paidAgents (AGENTS) is dropping fast \u2014 down 60%, may be rugging."
+    },
+    {
+      "ts": 1790567376,
+      "type": "outcome",
+      "message": "\ud83d\udd34 GOONACC (GOONACC) turned out to be a rug \u2014 liquidity dropped 91% over 24h."
+    },
+    {
+      "ts": 1790567375,
+      "type": "outcome",
+      "message": "\ud83d\udd34 JACK (JACK) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
+    },
+    {
+      "ts": 1790567374,
+      "type": "outcome",
+      "message": "\ud83d\udd34 Tuition (Tuition) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
+    },
+    {
+      "ts": 1790567372,
+      "type": "scanner",
+      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 STRONG\nhippoacc (hippo/acc)\nOpportunity: 84/100\n\nMOMENTUM     100\nSAFETY       100\nLIQUIDITY    72\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$14,408, 9 min since pool creation\n\u2022 Up +111% in the last hour, ~$610,647 in 24h volume (42.4x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Low, 0/100):\n\u2022 No major red flags found\n\nCA: CGfVJX4D35wE8kviKKE1XyKU9EHRXe4Zsw3R55ABpump\nhttps://dexscreener.com/solana/CGfVJX4D35wE8kviKKE1XyKU9EHRXe4Zsw3R55ABpump\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
+    },
+    {
+      "ts": 1790567369,
+      "type": "scanner",
+      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\npump (PUMP)\nOpportunity: 76/100\n\nMOMENTUM     100\nSAFETY       60\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$28,259, 6 min since pool creation\n\u2022 Up +404% in the last hour, ~$127,862 in 24h volume (4.5x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 90% of supply (very concentrated)\n\nCA: 7XdqdQpDLJ7uKpoZZmUXLnbURpE6jQ8PPTzShsAY1vUM\nhttps://dexscreener.com/solana/7XdqdQpDLJ7uKpoZZmUXLnbURpE6jQ8PPTzShsAY1vUM\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
+    },
     {
       "ts": 1790566310,
       "type": "outcome",
@@ -316,36 +346,6 @@
       "ts": 1790563683,
       "type": "wallet",
       "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: SPCXx -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/3sSkhjHhm376VrJxEEPKGG3ZFeF28KhUxrKemXJuruM3koF6Sk1fBFkHtKe622NSCZTtu4btFok8BXSGqc8sgoUW"
-    },
-    {
-      "ts": 1790563682,
-      "type": "wallet",
-      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: AAPLx -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/3Rk3WmS2grd1JCpTmtcLhcvMd1gA7ghsd61NwCf67hMTFk7GQwgzcy7KovusnuTNxEB6gK6bH4sdEBQAvpmHua7m"
-    },
-    {
-      "ts": 1790563682,
-      "type": "wallet",
-      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: DKNG -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/iPLDAXuRUEJKvcEkLbDfrG7nabWm8USVpf849ar5j5YXh6V3Vpsh3tWHAm4jYM76iACB5DJFrLw4MoYpJtMi4dh"
-    },
-    {
-      "ts": 1790563681,
-      "type": "wallet",
-      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: USDC -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/5DbxxRqJSvactVVtwhYKKZNwa935RHZHRQqxxzzbxMTYEYR13memUzBsPpQAL6S9eSw6mJeP42WJE8zifYRUa7CZ"
-    },
-    {
-      "ts": 1790562627,
-      "type": "outcome",
-      "message": "\ud83d\udd34 \ud809\udc2a (\ud809\udc2a) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
-    },
-    {
-      "ts": 1790562626,
-      "type": "outcome",
-      "message": "\ud83d\udd34 Trump AI (Trump AI) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
-    },
-    {
-      "ts": 1790562625,
-      "type": "outcome",
-      "message": "\ud83d\udd34 pls (pls) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
     }
   ]
 }
