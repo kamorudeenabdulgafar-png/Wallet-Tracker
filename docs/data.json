@@ -1,5 +1,5 @@
 {
-  "last_updated": 1790624355,
+  "last_updated": 1790625058,
   "wallets": [
     {
       "label": "Dev wallet 1",
@@ -10,7 +10,7 @@
     "5CEbueQnq1Ym2uSSx2xXds3jQAqT1BDnkA59RZobSPAG": {
       "label": "Dev wallet 1",
       "buy_count": 404,
-      "sell_count": 226,
+      "sell_count": 227,
       "total_buy_usd": 15628.984658586525,
       "total_sell_usd": 0.0,
       "tokens_traded": [
@@ -70,7 +70,7 @@
         "BPxxfRCXkUVhig4HS1Lh7kZqV6SPJhzfEk4x6fVBjPCy",
         "27G8MtK7VtTcCHkpASjSDdkWWYfoqT6ggEuKidVJidD4"
       ],
-      "last_active": 1790624337,
+      "last_active": 1790625051,
       "positions": {},
       "realized_pnl_usd": 0.0
     }
@@ -89,7 +89,7 @@
     "count": 2835,
     "up_count": 613,
     "total_change_pct": -155586.29928175083,
-    "rug": 2313,
+    "rug": 2315,
     "doing_well": 26,
     "steady": 10,
     "fading": 35
@@ -97,6 +97,41 @@
   "learning_insight": "Coins that rugged averaged SAFETY 71; coins that did well averaged SAFETY 93.",
   "settings": {},
   "recent_alerts": [
+    {
+      "ts": 1790625057,
+      "type": "outcome",
+      "message": "\ud83d\udd34 PUMPAMOL (PUMPAMOL) turned out to be a rug \u2014 liquidity dropped 92% over 24h."
+    },
+    {
+      "ts": 1790625056,
+      "type": "outcome",
+      "message": "\ud83d\udd34 Earn (EARN) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
+    },
+    {
+      "ts": 1790625055,
+      "type": "scanner",
+      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\np/xmr (p/xmr)\nOpportunity: 74/100\n\nMOMENTUM     64\nSAFETY       90\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$45,141, 16 min since pool creation\n\u2022 Up +43% in the last hour, ~$30,291 in 24h volume (0.7x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Low, 10/100):\n\u2022 top 10 holders own 36% of supply\n\nCA: GBTkSzep7xDoBGWK154TvaJWWzsb8rw5GWChNcoLcYM8\nhttps://dexscreener.com/solana/GBTkSzep7xDoBGWK154TvaJWWzsb8rw5GWChNcoLcYM8\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
+    },
+    {
+      "ts": 1790625053,
+      "type": "scanner",
+      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 STRONG\np/xmr (p/xmr)\nOpportunity: 81/100\n\nMOMENTUM     100\nSAFETY       75\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$36,040, 8 min since pool creation\n\u2022 Up +105% in the last hour, ~$87,950 in 24h volume (2.4x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 25/100):\n\u2022 top 10 holders own 69% of supply (concentrated)\n\nCA: 6BVR478pDEm1MKbtahLC7B4a5qNGaDdBzQNRqtGKe9ho\nhttps://dexscreener.com/solana/6BVR478pDEm1MKbtahLC7B4a5qNGaDdBzQNRqtGKe9ho\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
+    },
+    {
+      "ts": 1790625052,
+      "type": "wallet",
+      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: MCDx -> USDC\nTrade size: unknown\nBought token: USD Coin (USDC)\nCA: EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v\nhttps://solscan.io/tx/2xTKMHEu1pqigD2KknP1zKdDxdxbHRMyKpfpE9E3jKXBpHnfHU6sPxyWidTuZNjWa1qZZR1FcKS9UaLkfwwJuFtP"
+    },
+    {
+      "ts": 1790625051,
+      "type": "wallet",
+      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: SPCXx -> SPCX\nTrade size: unknown\nBought token: SpaceX - Backpack Securities (SPCX)\nCA: SPCXxcqXj6e5dJDVNovHN8744zkbhM2bYudU45BimGb\nhttps://solscan.io/tx/3yMQq8rEav7FMK8BLZwLiDGNvei1AxashqiYQxsXKRCQZdMYZhGxfAdAop2kPvFVBxA8q6bj7FgCaC1tUYMZXgcf"
+    },
+    {
+      "ts": 1790625051,
+      "type": "wallet",
+      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: TRUMP -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/wmG1Pv7uR4RojnNicPPrAyJsmGyGoFwo234mprNZqnrmNLYG6iYX5L4AFJ5ZeftraN23shDhSGtRT6zDhvNknt5"
+    },
     {
       "ts": 1790624355,
       "type": "outcome",
@@ -311,41 +346,6 @@
       "ts": 1790620480,
       "type": "scanner",
       "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\nBrain.site (BRAIN)\nOpportunity: 72/100\n\nMOMENTUM     89\nSAFETY       60\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$25,132, 13 min since pool creation\n\u2022 Up +59% in the last hour, ~$136,116 in 24h volume (5.4x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 99% of supply (very concentrated)\n\nCA: B7HbqBEFJaxWYKUPoMvcTQraxZf9prpr1qJQFr47NVUi\nhttps://dexscreener.com/solana/B7HbqBEFJaxWYKUPoMvcTQraxZf9prpr1qJQFr47NVUi\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
-    },
-    {
-      "ts": 1790620479,
-      "type": "scanner",
-      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 STRONG\nPUMPCOIN (PFC)\nOpportunity: 82/100\n\nMOMENTUM     86\nSAFETY       90\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$21,432, 8 min since pool creation\n\u2022 Up +57% in the last hour, ~$85,880 in 24h volume (4.0x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Low, 10/100):\n\u2022 top 10 holders own 45% of supply\n\nCA: 5bpnsoZ3HgwGs42Tyd6nEK9s9MCQhhDjVmUveqgbmyJK\nhttps://dexscreener.com/solana/5bpnsoZ3HgwGs42Tyd6nEK9s9MCQhhDjVmUveqgbmyJK\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
-    },
-    {
-      "ts": 1790620477,
-      "type": "wallet",
-      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: SPCXx -> SPCX\nTrade size: unknown\nBought token: SpaceX - Backpack Securities (SPCX)\nCA: SPCXxcqXj6e5dJDVNovHN8744zkbhM2bYudU45BimGb\nhttps://solscan.io/tx/EJrYNCHPcvpVB57qpKMoJxyfdniVQoJZt5uGi5F1kNbeX6vZ1fHeeAXCSv7YaoxZjTwbRYheZmicik9dHjdYrkK"
-    },
-    {
-      "ts": 1790620477,
-      "type": "wallet",
-      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: neet -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/5mdGgMuq5qVVTPGyyQbVVuMA1dd2VbMqYvPxASEvvkwsN1MPPuJXmUCmqCqbRR6t1s5P7M7mrHXcA4TsFRJYt557"
-    },
-    {
-      "ts": 1790619325,
-      "type": "outcome",
-      "message": "\ud83d\udfe0 Pygoscelis kerguelensis (Pygoscelis) is fading \u2014 down 44% so far."
-    },
-    {
-      "ts": 1790619323,
-      "type": "scanner",
-      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\nSuper Intelligent Cat (SICAT)\nOpportunity: 76/100\n\nMOMENTUM     100\nSAFETY       60\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$51,918, 9 min since pool creation\n\u2022 Up +129% in the last hour, ~$1,264,566 in 24h volume (24.4x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 99% of supply (very concentrated)\n\nCA: 7VjqSyxuergcSAvWmcpwqFgrYKg64uxyXzhcaGvwKEeC\nhttps://dexscreener.com/solana/7VjqSyxuergcSAvWmcpwqFgrYKg64uxyXzhcaGvwKEeC\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
-    },
-    {
-      "ts": 1790619322,
-      "type": "scanner",
-      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\nBotBook (BotBook)\nOpportunity: 75/100\n\nMOMENTUM     100\nSAFETY       60\nLIQUIDITY    96\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$19,156, 9 min since pool creation\n\u2022 Up +135% in the last hour, ~$89,036 in 24h volume (4.6x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 96% of supply (very concentrated)\n\nCA: ABhon8e1tRYUSRuyYDXrxrwWMHN1Y2QpiVo2DW8Ljyqa\nhttps://dexscreener.com/solana/ABhon8e1tRYUSRuyYDXrxrwWMHN1Y2QpiVo2DW8Ljyqa\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
-    },
-    {
-      "ts": 1790618336,
-      "type": "outcome",
-      "message": "\ud83d\udd34 Still City (STILL) is dropping fast \u2014 down 100%, may be rugging."
     }
   ]
 }
