@@ -1,38 +1,4 @@
 {
-  "AZhuQ2ncipAtpatTfhYtb9okriVHhpFEbfVfKoWuug9w": {
-    "name": "$Nipple$",
-    "symbol": "$Nipple$",
-    "flagged_ts": 1790013205,
-    "liquidity_at_flag": 28218.42665794002,
-    "breakdown": {
-      "MOMENTUM": 93,
-      "SAFETY": 60,
-      "LIQUIDITY": 100,
-      "SMART MONEY": 0
-    },
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "8L7LUXyM69ebJNHHBT2QqeTfznjzCKpY35yL5WieeBL1": {
-    "name": "Always Has Been",
-    "symbol": "ALWAYS",
-    "flagged_ts": 1790013206,
-    "liquidity_at_flag": 24988.322952564882,
-    "breakdown": {
-      "MOMENTUM": 100,
-      "SAFETY": 60,
-      "LIQUIDITY": 100,
-      "SMART MONEY": 0
-    },
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
   "CMwCjRsiyY8SKAFoAVExxCeTVn9Zt1ps9VjBfdxQru6u": {
     "name": "WASH",
     "symbol": "WASH",
@@ -28708,7 +28674,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "Cg2msMvDeYEhtC98rzoT1qJ8cnoJ8bUxUAnCz5pVA1eM": {
@@ -28724,7 +28691,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "LihFw8UA4t9nSbMaPzKurp4kq5qpKjGp6AnjEfA7QQ4": {
@@ -28740,7 +28708,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "3MW2ZUufKyrZbHw6jXyTg3xk2pv1qb1NppaEAUYC8ZBY": {
@@ -31998,7 +31967,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "4GQmn6XXjsHcM6dF7vihQCtjwhf73enuGYq2SRYwK669": {
     "name": "Froink",
@@ -32021,6 +31992,45 @@
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "7n7dS5Dk7YjaKKDzb5e9gPK3Md6mziTLsBA3mJYu6gnV": {
+    "name": "BotBook",
+    "symbol": "BotBook",
+    "flagged_ts": 1790618328,
+    "liquidity_at_flag": 19202.8529211973,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 90,
+      "LIQUIDITY": 96,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "2mRNwnmFPh3UsnnRYmm1FCY216QMX2h21S1SccioX1jJ": {
+    "name": "Collector Launchpad",
+    "symbol": "CPAD",
+    "flagged_ts": 1790618332,
+    "liquidity_at_flag": 28288.793894873816,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "CEFVRfiaQqNNPDvQJ4f8YeEGUuzDFbU7AxN5rW3mpump": {
+    "name": "Claude",
+    "symbol": "Claude",
+    "flagged_ts": 1790618333,
+    "liquidity_at_flag": 50784.16611993052,
+    "breakdown": {
+      "MOMENTUM": 61,
+      "SAFETY": 100,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
