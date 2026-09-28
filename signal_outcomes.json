@@ -31911,7 +31911,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "Q3Y5F1LfpLvD72CyJcwg7wE6zdPGxWNvFnGfNfcpump": {
@@ -31926,7 +31927,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "J71u7Ms2A28ojf62EZ8DuxpfxRdtZekFVDTxC1Xdm2kY": {
@@ -32210,7 +32212,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "3rLBVA2wk9AWzqR3Zinbt6VLfnU29YsWdw4Ue2LXe45L": {
     "name": "CLAUDE AI",
@@ -32223,7 +32227,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "2quAShcHm3YT1GPJL15XJ79HY54SiP8fYHA2FetPXpWJ": {
     "name": "SLOPCANNON",
@@ -32236,7 +32242,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "ZVMihT6DKXWKRGX54VGvnYv4ndES8XtneUUYMCLpump": {
     "name": "SnarkStrategy",
@@ -32249,7 +32257,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "ARuPVKTu19vqGsPLj4bZe2DxRpatH7THzk7eT5kAL3F9": {
     "name": "zmr",
@@ -32441,6 +32451,58 @@
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 100,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "6Hw8NEEeypxXmPMkemm5FCD6oZLn2VDcwnXDgr3qpump": {
+    "name": "Effective Uptober",
+    "symbol": "e/up",
+    "flagged_ts": 1790575095,
+    "liquidity_at_flag": 16187.49566959167,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 100,
+      "LIQUIDITY": 81,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "3QGMMok7y7hv9eAte58vmxwvsiMisuSjU9WncVAURUrA": {
+    "name": "Gary",
+    "symbol": "Gary",
+    "flagged_ts": 1790575096,
+    "liquidity_at_flag": 30619.8732075222,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "sMq1SzVQGZVdT6zT2cHedmo19tN7DiqQaDAywswpump": {
+    "name": "IRAN",
+    "symbol": "IRAN",
+    "flagged_ts": 1790575096,
+    "liquidity_at_flag": 82267.10014245914,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 100,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "Dimo67L6c5qCe7nuXz925EzjbYNpxpL8HihGQPNmpump": {
+    "name": "FullSend",
+    "symbol": "FULLSEND",
+    "flagged_ts": 1790575097,
+    "liquidity_at_flag": 45952.09255164565,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
