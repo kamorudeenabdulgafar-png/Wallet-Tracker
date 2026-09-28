@@ -1,89 +1,4 @@
 {
-  "8tRQfGYnKhsHnmqfsWua84M7Dhndak5yJ3C1i6ouN41a": {
-    "name": "Nautilo",
-    "symbol": "Nautilo",
-    "flagged_ts": 1790003959,
-    "liquidity_at_flag": 38849.43094636406,
-    "breakdown": {
-      "MOMENTUM": 100,
-      "SAFETY": 60,
-      "LIQUIDITY": 100,
-      "SMART MONEY": 0
-    },
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "6i9yNthmax8j7kLXMdrjBpAKp8LRCt21KJe1ZmgenMqF": {
-    "name": "Uranus",
-    "symbol": "Uranus",
-    "flagged_ts": 1790003960,
-    "liquidity_at_flag": 48086.056056955305,
-    "breakdown": {
-      "MOMENTUM": 100,
-      "SAFETY": 60,
-      "LIQUIDITY": 100,
-      "SMART MONEY": 0
-    },
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "BVbJ7ssyeTgd4i6WDhjRTztfiKqA5t9WCVsvNRN828Rt": {
-    "name": "Claude Ai",
-    "symbol": "claude",
-    "flagged_ts": 1790003960,
-    "liquidity_at_flag": 40480.68145010296,
-    "breakdown": {
-      "MOMENTUM": 100,
-      "SAFETY": 60,
-      "LIQUIDITY": 100,
-      "SMART MONEY": 0
-    },
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "62Ubvp1hdi43AeNGgKrqH2BtR4K3iV9aKVNxKr4GrwBw": {
-    "name": "$Nipple$",
-    "symbol": "$Nipple$",
-    "flagged_ts": 1790003961,
-    "liquidity_at_flag": 33021.21414170604,
-    "breakdown": {
-      "MOMENTUM": 100,
-      "SAFETY": 60,
-      "LIQUIDITY": 100,
-      "SMART MONEY": 0
-    },
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "oNZtPgyxU8yzSbgqtGAedxdXamnVKgnDm45U3FJQJWf": {
-    "name": "Uranus",
-    "symbol": "Uranus",
-    "flagged_ts": 1790003962,
-    "liquidity_at_flag": 74163.3766213505,
-    "breakdown": {
-      "MOMENTUM": 100,
-      "SAFETY": 60,
-      "LIQUIDITY": 100,
-      "SMART MONEY": 0
-    },
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
   "A1DHEhzZLB1rFaGY6Dhka8N9k1psrg2CBADLjzxvbFap": {
     "name": "Synter",
     "symbol": "SYN",
@@ -28844,7 +28759,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "C1dsCHh658awaoxVeJmpTaiNC5QVjx37kwaQ53p6wMpn": {
@@ -31883,7 +31799,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "Yq21TXmHSLPRmvMq7YmN6vEjXDi2cXvnbDomvhRpump": {
@@ -32182,7 +32099,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "37Bho7wb2YdV1fauo8YNhLxYyPdx8yxwY5d56uMzpump": {
     "name": "Nokia 3310",
@@ -32195,7 +32114,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "Dj9KMbM8MfrysX9cHuiCnkTW72cDAi56vPBtCFp6gX9q": {
     "name": "Pygoscelis kerguelensis",
@@ -32208,7 +32129,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "H2hC5Xj3bfsUQGWphzeTyK1wyGsUcQ2AsVZbXCg3qrkX": {
     "name": "Nearlios",
@@ -32270,6 +32193,32 @@
     "breakdown": {
       "MOMENTUM": 90,
       "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "8zFFYjtYqxWu5JvKgZzkKaxE3aPpJAiVpNuA1ETupump": {
+    "name": "Grailshot",
+    "symbol": "GRAILSHOT",
+    "flagged_ts": 1790609233,
+    "liquidity_at_flag": 21977.8509278068,
+    "breakdown": {
+      "MOMENTUM": 74,
+      "SAFETY": 90,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "NtLaGZ2s23obWyKornRUsr4CqkgVEZwMaxxNrm8pump": {
+    "name": "IRAN",
+    "symbol": "IRAN",
+    "flagged_ts": 1790609234,
+    "liquidity_at_flag": 76709.16873575024,
+    "breakdown": {
+      "MOMENTUM": 64,
+      "SAFETY": 100,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
