@@ -1,5 +1,5 @@
 {
-  "last_updated": 1790723351,
+  "last_updated": 1790724120,
   "wallets": [
     {
       "label": "Dev wallet 1",
@@ -89,7 +89,7 @@
     "count": 2835,
     "up_count": 613,
     "total_change_pct": -155586.29928175083,
-    "rug": 2502,
+    "rug": 2504,
     "doing_well": 29,
     "steady": 11,
     "fading": 38
@@ -97,6 +97,21 @@
   "learning_insight": "Coins that rugged averaged SAFETY 72; coins that did well averaged SAFETY 90.",
   "settings": {},
   "recent_alerts": [
+    {
+      "ts": 1790724120,
+      "type": "outcome",
+      "message": "\ud83d\udd34 poteto (POTETO) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
+    },
+    {
+      "ts": 1790724120,
+      "type": "outcome",
+      "message": "\ud83d\udd34 Poteto (POTETO) turned out to be a rug \u2014 liquidity dropped 86% over 24h."
+    },
+    {
+      "ts": 1790724119,
+      "type": "scanner",
+      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 STRONG\nReside (RESI)\nOpportunity: 81/100\n\nMOMENTUM     100\nSAFETY       75\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$39,461, 9 min since pool creation\n\u2022 Up +134% in the last hour, ~$112,674 in 24h volume (2.9x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 25/100):\n\u2022 top 10 holders own 68% of supply (concentrated)\n\nCA: FSBuE8rXG3ZU9GTSnrUJWcFDAh72gxYTtuuz51DQQb7N\nhttps://dexscreener.com/solana/FSBuE8rXG3ZU9GTSnrUJWcFDAh72gxYTtuuz51DQQb7N\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
+    },
     {
       "ts": 1790723351,
       "type": "outcome",
@@ -331,21 +346,6 @@
       "ts": 1790718924,
       "type": "wallet",
       "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: xHYPE -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/V9ixkxVWhuuGwNG9z9NV9LGWhQHPStDZoEhh4eQiiRv3PYbf4oMNva3yaX8r9ceqMMKJddqrngnEXH7pqVn17VG"
-    },
-    {
-      "ts": 1790718923,
-      "type": "wallet",
-      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: RKLB -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/4bGMtoYXpWxxu3opFfBSANTiaoebbxoXMXGJeqh8aKsj8rhi6BNZh4fmhCiYYzHDey9x6xwMz2cxp9XJFrVxrgtY"
-    },
-    {
-      "ts": 1790718923,
-      "type": "wallet",
-      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: TRUMP -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/2bLUm7dD2J1ZLQLGky9gva3y95zxQgowU9c3iEQ9Ar1FzHwFHiXchpchNndWDpaLBHEQekwT4P67p7ZqjUqsBSvJ"
-    },
-    {
-      "ts": 1790718193,
-      "type": "outcome",
-      "message": "\ud83d\udfe2 \u5168\u5458\u8fdb\u5165\u4e0d\u70e7\u5fc3\u65f6\u4ee3 (\u4e0d\u70e7\u5fc3) is still doing really good \u2014 up 82% so far!"
     }
   ]
 }
