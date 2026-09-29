@@ -1,5 +1,5 @@
 {
-  "last_updated": 1790708372,
+  "last_updated": 1790709264,
   "wallets": [
     {
       "label": "Dev wallet 1",
@@ -10,7 +10,7 @@
     "5CEbueQnq1Ym2uSSx2xXds3jQAqT1BDnkA59RZobSPAG": {
       "label": "Dev wallet 1",
       "buy_count": 444,
-      "sell_count": 239,
+      "sell_count": 240,
       "total_buy_usd": 15628.984658586525,
       "total_sell_usd": 0.0,
       "tokens_traded": [
@@ -70,7 +70,7 @@
         "BPxxfRCXkUVhig4HS1Lh7kZqV6SPJhzfEk4x6fVBjPCy",
         "27G8MtK7VtTcCHkpASjSDdkWWYfoqT6ggEuKidVJidD4"
       ],
-      "last_active": 1790708363,
+      "last_active": 1790709258,
       "positions": {},
       "realized_pnl_usd": 0.0
     }
@@ -97,6 +97,36 @@
   "learning_insight": "Coins that rugged averaged SAFETY 72; coins that did well averaged SAFETY 90.",
   "settings": {},
   "recent_alerts": [
+    {
+      "ts": 1790709264,
+      "type": "outcome",
+      "message": "\ud83d\udfe0 Super Mufasa (SM) is fading \u2014 down 52% so far."
+    },
+    {
+      "ts": 1790709263,
+      "type": "outcome",
+      "message": "\ud83d\udd34 Iranian Revolution (IR) is dropping fast \u2014 down 100%, may be rugging."
+    },
+    {
+      "ts": 1790709262,
+      "type": "outcome",
+      "message": "\ud83d\udfe0 Eliza Society (Liza) is fading \u2014 down 37% so far."
+    },
+    {
+      "ts": 1790709261,
+      "type": "outcome",
+      "message": "\ud83d\udd34 Retard Inu (RI) is dropping fast \u2014 down 100%, may be rugging."
+    },
+    {
+      "ts": 1790709259,
+      "type": "wallet",
+      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: SKR -> USDC\nTrade size: unknown\nBought token: USD Coin (USDC)\nCA: EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v\nhttps://solscan.io/tx/559G7bHfZJifNsCCfay8u8JM3GmFQisUGTkMRc3De5or8zXKEfxst6AScDvHC5XnUNwLffFAAhozchM2zYsdeQKn"
+    },
+    {
+      "ts": 1790709258,
+      "type": "wallet",
+      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: xHYPE -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/2ixeCaem4dfnXbQAWT9xtwWWocJ45wUJooDpiGUjncSPif2Gkhcf8NEC4YRLqU1ayh76TrEcmiPUeTNW6EohvzpH"
+    },
     {
       "ts": 1790708372,
       "type": "outcome",
@@ -316,36 +346,6 @@
       "ts": 1790703580,
       "type": "outcome",
       "message": "\ud83d\udfe1 Claimed NFTs (cNFTs) is holding steady so far (-1%)."
-    },
-    {
-      "ts": 1790703579,
-      "type": "outcome",
-      "message": "\ud83d\udfe0 zecbox.fun (ZECBOX) is fading \u2014 down 38% so far."
-    },
-    {
-      "ts": 1790703577,
-      "type": "outcome",
-      "message": "\ud83d\udd34 America.gov (America.gov) is dropping fast \u2014 down 61%, may be rugging."
-    },
-    {
-      "ts": 1790703576,
-      "type": "outcome",
-      "message": "\ud83d\udd34 bundle alon (bundlealon) is dropping fast \u2014 down 61%, may be rugging."
-    },
-    {
-      "ts": 1790703575,
-      "type": "outcome",
-      "message": "\ud83d\udd34 zecbox.fun (ZECBOX) is dropping fast \u2014 down 100%, may be rugging."
-    },
-    {
-      "ts": 1790703572,
-      "type": "wallet",
-      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: AVAX -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/2SUsA8bwBmU2zr9C3gU8xHjAqMgZprSvmQaXoHCPVZDHjBAWdB7XzYWmEQXFLU8o2cFwkzbe7hKoH7jiDWiDZoXc"
-    },
-    {
-      "ts": 1790703571,
-      "type": "wallet",
-      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: GLDx -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/8sjhdGhW23TpvDV1Ux53Zw3rK3gdcnJeC5VQDZoYcAYqcGFhnc89VT2B5Sp6TbDPjdVLVEuQGfrN3qsfbnVNAcn"
     }
   ]
 }
