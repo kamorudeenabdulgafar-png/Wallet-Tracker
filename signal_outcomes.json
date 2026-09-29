@@ -1,38 +1,4 @@
 {
-  "FGAC5h4GHi8w2seLiZM6AKD4Jr9KUWxuGoXV54yhsDDq": {
-    "name": "\u8783\u87f9",
-    "symbol": "\u8783\u87f9",
-    "flagged_ts": 1790110508,
-    "liquidity_at_flag": 35409.38446583596,
-    "breakdown": {
-      "MOMENTUM": 100,
-      "SAFETY": 75,
-      "LIQUIDITY": 100,
-      "SMART MONEY": 0
-    },
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "CSTwGRirAutXqSK5BtzF5fQkpRdGd2Rk36NJdx1Poqb9": {
-    "name": "miss the opportunity",
-    "symbol": "miss",
-    "flagged_ts": 1790110509,
-    "liquidity_at_flag": 52962.2796864753,
-    "breakdown": {
-      "MOMENTUM": 100,
-      "SAFETY": 60,
-      "LIQUIDITY": 100,
-      "SMART MONEY": 0
-    },
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
   "G5xDN1V9TXeGqy5chw8qQGiEUoidWbjoZ4TrsBveXLkY": {
     "name": "SWEEP",
     "symbol": "SWEEP",
@@ -30849,7 +30815,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "EYUMDK4vpYKTj3X1cRQLbu6uNVTX1UGwzC2HB9pJpump": {
@@ -31180,6 +31147,45 @@
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 100,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "Mer8cYuZ4wmJyj2hmaNFhgtxj8ZEGywPuXWWMrxpump": {
+    "name": "SOL Parasite",
+    "symbol": "SP",
+    "flagged_ts": 1790715507,
+    "liquidity_at_flag": 10209.959055367599,
+    "breakdown": {
+      "MOMENTUM": 91,
+      "SAFETY": 90,
+      "LIQUIDITY": 51,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "BV3WYhhvaS3NzwksJmmupo53xs6Lrk37QEbECtqTpump": {
+    "name": "American Super Intelligence",
+    "symbol": "ASI",
+    "flagged_ts": 1790715508,
+    "liquidity_at_flag": 19984.38678521872,
+    "breakdown": {
+      "MOMENTUM": 54,
+      "SAFETY": 90,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "J1bSWYhXipZY4VYb4GWmPwj2VX9NCZusvYx1Edymzffr": {
+    "name": "PAYDAY",
+    "symbol": "PAYDAY",
+    "flagged_ts": 1790715509,
+    "liquidity_at_flag": 38518.99467244894,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
