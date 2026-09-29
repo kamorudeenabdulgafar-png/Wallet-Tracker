@@ -1,38 +1,4 @@
 {
-  "7CdSoAVsN6kivhdSMA4iHyqGpKbsTENzSeSTgRbd8qst": {
-    "name": "Tesla",
-    "symbol": "TSLA",
-    "flagged_ts": 1790052971,
-    "liquidity_at_flag": 132600.27480066416,
-    "breakdown": {
-      "MOMENTUM": 84,
-      "SAFETY": 60,
-      "LIQUIDITY": 100,
-      "SMART MONEY": 0
-    },
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "A3ppMCw9yrN4a5M52AEaauandhCvmDUTFByUicbh9wWo": {
-    "name": "CALI",
-    "symbol": "CALI",
-    "flagged_ts": 1790052972,
-    "liquidity_at_flag": 36564.421015054744,
-    "breakdown": {
-      "MOMENTUM": 100,
-      "SAFETY": 100,
-      "LIQUIDITY": 100,
-      "SMART MONEY": 0
-    },
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
   "ADAcPKDRFXiVV6Z3gC7KbgRggKsyNxjbqBih8m3EjJr7": {
     "name": "Allincuh",
     "symbol": "Allincuh",
@@ -28300,7 +28266,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "BCjVYaiUVRQwus1KTgbY2drKk4ifB5iQJfKRPjj6Q7vj": {
@@ -30971,7 +30938,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "BtEnwXydxTRBZuJkq5JNxSYgXmUwWujRHNDWUJzcMQJJ": {
@@ -30986,7 +30954,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "DwTNh6WH4PayseeYqWnRw9UGpYvnXCvsWoL9YLNQCB3h": {
@@ -31450,7 +31419,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "2CcEUBPcZUVge7azR4DXx8aZ6eyGCuDB7oDfddffpKuT": {
     "name": "21\u5206\u949f",
@@ -31463,7 +31434,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "2HNw7tKqDXXrcbyH19b5je6M638NBqRmRYbYfpaE53Zb": {
     "name": "dihstorm",
@@ -31476,7 +31449,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "9Nerh57ugN55V2VyD7CCaduC7phcGzFm3f2x2qvsVcPs": {
     "name": "Roo",
@@ -31603,6 +31578,45 @@
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 100,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "FcWZLyFCQgYs3kiRVFKKMUz1XDfBFoiXp1EcREbymWWA": {
+    "name": "Claimed",
+    "symbol": "Claimed",
+    "flagged_ts": 1790658341,
+    "liquidity_at_flag": 45711.48094823299,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 75,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "9B4ShGoVoyAfEsfNA13zBeaubwsM5DGBMsH8FbhjFBsb": {
+    "name": "Virus",
+    "symbol": "Virus",
+    "flagged_ts": 1790658342,
+    "liquidity_at_flag": 38647.54839508918,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "76DV3o12asFaoCyQMGP6bvuDK7xLSSjr7Y1MaQQWiMdj": {
+    "name": "Coragentic",
+    "symbol": "CORA",
+    "flagged_ts": 1790658343,
+    "liquidity_at_flag": 42108.20174107002,
+    "breakdown": {
+      "MOMENTUM": 89,
+      "SAFETY": 60,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },

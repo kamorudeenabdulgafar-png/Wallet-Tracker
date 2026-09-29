@@ -1,5 +1,5 @@
 {
-  "last_updated": 1790657564,
+  "last_updated": 1790658348,
   "wallets": [
     {
       "label": "Dev wallet 1",
@@ -9,7 +9,7 @@
   "wallet_stats": {
     "5CEbueQnq1Ym2uSSx2xXds3jQAqT1BDnkA59RZobSPAG": {
       "label": "Dev wallet 1",
-      "buy_count": 414,
+      "buy_count": 415,
       "sell_count": 233,
       "total_buy_usd": 15628.984658586525,
       "total_sell_usd": 0.0,
@@ -70,7 +70,7 @@
         "BPxxfRCXkUVhig4HS1Lh7kZqV6SPJhzfEk4x6fVBjPCy",
         "27G8MtK7VtTcCHkpASjSDdkWWYfoqT6ggEuKidVJidD4"
       ],
-      "last_active": 1790656773,
+      "last_active": 1790658337,
       "positions": {},
       "realized_pnl_usd": 0.0
     }
@@ -89,14 +89,64 @@
     "count": 2835,
     "up_count": 613,
     "total_change_pct": -155586.29928175083,
-    "rug": 2376,
+    "rug": 2377,
     "doing_well": 29,
     "steady": 10,
     "fading": 36
   },
-  "learning_insight": "Coins that rugged averaged SAFETY 71; coins that did well averaged SAFETY 92.",
+  "learning_insight": "Coins that rugged averaged SAFETY 72; coins that did well averaged SAFETY 92.",
   "settings": {},
   "recent_alerts": [
+    {
+      "ts": 1790658347,
+      "type": "outcome",
+      "message": "\ud83d\udd34 SPEED GANG (SPEED) is dropping fast \u2014 down 100%, may be rugging."
+    },
+    {
+      "ts": 1790658346,
+      "type": "outcome",
+      "message": "\ud83d\udd34 \u4e2d\u56fd\u4eba\u80fd\u98de\u706b\u7bad (\u4e2d\u56fd\u4eba\u80fd\u98de) is dropping fast \u2014 down 100%, may be rugging."
+    },
+    {
+      "ts": 1790658345,
+      "type": "outcome",
+      "message": "\ud83d\udd34 Claude Paint (stillwet) is dropping fast \u2014 down 100%, may be rugging."
+    },
+    {
+      "ts": 1790658344,
+      "type": "outcome",
+      "message": "\ud83d\udd34 zmr (zmr) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
+    },
+    {
+      "ts": 1790658343,
+      "type": "scanner",
+      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\nCoragentic (CORA)\nOpportunity: 72/100\n\nMOMENTUM     89\nSAFETY       60\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$42,108, 27 min since pool creation\n\u2022 Up +59% in the last hour, ~$389,852 in 24h volume (9.3x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 76% of supply (very concentrated)\n\nCA: 76DV3o12asFaoCyQMGP6bvuDK7xLSSjr7Y1MaQQWiMdj\nhttps://dexscreener.com/solana/76DV3o12asFaoCyQMGP6bvuDK7xLSSjr7Y1MaQQWiMdj\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
+    },
+    {
+      "ts": 1790658342,
+      "type": "scanner",
+      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\nVirus (Virus)\nOpportunity: 76/100\n\nMOMENTUM     100\nSAFETY       60\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$38,648, 26 min since pool creation\n\u2022 Up +134% in the last hour, ~$57,710 in 24h volume (1.5x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 71% of supply (very concentrated)\n\nCA: 9B4ShGoVoyAfEsfNA13zBeaubwsM5DGBMsH8FbhjFBsb\nhttps://dexscreener.com/solana/9B4ShGoVoyAfEsfNA13zBeaubwsM5DGBMsH8FbhjFBsb\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
+    },
+    {
+      "ts": 1790658341,
+      "type": "scanner",
+      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 STRONG\nClaimed (Claimed)\nOpportunity: 81/100\n\nMOMENTUM     100\nSAFETY       75\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$45,711, 16 min since pool creation\n\u2022 Up +126% in the last hour, ~$43,108 in 24h volume (0.9x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 25/100):\n\u2022 top 10 holders own 63% of supply (concentrated)\n\nCA: FcWZLyFCQgYs3kiRVFKKMUz1XDfBFoiXp1EcREbymWWA\nhttps://dexscreener.com/solana/FcWZLyFCQgYs3kiRVFKKMUz1XDfBFoiXp1EcREbymWWA\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
+    },
+    {
+      "ts": 1790658337,
+      "type": "wallet",
+      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: USDC -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/3kWFZeNjkDmcyPSj8AFN4Rr75gJ1JmkMNt2jEhKmQMh6qYeE6cYikD6wpAvqRrLrRMhRE9ab9iyzAtH73anDrtvN"
+    },
+    {
+      "ts": 1790658337,
+      "type": "wallet",
+      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: xHYPE -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/tDj1Kq18AQQ3W1XUp1ezmgDFDCFbEycFziTLL6AZqrn2PVvT3vSCCpdP3i5NPwWTeMhihdsPVApP2yxnjcHCb8D"
+    },
+    {
+      "ts": 1790658336,
+      "type": "wallet",
+      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: SPYx -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/2hGT4YaHezBc54DZL9TVnfZCuYYjR9eHbZiMuTHM9daruAnezJmye8rt9YPerqsi1afFG6XYRzHrzEeyRgmVCHh3"
+    },
     {
       "ts": 1790657564,
       "type": "outcome",
@@ -296,56 +346,6 @@
       "ts": 1790654940,
       "type": "outcome",
       "message": "\ud83d\udd34 two (two) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
-    },
-    {
-      "ts": 1790654939,
-      "type": "outcome",
-      "message": "\ud83d\udd34 Sydney Sweeney's Boobs (BOOBS) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
-    },
-    {
-      "ts": 1790654938,
-      "type": "scanner",
-      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\n\u4e2d\u56fd\u4eba\u80fd\u98de\u706b\u7bad (\u4e2d\u56fd\u4eba\u80fd\u98de)\nOpportunity: 76/100\n\nMOMENTUM     100\nSAFETY       60\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$59,465, 28 min since pool creation\n\u2022 Up +85% in the last hour, ~$229,158 in 24h volume (3.9x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 75% of supply (very concentrated)\n\nCA: DSfnJj2snzyCYebsbYXFSbJQvyTE5oySaFr4r6i9ZcCB\nhttps://dexscreener.com/solana/DSfnJj2snzyCYebsbYXFSbJQvyTE5oySaFr4r6i9ZcCB\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
-    },
-    {
-      "ts": 1790654936,
-      "type": "scanner",
-      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 STRONG\npolar ber (ber)\nOpportunity: 86/100\n\nMOMENTUM     100\nSAFETY       90\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$21,889, 23 min since pool creation\n\u2022 Up +135% in the last hour, ~$365,144 in 24h volume (16.7x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Low, 10/100):\n\u2022 top 10 holders own 34% of supply\n\nCA: 3sJLXbRoBgVgeDnCCfmdSZuJQRtuyPRsJmMTCZumWH9Y\nhttps://dexscreener.com/solana/3sJLXbRoBgVgeDnCCfmdSZuJQRtuyPRsJmMTCZumWH9Y\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
-    },
-    {
-      "ts": 1790654936,
-      "type": "scanner",
-      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 EXCEPTIONAL\nRoo (ROO)\nOpportunity: 90/100\n\nMOMENTUM     100\nSAFETY       100\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$32,723, 10 min since pool creation\n\u2022 Up +68% in the last hour, ~$26,536 in 24h volume (0.8x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Low, 0/100):\n\u2022 No major red flags found\n\nCA: 9Nerh57ugN55V2VyD7CCaduC7phcGzFm3f2x2qvsVcPs\nhttps://dexscreener.com/solana/9Nerh57ugN55V2VyD7CCaduC7phcGzFm3f2x2qvsVcPs\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
-    },
-    {
-      "ts": 1790654230,
-      "type": "outcome",
-      "message": "\ud83d\udfe2 Parasite (PARASITE) is still doing really good \u2014 up 40% so far!"
-    },
-    {
-      "ts": 1790654228,
-      "type": "outcome",
-      "message": "\ud83d\udd34 MAGA-MAN (MAGA) is dropping fast \u2014 down 100%, may be rugging."
-    },
-    {
-      "ts": 1790654227,
-      "type": "outcome",
-      "message": "\ud83d\udd34 Launch a Pad (LAP) is dropping fast \u2014 down 100%, may be rugging."
-    },
-    {
-      "ts": 1790654226,
-      "type": "outcome",
-      "message": "\ud83d\udfe1 HelpDonRetire (Don) is holding steady so far (+8%)."
-    },
-    {
-      "ts": 1790654225,
-      "type": "outcome",
-      "message": "\ud83d\udd34 \u5e01\u5b89\u5e84\u6b23\u5982 (\u5e84\u6b23\u5982) is dropping fast \u2014 down 100%, may be rugging."
-    },
-    {
-      "ts": 1790654224,
-      "type": "outcome",
-      "message": "\ud83d\udfe0 Launch a Pad (LAP) is fading \u2014 down 54% so far."
     }
   ]
 }
