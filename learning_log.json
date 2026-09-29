@@ -1,31 +1,5 @@
 [
   {
-    "name": "Banana For Scale",
-    "symbol": "$BANANA",
-    "category": "rug",
-    "change_pct": -100.0,
-    "breakdown": {
-      "MOMENTUM": 100,
-      "SAFETY": 60,
-      "LIQUIDITY": 100,
-      "SMART MONEY": 0
-    },
-    "ts": 1790578831
-  },
-  {
-    "name": "TheMarsSociety",
-    "symbol": "MARTIANS",
-    "category": "doing_well",
-    "change_pct": 429.9,
-    "breakdown": {
-      "MOMENTUM": 89,
-      "SAFETY": 90,
-      "LIQUIDITY": 100,
-      "SMART MONEY": 0
-    },
-    "ts": 1790578832
-  },
-  {
     "name": "STOX",
     "symbol": "STOX",
     "category": "rug",
@@ -3898,5 +3872,31 @@
       "SMART MONEY": 0
     },
     "ts": 1790711283
+  },
+  {
+    "name": "p/xmr",
+    "symbol": "p/xmr",
+    "category": "rug",
+    "change_pct": -100.0,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 75,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "ts": 1790711912
+  },
+  {
+    "name": "p/xmr",
+    "symbol": "p/xmr",
+    "category": "rug",
+    "change_pct": -89.3,
+    "breakdown": {
+      "MOMENTUM": 64,
+      "SAFETY": 90,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "ts": 1790711913
   }
 ]

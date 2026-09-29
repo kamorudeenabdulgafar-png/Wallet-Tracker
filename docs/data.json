@@ -1,5 +1,5 @@
 {
-  "last_updated": 1790711285,
+  "last_updated": 1790711913,
   "wallets": [
     {
       "label": "Dev wallet 1",
@@ -89,7 +89,7 @@
     "count": 2835,
     "up_count": 613,
     "total_change_pct": -155586.29928175083,
-    "rug": 2479,
+    "rug": 2481,
     "doing_well": 29,
     "steady": 11,
     "fading": 38
@@ -97,6 +97,21 @@
   "learning_insight": "Coins that rugged averaged SAFETY 72; coins that did well averaged SAFETY 90.",
   "settings": {},
   "recent_alerts": [
+    {
+      "ts": 1790711913,
+      "type": "outcome",
+      "message": "\ud83d\udd34 p/xmr (p/xmr) turned out to be a rug \u2014 liquidity dropped 89% over 24h."
+    },
+    {
+      "ts": 1790711912,
+      "type": "outcome",
+      "message": "\ud83d\udd34 p/xmr (p/xmr) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
+    },
+    {
+      "ts": 1790711910,
+      "type": "scanner",
+      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\nXSI (XSI)\nOpportunity: 76/100\n\nMOMENTUM     100\nSAFETY       60\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$40,858, 6 min since pool creation\n\u2022 Up +381% in the last hour, ~$90,414 in 24h volume (2.2x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 91% of supply (very concentrated)\n\nCA: F81jKM3AmKyB2mfcR5uVEqHtsZeUxm7cs5Y9JcnFsjnc\nhttps://dexscreener.com/solana/F81jKM3AmKyB2mfcR5uVEqHtsZeUxm7cs5Y9JcnFsjnc\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
+    },
     {
       "ts": 1790711285,
       "type": "outcome",
@@ -331,21 +346,6 @@
       "ts": 1790706498,
       "type": "scanner",
       "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 STRONG\nHumancoin (HUMAN)\nOpportunity: 86/100\n\nMOMENTUM     100\nSAFETY       90\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$21,077, 7 min since pool creation\n\u2022 Up +122% in the last hour, ~$104,139 in 24h volume (4.9x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Low, 10/100):\n\u2022 top 10 holders own 40% of supply\n\nCA: 3ZSai4T7MGJYdSgAA3ro1bGnVLQGbtdjBu9o23zCojvu\nhttps://dexscreener.com/solana/3ZSai4T7MGJYdSgAA3ro1bGnVLQGbtdjBu9o23zCojvu\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
-    },
-    {
-      "ts": 1790705301,
-      "type": "outcome",
-      "message": "\ud83d\udd34 Q\u5e01 (Q\u5e01) is dropping fast \u2014 down 100%, may be rugging."
-    },
-    {
-      "ts": 1790705300,
-      "type": "outcome",
-      "message": "\ud83d\udd34 parasite phil (paraphil) is dropping fast \u2014 down 80%, may be rugging."
-    },
-    {
-      "ts": 1790705299,
-      "type": "outcome",
-      "message": "\ud83d\udfe2 zipcoin (ZC) is still doing really good \u2014 up 68% so far!"
     }
   ]
 }
