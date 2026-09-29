@@ -1,38 +1,4 @@
 {
-  "Fj2y6wxefcJg5wgHEKZUBBwpxuznp86WkPkqUe2CemCY": {
-    "name": "suit",
-    "symbol": "suit",
-    "flagged_ts": 1790041970,
-    "liquidity_at_flag": 37383.76392894839,
-    "breakdown": {
-      "MOMENTUM": 100,
-      "SAFETY": 60,
-      "LIQUIDITY": 100,
-      "SMART MONEY": 0
-    },
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "G3cKLYxtkCRDcNmfx9uwnHdUN4LwiDAi1zGUeMxvtB3o": {
-    "name": "Uranus",
-    "symbol": "URANUS",
-    "flagged_ts": 1790041972,
-    "liquidity_at_flag": 38576.232068556536,
-    "breakdown": {
-      "MOMENTUM": 100,
-      "SAFETY": 60,
-      "LIQUIDITY": 100,
-      "SMART MONEY": 0
-    },
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
   "AQ5sEridYFNGuFYx6hyWaoXdMKr5M4KFyW91THFomVVS": {
     "name": "Argus",
     "symbol": "ARGUS",
@@ -28674,7 +28640,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "J71u7Ms2A28ojf62EZ8DuxpfxRdtZekFVDTxC1Xdm2kY": {
@@ -31329,7 +31296,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "EyFpexSPTf2F6zuXGnpr6YJkEQnbkXfmBVgk4AJ3pump": {
@@ -31688,7 +31656,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "BtEnwXydxTRBZuJkq5JNxSYgXmUwWujRHNDWUJzcMQJJ": {
     "name": "\u4e2d\u56fd\u4eba\u80fd\u98de\u706b\u7bad",
@@ -31701,7 +31671,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "DwTNh6WH4PayseeYqWnRw9UGpYvnXCvsWoL9YLNQCB3h": {
     "name": "Pumpoween",
@@ -31815,6 +31787,32 @@
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "9EASr7hzXHTiWffDYcPg3vUkWZxZY5BtUHMTFKaVRTgL": {
+    "name": "JONKEY",
+    "symbol": "JONKEY",
+    "flagged_ts": 1790647144,
+    "liquidity_at_flag": 28982.077681171984,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "CG1LWtpxbR176bzjCvG2PMPvGAeggJwnsZkoyHYipump": {
+    "name": "Ape in Dog",
+    "symbol": "AID",
+    "flagged_ts": 1790647145,
+    "liquidity_at_flag": 23317.501381284204,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 100,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },

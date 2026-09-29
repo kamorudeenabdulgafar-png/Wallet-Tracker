@@ -1,5 +1,5 @@
 {
-  "last_updated": 1790646577,
+  "last_updated": 1790647151,
   "wallets": [
     {
       "label": "Dev wallet 1",
@@ -70,7 +70,7 @@
         "BPxxfRCXkUVhig4HS1Lh7kZqV6SPJhzfEk4x6fVBjPCy",
         "27G8MtK7VtTcCHkpASjSDdkWWYfoqT6ggEuKidVJidD4"
       ],
-      "last_active": 1790643243,
+      "last_active": 1790647141,
       "positions": {},
       "realized_pnl_usd": 0.0
     }
@@ -89,7 +89,7 @@
     "count": 2835,
     "up_count": 613,
     "total_change_pct": -155586.29928175083,
-    "rug": 2357,
+    "rug": 2358,
     "doing_well": 27,
     "steady": 10,
     "fading": 35
@@ -97,6 +97,56 @@
   "learning_insight": "Coins that rugged averaged SAFETY 71; coins that did well averaged SAFETY 92.",
   "settings": {},
   "recent_alerts": [
+    {
+      "ts": 1790647151,
+      "type": "outcome",
+      "message": "\ud83d\udd34 \u4e2d\u56fd\u4eba\u80fd\u98de\u706b\u7bad (\u4e2d\u56fd\u4eba\u80fd\u98de) is dropping fast \u2014 down 100%, may be rugging."
+    },
+    {
+      "ts": 1790647150,
+      "type": "outcome",
+      "message": "\ud83d\udd34 Claude Paint (stillwet) is dropping fast \u2014 down 100%, may be rugging."
+    },
+    {
+      "ts": 1790647149,
+      "type": "outcome",
+      "message": "\ud83d\udfe0 GachaWatch (WATCH) is fading \u2014 down 45% so far."
+    },
+    {
+      "ts": 1790647148,
+      "type": "outcome",
+      "message": "\ud83d\udd34 Official Barron Trump (BARRON) turned out to be a rug \u2014 liquidity dropped 96% over 24h."
+    },
+    {
+      "ts": 1790647145,
+      "type": "scanner",
+      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 EXCEPTIONAL\nApe in Dog (AID)\nOpportunity: 90/100\n\nMOMENTUM     100\nSAFETY       100\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$23,318, 8 min since pool creation\n\u2022 Up +84% in the last hour, ~$79,539 in 24h volume (3.4x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Low, 0/100):\n\u2022 No major red flags found\n\nCA: CG1LWtpxbR176bzjCvG2PMPvGAeggJwnsZkoyHYipump\nhttps://dexscreener.com/solana/CG1LWtpxbR176bzjCvG2PMPvGAeggJwnsZkoyHYipump\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
+    },
+    {
+      "ts": 1790647144,
+      "type": "scanner",
+      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\nJONKEY (JONKEY)\nOpportunity: 76/100\n\nMOMENTUM     100\nSAFETY       60\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$28,982, 7 min since pool creation\n\u2022 Up +213% in the last hour, ~$111,491 in 24h volume (3.8x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 93% of supply (very concentrated)\n\nCA: 9EASr7hzXHTiWffDYcPg3vUkWZxZY5BtUHMTFKaVRTgL\nhttps://dexscreener.com/solana/9EASr7hzXHTiWffDYcPg3vUkWZxZY5BtUHMTFKaVRTgL\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
+    },
+    {
+      "ts": 1790647141,
+      "type": "wallet",
+      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: SNDK -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/4hwB9pJ7QX6Xm9G3P6k4rwjTwWxtEZSDY5VmE3oFacVYsPYfFi6matXHXs9pEdadAwxS36F6pJ6xThJn1UJBFnGX"
+    },
+    {
+      "ts": 1790647140,
+      "type": "wallet",
+      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: CARDS -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/2PQxCx7VgfNdokUJgBcJhRhF6JvSMwftjhK8CGkCjwsmDM2Jb4UjEqnFsJFhTwuDhENjhUmEBewb1NdYNysMggeD"
+    },
+    {
+      "ts": 1790647140,
+      "type": "wallet",
+      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: LULU -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/4Au3ttditg1W75A8XZQpWYTwziMcyGEJo3Ff6RNCNBEiBdjeSa9AhceXSKPZnkD1S8EZ1ar1x55tjm6jHrENcVkj"
+    },
+    {
+      "ts": 1790647139,
+      "type": "wallet",
+      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: SPX -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/4i8TMJm7kXWt8eVothseTz1nGiEoKEyeQ2JwNJRkScR7Z8Gs3iEUXfnVKFoGUfsb6qAM1pdEK1LoqxESoxR14KwB"
+    },
     {
       "ts": 1790646577,
       "type": "outcome",
@@ -296,56 +346,6 @@
       "ts": 1790643242,
       "type": "wallet",
       "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: USDC -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/7a6rgWZ6hxJxXiQxn6pKykmQ1mek3cL4h7DDkBKKGPLnji4aZci9bFA9eN3Hkn6vW878XTkBY8JUCkuyNEFgyND"
-    },
-    {
-      "ts": 1790642241,
-      "type": "outcome",
-      "message": "\ud83d\udd34 poteto (POTETO) is dropping fast \u2014 down 100%, may be rugging."
-    },
-    {
-      "ts": 1790642240,
-      "type": "outcome",
-      "message": "\ud83d\udd34 Poteto (POTETO) is dropping fast \u2014 down 86%, may be rugging."
-    },
-    {
-      "ts": 1790642240,
-      "type": "outcome",
-      "message": "\ud83d\udd34 CLONES (CLONES) is dropping fast \u2014 down 100%, may be rugging."
-    },
-    {
-      "ts": 1790642239,
-      "type": "outcome",
-      "message": "\ud83d\udd34 Fomo Candle (FOMOCANDLE) is dropping fast \u2014 down 92%, may be rugging."
-    },
-    {
-      "ts": 1790642238,
-      "type": "outcome",
-      "message": "\ud83d\udfe0 Harvest (HARVEST) is fading \u2014 down 55% so far."
-    },
-    {
-      "ts": 1790642237,
-      "type": "scanner",
-      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\nUncle Murphy (Murphy)\nOpportunity: 76/100\n\nMOMENTUM     100\nSAFETY       60\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$29,973, 17 min since pool creation\n\u2022 Up +204% in the last hour, ~$349,023 in 24h volume (11.6x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 97% of supply (very concentrated)\n\nCA: EJXGSeCN2Mowym8zGp73AAGKFHRzwrfeXyantfFQVGS9\nhttps://dexscreener.com/solana/EJXGSeCN2Mowym8zGp73AAGKFHRzwrfeXyantfFQVGS9\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
-    },
-    {
-      "ts": 1790642237,
-      "type": "scanner",
-      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\nDoppler Finance (XDP)\nOpportunity: 76/100\n\nMOMENTUM     100\nSAFETY       60\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$105,969, 15 min since pool creation\n\u2022 Up +107% in the last hour, ~$5,348,285 in 24h volume (50.5x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 94% of supply (very concentrated)\n\nCA: 64ptPt5uFrFrC7VKNWoqptDe3e2HXh5cNJdKQo8Kp7SZ\nhttps://dexscreener.com/solana/64ptPt5uFrFrC7VKNWoqptDe3e2HXh5cNJdKQo8Kp7SZ\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
-    },
-    {
-      "ts": 1790642236,
-      "type": "scanner",
-      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 STRONG\nHALLOWINU (HALLOWINU)\nOpportunity: 85/100\n\nMOMENTUM     96\nSAFETY       90\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$20,970, 9 min since pool creation\n\u2022 Up +64% in the last hour, ~$29,579 in 24h volume (1.4x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Low, 10/100):\n\u2022 top 10 holders own 42% of supply\n\nCA: WApCdQftZcRUNHN9S2XvmrqeRtRASE3EZxnwuNJpump\nhttps://dexscreener.com/solana/WApCdQftZcRUNHN9S2XvmrqeRtRASE3EZxnwuNJpump\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
-    },
-    {
-      "ts": 1790640759,
-      "type": "outcome",
-      "message": "\ud83d\udd34 Zubit (Zubit) is dropping fast \u2014 down 100%, may be rugging."
-    },
-    {
-      "ts": 1790640758,
-      "type": "outcome",
-      "message": "\ud83d\udfe0 Carla (Carla) is fading \u2014 down 33% so far."
     }
   ]
 }
