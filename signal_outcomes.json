@@ -1,21 +1,4 @@
 {
-  "9pyR5w7Dt9iVAwfx2JLBjGcqvGAnErJJdC6c5fgeJH2F": {
-    "name": "Agent Wormhole",
-    "symbol": "WORM",
-    "flagged_ts": 1790066314,
-    "liquidity_at_flag": 44608.8880833147,
-    "breakdown": {
-      "MOMENTUM": 100,
-      "SAFETY": 60,
-      "LIQUIDITY": 100,
-      "SMART MONEY": 0
-    },
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
   "3tZGxMzdMeqUAgoXgcRt3cRmz9LcZRhrEj4q4bG3ZjQk": {
     "name": "Pyre",
     "symbol": "Pyre",
@@ -28113,7 +28096,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "HstH264S9NSVdiftgtTTYY4n5CA6aienJroExD5JKYLD": {
@@ -30864,7 +30848,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "Gps7DagBKmmdQpcxcCFCqqLph3SviCzgtEMvJC9uGso3": {
@@ -30879,7 +30864,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "HnNW8mJCRPg7rHQ3MxuzcW9HPuLJCzQkrFKBuRg1qq8n": {
@@ -30894,7 +30880,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "4D4g9bMwY2EYb7CU79u2Xsg6hciPoPcGYiWPVicopump": {
@@ -31403,7 +31390,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "9hgfNMGiZAKTHbLudccqsMDLXay8MuLqTpPbYp5ppump": {
     "name": "chillguy wif sword",
@@ -31416,7 +31405,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "AVeHi7pHa5tmni54r2C4BcujH5NoQN4zYbz57aDnkHrY": {
     "name": "Q\u5e01",
@@ -31462,6 +31453,58 @@
     "symbol": "CASHEW",
     "flagged_ts": 1790669276,
     "liquidity_at_flag": 28063.07423814926,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "4sRdsC7dGW2KPLXs3nZAbK9vZzWAUkCM2vBszfgAqfT4": {
+    "name": "Q\u5e01",
+    "symbol": "Q\u5e01",
+    "flagged_ts": 1790671306,
+    "liquidity_at_flag": 24460.568201948445,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 100,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "Afx115cNQsPpS1ojdsXeyFir4M4ze9iqLMmyKUKhebt6": {
+    "name": "catfish",
+    "symbol": "catfish",
+    "flagged_ts": 1790671307,
+    "liquidity_at_flag": 219353.87793993193,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "4ygGAGhoVGDC5P8hzMNg7HbqxTcUiXCBBfe1ZPD4pmGh": {
+    "name": "Knowledge accelerationism",
+    "symbol": "K/acc",
+    "flagged_ts": 1790671308,
+    "liquidity_at_flag": 41107.46595281773,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "BgxFdE5kKwA9tSz4kWr7smrgmiRfnYWnpjtgBsTtPhq3": {
+    "name": "BNBuilder",
+    "symbol": "BNBuilder",
+    "flagged_ts": 1790671309,
+    "liquidity_at_flag": 80652.01304682145,
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 60,
