@@ -1,18 +1,5 @@
 [
   {
-    "name": "Fomo NPC",
-    "symbol": "fomonpc",
-    "category": "rug",
-    "change_pct": -82.2,
-    "breakdown": {
-      "MOMENTUM": 100,
-      "SAFETY": 100,
-      "LIQUIDITY": 100,
-      "SMART MONEY": 0
-    },
-    "ts": 1790571013
-  },
-  {
     "name": "TIPPED",
     "symbol": "TIPPED",
     "category": "rug",
@@ -3898,5 +3885,18 @@
       "SMART MONEY": 0
     },
     "ts": 1790687337
+  },
+  {
+    "name": "CoinMarketCat",
+    "symbol": "CMC",
+    "category": "rug",
+    "change_pct": -100.0,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "ts": 1790688575
   }
 ]
