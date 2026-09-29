@@ -1,38 +1,4 @@
 {
-  "5qS9pfpYvRFTVDStAMND3TrKsrVuvFcYTzfMSb1CVxvS": {
-    "name": "DOGCOIN",
-    "symbol": "DOG",
-    "flagged_ts": 1790048263,
-    "liquidity_at_flag": 30971.202287169635,
-    "breakdown": {
-      "MOMENTUM": 97,
-      "SAFETY": 60,
-      "LIQUIDITY": 100,
-      "SMART MONEY": 0
-    },
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "9mry4cuMLRjyNC9rv2iT3KfesDjdQRLwARzRDWXPqFcB": {
-    "name": "Catinu",
-    "symbol": "Catinu",
-    "flagged_ts": 1790048264,
-    "liquidity_at_flag": 38799.15849260292,
-    "breakdown": {
-      "MOMENTUM": 100,
-      "SAFETY": 60,
-      "LIQUIDITY": 100,
-      "SMART MONEY": 0
-    },
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
   "cwbqseTbt8HmXDc4F9bJBLyPzgwMsMUPoWNVrYCpump": {
     "name": "Guy",
     "symbol": "Guy",
@@ -28419,7 +28385,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "HKNrHJAzatAJFShTAYuLJRh6tuvxzsvnx7xjbdBCyZGW": {
@@ -28435,7 +28402,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "7XdqdQpDLJ7uKpoZZmUXLnbURpE6jQ8PPTzShsAY1vUM": {
@@ -31074,7 +31042,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "6meKWqxrfcyTxgVGnVwjoLgs6oWAPWaBAFMVSLGdi87w": {
@@ -31089,7 +31058,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "EdYKmD6gwazdMQBeadHpSuSeTpjtnbxkpfXCax3Lpump": {
@@ -31104,7 +31074,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "GrXMbn56JtFngA2FgoXenJG5HeD1GhvFnjyFPWbfpump": {
@@ -31508,7 +31479,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "AVShja5cEcpic1x4f4p9wQ3nEZT5TfFA4sgcw16jJXMH": {
     "name": "Parasite \u3002",
@@ -31521,7 +31494,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "DJmoFAvif8X88Qet1o5NqgkXwnMvV9JxmrjYioUWo4H": {
     "name": "Parasite",
@@ -31534,7 +31509,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "3NLfcS6P3RpVQ4i4he7xYp9amQScvTvoLMi5iY7cpump": {
     "name": "Launch a Pad",
@@ -31674,6 +31651,45 @@
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "7Kgyj69MoSQThGWfj8yaQnXZLVHkUWnNtzNfTvUFhFjG": {
+    "name": "\u5e84\u6b23\u5982",
+    "symbol": "BNB\u9ad8\u7ba1",
+    "flagged_ts": 1790653225,
+    "liquidity_at_flag": 42885.640552675715,
+    "breakdown": {
+      "MOMENTUM": 82,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "D1sjmqH633oFY8Sabidv7KN7SoyDPQ5kEifmT5Mdpump": {
+    "name": "scoobert",
+    "symbol": "scoobert",
+    "flagged_ts": 1790653226,
+    "liquidity_at_flag": 33451.47700386655,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 90,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "DHT1Ko1NcGu3wxmV3J8Vh5zbqWKxq5ustAgC2AWrpump": {
+    "name": "Real Feels Guy",
+    "symbol": "WOJAK",
+    "flagged_ts": 1790653228,
+    "liquidity_at_flag": 23056.716497622423,
+    "breakdown": {
+      "MOMENTUM": 52,
+      "SAFETY": 90,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
