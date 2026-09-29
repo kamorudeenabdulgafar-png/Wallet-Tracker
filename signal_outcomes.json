@@ -1,38 +1,4 @@
 {
-  "eNEeCdCUGGvXfaSpGNaG2fA6rL7GeMSyzUjT4XVpump": {
-    "name": "E-Commerce Trust Fund",
-    "symbol": "ECTF",
-    "flagged_ts": 1790109974,
-    "liquidity_at_flag": 41152.43848485283,
-    "breakdown": {
-      "MOMENTUM": 48,
-      "SAFETY": 100,
-      "LIQUIDITY": 100,
-      "SMART MONEY": 0
-    },
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "3rCRwgfxcyn3tpEdAyZHAzLVZsPgm9o83AyK5WW9pump": {
-    "name": "GoPumpMe",
-    "symbol": "GoPump",
-    "flagged_ts": 1790109975,
-    "liquidity_at_flag": 20539.471951019575,
-    "breakdown": {
-      "MOMENTUM": 100,
-      "SAFETY": 90,
-      "LIQUIDITY": 100,
-      "SMART MONEY": 0
-    },
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
   "FGAC5h4GHi8w2seLiZM6AKD4Jr9KUWxuGoXV54yhsDDq": {
     "name": "\u8783\u87f9",
     "symbol": "\u8783\u87f9",
@@ -27586,7 +27552,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "B6AhAi28xyTd4LVHAmG5UXZmEGxB3gpySsJkfUhUTFmf": {
@@ -27602,7 +27569,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "9nwLzYqpTHnA64UL9a2m74qLYbNagXDeua1iBmorpump": {
@@ -30785,7 +30753,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "6wbLVx5EMyBmiKfaJmDfGBuHHhuRgsPMT6qpGDUWgQwA": {
@@ -30800,7 +30769,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "73DeB4ygwuJdfDHk5egpVtWGKs9H8H1oZSSD7ndkWMRZ": {
@@ -30815,7 +30785,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "3npdzcW8D2uGaL3qxrJL43EPCVmEq9bbs4JurN31qS1T": {
@@ -30830,7 +30801,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "81KkXmu2QsVZB7nKiZMrivRe2nNekkZ4wL8cBvXRfdKf": {
@@ -30845,7 +30817,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "9p5cKRR9UvBHUUReoXT8KEqLmqEFQkGV94wiWZb1TH1e": {
@@ -30860,7 +30833,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "FWrsFhHzJhL3XA5tnwGeb4juwvhhnMAmCLbtywVuagsH": {
@@ -31099,7 +31073,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "2afTQB513tNGWoT6pRvmXPkuVMbECUzEdVz9NCZxaUmk": {
     "name": "Super Inu",
@@ -31112,7 +31088,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "DqzVdS8tQQysTwTynmixnhj3KKqqjrYNhft1S5n22YTC": {
     "name": "Doppler Finance",
@@ -31125,7 +31103,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "F81jKM3AmKyB2mfcR5uVEqHtsZeUxm7cs5Y9JcnFsjnc": {
     "name": "XSI",
@@ -31174,6 +31154,32 @@
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "4GKfkRhdk5oHkBH9ofMT7CZTvzE8cJ3e4HF5i2VUpump": {
+    "name": "Netflix & Chill",
+    "symbol": "CHILL",
+    "flagged_ts": 1790714905,
+    "liquidity_at_flag": 32695.5745508743,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 90,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "EKQ3puwVLcuo9ALN2Na7RzKadZLRKB2rSCBGj1G6pump": {
+    "name": "BREAKING",
+    "symbol": "CNN",
+    "flagged_ts": 1790714906,
+    "liquidity_at_flag": 35292.96130023036,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 100,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
