@@ -1,38 +1,4 @@
 {
-  "GFGN4T1L5G4kMo5MUgCnu2H6JFiQK7L8dMR36gEcsZ7X": {
-    "name": "Argus",
-    "symbol": "ARGUS",
-    "flagged_ts": 1790050120,
-    "liquidity_at_flag": 43317.392758110975,
-    "breakdown": {
-      "MOMENTUM": 100,
-      "SAFETY": 60,
-      "LIQUIDITY": 100,
-      "SMART MONEY": 0
-    },
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "7f6BgFByqEvoVdRPA8XSADWaidUbRdpmQb1DoTMiwUpe": {
-    "name": "Kirkies",
-    "symbol": "Kirkies",
-    "flagged_ts": 1790050121,
-    "liquidity_at_flag": 30069.14033582568,
-    "breakdown": {
-      "MOMENTUM": 100,
-      "SAFETY": 60,
-      "LIQUIDITY": 100,
-      "SMART MONEY": 0
-    },
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
   "6itWKNhCWaDEHjTBTGkEx2pk9CTieYNKtDaqz6JVbQrH": {
     "name": "Cashtag",
     "symbol": "CASHTAG",
@@ -28351,7 +28317,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "Dwn55ipmJ3xppHW7pS8EW91vXP9L78nPGAzRNFDaR27Q": {
@@ -28367,7 +28334,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "7Zr7D2iyR5AiNYvXz5kSerRmivRNNWGbLBkM5kfEpump": {
@@ -31518,7 +31486,9 @@
       "LIQUIDITY": 73,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "4aDtkCadyWomBewuynPi7Y8NR41dKXAmUMFYMLBxpump": {
     "name": "Duel",
@@ -31531,7 +31501,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "QVMNeuZgG3WQH3uTsYKwe3dNey4DV1EPyZpz6Ld9KhG": {
     "name": "Launch a Pad",
@@ -31544,7 +31516,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "UeS1L6QUeC3ZSebiTe5rRWM4JnuVSeFPeCsqKpM66iV": {
     "name": "Launch a Pad",
@@ -31557,7 +31531,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "FQjnZx7LJHxsc4y5YWSAJfjsL5STdo11k2nxmNm684Q3": {
     "name": "Duel",
@@ -31642,6 +31618,45 @@
     "symbol": "dihstorm",
     "flagged_ts": 1790654214,
     "liquidity_at_flag": 225706.3236747944,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "9Nerh57ugN55V2VyD7CCaduC7phcGzFm3f2x2qvsVcPs": {
+    "name": "Roo",
+    "symbol": "ROO",
+    "flagged_ts": 1790654936,
+    "liquidity_at_flag": 32723.380415738342,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 100,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "3sJLXbRoBgVgeDnCCfmdSZuJQRtuyPRsJmMTCZumWH9Y": {
+    "name": "polar ber",
+    "symbol": "ber",
+    "flagged_ts": 1790654936,
+    "liquidity_at_flag": 21889.15310871601,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 90,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "DSfnJj2snzyCYebsbYXFSbJQvyTE5oySaFr4r6i9ZcCB": {
+    "name": "\u4e2d\u56fd\u4eba\u80fd\u98de\u706b\u7bad",
+    "symbol": "\u4e2d\u56fd\u4eba\u80fd\u98de",
+    "flagged_ts": 1790654938,
+    "liquidity_at_flag": 59465.12443378987,
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 60,
