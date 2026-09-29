@@ -1,5 +1,5 @@
 {
-  "last_updated": 1790700681,
+  "last_updated": 1790701554,
   "wallets": [
     {
       "label": "Dev wallet 1",
@@ -97,6 +97,31 @@
   "learning_insight": "Coins that rugged averaged SAFETY 72; coins that did well averaged SAFETY 90.",
   "settings": {},
   "recent_alerts": [
+    {
+      "ts": 1790701554,
+      "type": "outcome",
+      "message": "\ud83d\udd34 DAMO EAGLE (\u8fbe\u6469\u9e70) is dropping fast \u2014 down 100%, may be rugging."
+    },
+    {
+      "ts": 1790701553,
+      "type": "outcome",
+      "message": "\ud83d\udfe0 Tsuki (TSUKI) is fading \u2014 down 59% so far."
+    },
+    {
+      "ts": 1790701552,
+      "type": "outcome",
+      "message": "\ud83d\udfe0 Tsukicoin (TSUKI) is fading \u2014 down 56% so far."
+    },
+    {
+      "ts": 1790701551,
+      "type": "scanner",
+      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 STRONG\nQ\u5e01 (Q\u5e01)\nOpportunity: 81/100\n\nMOMENTUM     100\nSAFETY       75\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$65,254, 13 min since pool creation\n\u2022 Up +549% in the last hour, ~$128,569 in 24h volume (2.0x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 25/100):\n\u2022 top 10 holders own 68% of supply (concentrated)\n\nCA: GZVoT6ojbBnbPpopM71XJTGzoyYmJZ7NFddpMHtDH6RP\nhttps://dexscreener.com/solana/GZVoT6ojbBnbPpopM71XJTGzoyYmJZ7NFddpMHtDH6RP\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
+    },
+    {
+      "ts": 1790701550,
+      "type": "scanner",
+      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\nparasite phil (paraphil)\nOpportunity: 79/100\n\nMOMENTUM     100\nSAFETY       90\nLIQUIDITY    61\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$12,233, 8 min since pool creation\n\u2022 Up +94% in the last hour, ~$36,856 in 24h volume (3.0x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Low, 10/100):\n\u2022 top 10 holders own 34% of supply\n\nCA: EYUMDK4vpYKTj3X1cRQLbu6uNVTX1UGwzC2HB9pJpump\nhttps://dexscreener.com/solana/EYUMDK4vpYKTj3X1cRQLbu6uNVTX1UGwzC2HB9pJpump\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
+    },
     {
       "ts": 1790700681,
       "type": "outcome",
@@ -321,31 +346,6 @@
       "ts": 1790698472,
       "type": "wallet",
       "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: USDC -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/51ppy2p9F4JhFu893eTJtPmarwB1t8KNatYAkjiHbwZPhWosQFH4Pp66iYHgbZQJ6q4cHYnAp75aU4thyWDaLU2w"
-    },
-    {
-      "ts": 1790698471,
-      "type": "wallet",
-      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: BP -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/3XPQ75QT1FVpbGpPNmU5X5jxnxKEPE7fpuqvpRNnjKgkifdDBLqgP6r44Bh9EtwufYkDLxrdJ4QjCbQTSFSJMys2"
-    },
-    {
-      "ts": 1790697534,
-      "type": "outcome",
-      "message": "\ud83d\udd34 BNC DAO (BNCDAO) is dropping fast \u2014 down 100%, may be rugging."
-    },
-    {
-      "ts": 1790697533,
-      "type": "outcome",
-      "message": "\ud83d\udd34 Pixel News Network (PNN) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
-    },
-    {
-      "ts": 1790697532,
-      "type": "scanner",
-      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\nDAMO EAGLE (\u8fbe\u6469\u9e70)\nOpportunity: 76/100\n\nMOMENTUM     100\nSAFETY       60\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$33,781, 14 min since pool creation\n\u2022 Up +169% in the last hour, ~$176,064 in 24h volume (5.2x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 70% of supply (very concentrated)\n\nCA: DFc6pDcoQZGz3bfVCu9HnHSWbAwxeYNWrXrCBvMSoNS8\nhttps://dexscreener.com/solana/DFc6pDcoQZGz3bfVCu9HnHSWbAwxeYNWrXrCBvMSoNS8\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
-    },
-    {
-      "ts": 1790697530,
-      "type": "scanner",
-      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\nTsuki (TSUKI)\nOpportunity: 72/100\n\nMOMENTUM     73\nSAFETY       90\nLIQUIDITY    76\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$15,197, 12 min since pool creation\n\u2022 Up +48% in the last hour, ~$376,539 in 24h volume (24.8x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Low, 10/100):\n\u2022 top 10 holders own 49% of supply\n\nCA: 3TzHT5tkAfVSe9bvfGLPWpZzjvRHicugaSMntudL8DxQ\nhttps://dexscreener.com/solana/3TzHT5tkAfVSe9bvfGLPWpZzjvRHicugaSMntudL8DxQ\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
     }
   ]
 }
