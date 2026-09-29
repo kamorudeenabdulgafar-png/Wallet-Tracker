@@ -1,31 +1,5 @@
 [
   {
-    "name": "Anthropic",
-    "symbol": "Anthropic",
-    "category": "rug",
-    "change_pct": -97.0,
-    "breakdown": {
-      "MOMENTUM": 100,
-      "SAFETY": 60,
-      "LIQUIDITY": 100,
-      "SMART MONEY": 0
-    },
-    "ts": 1790541967
-  },
-  {
-    "name": "Daily Roman Update",
-    "symbol": "DRU",
-    "category": "rug",
-    "change_pct": -100.0,
-    "breakdown": {
-      "MOMENTUM": 100,
-      "SAFETY": 60,
-      "LIQUIDITY": 100,
-      "SMART MONEY": 0
-    },
-    "ts": 1790542492
-  },
-  {
     "name": "Asteroid",
     "symbol": "ASTEROID",
     "category": "rug",
@@ -3898,5 +3872,31 @@
       "SMART MONEY": 0
     },
     "ts": 1790653230
+  },
+  {
+    "name": "pump",
+    "symbol": "PUMP",
+    "category": "rug",
+    "change_pct": -100.0,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "ts": 1790654216
+  },
+  {
+    "name": "hippoacc",
+    "symbol": "hippo/acc",
+    "category": "fading",
+    "change_pct": -39.4,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 100,
+      "LIQUIDITY": 72,
+      "SMART MONEY": 0
+    },
+    "ts": 1790654217
   }
 ]
