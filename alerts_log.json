@@ -1,5 +1,45 @@
 [
   {
+    "ts": 1790670389,
+    "type": "outcome",
+    "message": "\ud83d\udd34 \u4e2d\u56fd\u4eba\u80fd\u98de\u706b\u7bad (\u4e2d\u56fd\u4eba\u80fd\u98de) is dropping fast \u2014 down 100%, may be rugging."
+  },
+  {
+    "ts": 1790670388,
+    "type": "outcome",
+    "message": "\ud83d\udfe0 polar ber (ber) is fading \u2014 down 54% so far."
+  },
+  {
+    "ts": 1790670387,
+    "type": "outcome",
+    "message": "\ud83d\udd34 Roo (ROO) is dropping fast \u2014 down 100%, may be rugging."
+  },
+  {
+    "ts": 1790670385,
+    "type": "wallet",
+    "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: GLDx -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/3F4xerTF3ayj23STuUyNGd2nVfXDeppWYDkZus1tfaR2c8Z9jSMjstbUUeGGUtpY1qdg9nppwaMeWV6bGby532QT"
+  },
+  {
+    "ts": 1790670384,
+    "type": "wallet",
+    "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: NOK -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/4s1nELn4cNnLJZkjMXBrmDYUf9cVcVjnGmommJz7HAo2Zi7Z1BvDm1QDWxbTrGaSppapaLddh67xWGFpj22uKyvz"
+  },
+  {
+    "ts": 1790670383,
+    "type": "wallet",
+    "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: SPYx -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/5gDUHpJMHwWWMgDH8jiE6FbXjp7n7EFzEXSWEN2YufJWUGEKMpEm86kp63CwxwiaH6JS6b7pyPb5dMPDomxPFGP1"
+  },
+  {
+    "ts": 1790670382,
+    "type": "wallet",
+    "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: USDC -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/55ntsHGy6pEcwHHQn685oc5StFED2u2NLCAh887Gvc1ooX2zARX5SdWRm9A9j5LZfmFuFisqgwP8v7rmcEoEwgfk"
+  },
+  {
+    "ts": 1790670382,
+    "type": "wallet",
+    "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: JTO -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/58XQEytZVrvhQiKHifeXwoQms3QGmg76YDk1ok9nJFzZnxC5qWdyJ9TMGJ8g5WiimQJhxgU28rm3VEABKcrrnSET"
+  },
+  {
     "ts": 1790669285,
     "type": "outcome",
     "message": "\ud83d\udd34 Super Frog (SF) is dropping fast \u2014 down 91%, may be rugging."
@@ -208,45 +248,5 @@
     "ts": 1790666615,
     "type": "outcome",
     "message": "\ud83d\udd34 Launch a Pad (LAP) is dropping fast \u2014 down 100%, may be rugging."
-  },
-  {
-    "ts": 1790666614,
-    "type": "outcome",
-    "message": "\ud83d\udd34 Launch a Pad (LAP) is dropping fast \u2014 down 100%, may be rugging."
-  },
-  {
-    "ts": 1790666613,
-    "type": "outcome",
-    "message": "\ud83d\udd34 Duel (DUEL) is dropping fast \u2014 down 78%, may be rugging."
-  },
-  {
-    "ts": 1790666612,
-    "type": "outcome",
-    "message": "\ud83d\udd34 Cash Cat ACC (c/acc) is dropping fast \u2014 down 79%, may be rugging."
-  },
-  {
-    "ts": 1790666612,
-    "type": "scanner",
-    "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\nMuse Tea Party (TEAPARTY)\nOpportunity: 74/100\n\nMOMENTUM     95\nSAFETY       60\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$40,316, 22 min since pool creation\n\u2022 Up +64% in the last hour, ~$486,760 in 24h volume (12.1x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 98% of supply (very concentrated)\n\nCA: 5fyZEqF7TZ9AZLtrkudmX6sLzAhve6PBHkR47u4tWdaT\nhttps://dexscreener.com/solana/5fyZEqF7TZ9AZLtrkudmX6sLzAhve6PBHkR47u4tWdaT\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
-  },
-  {
-    "ts": 1790666611,
-    "type": "scanner",
-    "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 STRONG\nPaid (PAID)\nOpportunity: 87/100\n\nMOMENTUM     92\nSAFETY       100\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$36,640, 20 min since pool creation\n\u2022 Up +61% in the last hour, ~$35,489 in 24h volume (1.0x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Low, 0/100):\n\u2022 No major red flags found\n\nCA: 5zvCUJj9m9hCZB94KGhRj6h8bBzbqji6k9kTBXs2w23A\nhttps://dexscreener.com/solana/5zvCUJj9m9hCZB94KGhRj6h8bBzbqji6k9kTBXs2w23A\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
-  },
-  {
-    "ts": 1790666610,
-    "type": "scanner",
-    "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\nKodiak Sciences Inc. (KOD)\nOpportunity: 76/100\n\nMOMENTUM     100\nSAFETY       60\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$38,941, 9 min since pool creation\n\u2022 Up +163% in the last hour, ~$131,748 in 24h volume (3.4x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 74% of supply (very concentrated)\n\nCA: 7DAZZ5PWcpUw8XZ4g1kocWWWrJsYB5sodBbYFJvzG1uS\nhttps://dexscreener.com/solana/7DAZZ5PWcpUw8XZ4g1kocWWWrJsYB5sodBbYFJvzG1uS\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
-  },
-  {
-    "ts": 1790665315,
-    "type": "outcome",
-    "message": "\ud83d\udfe1 Destroy Any Website (STICKMAN) is holding steady so far (+5%)."
-  },
-  {
-    "ts": 1790665314,
-    "type": "outcome",
-    "message": "\ud83d\udd34 MarsCoin (MarsCoin) is dropping fast \u2014 down 100%, may be rugging."
   }
 ]
