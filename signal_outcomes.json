@@ -1,38 +1,4 @@
 {
-  "DFiQVgJK5dTzsdR3hbYE3S14gjL6fuqPvzkGPM5LMz1A": {
-    "name": "Cents",
-    "symbol": "CENTS",
-    "flagged_ts": 1790077552,
-    "liquidity_at_flag": 34029.10438466262,
-    "breakdown": {
-      "MOMENTUM": 100,
-      "SAFETY": 60,
-      "LIQUIDITY": 100,
-      "SMART MONEY": 0
-    },
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "AzEP9c7Kz1wm3RE35pG8g6yyetQqmZu2PSjVoiFAJrtt": {
-    "name": "Cents",
-    "symbol": "CENTS",
-    "flagged_ts": 1790077555,
-    "liquidity_at_flag": 34603.61102206985,
-    "breakdown": {
-      "MOMENTUM": 100,
-      "SAFETY": 90,
-      "LIQUIDITY": 100,
-      "SMART MONEY": 0
-    },
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
   "EePUVHWLJGzqbdmXfTpi9n3SZFNB2rs4z3gmw4bu4L2P": {
     "name": "Cents",
     "symbol": "CENTS",
@@ -27960,7 +27926,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "6ZYq5wyvUAA2ZuaZjQEn9Y8C4LGcpeKe9M9r1fLpump": {
@@ -27976,7 +27943,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "DyLdSneUau27DfKt1e9PNEDMYV5ZbTsJw1jUGhTPfFbT": {
@@ -30711,7 +30679,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "9hgfNMGiZAKTHbLudccqsMDLXay8MuLqTpPbYp5ppump": {
@@ -30726,7 +30695,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "AVeHi7pHa5tmni54r2C4BcujH5NoQN4zYbz57aDnkHrY": {
@@ -31145,7 +31115,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "48hSH3J7fDWxZiUhxj4cb6ekUTTen9d5nyev5qcguAdu": {
     "name": "American Golden Intelligence",
@@ -31158,7 +31130,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "Baox1Sc2pCCk5W1xY4S8eSF5PFSx9XbXX5EB3zXqs4Mr": {
     "name": "Cloned",
@@ -31362,6 +31336,19 @@
     "liquidity_at_flag": 38989.270144383394,
     "breakdown": {
       "MOMENTUM": 90,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "GKRj2y87r5YGQFP2vuu8cH2WyhqaggmkpFJzhZqgVTVW": {
+    "name": "BNC DAO",
+    "symbol": "BNCDAO",
+    "flagged_ts": 1790682728,
+    "liquidity_at_flag": 42574.606192196894,
+    "breakdown": {
+      "MOMENTUM": 100,
       "SAFETY": 60,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
