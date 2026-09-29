@@ -27739,7 +27739,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "gachkYWTVaXZdXr4jKtsdkkSCh4UbBE2DjchTPNnPtf": {
@@ -27755,7 +27756,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "EGbFtir6EDPNfdWrWt9TcEqksadqA1XenJXLhn7vGs8Z": {
@@ -30522,7 +30524,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "CXbayabH4KfQHEq6ToHSPkWBrw9Q6ktrkzLrLYMH6G9w": {
@@ -30537,7 +30540,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "GB5qKh9a7kzRbyceH21uEon4X8DNuRL5vuhqSgm3hqba": {
@@ -30552,7 +30556,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "EThAHDXisQrhvv9MPrv5DgZuRHkjUzNcTwnLzVjCpump": {
@@ -30567,7 +30572,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "G7Ai8KTiGxuUztKubcSYPbqhMvBo7YZ8DKFD5n4p2qnE": {
@@ -30582,7 +30588,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "5SxXkvoY2J4aRLHWpV6VP1gUSVmXrbUE7MYvWaucpump": {
@@ -31061,7 +31068,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "6arE1JxtpL5KsChHweaG99LWG5QCJKqHf5vKr9Twpump": {
     "name": "bundle alon",
@@ -31074,7 +31083,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "F4g5HVgZCvCZVp2h8ncXfVkUjrrgatHt7RXPLtztpump": {
     "name": "America.gov",
@@ -31087,7 +31098,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "7qt6ZK9kA9rdYSvospoZAcGJu6rYS6ngZrSkAr5iwWc1": {
     "name": "zecbox.fun",
@@ -31100,7 +31113,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "3UHnZmNUbPejYLaWojcbAsrz73fDjtabbFkTpvDXXbqg": {
     "name": "cockroach",
@@ -31201,6 +31216,71 @@
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "CbxYjpZYy2JhnAqVEFHoWxDEnhkdBrcKkUdwnAhN5nx3": {
+    "name": "cockroach",
+    "symbol": "COCKROACH",
+    "flagged_ts": 1790692469,
+    "liquidity_at_flag": 34146.20418999638,
+    "breakdown": {
+      "MOMENTUM": 82,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "8CMH8UTpXVSKSBA5sNtscfzxD9yQUC7VYP415p6Ezpad": {
+    "name": "zpad.sh",
+    "symbol": "ZPAD",
+    "flagged_ts": 1790692472,
+    "liquidity_at_flag": 16132.011404065572,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 75,
+      "LIQUIDITY": 81,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "GYSnYtmWWrzyN6ugmtT4oTWJRmEvjWW47jjRn6Z5wdGV": {
+    "name": "cockroach",
+    "symbol": "COCKROACH",
+    "flagged_ts": 1790692473,
+    "liquidity_at_flag": 75619.79452147045,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 90,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "GLm2QhL4Npizhq7YepV9xc8pgz8JJF2AM6a3HBRF5nzJ": {
+    "name": "cockroach",
+    "symbol": "COCKROACH",
+    "flagged_ts": 1790692474,
+    "liquidity_at_flag": 43525.83081791462,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "322kf1dAfyPsR1tStLBvBtQD3mg2gPJLQ9NWNQ6B4BGx": {
+    "name": "cockroach",
+    "symbol": "COCKROACH",
+    "flagged_ts": 1790692475,
+    "liquidity_at_flag": 40460.32433802415,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 75,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
