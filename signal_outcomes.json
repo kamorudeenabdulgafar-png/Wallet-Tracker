@@ -1,21 +1,4 @@
 {
-  "G5xDN1V9TXeGqy5chw8qQGiEUoidWbjoZ4TrsBveXLkY": {
-    "name": "SWEEP",
-    "symbol": "SWEEP",
-    "flagged_ts": 1790111085,
-    "liquidity_at_flag": 29490.990639219344,
-    "breakdown": {
-      "MOMENTUM": 100,
-      "SAFETY": 60,
-      "LIQUIDITY": 100,
-      "SMART MONEY": 0
-    },
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
   "Ek8S4UZjPntx5uhG3WtfBRozrB8UrzvAsV6YWtzYzgTr": {
     "name": "The Pumpfun Pill",
     "symbol": "PROZAC",
@@ -27552,7 +27535,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "Fs9RRKxGpCH25X4zp6CefqjiyA37ENw8k6k4hKsPhU5H": {
@@ -27568,7 +27552,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "4UXnhwDFLp4p8VSdPo21h7SLocU9NCcAD5VgpwW7PPsW": {
@@ -27584,7 +27569,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "3Xns8kAhRoQhB4wy1E648TXk4YVgqVvL5gm3Q71ohCMM": {
@@ -30831,7 +30817,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "GZVoT6ojbBnbPpopM71XJTGzoyYmJZ7NFddpMHtDH6RP": {
@@ -30846,7 +30833,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "4gTScTHQLcJJ3N8cko7dBPfvVSy8XP3U1UKtzhcBE7Bm": {
@@ -31085,7 +31073,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "97SkmPTaFH5zT4QD2KjSsmxaPmKG3PL9kxb3KMtsJwfs": {
     "name": "Shiba Inu",
@@ -31186,6 +31176,19 @@
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "FTRiymcX8FTjTXjA8sVuAyrmV8sVvCmufZNGFaUppump": {
+    "name": "Life Before AI",
+    "symbol": "Life",
+    "flagged_ts": 1790716336,
+    "liquidity_at_flag": 21419.337795653097,
+    "breakdown": {
+      "MOMENTUM": 62,
+      "SAFETY": 90,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
