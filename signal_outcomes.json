@@ -1,21 +1,4 @@
 {
-  "FQ4yfWDznQBGrfELrhrEQEwXaicWJbRisQXrKJM6PRd2": {
-    "name": "Agent Wormhole",
-    "symbol": "WORM",
-    "flagged_ts": 1790062125,
-    "liquidity_at_flag": 40745.27894676895,
-    "breakdown": {
-      "MOMENTUM": 100,
-      "SAFETY": 60,
-      "LIQUIDITY": 100,
-      "SMART MONEY": 0
-    },
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
   "2zTJCF3uwDCGpuzno3BP5FWffSityiQX76jZVbLJz7tB": {
     "name": "URANUS",
     "symbol": "URANUS",
@@ -28249,7 +28232,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "ERxPBCJjKwDQhHSNriiTMWpdwJWQUJ8EQSCi32ppock": {
@@ -28265,7 +28249,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "FiHBcgv7y8Z8bswicrMMNYoZq22GgkduY38CwGWhhzgp": {
@@ -28281,7 +28266,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "Fr5KtQSzgSrqwLk4R6gzPu1LKJLXztw8o4eTbpEHYZ6S": {
@@ -28297,7 +28283,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "BSupxTbKDofrX9qegDJ3KNxrCh63XF7ejiNmCvqP9DgZ": {
@@ -30920,7 +30907,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "7Kgyj69MoSQThGWfj8yaQnXZLVHkUWnNtzNfTvUFhFjG": {
@@ -31444,7 +31432,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "7rNKbGS24Y9dqYRzkx6CyMmmzRa7ejEMCUWV4gqdWKGz": {
     "name": "goid",
@@ -31457,7 +31447,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "3kXGcw8u2j74AeACu7nTJhLb8JZsGqqpGCCbfe4wdrDD": {
     "name": "Kodiak Sciences Inc.",
@@ -31610,6 +31602,32 @@
     "breakdown": {
       "MOMENTUM": 95,
       "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "FrqGZcD8gZEJUWnmki97MtNpgqoNW5SZ2wnhkrBbcUqY": {
+    "name": "Cashewcoin",
+    "symbol": "CASHEW",
+    "flagged_ts": 1790667564,
+    "liquidity_at_flag": 21376.900632860725,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 90,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "9hgfNMGiZAKTHbLudccqsMDLXay8MuLqTpPbYp5ppump": {
+    "name": "chillguy wif sword",
+    "symbol": "swordguy",
+    "flagged_ts": 1790667565,
+    "liquidity_at_flag": 41612.97650727648,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 100,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
