@@ -1,18 +1,5 @@
 [
   {
-    "name": "TIPPED",
-    "symbol": "TIPPED",
-    "category": "rug",
-    "change_pct": -84.9,
-    "breakdown": {
-      "MOMENTUM": 100,
-      "SAFETY": 90,
-      "LIQUIDITY": 94,
-      "SMART MONEY": 0
-    },
-    "ts": 1790571013
-  },
-  {
     "name": "HOOD",
     "symbol": "Robinhood",
     "category": "rug",
@@ -3898,5 +3885,18 @@
       "SMART MONEY": 0
     },
     "ts": 1790688575
+  },
+  {
+    "name": "CoinMarketCat",
+    "symbol": "CMC",
+    "category": "rug",
+    "change_pct": -100.0,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 75,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "ts": 1790689597
   }
 ]

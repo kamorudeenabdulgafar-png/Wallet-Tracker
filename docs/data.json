@@ -1,5 +1,5 @@
 {
-  "last_updated": 1790688577,
+  "last_updated": 1790689600,
   "wallets": [
     {
       "label": "Dev wallet 1",
@@ -89,7 +89,7 @@
     "count": 2835,
     "up_count": 613,
     "total_change_pct": -155586.29928175083,
-    "rug": 2447,
+    "rug": 2448,
     "doing_well": 29,
     "steady": 11,
     "fading": 36
@@ -97,6 +97,16 @@
   "learning_insight": "Coins that rugged averaged SAFETY 72; coins that did well averaged SAFETY 92.",
   "settings": {},
   "recent_alerts": [
+    {
+      "ts": 1790689598,
+      "type": "outcome",
+      "message": "\ud83d\udd34 dog wif pajamas (\u30a2\u30eb) is dropping fast \u2014 down 100%, may be rugging."
+    },
+    {
+      "ts": 1790689597,
+      "type": "outcome",
+      "message": "\ud83d\udd34 CoinMarketCat (CMC) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
+    },
     {
       "ts": 1790688577,
       "type": "outcome",
@@ -336,16 +346,6 @@
       "ts": 1790686229,
       "type": "wallet",
       "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: USDC -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/66zEjZ7gNav7g3F2CiBT9kh1n36jpcsWG7LNqSUbmN7YY9C16kHkbpNREXbzFxfxzjLZhS1w558N2JxBEM1Nck8R"
-    },
-    {
-      "ts": 1790685021,
-      "type": "outcome",
-      "message": "\ud83d\udd34 STRAIGHT (STRAIGHT) is dropping fast \u2014 down 100%, may be rugging."
-    },
-    {
-      "ts": 1790685020,
-      "type": "outcome",
-      "message": "\ud83d\udfe2 Hooked (HOOKED) is still doing really good \u2014 up 63% so far!"
     }
   ]
 }
