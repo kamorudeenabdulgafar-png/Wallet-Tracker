@@ -1,5 +1,5 @@
 {
-  "last_updated": 1790718933,
+  "last_updated": 1790719538,
   "wallets": [
     {
       "label": "Dev wallet 1",
@@ -9,7 +9,7 @@
   "wallet_stats": {
     "5CEbueQnq1Ym2uSSx2xXds3jQAqT1BDnkA59RZobSPAG": {
       "label": "Dev wallet 1",
-      "buy_count": 445,
+      "buy_count": 446,
       "sell_count": 240,
       "total_buy_usd": 15628.984658586525,
       "total_sell_usd": 0.0,
@@ -70,7 +70,7 @@
         "BPxxfRCXkUVhig4HS1Lh7kZqV6SPJhzfEk4x6fVBjPCy",
         "27G8MtK7VtTcCHkpASjSDdkWWYfoqT6ggEuKidVJidD4"
       ],
-      "last_active": 1790718924,
+      "last_active": 1790719532,
       "positions": {},
       "realized_pnl_usd": 0.0
     }
@@ -89,7 +89,7 @@
     "count": 2835,
     "up_count": 613,
     "total_change_pct": -155586.29928175083,
-    "rug": 2494,
+    "rug": 2495,
     "doing_well": 29,
     "steady": 11,
     "fading": 38
@@ -97,6 +97,56 @@
   "learning_insight": "Coins that rugged averaged SAFETY 72; coins that did well averaged SAFETY 90.",
   "settings": {},
   "recent_alerts": [
+    {
+      "ts": 1790719538,
+      "type": "outcome",
+      "message": "\ud83d\udd34 PAYDAY (PAYDAY) is dropping fast \u2014 down 100%, may be rugging."
+    },
+    {
+      "ts": 1790719537,
+      "type": "outcome",
+      "message": "\ud83d\udfe0 American Super Intelligence (ASI) is fading \u2014 down 48% so far."
+    },
+    {
+      "ts": 1790719537,
+      "type": "outcome",
+      "message": "\ud83d\udfe1 SOL Parasite (SP) is holding steady so far (-1%)."
+    },
+    {
+      "ts": 1790719536,
+      "type": "outcome",
+      "message": "\ud83d\udd34 GachaWatch (WATCH) turned out to be a rug \u2014 liquidity dropped 74% over 24h."
+    },
+    {
+      "ts": 1790719535,
+      "type": "scanner",
+      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\nSuper Intelligence (SI)\nOpportunity: 76/100\n\nMOMENTUM     100\nSAFETY       60\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$148,800, 8 min since pool creation\n\u2022 Up +92% in the last hour, ~$731,957 in 24h volume (4.9x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 86% of supply (very concentrated)\n\nCA: LbDmT93tTMF6Y8Tpagfempr6Fe3CLmhkBbgt8dNuEx2\nhttps://dexscreener.com/solana/LbDmT93tTMF6Y8Tpagfempr6Fe3CLmhkBbgt8dNuEx2\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
+    },
+    {
+      "ts": 1790719533,
+      "type": "wallet",
+      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: USDC -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/5qtaG6nHHvcq9mmwbjjHA9YoBZoP1iDDY7mk5ncPWtt6vk44873ASTNpXHvXPqgdSsx4VHKASwUp1rvas2YmS9CV"
+    },
+    {
+      "ts": 1790719532,
+      "type": "wallet",
+      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: xHYPE -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/2xDpMmiWFHdbZyiyqvSFFJmresyidtHEg5n8bf2b5qXNZ8utgoP5RgCCrYRPvic5C4F2h5CeSiA1h12kARqGapuD"
+    },
+    {
+      "ts": 1790719532,
+      "type": "wallet",
+      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: BOT -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/sUTzd9tSoocNCf8LaZryM9nDqwtM9bte6sKVFvo46JUE3YkKVKDY3Toycvun2AtemWRGMJhU1Df2znf6aQNYnVG"
+    },
+    {
+      "ts": 1790719531,
+      "type": "wallet",
+      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: DKNG -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/5A56RC4rSGW1eg8c7hVQ1ZYm3cV1ep5UyTXrWyGfeLrffYzPXvTy2qzKZnb8zNW8VNpHRZMDe4sBUJXhPSEGqiZp"
+    },
+    {
+      "ts": 1790719531,
+      "type": "wallet",
+      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: CYPH -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/3JwLWdeLHD3etiEpt5sqU7JFcs475oGUoVuDL38zcrxbuQmfqgbGRfCZTFx8r1YxenpxY6R77k2NFiwWLwdrRC1o"
+    },
     {
       "ts": 1790718933,
       "type": "outcome",
@@ -296,56 +346,6 @@
       "ts": 1790714905,
       "type": "scanner",
       "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 STRONG\nNetflix & Chill (CHILL)\nOpportunity: 86/100\n\nMOMENTUM     100\nSAFETY       90\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$32,696, 15 min since pool creation\n\u2022 Up +266% in the last hour, ~$89,971 in 24h volume (2.8x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Low, 10/100):\n\u2022 top 10 holders own 37% of supply\n\nCA: 4GKfkRhdk5oHkBH9ofMT7CZTvzE8cJ3e4HF5i2VUpump\nhttps://dexscreener.com/solana/4GKfkRhdk5oHkBH9ofMT7CZTvzE8cJ3e4HF5i2VUpump\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
-    },
-    {
-      "ts": 1790713939,
-      "type": "outcome",
-      "message": "\ud83d\udd34 \u5e01\u5b89\u4eba\u80fd\u98de (\u5e01\u5b89\u4eba\u80fd\u98de) is dropping fast \u2014 down 100%, may be rugging."
-    },
-    {
-      "ts": 1790713938,
-      "type": "outcome",
-      "message": "\ud83d\udd34 pray for SOL (PFSOL) is dropping fast \u2014 down 87%, may be rugging."
-    },
-    {
-      "ts": 1790713938,
-      "type": "outcome",
-      "message": "\ud83d\udfe2 Baby Super Inu (BabySI) is still doing really good \u2014 up 61% so far!"
-    },
-    {
-      "ts": 1790713937,
-      "type": "outcome",
-      "message": "\ud83d\udd34 Doppler Finance (XDP) is dropping fast \u2014 down 100%, may be rugging."
-    },
-    {
-      "ts": 1790713936,
-      "type": "outcome",
-      "message": "\ud83d\udd34 Ricky Martin (MARTIN) is dropping fast \u2014 down 100%, may be rugging."
-    },
-    {
-      "ts": 1790713935,
-      "type": "outcome",
-      "message": "\ud83d\udd34 Q\u5e01 (Q\u5e01) is dropping fast \u2014 down 100%, may be rugging."
-    },
-    {
-      "ts": 1790713934,
-      "type": "outcome",
-      "message": "\ud83d\udd34 Ricky Martin (MARTIN) is dropping fast \u2014 down 100%, may be rugging."
-    },
-    {
-      "ts": 1790713934,
-      "type": "outcome",
-      "message": "\ud83d\udd34 CLONES (CLONES) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
-    },
-    {
-      "ts": 1790713933,
-      "type": "outcome",
-      "message": "\ud83d\udd34 Fomo Candle (FOMOCANDLE) turned out to be a rug \u2014 liquidity dropped 92% over 24h."
-    },
-    {
-      "ts": 1790713932,
-      "type": "outcome",
-      "message": "\ud83d\udd34 Harvest (HARVEST) turned out to be a rug \u2014 liquidity dropped 88% over 24h."
     }
   ]
 }
