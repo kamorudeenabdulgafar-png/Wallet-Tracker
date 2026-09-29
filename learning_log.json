@@ -1,18 +1,5 @@
 [
   {
-    "name": "Telepad",
-    "symbol": "TPAD",
-    "category": "rug",
-    "change_pct": -91.2,
-    "breakdown": {
-      "MOMENTUM": 100,
-      "SAFETY": 100,
-      "LIQUIDITY": 100,
-      "SMART MONEY": 0
-    },
-    "ts": 1790558465
-  },
-  {
     "name": "Connect",
     "symbol": "CONNECT",
     "category": "rug",
@@ -3898,5 +3885,18 @@
       "SMART MONEY": 0
     },
     "ts": 1790667569
+  },
+  {
+    "name": "Leverage Pad",
+    "symbol": "LEVERAGE",
+    "category": "rug",
+    "change_pct": -100.0,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "ts": 1790668378
   }
 ]
