@@ -1,21 +1,4 @@
 {
-  "GJ6RSjJkWEo36UXtKp9zD6hq8oxbPaTx2RuubEbupump": {
-    "name": "Clavicular",
-    "symbol": "CLAVICULAR",
-    "flagged_ts": 1790095731,
-    "liquidity_at_flag": 20686.55066916362,
-    "breakdown": {
-      "MOMENTUM": 100,
-      "SAFETY": 90,
-      "LIQUIDITY": 100,
-      "SMART MONEY": 0
-    },
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
   "7NDC4UXwdPNTV6MTSWtNenS7rQY92vkJzoBAzeikpump": {
     "name": "BetBolt",
     "symbol": "betbolt",
@@ -27756,7 +27739,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "4GQmn6XXjsHcM6dF7vihQCtjwhf73enuGYq2SRYwK669": {
@@ -30763,7 +30747,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "8eBsGPpc9FZ5TMir4T6Ra5ey8w9TYeMMk4k1BieBH7xj": {
@@ -30778,7 +30763,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "2RPMGa6zr4G4WwiLV6ubv97MrK7emSavkB24rM2zAg7Z": {
@@ -31182,7 +31168,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "CaP65ZabogSqpuJFZV9J7JgKpEaw1ZMEL18FWDpAZ2ah": {
     "name": "PAYDAY",
@@ -31195,7 +31183,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "BoPs4t7zX6pSiJBRgovVGgR92RaN2oA7EVMckz3dJzo2": {
     "name": "Tsukicoin",
@@ -31360,6 +31350,19 @@
     "liquidity_at_flag": 82682.44331652875,
     "breakdown": {
       "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "FWrsFhHzJhL3XA5tnwGeb4juwvhhnMAmCLbtywVuagsH": {
+    "name": "PAYDAY",
+    "symbol": "PAYDAY",
+    "flagged_ts": 1790700677,
+    "liquidity_at_flag": 45465.83442543216,
+    "breakdown": {
+      "MOMENTUM": 99,
       "SAFETY": 60,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
