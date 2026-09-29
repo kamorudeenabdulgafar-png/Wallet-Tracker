@@ -1,5 +1,5 @@
 {
-  "last_updated": 1790674377,
+  "last_updated": 1790675510,
   "wallets": [
     {
       "label": "Dev wallet 1",
@@ -89,7 +89,7 @@
     "count": 2835,
     "up_count": 613,
     "total_change_pct": -155586.29928175083,
-    "rug": 2416,
+    "rug": 2417,
     "doing_well": 29,
     "steady": 11,
     "fading": 36
@@ -97,6 +97,21 @@
   "learning_insight": "Coins that rugged averaged SAFETY 72; coins that did well averaged SAFETY 92.",
   "settings": {},
   "recent_alerts": [
+    {
+      "ts": 1790675510,
+      "type": "outcome",
+      "message": "\ud83d\udd34 BNBuilder (BNBuilder) is dropping fast \u2014 down 100%, may be rugging."
+    },
+    {
+      "ts": 1790675507,
+      "type": "outcome",
+      "message": "\ud83d\udd34 \u53ea\u662f\u4e00\u53ea\u4f01\u9e45 (\u4f01\u9e45) is dropping fast \u2014 down 100%, may be rugging."
+    },
+    {
+      "ts": 1790675505,
+      "type": "outcome",
+      "message": "\ud83d\udd34 PenguinCat (PenguinCat) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
+    },
     {
       "ts": 1790674377,
       "type": "outcome",
@@ -331,21 +346,6 @@
       "ts": 1790670383,
       "type": "wallet",
       "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: SPYx -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/5gDUHpJMHwWWMgDH8jiE6FbXjp7n7EFzEXSWEN2YufJWUGEKMpEm86kp63CwxwiaH6JS6b7pyPb5dMPDomxPFGP1"
-    },
-    {
-      "ts": 1790670382,
-      "type": "wallet",
-      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: USDC -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/55ntsHGy6pEcwHHQn685oc5StFED2u2NLCAh887Gvc1ooX2zARX5SdWRm9A9j5LZfmFuFisqgwP8v7rmcEoEwgfk"
-    },
-    {
-      "ts": 1790670382,
-      "type": "wallet",
-      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: JTO -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/58XQEytZVrvhQiKHifeXwoQms3QGmg76YDk1ok9nJFzZnxC5qWdyJ9TMGJ8g5WiimQJhxgU28rm3VEABKcrrnSET"
-    },
-    {
-      "ts": 1790669285,
-      "type": "outcome",
-      "message": "\ud83d\udd34 Super Frog (SF) is dropping fast \u2014 down 91%, may be rugging."
     }
   ]
 }
