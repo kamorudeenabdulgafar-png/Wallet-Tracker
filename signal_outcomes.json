@@ -28266,7 +28266,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "6XuQG8KZ1VbbArDY4f81PxaduTVomZ9pmoK5sqPQpump": {
@@ -28282,7 +28283,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "HHQffSzjMcFoGMKMAw4C9uAD6u9zQRKmGCEkCuChPy4R": {
@@ -28298,7 +28300,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "6wr3zmgMD9Fpm2pAzhZBohACMaGncVGmKL5fHmoUcvE2": {
@@ -30889,7 +30892,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "7EcQxQUcVNTAnvDpCT4jFQ639fa3FHfLqnTZn92vN5RE": {
@@ -30904,7 +30908,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "5NZDwK3Ttq5KAVNRnhLeyfHj5mr7ucweGyKrPMNyGbdb": {
@@ -30919,7 +30924,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "6ci8jzxiyXG9LUT2LgnbZwWwxReH4HDBWg2GjdSsZN57": {
@@ -31383,7 +31389,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "7zUt7Am5f7oXxmvxRChpQSEmL7JDai8xogt2xNwykSRa": {
     "name": "\u5e84\u6b23\u5982",
@@ -31396,7 +31404,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "GFPSV2er2VxXvQHAGj3rLKG7rk2QyBPrxcjGafEK2TCD": {
     "name": "Doppler Finance",
@@ -31409,7 +31419,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "GjnGmkiHycvkvEmuQcXaC1iET9zvzoy7t6jBF4y1LJ5D": {
     "name": "hold on dog",
@@ -31535,6 +31547,71 @@
     "liquidity_at_flag": 164680.8991778344,
     "breakdown": {
       "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "9bRELdwEVGWdPyydmLwMze3Fb7BpNg6cPA6X8G4JEd2X": {
+    "name": "\u53ea\u662f\u4e00\u53ea\u4f01\u9e45",
+    "symbol": "\u4f01\u9e45",
+    "flagged_ts": 1790660346,
+    "liquidity_at_flag": 16145.16052473007,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 81,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "6rMdTCwcc9SnrRxD1nEnH59cGmARfDXysHfn4D22xYfh": {
+    "name": "CURVE",
+    "symbol": "CURVE",
+    "flagged_ts": 1790660347,
+    "liquidity_at_flag": 30172.57596680306,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "6rn7UBEun1psSJnvZZReoQmaZqM4JaC7tAZFGfoQDuNV": {
+    "name": "MarsCoin",
+    "symbol": "MarsCoin",
+    "flagged_ts": 1790660348,
+    "liquidity_at_flag": 46788.464583593915,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "BMM1A5acDd9KXGfs7PabaAHonMfEvgGYoBGicHHGZCab": {
+    "name": "Bling-Bling Boy",
+    "symbol": "BLINGBOY",
+    "flagged_ts": 1790660349,
+    "liquidity_at_flag": 34394.69612068228,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 75,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "FUGwU6t5A7ivsVmxmzUrPp7LvYPWiYz3SaMAxGkqsM2W": {
+    "name": "BNBuilder",
+    "symbol": "BNBuilder",
+    "flagged_ts": 1790660350,
+    "liquidity_at_flag": 46596.75310648625,
+    "breakdown": {
+      "MOMENTUM": 86,
       "SAFETY": 60,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
