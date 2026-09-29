@@ -1,38 +1,4 @@
 {
-  "HhrSaoqysQBo8AdhxuA2hG8AWJb5hZieCi4AHgo1pump": {
-    "name": "Privacy Agents",
-    "symbol": "PROXY",
-    "flagged_ts": 1790039153,
-    "liquidity_at_flag": 21431.945183755823,
-    "breakdown": {
-      "MOMENTUM": 67,
-      "SAFETY": 90,
-      "LIQUIDITY": 100,
-      "SMART MONEY": 0
-    },
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "DgACXKn6kSopTrFAyAwvGaeTKicrqWzLvXRYuvKGpump": {
-    "name": "OWED",
-    "symbol": "OWED",
-    "flagged_ts": 1790039154,
-    "liquidity_at_flag": 31216.2713914783,
-    "breakdown": {
-      "MOMENTUM": 100,
-      "SAFETY": 90,
-      "LIQUIDITY": 100,
-      "SMART MONEY": 0
-    },
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
   "7EDo631nSV9UVAGPR4MbpKzM7a3qMAN9BPKxQJNfdvWK": {
     "name": "suit",
     "symbol": "suit",
@@ -28776,7 +28742,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "2Dq7aYGqiLWuadnGUXQmEAXnLpNpdrPDGM9GPSG6RB4r": {
@@ -31399,7 +31366,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "Fs9RRKxGpCH25X4zp6CefqjiyA37ENw8k6k4hKsPhU5H": {
@@ -31414,7 +31382,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "4UXnhwDFLp4p8VSdPo21h7SLocU9NCcAD5VgpwW7PPsW": {
@@ -31429,7 +31398,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "3Xns8kAhRoQhB4wy1E648TXk4YVgqVvL5gm3Q71ohCMM": {
@@ -31728,7 +31698,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "4kgo11KazbCNd2DosYSLGpgSZhEtda1gGu4rbWJLGCJV": {
     "name": "Uncle Murphy",
@@ -31842,6 +31814,32 @@
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "DwTNh6WH4PayseeYqWnRw9UGpYvnXCvsWoL9YLNQCB3h": {
+    "name": "Pumpoween",
+    "symbol": "Pumpoween",
+    "flagged_ts": 1790644017,
+    "liquidity_at_flag": 36791.08404876657,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 100,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "HjY29mPUx2eazudtp6VYGP9PnbmfwiFa5kydqLfJpump": {
+    "name": "Bundle 67",
+    "symbol": "BUN67",
+    "flagged_ts": 1790644018,
+    "liquidity_at_flag": 30644.365535227764,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 100,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
