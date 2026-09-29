@@ -1,72 +1,4 @@
 {
-  "EZHXDqG38i5PYc4oTYM9wFwmTkERgqDLKh6WbpZMZkPy": {
-    "name": "Buttfuckcoin",
-    "symbol": "BUTTFUCK",
-    "flagged_ts": 1790085333,
-    "liquidity_at_flag": 31821.836826414707,
-    "breakdown": {
-      "MOMENTUM": 100,
-      "SAFETY": 60,
-      "LIQUIDITY": 100,
-      "SMART MONEY": 0
-    },
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "4xxwmNeB484HYUPW5wi6Bsx1ArPgk2WErSNLRikML8T6": {
-    "name": "AIRCAT",
-    "symbol": "AIRCAT",
-    "flagged_ts": 1790085335,
-    "liquidity_at_flag": 37424.85577239556,
-    "breakdown": {
-      "MOMENTUM": 100,
-      "SAFETY": 60,
-      "LIQUIDITY": 100,
-      "SMART MONEY": 0
-    },
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "NJepmur3JSzSerafFqQgtYcgXFziQ62Hi8NceXwsVJW": {
-    "name": "Grokification",
-    "symbol": "GROK",
-    "flagged_ts": 1790085338,
-    "liquidity_at_flag": 137462.79875842627,
-    "breakdown": {
-      "MOMENTUM": 97,
-      "SAFETY": 60,
-      "LIQUIDITY": 100,
-      "SMART MONEY": 0
-    },
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "FSzrdBek3riVNxTcSXGuGuitzEJC1VgHKb1ukTbBbKx3": {
-    "name": "There is no airdrop",
-    "symbol": "ily",
-    "flagged_ts": 1790085344,
-    "liquidity_at_flag": 70917.59844646367,
-    "breakdown": {
-      "MOMENTUM": 100,
-      "SAFETY": 60,
-      "LIQUIDITY": 100,
-      "SMART MONEY": 0
-    },
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
   "DVoLPX3s7HkgoKGWr1fYfY4MW5oFKEdCGJmqxF6t59Xo": {
     "name": "Pump Avatar",
     "symbol": "avatar",
@@ -27807,7 +27739,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "9sVsUgyKN86oa5ZqPGtZYkZBxVYESUmsjjtYQfYibMoq": {
@@ -31098,7 +31031,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "8eBsGPpc9FZ5TMir4T6Ra5ey8w9TYeMMk4k1BieBH7xj": {
     "name": "POND",
@@ -31111,7 +31046,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "2RPMGa6zr4G4WwiLV6ubv97MrK7emSavkB24rM2zAg7Z": {
     "name": "BNC DAO",
@@ -31212,6 +31149,84 @@
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 90,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "3UHnZmNUbPejYLaWojcbAsrz73fDjtabbFkTpvDXXbqg": {
+    "name": "cockroach",
+    "symbol": "COCKROACH",
+    "flagged_ts": 1790690411,
+    "liquidity_at_flag": 30507.825788748127,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "5xF68yQmQ6p9uQitrf8shxGXqTt5CouXXi19cNHvpump": {
+    "name": "WOTF",
+    "symbol": "WOTF",
+    "flagged_ts": 1790690412,
+    "liquidity_at_flag": 32038.426290601143,
+    "breakdown": {
+      "MOMENTUM": 63,
+      "SAFETY": 100,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "At3DVPsm3FJ3hEqui8TMTL4iHD7AqD2YytzT98x2bpBc": {
+    "name": "Doppler",
+    "symbol": "XDP",
+    "flagged_ts": 1790690413,
+    "liquidity_at_flag": 48121.21185612204,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 75,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "FphXu1rvzbRhTzyQvzJ5qHk3XsmT3mB2fEjb97cJfrNq": {
+    "name": "Pair Pond",
+    "symbol": "POND",
+    "flagged_ts": 1790690415,
+    "liquidity_at_flag": 177784.50348192887,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 75,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "AHMR7gSpku9NQnsD8HTw3BnXUqbA5qyZnM63yQruugoZ": {
+    "name": "cockroach",
+    "symbol": "COCKROACH",
+    "flagged_ts": 1790690416,
+    "liquidity_at_flag": 43285.52046641476,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 75,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "FgfXTYNoykL39omQ8eyZmRuXxTeW8DnDRzDPE3FiBKMD": {
+    "name": "zipcoin",
+    "symbol": "ZC",
+    "flagged_ts": 1790690417,
+    "liquidity_at_flag": 64099.94887070963,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
