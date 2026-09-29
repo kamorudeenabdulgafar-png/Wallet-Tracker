@@ -1,44 +1,5 @@
 [
   {
-    "name": "Apple Cat",
-    "symbol": "AAPLCAT",
-    "category": "rug",
-    "change_pct": -100.0,
-    "breakdown": {
-      "MOMENTUM": 100,
-      "SAFETY": 60,
-      "LIQUIDITY": 100,
-      "SMART MONEY": 0
-    },
-    "ts": 1790584928
-  },
-  {
-    "name": "SUI CAT",
-    "symbol": "SUICAT",
-    "category": "rug",
-    "change_pct": -100.0,
-    "breakdown": {
-      "MOMENTUM": 100,
-      "SAFETY": 60,
-      "LIQUIDITY": 100,
-      "SMART MONEY": 0
-    },
-    "ts": 1790584930
-  },
-  {
-    "name": "The Scroller",
-    "symbol": "SCROLLER",
-    "category": "rug",
-    "change_pct": -75.8,
-    "breakdown": {
-      "MOMENTUM": 100,
-      "SAFETY": 90,
-      "LIQUIDITY": 100,
-      "SMART MONEY": 0
-    },
-    "ts": 1790585853
-  },
-  {
     "name": "UNICEF",
     "symbol": "UNICEF",
     "category": "rug",
@@ -3898,5 +3859,44 @@
       "SMART MONEY": 0
     },
     "ts": 1790724120
+  },
+  {
+    "name": "Poke Trade",
+    "symbol": "POKETRADE",
+    "category": "rug",
+    "change_pct": -100.0,
+    "breakdown": {
+      "MOMENTUM": 85,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "ts": 1790725586
+  },
+  {
+    "name": "Doppler Finance",
+    "symbol": "XDP",
+    "category": "rug",
+    "change_pct": -100.0,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "ts": 1790725587
+  },
+  {
+    "name": "Dog Saved By Grok",
+    "symbol": "Loomer",
+    "category": "fading",
+    "change_pct": -28.2,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 90,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "ts": 1790725588
   }
 ]
