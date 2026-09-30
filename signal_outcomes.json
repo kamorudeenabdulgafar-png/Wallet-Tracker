@@ -1,21 +1,4 @@
 {
-  "3L9RHgNPZYXWCEqFntjVEPLh4JSpWz2FDzbZwALsJz1m": {
-    "name": "Unreal Agent",
-    "symbol": "UNREAL",
-    "flagged_ts": 1790193943,
-    "liquidity_at_flag": 31042.760479119497,
-    "breakdown": {
-      "MOMENTUM": 100,
-      "SAFETY": 60,
-      "LIQUIDITY": 100,
-      "SMART MONEY": 0
-    },
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
   "HWrudsAcGvyviNnkvBzf7EenubFjNB3b7Xwkw2Hv92LA": {
     "name": "NightTrader",
     "symbol": "NightTrade",
@@ -26685,7 +26668,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "3uu3mjqqotZKsuSfFH9XH9Jm3SabPi5UJeapXhZzQABJ": {
@@ -28764,7 +28748,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "FdSN93wCqp6rTuUpyAiCwXXuV2FjMCJTibBT8JLUpump": {
@@ -28779,7 +28764,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "3zqghA1a77fRxqewioUQCND5r1Sryw2HF1edHH4dqH2g": {
@@ -28794,7 +28780,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "CJS2EN7zGiZhVAYXsHqdXQJvNk8niiH2ZR9oWcrNpump": {
@@ -28809,7 +28796,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "5ebCjp2YFnnfUohdF3CbqDJw3Wio3gdvdGiqYxVHoJMn": {
@@ -29166,6 +29154,19 @@
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "AhN6PeEFHFhY91izZghXU3KQn1a8grQjCyy4uGfRpump": {
+    "name": "we're all kinda going to make it",
+    "symbol": "WAKGTMI",
+    "flagged_ts": 1790799256,
+    "liquidity_at_flag": 28382.42338737783,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 100,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
