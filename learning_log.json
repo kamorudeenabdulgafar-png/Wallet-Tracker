@@ -1,18 +1,5 @@
 [
   {
-    "name": "IRAN",
-    "symbol": "IRAN",
-    "category": "rug",
-    "change_pct": -96.7,
-    "breakdown": {
-      "MOMENTUM": 100,
-      "SAFETY": 100,
-      "LIQUIDITY": 100,
-      "SMART MONEY": 0
-    },
-    "ts": 1790662038
-  },
-  {
     "name": "FullSend",
     "symbol": "FULLSEND",
     "category": "steady",
@@ -3898,5 +3885,18 @@
       "SMART MONEY": 0
     },
     "ts": 1790797775
+  },
+  {
+    "name": "XSI",
+    "symbol": "XSI",
+    "category": "rug",
+    "change_pct": -100.0,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "ts": 1790798325
   }
 ]

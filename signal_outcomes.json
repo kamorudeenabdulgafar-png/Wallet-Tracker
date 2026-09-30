@@ -1,21 +1,4 @@
 {
-  "APd55sf29YEaa42dhfcRh6KWjK45Xcgkcr2c6fGnE9Lv": {
-    "name": "chatwithjev",
-    "symbol": "jev",
-    "flagged_ts": 1790193258,
-    "liquidity_at_flag": 28744.50202757288,
-    "breakdown": {
-      "MOMENTUM": 100,
-      "SAFETY": 60,
-      "LIQUIDITY": 100,
-      "SMART MONEY": 0
-    },
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
   "3L9RHgNPZYXWCEqFntjVEPLh4JSpWz2FDzbZwALsJz1m": {
     "name": "Unreal Agent",
     "symbol": "UNREAL",
@@ -26685,7 +26668,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "97SkmPTaFH5zT4QD2KjSsmxaPmKG3PL9kxb3KMtsJwfs": {
@@ -29168,6 +29152,19 @@
     "liquidity_at_flag": 28302.905774077604,
     "breakdown": {
       "MOMENTUM": 82,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "CNUUi8dR8tZwhYWCGujSCeGJn7589XLjqYDhNjEtKrni": {
+    "name": "Quantum Cat",
+    "symbol": "QCAT",
+    "flagged_ts": 1790798324,
+    "liquidity_at_flag": 36740.94689025205,
+    "breakdown": {
+      "MOMENTUM": 100,
       "SAFETY": 60,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
