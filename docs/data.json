@@ -1,5 +1,5 @@
 {
-  "last_updated": 1790740642,
+  "last_updated": 1790741405,
   "wallets": [
     {
       "label": "Dev wallet 1",
@@ -70,7 +70,7 @@
         "BPxxfRCXkUVhig4HS1Lh7kZqV6SPJhzfEk4x6fVBjPCy",
         "27G8MtK7VtTcCHkpASjSDdkWWYfoqT6ggEuKidVJidD4"
       ],
-      "last_active": 1790738603,
+      "last_active": 1790741396,
       "positions": {},
       "realized_pnl_usd": 0.0
     }
@@ -89,7 +89,7 @@
     "count": 2835,
     "up_count": 613,
     "total_change_pct": -155586.29928175083,
-    "rug": 2545,
+    "rug": 2548,
     "doing_well": 29,
     "steady": 12,
     "fading": 43
@@ -97,6 +97,61 @@
   "learning_insight": "Coins that rugged averaged SAFETY 72; coins that did well averaged SAFETY 90.",
   "settings": {},
   "recent_alerts": [
+    {
+      "ts": 1790741405,
+      "type": "outcome",
+      "message": "\ud83d\udd34 CashedIn (CASH) is dropping fast \u2014 down 100%, may be rugging."
+    },
+    {
+      "ts": 1790741404,
+      "type": "outcome",
+      "message": "\ud83d\udd34 Commander Vrax (VRAX) is dropping fast \u2014 down 100%, may be rugging."
+    },
+    {
+      "ts": 1790741404,
+      "type": "outcome",
+      "message": "\ud83d\udd34 Super Inu (SI) is dropping fast \u2014 down 100%, may be rugging."
+    },
+    {
+      "ts": 1790741403,
+      "type": "outcome",
+      "message": "\ud83d\udd34 Orangie The Orangutan (Orangie) is dropping fast \u2014 down 69%, may be rugging."
+    },
+    {
+      "ts": 1790741402,
+      "type": "outcome",
+      "message": "\ud83d\udd34 Parasite (PARASITE) is dropping fast \u2014 down 94%, may be rugging."
+    },
+    {
+      "ts": 1790741401,
+      "type": "outcome",
+      "message": "\ud83d\udd34 \u4e2d\u56fd\u4eba\u80fd\u98de\u706b\u7bad (\u4e2d\u56fd\u4eba\u80fd\u98de) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
+    },
+    {
+      "ts": 1790741400,
+      "type": "outcome",
+      "message": "\ud83d\udd34 polar ber (ber) turned out to be a rug \u2014 liquidity dropped 83% over 24h."
+    },
+    {
+      "ts": 1790741400,
+      "type": "outcome",
+      "message": "\ud83d\udd34 Roo (ROO) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
+    },
+    {
+      "ts": 1790741399,
+      "type": "scanner",
+      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\nsendor (sendor)\nOpportunity: 70/100\n\nMOMENTUM     82\nSAFETY       60\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$34,097, 15 min since pool creation\n\u2022 Up +54% in the last hour, ~$242,043 in 24h volume (7.1x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 80% of supply (very concentrated)\n\nCA: AaEbJDowBnuVdn1o3sQ2iFySbr3o9h2os2DiPVA4ZWVm\nhttps://dexscreener.com/solana/AaEbJDowBnuVdn1o3sQ2iFySbr3o9h2os2DiPVA4ZWVm\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
+    },
+    {
+      "ts": 1790741398,
+      "type": "scanner",
+      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\nPresident Of The Unites States (POTUS)\nOpportunity: 76/100\n\nMOMENTUM     100\nSAFETY       60\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$23,994, 8 min since pool creation\n\u2022 Up +196% in the last hour, ~$164,646 in 24h volume (6.9x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 91% of supply (very concentrated)\n\nCA: 9eCYek9V2DQS7cFhuXGS85C8UummfQMWieJD7YMB5bfm\nhttps://dexscreener.com/solana/9eCYek9V2DQS7cFhuXGS85C8UummfQMWieJD7YMB5bfm\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
+    },
+    {
+      "ts": 1790741396,
+      "type": "wallet",
+      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: BOT -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/3bJXdUrseDYhaJzqMEBwBXtFPuNjMgbDtxhWb5XLoaVfmRgRgvowC7y9Ez9crBQJZAxSPjHkZJESLG3qGEEy8pTP"
+    },
     {
       "ts": 1790740642,
       "type": "outcome",
@@ -291,61 +346,6 @@
       "ts": 1790737555,
       "type": "outcome",
       "message": "\ud83d\udd34 Super Paid (SP) is dropping fast \u2014 down 61%, may be rugging."
-    },
-    {
-      "ts": 1790737554,
-      "type": "outcome",
-      "message": "\ud83d\udd34 Parasite (PARASITE) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
-    },
-    {
-      "ts": 1790737553,
-      "type": "outcome",
-      "message": "\ud83d\udd34 MAGA-MAN (MAGA) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
-    },
-    {
-      "ts": 1790737552,
-      "type": "outcome",
-      "message": "\ud83d\udd34 Launch a Pad (LAP) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
-    },
-    {
-      "ts": 1790737551,
-      "type": "scanner",
-      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\nCashedIn (CASH)\nOpportunity: 76/100\n\nMOMENTUM     100\nSAFETY       60\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$42,474, 18 min since pool creation\n\u2022 Up +75% in the last hour, ~$294,631 in 24h volume (6.9x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 80% of supply (very concentrated)\n\nCA: 7iodLpKsrp5owLuz3ikZWiDSD1ZA6mmFD3nP3dJaMTSL\nhttps://dexscreener.com/solana/7iodLpKsrp5owLuz3ikZWiDSD1ZA6mmFD3nP3dJaMTSL\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
-    },
-    {
-      "ts": 1790737550,
-      "type": "scanner",
-      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\nCommander Vrax (VRAX)\nOpportunity: 70/100\n\nMOMENTUM     82\nSAFETY       60\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$25,413, 15 min since pool creation\n\u2022 Up +55% in the last hour, ~$51,474 in 24h volume (2.0x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 89% of supply (very concentrated)\n\nCA: DcbfgTGDUbnjtkEM7mZKEnU5A3u5UqYZgBWxyKGVkv3M\nhttps://dexscreener.com/solana/DcbfgTGDUbnjtkEM7mZKEnU5A3u5UqYZgBWxyKGVkv3M\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
-    },
-    {
-      "ts": 1790737549,
-      "type": "scanner",
-      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 EXCEPTIONAL\nSuper Inu (SI)\nOpportunity: 90/100\n\nMOMENTUM     100\nSAFETY       100\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$37,358, 14 min since pool creation\n\u2022 Up +100% in the last hour, ~$41,950 in 24h volume (1.1x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Low, 0/100):\n\u2022 No major red flags found\n\nCA: BEfREquVngM8PsZ85VUjpQNpFYqENdsZNY2doKS87ehK\nhttps://dexscreener.com/solana/BEfREquVngM8PsZ85VUjpQNpFYqENdsZNY2doKS87ehK\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
-    },
-    {
-      "ts": 1790737548,
-      "type": "scanner",
-      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 EXCEPTIONAL\nOrangie The Orangutan (Orangie)\nOpportunity: 90/100\n\nMOMENTUM     100\nSAFETY       100\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$32,899, 10 min since pool creation\n\u2022 Up +146% in the last hour, ~$486,788 in 24h volume (14.8x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Low, 0/100):\n\u2022 No major red flags found\n\nCA: GjxNDXzZ4XYbufcozyPAn8bAtRiwSf16c5zZrjydpump\nhttps://dexscreener.com/solana/GjxNDXzZ4XYbufcozyPAn8bAtRiwSf16c5zZrjydpump\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
-    },
-    {
-      "ts": 1790737545,
-      "type": "wallet",
-      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: GLDx -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/5rEWKLv5FrxjjhQJse6EqQLd6wtapWMH17yXrvjsupNf9ByPyCfvcTwSaXnsL7doCFx64Xahu7A91G8vNwWD3vV5"
-    },
-    {
-      "ts": 1790736708,
-      "type": "outcome",
-      "message": "\ud83d\udd34 Super Intelligence (SI) is dropping fast \u2014 down 67%, may be rugging."
-    },
-    {
-      "ts": 1790736708,
-      "type": "outcome",
-      "message": "\ud83d\udfe0 HelpDonRetire (Don) faded \u2014 liquidity down 38% after 24h."
-    },
-    {
-      "ts": 1790736707,
-      "type": "outcome",
-      "message": "\ud83d\udd34 Launch a Pad (LAP) turned out to be a rug \u2014 liquidity dropped 73% over 24h."
     }
   ]
 }
