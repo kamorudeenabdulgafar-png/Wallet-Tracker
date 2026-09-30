@@ -1,5 +1,5 @@
 {
-  "last_updated": 1790804998,
+  "last_updated": 1790805615,
   "wallets": [
     {
       "label": "Dev wallet 1",
@@ -9,7 +9,7 @@
   "wallet_stats": {
     "5CEbueQnq1Ym2uSSx2xXds3jQAqT1BDnkA59RZobSPAG": {
       "label": "Dev wallet 1",
-      "buy_count": 466,
+      "buy_count": 467,
       "sell_count": 248,
       "total_buy_usd": 15628.984658586525,
       "total_sell_usd": 0.0,
@@ -70,7 +70,7 @@
         "BPxxfRCXkUVhig4HS1Lh7kZqV6SPJhzfEk4x6fVBjPCy",
         "27G8MtK7VtTcCHkpASjSDdkWWYfoqT6ggEuKidVJidD4"
       ],
-      "last_active": 1790801913,
+      "last_active": 1790805611,
       "positions": {},
       "realized_pnl_usd": 0.0
     }
@@ -89,7 +89,7 @@
     "count": 2835,
     "up_count": 613,
     "total_change_pct": -155586.29928175083,
-    "rug": 2690,
+    "rug": 2691,
     "doing_well": 29,
     "steady": 14,
     "fading": 44
@@ -97,6 +97,51 @@
   "learning_insight": null,
   "settings": {},
   "recent_alerts": [
+    {
+      "ts": 1790805615,
+      "type": "outcome",
+      "message": "\ud83d\udd34 stupid inu (SI) is dropping fast \u2014 down 63%, may be rugging."
+    },
+    {
+      "ts": 1790805614,
+      "type": "outcome",
+      "message": "\ud83d\udfe0 DIGITALINU (DIGINU) is fading \u2014 down 24% so far."
+    },
+    {
+      "ts": 1790805613,
+      "type": "outcome",
+      "message": "\ud83d\udd34 Wojak (WOJAK) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
+    },
+    {
+      "ts": 1790805613,
+      "type": "scanner",
+      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\n.si (.si)\nOpportunity: 73/100\n\nMOMENTUM     62\nSAFETY       90\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$20,959, 6 min since pool creation\n\u2022 Up +41% in the last hour, ~$101,186 in 24h volume (4.8x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Low, 10/100):\n\u2022 top 10 holders own 35% of supply\n\nCA: EmLPFwLkzaPdT548oKXT9CMh9bSB9Ez93fBgmmoapump\nhttps://dexscreener.com/solana/EmLPFwLkzaPdT548oKXT9CMh9bSB9Ez93fBgmmoapump\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
+    },
+    {
+      "ts": 1790805611,
+      "type": "wallet",
+      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: USDC -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/54GprB7NhpxueA4UvgMs973eEpCV8ZLDmxv3DA7Nc7RxYr5opxAezmc3qyGBFM3EGSZA2YUNVq2CPm2yExvcb5xY"
+    },
+    {
+      "ts": 1790805610,
+      "type": "wallet",
+      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: GLDx -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/2Mvq9CEkdafow7m748Mp6zzgR3ZXASV9tpMpkpFuE6eWLgBFqFXqBmuDaccThL9fkhvF9Xo2w4j1A5JgT8aUjxH8"
+    },
+    {
+      "ts": 1790805610,
+      "type": "wallet",
+      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: QNT -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/59Zj4h6zSjvPjdAhBC3m1WxDryyuthFng8UKDeDPKMSwimw9jDn5SQrGgTJoj9iQ7ErKigBrGQmLVXHH2qEKn3Xt"
+    },
+    {
+      "ts": 1790805609,
+      "type": "wallet",
+      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: MSFTx -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/3DbHyk2mGU8NNZmHyNSZTZzBEc5xcmLyCtaF6ykfrTNTeE6yQNfi3cLW3MqWAE9H7X5WPtqtz7UxGotWRy3LNsZ8"
+    },
+    {
+      "ts": 1790805609,
+      "type": "wallet",
+      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: TSLAx -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/4MgEgHm8VbyzECMNTTVk6dNdDRvmWDPJvafdri2bJqW3emuvLuX7CvR913fv3E5ATEpZpWRChNfoSaF6wPgP1Ffp"
+    },
     {
       "ts": 1790804998,
       "type": "outcome",
@@ -301,51 +346,6 @@
       "ts": 1790800274,
       "type": "outcome",
       "message": "\ud83d\udd34 The PumpFun Heist (BANDIT) is dropping fast \u2014 down 100%, may be rugging."
-    },
-    {
-      "ts": 1790800273,
-      "type": "outcome",
-      "message": "\ud83d\udd34 Agents Online (AOL) is dropping fast \u2014 down 100%, may be rugging."
-    },
-    {
-      "ts": 1790800272,
-      "type": "outcome",
-      "message": "\ud83d\udd34 Arthur (Arthur) is dropping fast \u2014 down 100%, may be rugging."
-    },
-    {
-      "ts": 1790800272,
-      "type": "outcome",
-      "message": "\ud83d\udd34 Binance Inu (BI) is dropping fast \u2014 down 100%, may be rugging."
-    },
-    {
-      "ts": 1790800271,
-      "type": "outcome",
-      "message": "\ud83d\udd34 FISHMIND (FISHMIND) is dropping fast \u2014 down 100%, may be rugging."
-    },
-    {
-      "ts": 1790800270,
-      "type": "scanner",
-      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\nSuper Intelligence Cat (SIC)\nOpportunity: 76/100\n\nMOMENTUM     100\nSAFETY       60\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$28,900, 16 min since pool creation\n\u2022 Up +78% in the last hour, ~$48,658 in 24h volume (1.7x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 80% of supply (very concentrated)\n\nCA: 8aBorS4gdFpg7Mz1ShJqXA8c2yWaEYvWSYcvC2PY8a6R\nhttps://dexscreener.com/solana/8aBorS4gdFpg7Mz1ShJqXA8c2yWaEYvWSYcvC2PY8a6R\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
-    },
-    {
-      "ts": 1790800269,
-      "type": "scanner",
-      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\nSuper Idiot (SI)\nOpportunity: 76/100\n\nMOMENTUM     100\nSAFETY       60\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$32,388, 14 min since pool creation\n\u2022 Up +94% in the last hour, ~$100,170 in 24h volume (3.1x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 98% of supply (very concentrated)\n\nCA: FAUqLM2qmxhjwJrbwazZ1yoG2CZ2kSgTUqDze7NXpYRB\nhttps://dexscreener.com/solana/FAUqLM2qmxhjwJrbwazZ1yoG2CZ2kSgTUqDze7NXpYRB\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
-    },
-    {
-      "ts": 1790800268,
-      "type": "scanner",
-      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\nTextr (TEXTR)\nOpportunity: 76/100\n\nMOMENTUM     100\nSAFETY       60\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$32,060, 13 min since pool creation\n\u2022 Up +83% in the last hour, ~$256,653 in 24h volume (8.0x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 82% of supply (very concentrated)\n\nCA: 8zFUEXJw7AEpovoncPkt6rk4A59tdHG7AvU8V743zDsx\nhttps://dexscreener.com/solana/8zFUEXJw7AEpovoncPkt6rk4A59tdHG7AvU8V743zDsx\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
-    },
-    {
-      "ts": 1790800268,
-      "type": "scanner",
-      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 STRONG\ninuvestor (inuvestor)\nOpportunity: 86/100\n\nMOMENTUM     100\nSAFETY       90\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$26,541, 11 min since pool creation\n\u2022 Up +102% in the last hour, ~$92,865 in 24h volume (3.5x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Low, 10/100):\n\u2022 top 10 holders own 34% of supply\n\nCA: CE9u77YGea7MsWK2cXMEcSE8Gpp3dbkWWd8iG4eMpump\nhttps://dexscreener.com/solana/CE9u77YGea7MsWK2cXMEcSE8Gpp3dbkWWd8iG4eMpump\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
-    },
-    {
-      "ts": 1790800267,
-      "type": "scanner",
-      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 STRONG\nQUONT (QUONT)\nOpportunity: 81/100\n\nMOMENTUM     84\nSAFETY       90\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$28,221, 7 min since pool creation\n\u2022 Up +56% in the last hour, ~$105,007 in 24h volume (3.7x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Low, 10/100):\n\u2022 top 10 holders own 38% of supply\n\nCA: 65ypKz5E3oem9XtmVPRjygQ7pYBNdqLFUGKiCkrNgviG\nhttps://dexscreener.com/solana/65ypKz5E3oem9XtmVPRjygQ7pYBNdqLFUGKiCkrNgviG\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
     }
   ]
 }
