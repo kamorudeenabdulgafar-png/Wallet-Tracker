@@ -1,5 +1,5 @@
 {
-  "last_updated": 1790764351,
+  "last_updated": 1790765465,
   "wallets": [
     {
       "label": "Dev wallet 1",
@@ -10,7 +10,7 @@
     "5CEbueQnq1Ym2uSSx2xXds3jQAqT1BDnkA59RZobSPAG": {
       "label": "Dev wallet 1",
       "buy_count": 460,
-      "sell_count": 246,
+      "sell_count": 247,
       "total_buy_usd": 15628.984658586525,
       "total_sell_usd": 0.0,
       "tokens_traded": [
@@ -70,7 +70,7 @@
         "BPxxfRCXkUVhig4HS1Lh7kZqV6SPJhzfEk4x6fVBjPCy",
         "27G8MtK7VtTcCHkpASjSDdkWWYfoqT6ggEuKidVJidD4"
       ],
-      "last_active": 1790762303,
+      "last_active": 1790765461,
       "positions": {},
       "realized_pnl_usd": 0.0
     }
@@ -97,6 +97,41 @@
   "learning_insight": "Coins that rugged averaged SAFETY 73; coins that did well averaged SAFETY 90.",
   "settings": {},
   "recent_alerts": [
+    {
+      "ts": 1790765464,
+      "type": "outcome",
+      "message": "\ud83d\udd34 American Super Intelligence (ASI) is dropping fast \u2014 down 93%, may be rugging."
+    },
+    {
+      "ts": 1790765462,
+      "type": "wallet",
+      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: AAPLx -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/22u1edjLpcUG7bxJYsHNtzqvdUPYDb7M6CRFE82ycJCCGH674yYe3KnK8c1wEroBTsQBqBF4N8b8KnCeryPy626y"
+    },
+    {
+      "ts": 1790765461,
+      "type": "wallet",
+      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: GPRO -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/2PqLoVtfF8nSMFRT7N18LZy72ozhhZW4hFaXd71bVuwr8W3w8EvZQHmTenG4zxmo2kGBgzQBnfkD4TJTiTC7aPsx"
+    },
+    {
+      "ts": 1790765461,
+      "type": "wallet",
+      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: SPCXx -> SPCX\nTrade size: unknown\nBought token: SpaceX - Backpack Securities (SPCX)\nCA: SPCXxcqXj6e5dJDVNovHN8744zkbhM2bYudU45BimGb\nhttps://solscan.io/tx/HJHCdDcv46v71GRdkVKUDqYxkYjMYCiFgG9k9cVHbdYHwgCppiPCVLTVwpBoHEVueqyEURvmhY4m4pZCYBodnb5"
+    },
+    {
+      "ts": 1790765460,
+      "type": "wallet",
+      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: 0.0905 SOL (~$10.83) -> USDC\nTrade size: ~$10.83\nBought token: USD Coin (USDC)\nCA: EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v\nhttps://solscan.io/tx/5iM4UraZ7AzWnus32Pa3LGwFqKM2uvEZH53LkzMuzFLqr1savKyw1eXNVMMwfh22BLKFpWpTMSx3JFmfgH2qMs8b"
+    },
+    {
+      "ts": 1790765460,
+      "type": "wallet",
+      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: LULU -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/iYZu7LA2hpsEJNQMjy7VtkayfDnGXYEncs7tiFQQyyFzrHvfy6jsCPYg6fs8hcjp1ZsJqefDgGPGKhtbQSas1X4"
+    },
+    {
+      "ts": 1790765459,
+      "type": "wallet",
+      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: wXRP -> USDC\nTrade size: unknown\nBought token: USD Coin (USDC)\nCA: EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v\nhttps://solscan.io/tx/4paHAfdV7RLExqUnRmSBVyM6YG8TPYX96KnTMAaZnLKwymBGeEibciR1UiRkdqUw4oqLgd2PVBez7xAjVuErGh4k"
+    },
     {
       "ts": 1790764351,
       "type": "outcome",
@@ -311,41 +346,6 @@
       "ts": 1790762304,
       "type": "wallet",
       "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: 0.0946 SOL (~$11.29) -> USDC\nTrade size: ~$11.29\nBought token: USD Coin (USDC)\nCA: EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v\nhttps://solscan.io/tx/5AHPcV7StQN4RvWeratRAfsgH1aa9JjwpmnPFbHPBiBASSghNcBjVF6QGrnnmLb47WuFeD9Qg7HJoDkzT2jpKBiM"
-    },
-    {
-      "ts": 1790762303,
-      "type": "wallet",
-      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: 0.0534 SOL (~$6.38) -> USDC\nTrade size: ~$6.38\nBought token: USD Coin (USDC)\nCA: EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v\nhttps://solscan.io/tx/4btqPfwVMHHGUKdBuYuxTnMEYZ5FsTS2qmVyMw9VnsPkoU433NVtC3ymsnNXRVQddLLVWNYSNDZVJddkWzZ1diNe"
-    },
-    {
-      "ts": 1790761270,
-      "type": "outcome",
-      "message": "\ud83d\udfe2 \u5e01\u5b89\u94fe\u80fd\u98de Soon (\u5e01\u5b89\u94fe\u80fd\u98de) is still doing really good \u2014 up 69% so far!"
-    },
-    {
-      "ts": 1790761268,
-      "type": "outcome",
-      "message": "\ud83d\udd34 Collector (Collector) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
-    },
-    {
-      "ts": 1790761267,
-      "type": "outcome",
-      "message": "\ud83d\udd34 dog wif pajamas (\u30a2\u30eb) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
-    },
-    {
-      "ts": 1790760236,
-      "type": "outcome",
-      "message": "\ud83d\udfe1 Stoxes (STOXES) is holding steady so far (-8%)."
-    },
-    {
-      "ts": 1790760235,
-      "type": "outcome",
-      "message": "\ud83d\udd34 dog wif pajamas (\u30a2\u30eb) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
-    },
-    {
-      "ts": 1790760233,
-      "type": "scanner",
-      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 STRONG\nWatermelinu (Watermeli)\nOpportunity: 81/100\n\nMOMENTUM     100\nSAFETY       75\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$40,699, 12 min since pool creation\n\u2022 Up +149% in the last hour, ~$181,809 in 24h volume (4.5x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 25/100):\n\u2022 top 10 holders own 66% of supply (concentrated)\n\nCA: CqHDH99LEpapGcKSPx1kELm3z5m7nKLks1qjYhsiapsP\nhttps://dexscreener.com/solana/CqHDH99LEpapGcKSPx1kELm3z5m7nKLks1qjYhsiapsP\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
     }
   ]
 }
