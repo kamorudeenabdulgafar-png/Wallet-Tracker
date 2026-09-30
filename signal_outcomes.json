@@ -1,72 +1,4 @@
 {
-  "479oPFizvo2hati4ZbN8vbBr43tjHB2QkbKqLhkd6bNX": {
-    "name": "Argus",
-    "symbol": "ARGUS",
-    "flagged_ts": 1790130062,
-    "liquidity_at_flag": 36434.71588561721,
-    "breakdown": {
-      "MOMENTUM": 100,
-      "SAFETY": 60,
-      "LIQUIDITY": 100,
-      "SMART MONEY": 0
-    },
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "A5ZiQNqMPuNY2VvmwpbYJ9m4vpsbTnAqKSgvuCKFpump": {
-    "name": "Unijak",
-    "symbol": "UNIJAK",
-    "flagged_ts": 1790130063,
-    "liquidity_at_flag": 39349.39367465483,
-    "breakdown": {
-      "MOMENTUM": 100,
-      "SAFETY": 100,
-      "LIQUIDITY": 100,
-      "SMART MONEY": 0
-    },
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "EoVc13TiwcPb42dTwxjHAcSSxDyTKuoe4EoK9T2VCEzJ": {
-    "name": "Agent Wormhole",
-    "symbol": "WORM",
-    "flagged_ts": 1790130064,
-    "liquidity_at_flag": 39029.814050605215,
-    "breakdown": {
-      "MOMENTUM": 100,
-      "SAFETY": 60,
-      "LIQUIDITY": 100,
-      "SMART MONEY": 0
-    },
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "AaMAjVuLGtQzyS8uxXsbLjS6f6ppZ8YBXrMtAydJ6Y5H": {
-    "name": "based",
-    "symbol": "based",
-    "flagged_ts": 1790130065,
-    "liquidity_at_flag": 29309.86013497613,
-    "breakdown": {
-      "MOMENTUM": 88,
-      "SAFETY": 60,
-      "LIQUIDITY": 100,
-      "SMART MONEY": 0
-    },
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
   "9AFExNuqiYsSXd7ZkMTQQqshXLYPmMsGmopJVh6bJ6K8": {
     "name": "MarsCoin",
     "symbol": "MarsCoin",
@@ -27382,7 +27314,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "TtQTjEjbqKbNn97fVc7jAYrubu43hB5QNCZpJ7aa57K": {
@@ -27398,7 +27331,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "7zZ7pfYJAxkX2nAMWCa6khrnNEVfvu9zw6kBGA34UPDJ": {
@@ -30648,13 +30582,28 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "M2DdvTCkgxbcfuJWQgDSaH4VLMnMFdPMKjo87KHAimQ": {
     "name": "Botbook",
     "symbol": "BOTBOOK",
     "flagged_ts": 1790731445,
     "liquidity_at_flag": 76874.19335589322,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "GFomi1wYAu27cxia7Xb1HSWP1G46giTGTogAq78q5eP6": {
+    "name": "supercycle",
+    "symbol": "supercycle",
+    "flagged_ts": 1790734906,
+    "liquidity_at_flag": 72773.90493368068,
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 60,

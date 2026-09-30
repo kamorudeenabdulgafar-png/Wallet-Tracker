@@ -1,5 +1,5 @@
 {
-  "last_updated": 1790733956,
+  "last_updated": 1790734910,
   "wallets": [
     {
       "label": "Dev wallet 1",
@@ -89,7 +89,7 @@
     "count": 2835,
     "up_count": 613,
     "total_change_pct": -155586.29928175083,
-    "rug": 2526,
+    "rug": 2528,
     "doing_well": 29,
     "steady": 12,
     "fading": 42
@@ -97,6 +97,26 @@
   "learning_insight": "Coins that rugged averaged SAFETY 72; coins that did well averaged SAFETY 90.",
   "settings": {},
   "recent_alerts": [
+    {
+      "ts": 1790734910,
+      "type": "outcome",
+      "message": "\ud83d\udd34 Super Inu (SI) is dropping fast \u2014 down 100%, may be rugging."
+    },
+    {
+      "ts": 1790734909,
+      "type": "outcome",
+      "message": "\ud83d\udd34 JPY Coin (JPYC) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
+    },
+    {
+      "ts": 1790734908,
+      "type": "outcome",
+      "message": "\ud83d\udd34 \u9e45\u6b21\u5143 (\u9e45\u6b21\u5143) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
+    },
+    {
+      "ts": 1790734906,
+      "type": "scanner",
+      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\nsupercycle (supercycle)\nOpportunity: 76/100\n\nMOMENTUM     100\nSAFETY       60\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$72,774, 7 min since pool creation\n\u2022 Up +103% in the last hour, ~$125,153 in 24h volume (1.7x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 95% of supply (very concentrated)\n\nCA: GFomi1wYAu27cxia7Xb1HSWP1G46giTGTogAq78q5eP6\nhttps://dexscreener.com/solana/GFomi1wYAu27cxia7Xb1HSWP1G46giTGTogAq78q5eP6\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
+    },
     {
       "ts": 1790733956,
       "type": "outcome",
@@ -326,26 +346,6 @@
       "ts": 1790728323,
       "type": "outcome",
       "message": "\ud83d\udfe1 Shiba Inu (SI) is holding steady so far (+22%)."
-    },
-    {
-      "ts": 1790728322,
-      "type": "outcome",
-      "message": "\ud83d\udd34 BagsPay (BAGSPAY) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
-    },
-    {
-      "ts": 1790728321,
-      "type": "outcome",
-      "message": "\ud83d\udd34 Dog Saved By Grok (Loomer) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
-    },
-    {
-      "ts": 1790728321,
-      "type": "outcome",
-      "message": "\ud83d\udd34 up on Fomo (FOMO) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
-    },
-    {
-      "ts": 1790728320,
-      "type": "outcome",
-      "message": "\ud83d\udfe0 Uncle Murphy (Murphy) faded \u2014 liquidity down 58% after 24h."
     }
   ]
 }
