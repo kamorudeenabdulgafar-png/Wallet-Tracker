@@ -1,21 +1,4 @@
 {
-  "uxwu4WoFWBeH2Vh8BN2PCnY4TEJhT3SoY3TUhYvhmzA": {
-    "name": "HOWL",
-    "symbol": "HOWL",
-    "flagged_ts": 1790191873,
-    "liquidity_at_flag": 61135.84617103355,
-    "breakdown": {
-      "MOMENTUM": 100,
-      "SAFETY": 60,
-      "LIQUIDITY": 100,
-      "SMART MONEY": 0
-    },
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
   "BAJhfyGj6HRaCU2UHATd9NVLR2SjWoAXS6aVayp2gjZh": {
     "name": "pog",
     "symbol": "pog",
@@ -26668,7 +26651,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "5DzdcJUwovmAUXMfrWgbhKmJ3RWmEtXwf7EEtuHRpump": {
@@ -26684,7 +26668,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "FbvxrbqZNnHabSaxgq8yvg8fwtZ4c7n3jbY6C5HTrMXk": {
@@ -26700,7 +26685,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "7qBKSN5qtvoo9ihV7LPeSmUyqvmPYbVwWWmbCsvYpump": {
@@ -28779,7 +28765,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "4aZ3eKyWSiqamqmLjXfZmtCsXNk7YgSPNxUxzLBuxzNV": {
@@ -28794,7 +28781,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "DB1qhbUoosg5fep5vkx2yj8fdr3EwV5MWCNkyK5AKGmS": {
@@ -29171,6 +29159,32 @@
     "symbol": "BANDIT",
     "flagged_ts": 1790796166,
     "liquidity_at_flag": 53961.851645243536,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "6YifLyqFUBeGbfscoUpFCabELFuRBejHXFMobKRppump": {
+    "name": "payouts",
+    "symbol": "PAYOUTS",
+    "flagged_ts": 1790797064,
+    "liquidity_at_flag": 23748.978376533116,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 75,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "DK1yiw5qXeisTdxWvWg8bsikVRucCGAfqguW5h9C9kBV": {
+    "name": "Archy",
+    "symbol": "Archy",
+    "flagged_ts": 1790797064,
+    "liquidity_at_flag": 38326.95735535166,
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 60,
