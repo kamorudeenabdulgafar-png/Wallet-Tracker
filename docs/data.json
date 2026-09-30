@@ -1,5 +1,5 @@
 {
-  "last_updated": 1790744256,
+  "last_updated": 1790745064,
   "wallets": [
     {
       "label": "Dev wallet 1",
@@ -10,7 +10,7 @@
     "5CEbueQnq1Ym2uSSx2xXds3jQAqT1BDnkA59RZobSPAG": {
       "label": "Dev wallet 1",
       "buy_count": 456,
-      "sell_count": 242,
+      "sell_count": 243,
       "total_buy_usd": 15628.984658586525,
       "total_sell_usd": 0.0,
       "tokens_traded": [
@@ -70,7 +70,7 @@
         "BPxxfRCXkUVhig4HS1Lh7kZqV6SPJhzfEk4x6fVBjPCy",
         "27G8MtK7VtTcCHkpASjSDdkWWYfoqT6ggEuKidVJidD4"
       ],
-      "last_active": 1790741396,
+      "last_active": 1790745057,
       "positions": {},
       "realized_pnl_usd": 0.0
     }
@@ -89,7 +89,7 @@
     "count": 2835,
     "up_count": 613,
     "total_change_pct": -155586.29928175083,
-    "rug": 2555,
+    "rug": 2558,
     "doing_well": 29,
     "steady": 12,
     "fading": 43
@@ -97,6 +97,46 @@
   "learning_insight": "Coins that rugged averaged SAFETY 72; coins that did well averaged SAFETY 90.",
   "settings": {},
   "recent_alerts": [
+    {
+      "ts": 1790745064,
+      "type": "outcome",
+      "message": "\ud83d\udd34 sendor (sendor) is dropping fast \u2014 down 100%, may be rugging."
+    },
+    {
+      "ts": 1790745063,
+      "type": "outcome",
+      "message": "\ud83d\udd34 President Of The Unites States (POTUS) is dropping fast \u2014 down 100%, may be rugging."
+    },
+    {
+      "ts": 1790745062,
+      "type": "outcome",
+      "message": "\ud83d\udd34 Super Inu (SI) is dropping fast \u2014 down 100%, may be rugging."
+    },
+    {
+      "ts": 1790745061,
+      "type": "outcome",
+      "message": "\ud83d\udd34 Coragentic (CORA) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
+    },
+    {
+      "ts": 1790745060,
+      "type": "outcome",
+      "message": "\ud83d\udd34 Virus (Virus) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
+    },
+    {
+      "ts": 1790745059,
+      "type": "outcome",
+      "message": "\ud83d\udd34 Claimed (Claimed) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
+    },
+    {
+      "ts": 1790745057,
+      "type": "wallet",
+      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: CYPH -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/5WonjbZZMXCjAwzpDdfNCjCnFuh5ZDuFnptmN3eo81wv2YWiE4GCYqzx2TQfrvqQ8PqW4rETr9YCvDyoGCVnAKek"
+    },
+    {
+      "ts": 1790745056,
+      "type": "wallet",
+      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: SKR -> USDC\nTrade size: unknown\nBought token: USD Coin (USDC)\nCA: EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v\nhttps://solscan.io/tx/3yXZKLCRrZ2k28dzPnq4sWbP9UR5x5a8PuAu7au1LeHGNKtj69n3rh4dxwZrR6eLekAhQ4XbFAkvxaTJjccWMS9f"
+    },
     {
       "ts": 1790744255,
       "type": "outcome",
@@ -306,46 +346,6 @@
       "ts": 1790740632,
       "type": "outcome",
       "message": "\ud83d\udd34 \u5e84\u6b23\u5982 (BNB\u9ad8\u7ba1) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
-    },
-    {
-      "ts": 1790740631,
-      "type": "scanner",
-      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 STRONG\nCROCS (CROCS)\nOpportunity: 89/100\n\nMOMENTUM     100\nSAFETY       100\nLIQUIDITY    95\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$19,040, 13 min since pool creation\n\u2022 Up +67% in the last hour, ~$32,586 in 24h volume (1.7x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Low, 0/100):\n\u2022 No major red flags found\n\nCA: 3JXGkp8xtu5NhYpcRhG7fo8727JAQkmXWvnXRofW29We\nhttps://dexscreener.com/solana/3JXGkp8xtu5NhYpcRhG7fo8727JAQkmXWvnXRofW29We\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
-    },
-    {
-      "ts": 1790740630,
-      "type": "scanner",
-      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\nCommander Vrax (VRAX)\nOpportunity: 76/100\n\nMOMENTUM     100\nSAFETY       60\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$36,222, 13 min since pool creation\n\u2022 Up +105% in the last hour, ~$63,910 in 24h volume (1.8x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 79% of supply (very concentrated)\n\nCA: ftVen8BLzoZcXaLzunhg9Gxt8MhoTWezxAS3u59mLKt\nhttps://dexscreener.com/solana/ftVen8BLzoZcXaLzunhg9Gxt8MhoTWezxAS3u59mLKt\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
-    },
-    {
-      "ts": 1790740628,
-      "type": "scanner",
-      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 EXCEPTIONAL\nMeat Accelerationism (m/acc)\nOpportunity: 90/100\n\nMOMENTUM     100\nSAFETY       100\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$32,354, 8 min since pool creation\n\u2022 Up +163% in the last hour, ~$254,987 in 24h volume (7.9x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Low, 0/100):\n\u2022 No major red flags found\n\nCA: 3TB4D414xdRGvvoiccnDAAcDD25xeLPa2p5yuKWhpump\nhttps://dexscreener.com/solana/3TB4D414xdRGvvoiccnDAAcDD25xeLPa2p5yuKWhpump\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
-    },
-    {
-      "ts": 1790739626,
-      "type": "outcome",
-      "message": "\ud83d\udd34 discat (discat) is dropping fast \u2014 down 94%, may be rugging."
-    },
-    {
-      "ts": 1790739625,
-      "type": "outcome",
-      "message": "\ud83d\udfe1 My Retirement Fund (RETIREMENT) is holding steady so far (+17%)."
-    },
-    {
-      "ts": 1790739624,
-      "type": "outcome",
-      "message": "\ud83d\udd34 NEPTUNE (NEPTUNE) is dropping fast \u2014 down 100%, may be rugging."
-    },
-    {
-      "ts": 1790739623,
-      "type": "outcome",
-      "message": "\ud83d\udd34 Duel (DUEL) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
-    },
-    {
-      "ts": 1790738617,
-      "type": "outcome",
-      "message": "\ud83d\udfe2 supercycle (supercycle) is still doing really good \u2014 up 40% so far!"
     }
   ]
 }
