@@ -27416,7 +27416,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "GVcGUWFmTf89Jtdb7DoKQhhDqepXWnHsHCkiRty6DjuJ": {
@@ -30567,7 +30568,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "F4sTBdunw23aCMuTMJE7scem1VWwcoptL6iwaGeZt3Fe": {
@@ -30761,7 +30763,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "7mTr1SjUteYPLqR5mGczNgF451oiYEMzHUSu9mr1be8k": {
     "name": "GREEN MORNING",
@@ -30807,6 +30811,19 @@
     "symbol": "SI",
     "flagged_ts": 1790730446,
     "liquidity_at_flag": 69052.31514681532,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "M2DdvTCkgxbcfuJWQgDSaH4VLMnMFdPMKjo87KHAimQ": {
+    "name": "Botbook",
+    "symbol": "BOTBOOK",
+    "flagged_ts": 1790731445,
+    "liquidity_at_flag": 76874.19335589322,
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 60,
