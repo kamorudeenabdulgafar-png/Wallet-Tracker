@@ -28812,7 +28812,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "6jNdtGJ3N4AZXihUzU5WzuMvcY4GRHzpdMj74uCtCuY": {
@@ -28827,7 +28828,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "oSCYmaoXVCgKTZjBw4koyBtoDzG7nAtf12WJUYRfg89": {
@@ -28842,7 +28844,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "C64G1qogLMxzDyBJEpaARrBFjvLSeUk4MtaEbnyWXX2Q": {
@@ -29066,7 +29069,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "4XNGWQ1vzk6QboKmprqw3WbUgfuK8XpMXXuWpXfbz5fE": {
     "name": "The PumpFun Heist",
@@ -29079,7 +29084,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "6YifLyqFUBeGbfscoUpFCabELFuRBejHXFMobKRppump": {
     "name": "payouts",
@@ -29167,6 +29174,71 @@
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 100,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "65ypKz5E3oem9XtmVPRjygQ7pYBNdqLFUGKiCkrNgviG": {
+    "name": "QUONT",
+    "symbol": "QUONT",
+    "flagged_ts": 1790800267,
+    "liquidity_at_flag": 28220.732159078638,
+    "breakdown": {
+      "MOMENTUM": 84,
+      "SAFETY": 90,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "CE9u77YGea7MsWK2cXMEcSE8Gpp3dbkWWd8iG4eMpump": {
+    "name": "inuvestor",
+    "symbol": "inuvestor",
+    "flagged_ts": 1790800268,
+    "liquidity_at_flag": 26540.913085444146,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 90,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "8zFUEXJw7AEpovoncPkt6rk4A59tdHG7AvU8V743zDsx": {
+    "name": "Textr",
+    "symbol": "TEXTR",
+    "flagged_ts": 1790800268,
+    "liquidity_at_flag": 32059.543168900494,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "FAUqLM2qmxhjwJrbwazZ1yoG2CZ2kSgTUqDze7NXpYRB": {
+    "name": "Super Idiot",
+    "symbol": "SI",
+    "flagged_ts": 1790800269,
+    "liquidity_at_flag": 32388.29828777811,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "8aBorS4gdFpg7Mz1ShJqXA8c2yWaEYvWSYcvC2PY8a6R": {
+    "name": "Super Intelligence Cat",
+    "symbol": "SIC",
+    "flagged_ts": 1790800270,
+    "liquidity_at_flag": 28900.179950102574,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
