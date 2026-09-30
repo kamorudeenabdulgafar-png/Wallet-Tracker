@@ -1,38 +1,4 @@
 {
-  "9AFExNuqiYsSXd7ZkMTQQqshXLYPmMsGmopJVh6bJ6K8": {
-    "name": "MarsCoin",
-    "symbol": "MarsCoin",
-    "flagged_ts": 1790131034,
-    "liquidity_at_flag": 39762.664629252264,
-    "breakdown": {
-      "MOMENTUM": 90,
-      "SAFETY": 60,
-      "LIQUIDITY": 100,
-      "SMART MONEY": 0
-    },
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "HwyDsK6v99M9sfcFfVjxrrZA1ot8Dqyqhd8HKA97T9T4": {
-    "name": "based",
-    "symbol": "based",
-    "flagged_ts": 1790131036,
-    "liquidity_at_flag": 35052.31868547025,
-    "breakdown": {
-      "MOMENTUM": 100,
-      "SAFETY": 60,
-      "LIQUIDITY": 100,
-      "SMART MONEY": 0
-    },
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
   "3TTWobUyMxhgK7NPeibKFU5XviJaSXCggLeMGBCzjVmV": {
     "name": "AntFun",
     "symbol": "ANTFUN",
@@ -27348,7 +27314,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "AVShja5cEcpic1x4f4p9wQ3nEZT5TfFA4sgcw16jJXMH": {
@@ -27364,7 +27331,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "DJmoFAvif8X88Qet1o5NqgkXwnMvV9JxmrjYioUWo4H": {
@@ -27380,7 +27348,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "3NLfcS6P3RpVQ4i4he7xYp9amQScvTvoLMi5iY7cpump": {
@@ -30597,7 +30566,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "GFomi1wYAu27cxia7Xb1HSWP1G46giTGTogAq78q5eP6": {
     "name": "supercycle",
@@ -30607,6 +30578,32 @@
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "45vbbVHdU6MXuEBq1GoEaQGYE1UkavHR4EjihGgQbMxs": {
+    "name": "My Retirement Fund",
+    "symbol": "RETIREMENT",
+    "flagged_ts": 1790735953,
+    "liquidity_at_flag": 45389.67699883542,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 75,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "AdFYwmgMEYfD3ut11oYjiFCyHSj5G7SK8X2kWqZ6pump": {
+    "name": "discat",
+    "symbol": "discat",
+    "flagged_ts": 1790735954,
+    "liquidity_at_flag": 51214.61024341277,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 100,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
