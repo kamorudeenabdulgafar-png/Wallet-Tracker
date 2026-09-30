@@ -1,5 +1,5 @@
 {
-  "last_updated": 1790791644,
+  "last_updated": 1790792780,
   "wallets": [
     {
       "label": "Dev wallet 1",
@@ -70,7 +70,7 @@
         "BPxxfRCXkUVhig4HS1Lh7kZqV6SPJhzfEk4x6fVBjPCy",
         "27G8MtK7VtTcCHkpASjSDdkWWYfoqT6ggEuKidVJidD4"
       ],
-      "last_active": 1790790688,
+      "last_active": 1790792776,
       "positions": {},
       "realized_pnl_usd": 0.0
     }
@@ -89,7 +89,7 @@
     "count": 2835,
     "up_count": 613,
     "total_change_pct": -155586.29928175083,
-    "rug": 2671,
+    "rug": 2672,
     "doing_well": 29,
     "steady": 12,
     "fading": 43
@@ -97,6 +97,36 @@
   "learning_insight": null,
   "settings": {},
   "recent_alerts": [
+    {
+      "ts": 1790792780,
+      "type": "outcome",
+      "message": "\ud83d\udfe1 Butthole Intelligence (BI) is holding steady so far (-13%)."
+    },
+    {
+      "ts": 1790792779,
+      "type": "outcome",
+      "message": "\ud83d\udd34 ZYROX (ZYROX) is dropping fast \u2014 down 82%, may be rugging."
+    },
+    {
+      "ts": 1790792778,
+      "type": "outcome",
+      "message": "\ud83d\udd34 Super Mufasa (SM) turned out to be a rug \u2014 liquidity dropped 85% over 24h."
+    },
+    {
+      "ts": 1790792777,
+      "type": "wallet",
+      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: KITTY -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/VopadpZP9Rnon4RFA9Z2adn8dS4Kjn6v5KdKexPQSNqgR8Kp7ZuU6SMWnPrdsiLSsoUgrwqFTEMaBqt6H4NkTgU"
+    },
+    {
+      "ts": 1790792776,
+      "type": "wallet",
+      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: USDC -> 0.3288 SOL (~$39.05)\nTrade size: ~$39.05\nBought token: SOL (SOL)\nCA: So11111111111111111111111111111111111111112\nhttps://solscan.io/tx/4BLMCG1iyy9aXP7FZcMFHMQHNUk1DrFrACUvtH6M4o3xedJApqNYLxtY3Q1MtCf4XAzbALZnQn1rLTexoR4hQSsq"
+    },
+    {
+      "ts": 1790792776,
+      "type": "wallet",
+      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: USDC -> 0.0594 SOL (~$7.06)\nTrade size: ~$7.06\nBought token: SOL (SOL)\nCA: So11111111111111111111111111111111111111112\nhttps://solscan.io/tx/42cFhWK4ahSssU6FmyQ6J1Wh3zvD2LtRGYFyUynfMe7Xb8AnGfjEBxHkjAtXEFt9L8m8aFwCBhmMVejxohn4yXkA"
+    },
     {
       "ts": 1790791644,
       "type": "outcome",
@@ -316,36 +346,6 @@
       "ts": 1790786168,
       "type": "wallet",
       "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: GLDx -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/3STGJ9FAhrocTVakrpxpUjmCHMEiLzjqPwjibyCQrY1uHeC4HoUuHoYVBUetjKpPvwZzzF1dvkes2kpf8FcbDmz8"
-    },
-    {
-      "ts": 1790786168,
-      "type": "wallet",
-      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: AVAX -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/34JMimcx2Uo5Pk7KiaKYw75u4edPiowYzBj5FLXiGAV8NRx4FUMdh5BwxtKMvLQBx3TxDCWuYSzpPhXdmkYvqvCm"
-    },
-    {
-      "ts": 1790786167,
-      "type": "wallet",
-      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: xSOL -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/5aNz7hqGXRXpe2CdULwpZrzuYz2yxDWq3kLnRMp7RfTiKXRP3sGhCrfHgRPuc6aZ8ESQhfs9rXptzsvt1LJZJwBj"
-    },
-    {
-      "ts": 1790786166,
-      "type": "wallet",
-      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: xBTC -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/2x2ueuLNH8pDMHq1hka2RCwLs3rmYqtMw3LdKs9fDLBokfwno95euELj3DwgH5mGEDqKBvDQrQZGmsefjYi7FQJ9"
-    },
-    {
-      "ts": 1790786165,
-      "type": "wallet",
-      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: RAY -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/ZhxVkkGTcQj5Aq3oFxKEJDctwYyUqSMjiwENELjcg5ichTTsXY34TTWrhnku7c83erKqe3jE44MRuLBQXrn6bmJ"
-    },
-    {
-      "ts": 1790786165,
-      "type": "wallet",
-      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: XMR -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/5ukrxiCA3t3pHdrnrXZc6c31rgLd5UyrBkehCNcukc19xHsjgnXSHSCw2GxMf2gMSZB6N3RRffYyMQMNXi8CT4Ap"
-    },
-    {
-      "ts": 1790785092,
-      "type": "outcome",
-      "message": "\ud83d\udd34 Doppler Finance (XDP) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
     }
   ]
 }
