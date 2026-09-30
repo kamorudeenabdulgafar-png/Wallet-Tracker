@@ -1,5 +1,5 @@
 {
-  "last_updated": 1790733065,
+  "last_updated": 1790733956,
   "wallets": [
     {
       "label": "Dev wallet 1",
@@ -10,7 +10,7 @@
     "5CEbueQnq1Ym2uSSx2xXds3jQAqT1BDnkA59RZobSPAG": {
       "label": "Dev wallet 1",
       "buy_count": 447,
-      "sell_count": 240,
+      "sell_count": 241,
       "total_buy_usd": 15628.984658586525,
       "total_sell_usd": 0.0,
       "tokens_traded": [
@@ -70,7 +70,7 @@
         "BPxxfRCXkUVhig4HS1Lh7kZqV6SPJhzfEk4x6fVBjPCy",
         "27G8MtK7VtTcCHkpASjSDdkWWYfoqT6ggEuKidVJidD4"
       ],
-      "last_active": 1790733060,
+      "last_active": 1790733950,
       "positions": {},
       "realized_pnl_usd": 0.0
     }
@@ -89,7 +89,7 @@
     "count": 2835,
     "up_count": 613,
     "total_change_pct": -155586.29928175083,
-    "rug": 2524,
+    "rug": 2526,
     "doing_well": 29,
     "steady": 12,
     "fading": 42
@@ -97,6 +97,36 @@
   "learning_insight": "Coins that rugged averaged SAFETY 72; coins that did well averaged SAFETY 90.",
   "settings": {},
   "recent_alerts": [
+    {
+      "ts": 1790733956,
+      "type": "outcome",
+      "message": "\ud83d\udfe0 Diminutive Comando (Comando) is fading \u2014 down 41% so far."
+    },
+    {
+      "ts": 1790733955,
+      "type": "outcome",
+      "message": "\ud83d\udd34 Super Intelligence (SI) is dropping fast \u2014 down 100%, may be rugging."
+    },
+    {
+      "ts": 1790733954,
+      "type": "outcome",
+      "message": "\ud83d\udd34 Wojak (WOJAK) is dropping fast \u2014 down 100%, may be rugging."
+    },
+    {
+      "ts": 1790733954,
+      "type": "outcome",
+      "message": "\ud83d\udd34 Ape in Dog (AID) turned out to be a rug \u2014 liquidity dropped 88% over 24h."
+    },
+    {
+      "ts": 1790733953,
+      "type": "outcome",
+      "message": "\ud83d\udd34 JONKEY (JONKEY) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
+    },
+    {
+      "ts": 1790733950,
+      "type": "wallet",
+      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: SKR -> USDC\nTrade size: unknown\nBought token: USD Coin (USDC)\nCA: EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v\nhttps://solscan.io/tx/4kdJERTfnH2A2QTqPesZ8dp1iQUgZNMnoCV3EVaz2gmvRNXrTas1mBA4pJ5eVgxnCmGWHn8VTWpTwKQqshQzkpDG"
+    },
     {
       "ts": 1790733065,
       "type": "outcome",
@@ -316,36 +346,6 @@
       "ts": 1790728320,
       "type": "outcome",
       "message": "\ud83d\udfe0 Uncle Murphy (Murphy) faded \u2014 liquidity down 58% after 24h."
-    },
-    {
-      "ts": 1790728319,
-      "type": "scanner",
-      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\nSuper Intelligence (SI)\nOpportunity: 76/100\n\nMOMENTUM     100\nSAFETY       60\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$35,706, 19 min since pool creation\n\u2022 Up +75% in the last hour, ~$47,445 in 24h volume (1.3x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 96% of supply (very concentrated)\n\nCA: 13QB1JVwjEFQVqx5tFF4DKKv9DYf2Lu2jjpMym6ACYmh\nhttps://dexscreener.com/solana/13QB1JVwjEFQVqx5tFF4DKKv9DYf2Lu2jjpMym6ACYmh\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
-    },
-    {
-      "ts": 1790728318,
-      "type": "scanner",
-      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\nGREEN MORNING (GM)\nOpportunity: 76/100\n\nMOMENTUM     100\nSAFETY       60\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$27,475, 18 min since pool creation\n\u2022 Up +94% in the last hour, ~$50,883 in 24h volume (1.9x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 87% of supply (very concentrated)\n\nCA: 7mTr1SjUteYPLqR5mGczNgF451oiYEMzHUSu9mr1be8k\nhttps://dexscreener.com/solana/7mTr1SjUteYPLqR5mGczNgF451oiYEMzHUSu9mr1be8k\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
-    },
-    {
-      "ts": 1790726858,
-      "type": "outcome",
-      "message": "\ud83d\udfe2 Super Intelligence (SI) is still doing really good \u2014 up 109% so far!"
-    },
-    {
-      "ts": 1790726857,
-      "type": "outcome",
-      "message": "\ud83d\udd34 Super Paid (SP) is dropping fast \u2014 down 61%, may be rugging."
-    },
-    {
-      "ts": 1790726856,
-      "type": "outcome",
-      "message": "\ud83d\udd34 XSI (XSI) is dropping fast \u2014 down 100%, may be rugging."
-    },
-    {
-      "ts": 1790726855,
-      "type": "outcome",
-      "message": "\ud83d\udd34 BagsPay (BAGSPAY) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
     }
   ]
 }
