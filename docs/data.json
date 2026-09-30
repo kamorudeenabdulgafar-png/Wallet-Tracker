@@ -1,5 +1,5 @@
 {
-  "last_updated": 1790753111,
+  "last_updated": 1790754022,
   "wallets": [
     {
       "label": "Dev wallet 1",
@@ -70,7 +70,7 @@
         "BPxxfRCXkUVhig4HS1Lh7kZqV6SPJhzfEk4x6fVBjPCy",
         "27G8MtK7VtTcCHkpASjSDdkWWYfoqT6ggEuKidVJidD4"
       ],
-      "last_active": 1790750471,
+      "last_active": 1790754018,
       "positions": {},
       "realized_pnl_usd": 0.0
     }
@@ -89,7 +89,7 @@
     "count": 2835,
     "up_count": 613,
     "total_change_pct": -155586.29928175083,
-    "rug": 2584,
+    "rug": 2586,
     "doing_well": 29,
     "steady": 12,
     "fading": 43
@@ -97,6 +97,36 @@
   "learning_insight": "Coins that rugged averaged SAFETY 73; coins that did well averaged SAFETY 90.",
   "settings": {},
   "recent_alerts": [
+    {
+      "ts": 1790754022,
+      "type": "outcome",
+      "message": "\ud83d\udd34 chillguy wif sword (swordguy) turned out to be a rug \u2014 liquidity dropped 93% over 24h."
+    },
+    {
+      "ts": 1790754021,
+      "type": "outcome",
+      "message": "\ud83d\udd34 Cashewcoin (CASHEW) turned out to be a rug \u2014 liquidity dropped 86% over 24h."
+    },
+    {
+      "ts": 1790754020,
+      "type": "scanner",
+      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 STRONG\nSuperBlackInu (SBI)\nOpportunity: 87/100\n\nMOMENTUM     92\nSAFETY       100\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$33,508, 8 min since pool creation\n\u2022 Up +62% in the last hour, ~$112,006 in 24h volume (3.3x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Low, 0/100):\n\u2022 No major red flags found\n\nCA: chaAfUawtmjPtT1AiS74Sqp5cMnhSmFkw2YPjj3pump\nhttps://dexscreener.com/solana/chaAfUawtmjPtT1AiS74Sqp5cMnhSmFkw2YPjj3pump\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
+    },
+    {
+      "ts": 1790754018,
+      "type": "wallet",
+      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: GLDx -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/5qAwtEKhYndcndbykKo1UkTQz6TKSVH1SF9LP7XpaZbaNdX4LdT6b8HTcRf7RarJpzSt4oEZ76YA18WhyTSovqgc"
+    },
+    {
+      "ts": 1790754018,
+      "type": "wallet",
+      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: UNI -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/3p5GV44cqrhj7vqP7opfZirBde21AKxKDN3Uw46uS7r3e4vVXV63eemgUAXbGhwxWMtM12pW1jqGtamQAkxa1YTY"
+    },
+    {
+      "ts": 1790754018,
+      "type": "wallet",
+      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: 0.1638 SOL (~$19.45) -> USDC\nTrade size: ~$19.45\nBought token: USD Coin (USDC)\nCA: EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v\nhttps://solscan.io/tx/3Q8sB7mZUCne4CyVEbCP1RwsH1Anp8FAPDd6ff5pTQBtiHTZcWQwWHgViSqYL2anNv1m23FhZkbk5hHMEi2cvnNV"
+    },
     {
       "ts": 1790753109,
       "type": "outcome",
@@ -316,36 +346,6 @@
       "ts": 1790750471,
       "type": "wallet",
       "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: TSLAx -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/48NtMHC6tRSZwnEYLxmjR1CpMU6MXYyTe9B1uZRku99PZWbkU6SMqHN7bEuUsAuR6NHDF4TAyBbwLt8FtjvZ7W9N"
-    },
-    {
-      "ts": 1790750470,
-      "type": "wallet",
-      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: MSFTx -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/kV6i4gmnvQNSmjRgQuco3snNx2jniQG5Pg6TSvaU79GpPciy6G7KBWVjPDppFycCGKiqisYPnMnKzavL8BRQJmF"
-    },
-    {
-      "ts": 1790750469,
-      "type": "wallet",
-      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: NVDAx -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/rcqWRe5wtbs6vyjig4JcDmeqYaWyfvAeLtdprMJH2ZxUepJy3V9cy4TBTTtiB6KVhZmWa2V5wqhtJUA4qtyj3wR"
-    },
-    {
-      "ts": 1790750469,
-      "type": "wallet",
-      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: DJT -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/3eM9mKjepoNJHmvurWatiP62CPMpsY7uSQLxGsk7uk1jy8Cwwd7NkgLDiTneHXFkfKvAamaU2yzgFbTFNWsa9fZg"
-    },
-    {
-      "ts": 1790749156,
-      "type": "outcome",
-      "message": "\ud83d\udd34 parasitewifhat (pwh) turned out to be a rug \u2014 liquidity dropped 90% over 24h."
-    },
-    {
-      "ts": 1790749155,
-      "type": "outcome",
-      "message": "\ud83d\udd34 Big Swordcat (BSWORDCAT) turned out to be a rug \u2014 liquidity dropped 92% over 24h."
-    },
-    {
-      "ts": 1790749154,
-      "type": "scanner",
-      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 STRONG\nGARP (GARP)\nOpportunity: 81/100\n\nMOMENTUM     100\nSAFETY       75\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$48,997, 22 min since pool creation\n\u2022 Up +357% in the last hour, ~$117,506 in 24h volume (2.4x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 25/100):\n\u2022 top 10 holders own 55% of supply (concentrated)\n\nCA: J7HoZJGDpZybcpBLP3YhSj46Jh8i9MGKAkvG2nANyFoi\nhttps://dexscreener.com/solana/J7HoZJGDpZybcpBLP3YhSj46Jh8i9MGKAkvG2nANyFoi\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
     }
   ]
 }
