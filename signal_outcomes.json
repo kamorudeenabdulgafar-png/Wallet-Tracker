@@ -1,55 +1,4 @@
 {
-  "7UobTaZMwdLCDvFN2mFQcVRaqMqfP4BNxtCVDPuJ55xd": {
-    "name": "DOGMAN",
-    "symbol": "DOGMAN",
-    "flagged_ts": 1790142919,
-    "liquidity_at_flag": 30972.33799975577,
-    "breakdown": {
-      "MOMENTUM": 100,
-      "SAFETY": 60,
-      "LIQUIDITY": 100,
-      "SMART MONEY": 0
-    },
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "GkemxFkQCkuDX2CsDSLXTWwpJgSDUJR2sKnXCqcWpump": {
-    "name": "Based Cat",
-    "symbol": "BASEDCAT",
-    "flagged_ts": 1790142920,
-    "liquidity_at_flag": 14317.705516330787,
-    "breakdown": {
-      "MOMENTUM": 95,
-      "SAFETY": 100,
-      "LIQUIDITY": 72,
-      "SMART MONEY": 0
-    },
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "5GupMHC51kbvezLdNXtKMuVPSpYW7baGJsxwZpjEYBrS": {
-    "name": "Jollybot",
-    "symbol": "JOLLY",
-    "flagged_ts": 1790142921,
-    "liquidity_at_flag": 15994.120926272504,
-    "breakdown": {
-      "MOMENTUM": 66,
-      "SAFETY": 100,
-      "LIQUIDITY": 80,
-      "SMART MONEY": 0
-    },
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
   "ENCK19EXtY3w7LaVhguGHcypXvTJt1H4n59UEPcaJ5Gx": {
     "name": "\u9519\u7248\u5ba1\u7f8e\u5409\u86d9",
     "symbol": "\u7532\u4ea2\u86d9",
@@ -27331,7 +27280,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "3wPhC7BH3ArDEEhsa9FusscVsHxHbdnMc7bmRHpPevHs": {
@@ -27347,7 +27297,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "5pXZeopbAT8UUxxNMG9sWW88gNHF1315tfWbPJ6e6Ti6": {
@@ -27363,7 +27314,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "DaMSc5ELxkekjjnVxPwNf9Cy1StsvqQxUnJhekzkWuVG": {
@@ -27379,7 +27331,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "Gk2deYNGudwgsDaT31Tc8VUHGbvnhjkHtLxAoV2obXSp": {
@@ -27395,7 +27348,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "BtmBpZpQBmqHTxzBxCHAiBXFxDXpRbnZ5KwfiScipump": {
@@ -30238,7 +30192,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "GYDyPuD4b9CCZZAKyN8gvf1Bf7vAkiSUy3REzJinTMTj": {
     "name": "WAGER",
@@ -30251,7 +30207,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "38s3TbDCWcii92vuqRgvJbjDsNoS1h7ewj1TA1pfNioC": {
     "name": "RedCoin",
@@ -30326,6 +30284,45 @@
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "HKen1vCkQpuGwBCYd88yC74kgYxoLqhUpypzbWncQmru": {
+    "name": "Bull Market Inu",
+    "symbol": "BMI",
+    "flagged_ts": 1790747979,
+    "liquidity_at_flag": 36363.3859546255,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "HH8vhoWGog35jPENWEZyo53yY81xYWrLhBuRcDevUnDB": {
+    "name": "AirPad",
+    "symbol": "AIRPAD",
+    "flagged_ts": 1790747980,
+    "liquidity_at_flag": 49300.83708986505,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "486U4LyqMsHUvCwNrxXDgZ94BZNuCJ5rPDEkssC2hJi9": {
+    "name": "Bull Market Inu",
+    "symbol": "BMI",
+    "flagged_ts": 1790747981,
+    "liquidity_at_flag": 34487.75868509742,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 100,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
