@@ -1,5 +1,5 @@
 {
-  "last_updated": 1790809493,
+  "last_updated": 1790810412,
   "wallets": [
     {
       "label": "Dev wallet 1",
@@ -9,7 +9,7 @@
   "wallet_stats": {
     "5CEbueQnq1Ym2uSSx2xXds3jQAqT1BDnkA59RZobSPAG": {
       "label": "Dev wallet 1",
-      "buy_count": 470,
+      "buy_count": 471,
       "sell_count": 248,
       "total_buy_usd": 15628.984658586525,
       "total_sell_usd": 0.0,
@@ -70,7 +70,7 @@
         "BPxxfRCXkUVhig4HS1Lh7kZqV6SPJhzfEk4x6fVBjPCy",
         "27G8MtK7VtTcCHkpASjSDdkWWYfoqT6ggEuKidVJidD4"
       ],
-      "last_active": 1790809482,
+      "last_active": 1790810409,
       "positions": {},
       "realized_pnl_usd": 0.0
     }
@@ -97,6 +97,36 @@
   "learning_insight": null,
   "settings": {},
   "recent_alerts": [
+    {
+      "ts": 1790810412,
+      "type": "scanner",
+      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 STRONG\nyoung Trencher (P3jca)\nOpportunity: 86/100\n\nMOMENTUM     100\nSAFETY       90\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$35,314, 15 min since pool creation\n\u2022 Up +118% in the last hour, ~$133,655 in 24h volume (3.8x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Low, 10/100):\n\u2022 top 10 holders own 32% of supply\n\nCA: qX75G4BLzhPtGWtH4THcG2F6weoHveAMoqfDB2pcmkp\nhttps://dexscreener.com/solana/qX75G4BLzhPtGWtH4THcG2F6weoHveAMoqfDB2pcmkp\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
+    },
+    {
+      "ts": 1790810411,
+      "type": "scanner",
+      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\nAsh Dykes (PROJECT 6)\nOpportunity: 74/100\n\nMOMENTUM     64\nSAFETY       90\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$20,541, 9 min since pool creation\n\u2022 Up +42% in the last hour, ~$35,249 in 24h volume (1.7x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Low, 10/100):\n\u2022 top 10 holders own 43% of supply\n\nCA: 8iX67wnJuJkDk2Hvsdd4nBdwNQC2hc6TNiHK2gE5svCF\nhttps://dexscreener.com/solana/8iX67wnJuJkDk2Hvsdd4nBdwNQC2hc6TNiHK2gE5svCF\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
+    },
+    {
+      "ts": 1790810409,
+      "type": "wallet",
+      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: USDC -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/5AeyvYGQ8iDbSE6MMeLrYgqNcvBzi1Aw9Nm8M9fVBZquvrTny8UDDgQuFMvRvs2S3yakU3wyQgVvGQdp9C3oa19u"
+    },
+    {
+      "ts": 1790810409,
+      "type": "wallet",
+      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: BABA -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/3m5yz6xvJe7vnJRT2HNspTDpJZg5gGJ7Cbb83H8nrRBrCDzTZAxUETzRuHHGGQpRErbcjMgCozKthEZqg8VdEmNF"
+    },
+    {
+      "ts": 1790810408,
+      "type": "wallet",
+      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: GLDx -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/5X6E2R4xnMBPU2sq5qzsyJu9rfPWo9Y3iA1nRk9uWJKaWzRuB8q66SHz6iF7PwDC71FVpisfwfSbgbRaimyurWMA"
+    },
+    {
+      "ts": 1790810408,
+      "type": "wallet",
+      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: 0.1078 SOL (~$12.74) -> USDC\nTrade size: ~$12.74\nBought token: USD Coin (USDC)\nCA: EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v\nhttps://solscan.io/tx/2W5MUH8YwM8ms9omGeB7VgSpFvcN7Zz8s7A6LRuMBx3VYC1yjcsNAbDMHqNuqA2J2GJX3TvQJkJZwgHgPZprL8p6"
+    },
     {
       "ts": 1790809493,
       "type": "outcome",
@@ -316,36 +346,6 @@
       "ts": 1790805613,
       "type": "scanner",
       "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\n.si (.si)\nOpportunity: 73/100\n\nMOMENTUM     62\nSAFETY       90\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$20,959, 6 min since pool creation\n\u2022 Up +41% in the last hour, ~$101,186 in 24h volume (4.8x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Low, 10/100):\n\u2022 top 10 holders own 35% of supply\n\nCA: EmLPFwLkzaPdT548oKXT9CMh9bSB9Ez93fBgmmoapump\nhttps://dexscreener.com/solana/EmLPFwLkzaPdT548oKXT9CMh9bSB9Ez93fBgmmoapump\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
-    },
-    {
-      "ts": 1790805611,
-      "type": "wallet",
-      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: USDC -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/54GprB7NhpxueA4UvgMs973eEpCV8ZLDmxv3DA7Nc7RxYr5opxAezmc3qyGBFM3EGSZA2YUNVq2CPm2yExvcb5xY"
-    },
-    {
-      "ts": 1790805610,
-      "type": "wallet",
-      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: GLDx -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/2Mvq9CEkdafow7m748Mp6zzgR3ZXASV9tpMpkpFuE6eWLgBFqFXqBmuDaccThL9fkhvF9Xo2w4j1A5JgT8aUjxH8"
-    },
-    {
-      "ts": 1790805610,
-      "type": "wallet",
-      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: QNT -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/59Zj4h6zSjvPjdAhBC3m1WxDryyuthFng8UKDeDPKMSwimw9jDn5SQrGgTJoj9iQ7ErKigBrGQmLVXHH2qEKn3Xt"
-    },
-    {
-      "ts": 1790805609,
-      "type": "wallet",
-      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: MSFTx -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/3DbHyk2mGU8NNZmHyNSZTZzBEc5xcmLyCtaF6ykfrTNTeE6yQNfi3cLW3MqWAE9H7X5WPtqtz7UxGotWRy3LNsZ8"
-    },
-    {
-      "ts": 1790805609,
-      "type": "wallet",
-      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: TSLAx -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/4MgEgHm8VbyzECMNTTVk6dNdDRvmWDPJvafdri2bJqW3emuvLuX7CvR913fv3E5ATEpZpWRChNfoSaF6wPgP1Ffp"
-    },
-    {
-      "ts": 1790804998,
-      "type": "outcome",
-      "message": "\ud83d\udd34 Kai Cenut (Cenut) is dropping fast \u2014 down 100%, may be rugging."
     }
   ]
 }
