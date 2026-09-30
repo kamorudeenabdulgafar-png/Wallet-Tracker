@@ -1,5 +1,5 @@
 {
-  "last_updated": 1790790690,
+  "last_updated": 1790791644,
   "wallets": [
     {
       "label": "Dev wallet 1",
@@ -89,7 +89,7 @@
     "count": 2835,
     "up_count": 613,
     "total_change_pct": -155586.29928175083,
-    "rug": 2669,
+    "rug": 2671,
     "doing_well": 29,
     "steady": 12,
     "fading": 43
@@ -97,6 +97,31 @@
   "learning_insight": null,
   "settings": {},
   "recent_alerts": [
+    {
+      "ts": 1790791644,
+      "type": "outcome",
+      "message": "\ud83d\udd34 trench.io (TRENCH) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
+    },
+    {
+      "ts": 1790791642,
+      "type": "outcome",
+      "message": "\ud83d\udd34 Wojak (WOJAK) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
+    },
+    {
+      "ts": 1790791640,
+      "type": "scanner",
+      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\nCornell (7)\nOpportunity: 79/100\n\nMOMENTUM     78\nSAFETY       90\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$23,544, 12 min since pool creation\n\u2022 Up +52% in the last hour, ~$37,724 in 24h volume (1.6x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Low, 10/100):\n\u2022 top 10 holders own 37% of supply\n\nCA: 2d7fgeNKny7jmaJWXRNnPoGrJL7vwL6MMv45UTXgpump\nhttps://dexscreener.com/solana/2d7fgeNKny7jmaJWXRNnPoGrJL7vwL6MMv45UTXgpump\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
+    },
+    {
+      "ts": 1790791638,
+      "type": "scanner",
+      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\nPrivate Property (Private)\nOpportunity: 75/100\n\nMOMENTUM     69\nSAFETY       90\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$24,119, 12 min since pool creation\n\u2022 Up +46% in the last hour, ~$29,797 in 24h volume (1.2x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Low, 10/100):\n\u2022 top 10 holders own 39% of supply\n\nCA: H4r1pbLaDK7bsJLinP32fYqFBBP6CKJPDdEN9kWJk2MV\nhttps://dexscreener.com/solana/H4r1pbLaDK7bsJLinP32fYqFBBP6CKJPDdEN9kWJk2MV\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
+    },
+    {
+      "ts": 1790791636,
+      "type": "scanner",
+      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 STRONG\nPaid Inu (PI)\nOpportunity: 84/100\n\nMOMENTUM     83\nSAFETY       100\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$26,222, 11 min since pool creation\n\u2022 Up +55% in the last hour, ~$18,974 in 24h volume (0.7x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Low, 0/100):\n\u2022 No major red flags found\n\nCA: c3AoKx5kdnPSP81YdrcYCDoEoiKXsHtYKATW24Ppump\nhttps://dexscreener.com/solana/c3AoKx5kdnPSP81YdrcYCDoEoiKXsHtYKATW24Ppump\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
+    },
     {
       "ts": 1790790690,
       "type": "outcome",
@@ -321,31 +346,6 @@
       "ts": 1790785092,
       "type": "outcome",
       "message": "\ud83d\udd34 Doppler Finance (XDP) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
-    },
-    {
-      "ts": 1790785091,
-      "type": "outcome",
-      "message": "\ud83d\udd34 Ricky Martin (MARTIN) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
-    },
-    {
-      "ts": 1790785090,
-      "type": "outcome",
-      "message": "\ud83d\udd34 Q\u5e01 (Q\u5e01) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
-    },
-    {
-      "ts": 1790785089,
-      "type": "outcome",
-      "message": "\ud83d\udd34 Ricky Martin (MARTIN) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
-    },
-    {
-      "ts": 1790785087,
-      "type": "scanner",
-      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\nArthur (Arthur)\nOpportunity: 76/100\n\nMOMENTUM     100\nSAFETY       60\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$74,786, 13 min since pool creation\n\u2022 Up +136% in the last hour, ~$260,784 in 24h volume (3.5x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 91% of supply (very concentrated)\n\nCA: oSCYmaoXVCgKTZjBw4koyBtoDzG7nAtf12WJUYRfg89\nhttps://dexscreener.com/solana/oSCYmaoXVCgKTZjBw4koyBtoDzG7nAtf12WJUYRfg89\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
-    },
-    {
-      "ts": 1790785087,
-      "type": "scanner",
-      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\nBinance Inu (BI)\nOpportunity: 76/100\n\nMOMENTUM     100\nSAFETY       60\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$166,999, 12 min since pool creation\n\u2022 Up +95% in the last hour, ~$1,670,498 in 24h volume (10.0x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 83% of supply (very concentrated)\n\nCA: 6jNdtGJ3N4AZXihUzU5WzuMvcY4GRHzpdMj74uCtCuY\nhttps://dexscreener.com/solana/6jNdtGJ3N4AZXihUzU5WzuMvcY4GRHzpdMj74uCtCuY\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
     }
   ]
 }
