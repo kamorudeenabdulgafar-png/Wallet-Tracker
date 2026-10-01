@@ -26617,7 +26617,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "7DKq3GffR2sjP1ePFwjaHD89p6mD9xkT6XFhpWrZ47ST": {
@@ -26632,7 +26633,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "Dn8mHAf2QS1Y4n5ByM9utJR1irvaXjRnCWSXpV7XEicD": {
@@ -27051,7 +27053,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "AFiHVPRvB5U7NXKa3c9hTd999XJqfYKtVdBweVYMYkGC": {
     "name": "New York Shitcoin Exchange",
@@ -27064,7 +27068,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "EgcEuscRzuEcPParoYZNzLZ6cihwRg7Eb6bSUPywYbdu": {
     "name": "\u5976\u9f99",
@@ -27077,7 +27083,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "6og2DABAo2tDvhwwFHHZZwV1dXLVNbGX5dG6TroR4kzQ": {
     "name": "Griffin",
@@ -27090,7 +27098,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "FeEcbjZ8qVukx21pU5ihjXznr6WtY5MTtzjoMZD5QhrH": {
     "name": "Network error",
@@ -27162,6 +27172,45 @@
     "symbol": "Nailoong",
     "flagged_ts": 1790880523,
     "liquidity_at_flag": 109716.55011660006,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "A4Rbs9o1ceKq5J7eVaUiMVu3yDuRvbjHTRzGAmCRhGs2": {
+    "name": "Commie Coin",
+    "symbol": "COMMIE",
+    "flagged_ts": 1790881203,
+    "liquidity_at_flag": 51980.76661155105,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "8fWq4PGGNApKTSnZhnfXxX4nNw3XjPntzFYrv5vkYpD5": {
+    "name": "SI Strategy",
+    "symbol": "DOMAIN",
+    "flagged_ts": 1790881205,
+    "liquidity_at_flag": 31477.075936125315,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "GTgsvVgm4QCdRVx5HBs5wq1ACjD2XMignWTMVqM9GNaf": {
+    "name": "Snoopy",
+    "symbol": "Snoopy",
+    "flagged_ts": 1790881206,
+    "liquidity_at_flag": 32618.614244870667,
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 60,
