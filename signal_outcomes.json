@@ -1,89 +1,4 @@
 {
-  "BepscBL6kDJW4D6HHPYsue83rUP69aye7MJSbcJzzY8M": {
-    "name": "market makers",
-    "symbol": "mm",
-    "flagged_ts": 1790233140,
-    "liquidity_at_flag": 37614.437161389025,
-    "breakdown": {
-      "MOMENTUM": 100,
-      "SAFETY": 60,
-      "LIQUIDITY": 100,
-      "SMART MONEY": 0
-    },
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "2r1QzuF3qG3Xq5NTNYG5XkPTsbUF3zWrdTs2JvGHpump": {
-    "name": "on the computer",
-    "symbol": "OTC",
-    "flagged_ts": 1790233143,
-    "liquidity_at_flag": 23594.76768639706,
-    "breakdown": {
-      "MOMENTUM": 100,
-      "SAFETY": 90,
-      "LIQUIDITY": 100,
-      "SMART MONEY": 0
-    },
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "9VDoZKJsj7B7snuGtV9JJV3djmMTkYL2e3oihCi62gt3": {
-    "name": "Real-life Assets",
-    "symbol": "GOODS",
-    "flagged_ts": 1790233144,
-    "liquidity_at_flag": 33008.32445246802,
-    "breakdown": {
-      "MOMENTUM": 100,
-      "SAFETY": 60,
-      "LIQUIDITY": 100,
-      "SMART MONEY": 0
-    },
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "HbgDEkgP5aQoMGKqUoAVUBUEosPTTcppTGmqK3LtoDAt": {
-    "name": "funkos",
-    "symbol": "FUNKOS",
-    "flagged_ts": 1790233145,
-    "liquidity_at_flag": 37696.682405621475,
-    "breakdown": {
-      "MOMENTUM": 87,
-      "SAFETY": 60,
-      "LIQUIDITY": 100,
-      "SMART MONEY": 0
-    },
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "Gz6xXboGxBZ3VRQa5SfZGhg6uiHSZMXEXvfxo3m3vzEQ": {
-    "name": "Penguin Cat",
-    "symbol": "Hybrid cat",
-    "flagged_ts": 1790233146,
-    "liquidity_at_flag": 55050.69615053439,
-    "breakdown": {
-      "MOMENTUM": 100,
-      "SAFETY": 60,
-      "LIQUIDITY": 100,
-      "SMART MONEY": 0
-    },
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
   "4GVJiepCery4Lu2xBYH3u7jvMSqZMpgevbDsg3xykEvN": {
     "name": "market maker agents",
     "symbol": "mm",
@@ -25342,7 +25257,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "3G69Ahpf8CCxPfPE8XKfB2nCzazBKrYUguSwZwKTBR3k": {
@@ -27613,7 +27529,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "yAxWqZj43Eeq3SgMVBZcwNhnSCumkEgCiYZvBRppump": {
@@ -27628,7 +27545,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "71FrnWfzRiSuowpqfY3MX26t1nBhRrYxstM2K6o9pump": {
@@ -27643,7 +27561,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "F1qMKjnpmuQZGRccHjfwxfCMpzLEspc3EoPfdbDUkhh": {
@@ -28040,6 +27959,32 @@
     "symbol": "SLOP/ACC",
     "flagged_ts": 1790836378,
     "liquidity_at_flag": 50766.48669166238,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "4GgnVsvsQjTaur4ahUhP3dfQ4uCNRpt5EJf5wPsMpump": {
+    "name": "IShowSpeed",
+    "symbol": "Speed",
+    "flagged_ts": 1790838485,
+    "liquidity_at_flag": 38954.27566038575,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 100,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "4P8z6CvBjPDJXmvk3jmTw7weP3mBgKJvTth2zFUz5qqo": {
+    "name": "dogg",
+    "symbol": "dogg",
+    "flagged_ts": 1790838486,
+    "liquidity_at_flag": 29645.70875038462,
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 60,
