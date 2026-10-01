@@ -1,38 +1,4 @@
 {
-  "2A6MxU3bJ6EziBH4g3wH1Q8N9JNGZNarx4W1TJegadot": {
-    "name": "dot",
-    "symbol": "dot",
-    "flagged_ts": 1790293972,
-    "liquidity_at_flag": 20598.904438791382,
-    "breakdown": {
-      "MOMENTUM": 75,
-      "SAFETY": 90,
-      "LIQUIDITY": 100,
-      "SMART MONEY": 0
-    },
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "CgMTyUGeUhz7qsbxr46Uw2vjkEXioWEtJUoMcpgUpump": {
-    "name": "Wojak Jean",
-    "symbol": "Jeanjak",
-    "flagged_ts": 1790293973,
-    "liquidity_at_flag": 22861.07437811908,
-    "breakdown": {
-      "MOMENTUM": 100,
-      "SAFETY": 100,
-      "LIQUIDITY": 100,
-      "SMART MONEY": 0
-    },
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
   "4cDrSbA9mofmbMoupzyWxoygN3BTxqNfyBN583bepump": {
     "name": "Two in a Basket",
     "symbol": "TIB",
@@ -24424,7 +24390,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "CUwDHZew6XfDpc4yJHM5z7D1dRCE5K52Gja1Axsmpump": {
@@ -24440,7 +24407,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "HHYGh4aMsMMG4sRHLzJrfEec245ESevBGDDVLMrkpump": {
@@ -24456,7 +24424,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "79ddttLCN1Jm4Rz71HH44V9c4eeXELNKVEU3qLCAGtSm": {
@@ -27053,7 +27022,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "7VertkgF9KLhxxJXHX6uaWuoYZTP9LdGj2bWmVXVpump": {
     "name": "Agency",
@@ -27066,7 +27037,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "GxPPN2V3bLdQJn3vDuqCfJQ9PjqqRdKVUxBTx5Cepump": {
     "name": "Microinu",
@@ -27114,6 +27087,58 @@
     "liquidity_at_flag": 34322.270611508924,
     "breakdown": {
       "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "zBm2fF4sucpS18N9DKkUKUyqB1em9mZ8Am99pNQB1g6": {
+    "name": "Funded",
+    "symbol": "Funded",
+    "flagged_ts": 1790898993,
+    "liquidity_at_flag": 30464.001133358513,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "G9MVeAUrBy7WN7GsNFPU74oqe5MBDoSbKqPvTQJtpump": {
+    "name": "Super cockroach",
+    "symbol": "SCOC",
+    "flagged_ts": 1790898994,
+    "liquidity_at_flag": 28313.29354403088,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 100,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "uPnLjPVtyJ359VMyEC6Kp1suDix79KSh1JzZvPhpump": {
+    "name": "Pocket Slabs",
+    "symbol": "SLABS",
+    "flagged_ts": 1790898995,
+    "liquidity_at_flag": 30720.450430918005,
+    "breakdown": {
+      "MOMENTUM": 58,
+      "SAFETY": 90,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "CxqkMRrKfk3pR7zjsHfVAjdDuxV4vutMUbxrqx3Lgyva": {
+    "name": "Ramcat",
+    "symbol": "RAMCAT",
+    "flagged_ts": 1790898996,
+    "liquidity_at_flag": 29773.293144229363,
+    "breakdown": {
+      "MOMENTUM": 89,
       "SAFETY": 60,
       "LIQUIDITY": 100,
       "SMART MONEY": 0

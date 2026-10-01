@@ -1,5 +1,5 @@
 {
-  "last_updated": 1790898443,
+  "last_updated": 1790898999,
   "wallets": [
     {
       "label": "Dev wallet 1",
@@ -89,14 +89,59 @@
     "count": 2835,
     "up_count": 613,
     "total_change_pct": -155586.29928175083,
-    "rug": 2835,
+    "rug": 2838,
     "doing_well": 33,
     "steady": 15,
     "fading": 49
   },
-  "learning_insight": "Coins that rugged averaged SAFETY 72; coins that did well averaged SAFETY 95.",
+  "learning_insight": "Coins that rugged averaged SAFETY 73; coins that did well averaged SAFETY 95.",
   "settings": {},
   "recent_alerts": [
+    {
+      "ts": 1790898999,
+      "type": "outcome",
+      "message": "\ud83d\udfe2 Agency (Agency) is still doing really good \u2014 up 70% so far!"
+    },
+    {
+      "ts": 1790898999,
+      "type": "outcome",
+      "message": "\ud83d\udd34 POC (POC) is dropping fast \u2014 down 100%, may be rugging."
+    },
+    {
+      "ts": 1790898998,
+      "type": "outcome",
+      "message": "\ud83d\udd34 Super Poop (SP) turned out to be a rug \u2014 liquidity dropped 91% over 24h."
+    },
+    {
+      "ts": 1790898997,
+      "type": "outcome",
+      "message": "\ud83d\udd34 Super Pepe (SUPERPEPE) turned out to be a rug \u2014 liquidity dropped 91% over 24h."
+    },
+    {
+      "ts": 1790898996,
+      "type": "outcome",
+      "message": "\ud83d\udd34 \u4e2d\u56fd\u4eba\u80fd\u98de\u706b\u7bad (\u4e2d\u56fd\u4eba\u80fd\u98de) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
+    },
+    {
+      "ts": 1790898996,
+      "type": "scanner",
+      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\nRamcat (RAMCAT)\nOpportunity: 72/100\n\nMOMENTUM     89\nSAFETY       60\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$29,773, 12 min since pool creation\n\u2022 Up +60% in the last hour, ~$193,078 in 24h volume (6.5x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 96% of supply (very concentrated)\n\nCA: CxqkMRrKfk3pR7zjsHfVAjdDuxV4vutMUbxrqx3Lgyva\nhttps://dexscreener.com/solana/CxqkMRrKfk3pR7zjsHfVAjdDuxV4vutMUbxrqx3Lgyva\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
+    },
+    {
+      "ts": 1790898995,
+      "type": "scanner",
+      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\nPocket Slabs (SLABS)\nOpportunity: 72/100\n\nMOMENTUM     58\nSAFETY       90\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$30,720, 10 min since pool creation\n\u2022 Up +39% in the last hour, ~$118,895 in 24h volume (3.9x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Low, 10/100):\n\u2022 top 10 holders own 35% of supply\n\nCA: uPnLjPVtyJ359VMyEC6Kp1suDix79KSh1JzZvPhpump\nhttps://dexscreener.com/solana/uPnLjPVtyJ359VMyEC6Kp1suDix79KSh1JzZvPhpump\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
+    },
+    {
+      "ts": 1790898994,
+      "type": "scanner",
+      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 EXCEPTIONAL\nSuper cockroach (SCOC)\nOpportunity: 90/100\n\nMOMENTUM     100\nSAFETY       100\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$28,313, 7 min since pool creation\n\u2022 Up +70% in the last hour, ~$219,949 in 24h volume (7.8x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Low, 0/100):\n\u2022 No major red flags found\n\nCA: G9MVeAUrBy7WN7GsNFPU74oqe5MBDoSbKqPvTQJtpump\nhttps://dexscreener.com/solana/G9MVeAUrBy7WN7GsNFPU74oqe5MBDoSbKqPvTQJtpump\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
+    },
+    {
+      "ts": 1790898993,
+      "type": "scanner",
+      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\nFunded (Funded)\nOpportunity: 76/100\n\nMOMENTUM     100\nSAFETY       60\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$30,464, 6 min since pool creation\n\u2022 Up +70% in the last hour, ~$56,325 in 24h volume (1.8x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 81% of supply (very concentrated)\n\nCA: zBm2fF4sucpS18N9DKkUKUyqB1em9mZ8Am99pNQB1g6\nhttps://dexscreener.com/solana/zBm2fF4sucpS18N9DKkUKUyqB1em9mZ8Am99pNQB1g6\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
+    },
     {
       "ts": 1790898443,
       "type": "outcome",
@@ -301,51 +346,6 @@
       "ts": 1790895357,
       "type": "scanner",
       "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\nAgency (Agency)\nOpportunity: 70/100\n\nMOMENTUM     54\nSAFETY       90\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$20,317, 13 min since pool creation\n\u2022 Up +36% in the last hour, ~$31,212 in 24h volume (1.5x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Low, 10/100):\n\u2022 top 10 holders own 47% of supply\n\nCA: 7VertkgF9KLhxxJXHX6uaWuoYZTP9LdGj2bWmVXVpump\nhttps://dexscreener.com/solana/7VertkgF9KLhxxJXHX6uaWuoYZTP9LdGj2bWmVXVpump\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
-    },
-    {
-      "ts": 1790895355,
-      "type": "scanner",
-      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\nPOC (POC)\nOpportunity: 76/100\n\nMOMENTUM     100\nSAFETY       60\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$28,430, 6 min since pool creation\n\u2022 Up +83% in the last hour, ~$86,564 in 24h volume (3.0x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 97% of supply (very concentrated)\n\nCA: 6jnWF8n6qK4fgjcCvmAUr6CMwDotbjgw2csuKmnXLchJ\nhttps://dexscreener.com/solana/6jnWF8n6qK4fgjcCvmAUr6CMwDotbjgw2csuKmnXLchJ\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
-    },
-    {
-      "ts": 1790895353,
-      "type": "wallet",
-      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: BP -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/3PYzqRVaGP2ajdPJj5RBPb7brsxQWU4fpc9uVijSHWTtpwz3tvAbtFCU6S3dxfJUTV1rV7NnxyR3MyezBDpp3V7Q"
-    },
-    {
-      "ts": 1790895352,
-      "type": "wallet",
-      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: Fartcoin  -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/VJk9A4imE5zH4yYi5gC58jm4CG4A2FShsGA7PDrwCBgcqqCRzsE2V6y4LPp4gGAJHS59TdQkyYuKnht72qLBcTr"
-    },
-    {
-      "ts": 1790895352,
-      "type": "wallet",
-      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: SPYx -> USDC\nTrade size: unknown\nBought token: USD Coin (USDC)\nCA: EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v\nhttps://solscan.io/tx/3xzxPPGVrqWA9tnsv73ufKXh6HQEuQp5qntkDVChfJMWKa9GuGVuFB4i7hdDtqRhoKRrDafYBDQ4kkxpkRqXbpD2"
-    },
-    {
-      "ts": 1790894561,
-      "type": "outcome",
-      "message": "\ud83d\udd34 Trump Coin (TRUMP) is dropping fast \u2014 down 100%, may be rugging."
-    },
-    {
-      "ts": 1790894560,
-      "type": "outcome",
-      "message": "\ud83d\udd34 Trump Coin (TRUMP) is dropping fast \u2014 down 100%, may be rugging."
-    },
-    {
-      "ts": 1790894559,
-      "type": "outcome",
-      "message": "\ud83d\udd34 Pumpk Inu (PI) is dropping fast \u2014 down 79%, may be rugging."
-    },
-    {
-      "ts": 1790894558,
-      "type": "outcome",
-      "message": "\ud83d\udfe0 banger (banger) is fading \u2014 down 46% so far."
-    },
-    {
-      "ts": 1790894557,
-      "type": "outcome",
-      "message": "\ud83d\udd34 \ud835\udd4f/Accelerationism (\ud835\udd4f/ACC) is dropping fast \u2014 down 100%, may be rugging."
     }
   ]
 }
