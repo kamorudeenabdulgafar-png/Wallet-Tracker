@@ -1,21 +1,4 @@
 {
-  "4N6QEVqSDTAnWPaJ2pzvQ2uWXqTbvUPdgN6BCQ8rN1Eo": {
-    "name": "EP50",
-    "symbol": "EP50",
-    "flagged_ts": 1790290480,
-    "liquidity_at_flag": 44905.03750709277,
-    "breakdown": {
-      "MOMENTUM": 100,
-      "SAFETY": 75,
-      "LIQUIDITY": 100,
-      "SMART MONEY": 0
-    },
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
   "AVbsZ36shjXdQrjv8QNFEYvgU1Ptkvk47ozouAEFaCSs": {
     "name": "On The Radar",
     "symbol": "OTR",
@@ -24322,7 +24305,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "DcUoWkZ13aku6zpYjmUWxufpbeuekLWXK8WjMujwENjr": {
@@ -24338,7 +24322,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "6sePUkSkk9SbDvQguhvDK1qvPDT51yvEfewd1ts6pump": {
@@ -26641,7 +26626,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "GSBqdz8HgFADg7cmXQCHzFBe4w1KqgKAdpUgFuh4ZBgh": {
@@ -26656,7 +26642,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "6VkCtDrMuqRBWk9dtVoRRn4QrnecaV8hG6V5SfCccCj": {
@@ -26671,7 +26658,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "A4Rbs9o1ceKq5J7eVaUiMVu3yDuRvbjHTRzGAmCRhGs2": {
@@ -26985,7 +26973,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "GrkKNou1ecvJkYvZfRRvTBtrqyPrJJobSza6wsWht9WE": {
     "name": "Trump Coin",
@@ -26998,7 +26988,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "FTTGTEuPayZy7gs8uQRhii8PmVNGKa7o2S9z3Nt8FLZc": {
     "name": "Trump Coin",
@@ -27011,7 +27003,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "6bQ4MCnJ5rab9pDGR43hbTCf1GabYEVmCP2oLyexSmvC": {
     "name": "Fantasy Index 6900",
@@ -27086,6 +27080,32 @@
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "6jnWF8n6qK4fgjcCvmAUr6CMwDotbjgw2csuKmnXLchJ": {
+    "name": "POC",
+    "symbol": "POC",
+    "flagged_ts": 1790895355,
+    "liquidity_at_flag": 28429.843498969738,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "7VertkgF9KLhxxJXHX6uaWuoYZTP9LdGj2bWmVXVpump": {
+    "name": "Agency",
+    "symbol": "Agency",
+    "flagged_ts": 1790895357,
+    "liquidity_at_flag": 20317.111656535875,
+    "breakdown": {
+      "MOMENTUM": 54,
+      "SAFETY": 90,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
