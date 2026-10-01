@@ -1,55 +1,4 @@
 {
-  "CmAxJkYLtHHZyKMk97m81a73s7JmHqTQRUdxh7oqyY3c": {
-    "name": "Gstock",
-    "symbol": "GSTOCK",
-    "flagged_ts": 1790213788,
-    "liquidity_at_flag": 31488.25929534883,
-    "breakdown": {
-      "MOMENTUM": 100,
-      "SAFETY": 60,
-      "LIQUIDITY": 100,
-      "SMART MONEY": 0
-    },
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "AitkCAt1CKd89oFEKC9wFDjopy9x4hGXhu6dsT6ypump": {
-    "name": "Trade Teeth",
-    "symbol": "TradeTeeth",
-    "flagged_ts": 1790213790,
-    "liquidity_at_flag": 34011.12282644627,
-    "breakdown": {
-      "MOMENTUM": 100,
-      "SAFETY": 100,
-      "LIQUIDITY": 100,
-      "SMART MONEY": 0
-    },
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "HJEiuKFABYBHKeJTZWmPwrwQC1Bj4APVDnf8TEU1aK3r": {
-    "name": "Lily",
-    "symbol": "LILY",
-    "flagged_ts": 1790213791,
-    "liquidity_at_flag": 14843.390292730617,
-    "breakdown": {
-      "MOMENTUM": 98,
-      "SAFETY": 60,
-      "LIQUIDITY": 74,
-      "SMART MONEY": 0
-    },
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
   "9wYcfZYT7RcTfPAgT9LYPFLc1H7jRrgaHDCvNyaApump": {
     "name": "The Robot Embryo",
     "symbol": "THING",
@@ -25988,7 +25937,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "GFomi1wYAu27cxia7Xb1HSWP1G46giTGTogAq78q5eP6": {
@@ -28670,6 +28620,19 @@
     "liquidity_at_flag": 31641.58372116078,
     "breakdown": {
       "MOMENTUM": 90,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "3CTmrM796qr5NkWQ7Hs8VFHtysj1UwoeToN4pheNhfbc": {
+    "name": "ICEBOB",
+    "symbol": "ICEBOB",
+    "flagged_ts": 1790818730,
+    "liquidity_at_flag": 29609.05211739847,
+    "breakdown": {
+      "MOMENTUM": 100,
       "SAFETY": 60,
       "LIQUIDITY": 100,
       "SMART MONEY": 0

@@ -1,18 +1,5 @@
 [
   {
-    "name": "Leverage Pad",
-    "symbol": "LEVERAGE",
-    "category": "rug",
-    "change_pct": -100.0,
-    "breakdown": {
-      "MOMENTUM": 100,
-      "SAFETY": 60,
-      "LIQUIDITY": 100,
-      "SMART MONEY": 0
-    },
-    "ts": 1790672271
-  },
-  {
     "name": "Keep",
     "symbol": "RISING\ud83d\udcc8",
     "category": "rug",
@@ -3898,5 +3885,18 @@
       "SMART MONEY": 0
     },
     "ts": 1790817761
+  },
+  {
+    "name": "Botbook",
+    "symbol": "BOTBOOK",
+    "category": "rug",
+    "change_pct": -100.0,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "ts": 1790818732
   }
 ]
