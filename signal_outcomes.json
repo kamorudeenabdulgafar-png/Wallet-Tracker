@@ -1,38 +1,4 @@
 {
-  "EXxfp23WnkQ43u3mirUUp7Vtnszh64Q1L3YToqqTRX7Q": {
-    "name": "Super Inu",
-    "symbol": "SI",
-    "flagged_ts": 1790283907,
-    "liquidity_at_flag": 31079.331502779685,
-    "breakdown": {
-      "MOMENTUM": 100,
-      "SAFETY": 60,
-      "LIQUIDITY": 100,
-      "SMART MONEY": 0
-    },
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "C1BvVswWdFN1fKxweuBQYXxeZj74WBBnjKknoctCui2H": {
-    "name": "Attention Inu",
-    "symbol": "AI",
-    "flagged_ts": 1790283908,
-    "liquidity_at_flag": 40512.90473581099,
-    "breakdown": {
-      "MOMENTUM": 100,
-      "SAFETY": 60,
-      "LIQUIDITY": 100,
-      "SMART MONEY": 0
-    },
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
   "Ah13cTAcf8XtLtHcfps81KsLFhLwCh4nKe32h6JuEeK5": {
     "name": "Holdoween",
     "symbol": "Holdoween",
@@ -24509,7 +24475,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "GUzxfaQBHrSsGqkcP4EshX4Crch8WyxLNcoTSdu8VLC4": {
@@ -24525,7 +24492,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "5qHbN4ytfprpL9jiXU9nzGwVRbHeDaoHujceR6u1MiyX": {
@@ -26700,7 +26668,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "5R7XKEgdQRaTzCeSpR7EDon9t4zGL3VVXxEWL82w5Yz2": {
@@ -27044,7 +27013,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "4dWo3kRyv5mDXLgKKecEBK7BVnkH2syD4gRjyW6qpump": {
     "name": "Fomo Gang",
@@ -27057,7 +27028,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "LGMZpdFicKjFXnYFu8AYAzZA7QfRMyXBBMemomTpump": {
     "name": "Alonmas",
@@ -27070,7 +27043,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "2d5MZn8hGXxEFNWFSH3xK7oPQFzQqwwcshuGg8CCpump": {
     "name": "Heinrich Klein",
@@ -27145,6 +27120,32 @@
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 100,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "AqGo3KreWe369v8D5ZAxjqBvnv5xp4uHezr9T4MdqWq3": {
+    "name": "Hooked",
+    "symbol": "HOOKED",
+    "flagged_ts": 1790889182,
+    "liquidity_at_flag": 20796.389085826617,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "9qUTeFNXFh35YmdtayeniRUr8o31rXYzMK3Jv5Zypump": {
+    "name": "limit",
+    "symbol": "limit",
+    "flagged_ts": 1790889183,
+    "liquidity_at_flag": 26596.042624231384,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 90,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
