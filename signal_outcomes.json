@@ -27122,7 +27122,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "2roNUpDFsZW54jQqDvMnXcqHXqLxz6rySLXgtJnoemT8": {
@@ -27137,7 +27138,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "4mNoVhb9ATKYoJg5Bzzpewe4qeM4vgxQR3zKMe6MWJwP": {
@@ -27152,7 +27154,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "9BYjfqzuEu4hxXi6sDjpYAFBRGpES7mqEiiYZEiNq47p": {
@@ -27331,7 +27334,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "76QWXW8u45sr3UBJvw4vkaYb36C75T1u2VR2wtzxugjC": {
     "name": "Backpack Bear 89",
@@ -27445,6 +27450,32 @@
     "breakdown": {
       "MOMENTUM": 45,
       "SAFETY": 100,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "zP9tMcqLWdosZ3mC2xmRF2ysiDiADGyWoJ9iewJpump": {
+    "name": "Glitchjak",
+    "symbol": "Glitchjak",
+    "flagged_ts": 1790856555,
+    "liquidity_at_flag": 27812.254826602963,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 100,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "9yCoy6MbAMhdhUZtMYBNsgJuwjYiPSAQ54zmWdis2Ff7": {
+    "name": "hours",
+    "symbol": "HOURS",
+    "flagged_ts": 1790856555,
+    "liquidity_at_flag": 35106.78162527259,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
