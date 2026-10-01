@@ -1,21 +1,4 @@
 {
-  "7g7cHJ2aXAikcPCnWsKJCm8i9GjoyseUVRLhhynEoVVm": {
-    "name": "STONKCAT",
-    "symbol": "SCAT",
-    "flagged_ts": 1790269137,
-    "liquidity_at_flag": 53478.640693933965,
-    "breakdown": {
-      "MOMENTUM": 100,
-      "SAFETY": 60,
-      "LIQUIDITY": 100,
-      "SMART MONEY": 0
-    },
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
   "5QBxMxRfx6i1pwN1VvjGU2UtxtRdfLGa9QR6NGvApump": {
     "name": "Clones",
     "symbol": "CLONES",
@@ -26700,7 +26683,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "E2p81Ppq6CcLcQFV3WZGuXCM7mFTmUuoZauqWBccwVe1": {
@@ -26999,7 +26983,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "GRA7DDXnaT97Royg3LjqppLmPajCab9EzVb4gYLpBhZR": {
     "name": "Golden Goose",
@@ -27012,7 +26998,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "9qKHgTSAEFffsH1JzhqqjWejZZBvBTWSAH1chz3VQwro": {
     "name": "Papu",
@@ -27136,6 +27124,19 @@
     "symbol": "Owen",
     "flagged_ts": 1790873555,
     "liquidity_at_flag": 25048.718608697993,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 90,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "HXxJdaQbrYRvwTAM8M8mUPyoRPvmyuUbPFBRkiAAMASS": {
+    "name": "Ansemmas",
+    "symbol": "Ansemmas",
+    "flagged_ts": 1790874452,
+    "liquidity_at_flag": 22342.340645888748,
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 90,
