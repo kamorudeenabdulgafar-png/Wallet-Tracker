@@ -1,18 +1,5 @@
 [
   {
-    "name": "Official Axiom Coin",
-    "symbol": "AXIOM",
-    "category": "rug",
-    "change_pct": -100.0,
-    "breakdown": {
-      "MOMENTUM": 100,
-      "SAFETY": 60,
-      "LIQUIDITY": 100,
-      "SMART MONEY": 0
-    },
-    "ts": 1790672270
-  },
-  {
     "name": "Leverage Pad",
     "symbol": "LEVERAGE",
     "category": "rug",
@@ -3898,5 +3885,18 @@
       "SMART MONEY": 0
     },
     "ts": 1790816490
+  },
+  {
+    "name": "Super Inu",
+    "symbol": "SI",
+    "category": "rug",
+    "change_pct": -100.0,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "ts": 1790817761
   }
 ]

@@ -1,5 +1,5 @@
 {
-  "last_updated": 1790816497,
+  "last_updated": 1790817764,
   "wallets": [
     {
       "label": "Dev wallet 1",
@@ -89,7 +89,7 @@
     "count": 2835,
     "up_count": 613,
     "total_change_pct": -155586.29928175083,
-    "rug": 2697,
+    "rug": 2698,
     "doing_well": 30,
     "steady": 14,
     "fading": 45
@@ -97,6 +97,31 @@
   "learning_insight": null,
   "settings": {},
   "recent_alerts": [
+    {
+      "ts": 1790817764,
+      "type": "outcome",
+      "message": "\ud83d\udfe2 Project Meridian (Meridian) is still doing really good \u2014 up 90% so far!"
+    },
+    {
+      "ts": 1790817763,
+      "type": "outcome",
+      "message": "\ud83d\udd34 Anthropic Plush Council (PLUSH) is dropping fast \u2014 down 100%, may be rugging."
+    },
+    {
+      "ts": 1790817762,
+      "type": "outcome",
+      "message": "\ud83d\udd34 Space Monkey (Rocket) is dropping fast \u2014 down 75%, may be rugging."
+    },
+    {
+      "ts": 1790817761,
+      "type": "outcome",
+      "message": "\ud83d\udd34 Super Inu (SI) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
+    },
+    {
+      "ts": 1790817760,
+      "type": "scanner",
+      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\nPlants vs. Zombies (PvZ)\nOpportunity: 73/100\n\nMOMENTUM     90\nSAFETY       60\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$31,642, 11 min since pool creation\n\u2022 Up +60% in the last hour, ~$35,579 in 24h volume (1.1x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 89% of supply (very concentrated)\n\nCA: 3WL7zvE1PtXFGS7La6eLrD6EsQDuiW5bCD8gUdP5KG9v\nhttps://dexscreener.com/solana/3WL7zvE1PtXFGS7La6eLrD6EsQDuiW5bCD8gUdP5KG9v\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
+    },
     {
       "ts": 1790816497,
       "type": "outcome",
@@ -321,31 +346,6 @@
       "ts": 1790812591,
       "type": "scanner",
       "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\n\u4e2d\u56fd\u4eba\u80fd\u98de\u706b\u7bad (\u4e2d\u56fd\u4eba\u80fd\u98de)\nOpportunity: 76/100\n\nMOMENTUM     100\nSAFETY       60\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$39,059, 10 min since pool creation\n\u2022 Up +80% in the last hour, ~$48,789 in 24h volume (1.2x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 87% of supply (very concentrated)\n\nCA: 5mctvDGAjcexjrpuQwHdQqWN2Axuh3wBnxZnPNRPf7Xu\nhttps://dexscreener.com/solana/5mctvDGAjcexjrpuQwHdQqWN2Axuh3wBnxZnPNRPf7Xu\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
-    },
-    {
-      "ts": 1790812589,
-      "type": "wallet",
-      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: 0.0526 SOL (~$6.20) -> USDC\nTrade size: ~$6.20\nBought token: USD Coin (USDC)\nCA: EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v\nhttps://solscan.io/tx/33Uu8VTieYfsvUeTH6vXTCb1u9wJekYV5qnLbhgSgZPVHr632fHwjSEPhqW4VQP39pTXArYGVVQerxYm5trdxfoC"
-    },
-    {
-      "ts": 1790812588,
-      "type": "wallet",
-      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: xBTC -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/2S8WRPFDvnnLgbcusvRDmTHR4K2w1AFRQH4QjruRG5S8JoG887JWmMj2KhB3jxw7vtS5Ddbbv4Fha4CypTc3hQt1"
-    },
-    {
-      "ts": 1790812587,
-      "type": "wallet",
-      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: 0.0943 SOL (~$11.13) -> USDC\nTrade size: ~$11.13\nBought token: USD Coin (USDC)\nCA: EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v\nhttps://solscan.io/tx/3yoqQ4QeNAdbCsFdfzLZxrQEouoaUkSLus5rEzDPZfS2sC8bzqb5rkjnTY279cKWP6y3iVVC7ucJbLV5MJd737Wv"
-    },
-    {
-      "ts": 1790812587,
-      "type": "wallet",
-      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: XMR -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/43u1qbwfWmWKihAiPBQmiQD6TEjfR5P2wsZUxap77MvNeTF1bBhiBQaEGDbjPqMe86RXT2e8DMpM9WFNzo5EY2HP"
-    },
-    {
-      "ts": 1790812586,
-      "type": "wallet",
-      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: MSFTx -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/4rjzrqLNyT3o8DDusp295rNzdMwtpi8BgbW7NidqDhsLbb2pGfUzgMGxZfj649wprGZVgQ3MLZiXfbL9V2VZGuGs"
     }
   ]
 }
