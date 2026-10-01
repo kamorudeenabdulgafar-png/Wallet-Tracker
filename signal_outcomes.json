@@ -1,21 +1,4 @@
 {
-  "7MsRE1uaSjdLGDfxmMegiwSX4au83sMVbsUN39jiCRoz": {
-    "name": "PROM",
-    "symbol": "PROM",
-    "flagged_ts": 1790254730,
-    "liquidity_at_flag": 26742.988896391267,
-    "breakdown": {
-      "MOMENTUM": 100,
-      "SAFETY": 60,
-      "LIQUIDITY": 100,
-      "SMART MONEY": 0
-    },
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
   "5n25ktEsiZtW2zF6wdQHVx18ZniHKi4XpXMUnDNCDRtA": {
     "name": "\u4e03\u5915\u725b\u90ce",
     "symbol": "\u725b\u90ce",
@@ -27001,7 +26984,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "8zWd2HwypCkmmqEFgdQbvP8n8CB4DY1Z6Zh9WsenRQz": {
@@ -27300,7 +27284,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "9yCoy6MbAMhdhUZtMYBNsgJuwjYiPSAQ54zmWdis2Ff7": {
     "name": "hours",
@@ -27313,7 +27299,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "Bp7g623mej4m6czrPQFEfix95xexZMbSpvxccKwSiaRH": {
     "name": "\u9006\u88ad\u4eba\u751f",
@@ -27346,6 +27334,19 @@
     "symbol": "SIC",
     "flagged_ts": 1790859331,
     "liquidity_at_flag": 28483.886696675087,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "E2p81Ppq6CcLcQFV3WZGuXCM7mFTmUuoZauqWBccwVe1": {
+    "name": "Snoopy",
+    "symbol": "Snoopy",
+    "flagged_ts": 1790860156,
+    "liquidity_at_flag": 29198.717090250513,
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 60,
