@@ -1,72 +1,4 @@
 {
-  "23d5EtiLeT1t6seccoNNADa82yUeKrch8g6ei9tVpump": {
-    "name": "MCNAPOLEON",
-    "symbol": "MCNAP",
-    "flagged_ts": 1790256651,
-    "liquidity_at_flag": 24243.887620200614,
-    "breakdown": {
-      "MOMENTUM": 94,
-      "SAFETY": 100,
-      "LIQUIDITY": 100,
-      "SMART MONEY": 0
-    },
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "4bm9y9wCrhdSEVTuFb57NZQ2xmjtqxnsfg3KXCQ5GwfR": {
-    "name": "PVE",
-    "symbol": "PVE",
-    "flagged_ts": 1790256652,
-    "liquidity_at_flag": 29289.39858948211,
-    "breakdown": {
-      "MOMENTUM": 100,
-      "SAFETY": 60,
-      "LIQUIDITY": 100,
-      "SMART MONEY": 0
-    },
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "2Mcgi181BjQBQGQ4pfaLRHv1bfNubKj6U1m77B8u6jBQ": {
-    "name": "Jean Farq",
-    "symbol": "JEANFARQ",
-    "flagged_ts": 1790256652,
-    "liquidity_at_flag": 53609.625735460955,
-    "breakdown": {
-      "MOMENTUM": 100,
-      "SAFETY": 60,
-      "LIQUIDITY": 100,
-      "SMART MONEY": 0
-    },
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "HgGb5EKYMUCvwjVVWcD6kMEJRcDfoyN17PsHqw1RYtam": {
-    "name": "Felis margarita",
-    "symbol": "SANDCAT",
-    "flagged_ts": 1790256654,
-    "liquidity_at_flag": 36556.461681794826,
-    "breakdown": {
-      "MOMENTUM": 100,
-      "SAFETY": 60,
-      "LIQUIDITY": 100,
-      "SMART MONEY": 0
-    },
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
   "dxqSq2hQipTN249zjv78zujvaeEgYyHyYq88pNXpump": {
     "name": "Onboard",
     "symbol": "ONBOARD",
@@ -24662,7 +24594,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "J5KyU4qNR1bCxDDJBU9k7zc9WCh8etLPTt7uStiacMnX": {
@@ -24678,7 +24611,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "2YHpEFL5Rhu9Zksj8heS9qW6mAe5Mt2VgFAtS7Nznwjo": {
@@ -24694,7 +24628,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "9zfwbPFzagw1z3ZY9zqZah2JwzaBeUXNX5U2rrSmiq7e": {
@@ -24710,7 +24645,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "HxhDdpS5MBVZNiYd87na6EWFPkwcXGnGZM2KtELnpump": {
@@ -27233,7 +27169,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "7mEhH5gsuwPeBC9n9C2XQJdXinWhKGfNhrt4r8db47Cn": {
     "name": "Snoopy",
@@ -27246,7 +27184,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "7e8QGuAEw21xqYUc7RHAtFaWkdwguT9EaEzssMnWVS4G": {
     "name": "Super Intelligence Cat",
@@ -27294,6 +27234,45 @@
     "liquidity_at_flag": 20752.969098264934,
     "breakdown": {
       "MOMENTUM": 90,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "3gpxyeGkJfpeRsZ8cpeCy2YRLe4WsHxL72xkQi3Xpump": {
+    "name": "Effective Solana",
+    "symbol": "e/sol",
+    "flagged_ts": 1790862472,
+    "liquidity_at_flag": 24591.592412967293,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 100,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "DL3YBTB2FPfDe7cYv3eb8mSXMqS2GLCUEZgvPwPhLuuH": {
+    "name": "I Am Jane Doe",
+    "symbol": "Jane",
+    "flagged_ts": 1790862474,
+    "liquidity_at_flag": 31994.93467058101,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "CPEcAiCEifVYCJKDdi1Z4rvgVRPjz7wDqe54ee6kFxBH": {
+    "name": "I Am Jane Doe",
+    "symbol": "Jane",
+    "flagged_ts": 1790862475,
+    "liquidity_at_flag": 39010.80127375183,
+    "breakdown": {
+      "MOMENTUM": 100,
       "SAFETY": 60,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
