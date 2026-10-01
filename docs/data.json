@@ -1,5 +1,5 @@
 {
-  "last_updated": 1790864735,
+  "last_updated": 1790865738,
   "wallets": [
     {
       "label": "Dev wallet 1",
@@ -89,7 +89,7 @@
     "count": 2835,
     "up_count": 613,
     "total_change_pct": -155586.29928175083,
-    "rug": 2781,
+    "rug": 2782,
     "doing_well": 31,
     "steady": 14,
     "fading": 46
@@ -97,6 +97,36 @@
   "learning_insight": null,
   "settings": {},
   "recent_alerts": [
+    {
+      "ts": 1790865738,
+      "type": "outcome",
+      "message": "\ud83d\udd34 I Am Jane Doe (Jane) is dropping fast \u2014 down 100%, may be rugging."
+    },
+    {
+      "ts": 1790865737,
+      "type": "outcome",
+      "message": "\ud83d\udfe0 I Am Jane Doe (Jane) is fading \u2014 down 59% so far."
+    },
+    {
+      "ts": 1790865736,
+      "type": "outcome",
+      "message": "\ud83d\udd34 VALOR (VALOR) is dropping fast \u2014 down 100%, may be rugging."
+    },
+    {
+      "ts": 1790865735,
+      "type": "outcome",
+      "message": "\ud83d\udd34 Super Intelligence Cat (SIC) is dropping fast \u2014 down 100%, may be rugging."
+    },
+    {
+      "ts": 1790865734,
+      "type": "outcome",
+      "message": "\ud83d\udd34 Retainu (Retainu) turned out to be a rug \u2014 liquidity dropped 89% over 24h."
+    },
+    {
+      "ts": 1790865733,
+      "type": "scanner",
+      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\nWorld Money (WMONEY)\nOpportunity: 76/100\n\nMOMENTUM     100\nSAFETY       60\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$28,143, 7 min since pool creation\n\u2022 Up +67% in the last hour, ~$132,237 in 24h volume (4.7x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 95% of supply (very concentrated)\n\nCA: 9CVhGpQQogFMQprC1srtZHmy7Na9HSzcr4EDgcE6mKuy\nhttps://dexscreener.com/solana/9CVhGpQQogFMQprC1srtZHmy7Na9HSzcr4EDgcE6mKuy\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
+    },
     {
       "ts": 1790864735,
       "type": "outcome",
@@ -316,36 +346,6 @@
       "ts": 1790861406,
       "type": "wallet",
       "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: SPCXx -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/2rD7LKC9LctGxxJTiAcdHCCePTa2sS2kzej4SgM9yam9hkdC5QW3H6qruDVAUCtjXRx19QCSikRGMdAbCDVxD4wH"
-    },
-    {
-      "ts": 1790861405,
-      "type": "wallet",
-      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: DKNG -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/25EQ6LhoypeGoL98yEhga8nRFBVgE2wWkEXW8A2RjJ34bm8jEh9jJr5aZNwXb3ZTRqWLWygnpfJG6BEXLpjeqSYp"
-    },
-    {
-      "ts": 1790861405,
-      "type": "wallet",
-      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: WBTC -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/nXU5GTeER7g3Q8ZyFvsY21UraS4cquAbrBJy5viAfvyLW8rGSEQDGXdeyS85um1G4F7vkHYuDHgYoZG1oGigpym"
-    },
-    {
-      "ts": 1790860160,
-      "type": "outcome",
-      "message": "\ud83d\udd34 hours (HOURS) is dropping fast \u2014 down 100%, may be rugging."
-    },
-    {
-      "ts": 1790860159,
-      "type": "outcome",
-      "message": "\ud83d\udd34 Glitchjak (Glitchjak) is dropping fast \u2014 down 90%, may be rugging."
-    },
-    {
-      "ts": 1790860158,
-      "type": "outcome",
-      "message": "\ud83d\udd34 Precursor of the First War (POTFW) is dropping fast \u2014 down 89%, may be rugging."
-    },
-    {
-      "ts": 1790860156,
-      "type": "scanner",
-      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\nSnoopy (Snoopy)\nOpportunity: 76/100\n\nMOMENTUM     100\nSAFETY       60\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$29,199, 6 min since pool creation\n\u2022 Up +110% in the last hour, ~$48,381 in 24h volume (1.7x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 98% of supply (very concentrated)\n\nCA: E2p81Ppq6CcLcQFV3WZGuXCM7mFTmUuoZauqWBccwVe1\nhttps://dexscreener.com/solana/E2p81Ppq6CcLcQFV3WZGuXCM7mFTmUuoZauqWBccwVe1\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
     }
   ]
 }

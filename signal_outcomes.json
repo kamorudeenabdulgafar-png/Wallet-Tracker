@@ -1,21 +1,4 @@
 {
-  "HkxWQvAanQmif9U1MVLxCxBV54ewNrfqBoYwKygZ95c1": {
-    "name": "Gamby",
-    "symbol": "Gamby",
-    "flagged_ts": 1790260248,
-    "liquidity_at_flag": 26657.027654915633,
-    "breakdown": {
-      "MOMENTUM": 82,
-      "SAFETY": 60,
-      "LIQUIDITY": 100,
-      "SMART MONEY": 0
-    },
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
   "EqN95TCFfHQzQ86VHRNoVnvn96py41Nagk2JyDRY7D3o": {
     "name": "The Cheetah Fund",
     "symbol": "CTNT",
@@ -24526,7 +24509,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "EJf8bd7PhBVPTtAUBJMfCGQ217Q39XZ3Eh82qiRMTmYR": {
@@ -24542,7 +24526,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "4rrwJPVpXM7EyB9LbKRFPLcsUEMpYDsprfDxNhQppump": {
@@ -26781,7 +26766,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "Fz91hjDMCDrRHu9FMKcyMCfde87wz57xG9oPNT2Se3yR": {
@@ -26796,7 +26782,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "7j3gQJYEAV1qfynmGyALUacBJugaKz5DzikUU96CxiBS": {
@@ -27080,7 +27067,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "FRbHH5yaTdiHYqovpPvZGAN9iqRgnCoWY5ZgcLMRkoBf": {
     "name": "I Am Jane Doe",
@@ -27093,7 +27082,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "3gpxyeGkJfpeRsZ8cpeCy2YRLe4WsHxL72xkQi3Xpump": {
     "name": "Effective Solana",
@@ -27165,6 +27156,19 @@
     "symbol": "PEXRA",
     "flagged_ts": 1790864732,
     "liquidity_at_flag": 45441.02816943559,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "9CVhGpQQogFMQprC1srtZHmy7Na9HSzcr4EDgcE6mKuy": {
+    "name": "World Money",
+    "symbol": "WMONEY",
+    "flagged_ts": 1790865733,
+    "liquidity_at_flag": 28143.15309239982,
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 60,
