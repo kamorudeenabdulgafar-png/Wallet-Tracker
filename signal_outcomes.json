@@ -1,21 +1,4 @@
 {
-  "HHHpaQMdZBdxjGevNhd3ShuEL2tKnrqA62JTuaX2K9j": {
-    "name": "Fly Inu",
-    "symbol": "FLY",
-    "flagged_ts": 1790217450,
-    "liquidity_at_flag": 35306.05066925046,
-    "breakdown": {
-      "MOMENTUM": 100,
-      "SAFETY": 100,
-      "LIQUIDITY": 100,
-      "SMART MONEY": 0
-    },
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
   "rSqnoL3X5v8ysCubqHLWAxCEyybw9R387FSzKWMpump": {
     "name": "Dancing Cat",
     "symbol": "DCAT",
@@ -25750,7 +25733,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "AdFYwmgMEYfD3ut11oYjiFCyHSj5G7SK8X2kWqZ6pump": {
@@ -25766,7 +25750,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "FutN7pjfoJjEsfRG8BMtam2jtWdbg2up9HMa7dYwpump": {
@@ -28432,7 +28417,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "EJw6NpSbL7phPo3Rg2YLhHJs8iwpHz1AUPCgb8ws6tKT": {
     "name": "Artificial Inu",
@@ -28442,6 +28429,32 @@
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "5AZiUYQsuCXBSuRcKcg4UquAzpbmEUtwy67UYnJq9eLu": {
+    "name": "\u56fd\u6cf0\u54aa\u5b89",
+    "symbol": "\u91d1\u516d\u6839",
+    "flagged_ts": 1790822408,
+    "liquidity_at_flag": 27705.33658945238,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "9sbh9bBnjZ2g3Kiiuy8VWjsjmgb9eFrfbXpykSMPpump": {
+    "name": "SpaceX",
+    "symbol": "SpaceX",
+    "flagged_ts": 1790822408,
+    "liquidity_at_flag": 64309.330883439856,
+    "breakdown": {
+      "MOMENTUM": 71,
+      "SAFETY": 100,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
