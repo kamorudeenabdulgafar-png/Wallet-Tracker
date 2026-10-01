@@ -24458,7 +24458,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "4XNGWQ1vzk6QboKmprqw3WbUgfuK8XpMXXuWpXfbz5fE": {
@@ -24474,7 +24475,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "6YifLyqFUBeGbfscoUpFCabELFuRBejHXFMobKRppump": {
@@ -27133,7 +27135,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "8ZM267dJH1w2HiQZeK659rbUPAfPexsAaEKo44EhPtPD": {
     "name": "\ud835\udd4f/Accelerationism",
@@ -27146,7 +27150,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "GZVZVtXWHFAuu2MMZQijDmYKdfDMDND5dxNW2Xawemtv": {
     "name": "silent market",
@@ -27221,6 +27227,19 @@
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "EXSm3JE8paPaJHEUHTovu6tvaRL26UpjwLcT3xzipump": {
+    "name": "Supreme Shit",
+    "symbol": "SUP",
+    "flagged_ts": 1790883161,
+    "liquidity_at_flag": 26430.054579142576,
+    "breakdown": {
+      "MOMENTUM": 91,
+      "SAFETY": 90,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
