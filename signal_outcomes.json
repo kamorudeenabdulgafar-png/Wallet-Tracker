@@ -1,21 +1,4 @@
 {
-  "F8skPJiz8eLdDCsVfDh1Mnmx7W9dmMHJSEJApH8muMy6": {
-    "name": "Beenz",
-    "symbol": "BEENZ",
-    "flagged_ts": 1790280358,
-    "liquidity_at_flag": 44257.24272739708,
-    "breakdown": {
-      "MOMENTUM": 100,
-      "SAFETY": 60,
-      "LIQUIDITY": 100,
-      "SMART MONEY": 0
-    },
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
   "8LHgAXXPbMVqd3wmAQbTu4NxuRRe3qowgUSLiKmFpump": {
     "name": "launchdap",
     "symbol": "dap",
@@ -24424,7 +24407,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "AhN6PeEFHFhY91izZghXU3KQn1a8grQjCyy4uGfRpump": {
@@ -26615,7 +26599,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "GRA7DDXnaT97Royg3LjqppLmPajCab9EzVb4gYLpBhZR": {
@@ -26630,7 +26615,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "9qKHgTSAEFffsH1JzhqqjWejZZBvBTWSAH1chz3VQwro": {
@@ -27064,7 +27050,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "8fWq4PGGNApKTSnZhnfXxX4nNw3XjPntzFYrv5vkYpD5": {
     "name": "SI Strategy",
@@ -27077,7 +27065,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "GTgsvVgm4QCdRVx5HBs5wq1ACjD2XMignWTMVqM9GNaf": {
     "name": "Snoopy",
@@ -27090,7 +27080,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "EXSm3JE8paPaJHEUHTovu6tvaRL26UpjwLcT3xzipump": {
     "name": "Supreme Shit",
@@ -27113,6 +27105,45 @@
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "7FXUnLBeMGonXs6qx4z3Vyba3VHX6hxwnkCLsYwmpump": {
+    "name": "The Red Panda",
+    "symbol": "Pabu",
+    "flagged_ts": 1790885478,
+    "liquidity_at_flag": 23807.267904024484,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 90,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "4dWo3kRyv5mDXLgKKecEBK7BVnkH2syD4gRjyW6qpump": {
+    "name": "Fomo Gang",
+    "symbol": "FomoGang",
+    "flagged_ts": 1790885479,
+    "liquidity_at_flag": 37011.25628216954,
+    "breakdown": {
+      "MOMENTUM": 90,
+      "SAFETY": 100,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "LGMZpdFicKjFXnYFu8AYAzZA7QfRMyXBBMemomTpump": {
+    "name": "Alonmas",
+    "symbol": "Alonmas",
+    "flagged_ts": 1790885480,
+    "liquidity_at_flag": 62496.9874020539,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 100,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
