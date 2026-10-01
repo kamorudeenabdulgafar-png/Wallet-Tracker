@@ -1,72 +1,4 @@
 {
-  "Ah13cTAcf8XtLtHcfps81KsLFhLwCh4nKe32h6JuEeK5": {
-    "name": "Holdoween",
-    "symbol": "Holdoween",
-    "flagged_ts": 1790284800,
-    "liquidity_at_flag": 17900.491377232156,
-    "breakdown": {
-      "MOMENTUM": 92,
-      "SAFETY": 100,
-      "LIQUIDITY": 90,
-      "SMART MONEY": 0
-    },
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "DMioHeq1Upkn9UY3JbZKZRwFLtmuAuAENPg9HbpD4w6L": {
-    "name": "Pumpies",
-    "symbol": "Pumpies",
-    "flagged_ts": 1790284802,
-    "liquidity_at_flag": 40505.99819247576,
-    "breakdown": {
-      "MOMENTUM": 100,
-      "SAFETY": 60,
-      "LIQUIDITY": 100,
-      "SMART MONEY": 0
-    },
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "FbJ3u9MV647bbFN3dTRuXkfurjSYysoijJ2mGN21JHLD": {
-    "name": "American Reserved Oil Supply",
-    "symbol": "AROS",
-    "flagged_ts": 1790284804,
-    "liquidity_at_flag": 66211.17497572085,
-    "breakdown": {
-      "MOMENTUM": 100,
-      "SAFETY": 60,
-      "LIQUIDITY": 100,
-      "SMART MONEY": 0
-    },
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "2WpkftHtgsGXeWqsGfMeuFFHuFpoEipYDw5iEDWk2yTD": {
-    "name": "StonkBlend",
-    "symbol": "STONKBLEND",
-    "flagged_ts": 1790284805,
-    "liquidity_at_flag": 31839.669309409306,
-    "breakdown": {
-      "MOMENTUM": 100,
-      "SAFETY": 60,
-      "LIQUIDITY": 100,
-      "SMART MONEY": 0
-    },
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
   "AMEZLDqkYJCZBEioNpncCUeq65P2tP2QW5zTWYksyc64": {
     "name": "Quotes",
     "symbol": "Quotes",
@@ -26684,7 +26616,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "6rmCU6X3XtasrTEdqQNnScAwgTJAP9eoaetWN56kzf4b": {
@@ -26699,7 +26632,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "3LpRudevSEd55H3JTezzEPUsJrCrdcit8UyjCv361c7y": {
@@ -26714,7 +26648,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "DyJ1guH69JAJXysC2nth5rTUcyJJE81QqbfH2oo5dfHZ": {
@@ -26729,7 +26664,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "DxgJTLsgNVMaZBpgPzKBBBLBSdSAZzxyAeAfboUApump": {
@@ -26744,7 +26680,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "AYdNh6yHQ1A2QuKihEYkqepvLqPFCu9teJEYah5d2ru": {
@@ -27146,6 +27083,58 @@
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 90,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "rimCNcdMZ18rMrR5rXU3DaapxBPDuUJaroaTtChpump": {
+    "name": "banger",
+    "symbol": "banger",
+    "flagged_ts": 1790890237,
+    "liquidity_at_flag": 18440.135122215423,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 92,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "5wMyPqAUeDrRaJksaU326nfegwbVmxMyQjiT3tRppump": {
+    "name": "Pumpk Inu",
+    "symbol": "PI",
+    "flagged_ts": 1790890238,
+    "liquidity_at_flag": 12562.401827100943,
+    "breakdown": {
+      "MOMENTUM": 92,
+      "SAFETY": 100,
+      "LIQUIDITY": 63,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "ADpdcCfWm5upqokev59fFfY3mv943619G9ht5JQUNz4D": {
+    "name": "Trump Coin",
+    "symbol": "TRUMP",
+    "flagged_ts": 1790890239,
+    "liquidity_at_flag": 27726.33883008713,
+    "breakdown": {
+      "MOMENTUM": 83,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "8MsAwXpiTzUoaQj2cA1L4JHFqMTFofXQrHpneCKfsb4r": {
+    "name": "Trump Coin",
+    "symbol": "TRUMP",
+    "flagged_ts": 1790890240,
+    "liquidity_at_flag": 32177.71860697848,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
