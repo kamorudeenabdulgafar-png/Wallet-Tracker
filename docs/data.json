@@ -1,5 +1,5 @@
 {
-  "last_updated": 1790854766,
+  "last_updated": 1790855658,
   "wallets": [
     {
       "label": "Dev wallet 1",
@@ -70,7 +70,7 @@
         "BPxxfRCXkUVhig4HS1Lh7kZqV6SPJhzfEk4x6fVBjPCy",
         "27G8MtK7VtTcCHkpASjSDdkWWYfoqT6ggEuKidVJidD4"
       ],
-      "last_active": 1790854759,
+      "last_active": 1790855646,
       "positions": {},
       "realized_pnl_usd": 0.0
     }
@@ -89,7 +89,7 @@
     "count": 2835,
     "up_count": 613,
     "total_change_pct": -155586.29928175083,
-    "rug": 2772,
+    "rug": 2773,
     "doing_well": 31,
     "steady": 14,
     "fading": 46
@@ -97,6 +97,71 @@
   "learning_insight": null,
   "settings": {},
   "recent_alerts": [
+    {
+      "ts": 1790855658,
+      "type": "outcome",
+      "message": "\ud83d\udd34 locked inu (lockedinu) is dropping fast \u2014 down 100%, may be rugging."
+    },
+    {
+      "ts": 1790855657,
+      "type": "outcome",
+      "message": "\ud83d\udd34 \u5403\u4e86\u4e0d\u70e7\u5fc3 (\u5403\u4e86\u4e0d\u70e7\u5fc3) is dropping fast \u2014 down 100%, may be rugging."
+    },
+    {
+      "ts": 1790855656,
+      "type": "outcome",
+      "message": "\ud83d\udd34 Bufo the Claude Desktop Buddy (Bufo) is dropping fast \u2014 down 100%, may be rugging."
+    },
+    {
+      "ts": 1790855655,
+      "type": "outcome",
+      "message": "\ud83d\udd34 Super Inu (\u56db) is dropping fast \u2014 down 100%, may be rugging."
+    },
+    {
+      "ts": 1790855654,
+      "type": "outcome",
+      "message": "\ud83d\udd34 Super Inu (SI) is dropping fast \u2014 down 100%, may be rugging."
+    },
+    {
+      "ts": 1790855653,
+      "type": "outcome",
+      "message": "\ud83d\udd34 SuperButch (SuperButch) is dropping fast \u2014 down 90%, may be rugging."
+    },
+    {
+      "ts": 1790855652,
+      "type": "outcome",
+      "message": "\ud83d\udd34 Super Inu (\u56db) is dropping fast \u2014 down 100%, may be rugging."
+    },
+    {
+      "ts": 1790855651,
+      "type": "outcome",
+      "message": "\ud83d\udd34 Google AI (Google AI) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
+    },
+    {
+      "ts": 1790855649,
+      "type": "scanner",
+      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\nArtificial Inu (AI)\nOpportunity: 71/100\n\nMOMENTUM     45\nSAFETY       100\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$27,330, 8 min since pool creation\n\u2022 Up +30% in the last hour, ~$257,016 in 24h volume (9.4x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Low, 0/100):\n\u2022 No major red flags found\n\nCA: 7smQ2rhwG73tPtaiKyoWoeywQBXYG2MUNEofvApRpump\nhttps://dexscreener.com/solana/7smQ2rhwG73tPtaiKyoWoeywQBXYG2MUNEofvApRpump\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
+    },
+    {
+      "ts": 1790855646,
+      "type": "wallet",
+      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: BABA -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/VJ7me3kvRxgibcBmhSTnACWPURgQRnzPfw7sxpNSNCS4hvBNKDLL5LVeFAvcaj2ksqPpW88f4kpNJiqFweHS64W"
+    },
+    {
+      "ts": 1790855645,
+      "type": "wallet",
+      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: LMT -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/Msuxhpycux5fQG5tvkWMERUiGTVuWo9Wt8FtThva4n7jNvLN8XttTvHbmfYBbpoMxzeuMzM8Jm6g9faWDghJawS"
+    },
+    {
+      "ts": 1790855645,
+      "type": "wallet",
+      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: DJT -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/4nKmjP8dJ8UwNLcreqMjYkVgCbjakvEYhgBgEKsVzNgtuYvGKGypDKZxGNzsyaffF2RvDL5c4BrzJCkTMwqwqniF"
+    },
+    {
+      "ts": 1790855644,
+      "type": "wallet",
+      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: CARDS -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/3M7AFAoJrUYs3uGe3KxrFdMkjbG74bYFRhkpiPRbMh73zvLZxRnvmRcn4Y2WT6FHew1mftkXFmqHswji3gPc5k8N"
+    },
     {
       "ts": 1790854766,
       "type": "outcome",
@@ -281,71 +346,6 @@
       "ts": 1790850786,
       "type": "outcome",
       "message": "\ud83d\udd34 Super Inu (\u56db) is dropping fast \u2014 down 100%, may be rugging."
-    },
-    {
-      "ts": 1790850785,
-      "type": "outcome",
-      "message": "\ud83d\udd34 Slop Accelerationism (SLOP/ACC) is dropping fast \u2014 down 100%, may be rugging."
-    },
-    {
-      "ts": 1790850784,
-      "type": "outcome",
-      "message": "\ud83d\udd34 Starbucks Corporation (STARBUCKS) is dropping fast \u2014 down 74%, may be rugging."
-    },
-    {
-      "ts": 1790850783,
-      "type": "outcome",
-      "message": "\ud83d\udd34 \u65e0\u6211 (\u65e0\u6211) is dropping fast \u2014 down 100%, may be rugging."
-    },
-    {
-      "ts": 1790850782,
-      "type": "outcome",
-      "message": "\ud83d\udd34 Put In (PUTIN) is dropping fast \u2014 down 100%, may be rugging."
-    },
-    {
-      "ts": 1790850781,
-      "type": "outcome",
-      "message": "\ud83d\udfe0 SuperBonk (SuperBonk) is fading \u2014 down 22% so far."
-    },
-    {
-      "ts": 1790850780,
-      "type": "outcome",
-      "message": "\ud83d\udd34 MemeLord42069Doge (ELON) is dropping fast \u2014 down 100%, may be rugging."
-    },
-    {
-      "ts": 1790850779,
-      "type": "outcome",
-      "message": "\ud83d\udd34 \u30ae\u30f3\u30ae\u30c4\u30cd (Gingitsune) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
-    },
-    {
-      "ts": 1790850778,
-      "type": "scanner",
-      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\nVALOR (VALOR)\nOpportunity: 70/100\n\nMOMENTUM     83\nSAFETY       60\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$51,020, 18 min since pool creation\n\u2022 Up +56% in the last hour, ~$48,039 in 24h volume (0.9x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 86% of supply (very concentrated)\n\nCA: Fz91hjDMCDrRHu9FMKcyMCfde87wz57xG9oPNT2Se3yR\nhttps://dexscreener.com/solana/Fz91hjDMCDrRHu9FMKcyMCfde87wz57xG9oPNT2Se3yR\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
-    },
-    {
-      "ts": 1790850775,
-      "type": "scanner",
-      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\nSuper Intelligence Cat (SIC)\nOpportunity: 70/100\n\nMOMENTUM     84\nSAFETY       60\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$26,146, 8 min since pool creation\n\u2022 Up +56% in the last hour, ~$23,284 in 24h volume (0.9x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 85% of supply (very concentrated)\n\nCA: GvXGwgg2xkT6f5SQE7ZPoyhw5mZTD1i4VbJMMfS69oc3\nhttps://dexscreener.com/solana/GvXGwgg2xkT6f5SQE7ZPoyhw5mZTD1i4VbJMMfS69oc3\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
-    },
-    {
-      "ts": 1790849739,
-      "type": "outcome",
-      "message": "\ud83d\udd34 Precursor of the First War (POTFW) is dropping fast \u2014 down 89%, may be rugging."
-    },
-    {
-      "ts": 1790849738,
-      "type": "outcome",
-      "message": "\ud83d\udfe2 Put In (PUTIN) is still doing really good \u2014 up 92% so far!"
-    },
-    {
-      "ts": 1790849737,
-      "type": "outcome",
-      "message": "\ud83d\udd34 Put In (PUTIN) is dropping fast \u2014 down 100%, may be rugging."
-    },
-    {
-      "ts": 1790849736,
-      "type": "outcome",
-      "message": "\ud83d\udd34 \u65e0\u6211 (\u65e0\u6211) is dropping fast \u2014 down 100%, may be rugging."
     }
   ]
 }
