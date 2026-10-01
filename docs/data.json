@@ -1,5 +1,5 @@
 {
-  "last_updated": 1790883164,
+  "last_updated": 1790884077,
   "wallets": [
     {
       "label": "Dev wallet 1",
@@ -89,7 +89,7 @@
     "count": 2835,
     "up_count": 613,
     "total_change_pct": -155586.29928175083,
-    "rug": 2806,
+    "rug": 2807,
     "doing_well": 32,
     "steady": 14,
     "fading": 48
@@ -97,6 +97,21 @@
   "learning_insight": "Coins that rugged averaged SAFETY 72; coins that did well averaged SAFETY 93.",
   "settings": {},
   "recent_alerts": [
+    {
+      "ts": 1790884077,
+      "type": "outcome",
+      "message": "\ud83d\udd34 CATPE (CATPE) is dropping fast \u2014 down 100%, may be rugging."
+    },
+    {
+      "ts": 1790884077,
+      "type": "outcome",
+      "message": "\ud83d\udd34 Super Intelligence Cat (SIC) is dropping fast \u2014 down 100%, may be rugging."
+    },
+    {
+      "ts": 1790884075,
+      "type": "outcome",
+      "message": "\ud83d\udd34 payouts (PAYOUTS) turned out to be a rug \u2014 liquidity dropped 89% over 24h."
+    },
     {
       "ts": 1790883164,
       "type": "outcome",
@@ -331,21 +346,6 @@
       "ts": 1790877250,
       "type": "outcome",
       "message": "\ud83d\udd34 Owencoin (Owen) is dropping fast \u2014 down 67%, may be rugging."
-    },
-    {
-      "ts": 1790877249,
-      "type": "outcome",
-      "message": "\ud83d\udfe2 I Am Jane Doe (Jane) is still doing really good \u2014 up 34% so far!"
-    },
-    {
-      "ts": 1790877248,
-      "type": "outcome",
-      "message": "\ud83d\udd34 Meme Industries (MEME) is dropping fast \u2014 down 100%, may be rugging."
-    },
-    {
-      "ts": 1790877247,
-      "type": "outcome",
-      "message": "\ud83d\udd34 Owencoin (Owen) is dropping fast \u2014 down 100%, may be rugging."
     }
   ]
 }
