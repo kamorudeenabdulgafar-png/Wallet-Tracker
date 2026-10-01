@@ -1,18 +1,5 @@
 [
   {
-    "name": "Keep",
-    "symbol": "RISING\ud83d\udcc8",
-    "category": "rug",
-    "change_pct": -100.0,
-    "breakdown": {
-      "MOMENTUM": 100,
-      "SAFETY": 60,
-      "LIQUIDITY": 100,
-      "SMART MONEY": 0
-    },
-    "ts": 1790673157
-  },
-  {
     "name": "Leverage Pad",
     "symbol": "LEVERAGE",
     "category": "rug",
@@ -3898,5 +3885,18 @@
       "SMART MONEY": 0
     },
     "ts": 1790818732
+  },
+  {
+    "name": "supercycle",
+    "symbol": "supercycle",
+    "category": "rug",
+    "change_pct": -100.0,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "ts": 1790821375
   }
 ]
