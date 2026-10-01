@@ -1,5 +1,5 @@
 {
-  "last_updated": 1790833212,
+  "last_updated": 1790834097,
   "wallets": [
     {
       "label": "Dev wallet 1",
@@ -70,7 +70,7 @@
         "BPxxfRCXkUVhig4HS1Lh7kZqV6SPJhzfEk4x6fVBjPCy",
         "27G8MtK7VtTcCHkpASjSDdkWWYfoqT6ggEuKidVJidD4"
       ],
-      "last_active": 1790833203,
+      "last_active": 1790834085,
       "positions": {},
       "realized_pnl_usd": 0.0
     }
@@ -89,7 +89,7 @@
     "count": 2835,
     "up_count": 613,
     "total_change_pct": -155586.29928175083,
-    "rug": 2720,
+    "rug": 2726,
     "doing_well": 30,
     "steady": 14,
     "fading": 45
@@ -97,6 +97,61 @@
   "learning_insight": null,
   "settings": {},
   "recent_alerts": [
+    {
+      "ts": 1790834097,
+      "type": "outcome",
+      "message": "\ud83d\udd34 OTTO (OTTO) is dropping fast \u2014 down 100%, may be rugging."
+    },
+    {
+      "ts": 1790834096,
+      "type": "outcome",
+      "message": "\ud83d\udd34 \u96ea\u738b\u5e01 (\u96ea\u738b\u5e01) is dropping fast \u2014 down 100%, may be rugging."
+    },
+    {
+      "ts": 1790834095,
+      "type": "outcome",
+      "message": "\ud83d\udd34 Artificial Inu (AI) is dropping fast \u2014 down 100%, may be rugging."
+    },
+    {
+      "ts": 1790834094,
+      "type": "outcome",
+      "message": "\ud83d\udd34 RedCoin (RedCoin) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
+    },
+    {
+      "ts": 1790834093,
+      "type": "outcome",
+      "message": "\ud83d\udd34 \u738b\u4e4b\u8511\u89c6 (Marky) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
+    },
+    {
+      "ts": 1790834092,
+      "type": "outcome",
+      "message": "\ud83d\udd34 \u5e01\u5b89\u94fe\u80fd\u98de Soon (\u5e01\u5b89\u94fe\u80fd\u98de) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
+    },
+    {
+      "ts": 1790834091,
+      "type": "outcome",
+      "message": "\ud83d\udd34 The Mosquito (Mosquito) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
+    },
+    {
+      "ts": 1790834091,
+      "type": "outcome",
+      "message": "\ud83d\udd34 SHIBA (SHIBA) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
+    },
+    {
+      "ts": 1790834089,
+      "type": "outcome",
+      "message": "\ud83d\udd34 RedCoin (RedCoin) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
+    },
+    {
+      "ts": 1790834088,
+      "type": "scanner",
+      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\n67 Jean Phil (67JEANPHIL)\nOpportunity: 72/100\n\nMOMENTUM     58\nSAFETY       90\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$21,104, 6 min since pool creation\n\u2022 Up +39% in the last hour, ~$174,193 in 24h volume (8.3x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Low, 10/100):\n\u2022 top 10 holders own 50% of supply\n\nCA: 8bCrHiY9GHZL2kXixjbpyYeksGKxmX9etE5WH5Ydpump\nhttps://dexscreener.com/solana/8bCrHiY9GHZL2kXixjbpyYeksGKxmX9etE5WH5Ydpump\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
+    },
+    {
+      "ts": 1790834085,
+      "type": "wallet",
+      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: 0.1492 SOL (~$17.81) -> USDC\nTrade size: ~$17.81\nBought token: USD Coin (USDC)\nCA: EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v\nhttps://solscan.io/tx/4rLmo5oi71Y2LW4LUAPMKF7TwoAYhHNo8CArBVweZAbMmVjSqFS55wC2xqtuGYLcLHDTkACa7Y3GjuQbJaXKvM2J"
+    },
     {
       "ts": 1790833212,
       "type": "outcome",
@@ -291,61 +346,6 @@
       "ts": 1790830292,
       "type": "outcome",
       "message": "\ud83d\udfe0 Microchip (CHIP) is fading \u2014 down 53% so far."
-    },
-    {
-      "ts": 1790830291,
-      "type": "scanner",
-      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\nOTTO (OTTO)\nOpportunity: 76/100\n\nMOMENTUM     100\nSAFETY       60\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$37,851, 10 min since pool creation\n\u2022 Up +98% in the last hour, ~$136,634 in 24h volume (3.6x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 71% of supply (very concentrated)\n\nCA: Qi5pn98Lk27cuKqCEojHFsLj9Kq4qgkCLLJVJgZmcrQ\nhttps://dexscreener.com/solana/Qi5pn98Lk27cuKqCEojHFsLj9Kq4qgkCLLJVJgZmcrQ\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
-    },
-    {
-      "ts": 1790830290,
-      "type": "scanner",
-      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\n\u96ea\u738b\u5e01 (\u96ea\u738b\u5e01)\nOpportunity: 76/100\n\nMOMENTUM     100\nSAFETY       60\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$110,819, 8 min since pool creation\n\u2022 Up +70% in the last hour, ~$707,447 in 24h volume (6.4x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 90% of supply (very concentrated)\n\nCA: BACjXb6dmkLiDrPDaXQXGzdw2U4fkNFbMgGbU7a6xJi\nhttps://dexscreener.com/solana/BACjXb6dmkLiDrPDaXQXGzdw2U4fkNFbMgGbU7a6xJi\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
-    },
-    {
-      "ts": 1790829185,
-      "type": "outcome",
-      "message": "\ud83d\udfe2 Super Accelerationism (s/acc) is still doing really good \u2014 up 30% so far!"
-    },
-    {
-      "ts": 1790829184,
-      "type": "outcome",
-      "message": "\ud83d\udd34 Ajax (Ajax) is dropping fast \u2014 down 100%, may be rugging."
-    },
-    {
-      "ts": 1790829183,
-      "type": "outcome",
-      "message": "\ud83d\udd34 President Of The Unites States (POTUS) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
-    },
-    {
-      "ts": 1790829181,
-      "type": "scanner",
-      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\nNapoleonic Military Cipher (Napoleonic)\nOpportunity: 72/100\n\nMOMENTUM     87\nSAFETY       60\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$24,116, 10 min since pool creation\n\u2022 Up +58% in the last hour, ~$41,099 in 24h volume (1.7x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 100% of supply (very concentrated)\n\nCA: HnvR8ynNTpo3K7XwtoFcWFZiddNKdNkX9ajSFTaUpump\nhttps://dexscreener.com/solana/HnvR8ynNTpo3K7XwtoFcWFZiddNKdNkX9ajSFTaUpump\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
-    },
-    {
-      "ts": 1790829180,
-      "type": "scanner",
-      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\nAI Shiba Inu (NUVI)\nOpportunity: 76/100\n\nMOMENTUM     100\nSAFETY       60\nLIQUIDITY    98\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$19,544, 9 min since pool creation\n\u2022 Up +115% in the last hour, ~$78,578 in 24h volume (4.0x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 81% of supply (very concentrated)\n\nCA: 7rphp3rYAg4NogGDwgnhJrW9ukpcE33UTh4AbwEf6NpB\nhttps://dexscreener.com/solana/7rphp3rYAg4NogGDwgnhJrW9ukpcE33UTh4AbwEf6NpB\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
-    },
-    {
-      "ts": 1790829179,
-      "type": "scanner",
-      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 STRONG\nBlack Panther (BPI)\nOpportunity: 83/100\n\nMOMENTUM     100\nSAFETY       100\nLIQUIDITY    66\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$13,136, 7 min since pool creation\n\u2022 Up +108% in the last hour, ~$336,925 in 24h volume (25.6x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Low, 0/100):\n\u2022 No major red flags found\n\nCA: GnUMWKjCaTFnJR8EUUFidBFPMB2z9G9cURgoNUDapump\nhttps://dexscreener.com/solana/GnUMWKjCaTFnJR8EUUFidBFPMB2z9G9cURgoNUDapump\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
-    },
-    {
-      "ts": 1790829178,
-      "type": "scanner",
-      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\nAI Shiba Inu (NUVI)\nOpportunity: 76/100\n\nMOMENTUM     100\nSAFETY       60\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$37,719, 5 min since pool creation\n\u2022 Up +110% in the last hour, ~$130,882 in 24h volume (3.5x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 96% of supply (very concentrated)\n\nCA: AneMgAkhe74aZaPLEPssAheXVwWaEP5Ab7QxUaHyXCz4\nhttps://dexscreener.com/solana/AneMgAkhe74aZaPLEPssAheXVwWaEP5Ab7QxUaHyXCz4\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
-    },
-    {
-      "ts": 1790829176,
-      "type": "wallet",
-      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: DKNG -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/mrDUvWw7DWM8yhJbVmd7uMapENtSzLTAeWHhaVqMHtSKub3LkQ6GbwbDPnR1wakaUR1n7zpiHKJobmHHKsXUukh"
-    },
-    {
-      "ts": 1790829176,
-      "type": "wallet",
-      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: DJT -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/36ZFn1B7x3UqWXQYgd933TaN6azWRSFzHFLAyYQotY3d7KrAYvTE6ecFhXCiLYFU6Pq1GBuQxhT6q3gDFgdSiPWd"
     }
   ]
 }
