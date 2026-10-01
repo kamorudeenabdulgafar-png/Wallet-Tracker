@@ -24883,7 +24883,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "6N5Rxp8pybYNyQhHexPanAmS3hx2XrSYpTtcu4vrpump": {
@@ -24899,7 +24900,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "CqHDH99LEpapGcKSPx1kELm3z5m7nKLks1qjYhsiapsP": {
@@ -24915,7 +24917,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "EjMLT2i4pUsVFvVvch2ntx72fxe2TvfCaE9rq23nUzZQ": {
@@ -27202,7 +27205,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "GUkfzkLjhZSCwNJ2i7dShvWC4Eo1mVLSVmLYsqzXz3XC": {
@@ -27217,7 +27221,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "8bCrHiY9GHZL2kXixjbpyYeksGKxmX9etE5WH5Ydpump": {
@@ -27556,6 +27561,32 @@
     "breakdown": {
       "MOMENTUM": 83,
       "SAFETY": 100,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "8zWd2HwypCkmmqEFgdQbvP8n8CB4DY1Z6Zh9WsenRQz": {
+    "name": "Super Inu",
+    "symbol": "\u56db",
+    "flagged_ts": 1790846754,
+    "liquidity_at_flag": 146825.92135259433,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "B1DWgY6NBaL7avyqLZdj6ZuMA1aPMXu53W3qHy7Z8nRh": {
+    "name": "Nexchain Ai",
+    "symbol": "NEX Ai",
+    "flagged_ts": 1790846756,
+    "liquidity_at_flag": 52358.20289838128,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
