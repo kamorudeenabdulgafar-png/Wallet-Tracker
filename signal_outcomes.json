@@ -1,38 +1,4 @@
 {
-  "DA5tD9pG6g9GbGkaSPwwcvdsTo941tUrpHTYKfyv2VCW": {
-    "name": "Stonked",
-    "symbol": "STONKED",
-    "flagged_ts": 1790287514,
-    "liquidity_at_flag": 41346.60650704989,
-    "breakdown": {
-      "MOMENTUM": 100,
-      "SAFETY": 60,
-      "LIQUIDITY": 100,
-      "SMART MONEY": 0
-    },
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "8fzziiswWWta8K3H8YWUzxdHUuN2yDC47fQz17Jspump": {
-    "name": "Prism Foundation",
-    "symbol": "PRISM",
-    "flagged_ts": 1790287515,
-    "liquidity_at_flag": 21130.869448229536,
-    "breakdown": {
-      "MOMENTUM": 64,
-      "SAFETY": 90,
-      "LIQUIDITY": 100,
-      "SMART MONEY": 0
-    },
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
   "sugEbczEKKMGdRidWFNRWXXGrByj4LSzejtfo8vndcC": {
     "name": "Xi The Pooh Xi",
     "symbol": "Xi",
@@ -24390,7 +24356,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "HXm1NDNiag86JCSk3bQ2b4ctYtvUkY9JH3r3aNCzpump": {
@@ -26709,7 +26676,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "ALq7MTT2GRpJ2jkDwaPRZg5kc3P15PJ2x34BiYv6PEiN": {
@@ -27008,7 +26976,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "9qUTeFNXFh35YmdtayeniRUr8o31rXYzMK3Jv5Zypump": {
     "name": "limit",
@@ -27021,7 +26991,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "rimCNcdMZ18rMrR5rXU3DaapxBPDuUJaroaTtChpump": {
     "name": "banger",
@@ -27109,6 +27081,19 @@
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "6bQ4MCnJ5rab9pDGR43hbTCf1GabYEVmCP2oLyexSmvC": {
+    "name": "Fantasy Index 6900",
+    "symbol": "FIX6900",
+    "flagged_ts": 1790892818,
+    "liquidity_at_flag": 59709.020503013075,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 100,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },

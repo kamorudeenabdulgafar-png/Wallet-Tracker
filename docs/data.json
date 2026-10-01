@@ -1,5 +1,5 @@
 {
-  "last_updated": 1790891983,
+  "last_updated": 1790892823,
   "wallets": [
     {
       "label": "Dev wallet 1",
@@ -92,11 +92,36 @@
     "rug": 2823,
     "doing_well": 33,
     "steady": 14,
-    "fading": 48
+    "fading": 49
   },
   "learning_insight": "Coins that rugged averaged SAFETY 72; coins that did well averaged SAFETY 95.",
   "settings": {},
   "recent_alerts": [
+    {
+      "ts": 1790892823,
+      "type": "outcome",
+      "message": "\ud83d\udd34 limit (limit) is dropping fast \u2014 down 60%, may be rugging."
+    },
+    {
+      "ts": 1790892822,
+      "type": "outcome",
+      "message": "\ud83d\udd34 Hooked (HOOKED) is dropping fast \u2014 down 100%, may be rugging."
+    },
+    {
+      "ts": 1790892821,
+      "type": "outcome",
+      "message": "\ud83d\udd34 Network error (N-ERROR) is dropping fast \u2014 down 100%, may be rugging."
+    },
+    {
+      "ts": 1790892820,
+      "type": "outcome",
+      "message": "\ud83d\udfe0 .si (.si) faded \u2014 liquidity down 46% after 24h."
+    },
+    {
+      "ts": 1790892818,
+      "type": "scanner",
+      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 EXCEPTIONAL\nFantasy Index 6900 (FIX6900)\nOpportunity: 90/100\n\nMOMENTUM     100\nSAFETY       100\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$59,709, 7 min since pool creation\n\u2022 Up +306% in the last hour, ~$144,976 in 24h volume (2.4x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Low, 0/100):\n\u2022 No major red flags found\n\nCA: 6bQ4MCnJ5rab9pDGR43hbTCf1GabYEVmCP2oLyexSmvC\nhttps://dexscreener.com/solana/6bQ4MCnJ5rab9pDGR43hbTCf1GabYEVmCP2oLyexSmvC\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
+    },
     {
       "ts": 1790891983,
       "type": "outcome",
@@ -321,31 +346,6 @@
       "ts": 1790889181,
       "type": "wallet",
       "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: USDC -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/4ZHz5HcvbFwweHCLjdToepXkPMHrSywxkBzZGe5g2oVqWL5GWrAskWz5JCyU23oxcodXNikfWsyXL4NwWiBwPSpF"
-    },
-    {
-      "ts": 1790889180,
-      "type": "wallet",
-      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: SPCXx -> SPCX\nTrade size: unknown\nBought token: SpaceX - Backpack Securities (SPCX)\nCA: SPCXxcqXj6e5dJDVNovHN8744zkbhM2bYudU45BimGb\nhttps://solscan.io/tx/645BVzewZUiquW8j3mMCkvbFLqtwbYx3NHH4DMWjQ25w5wyxU4aWP9T4pVeYFTsPu7QXdddr9CXP6FZRYKU4AYKb"
-    },
-    {
-      "ts": 1790889180,
-      "type": "wallet",
-      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: ONDO -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/61cZSS13HyjHCcNsNkVfZNGdTZerCpVV1mENYp1vgdgADo3kNs5tyimxaQ9BhNkZwYc8aMjB6Ha47pnz1nksSLvr"
-    },
-    {
-      "ts": 1790889179,
-      "type": "wallet",
-      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: BP -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/4d4HrtvqjV9cJ36q2Vgebzm9mRjsLokXaZC8YsfDnDVXyKM8X8iYjHUuBjkfW5utXGpcEChWRpQJerdFn6P9c4UB"
-    },
-    {
-      "ts": 1790888339,
-      "type": "outcome",
-      "message": "\ud83d\udfe2 Sid (Sid) is still doing really good \u2014 up 94% so far!"
-    },
-    {
-      "ts": 1790888338,
-      "type": "outcome",
-      "message": "\ud83d\udd34 Owencoin (Owen) is dropping fast \u2014 down 79%, may be rugging."
     }
   ]
 }
