@@ -1,55 +1,4 @@
 {
-  "2RL2wEYr9QoP8WGe7EDAHnXUf3Ut36bd9A3NN1RvubrN": {
-    "name": "Honky Chonk Beardonkadonk",
-    "symbol": "CHONK",
-    "flagged_ts": 1790272548,
-    "liquidity_at_flag": 19121.492805627568,
-    "breakdown": {
-      "MOMENTUM": 100,
-      "SAFETY": 60,
-      "LIQUIDITY": 96,
-      "SMART MONEY": 0
-    },
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "3N4zXUPMZgSh4ZBE4Ru1oWnLKdYXgmFeMBXAw7E2sxCZ": {
-    "name": "sBadger",
-    "symbol": "Shielded",
-    "flagged_ts": 1790272550,
-    "liquidity_at_flag": 26125.55601202151,
-    "breakdown": {
-      "MOMENTUM": 100,
-      "SAFETY": 60,
-      "LIQUIDITY": 100,
-      "SMART MONEY": 0
-    },
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "3LxiRcXtia2LS5iBa9z9rvmdC6LdqrxMUbCCtFvuhWKA": {
-    "name": "solana zama",
-    "symbol": "ZAMA",
-    "flagged_ts": 1790273272,
-    "liquidity_at_flag": 31051.387602892457,
-    "breakdown": {
-      "MOMENTUM": 100,
-      "SAFETY": 60,
-      "LIQUIDITY": 100,
-      "SMART MONEY": 0
-    },
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
   "1gWWhs7qrd9sBHwppQdMU2h2fTnnyoCYCSuVjFBpump": {
     "name": "AR Dogy",
     "symbol": "DOGY",
@@ -24526,7 +24475,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "H4r1pbLaDK7bsJLinP32fYqFBBP6CKJPDdEN9kWJk2MV": {
@@ -24542,7 +24492,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "2d7fgeNKny7jmaJWXRNnPoGrJL7vwL6MMv45UTXgpump": {
@@ -24558,7 +24509,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "FrpHjQ1oG7mwWjCynXnZNbT8h58viWh4XkJxRCXZsTyx": {
@@ -26701,7 +26653,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "GV6TN6dLvbdbyKdwsCYCXWbdANnrmCdfJBjSF2AmZbEY": {
@@ -26716,7 +26669,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "saoJ912scgZTR4dGjDFqNMv2sHqLGip1SiEHMBmp9Gq": {
@@ -27075,7 +27029,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "5R7XKEgdQRaTzCeSpR7EDon9t4zGL3VVXxEWL82w5Yz2": {
     "name": "PexraFun",
@@ -27212,6 +27168,19 @@
     "symbol": "GRIFFIN",
     "flagged_ts": 1790877244,
     "liquidity_at_flag": 39226.37424054057,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "FeEcbjZ8qVukx21pU5ihjXznr6WtY5MTtzjoMZD5QhrH": {
+    "name": "Network error",
+    "symbol": "N-ERROR",
+    "flagged_ts": 1790878129,
+    "liquidity_at_flag": 31526.89999904602,
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 60,
