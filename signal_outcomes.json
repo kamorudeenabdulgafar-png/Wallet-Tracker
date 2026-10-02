@@ -1,55 +1,4 @@
 {
-  "5iqjhP5ig6JWdXQf6hYAwojZeMf11pTCvH87gCQtpump": {
-    "name": "TrendTrader Pro",
-    "symbol": "TTP",
-    "flagged_ts": 1790297155,
-    "liquidity_at_flag": 28817.195086094165,
-    "breakdown": {
-      "MOMENTUM": 60,
-      "SAFETY": 90,
-      "LIQUIDITY": 100,
-      "SMART MONEY": 0
-    },
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "73gypQU6EDhYCSd7qVZ9sPGDSZica4Q9t1PHg2h192vK": {
-    "name": "Les Goh",
-    "symbol": "LESGOH",
-    "flagged_ts": 1790297155,
-    "liquidity_at_flag": 33147.401526937014,
-    "breakdown": {
-      "MOMENTUM": 100,
-      "SAFETY": 60,
-      "LIQUIDITY": 100,
-      "SMART MONEY": 0
-    },
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "5AhLUczZ42qDyiZ92V4zj62tQ8SRjuP4PTLAdGFEj8qG": {
-    "name": "BRAIN",
-    "symbol": "BRAIN",
-    "flagged_ts": 1790297157,
-    "liquidity_at_flag": 55094.22340505052,
-    "breakdown": {
-      "MOMENTUM": 100,
-      "SAFETY": 60,
-      "LIQUIDITY": 100,
-      "SMART MONEY": 0
-    },
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
   "9XFJmZUoVGDLJmWw8tYAgQWasgHQRv5rC9fZFXrqvNt": {
     "name": "Latrinas",
     "symbol": "Latrina",
@@ -24390,7 +24339,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "8XLFXsth41XRkMpobiyudi2updSUag3PLRbESMP6ps8Q": {
@@ -24406,7 +24356,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "2hgBNCj8uuTFybx8zHhDQDGUQeXEdPuhfh7rs2naY4ey": {
@@ -26693,7 +26644,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "FE2PBgqf9RoDSMRAgbhr3kKFCsZLaC7NKkvZ5ostpump": {
@@ -27037,7 +26989,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "zBm2fF4sucpS18N9DKkUKUyqB1em9mZ8Am99pNQB1g6": {
     "name": "Funded",
@@ -27148,6 +27102,32 @@
     "symbol": "$PEXRA",
     "flagged_ts": 1790901542,
     "liquidity_at_flag": 197724.20583335235,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "FKGdipWTsvD5z8GqRn9uhMAskN7seAp2yR3Ra7Knpump": {
+    "name": "Fantasy Index 6900",
+    "symbol": "FIX6900",
+    "flagged_ts": 1790902545,
+    "liquidity_at_flag": 30907.47463160279,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 90,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "Z9GLaAt22jmw9Emfv9JXDenihaNGykdGK31K25Sxa4v": {
+    "name": "Ramcat",
+    "symbol": "RAMCAT",
+    "flagged_ts": 1790902547,
+    "liquidity_at_flag": 30747.281853534092,
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 60,
