@@ -1,5 +1,5 @@
 {
-  "last_updated": 1790960752,
+  "last_updated": 1790961795,
   "wallets": [
     {
       "label": "Dev wallet 1",
@@ -90,13 +90,33 @@
     "up_count": 613,
     "total_change_pct": -155586.29928175083,
     "rug": 2930,
-    "doing_well": 33,
+    "doing_well": 34,
     "steady": 17,
     "fading": 50
   },
-  "learning_insight": "Coins that rugged averaged SAFETY 74; coins that did well averaged SAFETY 95.",
+  "learning_insight": "Coins that rugged averaged SAFETY 74; coins that did well averaged SAFETY 94.",
   "settings": {},
   "recent_alerts": [
+    {
+      "ts": 1790961795,
+      "type": "outcome",
+      "message": "\ud83d\udfe1 Justice For The Troy Moose (Moose) is holding steady so far (+10%)."
+    },
+    {
+      "ts": 1790961794,
+      "type": "outcome",
+      "message": "\ud83d\udd34 crypto adoption (ca) is dropping fast \u2014 down 100%, may be rugging."
+    },
+    {
+      "ts": 1790961793,
+      "type": "outcome",
+      "message": "\ud83d\udfe2 Ansemmas (Ansemmas) did really well \u2014 liquidity up 124% after 24h!"
+    },
+    {
+      "ts": 1790961791,
+      "type": "scanner",
+      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\n\u4e2d\u56fd\u4eba\u80fd\u98de (\u4e2d\u56fd\u4eba\u80fd\u98de)\nOpportunity: 72/100\n\nMOMENTUM     89\nSAFETY       60\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$32,157, 8 min since pool creation\n\u2022 Up +60% in the last hour, ~$14,312 in 24h volume (0.4x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 92% of supply (very concentrated)\n\nCA: 4HqJ2MUP6QcaRDeqYqDcSX31f6qLJWXF3gCpCa4Srd9g\nhttps://dexscreener.com/solana/4HqJ2MUP6QcaRDeqYqDcSX31f6qLJWXF3gCpCa4Srd9g\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
+    },
     {
       "ts": 1790960752,
       "type": "outcome",
@@ -326,26 +346,6 @@
       "ts": 1790953653,
       "type": "outcome",
       "message": "\ud83d\udd34 RWA Street (FUND) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
-    },
-    {
-      "ts": 1790953652,
-      "type": "outcome",
-      "message": "\ud83d\udd34 Unc Accelerationism (unc/acc) turned out to be a rug \u2014 liquidity dropped 90% over 24h."
-    },
-    {
-      "ts": 1790952763,
-      "type": "outcome",
-      "message": "\ud83d\udd34 The Library of Pump.Fun (Library) is dropping fast \u2014 down 100%, may be rugging."
-    },
-    {
-      "ts": 1790952762,
-      "type": "outcome",
-      "message": "\ud83d\udd34 Bobcoin (BOBCOIN) is dropping fast \u2014 down 100%, may be rugging."
-    },
-    {
-      "ts": 1790952761,
-      "type": "outcome",
-      "message": "\ud83d\udd34 world wide web (www) is dropping fast \u2014 down 100%, may be rugging."
     }
   ]
 }
