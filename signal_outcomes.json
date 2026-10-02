@@ -1,21 +1,4 @@
 {
-  "B5b4LPJVm7HgDDYkaiHmgH5v2fpzU8Q6AxzskbAKEjTz": {
-    "name": "YASHMODE",
-    "symbol": "YASHMODE",
-    "flagged_ts": 1790361554,
-    "liquidity_at_flag": 31721.75788117342,
-    "breakdown": {
-      "MOMENTUM": 90,
-      "SAFETY": 60,
-      "LIQUIDITY": 100,
-      "SMART MONEY": 0
-    },
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
   "3ctA6DxbqXT89guFEgj76Sw5pSXkeNV8zeB1NwgzpgZ4": {
     "name": "Etch",
     "symbol": "ETCH",
@@ -22690,7 +22673,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "8ZM267dJH1w2HiQZeK659rbUPAfPexsAaEKo44EhPtPD": {
@@ -22706,7 +22690,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "GZVZVtXWHFAuu2MMZQijDmYKdfDMDND5dxNW2Xawemtv": {
@@ -25121,7 +25106,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "13nympvSP2Nkj9GuoTaePGDfWWK2qGNgKBTfKHZypump": {
@@ -25345,7 +25331,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "G6avK4fbTi6tBaPqzWT14tMbP4io3AktCVoao54zowJw": {
     "name": "The Legacy Of Jane",
@@ -25358,7 +25346,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "6FaArkemBDumnCeJXFVgkKg9xJ7chMdRuznUvSDcNMBD": {
     "name": "Super Inu",
@@ -25371,7 +25361,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "EW9JLjFNfFEFghaohkD1WjRZcSFxzWhjvqdSumbHKhKK": {
     "name": "Fuck I Should've Held",
@@ -25430,6 +25422,32 @@
     "symbol": "FIX6900",
     "flagged_ts": 1790965679,
     "liquidity_at_flag": 39277.33099272111,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "F9p39isFdg3ijsUp8JhJiPTehRFykp6MxtaFXbXzLwEP": {
+    "name": "TLC",
+    "symbol": "TLC",
+    "flagged_ts": 1790966730,
+    "liquidity_at_flag": 36432.58273889714,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "mYbrVoP92yVP3EcbEYQxZgEyXJoyVQyezvobugh3pcf": {
+    "name": "Mouse Samba",
+    "symbol": "MouseSamba",
+    "flagged_ts": 1790966731,
+    "liquidity_at_flag": 27512.453007758926,
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 60,

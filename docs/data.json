@@ -1,5 +1,5 @@
 {
-  "last_updated": 1790965681,
+  "last_updated": 1790966735,
   "wallets": [
     {
       "label": "Dev wallet 1",
@@ -9,7 +9,7 @@
   "wallet_stats": {
     "5CEbueQnq1Ym2uSSx2xXds3jQAqT1BDnkA59RZobSPAG": {
       "label": "Dev wallet 1",
-      "buy_count": 550,
+      "buy_count": 552,
       "sell_count": 269,
       "total_buy_usd": 15793.823986508765,
       "total_sell_usd": 0.0,
@@ -70,7 +70,7 @@
         "BPxxfRCXkUVhig4HS1Lh7kZqV6SPJhzfEk4x6fVBjPCy",
         "27G8MtK7VtTcCHkpASjSDdkWWYfoqT6ggEuKidVJidD4"
       ],
-      "last_active": 1790962733,
+      "last_active": 1790966728,
       "positions": {},
       "realized_pnl_usd": 0.0
     }
@@ -89,7 +89,7 @@
     "count": 2835,
     "up_count": 613,
     "total_change_pct": -155586.29928175083,
-    "rug": 2940,
+    "rug": 2941,
     "doing_well": 34,
     "steady": 17,
     "fading": 51
@@ -97,6 +97,56 @@
   "learning_insight": "Coins that rugged averaged SAFETY 73; coins that did well averaged SAFETY 94.",
   "settings": {},
   "recent_alerts": [
+    {
+      "ts": 1790966735,
+      "type": "outcome",
+      "message": "\ud83d\udfe2 Super Inu (SI) is still doing really good \u2014 up 156% so far!"
+    },
+    {
+      "ts": 1790966735,
+      "type": "outcome",
+      "message": "\ud83d\udd34 The Legacy Of Jane (Bili) is dropping fast \u2014 down 100%, may be rugging."
+    },
+    {
+      "ts": 1790966734,
+      "type": "outcome",
+      "message": "\ud83d\udd34 The Legacy Of Jane (Bili) is dropping fast \u2014 down 100%, may be rugging."
+    },
+    {
+      "ts": 1790966733,
+      "type": "outcome",
+      "message": "\ud83d\udd34 PushUpStraightHigher (STRAIGHT) is dropping fast \u2014 down 100%, may be rugging."
+    },
+    {
+      "ts": 1790966732,
+      "type": "outcome",
+      "message": "\ud83d\udd34 \ud835\udd4f/Accelerationism (\ud835\udd4f/ACC) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
+    },
+    {
+      "ts": 1790966731,
+      "type": "scanner",
+      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\nMouse Samba (MouseSamba)\nOpportunity: 76/100\n\nMOMENTUM     100\nSAFETY       60\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$27,512, 14 min since pool creation\n\u2022 Up +90% in the last hour, ~$26,281 in 24h volume (1.0x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 79% of supply (very concentrated)\n\nCA: mYbrVoP92yVP3EcbEYQxZgEyXJoyVQyezvobugh3pcf\nhttps://dexscreener.com/solana/mYbrVoP92yVP3EcbEYQxZgEyXJoyVQyezvobugh3pcf\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
+    },
+    {
+      "ts": 1790966730,
+      "type": "scanner",
+      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\nTLC (TLC)\nOpportunity: 76/100\n\nMOMENTUM     100\nSAFETY       60\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$36,433, 9 min since pool creation\n\u2022 Up +278% in the last hour, ~$69,272 in 24h volume (1.9x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 93% of supply (very concentrated)\n\nCA: F9p39isFdg3ijsUp8JhJiPTehRFykp6MxtaFXbXzLwEP\nhttps://dexscreener.com/solana/F9p39isFdg3ijsUp8JhJiPTehRFykp6MxtaFXbXzLwEP\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
+    },
+    {
+      "ts": 1790966728,
+      "type": "wallet",
+      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: GLDx -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/3ns8KHAVDCnR8kRsH5nxTbrzSuCoqBWXnx53dZHph8vwKf7mWxPSYGaSeHbeDAU3nywdoLLng7b5orARQcykRmKH"
+    },
+    {
+      "ts": 1790966728,
+      "type": "wallet",
+      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: USDC -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/3WpEwsZcSVSSh4e2CrWTq5GWg4dRRi9vumZadRb2TzkcP8gbj53GkUQ7nod9Kbks3mQRtPZ3zQrkSQLo41semyUa"
+    },
+    {
+      "ts": 1790966727,
+      "type": "wallet",
+      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: USDC -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/65pgBMRMG942UPZMwat5myGXZFmkhosWJMdpKbXyk8FPZkFKv8ayKjY9n3A7tpdtQt6oYMY8cZf7ukUMJM1ANA7A"
+    },
     {
       "ts": 1790965681,
       "type": "outcome",
@@ -296,56 +346,6 @@
       "ts": 1790960747,
       "type": "outcome",
       "message": "\ud83d\udd34 Owencoin (Owen) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
-    },
-    {
-      "ts": 1790960746,
-      "type": "scanner",
-      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\nthing (thing)\nOpportunity: 76/100\n\nMOMENTUM     100\nSAFETY       60\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$49,328, 12 min since pool creation\n\u2022 Up +189% in the last hour, ~$204,597 in 24h volume (4.1x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 91% of supply (very concentrated)\n\nCA: 8QwL8QeCUcJAmzD3xFuhdCTkzKyAjys2Pmt6rXAZkTGH\nhttps://dexscreener.com/solana/8QwL8QeCUcJAmzD3xFuhdCTkzKyAjys2Pmt6rXAZkTGH\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
-    },
-    {
-      "ts": 1790960745,
-      "type": "scanner",
-      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 STRONG\nQuants.bid (QUANT)\nOpportunity: 85/100\n\nMOMENTUM     87\nSAFETY       100\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$45,507, 11 min since pool creation\n\u2022 Up +58% in the last hour, ~$261,953 in 24h volume (5.8x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Low, 0/100):\n\u2022 No major red flags found\n\nCA: 7hLzF2ahWJKwRNrW4jGSteWBGWJ2eVMBi6BJFvaquant\nhttps://dexscreener.com/solana/7hLzF2ahWJKwRNrW4jGSteWBGWJ2eVMBi6BJFvaquant\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
-    },
-    {
-      "ts": 1790960742,
-      "type": "scanner",
-      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\nQuants.bid (QUANT)\nOpportunity: 76/100\n\nMOMENTUM     100\nSAFETY       60\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$30,985, 5 min since pool creation\n\u2022 Up +113% in the last hour, ~$83,463 in 24h volume (2.7x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 97% of supply (very concentrated)\n\nCA: BaYEFHiS5EXowXqqe6cMahSuzWHSVmFNx9C1ksAVMiBc\nhttps://dexscreener.com/solana/BaYEFHiS5EXowXqqe6cMahSuzWHSVmFNx9C1ksAVMiBc\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
-    },
-    {
-      "ts": 1790959835,
-      "type": "outcome",
-      "message": "\ud83d\udfe2 \u6258\u5e95\u5347\u7ea7+\u5e78\u8fd0\u5956\u6c60 (\u5e78\u8fd0\u732b) is still doing really good \u2014 up 66% so far!"
-    },
-    {
-      "ts": 1790959834,
-      "type": "outcome",
-      "message": "\ud83d\udd34 Cassie The Chimpanzee (Cassie) is dropping fast \u2014 down 100%, may be rugging."
-    },
-    {
-      "ts": 1790959833,
-      "type": "outcome",
-      "message": "\ud83d\udfe2 TOKEN2049 (TOKEN2049) is still doing really good \u2014 up 137% so far!"
-    },
-    {
-      "ts": 1790959832,
-      "type": "outcome",
-      "message": "\ud83d\udd34 Nikki (NIKKI) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
-    },
-    {
-      "ts": 1790959831,
-      "type": "outcome",
-      "message": "\ud83d\udd34 Super Inu (SI) turned out to be a rug \u2014 liquidity dropped 90% over 24h."
-    },
-    {
-      "ts": 1790959830,
-      "type": "scanner",
-      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\nJustice For The Troy Moose (Moose)\nOpportunity: 74/100\n\nMOMENTUM     95\nSAFETY       60\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$31,192, 7 min since pool creation\n\u2022 Up +63% in the last hour, ~$66,435 in 24h volume (2.1x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 76% of supply (very concentrated)\n\nCA: 4ecS7BKUQBf5QfboRN834crzAPUTGad7yhHj8tsTF6F3\nhttps://dexscreener.com/solana/4ecS7BKUQBf5QfboRN834crzAPUTGad7yhHj8tsTF6F3\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
-    },
-    {
-      "ts": 1790958747,
-      "type": "outcome",
-      "message": "\ud83d\udd34 Papu (PAPU) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
     }
   ]
 }
