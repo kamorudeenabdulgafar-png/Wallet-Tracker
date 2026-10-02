@@ -1,5 +1,5 @@
 {
-  "last_updated": 1790955771,
+  "last_updated": 1790956704,
   "wallets": [
     {
       "label": "Dev wallet 1",
@@ -70,7 +70,7 @@
         "BPxxfRCXkUVhig4HS1Lh7kZqV6SPJhzfEk4x6fVBjPCy",
         "27G8MtK7VtTcCHkpASjSDdkWWYfoqT6ggEuKidVJidD4"
       ],
-      "last_active": 1790951659,
+      "last_active": 1790956700,
       "positions": {},
       "realized_pnl_usd": 0.0
     }
@@ -97,6 +97,31 @@
   "learning_insight": "Coins that rugged averaged SAFETY 74; coins that did well averaged SAFETY 95.",
   "settings": {},
   "recent_alerts": [
+    {
+      "ts": 1790956704,
+      "type": "outcome",
+      "message": "\ud83d\udfe2 Anti Inu (AI) is still doing really good \u2014 up 234% so far!"
+    },
+    {
+      "ts": 1790956704,
+      "type": "outcome",
+      "message": "\ud83d\udd34 si.gov (si.gov) is dropping fast \u2014 down 100%, may be rugging."
+    },
+    {
+      "ts": 1790956703,
+      "type": "outcome",
+      "message": "\ud83d\udd34 Anti Inu (AI) is dropping fast \u2014 down 100%, may be rugging."
+    },
+    {
+      "ts": 1790956702,
+      "type": "outcome",
+      "message": "\ud83d\udfe0 OneShot Pad (OneShot) is fading \u2014 down 57% so far."
+    },
+    {
+      "ts": 1790956700,
+      "type": "wallet",
+      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: SPCXx -> SPCX\nTrade size: unknown\nBought token: SpaceX - Backpack Securities (SPCX)\nCA: SPCXxcqXj6e5dJDVNovHN8744zkbhM2bYudU45BimGb\nhttps://solscan.io/tx/2HXgVjfaZTnvkGRG255EJQRV75j2DUQWBmwggKoSceRKVVqEc3Ka8Yr45c5zGSSVpLM46LrcqiavLCRPZ6ZvnJh4"
+    },
     {
       "ts": 1790955771,
       "type": "outcome",
@@ -321,31 +346,6 @@
       "ts": 1790950487,
       "type": "wallet",
       "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: UNI -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/5NV1oCSy1i3g8k1AJe3rfMjBzKYkZ1VHyU8Ry2Lw8twf575bzFBbRJofZsrNVhENyb4ztxP1BSJDGYzo6Rho8ED1"
-    },
-    {
-      "ts": 1790950486,
-      "type": "wallet",
-      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: xHYPE -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/45L8DbiqtmhM916815TqripjN5XHQjJ3NHgJFxcjewYYpQbtXVf34jSvpSgMy6u2PULaGVptabqDnq7WsPKBMWy"
-    },
-    {
-      "ts": 1790950485,
-      "type": "wallet",
-      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: MSFTx -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/5PgrrqVcGBa4MfQ6ySmxmVFjGEjsKFZ6vuJPXCVgSDXBnT6nuQ7riZ5ArQTfpJJXjK1d8yXAYFgSYnS66XzoMi3w"
-    },
-    {
-      "ts": 1790950484,
-      "type": "wallet",
-      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: XMR -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/63WJsUNdS4dqooBNQPAq2e2cfiJ3nu5zUzwZv3yw1RxTpW8Rz9swP4eDjRE3bHkPY4im1GYbmzLhee6yPmTYVcVx"
-    },
-    {
-      "ts": 1790949532,
-      "type": "outcome",
-      "message": "\ud83d\udfe2 Socket (SOCKET) is still doing really good \u2014 up 74% so far!"
-    },
-    {
-      "ts": 1790949531,
-      "type": "outcome",
-      "message": "\ud83d\udd34 Intelligent Neural Unit (INU) is dropping fast \u2014 down 97%, may be rugging."
     }
   ]
 }
