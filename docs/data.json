@@ -1,5 +1,5 @@
 {
-  "last_updated": 1790939136,
+  "last_updated": 1790940117,
   "wallets": [
     {
       "label": "Dev wallet 1",
@@ -97,6 +97,11 @@
   "learning_insight": "Coins that rugged averaged SAFETY 73; coins that did well averaged SAFETY 95.",
   "settings": {},
   "recent_alerts": [
+    {
+      "ts": 1790940115,
+      "type": "scanner",
+      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\nVampCoin (VAMP)\nOpportunity: 76/100\n\nMOMENTUM     100\nSAFETY       60\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$34,542, 9 min since pool creation\n\u2022 Up +110% in the last hour, ~$139,298 in 24h volume (4.0x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 80% of supply (very concentrated)\n\nCA: BtrrfFTgF5EeKgChTUPfmpoLkCrwNHFoEwxX3WGdurkn\nhttps://dexscreener.com/solana/BtrrfFTgF5EeKgChTUPfmpoLkCrwNHFoEwxX3WGdurkn\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
+    },
     {
       "ts": 1790939136,
       "type": "outcome",
@@ -341,11 +346,6 @@
       "ts": 1790935515,
       "type": "outcome",
       "message": "\ud83d\udd34 Mosquito (Mosquito) turned out to be a rug \u2014 liquidity dropped 88% over 24h."
-    },
-    {
-      "ts": 1790935514,
-      "type": "outcome",
-      "message": "\ud83d\udd34 Super Inu (\u56db) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
     }
   ]
 }
