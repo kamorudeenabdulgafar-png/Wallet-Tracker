@@ -1,55 +1,4 @@
 {
-  "D9SbNccYYUvyVPF63aD6AQwp49RXkiXVVgbMnfmEKRkG": {
-    "name": "Phantom Cat",
-    "symbol": "PCAT",
-    "flagged_ts": 1790376416,
-    "liquidity_at_flag": 42252.501931958854,
-    "breakdown": {
-      "MOMENTUM": 100,
-      "SAFETY": 60,
-      "LIQUIDITY": 100,
-      "SMART MONEY": 0
-    },
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "rht5eVPHXgVDp5z4Psz9QrpLA3eZzyMoTMU4LfuMcSq": {
-    "name": "GIFT",
-    "symbol": "GIFT",
-    "flagged_ts": 1790376419,
-    "liquidity_at_flag": 37042.387670702636,
-    "breakdown": {
-      "MOMENTUM": 100,
-      "SAFETY": 60,
-      "LIQUIDITY": 100,
-      "SMART MONEY": 0
-    },
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "2EcfNjCiWWPD1UjACi2RKWwBm4hC3sxFRVJVAkfFpump": {
-    "name": "vampy",
-    "symbol": "vampy",
-    "flagged_ts": 1790376898,
-    "liquidity_at_flag": 44049.2303662569,
-    "breakdown": {
-      "MOMENTUM": 66,
-      "SAFETY": 90,
-      "LIQUIDITY": 100,
-      "SMART MONEY": 0
-    },
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
   "7pax2o5X7aWSCYm3xfAeMvhB7aXdzdWzuA6yycuAoeoZ": {
     "name": "Mintlands",
     "symbol": "MINT",
@@ -22265,7 +22214,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "7VertkgF9KLhxxJXHX6uaWuoYZTP9LdGj2bWmVXVpump": {
@@ -22281,7 +22231,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "GxPPN2V3bLdQJn3vDuqCfJQ9PjqqRdKVUxBTx5Cepump": {
@@ -24520,7 +24471,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "mYbrVoP92yVP3EcbEYQxZgEyXJoyVQyezvobugh3pcf": {
@@ -24535,7 +24487,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "74FUa5ExaiNwXM8sw9A1yNygUPT8ukhQexrZgTwSRNLs": {
@@ -24819,7 +24772,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "FDYz4p4TJYKkWW6qCMB3PFjCjycAgoq4bsSJ211upump": {
     "name": "PaperTrench",
@@ -24832,7 +24787,9 @@
       "LIQUIDITY": 99,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "JfyaeBaLuXVRQgjKe7fes5Et44m3ywmpbLnWB86DmWn": {
     "name": "Statements",
@@ -24845,7 +24802,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "CiCbvRqX3CWx1idsbvXJUtVu7r5gZnKtACA2bo5DiNHk": {
     "name": "Poopy Bot",
@@ -24858,7 +24817,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "2kszY1TvhW5EzYAvQt5bLwJWCsHBibiyTXGNcAi6vd4B": {
     "name": "INU #001",
@@ -24868,6 +24829,32 @@
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "6hTLdzZaaCjmqtn7RtaEMQsCbXT5Pg8q76tRViEGpump": {
+    "name": "Abu Shalab",
+    "symbol": "ABU",
+    "flagged_ts": 1790981775,
+    "liquidity_at_flag": 25681.718500187824,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 90,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "DcsjML99TfewNHnarcWX37drBZerR4jSzorzeSwLpump": {
+    "name": "Trumplet",
+    "symbol": "TRMPL",
+    "flagged_ts": 1790981776,
+    "liquidity_at_flag": 30748.085902869985,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 100,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
