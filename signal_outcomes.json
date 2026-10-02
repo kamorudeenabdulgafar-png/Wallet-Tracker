@@ -1,89 +1,4 @@
 {
-  "H6PTesYXD1iaMQMH8DQBDvFy3UUkH7e6wEwAu4x9adY5": {
-    "name": "running cow",
-    "symbol": "cow",
-    "flagged_ts": 1790311449,
-    "liquidity_at_flag": 25083.120596105495,
-    "breakdown": {
-      "MOMENTUM": 93,
-      "SAFETY": 60,
-      "LIQUIDITY": 100,
-      "SMART MONEY": 0
-    },
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "qGuRpmUZe6xgvq3AdCBTxzc4znNS6YfDcGPbZQpi2wh": {
-    "name": "Runfolio",
-    "symbol": "SRUN",
-    "flagged_ts": 1790311450,
-    "liquidity_at_flag": 41711.07886811772,
-    "breakdown": {
-      "MOMENTUM": 100,
-      "SAFETY": 60,
-      "LIQUIDITY": 100,
-      "SMART MONEY": 0
-    },
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "325ZUdRJfHVGKML66ZUdgYa9zhjdFtfQWvA6j9rWLLNw": {
-    "name": "\u73a9\u5e01\u5f52\u8d75",
-    "symbol": "\u73a9\u5e01\u5f52\u8d75",
-    "flagged_ts": 1790311451,
-    "liquidity_at_flag": 34954.605567627164,
-    "breakdown": {
-      "MOMENTUM": 100,
-      "SAFETY": 60,
-      "LIQUIDITY": 100,
-      "SMART MONEY": 0
-    },
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "7yeK6N4yLcce7w3bfu6v9dE5kCmpa2cCbYVRHhte3yPs": {
-    "name": "Runfolio",
-    "symbol": "SRUN",
-    "flagged_ts": 1790311452,
-    "liquidity_at_flag": 63321.36880942149,
-    "breakdown": {
-      "MOMENTUM": 100,
-      "SAFETY": 60,
-      "LIQUIDITY": 100,
-      "SMART MONEY": 0
-    },
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "38cQrUPqY8DyY9Km1yyJnZ3xfg6VbAPt75srpnAmJDqw": {
-    "name": "99 Construction",
-    "symbol": "POH",
-    "flagged_ts": 1790311453,
-    "liquidity_at_flag": 35999.80701112296,
-    "breakdown": {
-      "MOMENTUM": 100,
-      "SAFETY": 60,
-      "LIQUIDITY": 100,
-      "SMART MONEY": 0
-    },
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
   "HR4KSgoGTqmbZhaonwLm8UR2Hdupx3XCZ4NycS1SvdPk": {
     "name": "Vanguard Strategic Oil Fund",
     "symbol": "VSOF",
@@ -24135,7 +24050,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "Qi5pn98Lk27cuKqCEojHFsLj9Kq4qgkCLLJVJgZmcrQ": {
@@ -24151,7 +24067,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "EtTaptdMcgpwUDyqvza55wzmVQ7yuF41wjM99sSxpump": {
@@ -26470,7 +26387,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "Z9GLaAt22jmw9Emfv9JXDenihaNGykdGK31K25Sxa4v": {
@@ -26485,7 +26403,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "6MzJXW5yk98X7ihAXXdvLrVxBkawaJhW8sFEhiu9ca3v": {
@@ -26829,7 +26748,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "2Q36pLCYZdJU8wReQJQYGAe6jCwH9sEc71yje5T5RbXz": {
     "name": "Amazon",
@@ -26842,7 +26763,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "CygA61x9PymoA7W6LzVWG9ZfnuQCfJTJ5oW7FbAki3ac": {
     "name": "\u4e2d\u56fd\u4eba\u80fd\u98de\u706b\u7bad",
@@ -26855,7 +26778,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "FPF8ttQAoyCQferLteZyVAMJ2Ckmfc9xLq8y1UJtb3xK": {
     "name": "world wide web",
@@ -26930,6 +26855,19 @@
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 90,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "3amQiG6z4GAuFmcPEtyQUKRr1KuroVh7tr5K877ewWue": {
+    "name": "CatGPT",
+    "symbol": "CATGPT",
+    "flagged_ts": 1790917034,
+    "liquidity_at_flag": 38865.14793951724,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
