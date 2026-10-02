@@ -1,55 +1,4 @@
 {
-  "5KLnbKmYJhjAtE4ETLWy7GMBMrAdMwHoEtc3DQyWvVBi": {
-    "name": "GG Market",
-    "symbol": "GG",
-    "flagged_ts": 1790300105,
-    "liquidity_at_flag": 33850.85194420905,
-    "breakdown": {
-      "MOMENTUM": 100,
-      "SAFETY": 60,
-      "LIQUIDITY": 100,
-      "SMART MONEY": 0
-    },
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "AJptdzQJESribvtb8mNuc4ArfUz66TUxQgoenKZrpump": {
-    "name": "cummin",
-    "symbol": "cummin",
-    "flagged_ts": 1790300106,
-    "liquidity_at_flag": 27922.13028540484,
-    "breakdown": {
-      "MOMENTUM": 100,
-      "SAFETY": 90,
-      "LIQUIDITY": 100,
-      "SMART MONEY": 0
-    },
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "HujKt5e48d81UufxyrDZKATwDRLyaEQpEgzvRg43GCKq": {
-    "name": "GoCollect",
-    "symbol": "COLLECT",
-    "flagged_ts": 1790300107,
-    "liquidity_at_flag": 75006.68188307388,
-    "breakdown": {
-      "MOMENTUM": 100,
-      "SAFETY": 60,
-      "LIQUIDITY": 100,
-      "SMART MONEY": 0
-    },
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
   "BS73WVjGFbU32P3RdcfDh7Zba2iMBRqNtJCLwFAhA72M": {
     "name": "\u4e2d\u79cb\u7389\u5154",
     "symbol": "\u4e2d\u79cb\u7389\u5154",
@@ -24373,7 +24322,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "EJw6NpSbL7phPo3Rg2YLhHJs8iwpHz1AUPCgb8ws6tKT": {
@@ -26676,7 +26626,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "5wMyPqAUeDrRaJksaU326nfegwbVmxMyQjiT3tRppump": {
@@ -26691,7 +26642,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "ADpdcCfWm5upqokev59fFfY3mv943619G9ht5JQUNz4D": {
@@ -26706,7 +26658,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "8MsAwXpiTzUoaQj2cA1L4JHFqMTFofXQrHpneCKfsb4r": {
@@ -26721,7 +26674,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "AeQkfC7oca87YVHNdyMGHPWcief3NFqMYRGfYjWzpump": {
@@ -27080,7 +27034,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "FKGdipWTsvD5z8GqRn9uhMAskN7seAp2yR3Ra7Knpump": {
     "name": "Fantasy Index 6900",
@@ -27194,6 +27150,45 @@
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 100,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "56xFv3uemcYyS3g68gZa3DZcAmNVoNWnr4qg6VUELr3a": {
+    "name": "Claude Ai",
+    "symbol": "Claude",
+    "flagged_ts": 1790905149,
+    "liquidity_at_flag": 31871.493766540527,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "99KEYVN9eDEujaU4GoKjMx48fTsFveXZbdVCB2q18Xjh": {
+    "name": "Shielded Inu",
+    "symbol": "SHINU",
+    "flagged_ts": 1790905151,
+    "liquidity_at_flag": 26353.943692496185,
+    "breakdown": {
+      "MOMENTUM": 83,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "8siYRW4E4V6ibi4imSUBJ8pNCosTL8DufLm6qg4ny7KL": {
+    "name": "Super Intelligence Cat",
+    "symbol": "SIC",
+    "flagged_ts": 1790905152,
+    "liquidity_at_flag": 54519.914444038455,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
