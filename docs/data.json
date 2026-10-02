@@ -1,5 +1,5 @@
 {
-  "last_updated": 1790961795,
+  "last_updated": 1790962746,
   "wallets": [
     {
       "label": "Dev wallet 1",
@@ -70,7 +70,7 @@
         "BPxxfRCXkUVhig4HS1Lh7kZqV6SPJhzfEk4x6fVBjPCy",
         "27G8MtK7VtTcCHkpASjSDdkWWYfoqT6ggEuKidVJidD4"
       ],
-      "last_active": 1790956700,
+      "last_active": 1790962733,
       "positions": {},
       "realized_pnl_usd": 0.0
     }
@@ -89,14 +89,74 @@
     "count": 2835,
     "up_count": 613,
     "total_change_pct": -155586.29928175083,
-    "rug": 2930,
+    "rug": 2933,
     "doing_well": 34,
     "steady": 17,
-    "fading": 50
+    "fading": 51
   },
   "learning_insight": "Coins that rugged averaged SAFETY 74; coins that did well averaged SAFETY 94.",
   "settings": {},
   "recent_alerts": [
+    {
+      "ts": 1790962746,
+      "type": "outcome",
+      "message": "\ud83d\udfe2 filled.cards (FILLED) is still doing really good \u2014 up 147% so far!"
+    },
+    {
+      "ts": 1790962744,
+      "type": "outcome",
+      "message": "\ud83d\udd34 filled.cards (FILLED) is dropping fast \u2014 down 100%, may be rugging."
+    },
+    {
+      "ts": 1790962743,
+      "type": "outcome",
+      "message": "\ud83d\udd34 Trumpcoin (TRUMP) turned out to be a rug \u2014 liquidity dropped 86% over 24h."
+    },
+    {
+      "ts": 1790962742,
+      "type": "outcome",
+      "message": "\ud83d\udd34 Nikki (NIKKI) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
+    },
+    {
+      "ts": 1790962741,
+      "type": "outcome",
+      "message": "\ud83d\udfe0 Routed (Routed) faded \u2014 liquidity down 46% after 24h."
+    },
+    {
+      "ts": 1790962740,
+      "type": "outcome",
+      "message": "\ud83d\udd34 PexraFun (PEXRA) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
+    },
+    {
+      "ts": 1790962739,
+      "type": "scanner",
+      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\nSuper Inu (SI)\nOpportunity: 76/100\n\nMOMENTUM     100\nSAFETY       60\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$30,275, 11 min since pool creation\n\u2022 Up +77% in the last hour, ~$35,801 in 24h volume (1.2x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 80% of supply (very concentrated)\n\nCA: 6FaArkemBDumnCeJXFVgkKg9xJ7chMdRuznUvSDcNMBD\nhttps://dexscreener.com/solana/6FaArkemBDumnCeJXFVgkKg9xJ7chMdRuznUvSDcNMBD\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
+    },
+    {
+      "ts": 1790962738,
+      "type": "scanner",
+      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\nThe Legacy Of Jane (Bili)\nOpportunity: 73/100\n\nMOMENTUM     91\nSAFETY       60\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$33,538, 10 min since pool creation\n\u2022 Up +60% in the last hour, ~$212,181 in 24h volume (6.3x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 96% of supply (very concentrated)\n\nCA: G6avK4fbTi6tBaPqzWT14tMbP4io3AktCVoao54zowJw\nhttps://dexscreener.com/solana/G6avK4fbTi6tBaPqzWT14tMbP4io3AktCVoao54zowJw\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
+    },
+    {
+      "ts": 1790962737,
+      "type": "scanner",
+      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\nThe Legacy Of Jane (Bili)\nOpportunity: 76/100\n\nMOMENTUM     100\nSAFETY       60\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$150,229, 10 min since pool creation\n\u2022 Up +123% in the last hour, ~$1,000,370 in 24h volume (6.7x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 87% of supply (very concentrated)\n\nCA: K5YG9MVj3yZZHNxZMdRrFY4425eD1UuEoUGeftXDYmn\nhttps://dexscreener.com/solana/K5YG9MVj3yZZHNxZMdRrFY4425eD1UuEoUGeftXDYmn\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
+    },
+    {
+      "ts": 1790962734,
+      "type": "wallet",
+      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: SV151 -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/SSdDWKTNGgzx4gQF7kzGFm8L5jMeY5ZTGexUmXQGymzow7oomVge4KNGNyhJpqjC1zL7z7mHk3PnKwy1wXjaEKY"
+    },
+    {
+      "ts": 1790962733,
+      "type": "wallet",
+      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: TRUMP -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/4YPpoNQAy8XPhM34qvk8xdZXSh5Tz2iExoVoMPd9JmBa2xjMDLHbEKmWw59sirDBPR6dtQsnCy4wG8CPep5UrMvQ"
+    },
+    {
+      "ts": 1790962732,
+      "type": "wallet",
+      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: $WIF -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/2bFGKLPSm4rJsf62JDSeJ7ja8GxGtJR8yPLwpqfe3VzgnecrwaaWbsbxGsvji8JcS2i2d7FgKnA5ksn9DCGmT9qU"
+    },
     {
       "ts": 1790961795,
       "type": "outcome",
@@ -286,66 +346,6 @@
       "ts": 1790955768,
       "type": "outcome",
       "message": "\ud83d\udd34 PheasantNetwork (PNT) is dropping fast \u2014 down 100%, may be rugging."
-    },
-    {
-      "ts": 1790955767,
-      "type": "outcome",
-      "message": "\ud83d\udd34 CATPE (CATPE) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
-    },
-    {
-      "ts": 1790955766,
-      "type": "outcome",
-      "message": "\ud83d\udd34 Super Intelligence Cat (SIC) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
-    },
-    {
-      "ts": 1790955765,
-      "type": "scanner",
-      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\n\u6258\u5e95\u5347\u7ea7+\u5e78\u8fd0\u5956\u6c60 (\u5e78\u8fd0\u732b)\nOpportunity: 76/100\n\nMOMENTUM     100\nSAFETY       60\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$34,620, 15 min since pool creation\n\u2022 Up +102% in the last hour, ~$31,920 in 24h volume (0.9x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 81% of supply (very concentrated)\n\nCA: Cpe6wbvLshLGmSNGDHUcq6n39i2qLF8kcvduYkQf8mSp\nhttps://dexscreener.com/solana/Cpe6wbvLshLGmSNGDHUcq6n39i2qLF8kcvduYkQf8mSp\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
-    },
-    {
-      "ts": 1790955763,
-      "type": "scanner",
-      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\nCassie The Chimpanzee (Cassie)\nOpportunity: 76/100\n\nMOMENTUM     100\nSAFETY       60\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$46,974, 9 min since pool creation\n\u2022 Up +274% in the last hour, ~$181,134 in 24h volume (3.9x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 92% of supply (very concentrated)\n\nCA: 57kgXEjAFRpe4119XDE2zLkt7HJkvwVaz6atqgZruUG9\nhttps://dexscreener.com/solana/57kgXEjAFRpe4119XDE2zLkt7HJkvwVaz6atqgZruUG9\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
-    },
-    {
-      "ts": 1790954791,
-      "type": "outcome",
-      "message": "\ud83d\udd34 VampCoin (VAMP) is dropping fast \u2014 down 100%, may be rugging."
-    },
-    {
-      "ts": 1790954790,
-      "type": "outcome",
-      "message": "\ud83d\udfe0 lowk jelly (lowkjelly) faded \u2014 liquidity down 27% after 24h."
-    },
-    {
-      "ts": 1790954788,
-      "type": "outcome",
-      "message": "\ud83d\udd34 Flying Data Center (FDC) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
-    },
-    {
-      "ts": 1790954787,
-      "type": "outcome",
-      "message": "\ud83d\udd34 lowk jelly (lowkjelly) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
-    },
-    {
-      "ts": 1790953656,
-      "type": "outcome",
-      "message": "\ud83d\udfe0 OnionWeb (OnionWeb) is fading \u2014 down 45% so far."
-    },
-    {
-      "ts": 1790953655,
-      "type": "outcome",
-      "message": "\ud83d\udd34 OnionWeb (OnionWeb) is dropping fast \u2014 down 100%, may be rugging."
-    },
-    {
-      "ts": 1790953654,
-      "type": "outcome",
-      "message": "\ud83d\udd34 \u91d1\u9c7c\u4e5f\u6709\u673a\u4f1a\u6210\u4e3a\u9cb8\u9c7c (Gold fish) is dropping fast \u2014 down 100%, may be rugging."
-    },
-    {
-      "ts": 1790953653,
-      "type": "outcome",
-      "message": "\ud83d\udd34 RWA Street (FUND) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
     }
   ]
 }
