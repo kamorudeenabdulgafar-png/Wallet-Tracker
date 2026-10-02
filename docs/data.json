@@ -1,5 +1,5 @@
 {
-  "last_updated": 1790956704,
+  "last_updated": 1790957531,
   "wallets": [
     {
       "label": "Dev wallet 1",
@@ -89,7 +89,7 @@
     "count": 2835,
     "up_count": 613,
     "total_change_pct": -155586.29928175083,
-    "rug": 2919,
+    "rug": 2921,
     "doing_well": 33,
     "steady": 17,
     "fading": 50
@@ -97,6 +97,31 @@
   "learning_insight": "Coins that rugged averaged SAFETY 74; coins that did well averaged SAFETY 95.",
   "settings": {},
   "recent_alerts": [
+    {
+      "ts": 1790957531,
+      "type": "outcome",
+      "message": "\ud83d\udfe1 BRUME (BRUME) is holding steady so far (+25%)."
+    },
+    {
+      "ts": 1790957530,
+      "type": "outcome",
+      "message": "\ud83d\udfe2 Socket (SOCKET) is still doing really good \u2014 up 61% so far!"
+    },
+    {
+      "ts": 1790957529,
+      "type": "outcome",
+      "message": "\ud83d\udd34 Golden Goose (GG) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
+    },
+    {
+      "ts": 1790957528,
+      "type": "outcome",
+      "message": "\ud83d\udd34 Golden Goose (GG) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
+    },
+    {
+      "ts": 1790957527,
+      "type": "scanner",
+      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 EXCEPTIONAL\nJustice For The Troy Moose (Moose)\nOpportunity: 90/100\n\nMOMENTUM     100\nSAFETY       100\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$24,524, 5 min since pool creation\n\u2022 Up +117% in the last hour, ~$117,251 in 24h volume (4.8x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Low, 0/100):\n\u2022 No major red flags found\n\nCA: 6jZ7huKG82w1TrAkGAudCwBKz7LiWL4asVwBgyjCnTxh\nhttps://dexscreener.com/solana/6jZ7huKG82w1TrAkGAudCwBKz7LiWL4asVwBgyjCnTxh\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
+    },
     {
       "ts": 1790956704,
       "type": "outcome",
@@ -321,31 +346,6 @@
       "ts": 1790950492,
       "type": "outcome",
       "message": "\ud83d\udd34 Founder City (\u52a0\u5bc6\u4eba\u751f) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
-    },
-    {
-      "ts": 1790950491,
-      "type": "outcome",
-      "message": "\ud83d\udd34 breastcoin (BTC) turned out to be a rug \u2014 liquidity dropped 61% over 24h."
-    },
-    {
-      "ts": 1790950489,
-      "type": "wallet",
-      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: xSOL -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/fktRNPEEyvZQRF4pMwwafx1j5wb4K2FTkqqvaNZxMorvaPNky71kZgmjbC6fHFRH9UD82EM1C2Nxvd46C1QgqoP"
-    },
-    {
-      "ts": 1790950488,
-      "type": "wallet",
-      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: TSLAx -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/3JQ6qZFt6EWBgiW1XansESkiNHGLsT55Pr9jNttV6CYUChmWN1MAQtL2W8WQ2MyNiJz642gPzgTjUiEY3W31tAwL"
-    },
-    {
-      "ts": 1790950487,
-      "type": "wallet",
-      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: USDC -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/EgDiY6evs3pCE6MPKm7Zd5tAg7cEuWj37Fb2u6NekFrgkgvqRfqWkNS2D86pDZYwub7RvnTnbHEXFzipqXoNzMH"
-    },
-    {
-      "ts": 1790950487,
-      "type": "wallet",
-      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: UNI -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/5NV1oCSy1i3g8k1AJe3rfMjBzKYkZ1VHyU8Ry2Lw8twf575bzFBbRJofZsrNVhENyb4ztxP1BSJDGYzo6Rho8ED1"
     }
   ]
 }
