@@ -1,55 +1,4 @@
 {
-  "LnxKmGehVJKRbviSwEjVRpvwSfsaNfsdAN2okPayi5D": {
-    "name": "america.gov",
-    "symbol": "AMERICA",
-    "flagged_ts": 1790363925,
-    "liquidity_at_flag": 36437.11172055445,
-    "breakdown": {
-      "MOMENTUM": 100,
-      "SAFETY": 60,
-      "LIQUIDITY": 100,
-      "SMART MONEY": 0
-    },
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "HSTpSMBiSsPBpAnjhD7so4Hpmv687SsZcsjJsNZBHCVK": {
-    "name": "Bitget Relief Fund",
-    "symbol": "BRF",
-    "flagged_ts": 1790363926,
-    "liquidity_at_flag": 27438.95175356994,
-    "breakdown": {
-      "MOMENTUM": 84,
-      "SAFETY": 60,
-      "LIQUIDITY": 100,
-      "SMART MONEY": 0
-    },
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "46HFmg7MeaLmN6EqYeXFnTYmEhHRMgxEcaEkDiPvNpKm": {
-    "name": "Loan",
-    "symbol": "LOAN",
-    "flagged_ts": 1790364574,
-    "liquidity_at_flag": 40597.40199824296,
-    "breakdown": {
-      "MOMENTUM": 100,
-      "SAFETY": 60,
-      "LIQUIDITY": 100,
-      "SMART MONEY": 0
-    },
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
   "BhAZuBvzvEGxk2jfaQVw92LGQJg836u3fxEUxCuSpump": {
     "name": "MANDATE OF HEAVEN",
     "symbol": "MOH",
@@ -25331,7 +25280,9 @@
       "LIQUIDITY": 80,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "EA2WjSdRfUoMfgewNCQuEyZKPuHWFwsSboxeABwSwjfh": {
     "name": "Fantasy Index 6900",
@@ -25344,7 +25295,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "DMVeHCbovSKPEhq1LgWrwqmXaBkXZ6BfrnCP54PUva2x": {
     "name": "Fantasy Index 6900",
@@ -25357,7 +25310,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "F9p39isFdg3ijsUp8JhJiPTehRFykp6MxtaFXbXzLwEP": {
     "name": "TLC",
@@ -25471,6 +25426,19 @@
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "HZ4qZQJ7yf6WR1D24GLRLJ3cKUfgtJEF3B7SdLMLvCPZ": {
+    "name": "9e9.world",
+    "symbol": "9e9",
+    "flagged_ts": 1790969501,
+    "liquidity_at_flag": 24221.551605889974,
+    "breakdown": {
+      "MOMENTUM": 54,
+      "SAFETY": 90,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
