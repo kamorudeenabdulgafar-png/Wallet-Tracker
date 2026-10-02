@@ -23251,7 +23251,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "9yCoy6MbAMhdhUZtMYBNsgJuwjYiPSAQ54zmWdis2Ff7": {
@@ -23267,7 +23268,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "Bp7g623mej4m6czrPQFEfix95xexZMbSpvxccKwSiaRH": {
@@ -25874,7 +25876,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "AVL58Mn5u4LkPFAauKWrS2mLkGMeimyeCZGZvrW8pump": {
@@ -26248,7 +26251,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "BtrrfFTgF5EeKgChTUPfmpoLkCrwNHFoEwxX3WGdurkn": {
     "name": "VampCoin",
@@ -26298,6 +26303,32 @@
       "MOMENTUM": 100,
       "SAFETY": 60,
       "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "XLBLxbY1Mr7aadnqAbmqSBXLEyUdjvUXtXCnz8Mpump": {
+    "name": "Socket",
+    "symbol": "SOCKET",
+    "flagged_ts": 1790943113,
+    "liquidity_at_flag": 42515.975359761665,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 100,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "AJPertGGMDmM75fb6jiB8MPfFu61ouLDtW6UBvf3pump": {
+    "name": "BRUME",
+    "symbol": "BRUME",
+    "flagged_ts": 1790943115,
+    "liquidity_at_flag": 18840.04784606691,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 90,
+      "LIQUIDITY": 94,
       "SMART MONEY": 0
     },
     "checkpoints_done": []

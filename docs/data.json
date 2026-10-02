@@ -1,5 +1,5 @@
 {
-  "last_updated": 1790942234,
+  "last_updated": 1790943121,
   "wallets": [
     {
       "label": "Dev wallet 1",
@@ -89,7 +89,7 @@
     "count": 2835,
     "up_count": 613,
     "total_change_pct": -155586.29928175083,
-    "rug": 2899,
+    "rug": 2901,
     "doing_well": 33,
     "steady": 17,
     "fading": 49
@@ -97,6 +97,36 @@
   "learning_insight": "Coins that rugged averaged SAFETY 73; coins that did well averaged SAFETY 95.",
   "settings": {},
   "recent_alerts": [
+    {
+      "ts": 1790943121,
+      "type": "outcome",
+      "message": "\ud83d\udfe1 OnionWeb (OnionWeb) is holding steady so far (+20%)."
+    },
+    {
+      "ts": 1790943120,
+      "type": "outcome",
+      "message": "\ud83d\udfe0 brainrot (brainrot) is fading \u2014 down 52% so far."
+    },
+    {
+      "ts": 1790943119,
+      "type": "outcome",
+      "message": "\ud83d\udd34 hours (HOURS) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
+    },
+    {
+      "ts": 1790943118,
+      "type": "outcome",
+      "message": "\ud83d\udd34 Glitchjak (Glitchjak) turned out to be a rug \u2014 liquidity dropped 90% over 24h."
+    },
+    {
+      "ts": 1790943115,
+      "type": "scanner",
+      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 STRONG\nBRUME (BRUME)\nOpportunity: 85/100\n\nMOMENTUM     100\nSAFETY       90\nLIQUIDITY    94\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$18,840, 15 min since pool creation\n\u2022 Up +81% in the last hour, ~$369,366 in 24h volume (19.6x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Low, 10/100):\n\u2022 top 10 holders own 40% of supply\n\nCA: AJPertGGMDmM75fb6jiB8MPfFu61ouLDtW6UBvf3pump\nhttps://dexscreener.com/solana/AJPertGGMDmM75fb6jiB8MPfFu61ouLDtW6UBvf3pump\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
+    },
+    {
+      "ts": 1790943113,
+      "type": "scanner",
+      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 EXCEPTIONAL\nSocket (SOCKET)\nOpportunity: 90/100\n\nMOMENTUM     100\nSAFETY       100\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$42,516, 8 min since pool creation\n\u2022 Up +152% in the last hour, ~$233,562 in 24h volume (5.5x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Low, 0/100):\n\u2022 No major red flags found\n\nCA: XLBLxbY1Mr7aadnqAbmqSBXLEyUdjvUXtXCnz8Mpump\nhttps://dexscreener.com/solana/XLBLxbY1Mr7aadnqAbmqSBXLEyUdjvUXtXCnz8Mpump\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
+    },
     {
       "ts": 1790942234,
       "type": "outcome",
@@ -316,36 +346,6 @@
       "ts": 1790937641,
       "type": "outcome",
       "message": "\ud83d\udd34 Clanker (Clanker) is dropping fast \u2014 down 100%, may be rugging."
-    },
-    {
-      "ts": 1790937640,
-      "type": "outcome",
-      "message": "\ud83d\udd34 World Wide Memes (WWM) is dropping fast \u2014 down 100%, may be rugging."
-    },
-    {
-      "ts": 1790937640,
-      "type": "outcome",
-      "message": "\ud83d\udd34 MEMETRUCK (MEMETRUCK) is dropping fast \u2014 down 100%, may be rugging."
-    },
-    {
-      "ts": 1790937639,
-      "type": "outcome",
-      "message": "\ud83d\udd34 MEMETRUCK (MEMETRUCK) is dropping fast \u2014 down 100%, may be rugging."
-    },
-    {
-      "ts": 1790937638,
-      "type": "outcome",
-      "message": "\ud83d\udfe0 IRL3 (IRL3) is fading \u2014 down 22% so far."
-    },
-    {
-      "ts": 1790937638,
-      "type": "outcome",
-      "message": "\ud83d\udd34 VALOR (VALOR) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
-    },
-    {
-      "ts": 1790937637,
-      "type": "outcome",
-      "message": "\ud83d\udd34 Super Intelligence Cat (SIC) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
     }
   ]
 }
