@@ -1,5 +1,5 @@
 {
-  "last_updated": 1790978307,
+  "last_updated": 1790979087,
   "wallets": [
     {
       "label": "Dev wallet 1",
@@ -70,7 +70,7 @@
         "BPxxfRCXkUVhig4HS1Lh7kZqV6SPJhzfEk4x6fVBjPCy",
         "27G8MtK7VtTcCHkpASjSDdkWWYfoqT6ggEuKidVJidD4"
       ],
-      "last_active": 1790978303,
+      "last_active": 1790979082,
       "positions": {},
       "realized_pnl_usd": 0.0
     }
@@ -97,6 +97,26 @@
   "learning_insight": "Coins that rugged averaged SAFETY 74; coins that did well averaged SAFETY 93.",
   "settings": {},
   "recent_alerts": [
+    {
+      "ts": 1790979087,
+      "type": "outcome",
+      "message": "\ud83d\udfe1 Agency (Agency) is holding steady so far (+12%)."
+    },
+    {
+      "ts": 1790979086,
+      "type": "outcome",
+      "message": "\ud83d\udd34 PAL (PAL) is dropping fast \u2014 down 100%, may be rugging."
+    },
+    {
+      "ts": 1790979085,
+      "type": "outcome",
+      "message": "\ud83d\udd34 Fuck I Should've Held (FISH) is dropping fast \u2014 down 100%, may be rugging."
+    },
+    {
+      "ts": 1790979083,
+      "type": "wallet",
+      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: XMR -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/3WZZ4iP6Y1WVBBudsVxCf7v56P9ggTzRoGK2mxhT3gYwCuBdjP28g5egZykHX5x8GSdfsrdp8onnkWK5b65pCEbM"
+    },
     {
       "ts": 1790978307,
       "type": "outcome",
@@ -326,26 +346,6 @@
       "ts": 1790974665,
       "type": "scanner",
       "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\nPUMPFUN ARMY (ARMY)\nOpportunity: 70/100\n\nMOMENTUM     53\nSAFETY       90\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$20,202, 6 min since pool creation\n\u2022 Up +35% in the last hour, ~$55,982 in 24h volume (2.8x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Low, 10/100):\n\u2022 top 10 holders own 31% of supply\n\nCA: PFCy4bbBV65EkEbxWyqHjq5Sx6XCGG9AThczD8Dpump\nhttps://dexscreener.com/solana/PFCy4bbBV65EkEbxWyqHjq5Sx6XCGG9AThczD8Dpump\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
-    },
-    {
-      "ts": 1790973939,
-      "type": "outcome",
-      "message": "\ud83d\udfe1 9e9.world (9e9) is holding steady so far (+23%)."
-    },
-    {
-      "ts": 1790973939,
-      "type": "outcome",
-      "message": "\ud83d\udfe2 filled.cards (FILLED) is still doing really good \u2014 up 125% so far!"
-    },
-    {
-      "ts": 1790973938,
-      "type": "outcome",
-      "message": "\ud83d\udd34 filled.cards (FILLED) is dropping fast \u2014 down 100%, may be rugging."
-    },
-    {
-      "ts": 1790973937,
-      "type": "outcome",
-      "message": "\ud83d\udd34 Roach (ROACH) turned out to be a rug \u2014 liquidity dropped 92% over 24h."
     }
   ]
 }
