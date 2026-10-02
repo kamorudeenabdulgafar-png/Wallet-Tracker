@@ -1,5 +1,5 @@
 {
-  "last_updated": 1790911430,
+  "last_updated": 1790912455,
   "wallets": [
     {
       "label": "Dev wallet 1",
@@ -9,7 +9,7 @@
   "wallet_stats": {
     "5CEbueQnq1Ym2uSSx2xXds3jQAqT1BDnkA59RZobSPAG": {
       "label": "Dev wallet 1",
-      "buy_count": 525,
+      "buy_count": 531,
       "sell_count": 263,
       "total_buy_usd": 15793.823986508765,
       "total_sell_usd": 0.0,
@@ -70,7 +70,7 @@
         "BPxxfRCXkUVhig4HS1Lh7kZqV6SPJhzfEk4x6fVBjPCy",
         "27G8MtK7VtTcCHkpASjSDdkWWYfoqT6ggEuKidVJidD4"
       ],
-      "last_active": 1790909485,
+      "last_active": 1790912453,
       "positions": {},
       "realized_pnl_usd": 0.0
     }
@@ -97,6 +97,46 @@
   "learning_insight": "Coins that rugged averaged SAFETY 73; coins that did well averaged SAFETY 95.",
   "settings": {},
   "recent_alerts": [
+    {
+      "ts": 1790912453,
+      "type": "wallet",
+      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: USDC -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/4SNhp7T44NX4Dn38Qx4QcsWC7uN1hrxJADHFSg8aa23syMzhvA8KaV85rNd3uarDQZCXofVas6HxDLP8pJaFSrNu"
+    },
+    {
+      "ts": 1790912453,
+      "type": "wallet",
+      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: USDC -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/5ouFhrmfNtZtxDWmwaXtsps8CNgQsGvsiPQ4iRBp2i343Fpb4KHeLJwo1vJ2R6bc8j9tyNkGFsfkex7tFPcTUwhj"
+    },
+    {
+      "ts": 1790912452,
+      "type": "wallet",
+      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: USDC -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/s9aAS3XwusnSBaKBnkbjTx11r13BfsN3D9XgyQQvCiJNzRSBBDyD7ggXtpYA4zKZVzGkb4Go5CW5KaaoMapUqse"
+    },
+    {
+      "ts": 1790912452,
+      "type": "wallet",
+      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: USDC -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/3UwXmqx4XMQV1KH2onoh1xr8gQDUZQzetNAqfUov1RaGugZk4gAejxBkVdd92ZMmNNBCrDogbHFxS8DzGxiKDGqo"
+    },
+    {
+      "ts": 1790912451,
+      "type": "wallet",
+      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: USDC -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/3iJmBivxFffKehNiBRDNFbbdNwzi81h5KW7sap9MAU9Qs2pUQiKGQVKtbqM8xKS1evTXcfAvmHTSmV8NtDX5BCsS"
+    },
+    {
+      "ts": 1790912451,
+      "type": "wallet",
+      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: USDC -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/zzGM5eaW685jraUMXkhwR3j68HjHNYJ3hNXp6C6JNwEHqj7jgoG5Gjug8AJX5oFVJ38GyL1vm6UR67SwyaYcP9U"
+    },
+    {
+      "ts": 1790912450,
+      "type": "wallet",
+      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: SPCXx -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/3eA8a7nUxuGhyznSouYDSiAu72CqE8P54RZAusomdmumMmpGGHY4Ar78XGSC537Ji3RyMwDhW1L1p7pAMavQb7h7"
+    },
+    {
+      "ts": 1790912449,
+      "type": "wallet",
+      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: AAPLx -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/48DecDURRwnCxe7AuvJbb9LwMwma92pHW77pobWnhDU1rqp8zjp7DuqMEpoQus5YNGv5cyrZog2i1hPYeMjfUpYH"
+    },
     {
       "ts": 1790911430,
       "type": "outcome",
@@ -306,46 +346,6 @@
       "ts": 1790908728,
       "type": "wallet",
       "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: ORE -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/5UypGXcefgMDuRQnEpiGJm1ewRV7jJZwe97LxTKWSZfVhrAcY4Md9chem3Sdf6GaoRtyxY63M9s8ASc2vqpdgfVY"
-    },
-    {
-      "ts": 1790907726,
-      "type": "outcome",
-      "message": "\ud83d\udd34 Lucas The Pug (LUCAS) is dropping fast \u2014 down 63%, may be rugging."
-    },
-    {
-      "ts": 1790907726,
-      "type": "outcome",
-      "message": "\ud83d\udfe1 Commander Vrax (VRAX) is holding steady so far (+29%)."
-    },
-    {
-      "ts": 1790907725,
-      "type": "outcome",
-      "message": "\ud83d\udfe2 Shielded Inu (SHINU) is still doing really good \u2014 up 76% so far!"
-    },
-    {
-      "ts": 1790907724,
-      "type": "outcome",
-      "message": "\ud83d\udfe2 Invisible, Nameless, Untraceable (INU) is still doing really good \u2014 up 115% so far!"
-    },
-    {
-      "ts": 1790907723,
-      "type": "outcome",
-      "message": "\ud83d\udfe0 Fantasy Index 6900 (FIX6900) is fading \u2014 down 36% so far."
-    },
-    {
-      "ts": 1790907723,
-      "type": "scanner",
-      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\nBread (BREAD)\nOpportunity: 76/100\n\nMOMENTUM     100\nSAFETY       60\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$126,858, 18 min since pool creation\n\u2022 Up +104% in the last hour, ~$2,152,753 in 24h volume (17.0x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 97% of supply (very concentrated)\n\nCA: BasHWMZVwUFJbJS9hwmhqM7KcTthFpzSexUpxR5TKdEA\nhttps://dexscreener.com/solana/BasHWMZVwUFJbJS9hwmhqM7KcTthFpzSexUpxR5TKdEA\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
-    },
-    {
-      "ts": 1790907722,
-      "type": "scanner",
-      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\nSuper Intelligence Cat (SIC)\nOpportunity: 76/100\n\nMOMENTUM     100\nSAFETY       60\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$55,390, 16 min since pool creation\n\u2022 Up +77% in the last hour, ~$49,247 in 24h volume (0.9x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 79% of supply (very concentrated)\n\nCA: HDpWk551TcKggdswpRcgq35dCgCzzSZ15qUpM856FqSa\nhttps://dexscreener.com/solana/HDpWk551TcKggdswpRcgq35dCgCzzSZ15qUpM856FqSa\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
-    },
-    {
-      "ts": 1790906792,
-      "type": "outcome",
-      "message": "\ud83d\udd34 Ramcat (RAMCAT) is dropping fast \u2014 down 100%, may be rugging."
     }
   ]
 }
