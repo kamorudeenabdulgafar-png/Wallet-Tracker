@@ -24084,7 +24084,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "8rnmh9CVp56sfEYwjiJ3WCNgkJYPbhcPqrhb5T3Ufgch": {
@@ -24100,7 +24101,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "AneMgAkhe74aZaPLEPssAheXVwWaEP5Ab7QxUaHyXCz4": {
@@ -26435,7 +26437,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "DdRNCcMcSQjqUGMZsyfqSYrUYsTUCmKvtEgQDr4xMCsM": {
@@ -26450,7 +26453,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "86aKHbBtdDc9wWvJxuqD4FZHBG5LafqNWq3mwDbELD7A": {
@@ -26465,7 +26469,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "J2AygNiQAkvucTLDja1W1L4VxAT4QvtorAHBqXdcpump": {
@@ -26480,7 +26485,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "1G4zZWw22apdx9VxqthrTLpvRMXjtCmRUUymuvfNysP": {
@@ -26854,7 +26860,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "ExAbqxywDahwMreZMFrgUwarw6Cgxp6e6FuKdsTw9VXq": {
     "name": "world wide web",
@@ -26900,6 +26908,58 @@
     "symbol": "www",
     "flagged_ts": 1790914246,
     "liquidity_at_flag": 24234.356212806895,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "2i3gBUsTXj4XmcvUTNL1znHx3cuPU1fuQe46h1dr6oFy": {
+    "name": "world wide web",
+    "symbol": "www",
+    "flagged_ts": 1790915218,
+    "liquidity_at_flag": 32069.46599310026,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "HFmqDN4HYT2Z1fA4ZCpa8JQbPqbwexZdkk6a8Y9gcKnW": {
+    "name": "had to take profits sir",
+    "symbol": "https",
+    "flagged_ts": 1790915220,
+    "liquidity_at_flag": 20668.243203011487,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 90,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "FEPqFcLZQsN68QEng5dmBomUBAN7JWWZ9AsNMQ7hmmNS": {
+    "name": "CatGPT",
+    "symbol": "CATGPT",
+    "flagged_ts": 1790915221,
+    "liquidity_at_flag": 33512.927314597444,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "2AcWexgyjNxTjzJhpxPnQ7nEEziwur8SNere3QuUeYXX": {
+    "name": "world wide web",
+    "symbol": "www",
+    "flagged_ts": 1790915222,
+    "liquidity_at_flag": 54612.39086482517,
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 60,
