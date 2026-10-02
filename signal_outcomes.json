@@ -1,72 +1,4 @@
 {
-  "6VEAgjgMbnyNAo5WTcZAGKbDF4izF6VbfExUuewVegvq": {
-    "name": "LESGO",
-    "symbol": "GO",
-    "flagged_ts": 1790322558,
-    "liquidity_at_flag": 46775.994857225174,
-    "breakdown": {
-      "MOMENTUM": 87,
-      "SAFETY": 60,
-      "LIQUIDITY": 100,
-      "SMART MONEY": 0
-    },
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "8NHMCoBLK5HCg9vPGNuBYQLG6fQoxf3cQj46EKokpump": {
-    "name": "Clocked Out",
-    "symbol": "CLOCKOUT",
-    "flagged_ts": 1790322559,
-    "liquidity_at_flag": 40382.94305411764,
-    "breakdown": {
-      "MOMENTUM": 100,
-      "SAFETY": 100,
-      "LIQUIDITY": 100,
-      "SMART MONEY": 0
-    },
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "2saGqopCutBu7vpvHQV5ggCN18yT9jWAi38oidD54ACD": {
-    "name": "Bob's Bear",
-    "symbol": "Bob's Bear",
-    "flagged_ts": 1790322560,
-    "liquidity_at_flag": 56166.60892480444,
-    "breakdown": {
-      "MOMENTUM": 100,
-      "SAFETY": 60,
-      "LIQUIDITY": 100,
-      "SMART MONEY": 0
-    },
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "7pWPacQrTok9w573sN6wZLNF9A2hogkMB8jLbg3zXgGB": {
-    "name": "\u5e01\u5b89\u7389\u5154",
-    "symbol": "\u5e01\u5b89\u7389\u5154",
-    "flagged_ts": 1790322561,
-    "liquidity_at_flag": 34403.40124649489,
-    "breakdown": {
-      "MOMENTUM": 100,
-      "SAFETY": 60,
-      "LIQUIDITY": 100,
-      "SMART MONEY": 0
-    },
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
   "Jn2z8ydCNH69P3cBtHXd4D5UtTszBWRqYH2dQT428xB": {
     "name": "GoCollect",
     "symbol": "COLLECT",
@@ -23829,7 +23761,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "AG72kGPZ3RBPaNGStCfW1JzKptAvKcVvW2mHMJp7pump": {
@@ -23845,7 +23778,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "GAjj7H4bNUN9U7SZDNfvLskTY9sPyzKDESNr2RGiYnZ3": {
@@ -23861,7 +23795,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "37asuKEQ6hBJHeHF9iLaoT3fYxTci7KSru1RanKNRigg": {
@@ -23877,7 +23812,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "H7nYiTGpcLs4FJnbvz9iKhEuANXRwMySF71wr1Vjr3YX": {
@@ -23893,7 +23829,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "7DWa9SKcNiRzCp1WTgCKG7D7mDoQG5LYWnumGCdNuLyb": {
@@ -26708,7 +26645,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "D8VEzDYBNauhTh9LaCKeTHRok5vVyKoDLSASbdy7Nai4": {
     "name": "offline",
@@ -26721,7 +26660,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "CpAkoSXHfqct57QwpSXkkfbfJLBLyqEWWSddkMXrvtM7": {
     "name": "Anon",
@@ -26734,7 +26675,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "9GUgY6xKNEM5JCRcapr86od9KxZ6V5y1EdyQ9ENKmz4i": {
     "name": "Anon",
@@ -26747,7 +26690,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "fqpSFb584W5F4BxEC8WAPCJVoG9HvUKUyC4mroPf8GD": {
     "name": "Hot Bot",
@@ -26821,6 +26766,19 @@
     "liquidity_at_flag": 55193.206115309426,
     "breakdown": {
       "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "AxoJNWN85tsUmfqx9wUDbwjJZJukM4S9UDhjfmoX2AkV": {
+    "name": "\u767e\u500d\u571f\u72d7",
+    "symbol": "\u65fa\u4ed4",
+    "flagged_ts": 1790927629,
+    "liquidity_at_flag": 32493.623698904332,
+    "breakdown": {
+      "MOMENTUM": 97,
       "SAFETY": 60,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
