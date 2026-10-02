@@ -1,5 +1,5 @@
 {
-  "last_updated": 1790912455,
+  "last_updated": 1790913439,
   "wallets": [
     {
       "label": "Dev wallet 1",
@@ -89,7 +89,7 @@
     "count": 2835,
     "up_count": 613,
     "total_change_pct": -155586.29928175083,
-    "rug": 2855,
+    "rug": 2856,
     "doing_well": 33,
     "steady": 16,
     "fading": 49
@@ -97,6 +97,51 @@
   "learning_insight": "Coins that rugged averaged SAFETY 73; coins that did well averaged SAFETY 95.",
   "settings": {},
   "recent_alerts": [
+    {
+      "ts": 1790913439,
+      "type": "outcome",
+      "message": "\ud83d\udd34 Ramcat (RAMCAT) is dropping fast \u2014 down 100%, may be rugging."
+    },
+    {
+      "ts": 1790913438,
+      "type": "outcome",
+      "message": "\ud83d\udfe0 Pocket Slabs (SLABS) is fading \u2014 down 57% so far."
+    },
+    {
+      "ts": 1790913437,
+      "type": "outcome",
+      "message": "\ud83d\udd34 Super cockroach (SCOC) is dropping fast \u2014 down 91%, may be rugging."
+    },
+    {
+      "ts": 1790913436,
+      "type": "outcome",
+      "message": "\ud83d\udd34 Funded (Funded) is dropping fast \u2014 down 100%, may be rugging."
+    },
+    {
+      "ts": 1790913435,
+      "type": "outcome",
+      "message": "\ud83d\udd34 Ramcat (RAMCAT) is dropping fast \u2014 down 100%, may be rugging."
+    },
+    {
+      "ts": 1790913434,
+      "type": "outcome",
+      "message": "\ud83d\udd34 Ajax (Ajax) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
+    },
+    {
+      "ts": 1790913433,
+      "type": "scanner",
+      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\n\u4e2d\u56fd\u4eba\u80fd\u98de\u706b\u7bad (\u4e2d\u56fd\u4eba\u80fd\u98de)\nOpportunity: 76/100\n\nMOMENTUM     100\nSAFETY       60\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$35,125, 16 min since pool creation\n\u2022 Up +76% in the last hour, ~$280,512 in 24h volume (8.0x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 81% of supply (very concentrated)\n\nCA: CygA61x9PymoA7W6LzVWG9ZfnuQCfJTJ5oW7FbAki3ac\nhttps://dexscreener.com/solana/CygA61x9PymoA7W6LzVWG9ZfnuQCfJTJ5oW7FbAki3ac\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
+    },
+    {
+      "ts": 1790913431,
+      "type": "scanner",
+      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\nAmazon (Amazon)\nOpportunity: 75/100\n\nMOMENTUM     98\nSAFETY       60\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$56,575, 16 min since pool creation\n\u2022 Up +65% in the last hour, ~$51,899 in 24h volume (0.9x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 78% of supply (very concentrated)\n\nCA: 2Q36pLCYZdJU8wReQJQYGAe6jCwH9sEc71yje5T5RbXz\nhttps://dexscreener.com/solana/2Q36pLCYZdJU8wReQJQYGAe6jCwH9sEc71yje5T5RbXz\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
+    },
+    {
+      "ts": 1790913430,
+      "type": "scanner",
+      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\nworld wide web (www)\nOpportunity: 76/100\n\nMOMENTUM     100\nSAFETY       60\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$67,036, 15 min since pool creation\n\u2022 Up +251% in the last hour, ~$443,585 in 24h volume (6.6x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 88% of supply (very concentrated)\n\nCA: ExAbqxywDahwMreZMFrgUwarw6Cgxp6e6FuKdsTw9VXq\nhttps://dexscreener.com/solana/ExAbqxywDahwMreZMFrgUwarw6Cgxp6e6FuKdsTw9VXq\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
+    },
     {
       "ts": 1790912453,
       "type": "wallet",
@@ -301,51 +346,6 @@
       "ts": 1790909483,
       "type": "wallet",
       "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: LIT -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/EgfAfQfdpg1StJpipsGdQHehGjGGoTxrzoaNjY7hX81NSRT5iNV9kHYZNfrbkvtNaFdBcNQ4qjy7sKkMZdXPmcP"
-    },
-    {
-      "ts": 1790908736,
-      "type": "outcome",
-      "message": "\ud83d\udd34 Blood Fomo (blofomo) is dropping fast \u2014 down 94%, may be rugging."
-    },
-    {
-      "ts": 1790908735,
-      "type": "outcome",
-      "message": "\ud83d\udd34 PexraFun (PEXRA) is dropping fast \u2014 down 100%, may be rugging."
-    },
-    {
-      "ts": 1790908734,
-      "type": "outcome",
-      "message": "\ud83d\udd34 Private Inu (PI) is dropping fast \u2014 down 74%, may be rugging."
-    },
-    {
-      "ts": 1790908733,
-      "type": "outcome",
-      "message": "\ud83d\udd34 HOOKED WOJAK (HOOKEDJAK) is dropping fast \u2014 down 91%, may be rugging."
-    },
-    {
-      "ts": 1790908733,
-      "type": "outcome",
-      "message": "\ud83d\udd34 Fantasy Index 6900 (FIX6900) is dropping fast \u2014 down 89%, may be rugging."
-    },
-    {
-      "ts": 1790908732,
-      "type": "outcome",
-      "message": "\ud83d\udd34 Fantasy Index 6900 (FIX6900) is dropping fast \u2014 down 100%, may be rugging."
-    },
-    {
-      "ts": 1790908731,
-      "type": "outcome",
-      "message": "\ud83d\udd34 Trump Tuna (TUNA) is dropping fast \u2014 down 79%, may be rugging."
-    },
-    {
-      "ts": 1790908730,
-      "type": "scanner",
-      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\nMoonlet (MOONLET)\nOpportunity: 76/100\n\nMOMENTUM     100\nSAFETY       60\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$32,286, 8 min since pool creation\n\u2022 Up +92% in the last hour, ~$112,855 in 24h volume (3.5x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 79% of supply (very concentrated)\n\nCA: JAx8frVwFthwfSR3Me3MirDC9oi8xLM6iqL73o5zJduK\nhttps://dexscreener.com/solana/JAx8frVwFthwfSR3Me3MirDC9oi8xLM6iqL73o5zJduK\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
-    },
-    {
-      "ts": 1790908728,
-      "type": "wallet",
-      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: ORE -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/5UypGXcefgMDuRQnEpiGJm1ewRV7jJZwe97LxTKWSZfVhrAcY4Md9chem3Sdf6GaoRtyxY63M9s8ASc2vqpdgfVY"
     }
   ]
 }
