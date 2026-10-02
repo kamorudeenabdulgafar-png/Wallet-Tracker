@@ -22163,7 +22163,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "zBm2fF4sucpS18N9DKkUKUyqB1em9mZ8Am99pNQB1g6": {
@@ -24820,6 +24821,19 @@
     "symbol": "OpenSea",
     "flagged_ts": 1790984769,
     "liquidity_at_flag": 70662.12955028629,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 100,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "HPcL5AHbrhPp4y5ewZWMTZRA3AQT32NuAuXBgAjvpump": {
+    "name": "Meme Accelerationism",
+    "symbol": "m/acc",
+    "flagged_ts": 1790985340,
+    "liquidity_at_flag": 30480.595131378705,
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 100,
