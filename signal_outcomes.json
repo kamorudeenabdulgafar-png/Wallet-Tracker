@@ -1,38 +1,4 @@
 {
-  "Echspq9eXz1ozaw2ADQSMLhn5s2QqB1zdpMJkxkMV8zv": {
-    "name": "Doppler Finance",
-    "symbol": "XDP",
-    "flagged_ts": 1790326074,
-    "liquidity_at_flag": 61247.67224757783,
-    "breakdown": {
-      "MOMENTUM": 100,
-      "SAFETY": 60,
-      "LIQUIDITY": 100,
-      "SMART MONEY": 0
-    },
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "6Cw4kWUaZHmh71E3YRiHFRvLA28EiYp4Px2GkUrXfvWM": {
-    "name": "Shillpad",
-    "symbol": "Shillpad",
-    "flagged_ts": 1790326075,
-    "liquidity_at_flag": 36896.23900247444,
-    "breakdown": {
-      "MOMENTUM": 100,
-      "SAFETY": 100,
-      "LIQUIDITY": 100,
-      "SMART MONEY": 0
-    },
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
   "14LKB2UB9xqBgQyXdU7ikFUn4PWmdavbD8WZFjB7Cvcu": {
     "name": "TikTok US",
     "symbol": "TIKTOK",
@@ -26211,7 +26177,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "3amQiG6z4GAuFmcPEtyQUKRr1KuroVh7tr5K877ewWue": {
@@ -26705,7 +26672,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "85QAKMntNJmM8aKxBBHiwczs1jyHFBHnF4WjZBrDhc42": {
     "name": "brainrot",
@@ -26803,6 +26772,32 @@
     "symbol": "REVENUE",
     "flagged_ts": 1790930437,
     "liquidity_at_flag": 51665.663874503894,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "3ScSBeVk3GJmP6VnQf2xhq8iNXQRXVg8Arafye3DNxtX": {
+    "name": "One Life Its Worth An Attempt",
+    "symbol": "WORTH",
+    "flagged_ts": 1790931422,
+    "liquidity_at_flag": 73471.13804462989,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 75,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "9cbx214CiB7T3qJh9BkSA2odf8iAp3bXnCJLSnLHaQoi": {
+    "name": "PexraFun",
+    "symbol": "PEXRA",
+    "flagged_ts": 1790931423,
+    "liquidity_at_flag": 51153.47554566337,
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 60,
