@@ -1,5 +1,5 @@
 {
-  "last_updated": 1790947605,
+  "last_updated": 1790948576,
   "wallets": [
     {
       "label": "Dev wallet 1",
@@ -70,7 +70,7 @@
         "BPxxfRCXkUVhig4HS1Lh7kZqV6SPJhzfEk4x6fVBjPCy",
         "27G8MtK7VtTcCHkpASjSDdkWWYfoqT6ggEuKidVJidD4"
       ],
-      "last_active": 1790945705,
+      "last_active": 1790948567,
       "positions": {},
       "realized_pnl_usd": 0.0
     }
@@ -89,7 +89,7 @@
     "count": 2835,
     "up_count": 613,
     "total_change_pct": -155586.29928175083,
-    "rug": 2904,
+    "rug": 2906,
     "doing_well": 33,
     "steady": 17,
     "fading": 49
@@ -97,6 +97,41 @@
   "learning_insight": "Coins that rugged averaged SAFETY 74; coins that did well averaged SAFETY 95.",
   "settings": {},
   "recent_alerts": [
+    {
+      "ts": 1790948576,
+      "type": "outcome",
+      "message": "\ud83d\udfe2 TOKEN2049 (TOKEN2049) is still doing really good \u2014 up 42% so far!"
+    },
+    {
+      "ts": 1790948575,
+      "type": "outcome",
+      "message": "\ud83d\udd34 Clanker (Clanker) is dropping fast \u2014 down 100%, may be rugging."
+    },
+    {
+      "ts": 1790948574,
+      "type": "outcome",
+      "message": "\ud83d\udd34 World Wide Memes (WWM) is dropping fast \u2014 down 100%, may be rugging."
+    },
+    {
+      "ts": 1790948573,
+      "type": "outcome",
+      "message": "\ud83d\udd34 I Am Jane Doe (Jane) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
+    },
+    {
+      "ts": 1790948572,
+      "type": "outcome",
+      "message": "\ud83d\udd34 I Am Jane Doe (Jane) turned out to be a rug \u2014 liquidity dropped 87% over 24h."
+    },
+    {
+      "ts": 1790948570,
+      "type": "scanner",
+      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\nThe Library of Pump.Fun (Library)\nOpportunity: 71/100\n\nMOMENTUM     85\nSAFETY       60\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$39,017, 7 min since pool creation\n\u2022 Up +56% in the last hour, ~$15,998 in 24h volume (0.4x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 82% of supply (very concentrated)\n\nCA: 4sBUHXMbBPHmGhLaUTYdCc6VtHw6iPYhXSUSaUTm6s9h\nhttps://dexscreener.com/solana/4sBUHXMbBPHmGhLaUTYdCc6VtHw6iPYhXSUSaUTm6s9h\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
+    },
+    {
+      "ts": 1790948568,
+      "type": "wallet",
+      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: MASK -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/3XpVbwSRM1nMKJps96gfgUGAe2ACZkyhHMGyf1vNXAwuWfv8d1QVC3K3xq3FXyDhq4qNGWS6sqet3zZeDZZaQswb"
+    },
     {
       "ts": 1790947604,
       "type": "outcome",
@@ -311,41 +346,6 @@
       "ts": 1790941230,
       "type": "outcome",
       "message": "\ud83d\udd34 Super Intelligence Cat (SIC) is dropping fast \u2014 down 100%, may be rugging."
-    },
-    {
-      "ts": 1790941229,
-      "type": "outcome",
-      "message": "\ud83d\udd34 Dead Internet Theory (DIT) is dropping fast \u2014 down 68%, may be rugging."
-    },
-    {
-      "ts": 1790941228,
-      "type": "outcome",
-      "message": "\ud83d\udd34 MOMO (MOMO) is dropping fast \u2014 down 100%, may be rugging."
-    },
-    {
-      "ts": 1790941227,
-      "type": "outcome",
-      "message": "\ud83d\udd34 PUZZLE (PUZZLE) turned out to be a rug \u2014 liquidity dropped 88% over 24h."
-    },
-    {
-      "ts": 1790941227,
-      "type": "outcome",
-      "message": "\ud83d\udd34 Super Intelligence Cat (SIC) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
-    },
-    {
-      "ts": 1790941226,
-      "type": "outcome",
-      "message": "\ud83d\udd34 cockroach (cockroach) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
-    },
-    {
-      "ts": 1790941225,
-      "type": "outcome",
-      "message": "\ud83d\udd34 Pepe Down Bad (PDB) turned out to be a rug \u2014 liquidity dropped 86% over 24h."
-    },
-    {
-      "ts": 1790941224,
-      "type": "outcome",
-      "message": "\ud83d\udd34 Backpack Bear 89 (backpack) turned out to be a rug \u2014 liquidity dropped 85% over 24h."
     }
   ]
 }
