@@ -1,18 +1,5 @@
 [
   {
-    "name": "Tsukicoin",
-    "symbol": "TSUKI",
-    "category": "rug",
-    "change_pct": -89.1,
-    "breakdown": {
-      "MOMENTUM": 65,
-      "SAFETY": 90,
-      "LIQUIDITY": 100,
-      "SMART MONEY": 0
-    },
-    "ts": 1790784007
-  },
-  {
     "name": "Tsuki",
     "symbol": "TSUKI",
     "category": "rug",
@@ -3898,5 +3885,18 @@
       "SMART MONEY": 0
     },
     "ts": 1790964449
+  },
+  {
+    "name": "Network error",
+    "symbol": "N-ERROR",
+    "category": "rug",
+    "change_pct": -100.0,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "ts": 1790965680
   }
 ]
