@@ -1,38 +1,4 @@
 {
-  "9XFJmZUoVGDLJmWw8tYAgQWasgHQRv5rC9fZFXrqvNt": {
-    "name": "Latrinas",
-    "symbol": "Latrina",
-    "flagged_ts": 1790297832,
-    "liquidity_at_flag": 27077.759222984743,
-    "breakdown": {
-      "MOMENTUM": 88,
-      "SAFETY": 60,
-      "LIQUIDITY": 100,
-      "SMART MONEY": 0
-    },
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "FCzrePTURSdS44x2w2siE9BguAHs7BaCyKeCPp42SfjJ": {
-    "name": "LESGO",
-    "symbol": "GO",
-    "flagged_ts": 1790297832,
-    "liquidity_at_flag": 88821.61092448498,
-    "breakdown": {
-      "MOMENTUM": 100,
-      "SAFETY": 60,
-      "LIQUIDITY": 100,
-      "SMART MONEY": 0
-    },
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
   "5aL8e14oZ1RWzZR9R6gmjpxQuRCX29bW9wPGhy4Hpump": {
     "name": "SolRain",
     "symbol": "SOLRAIN",
@@ -24373,7 +24339,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "79rbaxRXKm7mbNRiBzroyZAvX4Yv1KyR57eiUvEgFaQe": {
@@ -24389,7 +24356,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "3WL7zvE1PtXFGS7La6eLrD6EsQDuiW5bCD8gUdP5KG9v": {
@@ -26660,7 +26628,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "kNy8FCzyAunNeM6Zi4MGc8MmwiN61ULy4wFcjXD9soX": {
@@ -26675,7 +26644,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "AqGo3KreWe369v8D5ZAxjqBvnv5xp4uHezr9T4MdqWq3": {
@@ -27004,7 +26974,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "G9MVeAUrBy7WN7GsNFPU74oqe5MBDoSbKqPvTQJtpump": {
     "name": "Super cockroach",
@@ -27017,7 +26989,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "uPnLjPVtyJ359VMyEC6Kp1suDix79KSh1JzZvPhpump": {
     "name": "Pocket Slabs",
@@ -27030,7 +27004,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "CxqkMRrKfk3pR7zjsHfVAjdDuxV4vutMUbxrqx3Lgyva": {
     "name": "Ramcat",
@@ -27043,7 +27019,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "BUDfHJUuTTW1SLBwSSzKddEF1xSnJgKkzPXZJkFid9eN": {
     "name": "Ramcat",
@@ -27131,6 +27109,58 @@
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "6MzJXW5yk98X7ihAXXdvLrVxBkawaJhW8sFEhiu9ca3v": {
+    "name": "Invisible, Nameless, Untraceable",
+    "symbol": "INU",
+    "flagged_ts": 1790903281,
+    "liquidity_at_flag": 29000.043496922808,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "AZ9NHodnyb6wPYian1Fd9HF1mfvPNkJEecExVT1Sevjg": {
+    "name": "Shielded Inu",
+    "symbol": "SHINU",
+    "flagged_ts": 1790903283,
+    "liquidity_at_flag": 25193.6911737131,
+    "breakdown": {
+      "MOMENTUM": 80,
+      "SAFETY": 90,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "Bv9yU6As8zZigJWfgubrAwDZ411xAyYueEYZv8c8TDwq": {
+    "name": "Commander Vrax",
+    "symbol": "VRAX",
+    "flagged_ts": 1790903283,
+    "liquidity_at_flag": 33758.578809272294,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "9Y4afMW81vqd26i1c9vX3SEbaYMbtPifFRCYHqVUpump": {
+    "name": "Lucas The Pug",
+    "symbol": "LUCAS",
+    "flagged_ts": 1790903284,
+    "liquidity_at_flag": 27195.134105515725,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 100,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
