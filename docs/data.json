@@ -1,5 +1,5 @@
 {
-  "last_updated": 1790937641,
+  "last_updated": 1790938430,
   "wallets": [
     {
       "label": "Dev wallet 1",
@@ -10,7 +10,7 @@
     "5CEbueQnq1Ym2uSSx2xXds3jQAqT1BDnkA59RZobSPAG": {
       "label": "Dev wallet 1",
       "buy_count": 548,
-      "sell_count": 267,
+      "sell_count": 268,
       "total_buy_usd": 15793.823986508765,
       "total_sell_usd": 0.0,
       "tokens_traded": [
@@ -70,7 +70,7 @@
         "BPxxfRCXkUVhig4HS1Lh7kZqV6SPJhzfEk4x6fVBjPCy",
         "27G8MtK7VtTcCHkpASjSDdkWWYfoqT6ggEuKidVJidD4"
       ],
-      "last_active": 1790935508,
+      "last_active": 1790938420,
       "positions": {},
       "realized_pnl_usd": 0.0
     }
@@ -89,7 +89,7 @@
     "count": 2835,
     "up_count": 613,
     "total_change_pct": -155586.29928175083,
-    "rug": 2889,
+    "rug": 2890,
     "doing_well": 33,
     "steady": 17,
     "fading": 49
@@ -97,6 +97,76 @@
   "learning_insight": "Coins that rugged averaged SAFETY 73; coins that did well averaged SAFETY 95.",
   "settings": {},
   "recent_alerts": [
+    {
+      "ts": 1790938430,
+      "type": "outcome",
+      "message": "\ud83d\udd34 Anon (Anon) is dropping fast \u2014 down 100%, may be rugging."
+    },
+    {
+      "ts": 1790938429,
+      "type": "outcome",
+      "message": "\ud83d\udd34 Anon (Anon) is dropping fast \u2014 down 100%, may be rugging."
+    },
+    {
+      "ts": 1790938428,
+      "type": "outcome",
+      "message": "\ud83d\udd34 offline (offline) is dropping fast \u2014 down 100%, may be rugging."
+    },
+    {
+      "ts": 1790938427,
+      "type": "outcome",
+      "message": "\ud83d\udfe2 Human Emulation & Reasoning (HER) is still doing really good \u2014 up 81% so far!"
+    },
+    {
+      "ts": 1790938425,
+      "type": "outcome",
+      "message": "\ud83d\udd34 \u5403\u4e86\u4e0d\u70e7\u5fc3 (\u5403\u4e86\u4e0d\u70e7\u5fc3) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
+    },
+    {
+      "ts": 1790938424,
+      "type": "scanner",
+      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\nOnionWeb (OnionWeb)\nOpportunity: 70/100\n\nMOMENTUM     84\nSAFETY       60\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$26,663, 9 min since pool creation\n\u2022 Up +56% in the last hour, ~$144,851 in 24h volume (5.4x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 88% of supply (very concentrated)\n\nCA: gSgFMp8sWZgfCBYTmiXEr8fPeE8HbLDycUHmjFLeS7n\nhttps://dexscreener.com/solana/gSgFMp8sWZgfCBYTmiXEr8fPeE8HbLDycUHmjFLeS7n\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
+    },
+    {
+      "ts": 1790938423,
+      "type": "scanner",
+      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\n\u91d1\u9c7c\u4e5f\u6709\u673a\u4f1a\u6210\u4e3a\u9cb8\u9c7c (Gold fish)\nOpportunity: 76/100\n\nMOMENTUM     100\nSAFETY       60\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$30,386, 5 min since pool creation\n\u2022 Up +81% in the last hour, ~$130,258 in 24h volume (4.3x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 99% of supply (very concentrated)\n\nCA: H7nsjju8uYQsQ7ABoVksqYWB9P44Daekfm8QHSJL1cyL\nhttps://dexscreener.com/solana/H7nsjju8uYQsQ7ABoVksqYWB9P44Daekfm8QHSJL1cyL\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
+    },
+    {
+      "ts": 1790938420,
+      "type": "wallet",
+      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: BOT -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/3ZNwYF6RWfZgXQ11JjuuyoVxy6kX6BCz8PwGfxJYDmRwgnohyEkQHBnTpQdpPmgYhXjgDsnBm3ndDxHS6S6troHv"
+    },
+    {
+      "ts": 1790938420,
+      "type": "wallet",
+      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: xBTC -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/3QB3GAs2zh8Y323WXUv4CVECsxnU9xqZ1Fb51gpHxxdPfabWrHenNN29PMTMgHMvZXDEsyk1XxcfegquNaBUGSin"
+    },
+    {
+      "ts": 1790938419,
+      "type": "wallet",
+      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: DJT -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/2TmxLQQSPuDNg86YnxBTMCGiuSUTzFVUrx7cDp95TGpvnbYd4bs3kipFXcjvckLskUXQBusAnFRn47Y3kmVNofKb"
+    },
+    {
+      "ts": 1790938418,
+      "type": "wallet",
+      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: tOpenAI -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/2wvb7JyfAAevnGpi697yUsix6nkn2cFK9jnCSTudHrXXqZgxSzzuBEo1k8r7t3RkN3SskQF9SZ4d9jorqTCfgubn"
+    },
+    {
+      "ts": 1790938418,
+      "type": "wallet",
+      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: NEAR -> USDC\nTrade size: unknown\nBought token: USD Coin (USDC)\nCA: EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v\nhttps://solscan.io/tx/47qaf7KfXsdk5PymBSBSKKjrdgLYbNuXzcPe2SP6EB1t2By5sRJTt1M8nuJb5a3fWvuST9qbvVHvZxMZcwfXgQr2"
+    },
+    {
+      "ts": 1790938417,
+      "type": "wallet",
+      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: wXRP -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/68tw2AE6EbcxEcEepyeiSgRrrTHcBRwzWun3hohMAWKSSVgFE9WNdzhKXwS4hswSQdM3PDiMa5snzmMayx9PSb2"
+    },
+    {
+      "ts": 1790938416,
+      "type": "wallet",
+      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: BP -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/5RkM1HxVM7wH2rbdzyU7iPJPNtJjA6vt6AKDYZiKnX1a76REfbggNjcHZWN43jFMBQHaAihCn8btyjGLiTeudhwt"
+    },
     {
       "ts": 1790937641,
       "type": "outcome",
@@ -276,76 +346,6 @@
       "ts": 1790934633,
       "type": "outcome",
       "message": "\ud83d\udfe2 RevenueFamily (REVENUE) is still doing really good \u2014 up 134% so far!"
-    },
-    {
-      "ts": 1790934632,
-      "type": "outcome",
-      "message": "\ud83d\udd34 Artificial Gooner Intelligence (AGI) is dropping fast \u2014 down 100%, may be rugging."
-    },
-    {
-      "ts": 1790934631,
-      "type": "outcome",
-      "message": "\ud83d\udd34 MeToo (MeToo) is dropping fast \u2014 down 100%, may be rugging."
-    },
-    {
-      "ts": 1790934630,
-      "type": "outcome",
-      "message": "\ud83d\udd34 CatGPT (CATGPT) is dropping fast \u2014 down 100%, may be rugging."
-    },
-    {
-      "ts": 1790934629,
-      "type": "outcome",
-      "message": "\ud83d\udd34 Shoggoth (Shoggoth) is dropping fast \u2014 down 100%, may be rugging."
-    },
-    {
-      "ts": 1790934626,
-      "type": "wallet",
-      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: USDC -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/2qUFEhzUGgyywja3rapMJ1zHZoJacvy2391mnv3Cs1ENVQB2V1duaAqpbmNNXAEKDzADzrn1Cp99jkJP6KCxZcbL"
-    },
-    {
-      "ts": 1790934625,
-      "type": "wallet",
-      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: USDC -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/4q6kovYHkUVUsFH3iKXoRJYeWx21VTtaMspWfQrH7aGuzowZX1z9KWFumysAnsnEwyAZePbEHH9ftaAZ3QTS4iKa"
-    },
-    {
-      "ts": 1790934624,
-      "type": "wallet",
-      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: USDC -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/5y35AQ9DQdLxDFsLZ7Ky3iY8V9UTKVejqpZkuRmWgaMQhF9aLjcE2cetB8W4cxw8iMuFkmCnYTW2M7UpJzXANTEU"
-    },
-    {
-      "ts": 1790934623,
-      "type": "wallet",
-      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: USDC -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/2o4PiCF8DYffsnsJygv9j4XV7LpUjwYRvJEfBTQpFK7SoxiR92BScgJkzwqSt4wukHYQMfoippkdP3UDdkqFibAk"
-    },
-    {
-      "ts": 1790934623,
-      "type": "wallet",
-      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: USDC -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/5LpAdw6ZkqYcMUnGPqEeKDztGps8XY6p33TNUMepJL1Cgt5WESnCkoWZEVsHfycQY32JKZq3h28c6epyVNXTENZh"
-    },
-    {
-      "ts": 1790933600,
-      "type": "outcome",
-      "message": "\ud83d\udfe2 Super Intelligence Cat (SIC) is still doing really good \u2014 up 69% so far!"
-    },
-    {
-      "ts": 1790933599,
-      "type": "outcome",
-      "message": "\ud83d\udd34 WibAndWob (WIBWOB) is dropping fast \u2014 down 100%, may be rugging."
-    },
-    {
-      "ts": 1790933599,
-      "type": "outcome",
-      "message": "\ud83d\udd34 Artificial Gooner Intelligence (AGI) is dropping fast \u2014 down 74%, may be rugging."
-    },
-    {
-      "ts": 1790933598,
-      "type": "outcome",
-      "message": "\ud83d\udd34 Super Gooner Intelligence (SGI) is dropping fast \u2014 down 100%, may be rugging."
-    },
-    {
-      "ts": 1790933597,
-      "type": "outcome",
-      "message": "\ud83d\udfe2 Super Intelligence (SI) is still doing really good \u2014 up 153% so far!"
     }
   ]
 }
