@@ -1,21 +1,4 @@
 {
-  "BS73WVjGFbU32P3RdcfDh7Zba2iMBRqNtJCLwFAhA72M": {
-    "name": "\u4e2d\u79cb\u7389\u5154",
-    "symbol": "\u4e2d\u79cb\u7389\u5154",
-    "flagged_ts": 1790300707,
-    "liquidity_at_flag": 41561.21914201777,
-    "breakdown": {
-      "MOMENTUM": 100,
-      "SAFETY": 60,
-      "LIQUIDITY": 100,
-      "SMART MONEY": 0
-    },
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
   "2tRdP9du3h3Fv2nyvPzZru274mL6iQ3UuMovry4n1Hkj": {
     "name": "GoCollect",
     "symbol": "COLLECT",
@@ -24339,7 +24322,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "5AZiUYQsuCXBSuRcKcg4UquAzpbmEUtwy67UYnJq9eLu": {
@@ -26690,7 +26674,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "GrkKNou1ecvJkYvZfRRvTBtrqyPrJJobSza6wsWht9WE": {
@@ -26705,7 +26690,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "FTTGTEuPayZy7gs8uQRhii8PmVNGKa7o2S9z3Nt8FLZc": {
@@ -26720,7 +26706,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "6bQ4MCnJ5rab9pDGR43hbTCf1GabYEVmCP2oLyexSmvC": {
@@ -27188,6 +27175,45 @@
     "liquidity_at_flag": 54519.914444038455,
     "breakdown": {
       "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "FhfJp2gUiNdsCfJKHSuxEJTSY4xQWssZYfYay8HgBSMk": {
+    "name": "MEME500",
+    "symbol": "MEME500",
+    "flagged_ts": 1790905927,
+    "liquidity_at_flag": 32047.444584142744,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "FKutiR3kNdNnmBso3ZaXP3sNuDEukGkFAGT4nfusEUFj": {
+    "name": "PexraFun",
+    "symbol": "PEXRA",
+    "flagged_ts": 1790905928,
+    "liquidity_at_flag": 81215.91081951851,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "CJWBTs1g4fxT3WNJHWvaAeAXZCAomkMXkDQYEqAyVi9": {
+    "name": "Sapling",
+    "symbol": "SAPLING",
+    "flagged_ts": 1790905929,
+    "liquidity_at_flag": 213559.4088361364,
+    "breakdown": {
+      "MOMENTUM": 90,
       "SAFETY": 60,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
