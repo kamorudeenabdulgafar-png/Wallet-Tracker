@@ -1,5 +1,5 @@
 {
-  "last_updated": 1790953656,
+  "last_updated": 1790954791,
   "wallets": [
     {
       "label": "Dev wallet 1",
@@ -89,14 +89,34 @@
     "count": 2835,
     "up_count": 613,
     "total_change_pct": -155586.29928175083,
-    "rug": 2915,
+    "rug": 2917,
     "doing_well": 33,
     "steady": 17,
-    "fading": 49
+    "fading": 50
   },
   "learning_insight": "Coins that rugged averaged SAFETY 74; coins that did well averaged SAFETY 95.",
   "settings": {},
   "recent_alerts": [
+    {
+      "ts": 1790954791,
+      "type": "outcome",
+      "message": "\ud83d\udd34 VampCoin (VAMP) is dropping fast \u2014 down 100%, may be rugging."
+    },
+    {
+      "ts": 1790954790,
+      "type": "outcome",
+      "message": "\ud83d\udfe0 lowk jelly (lowkjelly) faded \u2014 liquidity down 27% after 24h."
+    },
+    {
+      "ts": 1790954788,
+      "type": "outcome",
+      "message": "\ud83d\udd34 Flying Data Center (FDC) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
+    },
+    {
+      "ts": 1790954787,
+      "type": "outcome",
+      "message": "\ud83d\udd34 lowk jelly (lowkjelly) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
+    },
     {
       "ts": 1790953656,
       "type": "outcome",
@@ -326,26 +346,6 @@
       "ts": 1790948572,
       "type": "outcome",
       "message": "\ud83d\udd34 I Am Jane Doe (Jane) turned out to be a rug \u2014 liquidity dropped 87% over 24h."
-    },
-    {
-      "ts": 1790948570,
-      "type": "scanner",
-      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\nThe Library of Pump.Fun (Library)\nOpportunity: 71/100\n\nMOMENTUM     85\nSAFETY       60\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$39,017, 7 min since pool creation\n\u2022 Up +56% in the last hour, ~$15,998 in 24h volume (0.4x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 82% of supply (very concentrated)\n\nCA: 4sBUHXMbBPHmGhLaUTYdCc6VtHw6iPYhXSUSaUTm6s9h\nhttps://dexscreener.com/solana/4sBUHXMbBPHmGhLaUTYdCc6VtHw6iPYhXSUSaUTm6s9h\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
-    },
-    {
-      "ts": 1790948568,
-      "type": "wallet",
-      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: MASK -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/3XpVbwSRM1nMKJps96gfgUGAe2ACZkyhHMGyf1vNXAwuWfv8d1QVC3K3xq3FXyDhq4qNGWS6sqet3zZeDZZaQswb"
-    },
-    {
-      "ts": 1790947604,
-      "type": "outcome",
-      "message": "\ud83d\udd34 Super Gooner Intelligence (SGI) is dropping fast \u2014 down 100%, may be rugging."
-    },
-    {
-      "ts": 1790946489,
-      "type": "outcome",
-      "message": "\ud83d\udd34 PexraFun (PEXRA) is dropping fast \u2014 down 100%, may be rugging."
     }
   ]
 }
