@@ -1,5 +1,5 @@
 {
-  "last_updated": 1790994180,
+  "last_updated": 1790995705,
   "wallets": [
     {
       "label": "Dev wallet 1",
@@ -89,7 +89,7 @@
     "count": 2835,
     "up_count": 613,
     "total_change_pct": -155586.29928175083,
-    "rug": 3002,
+    "rug": 3003,
     "doing_well": 37,
     "steady": 17,
     "fading": 51
@@ -97,6 +97,36 @@
   "learning_insight": "Coins that rugged averaged SAFETY 73; coins that did well averaged SAFETY 93.",
   "settings": {},
   "recent_alerts": [
+    {
+      "ts": 1790995705,
+      "type": "outcome",
+      "message": "\ud83d\udd34 Diamond Accelerationism (diam/acc) is dropping fast \u2014 down 85%, may be rugging."
+    },
+    {
+      "ts": 1790995704,
+      "type": "outcome",
+      "message": "\ud83d\udfe1 Digital Oil Trust Fund (DOTF) is holding steady so far (+19%)."
+    },
+    {
+      "ts": 1790995703,
+      "type": "outcome",
+      "message": "\ud83d\udd34 INU #001 (INU) is dropping fast \u2014 down 100%, may be rugging."
+    },
+    {
+      "ts": 1790995701,
+      "type": "outcome",
+      "message": "\ud83d\udd34 Moonlet (MOONLET) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
+    },
+    {
+      "ts": 1790995700,
+      "type": "scanner",
+      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\n\uc81c\ub85c (Zero)\nOpportunity: 76/100\n\nMOMENTUM     100\nSAFETY       60\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$64,283, 12 min since pool creation\n\u2022 Up +503% in the last hour, ~$615,027 in 24h volume (9.6x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 93% of supply (very concentrated)\n\nCA: J4HZGn2nWR9KdfYczNdkiKtYhsyu3JVB8RnYNAQYgrfz\nhttps://dexscreener.com/solana/J4HZGn2nWR9KdfYczNdkiKtYhsyu3JVB8RnYNAQYgrfz\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
+    },
+    {
+      "ts": 1790995699,
+      "type": "scanner",
+      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\nBOXY (BOXY)\nOpportunity: 75/100\n\nMOMENTUM     58\nSAFETY       100\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$26,953, 9 min since pool creation\n\u2022 Up +39% in the last hour, ~$63,913 in 24h volume (2.4x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Low, 0/100):\n\u2022 No major red flags found\n\nCA: 9ZfC2qaXFYxwuh1c27K8bce1jHb4oReQgAvrjwWdpump\nhttps://dexscreener.com/solana/9ZfC2qaXFYxwuh1c27K8bce1jHb4oReQgAvrjwWdpump\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
+    },
     {
       "ts": 1790994180,
       "type": "outcome",
@@ -316,36 +346,6 @@
       "ts": 1790990440,
       "type": "wallet",
       "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: USDC -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/3dZZihi6puPi9EkZLB8FR4cdoT4QNYR1xam7NoGXE28bvRTkmJP9bcXwHYGtKYkFxkak7JwpkBeE8ksRmmvjfp8m"
-    },
-    {
-      "ts": 1790990439,
-      "type": "wallet",
-      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: SPYx -> USDC\nTrade size: unknown\nBought token: USD Coin (USDC)\nCA: EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v\nhttps://solscan.io/tx/25aJvBfB4BFrk5GmiffP6aafhyUg5TJxnaJ8Wehfn15ugUFQSU2vUMFu89TWeEfYCbLR22Tc7WoDCKyaL7Wa5HXi"
-    },
-    {
-      "ts": 1790990438,
-      "type": "wallet",
-      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: wXRP -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/25kBXsnwB2q214duh1AmbmpQZHtkEsPYADH1uJpFzsqhnKJqrrCoKdEmYdLV2wvDouNP727o3ihSv2yeFcnN95PD"
-    },
-    {
-      "ts": 1790989281,
-      "type": "outcome",
-      "message": "\ud83d\udfe0 Meme Accelerationism (m/acc) is fading \u2014 down 34% so far."
-    },
-    {
-      "ts": 1790989280,
-      "type": "outcome",
-      "message": "\ud83d\udd34 Ramcat (RAMCAT) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
-    },
-    {
-      "ts": 1790989278,
-      "type": "wallet",
-      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: USDC -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/1bGXeTJ6G4EhTFytgNFLh1wjmPu7pLS47mfWmSNGkA9mEMnC5JDUYhpXMCKNkqrKGisdHpo7wVsrH75ySfCeLDs"
-    },
-    {
-      "ts": 1790989278,
-      "type": "wallet",
-      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: NEAR -> USDC\nTrade size: unknown\nBought token: USD Coin (USDC)\nCA: EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v\nhttps://solscan.io/tx/2f4QY5NqZJhPmZUgMQT9BLjajZeghjsixahjwuPG3Qp8wQPJBm1dibQ6u3TrL6ix96TuesiYyAkQ3YRZhpozMqPU"
     }
   ]
 }
