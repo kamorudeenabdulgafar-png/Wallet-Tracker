@@ -1,5 +1,5 @@
 {
-  "last_updated": 1791000974,
+  "last_updated": 1791002004,
   "wallets": [
     {
       "label": "Dev wallet 1",
@@ -70,7 +70,7 @@
         "BPxxfRCXkUVhig4HS1Lh7kZqV6SPJhzfEk4x6fVBjPCy",
         "27G8MtK7VtTcCHkpASjSDdkWWYfoqT6ggEuKidVJidD4"
       ],
-      "last_active": 1790999971,
+      "last_active": 1791001998,
       "positions": {},
       "realized_pnl_usd": 0.0
     }
@@ -89,7 +89,7 @@
     "count": 2835,
     "up_count": 613,
     "total_change_pct": -155586.29928175083,
-    "rug": 3010,
+    "rug": 3013,
     "doing_well": 37,
     "steady": 17,
     "fading": 51
@@ -97,6 +97,51 @@
   "learning_insight": "Coins that rugged averaged SAFETY 73; coins that did well averaged SAFETY 93.",
   "settings": {},
   "recent_alerts": [
+    {
+      "ts": 1791002004,
+      "type": "outcome",
+      "message": "\ud83d\udd34 Morrow (MORR) is dropping fast \u2014 down 100%, may be rugging."
+    },
+    {
+      "ts": 1791002003,
+      "type": "outcome",
+      "message": "\ud83d\udd34 world wide web (www) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
+    },
+    {
+      "ts": 1791002002,
+      "type": "outcome",
+      "message": "\ud83d\udd34 had to take profits sir (https) turned out to be a rug \u2014 liquidity dropped 69% over 24h."
+    },
+    {
+      "ts": 1791002002,
+      "type": "outcome",
+      "message": "\ud83d\udd34 world wide web (www) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
+    },
+    {
+      "ts": 1791002001,
+      "type": "scanner",
+      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\nKuta (\ucfe0\uc6b0\ud0c0)\nOpportunity: 76/100\n\nMOMENTUM     100\nSAFETY       60\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$33,185, 14 min since pool creation\n\u2022 Up +97% in the last hour, ~$34,047 in 24h volume (1.0x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 92% of supply (very concentrated)\n\nCA: FGgMGNg4ZrNZMJ4nJbn5oyoMoRqunDsWpeisQjsNgAnJ\nhttps://dexscreener.com/solana/FGgMGNg4ZrNZMJ4nJbn5oyoMoRqunDsWpeisQjsNgAnJ\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
+    },
+    {
+      "ts": 1791001998,
+      "type": "wallet",
+      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: ZAMA -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/3XaH1FaixNPboUcASHu5szTzvt1J3S8pkWRTVKG1pzcyVkdcNPys8wLPb5GT4XTevvWw7Keboyxf2nbmfTpWs9Qq"
+    },
+    {
+      "ts": 1791001997,
+      "type": "wallet",
+      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: BLK -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/36inysyTcstTAA2U1F9dgm1H4m9uY9aHzCDhuhypKBaBj32rt34s7ykyeoan6LYC4w5GLgZxQ6ok6ZraDMQhSiR5"
+    },
+    {
+      "ts": 1791001997,
+      "type": "wallet",
+      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: NVDAx -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/31ZQcPBaBxXkC3saNTUfJtr1eskRrkw5PkaETRLhN8TM83CekqfkQnU6T1AtcbQx5xfuZy9m8yRQpn4NhgTuvGLU"
+    },
+    {
+      "ts": 1791001997,
+      "type": "wallet",
+      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: WBTC -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/2BZsqMiWpNdgBPwcmTaRvBV3q2QJzB3AEmL4HxQsNZeNUAA1UuSnWT7JjoVK7JVPMjVqnx2axbmuEW7P1wi35Z3v"
+    },
     {
       "ts": 1791000974,
       "type": "outcome",
@@ -301,51 +346,6 @@
       "ts": 1790997035,
       "type": "outcome",
       "message": "\ud83d\udfe1 Abu Shalab (ABU) is holding steady so far (-11%)."
-    },
-    {
-      "ts": 1790997035,
-      "type": "outcome",
-      "message": "\ud83d\udd34 Super Intelligence (SI) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
-    },
-    {
-      "ts": 1790997034,
-      "type": "outcome",
-      "message": "\ud83d\udd34 Rapecoin (Rapecoin) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
-    },
-    {
-      "ts": 1790997032,
-      "type": "scanner",
-      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\nCat Bot (CATBOT)\nOpportunity: 72/100\n\nMOMENTUM     49\nSAFETY       100\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$38,444, 15 min since pool creation\n\u2022 Up +33% in the last hour, ~$45,074 in 24h volume (1.2x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Low, 0/100):\n\u2022 No major red flags found\n\nCA: 6w5s8REWoQH6k4UmLzoDTVNy9YVtRvkjPFG7Lrxvpump\nhttps://dexscreener.com/solana/6w5s8REWoQH6k4UmLzoDTVNy9YVtRvkjPFG7Lrxvpump\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
-    },
-    {
-      "ts": 1790997031,
-      "type": "scanner",
-      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\nArtificial Influencer (AI)\nOpportunity: 76/100\n\nMOMENTUM     100\nSAFETY       60\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$42,005, 12 min since pool creation\n\u2022 Up +192% in the last hour, ~$25,598 in 24h volume (0.6x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 92% of supply (very concentrated)\n\nCA: 2dmAhXNgcAUrVovFJFvhPgoo4T8UrgtLm2wiVZfufcsq\nhttps://dexscreener.com/solana/2dmAhXNgcAUrVovFJFvhPgoo4T8UrgtLm2wiVZfufcsq\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
-    },
-    {
-      "ts": 1790997030,
-      "type": "scanner",
-      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\nPOOPYBOT (POOPYBOT)\nOpportunity: 76/100\n\nMOMENTUM     100\nSAFETY       60\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$28,638, 12 min since pool creation\n\u2022 Up +125% in the last hour, ~$163,553 in 24h volume (5.7x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 96% of supply (very concentrated)\n\nCA: EaEyMefDy4KXHoJyeyUUuL6SgfNjyghFgDVgcvBZdA1E\nhttps://dexscreener.com/solana/EaEyMefDy4KXHoJyeyUUuL6SgfNjyghFgDVgcvBZdA1E\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
-    },
-    {
-      "ts": 1790997029,
-      "type": "scanner",
-      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\nWhy so serious (Joker)\nOpportunity: 76/100\n\nMOMENTUM     100\nSAFETY       60\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$46,280, 12 min since pool creation\n\u2022 Up +88% in the last hour, ~$44,873 in 24h volume (1.0x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 86% of supply (very concentrated)\n\nCA: 4h6pYNQ9ZDyAW1zFhRiMjPKXGSnuutjViFoyFBnMrRSj\nhttps://dexscreener.com/solana/4h6pYNQ9ZDyAW1zFhRiMjPKXGSnuutjViFoyFBnMrRSj\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
-    },
-    {
-      "ts": 1790997029,
-      "type": "scanner",
-      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\n\u7238\u7238\u6211\u6709\u51fa\u606f\u4e86 (\u7238\u7238\u6211\u6709\u51fa\u606f\u4e86)\nOpportunity: 70/100\n\nMOMENTUM     82\nSAFETY       60\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$46,421, 12 min since pool creation\n\u2022 Up +55% in the last hour, ~$36,350 in 24h volume (0.8x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 85% of supply (very concentrated)\n\nCA: FW3FUTD2YcsyYuK6WQFGjSxrRe7XCEkh6aAQCbGtvJNq\nhttps://dexscreener.com/solana/FW3FUTD2YcsyYuK6WQFGjSxrRe7XCEkh6aAQCbGtvJNq\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
-    },
-    {
-      "ts": 1790995705,
-      "type": "outcome",
-      "message": "\ud83d\udd34 Diamond Accelerationism (diam/acc) is dropping fast \u2014 down 85%, may be rugging."
-    },
-    {
-      "ts": 1790995704,
-      "type": "outcome",
-      "message": "\ud83d\udfe1 Digital Oil Trust Fund (DOTF) is holding steady so far (+19%)."
     }
   ]
 }
