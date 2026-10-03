@@ -1,5 +1,5 @@
 {
-  "last_updated": 1791009952,
+  "last_updated": 1791011174,
   "wallets": [
     {
       "label": "Dev wallet 1",
@@ -10,7 +10,7 @@
     "5CEbueQnq1Ym2uSSx2xXds3jQAqT1BDnkA59RZobSPAG": {
       "label": "Dev wallet 1",
       "buy_count": 561,
-      "sell_count": 275,
+      "sell_count": 276,
       "total_buy_usd": 15793.823986508765,
       "total_sell_usd": 0.0,
       "tokens_traded": [
@@ -70,7 +70,7 @@
         "BPxxfRCXkUVhig4HS1Lh7kZqV6SPJhzfEk4x6fVBjPCy",
         "27G8MtK7VtTcCHkpASjSDdkWWYfoqT6ggEuKidVJidD4"
       ],
-      "last_active": 1791009938,
+      "last_active": 1791011167,
       "positions": {},
       "realized_pnl_usd": 0.0
     }
@@ -89,7 +89,7 @@
     "count": 2835,
     "up_count": 613,
     "total_change_pct": -155586.29928175083,
-    "rug": 3032,
+    "rug": 3036,
     "doing_well": 38,
     "steady": 17,
     "fading": 51
@@ -97,6 +97,46 @@
   "learning_insight": "Coins that rugged averaged SAFETY 73; coins that did well averaged SAFETY 94.",
   "settings": {},
   "recent_alerts": [
+    {
+      "ts": 1791011174,
+      "type": "outcome",
+      "message": "\ud83d\udd34 \uc81c\ub85c (Zero) is dropping fast \u2014 down 100%, may be rugging."
+    },
+    {
+      "ts": 1791011174,
+      "type": "outcome",
+      "message": "\ud83d\udd34 BOXY (BOXY) is dropping fast \u2014 down 62%, may be rugging."
+    },
+    {
+      "ts": 1791011173,
+      "type": "outcome",
+      "message": "\ud83d\udd34 Hot Bot (HOTBOT) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
+    },
+    {
+      "ts": 1791011172,
+      "type": "outcome",
+      "message": "\ud83d\udd34 Anon (Anon) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
+    },
+    {
+      "ts": 1791011171,
+      "type": "outcome",
+      "message": "\ud83d\udd34 Anon (Anon) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
+    },
+    {
+      "ts": 1791011170,
+      "type": "outcome",
+      "message": "\ud83d\udd34 Human Emulation & Reasoning (HER) turned out to be a rug \u2014 liquidity dropped 72% over 24h."
+    },
+    {
+      "ts": 1791011167,
+      "type": "wallet",
+      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: PEPE -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/4Dnoz8BN8ceuRGKaFvo9xvPRsRreEEqDLKHq5HvZUdNCZagrrxWza1cXvZA7wHS7Dwntffe3zoGgRRSFT3AGZY3e"
+    },
+    {
+      "ts": 1791011166,
+      "type": "wallet",
+      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: MCDx -> USDC\nTrade size: unknown\nBought token: USD Coin (USDC)\nCA: EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v\nhttps://solscan.io/tx/2jfmhYpSh3fqLH86zjAYsQGGQSDKW5NGqh5Zsat3oEnL15gbe3ygt2cAH89Fp1nEUSoKwvZB2HMoiys5DtRM5Lk1"
+    },
     {
       "ts": 1791009950,
       "type": "outcome",
@@ -306,46 +346,6 @@
       "ts": 1791006826,
       "type": "wallet",
       "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: CARDS -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/8kwEpRWoE1JSEW2a5owwzmi4aUhmc8mHDkys9Egth95ZcSs49kaz2bki2dahKmgRGVWeDduuFiPy7hk8ZLhDajd"
-    },
-    {
-      "ts": 1791006825,
-      "type": "wallet",
-      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: LULU -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/4DabfhavoYCwJsnQNrusjNGgbbRRn5gKVxjrhLNyaySMb8FAiTz3boNhA7u1Ve7v9kcd7b1pjx1pib7bPAroT9EX"
-    },
-    {
-      "ts": 1791006824,
-      "type": "wallet",
-      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: INJ -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/3rXJHxwZxW6GbvvJejh9ApAYz8VFV4VHBTPvVo8tN6UXsLFVKxiZMmu42d3ahy3FwdGCqkjrgoHHniEZUesiPeDR"
-    },
-    {
-      "ts": 1791005978,
-      "type": "outcome",
-      "message": "\ud83d\udfe1 Kuta (\ucfe0\uc6b0\ud0c0) is holding steady so far (+20%)."
-    },
-    {
-      "ts": 1791005977,
-      "type": "outcome",
-      "message": "\ud83d\udd34 Pudu (PUDU) is dropping fast \u2014 down 65%, may be rugging."
-    },
-    {
-      "ts": 1791005976,
-      "type": "outcome",
-      "message": "\ud83d\udd34 Diamond Accelerationism (diam/acc) is dropping fast \u2014 down 85%, may be rugging."
-    },
-    {
-      "ts": 1791005975,
-      "type": "outcome",
-      "message": "\ud83d\udfe2 Digital Oil Trust Fund (DOTF) is still doing really good \u2014 up 61% so far!"
-    },
-    {
-      "ts": 1791005974,
-      "type": "outcome",
-      "message": "\ud83d\udd34 mowro (mowro) is dropping fast \u2014 down 69%, may be rugging."
-    },
-    {
-      "ts": 1791005974,
-      "type": "outcome",
-      "message": "\ud83d\udd34 Shoggoth (Shoggoth) turned out to be a rug \u2014 liquidity dropped 74% over 24h."
     }
   ]
 }
