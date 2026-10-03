@@ -1,55 +1,4 @@
 {
-  "CMuvWQ6qQbSt7NUQdPGcVKCoDgETieuqS68qu6BaeVgR": {
-    "name": "Cream",
-    "symbol": "Cream",
-    "flagged_ts": 1790382433,
-    "liquidity_at_flag": 24119.194764769156,
-    "breakdown": {
-      "MOMENTUM": 100,
-      "SAFETY": 100,
-      "LIQUIDITY": 100,
-      "SMART MONEY": 0
-    },
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "6dXG3jjvy56ECiL86NoM7aJ7TxyyKGzD9CStYhUrpump": {
-    "name": "Harvard University",
-    "symbol": "Harvard",
-    "flagged_ts": 1790382433,
-    "liquidity_at_flag": 13979.938800312113,
-    "breakdown": {
-      "MOMENTUM": 78,
-      "SAFETY": 100,
-      "LIQUIDITY": 70,
-      "SMART MONEY": 0
-    },
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "dJ8V5v7znhDH8iCesZgGFhpvDBtaVN39siPWarkDAN3": {
-    "name": "Cr\u00e9mieux",
-    "symbol": "Cr\u00e9mieux",
-    "flagged_ts": 1790382434,
-    "liquidity_at_flag": 30379.480010836494,
-    "breakdown": {
-      "MOMENTUM": 96,
-      "SAFETY": 60,
-      "LIQUIDITY": 100,
-      "SMART MONEY": 0
-    },
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
   "BKBJo6hHVQCpfsVmHn3CgRRbKdpFWzzGYAJZ1v8L7ae2": {
     "name": "American Reserved Oil Supply",
     "symbol": "AROS",
@@ -22214,7 +22163,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "DdRNCcMcSQjqUGMZsyfqSYrUYsTUCmKvtEgQDr4xMCsM": {
@@ -22230,7 +22180,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "86aKHbBtdDc9wWvJxuqD4FZHBG5LafqNWq3mwDbELD7A": {
@@ -22246,7 +22197,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "J2AygNiQAkvucTLDja1W1L4VxAT4QvtorAHBqXdcpump": {
@@ -22262,7 +22214,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "1G4zZWw22apdx9VxqthrTLpvRMXjtCmRUUymuvfNysP": {
@@ -24485,7 +24438,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "Dw8i5w3XCQqoUaYEphEaU5dzRw2mHyKpDqWmMPoJpump": {
@@ -24500,7 +24454,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "3Wy23DkdZ5fBipQDw8pW7tdQMEFUgd81S8k5QuBgKdPs": {
@@ -24724,7 +24679,9 @@
       "LIQUIDITY": 83,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "39p1gyHpKUNsUSsEfVrG2stz9tv5CNg5XRGkQDYu6XNi": {
     "name": "Abu Shalab",
@@ -24737,7 +24694,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "2RKkd7aG13o926CTUNHjE3T43NwS9QyLMyf5pHa9pump": {
     "name": "PUMPMASK",
@@ -24750,7 +24709,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "J7fKi6z8nGe77uByb3Xg9o4a63288iipeof7VuLqC4eC": {
     "name": "Poopy Bot",
@@ -24763,7 +24724,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "QypFawkshaTn6t1p2mLH9fgZVKFopu9ugp3dU9DcrCJ": {
     "name": "Poopy Bot",
@@ -24776,7 +24739,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "55z3Uv95ALDrV99pSy5RxgNRvbBNPAH7ECg8YFCApump": {
     "name": "SUPER G",
@@ -24837,6 +24802,19 @@
     "liquidity_at_flag": 27246.94743649944,
     "breakdown": {
       "MOMENTUM": 92,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "2Aj5xx3hFiuN73Z89JcWqBpwKwCWt1FPxzvD7w1g4Paa": {
+    "name": "Morrow",
+    "symbol": "MORR",
+    "flagged_ts": 1790987397,
+    "liquidity_at_flag": 42978.88487648625,
+    "breakdown": {
+      "MOMENTUM": 100,
       "SAFETY": 60,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
