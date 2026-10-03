@@ -1,5 +1,5 @@
 {
-  "last_updated": 1791015045,
+  "last_updated": 1791016294,
   "wallets": [
     {
       "label": "Dev wallet 1",
@@ -9,7 +9,7 @@
   "wallet_stats": {
     "5CEbueQnq1Ym2uSSx2xXds3jQAqT1BDnkA59RZobSPAG": {
       "label": "Dev wallet 1",
-      "buy_count": 564,
+      "buy_count": 567,
       "sell_count": 276,
       "total_buy_usd": 15793.823986508765,
       "total_sell_usd": 0.0,
@@ -70,7 +70,7 @@
         "BPxxfRCXkUVhig4HS1Lh7kZqV6SPJhzfEk4x6fVBjPCy",
         "27G8MtK7VtTcCHkpASjSDdkWWYfoqT6ggEuKidVJidD4"
       ],
-      "last_active": 1791013277,
+      "last_active": 1791016282,
       "positions": {},
       "realized_pnl_usd": 0.0
     }
@@ -89,14 +89,89 @@
     "count": 2835,
     "up_count": 613,
     "total_change_pct": -155586.29928175083,
-    "rug": 3040,
+    "rug": 3045,
     "doing_well": 38,
     "steady": 17,
     "fading": 51
   },
-  "learning_insight": "Coins that rugged averaged SAFETY 73; coins that did well averaged SAFETY 94.",
+  "learning_insight": "Coins that rugged averaged SAFETY 72; coins that did well averaged SAFETY 94.",
   "settings": {},
   "recent_alerts": [
+    {
+      "ts": 1791016294,
+      "type": "outcome",
+      "message": "\ud83d\udd34 FROGE (FROGE) is dropping fast \u2014 down 100%, may be rugging."
+    },
+    {
+      "ts": 1791016292,
+      "type": "outcome",
+      "message": "\ud83d\udd34 FROGE (FROGE) is dropping fast \u2014 down 100%, may be rugging."
+    },
+    {
+      "ts": 1791016291,
+      "type": "outcome",
+      "message": "\ud83d\udd34 Pudu (PUDU) is dropping fast \u2014 down 70%, may be rugging."
+    },
+    {
+      "ts": 1791016290,
+      "type": "outcome",
+      "message": "\ud83d\udd34 Super Intelligence Cat (SIC) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
+    },
+    {
+      "ts": 1791016289,
+      "type": "outcome",
+      "message": "\ud83d\udd34 WibAndWob (WIBWOB) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
+    },
+    {
+      "ts": 1791016288,
+      "type": "outcome",
+      "message": "\ud83d\udd34 Artificial Gooner Intelligence (AGI) turned out to be a rug \u2014 liquidity dropped 91% over 24h."
+    },
+    {
+      "ts": 1791016287,
+      "type": "outcome",
+      "message": "\ud83d\udd34 Super Gooner Intelligence (SGI) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
+    },
+    {
+      "ts": 1791016286,
+      "type": "outcome",
+      "message": "\ud83d\udd34 Super Intelligence (SI) turned out to be a rug \u2014 liquidity dropped 94% over 24h."
+    },
+    {
+      "ts": 1791016284,
+      "type": "scanner",
+      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 EXCEPTIONAL\nVRAXWEEN (VRAXWEEN)\nOpportunity: 90/100\n\nMOMENTUM     100\nSAFETY       100\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$35,641, 14 min since pool creation\n\u2022 Up +179% in the last hour, ~$819,554 in 24h volume (23.0x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Low, 0/100):\n\u2022 No major red flags found\n\nCA: 56tGhg321cAn9y8JFNSeTnsUaVqB6zX9HSio3KKipump\nhttps://dexscreener.com/solana/56tGhg321cAn9y8JFNSeTnsUaVqB6zX9HSio3KKipump\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
+    },
+    {
+      "ts": 1791016282,
+      "type": "wallet",
+      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: DOGE -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/5Lc8hGXk9cXEorMi614B5u9CLdJJFDGAzkwKpFKYv44L1bTPeQPppC9uUHnNmgcEGZ1vTHjDbNhJi46aNC2Q4r2e"
+    },
+    {
+      "ts": 1791016281,
+      "type": "wallet",
+      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: USDC -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/3XduwsQYun83Y9x4nbnGQbaA1fynKHWM9exn5M8KUniZw3YvMoSH49GUww8eZbDgxWatPLxtZPjiiHD4MwGV6nrn"
+    },
+    {
+      "ts": 1791016281,
+      "type": "wallet",
+      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: RAY -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/4WPgwdoB93XbGe8YeMugSUGTzrRUVUEgNqrCx7uR4Y1rwvQheQNLUYejPCP8pK8sPKdpLNzb9BDa1xJMg6XM7wWs"
+    },
+    {
+      "ts": 1791016280,
+      "type": "wallet",
+      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: USDC -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/4pwmDieCi2DpWDmyjmy3W8EZPfUuRuCUDzhWntCCyT7XPUeXszf9HrbjVTU6BXd6hFjmYGzEzmGjRBgexLAGjkf5"
+    },
+    {
+      "ts": 1791016279,
+      "type": "wallet",
+      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: PEPE -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/2zQzwc3pUWAN17Lu4ZVYzNaSqK27zU6UtPgEWe1WPpNC7k6hN3QzcVrh9C34d4Jgbv2qmjRYgpqpJpPq9QqrrK5e"
+    },
+    {
+      "ts": 1791016279,
+      "type": "wallet",
+      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: USDC -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/4sbZXPNhEVdfBr2jWeua3jDFUCLMvCUnZSxDmb87ipz22Wc4mjGSmbzDD5hVxwadAm5WbqPJbNxWHXznFDCH56Hz"
+    },
     {
       "ts": 1791015045,
       "type": "outcome",
@@ -271,81 +346,6 @@
       "ts": 1791011174,
       "type": "outcome",
       "message": "\ud83d\udd34 BOXY (BOXY) is dropping fast \u2014 down 62%, may be rugging."
-    },
-    {
-      "ts": 1791011173,
-      "type": "outcome",
-      "message": "\ud83d\udd34 Hot Bot (HOTBOT) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
-    },
-    {
-      "ts": 1791011172,
-      "type": "outcome",
-      "message": "\ud83d\udd34 Anon (Anon) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
-    },
-    {
-      "ts": 1791011171,
-      "type": "outcome",
-      "message": "\ud83d\udd34 Anon (Anon) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
-    },
-    {
-      "ts": 1791011170,
-      "type": "outcome",
-      "message": "\ud83d\udd34 Human Emulation & Reasoning (HER) turned out to be a rug \u2014 liquidity dropped 72% over 24h."
-    },
-    {
-      "ts": 1791011167,
-      "type": "wallet",
-      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: PEPE -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/4Dnoz8BN8ceuRGKaFvo9xvPRsRreEEqDLKHq5HvZUdNCZagrrxWza1cXvZA7wHS7Dwntffe3zoGgRRSFT3AGZY3e"
-    },
-    {
-      "ts": 1791011166,
-      "type": "wallet",
-      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: MCDx -> USDC\nTrade size: unknown\nBought token: USD Coin (USDC)\nCA: EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v\nhttps://solscan.io/tx/2jfmhYpSh3fqLH86zjAYsQGGQSDKW5NGqh5Zsat3oEnL15gbe3ygt2cAH89Fp1nEUSoKwvZB2HMoiys5DtRM5Lk1"
-    },
-    {
-      "ts": 1791009950,
-      "type": "outcome",
-      "message": "\ud83d\udfe2 PrintR (PRINTR) is still doing really good \u2014 up 38% so far!"
-    },
-    {
-      "ts": 1791009949,
-      "type": "outcome",
-      "message": "\ud83d\udd34 enu (enu) is dropping fast \u2014 down 73%, may be rugging."
-    },
-    {
-      "ts": 1791009948,
-      "type": "outcome",
-      "message": "\ud83d\udfe0 HoldFast (HOLD) is fading \u2014 down 59% so far."
-    },
-    {
-      "ts": 1791009947,
-      "type": "outcome",
-      "message": "\ud83d\udd34 MEMETRUCK (MEMETRUCK) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
-    },
-    {
-      "ts": 1791009946,
-      "type": "outcome",
-      "message": "\ud83d\udd34 IRL3 (IRL3) turned out to be a rug \u2014 liquidity dropped 61% over 24h."
-    },
-    {
-      "ts": 1791009945,
-      "type": "scanner",
-      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\nShiba Accelerationism (shiba/acc)\nOpportunity: 76/100\n\nMOMENTUM     100\nSAFETY       60\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$49,628, 24 min since pool creation\n\u2022 Up +83% in the last hour, ~$69,990 in 24h volume (1.4x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 78% of supply (very concentrated)\n\nCA: EGmvWMS9tpWFEKetMHZSmZex49TdgrPnitUXL8vf7rUu\nhttps://dexscreener.com/solana/EGmvWMS9tpWFEKetMHZSmZex49TdgrPnitUXL8vf7rUu\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
-    },
-    {
-      "ts": 1791009942,
-      "type": "scanner",
-      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 EXCEPTIONAL\nFROGE (FROGE)\nOpportunity: 90/100\n\nMOMENTUM     100\nSAFETY       100\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$40,596, 13 min since pool creation\n\u2022 Up +152% in the last hour, ~$138,021 in 24h volume (3.4x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Low, 0/100):\n\u2022 No major red flags found\n\nCA: 6R1F4sNySF4NKGdhW3UhESWuYYRu4Cehk5rn3mGP375R\nhttps://dexscreener.com/solana/6R1F4sNySF4NKGdhW3UhESWuYYRu4Cehk5rn3mGP375R\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
-    },
-    {
-      "ts": 1791009940,
-      "type": "scanner",
-      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\nPrintR (PRINTR)\nOpportunity: 76/100\n\nMOMENTUM     100\nSAFETY       60\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$43,075, 7 min since pool creation\n\u2022 Up +253% in the last hour, ~$356,437 in 24h volume (8.3x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 93% of supply (very concentrated)\n\nCA: 8Gwgc7SRyj9oGyW8ZhgA7dw9KGWkKWhZ2W25vmyhWTJm\nhttps://dexscreener.com/solana/8Gwgc7SRyj9oGyW8ZhgA7dw9KGWkKWhZ2W25vmyhWTJm\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
-    },
-    {
-      "ts": 1791009938,
-      "type": "wallet",
-      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: DOGE -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/2mdxXczEpoFwC67q7F3U4SispFXZEsYG4XCDjZ9qq7j4Ruc6REBDb93GrXPpHEbTJRJ7JgkgywbQDjNcMwnJYgmD"
     }
   ]
 }
