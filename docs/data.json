@@ -1,5 +1,5 @@
 {
-  "last_updated": 1791013283,
+  "last_updated": 1791014245,
   "wallets": [
     {
       "label": "Dev wallet 1",
@@ -89,7 +89,7 @@
     "count": 2835,
     "up_count": 613,
     "total_change_pct": -155586.29928175083,
-    "rug": 3038,
+    "rug": 3039,
     "doing_well": 38,
     "steady": 17,
     "fading": 51
@@ -97,6 +97,26 @@
   "learning_insight": "Coins that rugged averaged SAFETY 73; coins that did well averaged SAFETY 94.",
   "settings": {},
   "recent_alerts": [
+    {
+      "ts": 1791014245,
+      "type": "outcome",
+      "message": "\ud83d\udfe2 Shiba Accelerationism (shiba/acc) is still doing really good \u2014 up 100% so far!"
+    },
+    {
+      "ts": 1791014244,
+      "type": "outcome",
+      "message": "\ud83d\udfe0 FROGE (FROGE) is fading \u2014 down 32% so far."
+    },
+    {
+      "ts": 1791014244,
+      "type": "outcome",
+      "message": "\ud83d\udd34 PrintR (PRINTR) is dropping fast \u2014 down 100%, may be rugging."
+    },
+    {
+      "ts": 1791014243,
+      "type": "outcome",
+      "message": "\ud83d\udd34 \u767e\u500d\u571f\u72d7 (\u65fa\u4ed4) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
+    },
     {
       "ts": 1791013283,
       "type": "outcome",
@@ -326,26 +346,6 @@
       "ts": 1791009935,
       "type": "wallet",
       "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: 0.0649 SOL (~$7.76) -> USDC\nTrade size: ~$7.76\nBought token: USD Coin (USDC)\nCA: EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v\nhttps://solscan.io/tx/5NCF1wZPLSPXNGLDEsQwyACcBCrpTKQLo5yw83dzAvtxWq9XQC39DmekssekAe1jFS9ZQE9vPGKUMbEZfqJiptQd"
-    },
-    {
-      "ts": 1791009935,
-      "type": "wallet",
-      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: PTN -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/5Jzejgea4WXa3zWqyFq7VwPquNqFkqfb3NshqHpCR1LeRqQAMnvy7Vvb2n9VBYgpmvL86ucMYEJCbne8zyEDa2nf"
-    },
-    {
-      "ts": 1791009934,
-      "type": "wallet",
-      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: 0.0730 SOL (~$8.73) -> USDC\nTrade size: ~$8.73\nBought token: USD Coin (USDC)\nCA: EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v\nhttps://solscan.io/tx/4XQ73uFgGxW4DxkF2X7EGyywp1ADww16eLG4TfEDpXt27x8XAqTPcQsZEJq31xFbDPFx2n18MzrSFhbzsKPPHaZ6"
-    },
-    {
-      "ts": 1791007943,
-      "type": "outcome",
-      "message": "\ud83d\udd34 Super Intelligence Cat (SIC) is dropping fast \u2014 down 100%, may be rugging."
-    },
-    {
-      "ts": 1791007942,
-      "type": "outcome",
-      "message": "\ud83d\udd34 breastcoin (BREAST) is dropping fast \u2014 down 100%, may be rugging."
     }
   ]
 }
