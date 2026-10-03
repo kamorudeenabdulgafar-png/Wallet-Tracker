@@ -1,5 +1,5 @@
 {
-  "last_updated": 1791020346,
+  "last_updated": 1791021073,
   "wallets": [
     {
       "label": "Dev wallet 1",
@@ -9,7 +9,7 @@
   "wallet_stats": {
     "5CEbueQnq1Ym2uSSx2xXds3jQAqT1BDnkA59RZobSPAG": {
       "label": "Dev wallet 1",
-      "buy_count": 568,
+      "buy_count": 569,
       "sell_count": 276,
       "total_buy_usd": 15793.823986508765,
       "total_sell_usd": 0.0,
@@ -70,7 +70,7 @@
         "BPxxfRCXkUVhig4HS1Lh7kZqV6SPJhzfEk4x6fVBjPCy",
         "27G8MtK7VtTcCHkpASjSDdkWWYfoqT6ggEuKidVJidD4"
       ],
-      "last_active": 1791018468,
+      "last_active": 1791021064,
       "positions": {},
       "realized_pnl_usd": 0.0
     }
@@ -97,6 +97,46 @@
   "learning_insight": "Coins that rugged averaged SAFETY 72; coins that did well averaged SAFETY 94.",
   "settings": {},
   "recent_alerts": [
+    {
+      "ts": 1791021073,
+      "type": "outcome",
+      "message": "\ud83d\udd34 Escro Tech (ESCRO) is dropping fast \u2014 down 100%, may be rugging."
+    },
+    {
+      "ts": 1791021072,
+      "type": "outcome",
+      "message": "\ud83d\udd34 Super Inu (SI) is dropping fast \u2014 down 100%, may be rugging."
+    },
+    {
+      "ts": 1791021071,
+      "type": "outcome",
+      "message": "\ud83d\udd34 breastcoin (BREAST) is dropping fast \u2014 down 100%, may be rugging."
+    },
+    {
+      "ts": 1791021070,
+      "type": "outcome",
+      "message": "\ud83d\udfe0 PrintR (PRINTR) is fading \u2014 down 25% so far."
+    },
+    {
+      "ts": 1791021069,
+      "type": "scanner",
+      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\nPhantom Cat (PCAT)\nOpportunity: 76/100\n\nMOMENTUM     100\nSAFETY       60\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$158,316, 29 min since pool creation\n\u2022 Up +68% in the last hour, ~$3,202,067 in 24h volume (20.2x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 87% of supply (very concentrated)\n\nCA: 9sHFeVxfWXwPh5joPBjYW2dzMWVhNPc9nCrmztpNye6\nhttps://dexscreener.com/solana/9sHFeVxfWXwPh5joPBjYW2dzMWVhNPc9nCrmztpNye6\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
+    },
+    {
+      "ts": 1791021067,
+      "type": "scanner",
+      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\nCare Bond (CAREBOND)\nOpportunity: 76/100\n\nMOMENTUM     100\nSAFETY       60\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$36,216, 17 min since pool creation\n\u2022 Up +85% in the last hour, ~$348,325 in 24h volume (9.6x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 96% of supply (very concentrated)\n\nCA: pd9txzevVNo8Lb9WgCs69d2yxYsBUh41JxMJfzKUukv\nhttps://dexscreener.com/solana/pd9txzevVNo8Lb9WgCs69d2yxYsBUh41JxMJfzKUukv\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
+    },
+    {
+      "ts": 1791021065,
+      "type": "wallet",
+      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: NKE -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/4rfJe7KXi21VMeYnCaXjQce3waDU4FeftWDUCC4kiFRiJbisq2YPpLzgGoABtmC5jcRbDMa8jRN9cnsh3ZacWTY8"
+    },
+    {
+      "ts": 1791021064,
+      "type": "wallet",
+      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: USDC -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/26ug8WNqUffonq4bX87C9uHLGjKfvzCYJ5AQcK9MWcsQCd9n8NVr9A8zosxKSj7dVV8bbKauP6pZG6gN6dqcqeCc"
+    },
     {
       "ts": 1791020346,
       "type": "outcome",
@@ -306,46 +346,6 @@
       "ts": 1791016280,
       "type": "wallet",
       "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: USDC -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/4pwmDieCi2DpWDmyjmy3W8EZPfUuRuCUDzhWntCCyT7XPUeXszf9HrbjVTU6BXd6hFjmYGzEzmGjRBgexLAGjkf5"
-    },
-    {
-      "ts": 1791016279,
-      "type": "wallet",
-      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: PEPE -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/2zQzwc3pUWAN17Lu4ZVYzNaSqK27zU6UtPgEWe1WPpNC7k6hN3QzcVrh9C34d4Jgbv2qmjRYgpqpJpPq9QqrrK5e"
-    },
-    {
-      "ts": 1791016279,
-      "type": "wallet",
-      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: USDC -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/4sbZXPNhEVdfBr2jWeua3jDFUCLMvCUnZSxDmb87ipz22Wc4mjGSmbzDD5hVxwadAm5WbqPJbNxWHXznFDCH56Hz"
-    },
-    {
-      "ts": 1791015045,
-      "type": "outcome",
-      "message": "\ud83d\udd34 Pumpfun Ghost (Ghost) is dropping fast \u2014 down 100%, may be rugging."
-    },
-    {
-      "ts": 1791015044,
-      "type": "outcome",
-      "message": "\ud83d\udd34 ZERO (\uc81c\ub85c) is dropping fast \u2014 down 100%, may be rugging."
-    },
-    {
-      "ts": 1791015043,
-      "type": "outcome",
-      "message": "\ud83d\udd34 brainrot (brainrot) turned out to be a rug \u2014 liquidity dropped 88% over 24h."
-    },
-    {
-      "ts": 1791015042,
-      "type": "scanner",
-      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\nairtime (airtime)\nOpportunity: 76/100\n\nMOMENTUM     100\nSAFETY       60\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$28,746, 14 min since pool creation\n\u2022 Up +74% in the last hour, ~$138,935 in 24h volume (4.8x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 82% of supply (very concentrated)\n\nCA: FuEjxbHFnTWiJqfx19qiw81K6WtBGrLHQ9PVwoNHea3r\nhttps://dexscreener.com/solana/FuEjxbHFnTWiJqfx19qiw81K6WtBGrLHQ9PVwoNHea3r\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
-    },
-    {
-      "ts": 1791014245,
-      "type": "outcome",
-      "message": "\ud83d\udfe2 Shiba Accelerationism (shiba/acc) is still doing really good \u2014 up 100% so far!"
-    },
-    {
-      "ts": 1791014244,
-      "type": "outcome",
-      "message": "\ud83d\udfe0 FROGE (FROGE) is fading \u2014 down 32% so far."
     }
   ]
 }
