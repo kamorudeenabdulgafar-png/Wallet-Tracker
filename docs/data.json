@@ -1,5 +1,5 @@
 {
-  "last_updated": 1790988559,
+  "last_updated": 1790989281,
   "wallets": [
     {
       "label": "Dev wallet 1",
@@ -9,8 +9,8 @@
   "wallet_stats": {
     "5CEbueQnq1Ym2uSSx2xXds3jQAqT1BDnkA59RZobSPAG": {
       "label": "Dev wallet 1",
-      "buy_count": 557,
-      "sell_count": 273,
+      "buy_count": 558,
+      "sell_count": 274,
       "total_buy_usd": 15793.823986508765,
       "total_sell_usd": 0.0,
       "tokens_traded": [
@@ -70,7 +70,7 @@
         "BPxxfRCXkUVhig4HS1Lh7kZqV6SPJhzfEk4x6fVBjPCy",
         "27G8MtK7VtTcCHkpASjSDdkWWYfoqT6ggEuKidVJidD4"
       ],
-      "last_active": 1790988549,
+      "last_active": 1790989278,
       "positions": {},
       "realized_pnl_usd": 0.0
     }
@@ -89,7 +89,7 @@
     "count": 2835,
     "up_count": 613,
     "total_change_pct": -155586.29928175083,
-    "rug": 2984,
+    "rug": 2985,
     "doing_well": 36,
     "steady": 17,
     "fading": 51
@@ -97,6 +97,26 @@
   "learning_insight": "Coins that rugged averaged SAFETY 74; coins that did well averaged SAFETY 93.",
   "settings": {},
   "recent_alerts": [
+    {
+      "ts": 1790989281,
+      "type": "outcome",
+      "message": "\ud83d\udfe0 Meme Accelerationism (m/acc) is fading \u2014 down 34% so far."
+    },
+    {
+      "ts": 1790989280,
+      "type": "outcome",
+      "message": "\ud83d\udd34 Ramcat (RAMCAT) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
+    },
+    {
+      "ts": 1790989278,
+      "type": "wallet",
+      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: USDC -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/1bGXeTJ6G4EhTFytgNFLh1wjmPu7pLS47mfWmSNGkA9mEMnC5JDUYhpXMCKNkqrKGisdHpo7wVsrH75ySfCeLDs"
+    },
+    {
+      "ts": 1790989278,
+      "type": "wallet",
+      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: NEAR -> USDC\nTrade size: unknown\nBought token: USD Coin (USDC)\nCA: EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v\nhttps://solscan.io/tx/2f4QY5NqZJhPmZUgMQT9BLjajZeghjsixahjwuPG3Qp8wQPJBm1dibQ6u3TrL6ix96TuesiYyAkQ3YRZhpozMqPU"
+    },
     {
       "ts": 1790988559,
       "type": "outcome",
@@ -326,26 +346,6 @@
       "ts": 1790984769,
       "type": "scanner",
       "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 STRONG\nSUPER G (SUPG)\nOpportunity: 88/100\n\nMOMENTUM     93\nSAFETY       100\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$29,851, 7 min since pool creation\n\u2022 Up +62% in the last hour, ~$479,577 in 24h volume (16.1x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Low, 0/100):\n\u2022 No major red flags found\n\nCA: 55z3Uv95ALDrV99pSy5RxgNRvbBNPAH7ECg8YFCApump\nhttps://dexscreener.com/solana/55z3Uv95ALDrV99pSy5RxgNRvbBNPAH7ECg8YFCApump\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
-    },
-    {
-      "ts": 1790983887,
-      "type": "outcome",
-      "message": "\ud83d\udd34 INU #001 (INU) is dropping fast \u2014 down 100%, may be rugging."
-    },
-    {
-      "ts": 1790983177,
-      "type": "outcome",
-      "message": "\ud83d\udd34 antfarm (antfarm) is dropping fast \u2014 down 100%, may be rugging."
-    },
-    {
-      "ts": 1790983176,
-      "type": "outcome",
-      "message": "\ud83d\udd34 dumb inu (DI) is dropping fast \u2014 down 60%, may be rugging."
-    },
-    {
-      "ts": 1790983175,
-      "type": "outcome",
-      "message": "\ud83d\udfe0 XingXing (XingXing) is fading \u2014 down 51% so far."
     }
   ]
 }
