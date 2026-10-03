@@ -1,5 +1,5 @@
 {
-  "last_updated": 1791021073,
+  "last_updated": 1791021881,
   "wallets": [
     {
       "label": "Dev wallet 1",
@@ -70,7 +70,7 @@
         "BPxxfRCXkUVhig4HS1Lh7kZqV6SPJhzfEk4x6fVBjPCy",
         "27G8MtK7VtTcCHkpASjSDdkWWYfoqT6ggEuKidVJidD4"
       ],
-      "last_active": 1791021064,
+      "last_active": 1791021876,
       "positions": {},
       "realized_pnl_usd": 0.0
     }
@@ -97,6 +97,36 @@
   "learning_insight": "Coins that rugged averaged SAFETY 72; coins that did well averaged SAFETY 94.",
   "settings": {},
   "recent_alerts": [
+    {
+      "ts": 1791021881,
+      "type": "outcome",
+      "message": "\ud83d\udd34 Collectors (CLTR) is dropping fast \u2014 down 100%, may be rugging."
+    },
+    {
+      "ts": 1791021880,
+      "type": "outcome",
+      "message": "\ud83d\udd34 Send it (Send) is dropping fast \u2014 down 62%, may be rugging."
+    },
+    {
+      "ts": 1791021879,
+      "type": "outcome",
+      "message": "\ud83d\udd34 \ud55c\uad6d\uc778\uc740 \ub0a0 \uc218 \uc788\ub2e4 (\ud55c\uad6d\uc778\uc740 \ub0a0 \uc218) is dropping fast \u2014 down 100%, may be rugging."
+    },
+    {
+      "ts": 1791021878,
+      "type": "outcome",
+      "message": "\ud83d\udd34 Mooonaut (MOOON) is dropping fast \u2014 down 91%, may be rugging."
+    },
+    {
+      "ts": 1791021878,
+      "type": "outcome",
+      "message": "\ud83d\udfe0 Ghosti (Ghosti) is fading \u2014 down 60% so far."
+    },
+    {
+      "ts": 1791021876,
+      "type": "wallet",
+      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: PTN -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/5JJHFnpyNxE9sqCuFHfjp3WEVZuMnwfdXgCwtN6eLsdnJN19cV2WMqmQtNrwTffyoa9CcyWJCJDrE9roDdRzTV2w"
+    },
     {
       "ts": 1791021073,
       "type": "outcome",
@@ -316,36 +346,6 @@
       "ts": 1791016287,
       "type": "outcome",
       "message": "\ud83d\udd34 Super Gooner Intelligence (SGI) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
-    },
-    {
-      "ts": 1791016286,
-      "type": "outcome",
-      "message": "\ud83d\udd34 Super Intelligence (SI) turned out to be a rug \u2014 liquidity dropped 94% over 24h."
-    },
-    {
-      "ts": 1791016284,
-      "type": "scanner",
-      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 EXCEPTIONAL\nVRAXWEEN (VRAXWEEN)\nOpportunity: 90/100\n\nMOMENTUM     100\nSAFETY       100\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$35,641, 14 min since pool creation\n\u2022 Up +179% in the last hour, ~$819,554 in 24h volume (23.0x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Low, 0/100):\n\u2022 No major red flags found\n\nCA: 56tGhg321cAn9y8JFNSeTnsUaVqB6zX9HSio3KKipump\nhttps://dexscreener.com/solana/56tGhg321cAn9y8JFNSeTnsUaVqB6zX9HSio3KKipump\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
-    },
-    {
-      "ts": 1791016282,
-      "type": "wallet",
-      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: DOGE -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/5Lc8hGXk9cXEorMi614B5u9CLdJJFDGAzkwKpFKYv44L1bTPeQPppC9uUHnNmgcEGZ1vTHjDbNhJi46aNC2Q4r2e"
-    },
-    {
-      "ts": 1791016281,
-      "type": "wallet",
-      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: USDC -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/3XduwsQYun83Y9x4nbnGQbaA1fynKHWM9exn5M8KUniZw3YvMoSH49GUww8eZbDgxWatPLxtZPjiiHD4MwGV6nrn"
-    },
-    {
-      "ts": 1791016281,
-      "type": "wallet",
-      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: RAY -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/4WPgwdoB93XbGe8YeMugSUGTzrRUVUEgNqrCx7uR4Y1rwvQheQNLUYejPCP8pK8sPKdpLNzb9BDa1xJMg6XM7wWs"
-    },
-    {
-      "ts": 1791016280,
-      "type": "wallet",
-      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: USDC -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/4pwmDieCi2DpWDmyjmy3W8EZPfUuRuCUDzhWntCCyT7XPUeXszf9HrbjVTU6BXd6hFjmYGzEzmGjRBgexLAGjkf5"
     }
   ]
 }
