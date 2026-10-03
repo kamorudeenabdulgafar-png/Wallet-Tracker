@@ -1,38 +1,4 @@
 {
-  "C9uioBq4DGc97oEnJCKzjJUeXgiQbJRFeB4QoxhDhFNZ": {
-    "name": "roon",
-    "symbol": "roon",
-    "flagged_ts": 1790386266,
-    "liquidity_at_flag": 27621.189699676295,
-    "breakdown": {
-      "MOMENTUM": 100,
-      "SAFETY": 60,
-      "LIQUIDITY": 100,
-      "SMART MONEY": 0
-    },
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "HeLtYEGBa8DWoHPZudWSMezsJqKrm3iw8c2Cvc1QE1cE": {
-    "name": "O",
-    "symbol": "O",
-    "flagged_ts": 1790386268,
-    "liquidity_at_flag": 33073.262975640886,
-    "breakdown": {
-      "MOMENTUM": 88,
-      "SAFETY": 60,
-      "LIQUIDITY": 100,
-      "SMART MONEY": 0
-    },
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
   "H3RUSvJ5EAzVqXx19RuiYpnKmz5D2DRGskttUdXiqrQa": {
     "name": "Degens Dollars On Solana",
     "symbol": "DDOS",
@@ -22129,7 +22095,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "4bihsTtBGcZWcNnCP2Qy9xMNkG68b8YWAEUq8frErfsA": {
@@ -22145,7 +22112,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "9NHLQy5gSKYejNxQ4waZJrxSFTKz9n97nGggyNMCpump": {
@@ -22161,7 +22129,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "56xFv3uemcYyS3g68gZa3DZcAmNVoNWnr4qg6VUELr3a": {
@@ -24352,7 +24321,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "AJy3jEbDAZX1vekxyqo7xiUByBGKSurnteatkeDYpump": {
@@ -24621,13 +24591,41 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "3ssLFcVvMgvEQdCkEkN5J7cs11eNz58iFxr21o3Wpump": {
     "name": "mowro",
     "symbol": "mowro",
     "flagged_ts": 1790990443,
     "liquidity_at_flag": 33073.20058602822,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 100,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "Eqz67TwBu5L7DC1ghDNNPxjsihDxoUiLrksHW58ppump": {
+    "name": "Digital Oil Trust Fund",
+    "symbol": "DOTF",
+    "flagged_ts": 1790991528,
+    "liquidity_at_flag": 25777.222122508872,
+    "breakdown": {
+      "MOMENTUM": 67,
+      "SAFETY": 75,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "4UH5esJDzBtiTxbfgJ99cmgUSFHXmB9KNNf5QmWRpump": {
+    "name": "Diamond Accelerationism",
+    "symbol": "diam/acc",
+    "flagged_ts": 1790991529,
+    "liquidity_at_flag": 26862.763958590876,
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 100,
