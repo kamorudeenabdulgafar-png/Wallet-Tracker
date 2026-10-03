@@ -21653,7 +21653,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "AVL58Mn5u4LkPFAauKWrS2mLkGMeimyeCZGZvrW8pump": {
@@ -23492,7 +23493,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "4XYNSsmbd1diCQZkiwhkPgPc2PtsJ9q6t7rXicomBb61": {
@@ -23507,7 +23509,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "8HQgEcbhR5Xoh735zvndAocCLd7wdAYJfWHV55J8pump": {
@@ -23768,6 +23771,19 @@
     "symbol": "FROGE",
     "flagged_ts": 1791012222,
     "liquidity_at_flag": 50565.93619190728,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "FuEjxbHFnTWiJqfx19qiw81K6WtBGrLHQ9PVwoNHea3r": {
+    "name": "airtime",
+    "symbol": "airtime",
+    "flagged_ts": 1791015042,
+    "liquidity_at_flag": 28745.521848944343,
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 60,
