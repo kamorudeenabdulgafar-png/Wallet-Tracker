@@ -1,5 +1,5 @@
 {
-  "last_updated": 1791002004,
+  "last_updated": 1791002931,
   "wallets": [
     {
       "label": "Dev wallet 1",
@@ -70,7 +70,7 @@
         "BPxxfRCXkUVhig4HS1Lh7kZqV6SPJhzfEk4x6fVBjPCy",
         "27G8MtK7VtTcCHkpASjSDdkWWYfoqT6ggEuKidVJidD4"
       ],
-      "last_active": 1791001998,
+      "last_active": 1791002924,
       "positions": {},
       "realized_pnl_usd": 0.0
     }
@@ -89,7 +89,7 @@
     "count": 2835,
     "up_count": 613,
     "total_change_pct": -155586.29928175083,
-    "rug": 3013,
+    "rug": 3014,
     "doing_well": 37,
     "steady": 17,
     "fading": 51
@@ -97,6 +97,36 @@
   "learning_insight": "Coins that rugged averaged SAFETY 73; coins that did well averaged SAFETY 93.",
   "settings": {},
   "recent_alerts": [
+    {
+      "ts": 1791002931,
+      "type": "outcome",
+      "message": "\ud83d\udfe1 Tip Toe'n in my Jordans (TIPTOE) is holding steady so far (+11%)."
+    },
+    {
+      "ts": 1791002930,
+      "type": "outcome",
+      "message": "\ud83d\udfe1 Mizura Mole (\u30df\u30ba\u30e9) is holding steady so far (-7%)."
+    },
+    {
+      "ts": 1791002929,
+      "type": "outcome",
+      "message": "\ud83d\udd34 Artificial Influencer (AI) is dropping fast \u2014 down 100%, may be rugging."
+    },
+    {
+      "ts": 1791002928,
+      "type": "outcome",
+      "message": "\ud83d\udd34 Make me rich, Make no mistakes (RICH) turned out to be a rug \u2014 liquidity dropped 83% over 24h."
+    },
+    {
+      "ts": 1791002927,
+      "type": "scanner",
+      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\nSibal Inu (SI)\nOpportunity: 76/100\n\nMOMENTUM     100\nSAFETY       60\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$45,841, 14 min since pool creation\n\u2022 Up +127% in the last hour, ~$438,761 in 24h volume (9.6x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 91% of supply (very concentrated)\n\nCA: 5koayETVWHyFxoW7bmMMBJr5HXKmLmX2k3gsFbJySMFZ\nhttps://dexscreener.com/solana/5koayETVWHyFxoW7bmMMBJr5HXKmLmX2k3gsFbJySMFZ\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
+    },
+    {
+      "ts": 1791002925,
+      "type": "wallet",
+      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: GLDx -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/3LXC2ibpK4dtejbpjaf8NwtvCymhE4FHKEDVUJ8icwFF5cbjo3ad8Dagy6yJP5W5CySmFXXWrvngUetzALTYnuKf"
+    },
     {
       "ts": 1791002004,
       "type": "outcome",
@@ -316,36 +346,6 @@
       "ts": 1790998719,
       "type": "wallet",
       "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: NVDAx -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/3RkDE2rpcYDQGJRQgKD5Z1TrurB9xHbzSzYuZ2cTLKFqrWZNZdYmfMsKJq3JitRzednhZ3etruDLGxB5SAVYsEUK"
-    },
-    {
-      "ts": 1790998719,
-      "type": "wallet",
-      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: 0.0482 SOL (~$5.74) -> USDC\nTrade size: ~$5.74\nBought token: USD Coin (USDC)\nCA: EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v\nhttps://solscan.io/tx/5Hq38WZ1ZAz5Ceqsz1mnYxjwqXz6Vm16sG7Mj527B1Krypqf75fyhFmtZ7QXJdrwn9fRK3RnpEjAxXQinVd4x6en"
-    },
-    {
-      "ts": 1790998718,
-      "type": "wallet",
-      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: SNDK -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/3xVZmH8jdUfGHiEqixtAhJF4rZFuRyAZT4GHrquXNnFz6RCc1WuqJsfBcNR8vSsahyieEKwpkXvHQWqMt9u3gqcT"
-    },
-    {
-      "ts": 1790997038,
-      "type": "outcome",
-      "message": "\ud83d\udd34 homo (homo) is dropping fast \u2014 down 100%, may be rugging."
-    },
-    {
-      "ts": 1790997037,
-      "type": "outcome",
-      "message": "\ud83d\udd34 VAMPINU (VAMPINU) is dropping fast \u2014 down 100%, may be rugging."
-    },
-    {
-      "ts": 1790997036,
-      "type": "outcome",
-      "message": "\ud83d\udd34 Trumplet (TRMPL) is dropping fast \u2014 down 91%, may be rugging."
-    },
-    {
-      "ts": 1790997035,
-      "type": "outcome",
-      "message": "\ud83d\udfe1 Abu Shalab (ABU) is holding steady so far (-11%)."
     }
   ]
 }
