@@ -1,5 +1,5 @@
 {
-  "last_updated": 1791019433,
+  "last_updated": 1791020346,
   "wallets": [
     {
       "label": "Dev wallet 1",
@@ -89,14 +89,29 @@
     "count": 2835,
     "up_count": 613,
     "total_change_pct": -155586.29928175083,
-    "rug": 3052,
+    "rug": 3054,
     "doing_well": 38,
     "steady": 17,
     "fading": 51
   },
-  "learning_insight": "Coins that rugged averaged SAFETY 73; coins that did well averaged SAFETY 94.",
+  "learning_insight": "Coins that rugged averaged SAFETY 72; coins that did well averaged SAFETY 94.",
   "settings": {},
   "recent_alerts": [
+    {
+      "ts": 1791020346,
+      "type": "outcome",
+      "message": "\ud83d\udd34 VRAXWEEN (VRAXWEEN) is dropping fast \u2014 down 90%, may be rugging."
+    },
+    {
+      "ts": 1791020345,
+      "type": "outcome",
+      "message": "\ud83d\udd34 Clanker (Clanker) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
+    },
+    {
+      "ts": 1791020344,
+      "type": "outcome",
+      "message": "\ud83d\udd34 World Wide Memes (WWM) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
+    },
     {
       "ts": 1791019433,
       "type": "outcome",
@@ -331,21 +346,6 @@
       "ts": 1791014244,
       "type": "outcome",
       "message": "\ud83d\udfe0 FROGE (FROGE) is fading \u2014 down 32% so far."
-    },
-    {
-      "ts": 1791014244,
-      "type": "outcome",
-      "message": "\ud83d\udd34 PrintR (PRINTR) is dropping fast \u2014 down 100%, may be rugging."
-    },
-    {
-      "ts": 1791014243,
-      "type": "outcome",
-      "message": "\ud83d\udd34 \u767e\u500d\u571f\u72d7 (\u65fa\u4ed4) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
-    },
-    {
-      "ts": 1791013283,
-      "type": "outcome",
-      "message": "\ud83d\udfe1 Tip Toe'n in my Jordans (TIPTOE) is holding steady so far (-11%)."
     }
   ]
 }

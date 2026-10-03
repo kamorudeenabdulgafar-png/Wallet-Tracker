@@ -1,38 +1,4 @@
 {
-  "5xwzFSPMWXJqWfYncENsf7KiPvGBaXXqkBuD1zGu8RLH": {
-    "name": "Paid",
-    "symbol": "PAID",
-    "flagged_ts": 1790415368,
-    "liquidity_at_flag": 42224.93151701699,
-    "breakdown": {
-      "MOMENTUM": 100,
-      "SAFETY": 60,
-      "LIQUIDITY": 100,
-      "SMART MONEY": 0
-    },
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "9WeVB4kYP6rxAM4mq5RJLD75LQo2B9yozgyVW1T3qn8B": {
-    "name": "\u5218\u6b222026",
-    "symbol": "\u5218\u6b222026",
-    "flagged_ts": 1790415369,
-    "liquidity_at_flag": 59180.25648735758,
-    "breakdown": {
-      "MOMENTUM": 85,
-      "SAFETY": 60,
-      "LIQUIDITY": 100,
-      "SMART MONEY": 0
-    },
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
   "U2DcbVJm1FVkogaL9Ti2vU5XN7g1shvCFei3RjSpump": {
     "name": "xRent",
     "symbol": "XRENT",
@@ -21483,7 +21449,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "FVAqCyYrGKsepSTXbsQ3YHHZzwwYEV3jZcaXtJF7JgXQ": {
@@ -21499,7 +21466,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "EBusR2cGL1gR5J8N2FT84zYL4rFBoJVtATNS5PEBpump": {
@@ -23437,7 +23405,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "HQxmYKcbr5F6w8b8UQEk8e5SeSxjDeeh8foF3U5DHhFj": {
     "name": "Ghosti",
