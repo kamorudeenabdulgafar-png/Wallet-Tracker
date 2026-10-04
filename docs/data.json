@@ -1,5 +1,5 @@
 {
-  "last_updated": 1791157653,
+  "last_updated": 1791158183,
   "wallets": [
     {
       "label": "Dev wallet 1",
@@ -97,6 +97,16 @@
   "learning_insight": "Coins that rugged averaged SAFETY 73; coins that did well averaged SAFETY 93.",
   "settings": {},
   "recent_alerts": [
+    {
+      "ts": 1791158183,
+      "type": "outcome",
+      "message": "\ud83d\udfe2 Hooker (HOOKER) is still doing really good \u2014 up 37% so far!"
+    },
+    {
+      "ts": 1791158182,
+      "type": "scanner",
+      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\nPokeStrategy (PSTR)\nOpportunity: 71/100\n\nMOMENTUM     85\nSAFETY       60\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$27,409, 11 min since pool creation\n\u2022 Up +57% in the last hour, ~$188,555 in 24h volume (6.9x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 89% of supply (very concentrated)\n\nCA: BPFs8jWt5Kib3ojSnSNf3pY7Ng9Bc2ma7E4xxdGiY7AB\nhttps://dexscreener.com/solana/BPFs8jWt5Kib3ojSnSNf3pY7Ng9Bc2ma7E4xxdGiY7AB\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
+    },
     {
       "ts": 1791157653,
       "type": "outcome",
@@ -336,16 +346,6 @@
       "ts": 1791126295,
       "type": "scanner",
       "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 STRONG\nsif.gov (sif.gov)\nOpportunity: 86/100\n\nMOMENTUM     100\nSAFETY       90\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$20,179, 7 min since pool creation\n\u2022 Up +74% in the last hour, ~$40,339 in 24h volume (2.0x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Low, 10/100):\n\u2022 top 10 holders own 34% of supply\n\nCA: 2d1RrVaNKX2NyEQhKjENAQdU1X5JJr6Yvmj9kCfmpump\nhttps://dexscreener.com/solana/2d1RrVaNKX2NyEQhKjENAQdU1X5JJr6Yvmj9kCfmpump\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
-    },
-    {
-      "ts": 1791126293,
-      "type": "wallet",
-      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: GLDx -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/4qwUZZG5WXhM2wgdvitEoPRgKpaNUfrjXtKSKM3tVcN6KEX5q7sGp6f3pVmjDvTQpbofSijToJzcx5HaGMmEkMb4"
-    },
-    {
-      "ts": 1791126293,
-      "type": "wallet",
-      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: AAVE -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/3DpoSGHUkVp2Ra8GwdCBWwMiLnRR2uAdteHyzqsJ2iPDhHRK8GUNZDnCPXkMekZxJ3XzaM3sjT8Q1YNN7WNx9Nqk"
     }
   ]
 }

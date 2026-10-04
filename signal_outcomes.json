@@ -1,38 +1,4 @@
 {
-  "FeeQF3ztg6CtCDY2ZaxMLJYoFQsbVztzvU83B9mk438o": {
-    "name": "zmr",
-    "symbol": "zmr",
-    "flagged_ts": 1790553205,
-    "liquidity_at_flag": 24245.849976382284,
-    "breakdown": {
-      "MOMENTUM": 100,
-      "SAFETY": 90,
-      "LIQUIDITY": 100,
-      "SMART MONEY": 0
-    },
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "GQWA1zRaPE9WUqVT9fmqsGyqfsbj2FZdXUf8XdWeCTTX": {
-    "name": "Claude-chan",
-    "symbol": "CLAUDECHAN",
-    "flagged_ts": 1790553206,
-    "liquidity_at_flag": 35976.410056100634,
-    "breakdown": {
-      "MOMENTUM": 100,
-      "SAFETY": 60,
-      "LIQUIDITY": 100,
-      "SMART MONEY": 0
-    },
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
   "2ktCbpQcyGLfCf6rvzFRW3yC9yB6EiJHqSCa4GxYWJA5": {
     "name": "zmr",
     "symbol": "zmr",
@@ -16965,7 +16931,9 @@
       "LIQUIDITY": 51,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "BNAXAn6mWfxuW7CKXKextbDRuYbUfXonuYz5VQNqKMn": {
     "name": "PokeStrategy",
@@ -17013,6 +16981,19 @@
     "liquidity_at_flag": 30794.435303883918,
     "breakdown": {
       "MOMENTUM": 88,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "BPFs8jWt5Kib3ojSnSNf3pY7Ng9Bc2ma7E4xxdGiY7AB": {
+    "name": "PokeStrategy",
+    "symbol": "PSTR",
+    "flagged_ts": 1791158182,
+    "liquidity_at_flag": 27409.016995930113,
+    "breakdown": {
+      "MOMENTUM": 85,
       "SAFETY": 60,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
