@@ -1,5 +1,5 @@
 {
-  "last_updated": 1791098207,
+  "last_updated": 1791126305,
   "wallets": [
     {
       "label": "Dev wallet 1",
@@ -70,7 +70,7 @@
         "BPxxfRCXkUVhig4HS1Lh7kZqV6SPJhzfEk4x6fVBjPCy",
         "27G8MtK7VtTcCHkpASjSDdkWWYfoqT6ggEuKidVJidD4"
       ],
-      "last_active": 1791087453,
+      "last_active": 1791126293,
       "positions": {},
       "realized_pnl_usd": 0.0
     }
@@ -89,14 +89,59 @@
     "count": 2835,
     "up_count": 613,
     "total_change_pct": -155586.29928175083,
-    "rug": 3100,
+    "rug": 3106,
     "doing_well": 42,
     "steady": 17,
     "fading": 53
   },
-  "learning_insight": "Coins that rugged averaged SAFETY 72; coins that did well averaged SAFETY 93.",
+  "learning_insight": "Coins that rugged averaged SAFETY 73; coins that did well averaged SAFETY 93.",
   "settings": {},
   "recent_alerts": [
+    {
+      "ts": 1791126302,
+      "type": "outcome",
+      "message": "\ud83d\udd34 Mona Pepe Ween (MONAWEEN) turned out to be a rug \u2014 liquidity dropped 87% over 24h."
+    },
+    {
+      "ts": 1791126302,
+      "type": "outcome",
+      "message": "\ud83d\udd34 Phantom Cat (PCAT) turned out to be a rug \u2014 liquidity dropped 89% over 24h."
+    },
+    {
+      "ts": 1791126299,
+      "type": "outcome",
+      "message": "\ud83d\udd34 Send it (Send) turned out to be a rug \u2014 liquidity dropped 88% over 24h."
+    },
+    {
+      "ts": 1791126298,
+      "type": "outcome",
+      "message": "\ud83d\udd34 Mooonaut (MOOON) turned out to be a rug \u2014 liquidity dropped 91% over 24h."
+    },
+    {
+      "ts": 1791126297,
+      "type": "outcome",
+      "message": "\ud83d\udd34 Ghosti (Ghosti) turned out to be a rug \u2014 liquidity dropped 71% over 24h."
+    },
+    {
+      "ts": 1791126297,
+      "type": "outcome",
+      "message": "\ud83d\udd34 VRAXWEEN (VRAXWEEN) turned out to be a rug \u2014 liquidity dropped 90% over 24h."
+    },
+    {
+      "ts": 1791126295,
+      "type": "scanner",
+      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 STRONG\nsif.gov (sif.gov)\nOpportunity: 86/100\n\nMOMENTUM     100\nSAFETY       90\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$20,179, 7 min since pool creation\n\u2022 Up +74% in the last hour, ~$40,339 in 24h volume (2.0x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Low, 10/100):\n\u2022 top 10 holders own 34% of supply\n\nCA: 2d1RrVaNKX2NyEQhKjENAQdU1X5JJr6Yvmj9kCfmpump\nhttps://dexscreener.com/solana/2d1RrVaNKX2NyEQhKjENAQdU1X5JJr6Yvmj9kCfmpump\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
+    },
+    {
+      "ts": 1791126293,
+      "type": "wallet",
+      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: GLDx -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/4qwUZZG5WXhM2wgdvitEoPRgKpaNUfrjXtKSKM3tVcN6KEX5q7sGp6f3pVmjDvTQpbofSijToJzcx5HaGMmEkMb4"
+    },
+    {
+      "ts": 1791126293,
+      "type": "wallet",
+      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: AAVE -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/3DpoSGHUkVp2Ra8GwdCBWwMiLnRR2uAdteHyzqsJ2iPDhHRK8GUNZDnCPXkMekZxJ3XzaM3sjT8Q1YNN7WNx9Nqk"
+    },
     {
       "ts": 1791098207,
       "type": "outcome",
@@ -301,51 +346,6 @@
       "ts": 1791080744,
       "type": "wallet",
       "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: ZAMA -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/2ztoBjHXZjfJ6X7gXUgzUBiZ18xSQaFZHm817p8SCDw95ATaXbzgbd9XsP95h4xgZpGLnHEsxkFAuwCY25JDD128"
-    },
-    {
-      "ts": 1791080744,
-      "type": "wallet",
-      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: NVDAx -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/2wNsEk3VqjaeDboFXEqkM17SrJ7MtA7TtRTzNGEPb6CkbYadKwGNW7uVHWr9mx89xURHwQYdSoDS6XHceYt9mrfE"
-    },
-    {
-      "ts": 1791053700,
-      "type": "outcome",
-      "message": "\ud83d\udd34 TLC (TLC) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
-    },
-    {
-      "ts": 1791053698,
-      "type": "outcome",
-      "message": "\ud83d\udd34 Fuck I Should've Held (FISH) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
-    },
-    {
-      "ts": 1791053698,
-      "type": "outcome",
-      "message": "\ud83d\udd34 Super Inu (SI) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
-    },
-    {
-      "ts": 1791053697,
-      "type": "outcome",
-      "message": "\ud83d\udd34 The Legacy Of Jane (Bili) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
-    },
-    {
-      "ts": 1791053696,
-      "type": "outcome",
-      "message": "\ud83d\udd34 thing (thing) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
-    },
-    {
-      "ts": 1791053695,
-      "type": "outcome",
-      "message": "\ud83d\udd34 Quants.bid (QUANT) turned out to be a rug \u2014 liquidity dropped 91% over 24h."
-    },
-    {
-      "ts": 1791053694,
-      "type": "outcome",
-      "message": "\ud83d\udd34 Quants.bid (QUANT) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
-    },
-    {
-      "ts": 1791053693,
-      "type": "outcome",
-      "message": "\ud83d\udfe2 filled.cards (FILLED) did really well \u2014 liquidity up 144% after 24h!"
     }
   ]
 }
