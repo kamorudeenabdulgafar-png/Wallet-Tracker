@@ -1,5 +1,5 @@
 {
-  "last_updated": 1791155981,
+  "last_updated": 1791156812,
   "wallets": [
     {
       "label": "Dev wallet 1",
@@ -70,7 +70,7 @@
         "BPxxfRCXkUVhig4HS1Lh7kZqV6SPJhzfEk4x6fVBjPCy",
         "27G8MtK7VtTcCHkpASjSDdkWWYfoqT6ggEuKidVJidD4"
       ],
-      "last_active": 1791151199,
+      "last_active": 1791156809,
       "positions": {},
       "realized_pnl_usd": 0.0
     }
@@ -97,6 +97,31 @@
   "learning_insight": "Coins that rugged averaged SAFETY 73; coins that did well averaged SAFETY 93.",
   "settings": {},
   "recent_alerts": [
+    {
+      "ts": 1791156812,
+      "type": "outcome",
+      "message": "\ud83d\udfe2 XFUN (XFUN) is still doing really good \u2014 up 804% so far!"
+    },
+    {
+      "ts": 1791156812,
+      "type": "outcome",
+      "message": "\ud83d\udfe0 Charles Robinson (CHARLES) is fading \u2014 down 36% so far."
+    },
+    {
+      "ts": 1791156811,
+      "type": "outcome",
+      "message": "\ud83d\udfe2 pup (pup) is still doing really good \u2014 up 60% so far!"
+    },
+    {
+      "ts": 1791156809,
+      "type": "wallet",
+      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: SHIB -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/4xV283iUrrm5WwUrdpiG3bzzsxjfbPsnrg6HRrLsAcgVC6pKDjmRxzLigFXDhQ1q9qgeZ43fg7TwSQxuDWcM9H61"
+    },
+    {
+      "ts": 1791156809,
+      "type": "wallet",
+      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: USDC -> 0.1146 SOL (~$13.96)\nTrade size: ~$13.96\nBought token: SOL (SOL)\nCA: So11111111111111111111111111111111111111112\nhttps://solscan.io/tx/2jPFibKv5tzsYnqDU9b5cCimfszkGzk13AmoKgkgHr3rCD186oVbQ2o63fGwYUJruk3w5oL6iZT3z1YyeQGseLX4"
+    },
     {
       "ts": 1791155981,
       "type": "outcome",
@@ -321,31 +346,6 @@
       "ts": 1791098207,
       "type": "outcome",
       "message": "\ud83d\udfe1 The Mentor (Mentor) is holding steady so far (-10%)."
-    },
-    {
-      "ts": 1791098205,
-      "type": "outcome",
-      "message": "\ud83d\udd34 darwin (darwin) is dropping fast \u2014 down 100%, may be rugging."
-    },
-    {
-      "ts": 1791098205,
-      "type": "outcome",
-      "message": "\ud83d\udd34 Super Intelligence Cat (SIC) is dropping fast \u2014 down 100%, may be rugging."
-    },
-    {
-      "ts": 1791098204,
-      "type": "outcome",
-      "message": "\ud83d\udd34 Shiba Accelerationism (shiba/acc) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
-    },
-    {
-      "ts": 1791098203,
-      "type": "outcome",
-      "message": "\ud83d\udd34 FROGE (FROGE) turned out to be a rug \u2014 liquidity dropped 73% over 24h."
-    },
-    {
-      "ts": 1791098203,
-      "type": "outcome",
-      "message": "\ud83d\udd34 PrintR (PRINTR) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
     }
   ]
 }
