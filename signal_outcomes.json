@@ -1,21 +1,4 @@
 {
-  "GhRJXatdMGdDcGmfxZPKWyUW4FNvMM4fSHRquyvgpump": {
-    "name": "paidAgents",
-    "symbol": "AGENTS",
-    "flagged_ts": 1790552665,
-    "liquidity_at_flag": 26060.011434635664,
-    "breakdown": {
-      "MOMENTUM": 100,
-      "SAFETY": 90,
-      "LIQUIDITY": 100,
-      "SMART MONEY": 0
-    },
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
   "FeeQF3ztg6CtCDY2ZaxMLJYoFQsbVztzvU83B9mk438o": {
     "name": "zmr",
     "symbol": "zmr",
@@ -16967,7 +16950,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "9BMbyUfW6g4ptTGqyZeLdKRMz9tM4ssSgUEKYK94hook": {
     "name": "Hooker",
