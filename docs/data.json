@@ -1,5 +1,5 @@
 {
-  "last_updated": 1791153815,
+  "last_updated": 1791154522,
   "wallets": [
     {
       "label": "Dev wallet 1",
@@ -97,6 +97,16 @@
   "learning_insight": "Coins that rugged averaged SAFETY 73; coins that did well averaged SAFETY 93.",
   "settings": {},
   "recent_alerts": [
+    {
+      "ts": 1791154522,
+      "type": "outcome",
+      "message": "\ud83d\udd34 trade/up (trade/up) is dropping fast \u2014 down 93%, may be rugging."
+    },
+    {
+      "ts": 1791154521,
+      "type": "scanner",
+      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\nHooker (HOOKER)\nOpportunity: 77/100\n\nMOMENTUM     100\nSAFETY       90\nLIQUIDITY    51\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$10,204, 7 min since pool creation\n\u2022 Up +76% in the last hour, ~$51,490 in 24h volume (5.0x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Low, 10/100):\n\u2022 top 10 holders own 39% of supply\n\nCA: 9BMbyUfW6g4ptTGqyZeLdKRMz9tM4ssSgUEKYK94hook\nhttps://dexscreener.com/solana/9BMbyUfW6g4ptTGqyZeLdKRMz9tM4ssSgUEKYK94hook\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
+    },
     {
       "ts": 1791153815,
       "type": "outcome",
@@ -336,16 +346,6 @@
       "ts": 1791087463,
       "type": "outcome",
       "message": "\ud83d\udd34 Pumpfun Ghost (Ghost) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
-    },
-    {
-      "ts": 1791087463,
-      "type": "outcome",
-      "message": "\ud83d\udd34 ZERO (\uc81c\ub85c) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
-    },
-    {
-      "ts": 1791087462,
-      "type": "outcome",
-      "message": "\ud83d\udfe2 Tip Toe'n in my Jordans (TIPTOE) did really well \u2014 liquidity up 117% after 24h!"
     }
   ]
 }
