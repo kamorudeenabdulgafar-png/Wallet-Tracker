@@ -1,21 +1,4 @@
 {
-  "DSiJqmJJTzmKGPzvuUC1JjwAVa7U2LZUAFcbJQupDrPQ": {
-    "name": "Swarm of Agents",
-    "symbol": "SOA",
-    "flagged_ts": 1790556745,
-    "liquidity_at_flag": 30609.915970094764,
-    "breakdown": {
-      "MOMENTUM": 100,
-      "SAFETY": 60,
-      "LIQUIDITY": 100,
-      "SMART MONEY": 0
-    },
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
   "Us5JCsdrW3Cd2KsgH1iVyDzVyDfkhj4ozsYLmpzpump": {
     "name": "TRUMPx",
     "symbol": "TRUMPx",
@@ -16958,7 +16941,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "KNs93PvsGvpn5pxsLPaDH6eAfUAkPLKTVwWMj5YfpJh": {
     "name": "Team Human",
@@ -16982,6 +16967,19 @@
       "MOMENTUM": 100,
       "SAFETY": 90,
       "LIQUIDITY": 58,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "98eDTcjtTG2Y4DYQWUWEzYJqocbqR8fmNRybKudpD39": {
+    "name": "Team Human",
+    "symbol": "Human",
+    "flagged_ts": 1791162166,
+    "liquidity_at_flag": 180851.7855167669,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
     "checkpoints_done": []
