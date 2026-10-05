@@ -1,38 +1,4 @@
 {
-  "7XdqdQpDLJ7uKpoZZmUXLnbURpE6jQ8PPTzShsAY1vUM": {
-    "name": "pump",
-    "symbol": "PUMP",
-    "flagged_ts": 1790567369,
-    "liquidity_at_flag": 28259.19132932325,
-    "breakdown": {
-      "MOMENTUM": 100,
-      "SAFETY": 60,
-      "LIQUIDITY": 100,
-      "SMART MONEY": 0
-    },
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "CGfVJX4D35wE8kviKKE1XyKU9EHRXe4Zsw3R55ABpump": {
-    "name": "hippoacc",
-    "symbol": "hippo/acc",
-    "flagged_ts": 1790567372,
-    "liquidity_at_flag": 14408.05494397426,
-    "breakdown": {
-      "MOMENTUM": 100,
-      "SAFETY": 100,
-      "LIQUIDITY": 72,
-      "SMART MONEY": 0
-    },
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
   "HjyW96uXnDPyehceFGwAGpL21JKBuZArpFrBm2g9Rxgn": {
     "name": "Sydney Sweeney's Boobs",
     "symbol": "BOOBS",
@@ -16775,7 +16741,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "DGY5pQ94LCKYjPLKqbUscvJPH5En5j4htHQcuL35pump": {
     "name": "Bramble",
@@ -16808,6 +16776,19 @@
     "symbol": "POKEPAD",
     "flagged_ts": 1791171270,
     "liquidity_at_flag": 45924.94868846571,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "124HwTp3xLMZLWcBoW45qLWm4xEJmRrHUNCXiMWikUHC": {
+    "name": "Higgspad",
+    "symbol": "HIGGS",
+    "flagged_ts": 1791172366,
+    "liquidity_at_flag": 243704.20615380764,
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 60,
