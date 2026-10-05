@@ -1,5 +1,5 @@
 {
-  "last_updated": 1791224205,
+  "last_updated": 1791225616,
   "wallets": [
     {
       "label": "Dev wallet 1",
@@ -9,7 +9,7 @@
   "wallet_stats": {
     "5CEbueQnq1Ym2uSSx2xXds3jQAqT1BDnkA59RZobSPAG": {
       "label": "Dev wallet 1",
-      "buy_count": 581,
+      "buy_count": 582,
       "sell_count": 281,
       "total_buy_usd": 16030.116257191565,
       "total_sell_usd": 0.0,
@@ -70,7 +70,7 @@
         "BPxxfRCXkUVhig4HS1Lh7kZqV6SPJhzfEk4x6fVBjPCy",
         "27G8MtK7VtTcCHkpASjSDdkWWYfoqT6ggEuKidVJidD4"
       ],
-      "last_active": 1791223129,
+      "last_active": 1791225609,
       "positions": {},
       "realized_pnl_usd": 0.0
     }
@@ -97,6 +97,91 @@
   "learning_insight": "Coins that rugged averaged SAFETY 73; coins that did well averaged SAFETY 93.",
   "settings": {},
   "recent_alerts": [
+    {
+      "ts": 1791225616,
+      "type": "outcome",
+      "message": "\ud83d\udfe0 Launchpad (launchpad) is fading \u2014 down 55% so far."
+    },
+    {
+      "ts": 1791225615,
+      "type": "outcome",
+      "message": "\ud83d\udd34 Giggle Hero (GiggleHero) is dropping fast \u2014 down 100%, may be rugging."
+    },
+    {
+      "ts": 1791225614,
+      "type": "outcome",
+      "message": "\ud83d\udd34 Unknown (?) is dropping fast \u2014 down 100%, may be rugging."
+    },
+    {
+      "ts": 1791225613,
+      "type": "outcome",
+      "message": "\ud83d\udfe0 Incog (INCOG) is fading \u2014 down 50% so far."
+    },
+    {
+      "ts": 1791225612,
+      "type": "scanner",
+      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\nCollect Royale (CR)\nOpportunity: 73/100\n\nMOMENTUM     73\nSAFETY       90\nLIQUIDITY    80\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$15,978, 12 min since pool creation\n\u2022 Up +49% in the last hour, ~$27,855 in 24h volume (1.7x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Low, 10/100):\n\u2022 top 10 holders own 48% of supply\n\nCA: DVQ2ckVHDb1adSNPZrNb1geiyYiVb7NzfHkwcH8Cpump\nhttps://dexscreener.com/solana/DVQ2ckVHDb1adSNPZrNb1geiyYiVb7NzfHkwcH8Cpump\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
+    },
+    {
+      "ts": 1791225610,
+      "type": "wallet",
+      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: TSLAx -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/5YvJmdbqcFPokL9YbG6mwSouYTfRYzBjGiHYrppVkLbUvuLnqkDX5vA58Bsbe4efRW5HndtABpViuyGmCw6XHBEs"
+    },
+    {
+      "ts": 1791225609,
+      "type": "wallet",
+      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: SHIB -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/dsCjaGa1FM85YLianSFX4AkaaBfDk2Q3KZsxyapkPtBz1Q9wY7umf1cPTHx5nV6c26ZgNZXkcbiWQYyef4hSz4K"
+    },
+    {
+      "ts": 1791225608,
+      "type": "wallet",
+      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: USDC -> 0.0502 SOL (~$6.02)\nTrade size: ~$6.02\nBought token: SOL (SOL)\nCA: So11111111111111111111111111111111111111112\nhttps://solscan.io/tx/BoZkkwymahqz8GD75FYCbACUoDqVMMJ5Mm58T5R2heoL86zzjap2wDpFQhvSbG1LUQeguLMGABAczjQU2T7Hgau"
+    },
+    {
+      "ts": 1791225608,
+      "type": "wallet",
+      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: USDC -> 0.0462 SOL (~$5.54)\nTrade size: ~$5.54\nBought token: SOL (SOL)\nCA: So11111111111111111111111111111111111111112\nhttps://solscan.io/tx/5LbULvC3pCeQu3o1sWkcZ4qShgvqJGZySNiNmSZEYPFmNmc9aCkb9jnHx7RD83iQBLVjPJC4LZWfo7WF6HLmUNfc"
+    },
+    {
+      "ts": 1791225607,
+      "type": "wallet",
+      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: USDC -> 0.1171 SOL (~$14.05)\nTrade size: ~$14.05\nBought token: SOL (SOL)\nCA: So11111111111111111111111111111111111111112\nhttps://solscan.io/tx/22GbPBzmUZLfvaKw4VCkyT1Tu9yYZFGMSTPVwqVHo3uBR1dc56XtMYk6MtVGGZb2AKcrhkCydjZgmL2s6dPossJq"
+    },
+    {
+      "ts": 1791225606,
+      "type": "wallet",
+      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: USDC -> 0.0699 SOL (~$8.39)\nTrade size: ~$8.39\nBought token: SOL (SOL)\nCA: So11111111111111111111111111111111111111112\nhttps://solscan.io/tx/r3KSrxrLdDycnEb1pHm7Z4J2sgkF8GQiJhdcg7iDK3SdpbM5ed3npUMVj7mcJ2eksHWeLqJ92SXMHDvAzKgK7Nf"
+    },
+    {
+      "ts": 1791225606,
+      "type": "wallet",
+      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: TTWO -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/545M9GZXzE4QHZVsNJKQvKcLe2UY2GjPdbrTtM3TLesS1yMLXuLEnddrQeh1UqxYXq7j5GSVosW6RVxUEywnrJku"
+    },
+    {
+      "ts": 1791225605,
+      "type": "wallet",
+      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: ZAMA -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/2cZqAQxzT83uJVtNQEsGaL7HyEEG8vNQwkSLq2i1WNMpxCf3dzFrigCSzp4p9SvfdJwVPKp66oZeMwQVk3aS1T6A"
+    },
+    {
+      "ts": 1791225604,
+      "type": "wallet",
+      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: SNDK -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/5FNmVyizhH3h7ss13mPyhSuKTkxZSKDem28kWhcJy41n155hCtFsSQRQoytMw1Pta1z5Y7nv8tGsmw99pgJq1gSA"
+    },
+    {
+      "ts": 1791225604,
+      "type": "wallet",
+      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: 0.0929 SOL (~$11.14) -> USDC\nTrade size: ~$11.14\nBought token: USD Coin (USDC)\nCA: EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v\nhttps://solscan.io/tx/4uVN113LR5XwQ964t5P7yQWWg4Kk96hHex9V4vTKaeeVLnSN6zGrMHW3wmJunzwy8XV6mX1UisnFDXpr4278aVJf"
+    },
+    {
+      "ts": 1791225603,
+      "type": "wallet",
+      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: USDC -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/2obhuNqtRXHpHYV9SFp3siDn7cNkJ93ZVF2UnB8yobSg3EQst3tU7XmfzoXkHJVbsFCsicFiFTXwRVYdYoTBbV9L"
+    },
+    {
+      "ts": 1791225602,
+      "type": "wallet",
+      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: DKNG -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/N5SywdJcVjZKTDPhXA3CXzHt7RZYkJjNkK9nnWqg3bdEm97nAYk3cuo5aPg3KHkqyHmLLTHMJkG4s3hcieC9emC"
+    },
     {
       "ts": 1791224205,
       "type": "outcome",
@@ -261,91 +346,6 @@
       "ts": 1791218091,
       "type": "outcome",
       "message": "\ud83d\udd34 \u02da \u0f18 \u0cc0\u22c6\uff61\u02da (Apiary) is dropping fast \u2014 down 100%, may be rugging."
-    },
-    {
-      "ts": 1791218090,
-      "type": "outcome",
-      "message": "\ud83d\udd34 Super Model (SM) is dropping fast \u2014 down 100%, may be rugging."
-    },
-    {
-      "ts": 1791218089,
-      "type": "outcome",
-      "message": "\ud83d\udfe1 Trade Internet Trends (TIT) is holding steady so far (-6%)."
-    },
-    {
-      "ts": 1791218088,
-      "type": "outcome",
-      "message": "\ud83d\udfe0 \u30d8\u30c9\u30d0\u30f3\u30d0\u30b9\u30d4\u30b9 (Sacabambaspis) is fading \u2014 down 49% so far."
-    },
-    {
-      "ts": 1791218088,
-      "type": "outcome",
-      "message": "\ud83d\udd34 Super Inu (SI) is dropping fast \u2014 down 100%, may be rugging."
-    },
-    {
-      "ts": 1791218087,
-      "type": "scanner",
-      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\nDigital Gold Token (DGLD)\nOpportunity: 76/100\n\nMOMENTUM     100\nSAFETY       60\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$36,238, 8 min since pool creation\n\u2022 Up +109% in the last hour, ~$717,424 in 24h volume (19.8x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 95% of supply (very concentrated)\n\nCA: 8hdR6eLsSS9Y5R9fcJVmHnZ7JKgwtmegGtSTcpTeyuGy\nhttps://dexscreener.com/solana/8hdR6eLsSS9Y5R9fcJVmHnZ7JKgwtmegGtSTcpTeyuGy\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
-    },
-    {
-      "ts": 1791218085,
-      "type": "scanner",
-      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\nCybercat (CYBERCAT)\nOpportunity: 74/100\n\nMOMENTUM     93\nSAFETY       60\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$28,867, 6 min since pool creation\n\u2022 Up +62% in the last hour, ~$15,337 in 24h volume (0.5x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 80% of supply (very concentrated)\n\nCA: EoWwjzGvmpk99VMM4J1uVdJjpyxkHWAQS7Uy5Lhx7oSK\nhttps://dexscreener.com/solana/EoWwjzGvmpk99VMM4J1uVdJjpyxkHWAQS7Uy5Lhx7oSK\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
-    },
-    {
-      "ts": 1791218084,
-      "type": "scanner",
-      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 STRONG\nSlazh a pack, own a real stock. (SLAZH)\nOpportunity: 81/100\n\nMOMENTUM     100\nSAFETY       75\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$30,827, 6 min since pool creation\n\u2022 Up +98% in the last hour, ~$54,665 in 24h volume (1.8x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 25/100):\n\u2022 top 10 holders own 62% of supply (concentrated)\n\nCA: 9vAddVEbKJvok3moyB6MiLR7ijUN6EiUZXgioeCypump\nhttps://dexscreener.com/solana/9vAddVEbKJvok3moyB6MiLR7ijUN6EiUZXgioeCypump\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
-    },
-    {
-      "ts": 1791216950,
-      "type": "wallet",
-      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: SPYx -> USDC\nTrade size: unknown\nBought token: USD Coin (USDC)\nCA: EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v\nhttps://solscan.io/tx/61zUt3LGKpnHrmm4yqqn12pJc8XnwtTuXhoymw2H6wF1GhMwzLEYVPh4n6oZCYNtVs7gL6874YtAtPbJxZGiUziP"
-    },
-    {
-      "ts": 1791216949,
-      "type": "wallet",
-      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: TSLAx -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/61FPbbQw9uVUcPNMVHGD8pbrcjyVXucqdBvmq7cJ6o2TivfsVPvKW8rRC1DpcA4eikJgTk24GAYNTwuVp3oaRMN"
-    },
-    {
-      "ts": 1791216949,
-      "type": "wallet",
-      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: xSOL -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/2FYHXYbN1TSxoUaQwA6fHoRiH4LSvr4BvamxH7kcY8ByZ7725LYjNAnLxp3guVorDQSu34tNAydsy5q2bnEvSyME"
-    },
-    {
-      "ts": 1791216947,
-      "type": "wallet",
-      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: SKR -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/3TV7kAVBygQgiU51NkqoHM7qRqJWZuKwYdk4x6ZsfwmL5mfi6DcBnSnVtHrdkKXkyWfR7MCkPFwBZYGZx8fTfMje"
-    },
-    {
-      "ts": 1791216946,
-      "type": "wallet",
-      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: SHIB -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/3cPnenEuLgtJFfafTeefb83V7n1RfYeBFxzgyW63u32xArE8TvjVmFbvNGGxMVLAJP41zhGeEveLYCTA3FQL8bqx"
-    },
-    {
-      "ts": 1791216946,
-      "type": "wallet",
-      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: Fartcoin  -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/32wacqjD9wr19Q8ARoDmhwFAERyW5oxkaQ3zysQkvzjyJi8aBD34w63a6Xb7Z939sZp788aHYUmTT39w3WGSE8fy"
-    },
-    {
-      "ts": 1791216945,
-      "type": "wallet",
-      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: xHYPE -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/4Ai9svNWyaNCd9ang6PbyffjcUg1s1JaTNRbDsniJ74Hu5qD7JkHPir72DDRekwYXsayf2Yi6TLk1V4uuVD2TLMx"
-    },
-    {
-      "ts": 1791215956,
-      "type": "outcome",
-      "message": "\ud83d\udd34 Teemlings (TEEM) is dropping fast \u2014 down 100%, may be rugging."
-    },
-    {
-      "ts": 1791215956,
-      "type": "outcome",
-      "message": "\ud83d\udd34 Cybercat (CYBERCAT) is dropping fast \u2014 down 100%, may be rugging."
-    },
-    {
-      "ts": 1791215955,
-      "type": "outcome",
-      "message": "\ud83d\udfe0 Privacy Protocol (VANTA) is fading \u2014 down 57% so far."
     }
   ]
 }
