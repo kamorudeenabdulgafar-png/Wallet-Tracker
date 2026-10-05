@@ -1,21 +1,4 @@
 {
-  "AXWMZrJ8EaGZ1ijvjnnmGgcRcM9agKZLTkW7zKdPTUxQ": {
-    "name": "Pixel News Network",
-    "symbol": "PNN",
-    "flagged_ts": 1790611094,
-    "liquidity_at_flag": 23509.12662911175,
-    "breakdown": {
-      "MOMENTUM": 89,
-      "SAFETY": 60,
-      "LIQUIDITY": 100,
-      "SMART MONEY": 0
-    },
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
   "GWj886SNiAMt6tWGDQf3XULzrVocErQnnuSD7KBfWo75": {
     "name": "Wormhole Liquidity",
     "symbol": "WORM",
@@ -15311,7 +15294,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "HJSWJvrmzcMiYaavD4FTZEWnXhh7PC3ti8wgAA5W7aRy": {
@@ -15580,7 +15564,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "Cqtv3FnQVchQtUZ4SVw97vcZeecW5ffoVg7PpurUFxqn": {
     "name": "Teemlings",
@@ -15593,13 +15579,41 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "3sidX8wc2fMPJtxZXggRMZn4EYnsyVRj2HaKbELy5gtr": {
     "name": "Quant",
     "symbol": "QUANT",
     "flagged_ts": 1791214993,
     "liquidity_at_flag": 58927.91964066065,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "3j5CxaE848U8HgsUC75rT7HgUA4iHBfWpHYWcrrSfiky": {
+    "name": "Artifact Council",
+    "symbol": "AC",
+    "flagged_ts": 1791215953,
+    "liquidity_at_flag": 27566.5014543191,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "4BrY9cLgzuWxQd3SJ196d3Y9fvKCRUG8h15pMUERx1FV": {
+    "name": "Artifact Council",
+    "symbol": "AC",
+    "flagged_ts": 1791215953,
+    "liquidity_at_flag": 28056.513786658456,
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 60,
