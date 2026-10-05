@@ -1,21 +1,4 @@
 {
-  "6o34UXcs7i73eJzxrF9dJUk1GQtPn3Z5oWPHYqaBF9Jk": {
-    "name": "CoinMarketCat",
-    "symbol": "CMC",
-    "flagged_ts": 1790602857,
-    "liquidity_at_flag": 44716.239382454354,
-    "breakdown": {
-      "MOMENTUM": 100,
-      "SAFETY": 75,
-      "LIQUIDITY": 100,
-      "SMART MONEY": 0
-    },
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
   "6qBR7sk15ZVdt1vx6j1JgtkuurK8WrapugFptWQCyzL6": {
     "name": "Pygoscelis kerguelensis",
     "symbol": "Pygoscelis",
@@ -15388,7 +15371,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "Nrp9dsku6pT2oDwrfZ1nY1DiSQ4pznXUAiVMknyZu4r": {
@@ -15650,6 +15634,45 @@
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "G6en9F2BioJgCREMDp5ckhDihaSVMGCgPU5ccCP4jS9f": {
+    "name": "Binance AI",
+    "symbol": "BAI",
+    "flagged_ts": 1791208010,
+    "liquidity_at_flag": 48303.06079999848,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "BaqDRsCj5U3DpQ47Y1u8RrM4qk1mHFLaFPbKFak5biMR": {
+    "name": "Binance AI",
+    "symbol": "BAI",
+    "flagged_ts": 1791208011,
+    "liquidity_at_flag": 29056.513391408735,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "339XJNPNnEkHtenuEuML2tkkuedEs11fch3YZ5kmpump": {
+    "name": "FOUND",
+    "symbol": "FOUND",
+    "flagged_ts": 1791208013,
+    "liquidity_at_flag": 30182.97602900109,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 90,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
