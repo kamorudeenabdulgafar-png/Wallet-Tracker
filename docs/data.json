@@ -1,5 +1,5 @@
 {
-  "last_updated": 1791185972,
+  "last_updated": 1791186896,
   "wallets": [
     {
       "label": "Dev wallet 1",
@@ -9,7 +9,7 @@
   "wallet_stats": {
     "5CEbueQnq1Ym2uSSx2xXds3jQAqT1BDnkA59RZobSPAG": {
       "label": "Dev wallet 1",
-      "buy_count": 577,
+      "buy_count": 578,
       "sell_count": 279,
       "total_buy_usd": 16030.116257191565,
       "total_sell_usd": 0.0,
@@ -70,7 +70,7 @@
         "BPxxfRCXkUVhig4HS1Lh7kZqV6SPJhzfEk4x6fVBjPCy",
         "27G8MtK7VtTcCHkpASjSDdkWWYfoqT6ggEuKidVJidD4"
       ],
-      "last_active": 1791176718,
+      "last_active": 1791186892,
       "positions": {},
       "realized_pnl_usd": 0.0
     }
@@ -97,6 +97,56 @@
   "learning_insight": "Coins that rugged averaged SAFETY 73; coins that did well averaged SAFETY 93.",
   "settings": {},
   "recent_alerts": [
+    {
+      "ts": 1791186896,
+      "type": "outcome",
+      "message": "\ud83d\udd34 Higgspad (HIGGS) is dropping fast \u2014 down 100%, may be rugging."
+    },
+    {
+      "ts": 1791186895,
+      "type": "scanner",
+      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\n01001111.ai (CODIE)\nOpportunity: 76/100\n\nMOMENTUM     100\nSAFETY       60\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$44,817, 13 min since pool creation\n\u2022 Up +98% in the last hour, ~$38,614 in 24h volume (0.9x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 84% of supply (very concentrated)\n\nCA: 63e9sDMnXEgDw81PK3eMJ4EAHwZT9RhNypoeZafUn9A5\nhttps://dexscreener.com/solana/63e9sDMnXEgDw81PK3eMJ4EAHwZT9RhNypoeZafUn9A5\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
+    },
+    {
+      "ts": 1791186892,
+      "type": "wallet",
+      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: ONDO -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/2Va1gfMXpBQTFsZjC5mYoi7nEaCWQTNSjTdpzfB3u3sgeTLNNMAqv9653dmt7ePkdH9crDtjgTA1ED6mZaewfkwH"
+    },
+    {
+      "ts": 1791186892,
+      "type": "wallet",
+      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: 0.0622 SOL (~$7.57) -> USDC\nTrade size: ~$7.57\nBought token: USD Coin (USDC)\nCA: EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v\nhttps://solscan.io/tx/4rdhYVzPgfV3XwysXSDLZ4GEbwCCkdcxsmkVys3fb5pKrZzZCb3Sr5JsyDAgy8xcxPzbPbXZXKwKfmuaKeethF6Y"
+    },
+    {
+      "ts": 1791186891,
+      "type": "wallet",
+      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: USDC -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/4BYkRED6jbJQRFMimEnG21bENykbbJvtZZoVzuZpYLfEcUGdD8WvC2si7CKncxTjbbnvgrKGJZgctTGb2PikykJH"
+    },
+    {
+      "ts": 1791186890,
+      "type": "wallet",
+      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: 0.0513 SOL (~$6.24) -> USDC\nTrade size: ~$6.24\nBought token: USD Coin (USDC)\nCA: EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v\nhttps://solscan.io/tx/5KowhpHSHkirxoKi7ruW1bn5L7KSNXg1hf3HYUfgaW5vVgsfcW2BRLJcVQjpWeoWdRkaooNyWK19AAxmpUkWzsYi"
+    },
+    {
+      "ts": 1791186890,
+      "type": "wallet",
+      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: SPCXx -> SPCX\nTrade size: unknown\nBought token: SpaceX - Backpack Securities (SPCX)\nCA: SPCXxcqXj6e5dJDVNovHN8744zkbhM2bYudU45BimGb\nhttps://solscan.io/tx/66JzBT5ebQJB1KyWbrsbkGqW22JoDHs5YmZb7UFDNrCPvvEKo7qySXGRBAYxKYu4wKY6wDNkrkqtu2Ue3BtFv9Qn"
+    },
+    {
+      "ts": 1791186889,
+      "type": "wallet",
+      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: DJT -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/4UC59fdMNENrwaDoFaGq3vpPu4xVhbAxBh4egv4pmn8qTbYh4ZutQC16SNSfe3azUYm76B4XHbswzj3sBLoa8K4q"
+    },
+    {
+      "ts": 1791186888,
+      "type": "wallet",
+      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: INJ -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/f4p9ztwhaiB5JvYNsNNZ4bX2nbVW5D6gTvn1hvsRqzCmfZtZC8agGJhU5BiGdbPWvP7HqqavdSycWwSLsWfgkwg"
+    },
+    {
+      "ts": 1791186887,
+      "type": "wallet",
+      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: wXRP -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/ypZKSpZTFmitaXMpMjP5fuUTJuAHqADtzBPHUn3aLE383vwprpJkeFVgYrBuF7HxeACE3sEZTyMst5NZFCfF8zm"
+    },
     {
       "ts": 1791185972,
       "type": "outcome",
@@ -296,56 +346,6 @@
       "ts": 1791174527,
       "type": "wallet",
       "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: USELESS -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/JQLkcKkk2fJP2jbEw9yrs4G5YPNPWiozHEk3syHTaB424EkjTEzEXvNKxsBWtby2Neq2z5PU78ro1KDcJxunyyF"
-    },
-    {
-      "ts": 1791174526,
-      "type": "wallet",
-      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: USDC -> 0.0699 SOL (~$8.42)\nTrade size: ~$8.42\nBought token: SOL (SOL)\nCA: So11111111111111111111111111111111111111112\nhttps://solscan.io/tx/3YhTvwfEGoKpDvBK5XbotpxRDAxRjGKcoqzW2KjshRAYXZq5u6EBS4GiKL2N6NRxFMTBe8mFDwwUcCrgpsHQBFTe"
-    },
-    {
-      "ts": 1791173378,
-      "type": "outcome",
-      "message": "\ud83d\udd34 PokeStrategy (PSTR) is dropping fast \u2014 down 100%, may be rugging."
-    },
-    {
-      "ts": 1791173377,
-      "type": "scanner",
-      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\nPokePad (POKEPAD)\nOpportunity: 76/100\n\nMOMENTUM     100\nSAFETY       60\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$46,695, 19 min since pool creation\n\u2022 Up +66% in the last hour, ~$50,057 in 24h volume (1.1x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 90% of supply (very concentrated)\n\nCA: 4rrB7BzaywCKCrb2SSC9nqKCteDKdaNFBwiiHD67jBxt\nhttps://dexscreener.com/solana/4rrB7BzaywCKCrb2SSC9nqKCteDKdaNFBwiiHD67jBxt\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
-    },
-    {
-      "ts": 1791172367,
-      "type": "outcome",
-      "message": "\ud83d\udd34 Baton Agency (BATENCY) is dropping fast \u2014 down 91%, may be rugging."
-    },
-    {
-      "ts": 1791172366,
-      "type": "scanner",
-      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\nHiggspad (HIGGS)\nOpportunity: 76/100\n\nMOMENTUM     100\nSAFETY       60\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$243,704, 15 min since pool creation\n\u2022 Up +78% in the last hour, ~$2,343,201 in 24h volume (9.6x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 83% of supply (very concentrated)\n\nCA: 124HwTp3xLMZLWcBoW45qLWm4xEJmRrHUNCXiMWikUHC\nhttps://dexscreener.com/solana/124HwTp3xLMZLWcBoW45qLWm4xEJmRrHUNCXiMWikUHC\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
-    },
-    {
-      "ts": 1791171274,
-      "type": "outcome",
-      "message": "\ud83d\udd34 \u4e2d\u56fd\u9f99 (\u4e2d\u56fd\u9f99) is dropping fast \u2014 down 100%, may be rugging."
-    },
-    {
-      "ts": 1791171273,
-      "type": "outcome",
-      "message": "\ud83d\udd34 Cybercat (CYBERCAT) is dropping fast \u2014 down 100%, may be rugging."
-    },
-    {
-      "ts": 1791171273,
-      "type": "outcome",
-      "message": "\ud83d\udfe0 Agentok (AGENTOK) is fading \u2014 down 32% so far."
-    },
-    {
-      "ts": 1791171272,
-      "type": "outcome",
-      "message": "\ud83d\udd34 Cashpig (CASHPIG) is dropping fast \u2014 down 88%, may be rugging."
-    },
-    {
-      "ts": 1791171271,
-      "type": "outcome",
-      "message": "\ud83d\udd34 PokeStrategy (PSTR) is dropping fast \u2014 down 100%, may be rugging."
     }
   ]
 }

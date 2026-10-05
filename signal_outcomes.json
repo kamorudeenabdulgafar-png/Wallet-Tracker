@@ -1,38 +1,4 @@
 {
-  "BSupxTbKDofrX9qegDJ3KNxrCh63XF7ejiNmCvqP9DgZ": {
-    "name": "Leverage Pad",
-    "symbol": "LEVERAGE",
-    "flagged_ts": 1790581183,
-    "liquidity_at_flag": 57179.80165818033,
-    "breakdown": {
-      "MOMENTUM": 100,
-      "SAFETY": 60,
-      "LIQUIDITY": 100,
-      "SMART MONEY": 0
-    },
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "9p3NuCz29u7KUsjfrZcBPNGB2pryDpACggjSjYWbkpds": {
-    "name": "cum",
-    "symbol": "cum",
-    "flagged_ts": 1790582026,
-    "liquidity_at_flag": 34648.32704908828,
-    "breakdown": {
-      "MOMENTUM": 70,
-      "SAFETY": 90,
-      "LIQUIDITY": 100,
-      "SMART MONEY": 0
-    },
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
   "J7HKHye56MNCj3p3RQtFR63aJC5cBkvmvifempWmSj47": {
     "name": "Official Axiom Coin",
     "symbol": "AXIOM",
@@ -16117,7 +16083,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "4rrB7BzaywCKCrb2SSC9nqKCteDKdaNFBwiiHD67jBxt": {
@@ -16258,6 +16225,19 @@
     "symbol": "CYBERCAT",
     "flagged_ts": 1791185966,
     "liquidity_at_flag": 36174.100013457224,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "63e9sDMnXEgDw81PK3eMJ4EAHwZT9RhNypoeZafUn9A5": {
+    "name": "01001111.ai",
+    "symbol": "CODIE",
+    "flagged_ts": 1791186895,
+    "liquidity_at_flag": 44816.75944299933,
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 60,
