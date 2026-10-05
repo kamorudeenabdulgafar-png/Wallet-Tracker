@@ -1,5 +1,5 @@
 {
-  "last_updated": 1791168104,
+  "last_updated": 1791169127,
   "wallets": [
     {
       "label": "Dev wallet 1",
@@ -97,6 +97,16 @@
   "learning_insight": "Coins that rugged averaged SAFETY 73; coins that did well averaged SAFETY 93.",
   "settings": {},
   "recent_alerts": [
+    {
+      "ts": 1791169127,
+      "type": "outcome",
+      "message": "\ud83d\udfe2 Hooker (HOOKER) is still doing really good \u2014 up 39% so far!"
+    },
+    {
+      "ts": 1791169126,
+      "type": "outcome",
+      "message": "\ud83d\udd34 HOOKEDPEPE (HOOKEDPEPE) is dropping fast \u2014 down 90%, may be rugging."
+    },
     {
       "ts": 1791168104,
       "type": "outcome",
@@ -336,16 +346,6 @@
       "ts": 1791156809,
       "type": "wallet",
       "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: SHIB -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/4xV283iUrrm5WwUrdpiG3bzzsxjfbPsnrg6HRrLsAcgVC6pKDjmRxzLigFXDhQ1q9qgeZ43fg7TwSQxuDWcM9H61"
-    },
-    {
-      "ts": 1791156809,
-      "type": "wallet",
-      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: USDC -> 0.1146 SOL (~$13.96)\nTrade size: ~$13.96\nBought token: SOL (SOL)\nCA: So11111111111111111111111111111111111111112\nhttps://solscan.io/tx/2jPFibKv5tzsYnqDU9b5cCimfszkGzk13AmoKgkgHr3rCD186oVbQ2o63fGwYUJruk3w5oL6iZT3z1YyeQGseLX4"
-    },
-    {
-      "ts": 1791155981,
-      "type": "outcome",
-      "message": "\ud83d\udfe0 Fake Intelligence (FI) is fading \u2014 down 55% so far."
     }
   ]
 }
