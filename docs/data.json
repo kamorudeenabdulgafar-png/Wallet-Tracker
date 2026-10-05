@@ -1,5 +1,5 @@
 {
-  "last_updated": 1791173378,
+  "last_updated": 1791174536,
   "wallets": [
     {
       "label": "Dev wallet 1",
@@ -70,7 +70,7 @@
         "BPxxfRCXkUVhig4HS1Lh7kZqV6SPJhzfEk4x6fVBjPCy",
         "27G8MtK7VtTcCHkpASjSDdkWWYfoqT6ggEuKidVJidD4"
       ],
-      "last_active": 1791167125,
+      "last_active": 1791174529,
       "positions": {},
       "realized_pnl_usd": 0.0
     }
@@ -89,7 +89,7 @@
     "count": 2835,
     "up_count": 613,
     "total_change_pct": -155586.29928175083,
-    "rug": 3107,
+    "rug": 3109,
     "doing_well": 42,
     "steady": 17,
     "fading": 53
@@ -97,6 +97,61 @@
   "learning_insight": "Coins that rugged averaged SAFETY 73; coins that did well averaged SAFETY 93.",
   "settings": {},
   "recent_alerts": [
+    {
+      "ts": 1791174536,
+      "type": "outcome",
+      "message": "\ud83d\udd34 Bramble (BRAM) is dropping fast \u2014 down 90%, may be rugging."
+    },
+    {
+      "ts": 1791174535,
+      "type": "outcome",
+      "message": "\ud83d\udd34 The Mentor (Mentor) turned out to be a rug \u2014 liquidity dropped 77% over 24h."
+    },
+    {
+      "ts": 1791174534,
+      "type": "outcome",
+      "message": "\ud83d\udd34 AI Trading Pet (KIBBLE) turned out to be a rug \u2014 liquidity dropped 92% over 24h."
+    },
+    {
+      "ts": 1791174532,
+      "type": "scanner",
+      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\nPairstreet (STREET)\nOpportunity: 75/100\n\nMOMENTUM     66\nSAFETY       90\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$27,588, 6 min since pool creation\n\u2022 Up +44% in the last hour, ~$29,164 in 24h volume (1.1x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Low, 10/100):\n\u2022 top 10 holders own 38% of supply\n\nCA: 6iQp3cxTYPKaHHRX3SnmuFisLdrr9DznDU6gKnQtpump\nhttps://dexscreener.com/solana/6iQp3cxTYPKaHHRX3SnmuFisLdrr9DznDU6gKnQtpump\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
+    },
+    {
+      "ts": 1791174530,
+      "type": "wallet",
+      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: ai16z -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/2XxP15Kp7s3iAR8gBXrvnJiv6wwRkBki1bkhFSoVSKCCYSBstcYomeYBdWZ2wkq3kEpvFTzQScZkDpfBFzxwBtFg"
+    },
+    {
+      "ts": 1791174529,
+      "type": "wallet",
+      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: APE -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/4MnNe4nkggShb5EvDivTarocZyNkSWXAsNKf5jqomQ8CPnSr29sfy849TuE6h1C2DwKVi4U4Z32PPNBSXkpgD6XW"
+    },
+    {
+      "ts": 1791174528,
+      "type": "wallet",
+      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: PEPE -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/3cp1sNa4V63ghX2xKSZyyABSE6T4WeUFungWFG9mZ65yVQtqXYdec5WvNsePDc152FnH3WucoeFzJ2JgMiR4wWh8"
+    },
+    {
+      "ts": 1791174528,
+      "type": "wallet",
+      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: WBTC -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/121oAD9xEDT6wuz284CbxVn2HdJGaGQLsKVNmqgjtUajGhLVco6voUPTfmNgs1h91aTMHv89BJnaTbEycDDXxc8C"
+    },
+    {
+      "ts": 1791174527,
+      "type": "wallet",
+      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: ZEC -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/2qDqvsAanXA8PzrPPV2CsNLSkq1LU3pzakcSXHFjRM3gkgyuHMqDY2C8amXTEtqppe5xXovxRcLAEnAhDRsLo6at"
+    },
+    {
+      "ts": 1791174527,
+      "type": "wallet",
+      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: USELESS -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/JQLkcKkk2fJP2jbEw9yrs4G5YPNPWiozHEk3syHTaB424EkjTEzEXvNKxsBWtby2Neq2z5PU78ro1KDcJxunyyF"
+    },
+    {
+      "ts": 1791174526,
+      "type": "wallet",
+      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: USDC -> 0.0699 SOL (~$8.42)\nTrade size: ~$8.42\nBought token: SOL (SOL)\nCA: So11111111111111111111111111111111111111112\nhttps://solscan.io/tx/3YhTvwfEGoKpDvBK5XbotpxRDAxRjGKcoqzW2KjshRAYXZq5u6EBS4GiKL2N6NRxFMTBe8mFDwwUcCrgpsHQBFTe"
+    },
     {
       "ts": 1791173378,
       "type": "outcome",
@@ -291,61 +346,6 @@
       "ts": 1791164418,
       "type": "wallet",
       "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: SPCXx -> SPCX\nTrade size: unknown\nBought token: SpaceX - Backpack Securities (SPCX)\nCA: SPCXxcqXj6e5dJDVNovHN8744zkbhM2bYudU45BimGb\nhttps://solscan.io/tx/51TwdJ5zKVwW5KM26rPkypH72wCLtTQDSzU7BVfu1pDjweq2m3iKvQtQerZipozTBovYrZgL386jspi7EiPJJmMT"
-    },
-    {
-      "ts": 1791164417,
-      "type": "wallet",
-      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: GMEx -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/2hNBYsdxTjsy7AXm19NTfJJryfgs4qFgxEy2Df7DiCDnzq5jJnpqGSsB32q5VmYVSHrw2eHmc7hYAdPttt53dcGp"
-    },
-    {
-      "ts": 1791164416,
-      "type": "wallet",
-      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: WBTC -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/43FtHcDkJMrXsNbE7LjVz92qzhGjzbmxUSK7fo8STtGUMbXAhk9xboakf3VYEPmrc31fkAz6AnFCZqiFP5vCLkdC"
-    },
-    {
-      "ts": 1791164416,
-      "type": "wallet",
-      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: NVDAx -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/j9egRz8jeqSKXE1ZCoWppF16HTmHjUC9ciEbt8Tfen4nK8mNeUBu8WysuZYyiQABoKqBeQeXZYJm6HvecaWYNGg"
-    },
-    {
-      "ts": 1791164415,
-      "type": "wallet",
-      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: 1.9515 SOL (~$236.29) -> STONK\nTrade size: ~$236.29\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/36VukcvJhrsQNt9ij9fGxee3rSaqv15Knz6eeS6B4xB98mhyr6KkHE2UoNzNGqJPduHrL8goZieyVtwRqxWKMRVj"
-    },
-    {
-      "ts": 1791163326,
-      "type": "scanner",
-      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 STRONG\nreeaach (REACH)\nOpportunity: 81/100\n\nMOMENTUM     100\nSAFETY       90\nLIQUIDITY    72\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$14,432, 7 min since pool creation\n\u2022 Up +133% in the last hour, ~$40,352 in 24h volume (2.8x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Low, 10/100):\n\u2022 top 10 holders own 47% of supply\n\nCA: 67edGEcvxoGbJWf14Dmo34ma8bV2XbWgUte4LUj3pump\nhttps://dexscreener.com/solana/67edGEcvxoGbJWf14Dmo34ma8bV2XbWgUte4LUj3pump\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
-    },
-    {
-      "ts": 1791162167,
-      "type": "outcome",
-      "message": "\ud83d\udd34 PokeStrategy (PSTR) is dropping fast \u2014 down 100%, may be rugging."
-    },
-    {
-      "ts": 1791162166,
-      "type": "scanner",
-      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\nTeam Human (Human)\nOpportunity: 76/100\n\nMOMENTUM     100\nSAFETY       60\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$180,852, 17 min since pool creation\n\u2022 Up +128% in the last hour, ~$2,136,449 in 24h volume (11.8x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 82% of supply (very concentrated)\n\nCA: 98eDTcjtTG2Y4DYQWUWEzYJqocbqR8fmNRybKudpD39\nhttps://dexscreener.com/solana/98eDTcjtTG2Y4DYQWUWEzYJqocbqR8fmNRybKudpD39\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
-    },
-    {
-      "ts": 1791160936,
-      "type": "outcome",
-      "message": "\ud83d\udd34 Cybercat (CYBERCAT) is dropping fast \u2014 down 100%, may be rugging."
-    },
-    {
-      "ts": 1791160935,
-      "type": "outcome",
-      "message": "\ud83d\udfe0 Agentok (AGENTOK) is fading \u2014 down 32% so far."
-    },
-    {
-      "ts": 1791160934,
-      "type": "outcome",
-      "message": "\ud83d\udd34 Cashpig (CASHPIG) is dropping fast \u2014 down 88%, may be rugging."
-    },
-    {
-      "ts": 1791160934,
-      "type": "outcome",
-      "message": "\ud83d\udd34 PokeStrategy (PSTR) is dropping fast \u2014 down 100%, may be rugging."
     }
   ]
 }
