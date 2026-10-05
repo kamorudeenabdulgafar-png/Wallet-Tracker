@@ -1,5 +1,5 @@
 {
-  "last_updated": 1791192401,
+  "last_updated": 1791193467,
   "wallets": [
     {
       "label": "Dev wallet 1",
@@ -97,6 +97,16 @@
   "learning_insight": "Coins that rugged averaged SAFETY 73; coins that did well averaged SAFETY 93.",
   "settings": {},
   "recent_alerts": [
+    {
+      "ts": 1791193467,
+      "type": "outcome",
+      "message": "\ud83d\udd34 si16z (si16z) is dropping fast \u2014 down 100%, may be rugging."
+    },
+    {
+      "ts": 1791193466,
+      "type": "scanner",
+      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\nTeam Human (HUMAN)\nOpportunity: 76/100\n\nMOMENTUM     100\nSAFETY       60\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$44,008, 9 min since pool creation\n\u2022 Up +267% in the last hour, ~$257,356 in 24h volume (5.8x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 93% of supply (very concentrated)\n\nCA: 4MJfZ3wCfj1mgSJvXGEZWdEytzd4BZgaK7eW4V5yeSqV\nhttps://dexscreener.com/solana/4MJfZ3wCfj1mgSJvXGEZWdEytzd4BZgaK7eW4V5yeSqV\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
+    },
     {
       "ts": 1791192401,
       "type": "outcome",
@@ -336,16 +346,6 @@
       "ts": 1791176719,
       "type": "wallet",
       "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: USDT -> USDC\nTrade size: unknown\nBought token: USD Coin (USDC)\nCA: EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v\nhttps://solscan.io/tx/5JzG6d9MmPABTpkeeCMWtXBXJgjuWEHBPnqG18munTbZmU2LzujmYycn1JNYhhYj2KbQm2EFtE7mY3ZSfzx9NuBC"
-    },
-    {
-      "ts": 1791176718,
-      "type": "wallet",
-      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: SPYx -> USDC\nTrade size: unknown\nBought token: USD Coin (USDC)\nCA: EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v\nhttps://solscan.io/tx/2gfpK83GLgkM6jf2UdYLY6Lin9F9P98ffwwuZrfxXWBwhcNza9XKZghCP4eRXdQ5tuNXV7ndqfvqg63Ufvk6USyn"
-    },
-    {
-      "ts": 1791174536,
-      "type": "outcome",
-      "message": "\ud83d\udd34 Bramble (BRAM) is dropping fast \u2014 down 90%, may be rugging."
     }
   ]
 }
