@@ -1,55 +1,4 @@
 {
-  "2aAmYsCVUa2JmHYxfBtT2AmALszb3hA9JA2inzqbhkAT": {
-    "name": "Shork",
-    "symbol": "SHORK",
-    "flagged_ts": 1790590011,
-    "liquidity_at_flag": 17403.317098400745,
-    "breakdown": {
-      "MOMENTUM": 100,
-      "SAFETY": 60,
-      "LIQUIDITY": 87,
-      "SMART MONEY": 0
-    },
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "DUMFiSz45kPuvDkGjTMpjB44P95DUhGuK4XcdtABh5mJ": {
-    "name": "PenguinCat",
-    "symbol": "PenguinCat",
-    "flagged_ts": 1790590013,
-    "liquidity_at_flag": 36467.88729960527,
-    "breakdown": {
-      "MOMENTUM": 88,
-      "SAFETY": 60,
-      "LIQUIDITY": 100,
-      "SMART MONEY": 0
-    },
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "7XhTnmcdycp5spoEQHPmxWVAUgJethCYRSVFK4eheKDv": {
-    "name": "Uptober",
-    "symbol": "UPTOBER",
-    "flagged_ts": 1790590014,
-    "liquidity_at_flag": 39524.399779902094,
-    "breakdown": {
-      "MOMENTUM": 100,
-      "SAFETY": 60,
-      "LIQUIDITY": 100,
-      "SMART MONEY": 0
-    },
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
   "HnDWwJJziUegcgRiNXJggBbvQCBgsHX9HWwGjJVmTaM1": {
     "name": "Alaturka",
     "symbol": "ALATURKA",
@@ -15807,7 +15756,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "9zNtqn6E2to5fs2JDjgjFYqxLAFr4qcpA1SZaLUoBFuo": {
@@ -15822,7 +15772,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "4ZHgJsXUsZrDJaepjraKUjMASHHkGfW8PSvqc2xFeuRT": {
@@ -15941,7 +15892,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "7YwZCtGFD6ERFrYDfwU7X6Zx45jdKsvCTd5xnGhQ3uPR": {
     "name": "Mochi",
@@ -15977,6 +15930,19 @@
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "5r7knTwUH49w8JgxaAT6xe5Xz7L2sn69SRLVfk57pump": {
+    "name": "Boolish Degen",
+    "symbol": "BOOLISH",
+    "flagged_ts": 1791195468,
+    "liquidity_at_flag": 24599.55389377963,
+    "breakdown": {
+      "MOMENTUM": 43,
+      "SAFETY": 100,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
