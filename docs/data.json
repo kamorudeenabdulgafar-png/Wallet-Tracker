@@ -1,5 +1,5 @@
 {
-  "last_updated": 1791172367,
+  "last_updated": 1791173378,
   "wallets": [
     {
       "label": "Dev wallet 1",
@@ -97,6 +97,16 @@
   "learning_insight": "Coins that rugged averaged SAFETY 73; coins that did well averaged SAFETY 93.",
   "settings": {},
   "recent_alerts": [
+    {
+      "ts": 1791173378,
+      "type": "outcome",
+      "message": "\ud83d\udd34 PokeStrategy (PSTR) is dropping fast \u2014 down 100%, may be rugging."
+    },
+    {
+      "ts": 1791173377,
+      "type": "scanner",
+      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\nPokePad (POKEPAD)\nOpportunity: 76/100\n\nMOMENTUM     100\nSAFETY       60\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$46,695, 19 min since pool creation\n\u2022 Up +66% in the last hour, ~$50,057 in 24h volume (1.1x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 90% of supply (very concentrated)\n\nCA: 4rrB7BzaywCKCrb2SSC9nqKCteDKdaNFBwiiHD67jBxt\nhttps://dexscreener.com/solana/4rrB7BzaywCKCrb2SSC9nqKCteDKdaNFBwiiHD67jBxt\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
+    },
     {
       "ts": 1791172367,
       "type": "outcome",
@@ -336,16 +346,6 @@
       "ts": 1791160934,
       "type": "outcome",
       "message": "\ud83d\udd34 PokeStrategy (PSTR) is dropping fast \u2014 down 100%, may be rugging."
-    },
-    {
-      "ts": 1791160933,
-      "type": "outcome",
-      "message": "\ud83d\udd34 Clanker (CLANKER) is dropping fast \u2014 down 100%, may be rugging."
-    },
-    {
-      "ts": 1791160932,
-      "type": "outcome",
-      "message": "\ud83d\udfe0 SpaceXTeslaSpaceXSI (SEXSI) is fading \u2014 down 47% so far."
     }
   ]
 }
