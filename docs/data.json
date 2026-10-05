@@ -1,5 +1,5 @@
 {
-  "last_updated": 1791178027,
+  "last_updated": 1791179168,
   "wallets": [
     {
       "label": "Dev wallet 1",
@@ -97,6 +97,11 @@
   "learning_insight": "Coins that rugged averaged SAFETY 73; coins that did well averaged SAFETY 93.",
   "settings": {},
   "recent_alerts": [
+    {
+      "ts": 1791179168,
+      "type": "outcome",
+      "message": "\ud83d\udd34 Pairstreet (STREET) is dropping fast \u2014 down 63%, may be rugging."
+    },
     {
       "ts": 1791178027,
       "type": "outcome",
@@ -341,11 +346,6 @@
       "ts": 1791167123,
       "type": "wallet",
       "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: 0.2009 SOL (~$24.38) -> USDC\nTrade size: ~$24.38\nBought token: USD Coin (USDC)\nCA: EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v\nhttps://solscan.io/tx/264jb2Wt1ZK3tZjXX8AuvZNXh4k9dXhx1FhskwVBsDGVYdqE8wLEvU2vp1PV7CNsUt8M2JHcsH2bdhzij1VF6E5e"
-    },
-    {
-      "ts": 1791167123,
-      "type": "wallet",
-      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: wXRP -> USDC\nTrade size: unknown\nBought token: USD Coin (USDC)\nCA: EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v\nhttps://solscan.io/tx/GW4pf4Sejo1Xe9yHqD6xfJPKipXdZDCEXQrKXHYh7tFEpYk1out21vXGD1K1Z4Lo94GpFnrxHLSH8mF3kQgHzNn"
     }
   ]
 }
