@@ -1,5 +1,5 @@
 {
-  "last_updated": 1791188962,
+  "last_updated": 1791190068,
   "wallets": [
     {
       "label": "Dev wallet 1",
@@ -97,6 +97,11 @@
   "learning_insight": "Coins that rugged averaged SAFETY 73; coins that did well averaged SAFETY 93.",
   "settings": {},
   "recent_alerts": [
+    {
+      "ts": 1791190068,
+      "type": "outcome",
+      "message": "\ud83d\udd34 Cybercat (CYBERCAT) is dropping fast \u2014 down 100%, may be rugging."
+    },
     {
       "ts": 1791188962,
       "type": "outcome",
@@ -341,11 +346,6 @@
       "ts": 1791174530,
       "type": "wallet",
       "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: ai16z -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/2XxP15Kp7s3iAR8gBXrvnJiv6wwRkBki1bkhFSoVSKCCYSBstcYomeYBdWZ2wkq3kEpvFTzQScZkDpfBFzxwBtFg"
-    },
-    {
-      "ts": 1791174529,
-      "type": "wallet",
-      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: APE -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/4MnNe4nkggShb5EvDivTarocZyNkSWXAsNKf5jqomQ8CPnSr29sfy849TuE6h1C2DwKVi4U4Z32PPNBSXkpgD6XW"
     }
   ]
 }
