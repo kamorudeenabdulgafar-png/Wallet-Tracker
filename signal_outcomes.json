@@ -16258,7 +16258,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "5TYNj6fzttMCHKUPpdq59Lnsvxsi2XpFV8qb3RXBpump": {
@@ -16377,7 +16378,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "Aqv8Gj8MesSzuEsgigq4kEDWVRFHgPUZq4Po4Q1Mpump": {
     "name": "Super Model",
@@ -16400,6 +16403,45 @@
     "breakdown": {
       "MOMENTUM": 86,
       "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "4ZHgJsXUsZrDJaepjraKUjMASHHkGfW8PSvqc2xFeuRT": {
+    "name": "Super Model",
+    "symbol": "SM",
+    "flagged_ts": 1791181979,
+    "liquidity_at_flag": 63354.10303854507,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "CHZ9BfYjFbBjFjbK8eZBVCwM94poRcY3GDEYRCLBtvSV": {
+    "name": "Super Model",
+    "symbol": "SM",
+    "flagged_ts": 1791181980,
+    "liquidity_at_flag": 27108.614311782163,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "CBLx6CRcCTtbmgTdxpqnF2dP1MpWbMUjngtNbFTApump": {
+    "name": "Backers",
+    "symbol": "BACKERS",
+    "flagged_ts": 1791181981,
+    "liquidity_at_flag": 37497.036425174025,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 90,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
