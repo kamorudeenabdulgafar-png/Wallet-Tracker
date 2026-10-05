@@ -1,5 +1,40 @@
 [
   {
+    "ts": 1791216950,
+    "type": "wallet",
+    "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: SPYx -> USDC\nTrade size: unknown\nBought token: USD Coin (USDC)\nCA: EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v\nhttps://solscan.io/tx/61zUt3LGKpnHrmm4yqqn12pJc8XnwtTuXhoymw2H6wF1GhMwzLEYVPh4n6oZCYNtVs7gL6874YtAtPbJxZGiUziP"
+  },
+  {
+    "ts": 1791216949,
+    "type": "wallet",
+    "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: TSLAx -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/61FPbbQw9uVUcPNMVHGD8pbrcjyVXucqdBvmq7cJ6o2TivfsVPvKW8rRC1DpcA4eikJgTk24GAYNTwuVp3oaRMN"
+  },
+  {
+    "ts": 1791216949,
+    "type": "wallet",
+    "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: xSOL -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/2FYHXYbN1TSxoUaQwA6fHoRiH4LSvr4BvamxH7kcY8ByZ7725LYjNAnLxp3guVorDQSu34tNAydsy5q2bnEvSyME"
+  },
+  {
+    "ts": 1791216947,
+    "type": "wallet",
+    "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: SKR -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/3TV7kAVBygQgiU51NkqoHM7qRqJWZuKwYdk4x6ZsfwmL5mfi6DcBnSnVtHrdkKXkyWfR7MCkPFwBZYGZx8fTfMje"
+  },
+  {
+    "ts": 1791216946,
+    "type": "wallet",
+    "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: SHIB -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/3cPnenEuLgtJFfafTeefb83V7n1RfYeBFxzgyW63u32xArE8TvjVmFbvNGGxMVLAJP41zhGeEveLYCTA3FQL8bqx"
+  },
+  {
+    "ts": 1791216946,
+    "type": "wallet",
+    "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: Fartcoin  -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/32wacqjD9wr19Q8ARoDmhwFAERyW5oxkaQ3zysQkvzjyJi8aBD34w63a6Xb7Z939sZp788aHYUmTT39w3WGSE8fy"
+  },
+  {
+    "ts": 1791216945,
+    "type": "wallet",
+    "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: xHYPE -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/4Ai9svNWyaNCd9ang6PbyffjcUg1s1JaTNRbDsniJ74Hu5qD7JkHPir72DDRekwYXsayf2Yi6TLk1V4uuVD2TLMx"
+  },
+  {
     "ts": 1791215956,
     "type": "outcome",
     "message": "\ud83d\udd34 Teemlings (TEEM) is dropping fast \u2014 down 100%, may be rugging."
@@ -213,40 +248,5 @@
     "ts": 1791210493,
     "type": "outcome",
     "message": "\ud83d\udd34 Boolish Degen (BOOLISH) is dropping fast \u2014 down 90%, may be rugging."
-  },
-  {
-    "ts": 1791210492,
-    "type": "scanner",
-    "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\nGiggle Hero (GiggleHero)\nOpportunity: 76/100\n\nMOMENTUM     100\nSAFETY       60\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$33,260, 18 min since pool creation\n\u2022 Up +98% in the last hour, ~$53,120 in 24h volume (1.6x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 99% of supply (very concentrated)\n\nCA: F4VTVQwNMy1YfXrWZ2A3MQ45Uk4iRTGSogsHdR6Z1dYJ\nhttps://dexscreener.com/solana/F4VTVQwNMy1YfXrWZ2A3MQ45Uk4iRTGSogsHdR6Z1dYJ\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
-  },
-  {
-    "ts": 1791210490,
-    "type": "scanner",
-    "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\nUnknown (?)\nOpportunity: 72/100\n\nMOMENTUM     100\nSAFETY       50\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$42,061, 17 min since pool creation\n\u2022 Up +189% in the last hour, ~$42,821 in 24h volume (1.0x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS:\n\u2022 Risk data unavailable\n\nCA: ASAUy21FXvCqt9UdCVdGi2pXaFxzzd1Zz3kgSzcLiizz\nhttps://dexscreener.com/solana/ASAUy21FXvCqt9UdCVdGi2pXaFxzzd1Zz3kgSzcLiizz\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
-  },
-  {
-    "ts": 1791210489,
-    "type": "scanner",
-    "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 STRONG\nIncog (INCOG)\nOpportunity: 86/100\n\nMOMENTUM     100\nSAFETY       90\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$20,413, 13 min since pool creation\n\u2022 Up +100% in the last hour, ~$33,885 in 24h volume (1.7x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Low, 10/100):\n\u2022 top 10 holders own 40% of supply\n\nCA: G9tFck1e959vDhtwYiepyU9T2sYNnoMdAnAidjyTpump\nhttps://dexscreener.com/solana/G9tFck1e959vDhtwYiepyU9T2sYNnoMdAnAidjyTpump\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
-  },
-  {
-    "ts": 1791210487,
-    "type": "wallet",
-    "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: USELESS -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/5iNLgA1PvBWWinAQFo7KjYw5WLfxF9XtzpvdFjgpWNya4jD1WCQHGVzhbbNbb5BuogVLzeKCYoNVKz4hY6mi28vP"
-  },
-  {
-    "ts": 1791208960,
-    "type": "outcome",
-    "message": "\ud83d\udd34 supercoin (Super) is dropping fast \u2014 down 100%, may be rugging."
-  },
-  {
-    "ts": 1791208959,
-    "type": "scanner",
-    "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\nRoyalBet (RoyalBet)\nOpportunity: 76/100\n\nMOMENTUM     100\nSAFETY       60\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$71,473, 16 min since pool creation\n\u2022 Up +144% in the last hour, ~$193,972 in 24h volume (2.7x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 72% of supply (very concentrated)\n\nCA: 7YdZ1EFSGEbaqhzw2upMEovfKUvcRZbbwFLWHoMin9m9\nhttps://dexscreener.com/solana/7YdZ1EFSGEbaqhzw2upMEovfKUvcRZbbwFLWHoMin9m9\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
-  },
-  {
-    "ts": 1791208958,
-    "type": "scanner",
-    "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\nCLAUDIA (CLAUDIA)\nOpportunity: 76/100\n\nMOMENTUM     100\nSAFETY       60\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$57,001, 15 min since pool creation\n\u2022 Up +254% in the last hour, ~$126,016 in 24h volume (2.2x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 78% of supply (very concentrated)\n\nCA: 4MUBeZJf4qpHgwJUvni3ft1XajXeuZz3KYmKZu52PJBe\nhttps://dexscreener.com/solana/4MUBeZJf4qpHgwJUvni3ft1XajXeuZz3KYmKZu52PJBe\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
   }
 ]
