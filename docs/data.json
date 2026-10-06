@@ -1,5 +1,5 @@
 {
-  "last_updated": 1791313290,
+  "last_updated": 1791327507,
   "wallets": [
     {
       "label": "Dev wallet 1",
@@ -70,7 +70,7 @@
         "BPxxfRCXkUVhig4HS1Lh7kZqV6SPJhzfEk4x6fVBjPCy",
         "27G8MtK7VtTcCHkpASjSDdkWWYfoqT6ggEuKidVJidD4"
       ],
-      "last_active": 1791293650,
+      "last_active": 1791327503,
       "positions": {},
       "realized_pnl_usd": 0.0
     }
@@ -97,6 +97,21 @@
   "learning_insight": "Coins that rugged averaged SAFETY 72; coins that did well averaged SAFETY 93.",
   "settings": {},
   "recent_alerts": [
+    {
+      "ts": 1791327507,
+      "type": "outcome",
+      "message": "\ud83d\udd34 cumrocketinu (CRI) is dropping fast \u2014 down 100%, may be rugging."
+    },
+    {
+      "ts": 1791327504,
+      "type": "wallet",
+      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: USDC -> 0.1084 SOL (~$13.11)\nTrade size: ~$13.11\nBought token: SOL (SOL)\nCA: So11111111111111111111111111111111111111112\nhttps://solscan.io/tx/5XVBDryg7f24nhK93TTA59MuB5mXkihV51JEYKN5g3Uy3stD7ViGHFL7eTwMXB4UtYFRZ5YRSwaLg6LUZZttdoJC"
+    },
+    {
+      "ts": 1791327503,
+      "type": "wallet",
+      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: USDC -> 0.0633 SOL (~$7.65)\nTrade size: ~$7.65\nBought token: SOL (SOL)\nCA: So11111111111111111111111111111111111111112\nhttps://solscan.io/tx/3pZEcufqdZ1pPvnvUkDs2DRmR1deDBkJdbj2qw45YS8J9LrgwWRNR9pzyqv3V36n3bpfe4wHK7KdkxhCeDFdX6cz"
+    },
     {
       "ts": 1791313287,
       "type": "outcome",
@@ -331,21 +346,6 @@
       "ts": 1791245983,
       "type": "outcome",
       "message": "\ud83d\udd34 trade/up (trade/up) turned out to be a rug \u2014 liquidity dropped 92% over 24h."
-    },
-    {
-      "ts": 1791245981,
-      "type": "outcome",
-      "message": "\ud83d\udd34 Fantasy Index 6900 (FIX6900) turned out to be a rug \u2014 liquidity dropped 88% over 24h."
-    },
-    {
-      "ts": 1791245980,
-      "type": "outcome",
-      "message": "\ud83d\udd34 SpaceXTeslaSpaceXSI (SEXSI) turned out to be a rug \u2014 liquidity dropped 73% over 24h."
-    },
-    {
-      "ts": 1791245979,
-      "type": "outcome",
-      "message": "\ud83d\udd34 Clanker (CLANKER) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
     }
   ]
 }
