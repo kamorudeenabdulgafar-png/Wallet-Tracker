@@ -1,5 +1,5 @@
 {
-  "last_updated": 1791338932,
+  "last_updated": 1791362117,
   "wallets": [
     {
       "label": "Dev wallet 1",
@@ -9,7 +9,7 @@
   "wallet_stats": {
     "5CEbueQnq1Ym2uSSx2xXds3jQAqT1BDnkA59RZobSPAG": {
       "label": "Dev wallet 1",
-      "buy_count": 582,
+      "buy_count": 583,
       "sell_count": 282,
       "total_buy_usd": 16030.116257191565,
       "total_sell_usd": 0.0,
@@ -70,7 +70,7 @@
         "BPxxfRCXkUVhig4HS1Lh7kZqV6SPJhzfEk4x6fVBjPCy",
         "27G8MtK7VtTcCHkpASjSDdkWWYfoqT6ggEuKidVJidD4"
       ],
-      "last_active": 1791327503,
+      "last_active": 1791362112,
       "positions": {},
       "realized_pnl_usd": 0.0
     }
@@ -97,6 +97,26 @@
   "learning_insight": "Coins that rugged averaged SAFETY 72; coins that did well averaged SAFETY 93.",
   "settings": {},
   "recent_alerts": [
+    {
+      "ts": 1791362117,
+      "type": "scanner",
+      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\nhashers.network (HASHERS)\nOpportunity: 76/100\n\nMOMENTUM     100\nSAFETY       60\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$42,618, 23 min since pool creation\n\u2022 Up +271% in the last hour, ~$545,696 in 24h volume (12.8x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 94% of supply (very concentrated)\n\nCA: 9habP48mqH4xifFS2USeRJDRzeABYU6evFsURXyruqX3\nhttps://dexscreener.com/solana/9habP48mqH4xifFS2USeRJDRzeABYU6evFsURXyruqX3\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
+    },
+    {
+      "ts": 1791362116,
+      "type": "scanner",
+      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\nQuantus (QTC)\nOpportunity: 76/100\n\nMOMENTUM     100\nSAFETY       60\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$50,030, 21 min since pool creation\n\u2022 Up +80% in the last hour, ~$2,918,245 in 24h volume (58.3x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 86% of supply (very concentrated)\n\nCA: nRowzdySXuAjRtTA8jMjdiyYr4LVaexYKiLXFDLYRec\nhttps://dexscreener.com/solana/nRowzdySXuAjRtTA8jMjdiyYr4LVaexYKiLXFDLYRec\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
+    },
+    {
+      "ts": 1791362114,
+      "type": "scanner",
+      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\nOpen Human (OpenHuman)\nOpportunity: 76/100\n\nMOMENTUM     100\nSAFETY       60\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$36,537, 16 min since pool creation\n\u2022 Up +184% in the last hour, ~$203,474 in 24h volume (5.6x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 75% of supply (very concentrated)\n\nCA: AfoZrDATcpMkQnAkUYDzTv3a24ekUDenoNmSgKojmqDo\nhttps://dexscreener.com/solana/AfoZrDATcpMkQnAkUYDzTv3a24ekUDenoNmSgKojmqDo\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
+    },
+    {
+      "ts": 1791362112,
+      "type": "wallet",
+      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: USDC -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/37KGjcbgZCHcqvAyJweFti417BeN89Kr5MmZQTZgeZmkgrXzarm1RYfdMqdxsKfvMzMG5MHAVPP47YKwADJshqkC"
+    },
     {
       "ts": 1791338932,
       "type": "outcome",
@@ -326,26 +346,6 @@
       "ts": 1791245992,
       "type": "outcome",
       "message": "\ud83d\udd34 PokeStrategy (PSTR) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
-    },
-    {
-      "ts": 1791245991,
-      "type": "outcome",
-      "message": "\ud83d\udfe2 Hooker (HOOKER) did really well \u2014 liquidity up 154% after 24h!"
-    },
-    {
-      "ts": 1791245990,
-      "type": "outcome",
-      "message": "\ud83d\udd34 HOOKEDPEPE (HOOKEDPEPE) turned out to be a rug \u2014 liquidity dropped 90% over 24h."
-    },
-    {
-      "ts": 1791245988,
-      "type": "outcome",
-      "message": "\ud83d\udd34 XFUN (XFUN) turned out to be a rug \u2014 liquidity dropped 92% over 24h."
-    },
-    {
-      "ts": 1791245987,
-      "type": "outcome",
-      "message": "\ud83d\udfe1 Charles Robinson (CHARLES) held roughly steady after 24h (-1%)."
     }
   ]
 }
