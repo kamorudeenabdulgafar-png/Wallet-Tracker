@@ -2,19 +2,6 @@
   {
     "name": "Put In",
     "symbol": "PUTIN",
-    "category": "rug",
-    "change_pct": -100.0,
-    "breakdown": {
-      "MOMENTUM": 100,
-      "SAFETY": 60,
-      "LIQUIDITY": 100,
-      "SMART MONEY": 0
-    },
-    "ts": 1790922546
-  },
-  {
-    "name": "Put In",
-    "symbol": "PUTIN",
     "category": "steady",
     "change_pct": 14.3,
     "breakdown": {
@@ -3898,5 +3885,18 @@
       "SMART MONEY": 0
     },
     "ts": 1791467452
+  },
+  {
+    "name": "Solana Winternitz Vault",
+    "symbol": "Winternitz",
+    "category": "rug",
+    "change_pct": -100.0,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "ts": 1791488129
   }
 ]
