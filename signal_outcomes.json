@@ -2205,7 +2205,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "H9fcDfXKu1HfirMPsQRkbYDBP2Pi2nmER9edgVvNpump": {
@@ -2475,7 +2476,10 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m",
+      "240m"
+    ]
   },
   "4CREveX51MuJtkouHFKX8tt2XwkaGNzdc8v2ExHk49g2": {
     "name": "The Truman Show",
@@ -2488,7 +2492,10 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m",
+      "240m"
+    ]
   },
   "H7BNQoXmKZwqLwTkzSaTCbMZayAkQavWJzcK8R6h4Vbm": {
     "name": "\ub9c8\ub8e8 & \ub9c8\ub871",
@@ -2498,6 +2505,48 @@
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": [
+      "60m",
+      "240m"
+    ]
+  },
+  "DWahDJrMdd6MV7EwFxAcwU1hbkbeHpS7iMwarTBvaZ1V": {
+    "name": "Pair",
+    "symbol": "pair",
+    "flagged_ts": 1791655414,
+    "liquidity_at_flag": 65870.45363038115,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "A1XB67JRSuzBiMBN4pNFGrzWZGuwsJE8yq3oqkbXg4qf": {
+    "name": "Shout",
+    "symbol": "SHOUT",
+    "flagged_ts": 1791655415,
+    "liquidity_at_flag": 43809.08501398035,
+    "breakdown": {
+      "MOMENTUM": 95,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "5NB7harxbhVD5n48TZkdKtf4fidMHeeEVrjVLjN3pump": {
+    "name": "PEPEBRUH",
+    "symbol": "PEPEBRUH",
+    "flagged_ts": 1791655417,
+    "liquidity_at_flag": 27907.275594476945,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 100,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
