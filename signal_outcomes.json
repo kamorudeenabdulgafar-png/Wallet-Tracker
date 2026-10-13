@@ -1,21 +1,4 @@
 {
-  "4qVQSkK9TvxMpk8nvbfQqoA2jEoJywcCjvt1UbmCvB5K": {
-    "name": "cumrocketinu",
-    "symbol": "CRI",
-    "flagged_ts": 1791313276,
-    "liquidity_at_flag": 13551.335106046852,
-    "breakdown": {
-      "MOMENTUM": 100,
-      "SAFETY": 60,
-      "LIQUIDITY": 68,
-      "SMART MONEY": 0
-    },
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
   "AfoZrDATcpMkQnAkUYDzTv3a24ekUDenoNmSgKojmqDo": {
     "name": "Open Human",
     "symbol": "OpenHuman",
@@ -2059,7 +2042,10 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m",
+      "240m"
+    ]
   },
   "ZW8cmweVwqs2nap7fdvubWdDjhRJtTuH4isxVw4DY7g": {
     "name": "Mark Kacy",
@@ -2072,7 +2058,10 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m",
+      "240m"
+    ]
   },
   "DxrdBqeUyvWxngsDd5NGGR6Ep4gdSe2CnDkv71hc2caw": {
     "name": "CFO",
@@ -2081,6 +2070,35 @@
     "liquidity_at_flag": 24583.992270864455,
     "breakdown": {
       "MOMENTUM": 82,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": [
+      "60m",
+      "240m"
+    ]
+  },
+  "fvT29UywGTM7wgRv5RCYpjtH1N9QKCM9LXyw53Tpump": {
+    "name": "The OpenAI Spy",
+    "symbol": "Abdulrahman",
+    "flagged_ts": 1791928732,
+    "liquidity_at_flag": 25000.52381898329,
+    "breakdown": {
+      "MOMENTUM": 91,
+      "SAFETY": 90,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "NZH9eS7oH7Fc7Ub3ssDPUiGqsRqhXU5eU8bVVMiSuaw": {
+    "name": "Mikancoin",
+    "symbol": "MIKAN",
+    "flagged_ts": 1791928735,
+    "liquidity_at_flag": 133177.48970351467,
+    "breakdown": {
+      "MOMENTUM": 100,
       "SAFETY": 60,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
