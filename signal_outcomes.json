@@ -1746,7 +1746,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "39RVLFkmxqPJqV4bj1LLNJnCuqJhR9Q3vo9knFE8Rsgp": {
@@ -1762,7 +1763,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "7Whv9fAtSGr2v1Xs8kpB4nv5MVNTLy2wv2u2vuEqZKdu": {
@@ -1778,7 +1780,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "61tJy7yu2CUfDxXs2wJA8eUSsjBJkp9tLtsm7fzgJM9": {
@@ -1794,7 +1797,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "Bot8pbXzu6cfuDPBkpSz1XDehmoiH6BMhMs97QpqxiGy": {
@@ -1810,7 +1814,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "DfcXPJpqAg324mcuKLe1JS41mFkrNz9MZwKy3iP4bANs": {
@@ -1826,7 +1831,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "Taw2b6XynHCdz3Sjf1wwksE4Cn2hsvCnkqgSp6UtJes": {
@@ -1842,7 +1848,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "14rbwL1ZZoPguLRWtSemZYJnGXf2ys6socp1cufQbs8Z": {
@@ -1858,7 +1865,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "2HGQMcyfTSfvjBJ55cc1KWnPFYGqBbSeZ9yMXV8yfWwo": {
@@ -1874,7 +1882,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "8hFyfrmptGKTLesSJCe62tVyh8cGgSxG3br493CqT8Uk": {
@@ -1890,7 +1899,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "GCo2qcrS4zjxx2aNUqPLmzF5cbBvnAm2UMVwih7fqRKb": {
@@ -1920,7 +1930,10 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m",
+      "240m"
+    ]
   },
   "HiKvLcxPVY3C1f1mBHwR39y1Pw9XHoT25jTdpHaYqgh2": {
     "name": "The Black Inu",
@@ -1933,7 +1946,10 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m",
+      "240m"
+    ]
   },
   "9a3PRGp33qX1KiwMupaohpV2LQWMH98m8oD7dwm69Xk5": {
     "name": "Attention",
@@ -1946,7 +1962,10 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m",
+      "240m"
+    ]
   },
   "BUghfbcKCLFZZ1huwkWfgNAEWLvSQFowvL6jizt9mu2": {
     "name": "The Black Bear",
@@ -1956,6 +1975,61 @@
     "breakdown": {
       "MOMENTUM": 91,
       "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": [
+      "60m",
+      "240m"
+    ]
+  },
+  "LmR39wMnyT7nBmS4q6dXfau6e9hLJPo58g84Y7RKvuS": {
+    "name": "Commander Vrax",
+    "symbol": "VRAX",
+    "flagged_ts": 1791887315,
+    "liquidity_at_flag": 120926.42537214543,
+    "breakdown": {
+      "MOMENTUM": 90,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "4f9zPWVbiiBdzb1XMfpzCDhaXYkXjhhzpRaZxMYHhxZU": {
+    "name": "Binancians",
+    "symbol": "Binancians",
+    "flagged_ts": 1791887319,
+    "liquidity_at_flag": 55519.379645868576,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "6RzU94Jgh7uSn5YGfBPwHQBXQzxepRopG9gz686vXZu9": {
+    "name": "IBVMCHAIN",
+    "symbol": "IBVM",
+    "flagged_ts": 1791887321,
+    "liquidity_at_flag": 60423.440899566456,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "xkH3BXaSM2XTB5eJwtEVUQxXhtHLY9Ch3zcVLSamwyH": {
+    "name": "\u5976\u86cb",
+    "symbol": "\u5976\u86cb",
+    "flagged_ts": 1791887322,
+    "liquidity_at_flag": 46696.403093384855,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 75,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
