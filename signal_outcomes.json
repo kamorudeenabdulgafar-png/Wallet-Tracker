@@ -1916,7 +1916,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "HiKvLcxPVY3C1f1mBHwR39y1Pw9XHoT25jTdpHaYqgh2": {
@@ -1932,7 +1933,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "9a3PRGp33qX1KiwMupaohpV2LQWMH98m8oD7dwm69Xk5": {
@@ -1948,7 +1950,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "BUghfbcKCLFZZ1huwkWfgNAEWLvSQFowvL6jizt9mu2": {
@@ -1964,7 +1967,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "LmR39wMnyT7nBmS4q6dXfau6e9hLJPo58g84Y7RKvuS": {
@@ -2091,7 +2095,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "NZH9eS7oH7Fc7Ub3ssDPUiGqsRqhXU5eU8bVVMiSuaw": {
@@ -2106,7 +2111,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "6vFuagcrUuYboHGuvXvv2SjeUM5Yt2AyfdLsBZ2WAwSF": {
@@ -2120,7 +2126,10 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m",
+      "240m"
+    ]
   },
   "ZbF6PEbkTLmK7v7UzKyb8oEo58VuyRmF8b2UJMfpump": {
     "name": "Kinetic",
@@ -2133,7 +2142,10 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m",
+      "240m"
+    ]
   },
   "AGq9Y4TnfkSiP1JTE6ndfAz7nAqTY9NC3qaPuW9Ppump": {
     "name": "MERGE",
@@ -2146,7 +2158,10 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m",
+      "240m"
+    ]
   },
   "GUtVuXBF9sgfardDCAbjcAynx4NVMQey69xAG81CGbu": {
     "name": "TX Gym",
@@ -2159,7 +2174,10 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m",
+      "240m"
+    ]
   },
   "4q93uX3LAZsi3dwbTN8CygmHVfTZdc7Aw65p9Z2xvBX5": {
     "name": "TX Gym",
@@ -2172,7 +2190,10 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m",
+      "240m"
+    ]
   },
   "8L9bgqk34bsM1QVWQPuxHbvFAorg25wCjgGKh2cQpump": {
     "name": "fPad",
@@ -2182,6 +2203,113 @@
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 100,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": [
+      "60m",
+      "240m"
+    ]
+  },
+  "CL6TEX8hcwWKGF5GHcaYLrM9RM4akrptomYora5V6U9P": {
+    "name": "dog-bee",
+    "symbol": "\u871c\u8702\u72d7",
+    "flagged_ts": 1791956549,
+    "liquidity_at_flag": 29490.428144719466,
+    "breakdown": {
+      "MOMENTUM": 98,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "7rzSb81bPdAjYBoLY16XjErWSxvTVBhxJUwgZzAFDYXX": {
+    "name": "Ultraman Cat",
+    "symbol": "U/Cat",
+    "flagged_ts": 1791956550,
+    "liquidity_at_flag": 26518.98510177116,
+    "breakdown": {
+      "MOMENTUM": 96,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "A4Ppe8FtJC8YetpnJTXmURbZpFKhbjnYv4QtXtp9pump": {
+    "name": "UNTAXED WALLET | iOS, Android",
+    "symbol": "UNTXED",
+    "flagged_ts": 1791956551,
+    "liquidity_at_flag": 28857.745985524663,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 90,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "8FFcsikfjYp2rJCf9QeamZrhVwgTfkE6PXWNN2iUzk2H": {
+    "name": "Kung Fu Cat",
+    "symbol": "KFC",
+    "flagged_ts": 1791956552,
+    "liquidity_at_flag": 27648.691126801168,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "3FFhiuTSP5yL7NKhSQwjAXPbxpdsn3cnSZH8e5yFU9N9": {
+    "name": "Kung Fu Cat",
+    "symbol": "KFC",
+    "flagged_ts": 1791956553,
+    "liquidity_at_flag": 31506.366446364584,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "86coVv8CNgPxYEBZR9cBWj3urZztshLcqqVquD7Nis1M": {
+    "name": "Urine Coin",
+    "symbol": "Urine Coin",
+    "flagged_ts": 1791956555,
+    "liquidity_at_flag": 27021.2265726366,
+    "breakdown": {
+      "MOMENTUM": 84,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "7iuWj8Ass1UweURiWN5aoLqAoZpvSvu5QQZiTtCq2qb4": {
+    "name": "Altai the Tiger",
+    "symbol": "Altai",
+    "flagged_ts": 1791956556,
+    "liquidity_at_flag": 39890.27896977555,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 75,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "GWPTmCHzc59GUMW5t74R7ZeuxLkToVnvRVowAcjjVTVw": {
+    "name": "Nexchain Ai",
+    "symbol": "NEX Ai",
+    "flagged_ts": 1791956557,
+    "liquidity_at_flag": 75655.29299342983,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 75,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
