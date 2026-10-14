@@ -1,38 +1,4 @@
 {
-  "8c4v7SAD3k5XSiMfXfNTuNiWSoaKECS3mhPGYWN77VkL": {
-    "name": "Open Human",
-    "symbol": "Human",
-    "flagged_ts": 1791406068,
-    "liquidity_at_flag": 27894.07906497881,
-    "breakdown": {
-      "MOMENTUM": 100,
-      "SAFETY": 60,
-      "LIQUIDITY": 100,
-      "SMART MONEY": 0
-    },
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "B6jPwSW8stquA4JNGQnAU8N7ca2AhJp46jhGVqg9pump": {
-    "name": "Backwards Cate",
-    "symbol": "ETAC",
-    "flagged_ts": 1791406069,
-    "liquidity_at_flag": 74165.59957743273,
-    "breakdown": {
-      "MOMENTUM": 92,
-      "SAFETY": 100,
-      "LIQUIDITY": 100,
-      "SMART MONEY": 0
-    },
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
   "HXqxTwCzREUXNK4CbNDgNEUEh2jLzFKdC4tvTuojpump": {
     "name": "ZK Darkpool",
     "symbol": "ZKDARK",
@@ -1967,7 +1933,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "NZH9eS7oH7Fc7Ub3ssDPUiGqsRqhXU5eU8bVVMiSuaw": {
@@ -1983,7 +1950,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "6vFuagcrUuYboHGuvXvv2SjeUM5Yt2AyfdLsBZ2WAwSF": {
@@ -2365,7 +2333,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "ACPD72yZpVpz8osyRSSR2FssWNpufCbDbE2etvG4K2jo": {
     "name": "Magic Internet Cat",
@@ -2378,7 +2348,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "CAwqSgDVwHEWPxZTr98ARgriSQYzuVDWvA5cZ3GPFqyp": {
     "name": "Women in Finance",
@@ -2391,13 +2363,82 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "ERQmVZebqsm75dS9peYy4cLV27KaiLKjCvcPAc75oApW": {
     "name": "Sonny",
     "symbol": "Sonny",
     "flagged_ts": 1792006503,
     "liquidity_at_flag": 56123.52801725986,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": [
+      "60m"
+    ]
+  },
+  "HW6ME1gRS5PRSvg6MXbbvCBacviUkcwvbKXPoY8dyAV": {
+    "name": "TESS",
+    "symbol": "TESS",
+    "flagged_ts": 1792017283,
+    "liquidity_at_flag": 133705.31227790756,
+    "breakdown": {
+      "MOMENTUM": 85,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "3JWAKzZLDvVoAuD1QbuN9EQbkNv3n6zvC4ved1GQUur3": {
+    "name": "Boot",
+    "symbol": "BOOT",
+    "flagged_ts": 1792017284,
+    "liquidity_at_flag": 63736.83748952033,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "EocB8TSsZN4N7FhbsZg9d9gX6tLtXM8eXiooDW2Npump": {
+    "name": "TESS",
+    "symbol": "TESS",
+    "flagged_ts": 1792017285,
+    "liquidity_at_flag": 35479.91421348397,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 100,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "DoCzP9phurgSMJijBbf78DwUWYspVqtwEzsAuU3yp7ab": {
+    "name": "Boot",
+    "symbol": "BOOT",
+    "flagged_ts": 1792017286,
+    "liquidity_at_flag": 35922.61511948829,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "5ZqkNiD7UKZuSZUhXgt9aGT7p4mqenXyx3BgzKnAwY8Y": {
+    "name": "Boot",
+    "symbol": "BOOT",
+    "flagged_ts": 1792017287,
+    "liquidity_at_flag": 26621.521151878842,
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 60,
