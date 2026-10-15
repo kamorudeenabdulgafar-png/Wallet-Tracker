@@ -1,38 +1,4 @@
 {
-  "HXqxTwCzREUXNK4CbNDgNEUEh2jLzFKdC4tvTuojpump": {
-    "name": "ZK Darkpool",
-    "symbol": "ZKDARK",
-    "flagged_ts": 1791419235,
-    "liquidity_at_flag": 44538.880367994294,
-    "breakdown": {
-      "MOMENTUM": 100,
-      "SAFETY": 60,
-      "LIQUIDITY": 100,
-      "SMART MONEY": 0
-    },
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "2ZpY1ynKDu4VEBKNKAWBRnGsZNVmLN2bxCj7eLqNpump": {
-    "name": "dog wif egg",
-    "symbol": "DWE",
-    "flagged_ts": 1791419236,
-    "liquidity_at_flag": 67009.85133301446,
-    "breakdown": {
-      "MOMENTUM": 52,
-      "SAFETY": 100,
-      "LIQUIDITY": 100,
-      "SMART MONEY": 0
-    },
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
   "9DUA9n4xAj7g1QRGhksJYsK7bngrdzqDXq8czi9Vpump": {
     "name": "FOMO Kitty",
     "symbol": "FITTY",
@@ -2334,7 +2300,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "ACPD72yZpVpz8osyRSSR2FssWNpufCbDbE2etvG4K2jo": {
@@ -2349,7 +2316,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "CAwqSgDVwHEWPxZTr98ARgriSQYzuVDWvA5cZ3GPFqyp": {
@@ -2364,7 +2332,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "ERQmVZebqsm75dS9peYy4cLV27KaiLKjCvcPAc75oApW": {
@@ -2379,7 +2348,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "HW6ME1gRS5PRSvg6MXbbvCBacviUkcwvbKXPoY8dyAV": {
@@ -2393,7 +2363,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "3JWAKzZLDvVoAuD1QbuN9EQbkNv3n6zvC4ved1GQUur3": {
     "name": "Boot",
@@ -2406,7 +2378,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "EocB8TSsZN4N7FhbsZg9d9gX6tLtXM8eXiooDW2Npump": {
     "name": "TESS",
@@ -2419,7 +2393,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "DoCzP9phurgSMJijBbf78DwUWYspVqtwEzsAuU3yp7ab": {
     "name": "Boot",
@@ -2432,7 +2408,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "5ZqkNiD7UKZuSZUhXgt9aGT7p4mqenXyx3BgzKnAwY8Y": {
     "name": "Boot",
@@ -2442,6 +2420,73 @@
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": [
+      "60m"
+    ]
+  },
+  "9qTFiHdf8wqveRsN4dRg6Me7RADQHN9PDGxyEGC5f9nU": {
+    "name": "Anti-AI Dog",
+    "symbol": "Scout",
+    "flagged_ts": 1792025305,
+    "liquidity_at_flag": 24842.523239694834,
+    "breakdown": {
+      "MOMENTUM": 90,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "FC2WZEEh2b26a854NZXxtYtoHrEjkax9CPwZ4G6axXiX": {
+    "name": "Looksmax CATE",
+    "symbol": "BPCATE",
+    "flagged_ts": 1792025306,
+    "liquidity_at_flag": 19491.114099172333,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 97,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "HyGbTcPBrxCDTARZ63yzseaj6536PqpwSiuk9RSkpump": {
+    "name": "Anti-AI Dog",
+    "symbol": "Scout",
+    "flagged_ts": 1792025307,
+    "liquidity_at_flag": 16044.637162089073,
+    "breakdown": {
+      "MOMENTUM": 89,
+      "SAFETY": 90,
+      "LIQUIDITY": 80,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "846NvqpBvyQ5ApinvNesauxGGMEGhbrVPL9Kdfegb7uB": {
+    "name": "POGE",
+    "symbol": "POGE",
+    "flagged_ts": 1792025307,
+    "liquidity_at_flag": 29399.708056626434,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "Tq9GYBU8GtuSYs2jHwTPyjYKWAXDeDmSDWFHe4Xpump": {
+    "name": "Xpose The Trenches",
+    "symbol": "XPOSE",
+    "flagged_ts": 1792025308,
+    "liquidity_at_flag": 25537.861457517683,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 100,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
