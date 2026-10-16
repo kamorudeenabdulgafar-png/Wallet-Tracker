@@ -2647,7 +2647,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "55gNvuxjhrNT3AriAMRAieoSvMhK9CGKycuZkqNfP5aZ": {
@@ -2663,7 +2664,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "FT5FAz7Lakxd7VYbmzqtsxCQZt6GcgxqZiDbfrApump": {
@@ -3061,7 +3063,9 @@
       "LIQUIDITY": 87,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "3VKWqCV7ZvwoBPtPK94GEduzmRDp7DaeXW5ved4phsLw": {
     "name": "The Heroic Father",
@@ -3074,13 +3078,82 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "DzVF5iZ62rCVKSChmoYG5gAdEFBcHez9fBsdkYQiM8NT": {
     "name": "wincoin",
     "symbol": "www",
     "flagged_ts": 1792172312,
     "liquidity_at_flag": 54465.458723393065,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": [
+      "60m"
+    ]
+  },
+  "5bS6DAvKpyiK23qrqa5PoKywe7W15NBjHGXLjTofo6FY": {
+    "name": "Elon $1 Coin",
+    "symbol": "1",
+    "flagged_ts": 1792181022,
+    "liquidity_at_flag": 24182.117099997526,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "5ubruMYpgKqw9ip5J1qrXbVGmMdn2VCsMg421B4bpump": {
+    "name": "catonboard",
+    "symbol": "onboard",
+    "flagged_ts": 1792181023,
+    "liquidity_at_flag": 41602.273956972494,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 100,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "EPL5q3mvEcuAU2V2qyh6VFJSvPC6z9nnV3DSxiJqWGiQ": {
+    "name": "\u975e\u51e1\u4eba\u751f",
+    "symbol": "\u975e\u51e1\u4eba\u751f",
+    "flagged_ts": 1792181026,
+    "liquidity_at_flag": 57254.245388033596,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "8kw2egWF5vEBEML6ZrVRDfHiCU5DYK5ZEnH7AuCDEz5v": {
+    "name": "Evil Jerry",
+    "symbol": "Jerry",
+    "flagged_ts": 1792181027,
+    "liquidity_at_flag": 33968.19138712807,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "DsvYP2nCpwS5GCBwW3bmp7bDCwFgtfgcNm8T96JzoQ9h": {
+    "name": "Beezie",
+    "symbol": "Beezie",
+    "flagged_ts": 1792181028,
+    "liquidity_at_flag": 51711.78679601003,
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 60,
