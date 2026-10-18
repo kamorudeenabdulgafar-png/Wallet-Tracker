@@ -1,31 +1,5 @@
 [
   {
-    "name": "Blood Fomo",
-    "symbol": "blofomo",
-    "category": "rug",
-    "change_pct": -94.6,
-    "breakdown": {
-      "MOMENTUM": 100,
-      "SAFETY": 100,
-      "LIQUIDITY": 100,
-      "SMART MONEY": 0
-    },
-    "ts": 1790991533
-  },
-  {
-    "name": "Claude Ai",
-    "symbol": "Claude",
-    "category": "rug",
-    "change_pct": -100.0,
-    "breakdown": {
-      "MOMENTUM": 100,
-      "SAFETY": 60,
-      "LIQUIDITY": 100,
-      "SMART MONEY": 0
-    },
-    "ts": 1790992227
-  },
-  {
     "name": "Shielded Inu",
     "symbol": "SHINU",
     "category": "rug",
@@ -3898,5 +3872,31 @@
       "SMART MONEY": 0
     },
     "ts": 1792357921
+  },
+  {
+    "name": "koinu",
+    "symbol": "koinu",
+    "category": "fading",
+    "change_pct": -17.5,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 90,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "ts": 1792365369
+  },
+  {
+    "name": "koinu",
+    "symbol": "koinu",
+    "category": "rug",
+    "change_pct": -100.0,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "ts": 1792365370
   }
 ]
