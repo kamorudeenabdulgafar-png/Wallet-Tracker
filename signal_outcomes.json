@@ -3565,7 +3565,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "7tX9hDnT3vU9SQf2QjtXwErtRFkwKBcHzWr9cZ8N7UJq": {
@@ -3581,7 +3582,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "CBfnELzpZ3Hd9wB7KKqmvWXjgA51EYag27NoEy2W8xqb": {
@@ -4043,7 +4045,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "HovvKaDm2uc5NX6TMHdwXFMyYqvQpvUGYvrcuLuCpump": {
     "name": "Clerk",
@@ -4056,7 +4060,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "7bssXrm1wsaRBdhJSaRRUidPSF74pfUdUyac42cKCCVQ": {
     "name": "Pump Packs",
@@ -4069,7 +4075,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "4BGc8rXuMEc22YpzMpXyBGfXHzE8NkqJ3jMvuYHAmCSm": {
     "name": "AI Google Coi",
@@ -4082,7 +4090,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "G8esysbwSKWZM78aDi1aH5p8ksXfExSVGKVfofRypump": {
     "name": "FOMOBILL",
@@ -4095,7 +4105,9 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m"
+    ]
   },
   "Ah9zC3ZTtXT25kFsVr9Xskfpe6ThYmpocaDmy79zpump": {
     "name": "Moritz The Grok Cat",
@@ -4105,6 +4117,47 @@
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 100,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": [
+      "60m"
+    ]
+  },
+  "8JXnou9QLpiJUfbSrh9x1EFpWTsdTsXehMd5ybQ6pump": {
+    "name": "cogecoin",
+    "symbol": "coge",
+    "flagged_ts": 1792450786,
+    "liquidity_at_flag": 24879.92906696633,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 100,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "9T1DbbiKfhfubEabDj5SWSMzBuyU4tJHkpSgR51Tpump": {
+    "name": "FrunkStore",
+    "symbol": "FrunkStore",
+    "flagged_ts": 1792450787,
+    "liquidity_at_flag": 35124.45086808104,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 90,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "AbRCatwJkUeHaNErbMhVrb8MDH8otNfk8Ctv14ACv8fh": {
+    "name": "NTS1",
+    "symbol": "NTS1",
+    "flagged_ts": 1792450788,
+    "liquidity_at_flag": 34474.47640161979,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
