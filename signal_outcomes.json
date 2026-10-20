@@ -3820,7 +3820,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "FU9PQtipxY7k2fgvVcy1F6JDjKJpMoJyG3zD1yFeCSZ4": {
@@ -3836,7 +3837,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "5W3givn8DRsofTo5oh6T8UxkWF8aLjLhuxEp893qtv3k": {
@@ -3852,7 +3854,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "8ZkPSm5ANJ3dWAA67m3P6P7vTrDR3x8bCTkzk2sywCS8": {
@@ -3868,7 +3871,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "C2u5tnRBsFh3qMDbzcYH4KCpiR8tMoTiRkbBBwb2Zr61": {
@@ -3884,7 +3888,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "33rkpb5bgFZLvJnjr21Fw41wzNrkrvauKwb2Qa6HrZzp": {
@@ -3900,7 +3905,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "8Vb5f7enGjp2uHuRqh1F5AVoXoXrYVZHwuw2orjepump": {
@@ -3916,7 +3922,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "CijeEordcrCG7e23q9nnrh3fnwYoBz6GRYDzzCUkqySE": {
@@ -4266,7 +4273,10 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m",
+      "240m"
+    ]
   },
   "B8vkQkKBGdee9FXqLe3JyNgNW8fxr8ahhZ6qcrXefKip": {
     "name": "The Last Hope",
@@ -4279,7 +4289,10 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m",
+      "240m"
+    ]
   },
   "G47DC3W5BficcQ53ZSPpH5dV3q2ECNbniYdkyFnhGDpM": {
     "name": "Kolshi.bet",
@@ -4292,7 +4305,10 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m",
+      "240m"
+    ]
   },
   "8xt8C5sXU7X5L26YNsiAmJF5vAMpafmYhRmFxHyXstUB": {
     "name": "hexx mine",
@@ -4305,7 +4321,10 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m",
+      "240m"
+    ]
   },
   "FfKj2gcQkpBocYwUzFT9jUVC1BYWuH3J35VNySeMFbTV": {
     "name": "Monero Cat",
@@ -4318,13 +4337,97 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m",
+      "240m"
+    ]
   },
   "3iAPscqWK4How6NouHgNPw7WZUAAVmxBAZz1pK7aynVE": {
     "name": "monkeybox",
     "symbol": "MONKEY",
     "flagged_ts": 1792497831,
     "liquidity_at_flag": 36947.44260559477,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": [
+      "60m",
+      "240m"
+    ]
+  },
+  "kai8sjSxmcxyEyXzy58bBmPFPB4bqZdGMty2ZosxJuP": {
+    "name": "KAI",
+    "symbol": "KAI",
+    "flagged_ts": 1792515154,
+    "liquidity_at_flag": 26603.98371891008,
+    "breakdown": {
+      "MOMENTUM": 63,
+      "SAFETY": 100,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "CFHhWtnKdtF6dfkMN9Fkt5SzXaZE7PSAGjvBCps9D3Ko": {
+    "name": "Pok\u00e9pad",
+    "symbol": "Pok\u00e9pad",
+    "flagged_ts": 1792515155,
+    "liquidity_at_flag": 32013.59584221187,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "9VwFX9YEPhoFvXQ3Q7usF5jNVqEkMenefzGvtyeiG4tD": {
+    "name": "Pok\u00e9pad",
+    "symbol": "Pok\u00e9pad",
+    "flagged_ts": 1792515156,
+    "liquidity_at_flag": 36827.43328966483,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 75,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "79hVMxk2wnvJ8cYRyzFDAstSWwUfHXWRYfk2ZNqhX41J": {
+    "name": "loanmeme",
+    "symbol": "LOAN",
+    "flagged_ts": 1792515158,
+    "liquidity_at_flag": 39810.578005714015,
+    "breakdown": {
+      "MOMENTUM": 91,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "7BHBKBGh5YpxQJqj47YC8riFA5nqDX9YG5Jc9ynsxvgA": {
+    "name": "ARTEMI",
+    "symbol": "ARTEMI",
+    "flagged_ts": 1792515159,
+    "liquidity_at_flag": 39944.2731253838,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "GWP4c7cAtBK6YjJUvWYrQki9Fn3AuZQwieSPG4nqppHy": {
+    "name": "ARTEMI",
+    "symbol": "ARTEMI",
+    "flagged_ts": 1792515161,
+    "liquidity_at_flag": 31873.487971547846,
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 60,
