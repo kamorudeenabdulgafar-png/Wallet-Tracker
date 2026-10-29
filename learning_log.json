@@ -1,44 +1,5 @@
 [
   {
-    "name": "Kinetic",
-    "symbol": "KINETIC",
-    "category": "fading",
-    "change_pct": -43.9,
-    "breakdown": {
-      "MOMENTUM": 100,
-      "SAFETY": 90,
-      "LIQUIDITY": 100,
-      "SMART MONEY": 0
-    },
-    "ts": 1792041552
-  },
-  {
-    "name": "MERGE",
-    "symbol": "MERGE",
-    "category": "rug",
-    "change_pct": -85.0,
-    "breakdown": {
-      "MOMENTUM": 100,
-      "SAFETY": 90,
-      "LIQUIDITY": 100,
-      "SMART MONEY": 0
-    },
-    "ts": 1792041553
-  },
-  {
-    "name": "fPad",
-    "symbol": "FPAD",
-    "category": "rug",
-    "change_pct": -96.0,
-    "breakdown": {
-      "MOMENTUM": 100,
-      "SAFETY": 100,
-      "LIQUIDITY": 100,
-      "SMART MONEY": 0
-    },
-    "ts": 1792041554
-  },
-  {
     "name": "UNTAXED WALLET | iOS, Android",
     "symbol": "UNTXED",
     "category": "rug",
@@ -3898,5 +3859,44 @@
       "SMART MONEY": 0
     },
     "ts": 1793223837
+  },
+  {
+    "name": "Inverse",
+    "symbol": "INVERSE",
+    "category": "rug",
+    "change_pct": -100.0,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 75,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "ts": 1793236566
+  },
+  {
+    "name": "Attention Coin",
+    "symbol": "Attention",
+    "category": "rug",
+    "change_pct": -89.6,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 90,
+      "LIQUIDITY": 96,
+      "SMART MONEY": 0
+    },
+    "ts": 1793236567
+  },
+  {
+    "name": "GIVEBACK",
+    "symbol": "GBACK",
+    "category": "rug",
+    "change_pct": -100.0,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "ts": 1793236568
   }
 ]
