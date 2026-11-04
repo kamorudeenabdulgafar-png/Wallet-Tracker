@@ -1,18 +1,5 @@
 [
   {
-    "name": "GH0ST",
-    "symbol": "ENERGY",
-    "category": "rug",
-    "change_pct": -100.0,
-    "breakdown": {
-      "MOMENTUM": 100,
-      "SAFETY": 60,
-      "LIQUIDITY": 100,
-      "SMART MONEY": 0
-    },
-    "ts": 1792615555
-  },
-  {
     "name": "Energy Coin",
     "symbol": "ENERGY",
     "category": "rug",
@@ -3898,5 +3885,18 @@
       "SMART MONEY": 0
     },
     "ts": 1793783950
+  },
+  {
+    "name": "Memecoin",
+    "symbol": "MEMECOIN",
+    "category": "rug",
+    "change_pct": -100.0,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "ts": 1793812873
   }
 ]
