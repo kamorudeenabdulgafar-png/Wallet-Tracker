@@ -1,55 +1,4 @@
 {
-  "68XHjyoHDqDtR4TcU6V3jxSchMVYaHEAmHRD6HNhhc6q": {
-    "name": "A-shares",
-    "symbol": "A-shares",
-    "flagged_ts": 1793935737,
-    "liquidity_at_flag": 81466.17624028202,
-    "breakdown": {
-      "MOMENTUM": 100,
-      "SAFETY": 75,
-      "LIQUIDITY": 100,
-      "SMART MONEY": 0
-    },
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "4YaVaCRUJ1FAPwn5HURKen6v3kJSCeRTV3PdHbcFfVJX": {
-    "name": "DEGEN",
-    "symbol": "DEGEN",
-    "flagged_ts": 1793935738,
-    "liquidity_at_flag": 66183.67020784822,
-    "breakdown": {
-      "MOMENTUM": 100,
-      "SAFETY": 75,
-      "LIQUIDITY": 100,
-      "SMART MONEY": 0
-    },
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "CkQamF6TpKcWoE9J6JSBPhsqHNkdNnZQRRktb9Jdpump": {
-    "name": "GTA VI",
-    "symbol": "GTA6",
-    "flagged_ts": 1793935740,
-    "liquidity_at_flag": 43097.5029799983,
-    "breakdown": {
-      "MOMENTUM": 100,
-      "SAFETY": 100,
-      "LIQUIDITY": 100,
-      "SMART MONEY": 0
-    },
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
   "3625oA8Jn4JuxkKvms8UhcZ41aH2VewkKUzHqMoBpump": {
     "name": "Claude",
     "symbol": "Claude",
@@ -1457,7 +1406,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "9j3EyQXC4ff2gZDgMWg2RUjujLUKaKkNFY5REgPFpump": {
@@ -1473,7 +1423,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "7BWrHRyQcsKYMwq7W3XCsbnZMdXohboMoasrUWRZpump": {
@@ -1489,7 +1440,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "G9vjGKPwTrfybWabD6mtoiMt88sgGkPLQEXL7MD5ENoN": {
@@ -1679,7 +1631,10 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m",
+      "240m"
+    ]
   },
   "B76dPMG2Gj1uMzk9Jf8efZcAesLUwNtFDBFdcZtXpump": {
     "name": "Trashed Panda",
@@ -1692,7 +1647,10 @@
       "LIQUIDITY": 46,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m",
+      "240m"
+    ]
   },
   "FVjTr39UcTr2LzcRCZvxEUWa8repoheCPwqEtGG2pump": {
     "name": "Rockstar Games",
@@ -1705,7 +1663,10 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m",
+      "240m"
+    ]
   },
   "AY2P2J79jdLWib4yYwMDApCmq9GorZhddDXerca3pump": {
     "name": "GTA Inu",
@@ -1714,6 +1675,22 @@
     "liquidity_at_flag": 49401.47634243933,
     "breakdown": {
       "MOMENTUM": 45,
+      "SAFETY": 100,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": [
+      "60m",
+      "240m"
+    ]
+  },
+  "45yf6UuhLUfkDKrNDUq4WSiLxb1e1NiggpyWjiRKpump": {
+    "name": "Pipe Wrench Pete",
+    "symbol": "WRENCHP",
+    "flagged_ts": 1794563865,
+    "liquidity_at_flag": 24801.68724801871,
+    "breakdown": {
+      "MOMENTUM": 58,
       "SAFETY": 100,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
