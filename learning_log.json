@@ -1,18 +1,5 @@
 [
   {
-    "name": "Launch",
-    "symbol": "LAUNCH",
-    "category": "rug",
-    "change_pct": -100.0,
-    "breakdown": {
-      "MOMENTUM": 100,
-      "SAFETY": 60,
-      "LIQUIDITY": 100,
-      "SMART MONEY": 0
-    },
-    "ts": 1793050557
-  },
-  {
     "name": "Not My Stock",
     "symbol": "NMS",
     "category": "rug",
@@ -3898,5 +3885,18 @@
       "SMART MONEY": 0
     },
     "ts": 1794521736
+  },
+  {
+    "name": "Pussy Coin",
+    "symbol": "PUSSY",
+    "category": "fading",
+    "change_pct": -30.1,
+    "breakdown": {
+      "MOMENTUM": 96,
+      "SAFETY": 90,
+      "LIQUIDITY": 89,
+      "SMART MONEY": 0
+    },
+    "ts": 1794537551
   }
 ]
