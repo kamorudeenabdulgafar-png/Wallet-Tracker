@@ -1,55 +1,4 @@
 {
-  "9yhSHqFw3sSTu8m9DgY4YceJyDdNQAXEsphCw5xdpump": {
-    "name": "GTA6",
-    "symbol": "GTA 6 Coin",
-    "flagged_ts": 1794066167,
-    "liquidity_at_flag": 51406.30993970936,
-    "breakdown": {
-      "MOMENTUM": 100,
-      "SAFETY": 100,
-      "LIQUIDITY": 100,
-      "SMART MONEY": 0
-    },
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "EFPMJHM3m4yZmZJBrEALMqTmTsbLGafjRuZ5jtzKpump": {
-    "name": "Trump Coin",
-    "symbol": "Trump",
-    "flagged_ts": 1794066168,
-    "liquidity_at_flag": 51327.448879855794,
-    "breakdown": {
-      "MOMENTUM": 100,
-      "SAFETY": 100,
-      "LIQUIDITY": 100,
-      "SMART MONEY": 0
-    },
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "4HqpRjsRS8pjdWa2B3mBAmNNxTXUeJ9L6AfFnRgipump": {
-    "name": "HOPE",
-    "symbol": "HOPE",
-    "flagged_ts": 1794066169,
-    "liquidity_at_flag": 21696.97693957662,
-    "breakdown": {
-      "MOMENTUM": 64,
-      "SAFETY": 100,
-      "LIQUIDITY": 100,
-      "SMART MONEY": 0
-    },
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
   "CDgaoUorEo3v2rkctG4Q9ds9ibkXX4tDx9GqNgENNmdD": {
     "name": "POLISH HERO",
     "symbol": "HERO",
@@ -1525,7 +1474,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "3oQZ1AZT6yW28J7ySeVo2YxXbgHC6Vmw2AynJiB8uSnY": {
@@ -1619,7 +1569,10 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m",
+      "240m"
+    ]
   },
   "3MLWUXUpQv25f2LEC5QuCTeT56xb5PGH34CNqkEH96RZ": {
     "name": "AMD",
@@ -1632,7 +1585,10 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m",
+      "240m"
+    ]
   },
   "GsXhqnQk3MqJARB7rnmXYmKD2yrVSnWU2QKQh1C1XqJJ": {
     "name": "Foodcoin",
@@ -1642,6 +1598,48 @@
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 90,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": [
+      "60m",
+      "240m"
+    ]
+  },
+  "89LvicZiYWfDDFGrP4rXT6eoMpAiy3YUSyJhREdoQRhu": {
+    "name": "GTA Dollars",
+    "symbol": "GTA$",
+    "flagged_ts": 1794671803,
+    "liquidity_at_flag": 42509.68118749032,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 90,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "7N6sKm9H5Ltsq4RjecfWxLb45GZ4PguUEJTxR1pCrcvU": {
+    "name": "Vice Inu",
+    "symbol": "VI",
+    "flagged_ts": 1794671805,
+    "liquidity_at_flag": 39064.01587733026,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "CHvvcGS5PNbyfzwHvmREUizXeXLCtmZKZs4DUmpZ4SNn": {
+    "name": "Jensen Huang",
+    "symbol": "Huang",
+    "flagged_ts": 1794671806,
+    "liquidity_at_flag": 24745.334497379954,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 75,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
