@@ -1,38 +1,4 @@
 {
-  "2665yeq6EVpYG4CGpj3Dxzfnju78JvmfAgemuRhU1Zqz": {
-    "name": "PUSH THE BEAN",
-    "symbol": "BEAN",
-    "flagged_ts": 1794167933,
-    "liquidity_at_flag": 90723.26715111642,
-    "breakdown": {
-      "MOMENTUM": 100,
-      "SAFETY": 90,
-      "LIQUIDITY": 100,
-      "SMART MONEY": 0
-    },
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "CACHEhXmtFcdP9jteQnNEa4AKkhxzjaAvYeL3KWKW2NR": {
-    "name": "Percolator",
-    "symbol": "Percolator",
-    "flagged_ts": 1794167937,
-    "liquidity_at_flag": 36882.492204324444,
-    "breakdown": {
-      "MOMENTUM": 100,
-      "SAFETY": 90,
-      "LIQUIDITY": 100,
-      "SMART MONEY": 0
-    },
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
   "CFUucSV5QoqZxEYE3TwWfADVs7EsskjTnps3aZtzEJrW": {
     "name": "Grokia",
     "symbol": "GROKIA",
@@ -1355,7 +1321,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "56n2svU1yBQPtZvzQnZXJVMdNtxnWjvv1pdFfSRXZJzw": {
@@ -1371,7 +1338,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "CWQamY7PtGiUXBXiZ78Y5XAmdiXr8xQfL7UV3nnc7y4N": {
@@ -1513,7 +1481,10 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m",
+      "240m"
+    ]
   },
   "DwzPXfXyPYFMbdsTBtP7aPRpQ6RNygLUViErqf1fqX9b": {
     "name": "BLG",
@@ -1526,7 +1497,10 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m",
+      "240m"
+    ]
   },
   "2NUaS6Gfrm5rBuPBn7svHka8t33SrSkpXGQiUvZLpump": {
     "name": "Anthropig",
@@ -1536,6 +1510,22 @@
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 100,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": [
+      "60m",
+      "240m"
+    ]
+  },
+  "2kWx47CUrcXtzptFNnbSXKq3vo1ebqyLBhRytKRGpump": {
+    "name": "Jiggly Wiggly Dog",
+    "symbol": "WIGGLES",
+    "flagged_ts": 1794785021,
+    "liquidity_at_flag": 20095.829662159682,
+    "breakdown": {
+      "MOMENTUM": 93,
+      "SAFETY": 90,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
