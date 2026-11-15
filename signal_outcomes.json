@@ -1,55 +1,4 @@
 {
-  "E6w4FUWCaLmhfDZqoUPiVeG97nE8K5ML3P1UaQzG9a5F": {
-    "name": "Global Oil Recovery Program",
-    "symbol": "GORP",
-    "flagged_ts": 1794152477,
-    "liquidity_at_flag": 80473.97289736586,
-    "breakdown": {
-      "MOMENTUM": 100,
-      "SAFETY": 75,
-      "LIQUIDITY": 100,
-      "SMART MONEY": 0
-    },
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "Bod5z3UABa6pUxVWyCwm3RpEfHNrSFaWZkKzpuLdkahM": {
-    "name": "Bitcoin Bank",
-    "symbol": "BTC Bank",
-    "flagged_ts": 1794152478,
-    "liquidity_at_flag": 22201.195176353423,
-    "breakdown": {
-      "MOMENTUM": 100,
-      "SAFETY": 75,
-      "LIQUIDITY": 100,
-      "SMART MONEY": 0
-    },
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "2HhH7LwfNHrxqMrSoXZ6Ri7GdmRYSJ4e8qSra9Krpump": {
-    "name": "forg",
-    "symbol": "forg",
-    "flagged_ts": 1794152479,
-    "liquidity_at_flag": 21831.07575573196,
-    "breakdown": {
-      "MOMENTUM": 77,
-      "SAFETY": 100,
-      "LIQUIDITY": 100,
-      "SMART MONEY": 0
-    },
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
   "2665yeq6EVpYG4CGpj3Dxzfnju78JvmfAgemuRhU1Zqz": {
     "name": "PUSH THE BEAN",
     "symbol": "BEAN",
@@ -1355,7 +1304,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "7N6sKm9H5Ltsq4RjecfWxLb45GZ4PguUEJTxR1pCrcvU": {
@@ -1371,7 +1321,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "CHvvcGS5PNbyfzwHvmREUizXeXLCtmZKZs4DUmpZ4SNn": {
@@ -1387,7 +1338,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "46sup1Mc1AdQPpikrdNLUjmzSgZcEYdV3pk8XPPXpump": {
@@ -1513,7 +1465,10 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m",
+      "240m"
+    ]
   },
   "E6Jzf7YUD5NmcjERjLbBEaEPZ3Qa6Zd1y9eZmWRY9qWA": {
     "name": "Socks Neobank",
@@ -1526,7 +1481,10 @@
       "LIQUIDITY": 84,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m",
+      "240m"
+    ]
   },
   "9HFUEab7sompLDPTAaTGkryMNGbtBaFMhHMVpJEBpump": {
     "name": "rockstar",
@@ -1536,6 +1494,48 @@
     "breakdown": {
       "MOMENTUM": 71,
       "SAFETY": 90,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": [
+      "60m",
+      "240m"
+    ]
+  },
+  "He2LERjiqsdFTgsakv9jth4xQ8skHJ7wQ4rtTipnhzzg": {
+    "name": "BLG\u725b\u903c",
+    "symbol": "BLG\u725b\u903c",
+    "flagged_ts": 1794770178,
+    "liquidity_at_flag": 84848.38935440166,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 90,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "DwzPXfXyPYFMbdsTBtP7aPRpQ6RNygLUViErqf1fqX9b": {
+    "name": "BLG",
+    "symbol": "BLG",
+    "flagged_ts": 1794770179,
+    "liquidity_at_flag": 54375.4182022545,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 75,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "2NUaS6Gfrm5rBuPBn7svHka8t33SrSkpXGQiUvZLpump": {
+    "name": "Anthropig",
+    "symbol": "Anthropig",
+    "flagged_ts": 1794770181,
+    "liquidity_at_flag": 48263.15274755571,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 100,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
