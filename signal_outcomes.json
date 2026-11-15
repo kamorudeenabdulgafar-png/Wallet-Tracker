@@ -1,21 +1,4 @@
 {
-  "8HLbzvrhBtprdBuzeL3fQ5D2Ru2pfywTzKXUb12meE3F": {
-    "name": "CatcoinMeme",
-    "symbol": "CAT",
-    "flagged_ts": 1794128046,
-    "liquidity_at_flag": 108883.5770520145,
-    "breakdown": {
-      "MOMENTUM": 84,
-      "SAFETY": 60,
-      "LIQUIDITY": 100,
-      "SMART MONEY": 0
-    },
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
   "E6w4FUWCaLmhfDZqoUPiVeG97nE8K5ML3P1UaQzG9a5F": {
     "name": "Global Oil Recovery Program",
     "symbol": "GORP",
@@ -1321,7 +1304,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "3MLWUXUpQv25f2LEC5QuCTeT56xb5PGH34CNqkEH96RZ": {
@@ -1337,7 +1321,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "GsXhqnQk3MqJARB7rnmXYmKD2yrVSnWU2QKQh1C1XqJJ": {
@@ -1353,7 +1338,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "89LvicZiYWfDDFGrP4rXT6eoMpAiy3YUSyJhREdoQRhu": {
@@ -1463,7 +1449,10 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m",
+      "240m"
+    ]
   },
   "7er2HV1VMo2zESzjqYvcK4ZKic7pXKkbYNEHh67Wpump": {
     "name": "In Lisa We Trust",
@@ -1476,7 +1465,10 @@
       "LIQUIDITY": 77,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m",
+      "240m"
+    ]
   },
   "M2ZHyvfdmCXpZFie1pVYkNPmXzibyGktKurDBzYWrYn": {
     "name": "zorpoxSol",
@@ -1489,7 +1481,10 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m",
+      "240m"
+    ]
   },
   "A4a271pEy8823m5Po24Bf3GoscjTWzn1ApzxNPm5rXEB": {
     "name": "Nyajira",
@@ -1498,6 +1493,48 @@
     "liquidity_at_flag": 27610.392261557696,
     "breakdown": {
       "MOMENTUM": 67,
+      "SAFETY": 90,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": [
+      "60m",
+      "240m"
+    ]
+  },
+  "HGT4vvERrLDCCpr4NtPF5QJgcXHCgvMXKWtHLVX9xKuX": {
+    "name": "BOME",
+    "symbol": "BOME",
+    "flagged_ts": 1794747516,
+    "liquidity_at_flag": 57633.00422751003,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "E6Jzf7YUD5NmcjERjLbBEaEPZ3Qa6Zd1y9eZmWRY9qWA": {
+    "name": "Socks Neobank",
+    "symbol": "Socks",
+    "flagged_ts": 1794747517,
+    "liquidity_at_flag": 16847.506662487227,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 75,
+      "LIQUIDITY": 84,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "9HFUEab7sompLDPTAaTGkryMNGbtBaFMhHMVpJEBpump": {
+    "name": "rockstar",
+    "symbol": "rockstar",
+    "flagged_ts": 1794747518,
+    "liquidity_at_flag": 26452.40622907974,
+    "breakdown": {
+      "MOMENTUM": 71,
       "SAFETY": 90,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
