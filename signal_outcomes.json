@@ -1185,7 +1185,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "7er2HV1VMo2zESzjqYvcK4ZKic7pXKkbYNEHh67Wpump": {
@@ -1201,7 +1202,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "M2ZHyvfdmCXpZFie1pVYkNPmXzibyGktKurDBzYWrYn": {
@@ -1217,7 +1219,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "A4a271pEy8823m5Po24Bf3GoscjTWzn1ApzxNPm5rXEB": {
@@ -1233,7 +1236,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "HGT4vvERrLDCCpr4NtPF5QJgcXHCgvMXKWtHLVX9xKuX": {
@@ -1344,7 +1348,8 @@
       "SMART MONEY": 0
     },
     "checkpoints_done": [
-      "60m"
+      "60m",
+      "240m"
     ]
   },
   "8gg2TiGjibZaEmvQWNdTunRn1Qn3NnYTNP7KsXYkRM7T": {
@@ -1358,7 +1363,10 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m",
+      "240m"
+    ]
   },
   "8hqGHJ288zdWDm5iSpLcN3KNc57q31ZivipALWq8o7fV": {
     "name": "Hogecoin",
@@ -1371,7 +1379,10 @@
       "LIQUIDITY": 91,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m",
+      "240m"
+    ]
   },
   "9iG6qBMgzzuYyq2kfXcAD49bkTFrpGp5gr1QHJiZMwoi": {
     "name": "Neil the lemur",
@@ -1384,7 +1395,10 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m",
+      "240m"
+    ]
   },
   "BavQVyUv8ZTtWEMJHNGnB5WjeMTWGgesdSXM1nbavy9z": {
     "name": "Koop",
@@ -1394,6 +1408,35 @@
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": [
+      "60m",
+      "240m"
+    ]
+  },
+  "7MNX4BgREp8RBPruWsascbaBsjsevpyAJnkUdNWspump": {
+    "name": "GTA Inu",
+    "symbol": "GI",
+    "flagged_ts": 1794824747,
+    "liquidity_at_flag": 14832.379872084031,
+    "breakdown": {
+      "MOMENTUM": 92,
+      "SAFETY": 75,
+      "LIQUIDITY": 74,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "2wCACRgSXiVbUDJx3WdAWoN8c53RHCdEvDmuYY2AMacE": {
+    "name": "Marvin The Martian",
+    "symbol": "Marvin",
+    "flagged_ts": 1794824749,
+    "liquidity_at_flag": 55268.27876086888,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 100,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
