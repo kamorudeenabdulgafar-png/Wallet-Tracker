@@ -1,55 +1,4 @@
 {
-  "DtboBxgp2suXKLC7UeBC1tkEPFAXAg72HWmgCtMgzbNb": {
-    "name": "Seppuku",
-    "symbol": "SEPPUKU",
-    "flagged_ts": 1794258408,
-    "liquidity_at_flag": 64889.31363830933,
-    "breakdown": {
-      "MOMENTUM": 100,
-      "SAFETY": 75,
-      "LIQUIDITY": 100,
-      "SMART MONEY": 0
-    },
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "Fi6e1YJ92Lyo5vVUpBZVKLPGTMFdJjz1F4ftKU6pump": {
-    "name": "FLOAT",
-    "symbol": "FLOAT",
-    "flagged_ts": 1794258409,
-    "liquidity_at_flag": 20665.77601991778,
-    "breakdown": {
-      "MOMENTUM": 100,
-      "SAFETY": 60,
-      "LIQUIDITY": 100,
-      "SMART MONEY": 0
-    },
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "6USthxiSZFoCJWhd5bUTcStagAJ2rFd8q8SiF2kupump": {
-    "name": "OrbitPad",
-    "symbol": "ORBIT",
-    "flagged_ts": 1794258410,
-    "liquidity_at_flag": 56722.486370333856,
-    "breakdown": {
-      "MOMENTUM": 73,
-      "SAFETY": 100,
-      "LIQUIDITY": 100,
-      "SMART MONEY": 0
-    },
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
   "B9FgqHbtccsgcL6YPfUhNd81qveNtrTbsfLvcjxtpump": {
     "name": "AICoin",
     "symbol": "AICoin",
@@ -1253,7 +1202,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "8gg2TiGjibZaEmvQWNdTunRn1Qn3NnYTNP7KsXYkRM7T": {
@@ -1269,7 +1219,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "8hqGHJ288zdWDm5iSpLcN3KNc57q31ZivipALWq8o7fV": {
@@ -1285,7 +1236,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "9iG6qBMgzzuYyq2kfXcAD49bkTFrpGp5gr1QHJiZMwoi": {
@@ -1301,7 +1253,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "BavQVyUv8ZTtWEMJHNGnB5WjeMTWGgesdSXM1nbavy9z": {
@@ -1317,7 +1270,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "7MNX4BgREp8RBPruWsascbaBsjsevpyAJnkUdNWspump": {
@@ -1363,7 +1317,10 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m",
+      "240m"
+    ]
   },
   "24FdcgGT6L349K4GgbdzATMB4YEf6BjxygykXxFbpump": {
     "name": "6 STARS",
@@ -1376,7 +1333,10 @@
       "LIQUIDITY": 82,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m",
+      "240m"
+    ]
   },
   "2NWgu4fqN2AxS5pp5v3f3SH54qArP9JepQFJm58gpump": {
     "name": "Grand Theft Anthropic",
@@ -1387,6 +1347,61 @@
       "MOMENTUM": 100,
       "SAFETY": 100,
       "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": [
+      "60m",
+      "240m"
+    ]
+  },
+  "4DVegjR8RA51We5kjJ4GsBMzqR4RFprHkQPpnNZqbu7v": {
+    "name": "CAT",
+    "symbol": "CAT",
+    "flagged_ts": 1794884870,
+    "liquidity_at_flag": 51792.413779552255,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 75,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "9qX9MkFWzckeUB6BjjpXq3m5xXRQa1x6AUhhDmXZP45L": {
+    "name": "BLG",
+    "symbol": "BLG",
+    "flagged_ts": 1794884871,
+    "liquidity_at_flag": 23875.618150092487,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "5L9xgkjULVgPRHAtQFHxdtv4eTJtNzkF74NbqU3VbJyk": {
+    "name": "The Nietzschean Gorilla",
+    "symbol": "Jojo",
+    "flagged_ts": 1794884872,
+    "liquidity_at_flag": 30988.131103015086,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "ANt31zPFtdqb327BxLcvPnSUSTMzm5Rf7xfKN5kbpump": {
+    "name": "Mikol The Bag Worker",
+    "symbol": "Mikol",
+    "flagged_ts": 1794884875,
+    "liquidity_at_flag": 14825.789306016712,
+    "breakdown": {
+      "MOMENTUM": 83,
+      "SAFETY": 90,
+      "LIQUIDITY": 74,
       "SMART MONEY": 0
     },
     "checkpoints_done": []
