@@ -1,89 +1,4 @@
 {
-  "B9FgqHbtccsgcL6YPfUhNd81qveNtrTbsfLvcjxtpump": {
-    "name": "AICoin",
-    "symbol": "AICoin",
-    "flagged_ts": 1794281328,
-    "liquidity_at_flag": 32418.154310390026,
-    "breakdown": {
-      "MOMENTUM": 60,
-      "SAFETY": 90,
-      "LIQUIDITY": 100,
-      "SMART MONEY": 0
-    },
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "78aB1Sw2rH6uRCYALnC1JUWVNEcgp9cGC55s7SzzQKVs": {
-    "name": "KytroCrypto",
-    "symbol": "KYTRO",
-    "flagged_ts": 1794281329,
-    "liquidity_at_flag": 62239.985561729874,
-    "breakdown": {
-      "MOMENTUM": 100,
-      "SAFETY": 60,
-      "LIQUIDITY": 100,
-      "SMART MONEY": 0
-    },
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "3LCmyGiuXNKB13SrcF9BRMxrn7iJXwVavNf5mxTcpump": {
-    "name": "fomo",
-    "symbol": "fomo",
-    "flagged_ts": 1794281331,
-    "liquidity_at_flag": 18895.88407880823,
-    "breakdown": {
-      "MOMENTUM": 62,
-      "SAFETY": 100,
-      "LIQUIDITY": 94,
-      "SMART MONEY": 0
-    },
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "2ZLU8yV2mgG9M3PFNDskTeJRcfWYFQ86Byhmk3Jppump": {
-    "name": "Habibi Cat",
-    "symbol": "HABIBI",
-    "flagged_ts": 1794281331,
-    "liquidity_at_flag": 30780.650763401296,
-    "breakdown": {
-      "MOMENTUM": 49,
-      "SAFETY": 100,
-      "LIQUIDITY": 100,
-      "SMART MONEY": 0
-    },
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "EMfnF5D4XaUn4qQ6UMWeHCCvkm1Yyuj3DGuvHfCWpump": {
-    "name": "fomo",
-    "symbol": "FOMO",
-    "flagged_ts": 1794310409,
-    "liquidity_at_flag": 20785.360859621756,
-    "breakdown": {
-      "MOMENTUM": 52,
-      "SAFETY": 100,
-      "LIQUIDITY": 100,
-      "SMART MONEY": 0
-    },
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
   "EZ4DiAPDcUCAb14j1gSj3cRHLtG9L5BjN5UTi2JY2Cf8": {
     "name": "Peanut",
     "symbol": "Peanut",
@@ -1287,7 +1202,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "2wCACRgSXiVbUDJx3WdAWoN8c53RHCdEvDmuYY2AMacE": {
@@ -1303,7 +1219,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "BrBr2kDTreXP7JXKeAiVYBfKLyS5TzzhtJYP3pKsm1LS": {
@@ -1365,7 +1282,10 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m",
+      "240m"
+    ]
   },
   "9qX9MkFWzckeUB6BjjpXq3m5xXRQa1x6AUhhDmXZP45L": {
     "name": "BLG",
@@ -1378,7 +1298,10 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m",
+      "240m"
+    ]
   },
   "5L9xgkjULVgPRHAtQFHxdtv4eTJtNzkF74NbqU3VbJyk": {
     "name": "The Nietzschean Gorilla",
@@ -1391,7 +1314,10 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m",
+      "240m"
+    ]
   },
   "ANt31zPFtdqb327BxLcvPnSUSTMzm5Rf7xfKN5kbpump": {
     "name": "Mikol The Bag Worker",
@@ -1402,6 +1328,35 @@
       "MOMENTUM": 83,
       "SAFETY": 90,
       "LIQUIDITY": 74,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": [
+      "60m",
+      "240m"
+    ]
+  },
+  "6GddwNVPAs6iisbseMWq4NHGY5uqEaNZyY1g9AAqpump": {
+    "name": "DacityCoin",
+    "symbol": "DCCN",
+    "flagged_ts": 1794915801,
+    "liquidity_at_flag": 16830.4494263985,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 90,
+      "LIQUIDITY": 84,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "m9RV9V1afSCYG2iRm9SiHcTsEKQ7DeREcgtUrLVLgRw": {
+    "name": "Bones",
+    "symbol": "Bones",
+    "flagged_ts": 1794915803,
+    "liquidity_at_flag": 21104.795711821367,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 75,
+      "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
     "checkpoints_done": []
