@@ -1,21 +1,4 @@
 {
-  "EZ4DiAPDcUCAb14j1gSj3cRHLtG9L5BjN5UTi2JY2Cf8": {
-    "name": "Peanut",
-    "symbol": "Peanut",
-    "flagged_ts": 1794336448,
-    "liquidity_at_flag": 17131.88497261185,
-    "breakdown": {
-      "MOMENTUM": 93,
-      "SAFETY": 60,
-      "LIQUIDITY": 86,
-      "SMART MONEY": 0
-    },
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
   "fQyULJBi53wuARDupvafRUwTCBAYvUPT8yeienXpump": {
     "name": "GTA6",
     "symbol": "GTA 6 Coin",
@@ -1346,7 +1329,10 @@
       "LIQUIDITY": 84,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m",
+      "240m"
+    ]
   },
   "m9RV9V1afSCYG2iRm9SiHcTsEKQ7DeREcgtUrLVLgRw": {
     "name": "Bones",
@@ -1356,6 +1342,48 @@
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 75,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": [
+      "60m",
+      "240m"
+    ]
+  },
+  "BSsmLA6UN8fzJ8qUkV4KwC5LxR7ab3TaUtcwvAyJpump": {
+    "name": "Jason & Lucia",
+    "symbol": "JALU",
+    "flagged_ts": 1794945739,
+    "liquidity_at_flag": 62696.46491909721,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 100,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "CJatJtQXGW3qY2nrmEKACHHLsAE6QRj8adS319XxyyD": {
+    "name": "GTA VI",
+    "symbol": "GTA6",
+    "flagged_ts": 1794945740,
+    "liquidity_at_flag": 100865.98465067902,
+    "breakdown": {
+      "MOMENTUM": 96,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "CSmSeS8XkxXTVa47LHtY9Mx1FSSwqw94tjqy4te3pump": {
+    "name": "GTAVI Mascot",
+    "symbol": "GM",
+    "flagged_ts": 1794945740,
+    "liquidity_at_flag": 38892.241755897296,
+    "breakdown": {
+      "MOMENTUM": 51,
+      "SAFETY": 100,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
