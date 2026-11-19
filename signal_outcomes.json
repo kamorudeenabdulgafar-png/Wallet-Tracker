@@ -1,55 +1,4 @@
 {
-  "E9h3E9Tur9j8U6oTRMtYNSW22WFaF9b9v4fAtzUSTXtf": {
-    "name": "China's stock marke",
-    "symbol": "\u5927A",
-    "flagged_ts": 1794469177,
-    "liquidity_at_flag": 73226.41513025857,
-    "breakdown": {
-      "MOMENTUM": 100,
-      "SAFETY": 90,
-      "LIQUIDITY": 100,
-      "SMART MONEY": 0
-    },
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "9j3EyQXC4ff2gZDgMWg2RUjujLUKaKkNFY5REgPFpump": {
-    "name": "Next CEO of NVIDIA",
-    "symbol": "Madison",
-    "flagged_ts": 1794469178,
-    "liquidity_at_flag": 45412.36054613136,
-    "breakdown": {
-      "MOMENTUM": 48,
-      "SAFETY": 100,
-      "LIQUIDITY": 100,
-      "SMART MONEY": 0
-    },
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "7BWrHRyQcsKYMwq7W3XCsbnZMdXohboMoasrUWRZpump": {
-    "name": "Rockstar Games",
-    "symbol": "Rockstar",
-    "flagged_ts": 1794469179,
-    "liquidity_at_flag": 72285.49503214701,
-    "breakdown": {
-      "MOMENTUM": 99,
-      "SAFETY": 100,
-      "LIQUIDITY": 100,
-      "SMART MONEY": 0
-    },
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
   "G9vjGKPwTrfybWabD6mtoiMt88sgGkPLQEXL7MD5ENoN": {
     "name": "Jensen Hung",
     "symbol": "HUNG",
@@ -1066,7 +1015,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "3sjjXnrCr3sEnG2TDXzr6JupKNcvzXnGU5FfH1eraqo6": {
@@ -1082,7 +1032,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "Cdw8xUu5djTc39VG3hkjbsU8C6LS6q6HupZGCW15pump": {
@@ -1098,7 +1049,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "47mUZNAjSFA3nmxnRa1y7P9Jmi5WPWpVP1ACPQZqpump": {
@@ -1114,7 +1066,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "DskwBaEHAa7zzcrPfntCMjkH4Q1oZzaqjwYyqGF9Cagu": {
@@ -1130,7 +1083,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "EBCpGdXuS34WZuX13thrku2KmuLSe3Tf2gMtMKndpump": {
@@ -1146,7 +1100,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "2jLVB2yXUx5heiEUBWumcTFAveUhrag4HBBNYqNEpump": {
@@ -1240,7 +1195,10 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m",
+      "240m"
+    ]
   },
   "D6XqUDWoAB7nHDHpmL3G5PUci865qygbTex52v3Mpump": {
     "name": "Buck",
@@ -1253,7 +1211,10 @@
       "LIQUIDITY": 90,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m",
+      "240m"
+    ]
   },
   "9y8yhqgVPBFsdBLerAGHi5Rwy4MSBNTQWkZHNoNpVJ1Y": {
     "name": "DacityCoin",
@@ -1266,7 +1227,10 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m",
+      "240m"
+    ]
   },
   "FJSga8VWXAUHvQCb2gBzn7xc2EQ7wdGKw764Hdespump": {
     "name": "DacityCoin",
@@ -1277,6 +1241,35 @@
       "MOMENTUM": 97,
       "SAFETY": 75,
       "LIQUIDITY": 56,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": [
+      "60m",
+      "240m"
+    ]
+  },
+  "5gRsQngoVdq4E3Rv2LLNVGnioBiB1M77vG9eQtZZ1RXS": {
+    "name": "Bigger Better Faster Stronger",
+    "symbol": "BBFS",
+    "flagged_ts": 1795076528,
+    "liquidity_at_flag": 49062.90530556002,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "8tJdswbmFvJxuL5iMk762tVAcBdnKzuXtAHSW18Upump": {
+    "name": "Dacity Coin",
+    "symbol": "DCA",
+    "flagged_ts": 1795076528,
+    "liquidity_at_flag": 13736.462829436045,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 75,
+      "LIQUIDITY": 69,
       "SMART MONEY": 0
     },
     "checkpoints_done": []
