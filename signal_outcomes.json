@@ -1,89 +1,4 @@
 {
-  "sERDgp8uo4bP2MFPpxre6YsfEukLgQrgcnFDso6pump": {
-    "name": "Nullmask",
-    "symbol": "MASK",
-    "flagged_ts": 1794521731,
-    "liquidity_at_flag": 34671.45282931338,
-    "breakdown": {
-      "MOMENTUM": 100,
-      "SAFETY": 100,
-      "LIQUIDITY": 100,
-      "SMART MONEY": 0
-    },
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "7eukPyCqRZb89reyzJjPEVMaEGv7ojAXftaJUbJURkCn": {
-    "name": "MORNING",
-    "symbol": "MORNING",
-    "flagged_ts": 1794521732,
-    "liquidity_at_flag": 59533.227654533024,
-    "breakdown": {
-      "MOMENTUM": 91,
-      "SAFETY": 75,
-      "LIQUIDITY": 100,
-      "SMART MONEY": 0
-    },
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "C3z7pTTUGQwxvTCwsDGdw9R3678DrWn7q2oTzbxVTPQH": {
-    "name": "Max coin",
-    "symbol": "Max",
-    "flagged_ts": 1794521733,
-    "liquidity_at_flag": 24341.155106679544,
-    "breakdown": {
-      "MOMENTUM": 100,
-      "SAFETY": 75,
-      "LIQUIDITY": 100,
-      "SMART MONEY": 0
-    },
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "GasYxdh4RP971cY9odYBDPxa7Dwid8qVxDqKXnk7pump": {
-    "name": "ni hao cat",
-    "symbol": "mihao",
-    "flagged_ts": 1794521733,
-    "liquidity_at_flag": 42308.84984259543,
-    "breakdown": {
-      "MOMENTUM": 100,
-      "SAFETY": 100,
-      "LIQUIDITY": 100,
-      "SMART MONEY": 0
-    },
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "ECs6n795WEpSf5yDrw9ejsPKArxbouBiVYw5nxtRpump": {
-    "name": "marsoperator",
-    "symbol": "marsoperator",
-    "flagged_ts": 1794521734,
-    "liquidity_at_flag": 13984.43700065735,
-    "breakdown": {
-      "MOMENTUM": 77,
-      "SAFETY": 90,
-      "LIQUIDITY": 70,
-      "SMART MONEY": 0
-    },
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
   "yiyLcXUyPdHKNFw7ciAMx5fUUw4432f6MU81B3Y6x9D": {
     "name": "Straight Flush",
     "symbol": "\u82b1",
@@ -1066,7 +981,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "8fcNKd64KwbxtKhSi6jB9fASAw23wc184h9PwWozpump": {
@@ -1082,7 +998,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "2H7YrHK1T1s3CuzQ8MDLpxpDfRJxWpc2P2TUHEmymUB5": {
@@ -1192,7 +1109,10 @@
       "LIQUIDITY": 96,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m",
+      "240m"
+    ]
   },
   "tBJvqFV89jHu9z4Sq6noBaDBDGRshcVp58ZH4YLpump": {
     "name": "Suspicious Cow",
@@ -1205,7 +1125,10 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m",
+      "240m"
+    ]
   },
   "QWqrT65JnmQHbnjF9oM4dS4zKGSaUVDHNwRkxcgpump": {
     "name": "Stand With Jensen",
@@ -1216,6 +1139,48 @@
       "MOMENTUM": 98,
       "SAFETY": 100,
       "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": [
+      "60m",
+      "240m"
+    ]
+  },
+  "Geom1F5dkFSFGnfg88QB4pCdVs1aRAzNbnAUFqWxgqH5": {
+    "name": "Super Inu",
+    "symbol": "SI",
+    "flagged_ts": 1795131827,
+    "liquidity_at_flag": 16870.988676579174,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 75,
+      "LIQUIDITY": 84,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "828Rg1VfMcfcTKJRxfr83nnrTWzmVjrDS9Rpr1BBeA7U": {
+    "name": "Junior",
+    "symbol": "JUNIOR",
+    "flagged_ts": 1795131828,
+    "liquidity_at_flag": 33550.508758511394,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 90,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "Axkd2GMCfA4Lehb2gQR6bG8irjwTVaQcHXxwiBNt2Rbo": {
+    "name": "Cat Mario",
+    "symbol": "CATMARIO",
+    "flagged_ts": 1795131829,
+    "liquidity_at_flag": 12022.028891587055,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 90,
+      "LIQUIDITY": 60,
       "SMART MONEY": 0
     },
     "checkpoints_done": []
