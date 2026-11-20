@@ -1032,7 +1032,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "tBJvqFV89jHu9z4Sq6noBaDBDGRshcVp58ZH4YLpump": {
@@ -1048,7 +1049,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "QWqrT65JnmQHbnjF9oM4dS4zKGSaUVDHNwRkxcgpump": {
@@ -1064,7 +1066,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "Geom1F5dkFSFGnfg88QB4pCdVs1aRAzNbnAUFqWxgqH5": {
@@ -1142,7 +1145,10 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m",
+      "240m"
+    ]
   },
   "Hm9Jp2DE96FWCJSvRe2AbEE6wZ1EVjdFFCZMvDVfpump": {
     "name": "A Mario Cat",
@@ -1152,6 +1158,48 @@
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 75,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": [
+      "60m",
+      "240m"
+    ]
+  },
+  "7DGRQuFQ2Bgx6SCtYbf85vpBgbSHceKKxjgngo3Yj9HX": {
+    "name": "Anthropic",
+    "symbol": "ANT",
+    "flagged_ts": 1795209807,
+    "liquidity_at_flag": 62070.45514597807,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 75,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "7R4MP6VX7n3RMNhL9zsk5Zu5ibZvwq8npUYnRq7epump": {
+    "name": "Singularity",
+    "symbol": "Singularity",
+    "flagged_ts": 1795209808,
+    "liquidity_at_flag": 28203.887439136583,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 100,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "5RXkTanxqi7WpwFehxJn6zs8uteuPDk3QiGPtnrSpump": {
+    "name": "Rockstar Games",
+    "symbol": "Rockstar",
+    "flagged_ts": 1795209811,
+    "liquidity_at_flag": 20522.839636601784,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 90,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
