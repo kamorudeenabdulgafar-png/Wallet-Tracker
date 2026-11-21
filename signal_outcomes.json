@@ -1,72 +1,4 @@
 {
-  "3oQZ1AZT6yW28J7ySeVo2YxXbgHC6Vmw2AynJiB8uSnY": {
-    "name": "Jensen Huang",
-    "symbol": "Jen-Hsun",
-    "flagged_ts": 1794610177,
-    "liquidity_at_flag": 43953.475845297464,
-    "breakdown": {
-      "MOMENTUM": 86,
-      "SAFETY": 60,
-      "LIQUIDITY": 100,
-      "SMART MONEY": 0
-    },
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "6EHTywfoXpDNhL4JGkeYUhiL6mumpmD7j8ByjQaXpump": {
-    "name": "Cyber Security Inu",
-    "symbol": "CSI",
-    "flagged_ts": 1794610178,
-    "liquidity_at_flag": 51414.87097591752,
-    "breakdown": {
-      "MOMENTUM": 100,
-      "SAFETY": 100,
-      "LIQUIDITY": 100,
-      "SMART MONEY": 0
-    },
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "DVvxt7ZSFNh569CWy87Lx43pnUzrqZwbwN6hEMmMePFx": {
-    "name": "CryingCatXsol",
-    "symbol": "GCAT",
-    "flagged_ts": 1794610180,
-    "liquidity_at_flag": 58018.2072971794,
-    "breakdown": {
-      "MOMENTUM": 85,
-      "SAFETY": 60,
-      "LIQUIDITY": 100,
-      "SMART MONEY": 0
-    },
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "EvbSSzACWAxqFhXdiPypjv6jMhRfHU257x65oFrjpump": {
-    "name": "Lord Aura",
-    "symbol": "AURA",
-    "flagged_ts": 1794610181,
-    "liquidity_at_flag": 21585.2620844074,
-    "breakdown": {
-      "MOMENTUM": 94,
-      "SAFETY": 90,
-      "LIQUIDITY": 100,
-      "SMART MONEY": 0
-    },
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
   "BDs7RHTSpNorbXoobL2aKQHTwkf6HDS6wD5fdSwEAc1k": {
     "name": "ni hao cat",
     "symbol": "mihao",
@@ -1083,7 +1015,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "828Rg1VfMcfcTKJRxfr83nnrTWzmVjrDS9Rpr1BBeA7U": {
@@ -1099,7 +1032,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "Axkd2GMCfA4Lehb2gQR6bG8irjwTVaQcHXxwiBNt2Rbo": {
@@ -1115,7 +1049,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "Csoj9XHJfBAxsKswqKKBENnGeoRDHtACfyYi7HmJpump": {
@@ -1177,7 +1112,10 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m",
+      "240m"
+    ]
   },
   "7R4MP6VX7n3RMNhL9zsk5Zu5ibZvwq8npUYnRq7epump": {
     "name": "Singularity",
@@ -1190,13 +1128,45 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m",
+      "240m"
+    ]
   },
   "5RXkTanxqi7WpwFehxJn6zs8uteuPDk3QiGPtnrSpump": {
     "name": "Rockstar Games",
     "symbol": "Rockstar",
     "flagged_ts": 1795209811,
     "liquidity_at_flag": 20522.839636601784,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 90,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": [
+      "60m",
+      "240m"
+    ]
+  },
+  "9HKCuE3xpMeSUCDRy1b9RQwqyJWVJGFshe6WdUm9pump": {
+    "name": "GTA6",
+    "symbol": "GTA 6 Coin",
+    "flagged_ts": 1795228700,
+    "liquidity_at_flag": 17668.835201077323,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 90,
+      "LIQUIDITY": 88,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "23S8EwFDvV6ShX5i1BdVLUAtYtuQFgNAcff46yujZs45": {
+    "name": "FLOAT",
+    "symbol": "FLOAT",
+    "flagged_ts": 1795228701,
+    "liquidity_at_flag": 28758.317151444586,
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 90,

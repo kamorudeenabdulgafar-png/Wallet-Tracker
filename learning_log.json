@@ -1,31 +1,5 @@
 [
   {
-    "name": "Agent Arena",
-    "symbol": "ARENA",
-    "category": "rug",
-    "change_pct": -100.0,
-    "breakdown": {
-      "MOMENTUM": 100,
-      "SAFETY": 60,
-      "LIQUIDITY": 100,
-      "SMART MONEY": 0
-    },
-    "ts": 1793376384
-  },
-  {
-    "name": "ELEKTRO",
-    "symbol": "ELEKTRO",
-    "category": "rug",
-    "change_pct": -100.0,
-    "breakdown": {
-      "MOMENTUM": 100,
-      "SAFETY": 60,
-      "LIQUIDITY": 100,
-      "SMART MONEY": 0
-    },
-    "ts": 1793376385
-  },
-  {
     "name": "Chat Cat",
     "symbol": "CHATCAT",
     "category": "rug",
@@ -3898,5 +3872,31 @@
       "SMART MONEY": 0
     },
     "ts": 1795209815
+  },
+  {
+    "name": "Junior",
+    "symbol": "JUNIOR",
+    "category": "fading",
+    "change_pct": -57.0,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 90,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "ts": 1795228703
+  },
+  {
+    "name": "Cat Mario",
+    "symbol": "CATMARIO",
+    "category": "fading",
+    "change_pct": -23.2,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 90,
+      "LIQUIDITY": 60,
+      "SMART MONEY": 0
+    },
+    "ts": 1795228704
   }
 ]
