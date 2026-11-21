@@ -1,55 +1,4 @@
 {
-  "89LvicZiYWfDDFGrP4rXT6eoMpAiy3YUSyJhREdoQRhu": {
-    "name": "GTA Dollars",
-    "symbol": "GTA$",
-    "flagged_ts": 1794671803,
-    "liquidity_at_flag": 42509.68118749032,
-    "breakdown": {
-      "MOMENTUM": 100,
-      "SAFETY": 90,
-      "LIQUIDITY": 100,
-      "SMART MONEY": 0
-    },
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "7N6sKm9H5Ltsq4RjecfWxLb45GZ4PguUEJTxR1pCrcvU": {
-    "name": "Vice Inu",
-    "symbol": "VI",
-    "flagged_ts": 1794671805,
-    "liquidity_at_flag": 39064.01587733026,
-    "breakdown": {
-      "MOMENTUM": 100,
-      "SAFETY": 60,
-      "LIQUIDITY": 100,
-      "SMART MONEY": 0
-    },
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "CHvvcGS5PNbyfzwHvmREUizXeXLCtmZKZs4DUmpZ4SNn": {
-    "name": "Jensen Huang",
-    "symbol": "Huang",
-    "flagged_ts": 1794671806,
-    "liquidity_at_flag": 24745.334497379954,
-    "breakdown": {
-      "MOMENTUM": 100,
-      "SAFETY": 75,
-      "LIQUIDITY": 100,
-      "SMART MONEY": 0
-    },
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
   "46sup1Mc1AdQPpikrdNLUjmzSgZcEYdV3pk8XPPXpump": {
     "name": "DOGCOIN",
     "symbol": "DOGCOIN",
@@ -1015,7 +964,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "Hm9Jp2DE96FWCJSvRe2AbEE6wZ1EVjdFFCZMvDVfpump": {
@@ -1031,7 +981,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "7DGRQuFQ2Bgx6SCtYbf85vpBgbSHceKKxjgngo3Yj9HX": {
@@ -1125,7 +1076,10 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m",
+      "240m"
+    ]
   },
   "6vgtRCme1TQTChunmGzJMFL26sHh2c4AdiY97izL9SgP": {
     "name": "State of Leonida",
@@ -1135,6 +1089,35 @@
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 100,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": [
+      "60m",
+      "240m"
+    ]
+  },
+  "9SWu7ZsVKhnh9Ho1MNfcWFNDmZGRFj42eNUh8fb5edyr": {
+    "name": "Trader in a world of KOLs",
+    "symbol": "Trader Cat",
+    "flagged_ts": 1795282535,
+    "liquidity_at_flag": 95033.04855233867,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 90,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "9jDyCEfDnjnqxSzfPnkuzKeL9ou97M8sqSSvoA2Yk9XZ": {
+    "name": "The Dandelion's Promise",
+    "symbol": "Dandelion",
+    "flagged_ts": 1795282536,
+    "liquidity_at_flag": 54018.870681470056,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },

@@ -1,5 +1,5 @@
 {
-  "last_updated": 1795255873,
+  "last_updated": 1795282540,
   "wallets": [
     {
       "label": "Dev wallet 1",
@@ -71,7 +71,7 @@
         "27G8MtK7VtTcCHkpASjSDdkWWYfoqT6ggEuKidVJidD4",
         "7vfCXTUXx5WJV5JADk17DUJ4ksgau7utNKj4b963voxs"
       ],
-      "last_active": 1795255867,
+      "last_active": 1795282533,
       "positions": {},
       "realized_pnl_usd": 0.0
     }
@@ -90,7 +90,7 @@
     "count": 2835,
     "up_count": 613,
     "total_change_pct": -155586.29928175083,
-    "rug": 3764,
+    "rug": 3765,
     "doing_well": 63,
     "steady": 31,
     "fading": 82
@@ -98,6 +98,51 @@
   "learning_insight": "Coins that rugged averaged SAFETY 78; coins that did well averaged SAFETY 89.",
   "settings": {},
   "recent_alerts": [
+    {
+      "ts": 1795282540,
+      "type": "outcome",
+      "message": "\ud83d\udd34 State of Leonida (Leonida) is dropping fast \u2014 down 100%, may be rugging."
+    },
+    {
+      "ts": 1795282540,
+      "type": "outcome",
+      "message": "\ud83d\udd34 State of Leonida (Leonida) is dropping fast \u2014 down 100%, may be rugging."
+    },
+    {
+      "ts": 1795282539,
+      "type": "outcome",
+      "message": "\ud83d\udd34 \u5929\u84ec\u5143\u5e05\u662f\u6211\u7239 (\u732a\u5c0f\u6212) is dropping fast \u2014 down 100%, may be rugging."
+    },
+    {
+      "ts": 1795282539,
+      "type": "outcome",
+      "message": "\ud83d\udd34 \u5929\u84ec\u5143\u5e05\u662f\u6211\u7239 (\u732a\u5c0f\u6212) is dropping fast \u2014 down 100%, may be rugging."
+    },
+    {
+      "ts": 1795282538,
+      "type": "outcome",
+      "message": "\ud83d\udd34 A Mario Cat (AMC) turned out to be a rug \u2014 liquidity dropped 96% over 24h."
+    },
+    {
+      "ts": 1795282536,
+      "type": "scanner",
+      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\nThe Dandelion's Promise (Dandelion)\nOpportunity: 76/100\n\nMOMENTUM     100\nSAFETY       60\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$54,019, 89 min since pool creation\n\u2022 Up +129% in the last hour, ~$217,138 in 24h volume (4.0x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 71% of supply (very concentrated)\n\nCA: 9jDyCEfDnjnqxSzfPnkuzKeL9ou97M8sqSSvoA2Yk9XZ\nhttps://dexscreener.com/solana/9jDyCEfDnjnqxSzfPnkuzKeL9ou97M8sqSSvoA2Yk9XZ\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
+    },
+    {
+      "ts": 1795282535,
+      "type": "scanner",
+      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 STRONG\nTrader in a world of KOLs (Trader Cat)\nOpportunity: 86/100\n\nMOMENTUM     100\nSAFETY       90\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$95,033, 79 min since pool creation\n\u2022 Up +487% in the last hour, ~$416,854 in 24h volume (4.4x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Low, 10/100):\n\u2022 top 10 holders own 46% of supply\n\nCA: 9SWu7ZsVKhnh9Ho1MNfcWFNDmZGRFj42eNUh8fb5edyr\nhttps://dexscreener.com/solana/9SWu7ZsVKhnh9Ho1MNfcWFNDmZGRFj42eNUh8fb5edyr\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
+    },
+    {
+      "ts": 1795282533,
+      "type": "wallet",
+      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: SILV -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/4xpT1xqgEFMG2AVzsxFXjLHoKaXE4MsEFdRiXk5j8MvawewM1ejF7ukKRLAtHH7ZVsPdaxoVzuG1D2XPGKXfws7P"
+    },
+    {
+      "ts": 1795282533,
+      "type": "wallet",
+      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: SPCXx -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/2avkF5ckH2GPmhj4zCAm1JAuk4CDrTokeqNzBRBixHjtrQQv9zHtokwoomfdeh3GCAUSXuvkLVPu7TJDxaA8DQmV"
+    },
     {
       "ts": 1795255873,
       "type": "outcome",
@@ -302,51 +347,6 @@
       "ts": 1795148465,
       "type": "outcome",
       "message": "\ud83d\udd34 Super Inu (SI) is dropping fast \u2014 down 100%, may be rugging."
-    },
-    {
-      "ts": 1795148464,
-      "type": "outcome",
-      "message": "\ud83d\udfe0 DacityCoin (DCTY) faded \u2014 liquidity down 44% after 24h."
-    },
-    {
-      "ts": 1795148463,
-      "type": "outcome",
-      "message": "\ud83d\udd34 Buck (Buck) turned out to be a rug \u2014 liquidity dropped 96% over 24h."
-    },
-    {
-      "ts": 1795148462,
-      "type": "scanner",
-      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 EXCEPTIONAL\nSWORD X STAFF (SWRDXSTFF)\nOpportunity: 90/100\n\nMOMENTUM     100\nSAFETY       100\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$33,264, 60 min since pool creation\n\u2022 Up +648% in the last hour, ~$497,173 in 24h volume (14.9x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Low, 0/100):\n\u2022 No major red flags found\n\nCA: Csoj9XHJfBAxsKswqKKBENnGeoRDHtACfyYi7HmJpump\nhttps://dexscreener.com/solana/Csoj9XHJfBAxsKswqKKBENnGeoRDHtACfyYi7HmJpump\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
-    },
-    {
-      "ts": 1795148460,
-      "type": "wallet",
-      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: 0.0840 SOL (~$6.09) -> STONK\nTrade size: ~$6.09\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/2q4HsQ5EBSQA8cN5zmJCYvYLfVLv5vtRANZH8vzNQXkgkHbx3iYwQFuedz3rfHWDE3YaMQz4sjZe6y7DXsdAKQiT"
-    },
-    {
-      "ts": 1795148459,
-      "type": "wallet",
-      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: ANTHROPIC -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/3kxEdBvWgHEXyM9i9Y9CTKLknpXRkjF7ANL1XzdFLMs8DK8BcCt1rgXew9Dkx6vYzkFoWQTTZQQe8V2nJj6NfwJq"
-    },
-    {
-      "ts": 1795131837,
-      "type": "outcome",
-      "message": "\ud83d\udd34 Stand With Jensen (SWJ) is dropping fast \u2014 down 82%, may be rugging."
-    },
-    {
-      "ts": 1795131836,
-      "type": "outcome",
-      "message": "\ud83d\udd34 Stand With Jensen (SWJ) is dropping fast \u2014 down 82%, may be rugging."
-    },
-    {
-      "ts": 1795131835,
-      "type": "outcome",
-      "message": "\ud83d\udfe0 Suspicious Cow (SC) is fading \u2014 down 32% so far."
-    },
-    {
-      "ts": 1795131834,
-      "type": "outcome",
-      "message": "\ud83d\udfe0 Suspicious Cow (SC) is fading \u2014 down 32% so far."
     }
   ]
 }
