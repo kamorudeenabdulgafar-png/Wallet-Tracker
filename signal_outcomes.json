@@ -1,72 +1,4 @@
 {
-  "BDs7RHTSpNorbXoobL2aKQHTwkf6HDS6wD5fdSwEAc1k": {
-    "name": "ni hao cat",
-    "symbol": "mihao",
-    "flagged_ts": 1794624240,
-    "liquidity_at_flag": 21925.85954714257,
-    "breakdown": {
-      "MOMENTUM": 100,
-      "SAFETY": 60,
-      "LIQUIDITY": 100,
-      "SMART MONEY": 0
-    },
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "Aq38XaBAkzAtwbpvFKEzKg9hp1eZrEFV5W9H6XJjFUND": {
-    "name": "FUNDERS",
-    "symbol": "FUND",
-    "flagged_ts": 1794648473,
-    "liquidity_at_flag": 21012.460894476775,
-    "breakdown": {
-      "MOMENTUM": 100,
-      "SAFETY": 90,
-      "LIQUIDITY": 100,
-      "SMART MONEY": 0
-    },
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "3MLWUXUpQv25f2LEC5QuCTeT56xb5PGH34CNqkEH96RZ": {
-    "name": "AMD",
-    "symbol": "AMD",
-    "flagged_ts": 1794648474,
-    "liquidity_at_flag": 35735.389527651714,
-    "breakdown": {
-      "MOMENTUM": 100,
-      "SAFETY": 90,
-      "LIQUIDITY": 100,
-      "SMART MONEY": 0
-    },
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "GsXhqnQk3MqJARB7rnmXYmKD2yrVSnWU2QKQh1C1XqJJ": {
-    "name": "Foodcoin",
-    "symbol": "FOOD",
-    "flagged_ts": 1794648475,
-    "liquidity_at_flag": 42651.51661975372,
-    "breakdown": {
-      "MOMENTUM": 100,
-      "SAFETY": 90,
-      "LIQUIDITY": 100,
-      "SMART MONEY": 0
-    },
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
   "89LvicZiYWfDDFGrP4rXT6eoMpAiy3YUSyJhREdoQRhu": {
     "name": "GTA Dollars",
     "symbol": "GTA$",
@@ -1066,7 +998,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "2cXNiZZ6eXXZXG9ALei6nPnjS211vpAjhQjzYgiFPraJ": {
@@ -1160,7 +1093,10 @@
       "LIQUIDITY": 88,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m",
+      "240m"
+    ]
   },
   "23S8EwFDvV6ShX5i1BdVLUAtYtuQFgNAcff46yujZs45": {
     "name": "FLOAT",
@@ -1170,6 +1106,35 @@
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 90,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": [
+      "60m",
+      "240m"
+    ]
+  },
+  "3btcctwCwin1hWZZEM7VUefxohRFnq4VVLvYcSEmgAMX": {
+    "name": "\u5929\u84ec\u5143\u5e05\u662f\u6211\u7239",
+    "symbol": "\u732a\u5c0f\u6212",
+    "flagged_ts": 1795255869,
+    "liquidity_at_flag": 74442.53014479343,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 75,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "6vgtRCme1TQTChunmGzJMFL26sHh2c4AdiY97izL9SgP": {
+    "name": "State of Leonida",
+    "symbol": "Leonida",
+    "flagged_ts": 1795255869,
+    "liquidity_at_flag": 68359.86430983272,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 100,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
