@@ -1,89 +1,4 @@
 {
-  "2kWx47CUrcXtzptFNnbSXKq3vo1ebqyLBhRytKRGpump": {
-    "name": "Jiggly Wiggly Dog",
-    "symbol": "WIGGLES",
-    "flagged_ts": 1794785021,
-    "liquidity_at_flag": 20095.829662159682,
-    "breakdown": {
-      "MOMENTUM": 93,
-      "SAFETY": 90,
-      "LIQUIDITY": 100,
-      "SMART MONEY": 0
-    },
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "8gg2TiGjibZaEmvQWNdTunRn1Qn3NnYTNP7KsXYkRM7T": {
-    "name": "Neil the lemur",
-    "symbol": "Neil",
-    "flagged_ts": 1794797675,
-    "liquidity_at_flag": 41249.5080873072,
-    "breakdown": {
-      "MOMENTUM": 100,
-      "SAFETY": 60,
-      "LIQUIDITY": 100,
-      "SMART MONEY": 0
-    },
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "8hqGHJ288zdWDm5iSpLcN3KNc57q31ZivipALWq8o7fV": {
-    "name": "Hogecoin",
-    "symbol": "HOGE",
-    "flagged_ts": 1794797676,
-    "liquidity_at_flag": 18122.689765799772,
-    "breakdown": {
-      "MOMENTUM": 100,
-      "SAFETY": 60,
-      "LIQUIDITY": 91,
-      "SMART MONEY": 0
-    },
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "9iG6qBMgzzuYyq2kfXcAD49bkTFrpGp5gr1QHJiZMwoi": {
-    "name": "Neil the lemur",
-    "symbol": "Neil",
-    "flagged_ts": 1794797678,
-    "liquidity_at_flag": 33608.34017953361,
-    "breakdown": {
-      "MOMENTUM": 50,
-      "SAFETY": 100,
-      "LIQUIDITY": 100,
-      "SMART MONEY": 0
-    },
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "BavQVyUv8ZTtWEMJHNGnB5WjeMTWGgesdSXM1nbavy9z": {
-    "name": "Koop",
-    "symbol": "Koop",
-    "flagged_ts": 1794797679,
-    "liquidity_at_flag": 73567.06951353437,
-    "breakdown": {
-      "MOMENTUM": 100,
-      "SAFETY": 60,
-      "LIQUIDITY": 100,
-      "SMART MONEY": 0
-    },
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
   "7MNX4BgREp8RBPruWsascbaBsjsevpyAJnkUdNWspump": {
     "name": "GTA Inu",
     "symbol": "GI",
@@ -1049,7 +964,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "7CvW68FD9KjNYGByfykhaNps7VNPLN8dFwMRfmgQpump": {
@@ -1065,7 +981,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "AkvgnJYWvT1udyGohnf8jfbnQzQUvd7nuANYdGGpYH2B": {
@@ -1223,7 +1140,10 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m",
+      "240m"
+    ]
   },
   "3BcJ4SSCfbxDMrWcUDucyCWxMjmy4M2ECCtvxu86pump": {
     "name": "Tesla FSD v15",
@@ -1236,7 +1156,10 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m",
+      "240m"
+    ]
   },
   "BAKsQrynzwadyACDMsg3J5R8a4CTvj1u7kEYyjq7pump": {
     "name": "COPIUM",
@@ -1249,7 +1172,10 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m",
+      "240m"
+    ]
   },
   "4wPJiRfQFwdgbu3zaddg8Noy5Mg3syvK58WHP3fJNRJq": {
     "name": "Foam Trade",
@@ -1262,7 +1188,10 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m",
+      "240m"
+    ]
   },
   "DnAJvWVTgj1YoxfXTcpKxejH8EFDU3C6pBZ2Yik9n4hg": {
     "name": "Global Oil Recovery Program",
@@ -1272,6 +1201,48 @@
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 75,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": [
+      "60m",
+      "240m"
+    ]
+  },
+  "FifMZLSGfSDzSC8bsr9EG8jCwEUzKjSF68jFp48nwphv": {
+    "name": "GTA VI",
+    "symbol": "GTA6",
+    "flagged_ts": 1795403605,
+    "liquidity_at_flag": 18622.15438830436,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 75,
+      "LIQUIDITY": 93,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "DTsMPr9UAisgBkZ2WGjZipaoALuhuoYCbR6euExi5JAQ": {
+    "name": "Zcryption",
+    "symbol": "ZCRYPT",
+    "flagged_ts": 1795403606,
+    "liquidity_at_flag": 17152.228525312916,
+    "breakdown": {
+      "MOMENTUM": 90,
+      "SAFETY": 90,
+      "LIQUIDITY": 86,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "J9AvtJRDreHG8B8PnW4tNMvH5c2c1jxfUfDvjrWtpump": {
+    "name": "Bird MAGA",
+    "symbol": "BIRDMAGA",
+    "flagged_ts": 1795403607,
+    "liquidity_at_flag": 32042.934228430226,
+    "breakdown": {
+      "MOMENTUM": 46,
+      "SAFETY": 100,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
