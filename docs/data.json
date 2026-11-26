@@ -1,5 +1,5 @@
 {
-  "last_updated": 1795646551,
+  "last_updated": 1795667219,
   "wallets": [
     {
       "label": "Dev wallet 1",
@@ -9,9 +9,9 @@
   "wallet_stats": {
     "5CEbueQnq1Ym2uSSx2xXds3jQAqT1BDnkA59RZobSPAG": {
       "label": "Dev wallet 1",
-      "buy_count": 601,
+      "buy_count": 602,
       "sell_count": 299,
-      "total_buy_usd": 16078.732666061052,
+      "total_buy_usd": 16083.743231631952,
       "total_sell_usd": 0.0,
       "tokens_traded": [
         "6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx",
@@ -71,7 +71,7 @@
         "27G8MtK7VtTcCHkpASjSDdkWWYfoqT6ggEuKidVJidD4",
         "7vfCXTUXx5WJV5JADk17DUJ4ksgau7utNKj4b963voxs"
       ],
-      "last_active": 1795578360,
+      "last_active": 1795667210,
       "positions": {},
       "realized_pnl_usd": 0.0
     }
@@ -90,7 +90,7 @@
     "count": 2835,
     "up_count": 613,
     "total_change_pct": -155586.29928175083,
-    "rug": 3787,
+    "rug": 3788,
     "doing_well": 67,
     "steady": 31,
     "fading": 84
@@ -98,6 +98,31 @@
   "learning_insight": "Coins that rugged averaged SAFETY 80; coins that did well averaged SAFETY 90.",
   "settings": {},
   "recent_alerts": [
+    {
+      "ts": 1795667219,
+      "type": "outcome",
+      "message": "\ud83d\udfe1 Norfeather (NORFEATH) is holding steady so far (+14%)."
+    },
+    {
+      "ts": 1795667218,
+      "type": "outcome",
+      "message": "\ud83d\udfe1 Norfeather (NORFEATH) is holding steady so far (+14%)."
+    },
+    {
+      "ts": 1795667216,
+      "type": "outcome",
+      "message": "\ud83d\udd34 Fusionist (ACE) (ACE) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
+    },
+    {
+      "ts": 1795667214,
+      "type": "scanner",
+      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\nRWDS2c (RW2Cv2)\nOpportunity: 72/100\n\nMOMENTUM     100\nSAFETY       90\nLIQUIDITY    26\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$5,196, 108 min since pool creation\n\u2022 Up +120% in the last hour, ~$15,835 in 24h volume (3.0x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Low, 10/100):\n\u2022 top 10 holders own 34% of supply\n\nCA: 2MX2Xioq29HxQacjrGa8bPTEeuWSx9WdhB7oqgY4pump\nhttps://dexscreener.com/solana/2MX2Xioq29HxQacjrGa8bPTEeuWSx9WdhB7oqgY4pump\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
+    },
+    {
+      "ts": 1795667211,
+      "type": "wallet",
+      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: 0.0704 SOL (~$5.01) -> STONK\nTrade size: ~$5.01\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/2sNgkHs6TjEAVci9QcGzMTL4PGiYy2cKAnuMZkioqbK4YA1KuXYZQQdzST3HTSQPfrQLyAMvMqejAEFGxzcasmZQ"
+    },
     {
       "ts": 1795646551,
       "type": "outcome",
@@ -322,31 +347,6 @@
       "ts": 1795515542,
       "type": "scanner",
       "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 STRONG\nSatoshi  \u7279\u65af\u62c9 (Tesla Coin)\nOpportunity: 81/100\n\nMOMENTUM     100\nSAFETY       75\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$62,932, 65 min since pool creation\n\u2022 Up +242% in the last hour, ~$435,129 in 24h volume (6.9x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 25/100):\n\u2022 top 10 holders own 58% of supply (concentrated)\n\nCA: jnjKzUKxrDDkfc9C8wHWuJuYcFrP3dDt49GSJDRQdp6\nhttps://dexscreener.com/solana/jnjKzUKxrDDkfc9C8wHWuJuYcFrP3dDt49GSJDRQdp6\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
-    },
-    {
-      "ts": 1795515541,
-      "type": "scanner",
-      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\nThe Black Bull (ANSEM)\nOpportunity: 76/100\n\nMOMENTUM     100\nSAFETY       60\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$49,021, 65 min since pool creation\n\u2022 Up +123% in the last hour, ~$153,894 in 24h volume (3.1x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 97% of supply (very concentrated)\n\nCA: DD23R2DJFKxUCB2CUvogviVhHA7D9RTsjbrFKWBzpump\nhttps://dexscreener.com/solana/DD23R2DJFKxUCB2CUvogviVhHA7D9RTsjbrFKWBzpump\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
-    },
-    {
-      "ts": 1795515540,
-      "type": "scanner",
-      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 STRONG\n\u82f1\u4f1f\u8fbe (\u82f1\u4f1f\u8fbe)\nOpportunity: 81/100\n\nMOMENTUM     100\nSAFETY       75\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$52,869, 64 min since pool creation\n\u2022 Up +274% in the last hour, ~$94,327 in 24h volume (1.8x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 25/100):\n\u2022 top 10 holders own 61% of supply (concentrated)\n\nCA: C6S1icpGEBi3g3dVG1hEabJb3XAsBaengpZtEuJzKLDv\nhttps://dexscreener.com/solana/C6S1icpGEBi3g3dVG1hEabJb3XAsBaengpZtEuJzKLDv\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
-    },
-    {
-      "ts": 1795515538,
-      "type": "wallet",
-      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: GLDx -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/2Z9bkFdFQHwBSKUeHqf4uexBigca3au31aWA2zXWY4PJ9EhXNhjwCzNmLQydHonp2dkkqzvte8vy57qbEuzMUYr2"
-    },
-    {
-      "ts": 1795480217,
-      "type": "outcome",
-      "message": "\ud83d\udfe0 Bobcat (BOBCAT) is fading \u2014 down 21% so far."
-    },
-    {
-      "ts": 1795480217,
-      "type": "outcome",
-      "message": "\ud83d\udfe0 Bobcat (BOBCAT) is fading \u2014 down 21% so far."
     }
   ]
 }
