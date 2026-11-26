@@ -1,55 +1,4 @@
 {
-  "J4zuKNAM2mF5Ait1E2nf3LracLTCQUFRZVXU24Smpump": {
-    "name": "Tesla",
-    "symbol": "TESLA",
-    "flagged_ts": 1795109408,
-    "liquidity_at_flag": 19128.871306528043,
-    "breakdown": {
-      "MOMENTUM": 86,
-      "SAFETY": 100,
-      "LIQUIDITY": 96,
-      "SMART MONEY": 0
-    },
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "tBJvqFV89jHu9z4Sq6noBaDBDGRshcVp58ZH4YLpump": {
-    "name": "Suspicious Cow",
-    "symbol": "SC",
-    "flagged_ts": 1795109410,
-    "liquidity_at_flag": 71348.33275947857,
-    "breakdown": {
-      "MOMENTUM": 100,
-      "SAFETY": 100,
-      "LIQUIDITY": 100,
-      "SMART MONEY": 0
-    },
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "QWqrT65JnmQHbnjF9oM4dS4zKGSaUVDHNwRkxcgpump": {
-    "name": "Stand With Jensen",
-    "symbol": "SWJ",
-    "flagged_ts": 1795109411,
-    "liquidity_at_flag": 28884.541024771785,
-    "breakdown": {
-      "MOMENTUM": 98,
-      "SAFETY": 100,
-      "LIQUIDITY": 100,
-      "SMART MONEY": 0
-    },
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
   "Geom1F5dkFSFGnfg88QB4pCdVs1aRAzNbnAUFqWxgqH5": {
     "name": "Super Inu",
     "symbol": "SI",
@@ -1032,7 +981,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "2MX2Xioq29HxQacjrGa8bPTEeuWSx9WdhB7oqgY4pump": {
@@ -1062,7 +1012,10 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m",
+      "240m"
+    ]
   },
   "5yi5i8tKGzGZS1CnEedRag27wN1J9GRNHXtCCUr9pump": {
     "name": "SpaceXCoin",
@@ -1075,7 +1028,10 @@
       "LIQUIDITY": 99,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m",
+      "240m"
+    ]
   },
   "8VNnCedKixMh5TsYzHMy88ZUoTeKJm59kfd2eSD5Ku7P": {
     "name": "GTA Dollars",
@@ -1085,6 +1041,22 @@
     "breakdown": {
       "MOMENTUM": 100,
       "SAFETY": 75,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": [
+      "60m",
+      "240m"
+    ]
+  },
+  "3gHUaeLdijtDz2YSi7wqBFNU9hP6Hkn5WMVAgBKycXtu": {
+    "name": "Snowball",
+    "symbol": "Snowball",
+    "flagged_ts": 1795734005,
+    "liquidity_at_flag": 43773.49495334383,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 60,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
