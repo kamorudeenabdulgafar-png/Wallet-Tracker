@@ -1,5 +1,5 @@
 {
-  "last_updated": 1795734011,
+  "last_updated": 1795755176,
   "wallets": [
     {
       "label": "Dev wallet 1",
@@ -9,9 +9,9 @@
   "wallet_stats": {
     "5CEbueQnq1Ym2uSSx2xXds3jQAqT1BDnkA59RZobSPAG": {
       "label": "Dev wallet 1",
-      "buy_count": 603,
+      "buy_count": 604,
       "sell_count": 299,
-      "total_buy_usd": 16094.725061571802,
+      "total_buy_usd": 16103.291495826943,
       "total_sell_usd": 0.0,
       "tokens_traded": [
         "6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx",
@@ -71,7 +71,7 @@
         "27G8MtK7VtTcCHkpASjSDdkWWYfoqT6ggEuKidVJidD4",
         "7vfCXTUXx5WJV5JADk17DUJ4ksgau7utNKj4b963voxs"
       ],
-      "last_active": 1795734002,
+      "last_active": 1795755169,
       "positions": {},
       "realized_pnl_usd": 0.0
     }
@@ -90,7 +90,7 @@
     "count": 2835,
     "up_count": 613,
     "total_change_pct": -155586.29928175083,
-    "rug": 3789,
+    "rug": 3790,
     "doing_well": 67,
     "steady": 31,
     "fading": 84
@@ -98,6 +98,41 @@
   "learning_insight": "Coins that rugged averaged SAFETY 80; coins that did well averaged SAFETY 90.",
   "settings": {},
   "recent_alerts": [
+    {
+      "ts": 1795755176,
+      "type": "outcome",
+      "message": "\ud83d\udd34 Snowball (Snowball) is dropping fast \u2014 down 100%, may be rugging."
+    },
+    {
+      "ts": 1795755175,
+      "type": "outcome",
+      "message": "\ud83d\udd34 Snowball (Snowball) is dropping fast \u2014 down 100%, may be rugging."
+    },
+    {
+      "ts": 1795755174,
+      "type": "outcome",
+      "message": "\ud83d\udd34 RWDS2c (RW2Cv2) turned out to be a rug \u2014 liquidity dropped 100% over 24h."
+    },
+    {
+      "ts": 1795755173,
+      "type": "scanner",
+      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 INTERESTING\nHappy Thanksgiving (Thanksgivi)\nOpportunity: 74/100\n\nMOMENTUM     95\nSAFETY       60\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$252,178, 117 min since pool creation\n\u2022 Up +63% in the last hour, ~$13,486,174 in 24h volume (53.5x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Moderate, 40/100):\n\u2022 top 10 holders own 92% of supply (very concentrated)\n\nCA: 4szpC6VF7muZ5rjgxxAjV6r3hQb4BgHPAcJbykjsUGfp\nhttps://dexscreener.com/solana/4szpC6VF7muZ5rjgxxAjV6r3hQb4BgHPAcJbykjsUGfp\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
+    },
+    {
+      "ts": 1795755171,
+      "type": "scanner",
+      "message": "\ud83d\udcc8 COIN WORTH LOOKING AT \u2014 STRONG\nSnowball (Snowball)\nOpportunity: 86/100\n\nMOMENTUM     100\nSAFETY       90\nLIQUIDITY    100\nSMART MONEY  0\n\nWHY:\n\u2022 Liquidity ~$36,090, 61 min since pool creation\n\u2022 Up +583% in the last hour, ~$66,885 in 24h volume (1.9x liquidity \u2014 real trading, not just noise)\n\u2022 Creator has not been selling this token\n\nRISKS (Low, 10/100):\n\u2022 top 10 holders own 47% of supply\n\nCA: CXcMJKBdy8sasu5rHAapeG4JTCwxHNC4NRA9qGeamRu7\nhttps://dexscreener.com/solana/CXcMJKBdy8sasu5rHAapeG4JTCwxHNC4NRA9qGeamRu7\n\u26a0\ufe0f Not financial advice \u2014 this only means it clears basic traction filters. Do your own check before anything else."
+    },
+    {
+      "ts": 1795755169,
+      "type": "wallet",
+      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: xHYPE -> STONK\nTrade size: unknown\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/2xpWbRBJaW3S9qkXZp967pFUL5V8qSNNL3gXoXR6EbyBesZyEhhmVP7knZFdyuNeJw2yUAeb2M6JorCoWaMHpdBc"
+    },
+    {
+      "ts": 1795755168,
+      "type": "wallet",
+      "message": "\ud83d\udcb0 SWAP DETECTED\nWallet: Dev wallet 1 (5CEb...SPAG)\nSwapped: 0.1177 SOL (~$8.57) -> STONK\nTrade size: ~$8.57\nBought token: STONK (STONK)\nCA: 6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx\nhttps://solscan.io/tx/4RrYY4RuGRCqzHB2XvxuMB5eU4kiDbHsSCA2vM4eAxPAsCCpj6JdbCoJc3qVR7o2noijFgEgXDwVu7NyDZEFrKN"
+    },
     {
       "ts": 1795734011,
       "type": "outcome",
@@ -312,41 +347,6 @@
       "ts": 1795552957,
       "type": "outcome",
       "message": "\ud83d\udd34 BERTCOIN (BTC) is dropping fast \u2014 down 100%, may be rugging."
-    },
-    {
-      "ts": 1795552956,
-      "type": "outcome",
-      "message": "\ud83d\udd34 Satoshi  \u7279\u65af\u62c9 (Tesla Coin) is dropping fast \u2014 down 100%, may be rugging."
-    },
-    {
-      "ts": 1795552956,
-      "type": "outcome",
-      "message": "\ud83d\udd34 Satoshi  \u7279\u65af\u62c9 (Tesla Coin) is dropping fast \u2014 down 100%, may be rugging."
-    },
-    {
-      "ts": 1795552955,
-      "type": "outcome",
-      "message": "\ud83d\udfe0 The Black Bull (ANSEM) is fading \u2014 down 35% so far."
-    },
-    {
-      "ts": 1795552954,
-      "type": "outcome",
-      "message": "\ud83d\udfe0 The Black Bull (ANSEM) is fading \u2014 down 35% so far."
-    },
-    {
-      "ts": 1795552954,
-      "type": "outcome",
-      "message": "\ud83d\udd34 \u82f1\u4f1f\u8fbe (\u82f1\u4f1f\u8fbe) is dropping fast \u2014 down 100%, may be rugging."
-    },
-    {
-      "ts": 1795552953,
-      "type": "outcome",
-      "message": "\ud83d\udd34 \u82f1\u4f1f\u8fbe (\u82f1\u4f1f\u8fbe) is dropping fast \u2014 down 100%, may be rugging."
-    },
-    {
-      "ts": 1795552953,
-      "type": "outcome",
-      "message": "\ud83d\udfe2 Bobcat (BOBCAT) did really well \u2014 liquidity up 87% after 24h!"
     }
   ]
 }
