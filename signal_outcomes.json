@@ -1,38 +1,4 @@
 {
-  "2cXNiZZ6eXXZXG9ALei6nPnjS211vpAjhQjzYgiFPraJ": {
-    "name": "Anthropic Inu",
-    "symbol": "AI",
-    "flagged_ts": 1795180878,
-    "liquidity_at_flag": 21377.845431348116,
-    "breakdown": {
-      "MOMENTUM": 100,
-      "SAFETY": 60,
-      "LIQUIDITY": 100,
-      "SMART MONEY": 0
-    },
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
-  "Hm9Jp2DE96FWCJSvRe2AbEE6wZ1EVjdFFCZMvDVfpump": {
-    "name": "A Mario Cat",
-    "symbol": "AMC",
-    "flagged_ts": 1795180879,
-    "liquidity_at_flag": 34396.84241543108,
-    "breakdown": {
-      "MOMENTUM": 100,
-      "SAFETY": 75,
-      "LIQUIDITY": 100,
-      "SMART MONEY": 0
-    },
-    "checkpoints_done": [
-      "60m",
-      "240m",
-      "1440m"
-    ]
-  },
   "7DGRQuFQ2Bgx6SCtYbf85vpBgbSHceKKxjgngo3Yj9HX": {
     "name": "Anthropic",
     "symbol": "ANT",
@@ -947,7 +913,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "5yi5i8tKGzGZS1CnEedRag27wN1J9GRNHXtCCUr9pump": {
@@ -963,7 +930,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "8VNnCedKixMh5TsYzHMy88ZUoTeKJm59kfd2eSD5Ku7P": {
@@ -979,7 +947,8 @@
     },
     "checkpoints_done": [
       "60m",
-      "240m"
+      "240m",
+      "1440m"
     ]
   },
   "3gHUaeLdijtDz2YSi7wqBFNU9hP6Hkn5WMVAgBKycXtu": {
@@ -1009,7 +978,10 @@
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
-    "checkpoints_done": []
+    "checkpoints_done": [
+      "60m",
+      "240m"
+    ]
   },
   "4szpC6VF7muZ5rjgxxAjV6r3hQb4BgHPAcJbykjsUGfp": {
     "name": "Happy Thanksgiving",
@@ -1019,6 +991,48 @@
     "breakdown": {
       "MOMENTUM": 95,
       "SAFETY": 60,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": [
+      "60m",
+      "240m"
+    ]
+  },
+  "GXpQZkap4ExgQTTX4SXfETV7nt1YZKEZSakqos3hpump": {
+    "name": "Tworbit",
+    "symbol": "TWORBIT",
+    "flagged_ts": 1795789919,
+    "liquidity_at_flag": 53827.58228116512,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 100,
+      "LIQUIDITY": 100,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "FjfhXHU7f4ZY1u8G2MUvYJZCoNBEXarAK8mJhHx5pump": {
+    "name": "Fullport",
+    "symbol": "FULLPORT",
+    "flagged_ts": 1795789920,
+    "liquidity_at_flag": 17633.11850125982,
+    "breakdown": {
+      "MOMENTUM": 100,
+      "SAFETY": 90,
+      "LIQUIDITY": 88,
+      "SMART MONEY": 0
+    },
+    "checkpoints_done": []
+  },
+  "3FYTVzMji7cN2gARmmFoxFVmEJ6zaz7fwZFMUzdHpump": {
+    "name": "Snowbally",
+    "symbol": "SNOWBALLY",
+    "flagged_ts": 1795789920,
+    "liquidity_at_flag": 21365.940398327155,
+    "breakdown": {
+      "MOMENTUM": 73,
+      "SAFETY": 90,
       "LIQUIDITY": 100,
       "SMART MONEY": 0
     },
